@@ -15,9 +15,76 @@
 html{
     font-size: 62.5%;
 }
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* End Of Common Styles */
 
-/* Page Background */
+/* Mouse Circle */
+.mouseCircle,
+.mouseDot{
+    border-radius: 50%;
+    position: fixed;
+    z-index: 300;
+}
+.mouseCircle{
+    width: 6rem;
+    height: 6rem;
+    transform: translateX(-50%) translateY(-50%);
+    border: 0.1rem solid #c7a622;
+    animation: mouseCircleAnim 10s 
+    infinite linear;
+
+}
+@keyframes mouseCircleAnim{
+    0%{
+        width: 6rem;
+        height: 6rem;
+    }
+    25%{
+        width: 8rem;
+        height: 8rem;
+    }
+    35%{
+        width: 4rem;
+        height: 4rem;
+    }
+    70%{
+        width: 8rem;
+        height: 8rem;
+    }
+    100%{
+        width: 6rem;
+        height: 6rem;
+    }
+}
+
+.mouseDot{
+    width: 0.5rem;
+    height: 0.5rem;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #9b0e0e;
+    animation: mouseDotAnim 10s
+    infinite linear;
+}
+@keyframes mouseDotAnim{
+    0%{
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+    55%{
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+    100%{
+        width: 0.5rem;
+        height: 0.5rem;
+    }
+}
+/* End Of Mouse Circle */
+
 .page-Background{
     position: fixed;
     width: 100%;
@@ -25,4 +92,26 @@ html{
     background: no-repeat center linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(images/background.png);
     background-size: cover;
 }
-/* End Of Page Background */
+
+.sectionOne{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.logo{
+    position: absolute;
+    top: 2rem;
+    left: 5rem;
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: #000000 ;
+}
+
+.mainCircle{
+    width: 65rem;
+    height: 65rem;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+}
