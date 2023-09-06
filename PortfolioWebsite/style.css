@@ -19,6 +19,11 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+.centerText{
+    position: relative;
+    margin-top: 100px;
 }
 /* End Of Common Styles */
 
@@ -28,11 +33,12 @@ html{
     border-radius: 50%;
     position: fixed;
     z-index: 300;
+    transform: translateX(-50%) translateY(-50%);
+    pointer-events: none;
 }
 .mouseCircle{
     width: 6rem;
     height: 6rem;
-    transform: translateX(-50%) translateY(-50%);
     border: 0.1rem solid #c7a622;
     animation: mouseCircleAnim 10s 
     infinite linear;
@@ -64,7 +70,6 @@ html{
 .mouseDot{
     width: 0.5rem;
     height: 0.5rem;
-    transform: translateX(-50%) translateY(-50%);
     background-color: #9b0e0e;
     animation: mouseDotAnim 10s
     infinite linear;
@@ -108,10 +113,137 @@ html{
     color: #000000 ;
 }
 
+.circles{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.circle{
+    width: 22rem;
+    height: 22rem;
+    border-radius: 50%;
+    background-color: #9b0e0e;
+    align-self: center;
+    justify-self: center;
+    background-size: cover;
+    background-clip: content-box;
+    opacity: .7;
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: left 4s, top 4s;
+}
+
+.circleOne{
+    /* background: url() center no-repeat */
+    border: 0.5rem dashed #112d7c;
+}
+.circleTwo{
+    border: 0.5rem dashed #112d7c;
+}
+.circleThree{
+    border: 1rem double #112d7c;
+}
+.circleFour{
+    border: 1rem double #112d7c;
+}
+
 .mainCircle{
-    width: 65rem;
-    height: 65rem;
+    width: 55rem;
+    height: 55rem;
     position: absolute;
     overflow: hidden;
     border-radius: 50%;
+}
+
+.mainCircle:hover {
+    width: 75rem;
+    height: 75rem;
+    transition: width .2s, height .2s;
+}
+
+.mainCircle img{
+    position: relative;
+    transition: left 4s, top 4s;
+    top: 0;
+    left: 0;
+}
+
+.featuredText{
+    font-size: 2rem;
+    color: black;
+    text-transform: uppercase;
+    width: 0;
+    word-wrap: break-word;
+    line-height: 3;
+    position: sticky;
+    top: 0;
+}
+.featuredTextOne{
+    margin: 0 auto 0 10rem;
+}
+.featuredTextTwo{
+    margin: 0 10rem 0 auto;
+}
+
+.projectBtn
+{
+    position: absolute;
+    bottom: 3rem;
+    width: 13rem;
+    height: 13rem;
+    background-color: #9b0e0e;
+    border-radius: 50%;
+    border: 0.2rem dotted #fff;
+    padding: 0.1rem;
+}
+
+.projectBtnContent
+{
+    width: 100%;
+    height: 100%;
+    border: 0.2rem dotted #e7be08;
+    border-radius: 50%;
+    transform: rotate(45deg);
+}
+
+.projectBtnLine
+{
+    position: absolute;
+    top: 4rem;
+    width: 3rem;
+    height: 0.5rem;
+    border: 0.1rem solid white;
+}
+
+.projectBtnLine:nth-child(1){
+    transform: rotateZ(-45deg) translateX(-.65rem);
+    transform-origin: left center;
+    border-right: none;
+}
+
+.projectBtnLine:nth-child(2){
+    transform: rotateZ(45deg)translateX(.65rem);
+    transform-origin: right center;
+    border-left: none;
+}
+
+.projectBtnLine:nth-child(3){
+    transform: rotateZ(90deg)translateX(.5rem);
+    border-left: none;
+}
+
+.projectBtn span{
+    position: absolute;
+    bottom: 3rem;
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-transform: uppercase ;
 }
