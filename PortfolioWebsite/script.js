@@ -64,10 +64,10 @@ document.body.addEventListener('mouseleave', () => {
     mouseCursorDot.style.opacity = '0';
 })
 
-const projectBtn = document.querySelectorAll(".projectBtn");
+const navBtn = document.querySelectorAll(".navBtn");
 
 let ripple;
-projectBtn.forEach(btn => {
+navBtn.forEach(btn => {
     btn.addEventListener("mouseenter", (e) =>{
         const left = e.clientX - e.target.getBoundingClientRect().left;
         
@@ -79,9 +79,45 @@ projectBtn.forEach(btn => {
         ripple.style.top = `${top}px`;
         btn.prepend(ripple);
         });
-        
         btn.addEventListener('mouseleave', () => {
-            btn.removeChild(ripple);
+        btn.removeChild(ripple);
         });
 });
 
+const aboutMeText = document.querySelector(".aboutMeText");
+const aboutMeTextContent = "Hello and welcome to my Porfolio website that I have made using HTML, CSS and Java. \nThis Website showcases my projects that I have done, Links to my GitHub profile and allows you to contact me.";
+
+Array.from(aboutMeTextContent).forEach(char => 
+    {
+        const span = document.createElement('span');
+        span.textContent = char;
+        aboutMeText.appendChild(span);
+    });
+
+    const container = document.querySelector('.container');
+const projects = document.querySelectorAll(".project");
+
+projects.forEach(project =>{
+    project.addEventListener('mouseenter', () =>
+    {
+        project.firstElementChild.style.top = `-${project.firstElementChild.offsetheight - project.offsetheight + 20}px`;
+    });
+
+    project.addEventListener('mouseleave', () =>
+    {
+        project.firstElementChild.style.top = "2rem";
+    });
+
+    project.addEventListener('click', () =>
+    {
+        const bigImgWrapper = document.createElement('div');
+        bigImgWrapper.className = 'projectImgWrapper';
+        container.appendChild(bigImgWrapper);
+
+        const bigImg = document.createElement("img");
+        bigImg.className = "projectImg";
+        const imgPath = project.children[1].getAttribute("src"); //First child is title so need to select 2nd one
+        bigImg.setAttribute("src", `${imgPath}`);
+        bigImgWrapper.appendChild(bigImg);
+    })
+})
