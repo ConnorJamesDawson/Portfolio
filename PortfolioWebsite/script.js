@@ -94,10 +94,11 @@ Array.from(aboutMeTextContent).forEach(char =>
         aboutMeText.appendChild(span);
     });
 
-    const container = document.querySelector('.container');
+const container = document.querySelector('.container');
 const projects = document.querySelectorAll(".project");
+const projectHideBtn = document.querySelector(".projectHideBtn");
 
-projects.forEach(project =>{
+projects.forEach((project, i) =>{
     project.addEventListener('mouseenter', () =>
     {
         project.firstElementChild.style.top = `-${project.firstElementChild.offsetheight - project.offsetheight + 20}px`;
@@ -119,5 +120,74 @@ projects.forEach(project =>{
         const imgPath = project.children[1].getAttribute("src"); //First child is title so need to select 2nd one
         bigImg.setAttribute("src", `${imgPath}`);
         bigImgWrapper.appendChild(bigImg);
-    })
-})
+        document.body.style.overflowY = "hidden";
+
+        projectHideBtn.classList.add("change");
+
+        projectHideBtn.onclick = () => {
+            projectHideBtn.classList.remove("change");
+            bigImgWrapper.remove();
+            document.body.style.overflowY = "scroll";
+        }
+    });
+
+    i >= 3 && (project.style.cssText = "display: none; opacity: 0");
+    
+});
+const sectionThree = document.querySelector(".sectionThree");
+const projectsBtn = document.querySelector(".projectsBtn");
+const projectsBtnText = document.querySelector(".projectsBtn span");
+
+let showHide = true;
+
+const showProjects = (project, i) =>
+{
+    setTimeout(() => 
+    {
+        project.style.display = "flex";
+        sectionThree.scrollIntoView({block: "end"})
+    }, 600);
+
+    setTimeout(() => {
+        project.style.opacity = "1";
+    }, i * 200);
+};
+
+const hideProjects = (project, i) =>
+{
+    setTimeout(() =>{
+        project.style.display = "none";
+        sectionThree.scrollIntoView({block: "end"})
+    }, 1200);
+
+    setTimeout(() => {
+        project.style.opacity = "0";
+    }, i * 100);
+};
+
+projectsBtn.addEventListener("click", (e) =>{
+    e.preventDefault();
+
+    projectsBtn.firstElementChild.nextElementSibling.classList.toggle("change");
+
+    showHide ? (projectsBtnText.textContent = "Show Less") : (projectsBtnText.textContent = "Show More");
+
+    projects.forEach((project, i) =>
+    {
+        i >= 3 && (showHide ? showProjects(project, i) : hideProjects(project, i));
+    });
+
+    showHide = !showHide;
+});
+
+document.querySelectorAll(".serviceBtn").forEach((service)=>{
+    service.addEventListener('click', (e) => {
+        e.preventDefault();
+
+        const serviceText = service.nextElementSibling;
+        serviceText.classList.toggle("change");
+
+        const rightPosition = serviceText.classList.contains("change") ? `calc(100% - ${getComputedStyle(service.firstElementChild).width})` : 0;
+        service.firstElementChild.style.right = rightPosition;
+    });
+});
