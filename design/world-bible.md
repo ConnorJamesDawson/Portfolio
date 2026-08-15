@@ -41,6 +41,11 @@ Fixed points the story must not contradict.
    Kimimaro alone survives, is imprisoned, and is collected by Orochimaru.
 7. Orochimaru harvests orphaned kekkei genkai children from atrocities
    (Kimimaro, Jūgo) and treats them as vessels.
+8. **Haku is Yuki clan.** His mother hid her Ice Release and lived as a civilian
+   because of this same persecution. Same country, same purge, same decade as
+   the MC.
+9. **Kubikiribōchō stays beside Zabuza's grave** until Suigetsu Hōzuki retrieves
+   it three years later. The MC must not take it.
 
 ### Dramatic irony
 
@@ -197,6 +202,75 @@ this war, so this is pre-village Orochimaru — the operation, not the place.)
 
 ---
 
+## The MC as a fighter
+
+Self-taught, with no one to correct him. He didn't develop *incorrect* Crystal
+Release — he developed **workshop** Crystal Release.
+
+- **Fluent at:** structures, barriers, traps, precision growth, sealed work,
+  anything set up in advance.
+- **Hopeless at:** speed, clones, armour, anything reactive — everything Guren
+  does effortlessly.
+
+**He is a fortifier, not a duelist.** He wins fights by having been somewhere
+first and loses every fight he didn't choose. This is a childhood spent at a
+bench instead of a training ground, and it is the honest reason he cannot trade
+blows with Team 7 in Act 4 — a discipline mismatch, not a power-level fudge.
+
+It also loads Guren: she is the only living person who could correct him, and
+she can see he is self-taught in ten seconds. Orochimaru's temptation stops
+being abstract and becomes *someone can finally teach you*.
+
+## World structure
+
+Continuous map, Fable × Witcher 3. Note that both references achieve their
+continuity through **local seamlessness plus regional identity** rather than one
+unbroken landmass — that is the technique to copy.
+
+**Gating is diegetic, via the bingo book.** His notoriety is a number that rises.
+Regions never lock; they get more dangerous. Walk into the Land of Lightning too
+early and it kills you. This keeps the hunted-man tension alive after the map
+opens, and it is how the setting already works.
+
+### The work economy
+
+Each village offers all three tiers. What changes across the game is which ones
+he takes — the player watches themselves stop picking tier one, and no morality
+meter is required.
+
+1. **Fabrication** — growing and cutting sealed crystal, repairs. Honest craft,
+   costs him nothing.
+2. **Courier and dead drops** — he is unusually good at this, because Kohaku
+   taught him the code as a game. He survives on a skill she gave him without
+   telling him what it was for.
+3. **Contracts** — the ugly work.
+
+### Training
+
+No academy will take a missing-nin. **He can only learn from people who also
+fell** — disgraced jōnin, retired mercenaries, deserters, drunks with one good
+technique left. Every teacher is a preview of what he might become.
+
+Training costs money; money comes from work; work gets uglier. **Every point of
+power is purchased with a compromise**, which makes progression literally the
+theme rather than a metaphor for it.
+
+### The scroll
+
+The Ruri combat scroll — *when you graduate* — was in the compound when it was
+sacked. Sacked compounds get looted; looted things get sold. It exists,
+somewhere, on a collector's shelf, and it is findable.
+
+A long, cold, optional trail across the whole map. Off the main path. This is
+the thread that justifies a continuous world.
+
+When he gets it, the inheritance he was promised arrives at last — off a
+stranger's shelf, bought with money earned doing things his father wouldn't
+recognise, a decade after the man who was meant to hand it over died.
+
+**Pairs against the ending:** he reclaims the inheritance that was his and walks
+away from the one that wasn't.
+
 ## Themes
 
 - **Complicity before victimhood.** The Ruri are protected because they arm the
@@ -209,6 +283,24 @@ this war, so this is pre-village Orochimaru — the operation, not the place.)
   documented status with bingo-book entries and hunters, not freedom.
 - **Was she right?** Kohaku ran a justified resistance. It got her family killed.
   Never resolve it.
+- **Explore, Live, Learn.** The Academy's world-history lessons were propaganda,
+  so exploration is *deprogramming*: each region personally falsifies a lesson he
+  was taught by someone he trusted. The most boring part of Act 1 — sitting in a
+  classroom — is secretly the game's structural spine.
+
+### Deployed, not deserting
+
+He is told the missing-nin listing is a cover, as part of his briefing. **The
+listing is also real** — the regime doesn't know it's staged, so the bingo book
+entry and the hunters sent after him are genuine. He is hunted for a defection
+that was authorised, by a childhood friend who believes the record.
+
+### Haku is the mirror
+
+The thematic climax of the game is a conversation, not a fight. Haku is the MC
+with one variable changed: he knew he was being used, and consented, and calls it
+enough. The MC cannot refute that, because the person who used him chose it too
+and he still can't say she was wrong. See `act-4.md` beat 8.
 
 ---
 
