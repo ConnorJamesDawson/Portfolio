@@ -160,9 +160,12 @@ the most common covert medium in the country, and her family makes it.
 Act 1 unsure whether she was *right*, not whether she was lying.
 
 ### The uncle — purity faction
-Argues the clan should have kept the blood pure. Survives the Act 1 ambush.
-Becomes the recipient of the money the MC sends home from abroad: obligation
-without affection, and the only Ruri left besides the MC.
+Argues the clan should have kept the blood pure — the regime's own essentialist
+logic, spoken at the MC's kitchen table. Dies with the rest.
+
+**No Ruri survives Act 1 except the MC.** Having no one is what drives him out of
+the country; a surviving relative would give him a reason to stay and would
+soften the isolation the whole of Act 2 runs on.
 
 ### The friend who stays
 An Academy classmate. Decent, frightened, has family. Tells the MC to keep his

@@ -164,10 +164,10 @@ The executioner dies.
 The insurgents were already in the crowd, waiting on a signal that had not come.
 He forces their hand. It goes badly.
 
-**Kohaku dies in the crossfire he started.** So does one other Ruri. The uncle
-lives.
+**Kohaku dies in the crossfire he started.** The remaining Ruri on the scaffold
+die with her, in the fighting or under the executioner's replacement.
 
-He killed his sister trying to save her.
+He killed his sister trying to save her, and he is the last of his clan.
 
 **24. Extraction.**
 He is dragged out — not rescued, *taken*, by people who have just paid for him in
