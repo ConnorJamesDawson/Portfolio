@@ -1,136 +1,202 @@
 # Act 4 — The Guest
 
-**Partial draft.** The spine is settled; the act's emotional peak is not. See
-the open questions.
+First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
 **Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
-**Opens:** the gate. **Closes:** a choice about where he lives.
+**Opens:** the amnesty hearing. **Closes:** a choice about what he is.
 
-**Function of the act:** the war he has funded for five years ends while he is in
-another country's custody, and every thread in the game closes through
-paperwork rather than through him.
+**Function of the act:** he buys his life in a new country on the exact terms
+that kept his family alive in the old one, breaks those terms, and has to decide
+what he wants to be when he's caught.
 
-**Canon note:** the exact end of the Kiri civil war is *not* pinned down. Kiri
-sat out the Part I Chūnin Exams; Yagura died when Ao dispelled Obito's genjutsu,
-the prolonged control having already damaged him fatally; Mei is Mizukage by the
-Five Kage Summit in Part II. That leaves a window of several years that no source
-narrows, and this act sits inside it. Do not state a date.
-
----
-
-## Part A — Custody
-
-**1. The gate.**
-Kakashi delivers him and it stops being Kakashi's business. He was honest about
-that on the bridge and he meant it.
-
-**2. Debriefing.**
-He tells the truth: he was deployed, the desertion was a cover, the rebellion
-listed him themselves. It sounds exactly like what a deserter would say — because
-the cover was built to be airtight, and it was built against people much less
-careful than these.
-
-Everyone who could confirm it is dead. The organisation that issued it has spent
-five years denying he exists, as instructed.
-
-**3. Guest.**
-Not a prisoner and not free. A room, a stipend, a minder, no headband, and no
-stated end date. Konoha is being decent to him and also not letting him leave,
-and both of those are true at once.
-
-**4. The second interviewer.**
-Someone else asks questions in a different register — less about Kiri, more about
-the bloodline. What it can do. Whether it breeds true. Never threatening, never
-named. **Danzō** is a pressure in this act, not a character with a nameplate.
-
-He escaped one state that wanted to use his blood and walked into another one's
-interest. The point is not that Konoha equals Kiri — it manifestly doesn't. The
-point is that there is no clean place and he has to pick one anyway.
-
-**5. Naruto.**
-The only person in the village who treats him as a person rather than an asset,
-because he is the only other person there who knows what it is to be the thing
-everyone quietly watches. Not a friendship arc — a handful of scenes, no
-speeches.
+**Canon note — do not state a date.** The exact end of the Kiri civil war is not
+pinned down. Kiri sat out the Part I Chūnin Exams; Yagura died when Ao dispelled
+Obito's genjutsu, the prolonged control having already damaged him fatally; Mei
+is Mizukage by the Five Kage Summit in Part II. That leaves a multi-year window
+no source narrows, and this act sits inside it.
 
 ---
 
-## Part B — The News
+## Part A — Hiruzen
 
-**6. Rumour.**
-Ao's discovery — that the Mizukage was under someone else's control the entire
-time — reaches him third-hand through Konoha's intelligence summaries.
+**1. Amnesty.**
+Konoha operates a defection route: a missing-nin may turn himself in if he brings
+something the village wants. This is an institution, not a kindness, and it is
+why he gets in at all.
 
-He has hated Yagura for eleven years. **The player has known since Act 1.** This
-is where the dramatic irony finally lands on the character, and it does not land
-as a twist. It lands as a bereavement: the revenge he organised his life around
-was pointed at a hostage.
+**His ticket is the crystal.** Not his story, not Kakashi's word, not Naruto
+arguing on a bridge. An asset assessment.
 
-**7. The war turns, in bullet points.**
-He follows the most important events of his life as briefing summaries read out
-by a clerk who has no idea he's in the room for a reason.
+**2. The terms.**
+Hiruzen Sarutobi grants it with conditions, and the conditions are *reasonable* —
+this is a foreign missing-nin with a rare kekkei genkai and an unverifiable
+account of himself:
 
-**8. It ends.**
-Yagura dies. Mei Terumī becomes Fifth Mizukage. The purges stop.
+- **No combat practice. At all.**
+- Monitored movement, a minder, no headband.
+- **Every piece he makes is audited.**
+- His residency is conditional on **meeting a quota**.
 
-Nothing he did appears anywhere in the account. The money arrived, was spent, and
-is indistinguishable from all the other money.
+**3. The bargain, again.**
+The Ruri were kept alive because they were productive. He has crossed the world
+and bought his life on identical terms, and this time he signed it himself.
 
-**9. Reform.**
-Kiri undoes the Bloody Mist. Over about eighteen months it becomes a normal
-country that is publicly sorry — and the apology is sincere, which is worse than
-if it weren't.
+Nobody here is being cruel. That is what makes it land.
 
-**10. The ledger.**
-Reparations require lists. Somewhere in the new administration's records the Ruri
-are entered as **extinct**, and the entry is correct.
+**The audit is the third inventory.** Act 1: officials counting Ruri output. Act
+2: the bingo book pricing his head. Here: a clerk weighing his monthly quota.
+Three institutions, three ledgers, the same flat handwriting, his whole life.
 
-Bookends the Act 1 inventory: the same instrument, the same clerks, the same flat
-handwriting, closing the file it opened.
+**4. Too visible to take.**
+The bloodline is rare enough that he is watched at the Hokage's own direction —
+which is precisely why **Danzō cannot quietly acquire him.** Root works in
+shadow; a high-profile asset under the Third's personal attention is the one
+thing it can't reach for.
+
+His safety is a side effect of his surveillance. Hold that thought for Part B.
+
+**5. The library.**
+The payoff for a trait that must be planted in Acts 1 and 2: he is obsessed with
+chakra theory, because he spent five years reconstructing it from scraps, rumour,
+and whatever his paid teachers happened to know.
+
+He walks into a **public reading room where children are doing their homework**,
+and it is the single most overwhelming moment of his life. More is freely
+available on one shelf here than he assembled in half a decade.
+
+**6. The hospital.**
+Work, for money against the quota. And the beginning of the real thread.
+
+**7. Healing, and why.**
+He experiments with the bloodline in secret because he cannot stop — and the
+experiments injure him, as they have since he was twelve. So he learns to repair
+the damage.
+
+**The medicine is how he hides the evidence.** He is in continuous violation of
+the only terms under which he is permitted to exist in this village, and he has
+taught himself to erase the proof off his own body.
+
+Third payoff of Act 1 beat 22: the bloodline has been tearing his hands open
+since he was a child, and he is finally good enough at hurting himself to mend
+it afterwards.
+
+**On plausibility.** Medical ninjutsu demands very advanced chakra control plus
+real knowledge of anatomy, herbs and poisons — it is classed with genjutsu as
+"Intellectual Ninjutsu," and Sakura trained under Tsunade for years.
+
+He has the hard half already: artisan crystal growth is sustained precision
+chakra control, and he has had it since he was seven. **But the hospital must be
+the teacher, not the library** — supervised work is where he actually learns.
+
+The irony is the point: Konoha forbids him combat training and cheerfully teaches
+him medicine, and the medicine is what makes the secret combat training
+survivable. Their own decency is the hole in their own restriction.
+
+**8. Naruto.**
+A handful of scenes, no speeches. The only person in the village who treats him
+as a person rather than an asset, because he is the only other person there who
+knows what it is to be the thing everyone quietly watches.
 
 ---
 
-## Part C — What's Left
+## Part B — The Interregnum
 
-**11. Guren, finally asking.**
-She can reach him even here. The war is over, the purpose is gone, and the only
-living person who could teach him properly makes the offer at last — at the exact
-moment he has nothing to refuse it with.
+**9. The Third dies.**
+The Konoha Crush. Hiruzen kills himself sealing Orochimaru's arms.
 
-He was warned about this in Act 2 beat 4, by an organisation that then lied to
-him by omission for five years.
+The Hokage who granted the amnesty, set the terms, and made him too visible to
+take is dead within months of his arrival.
 
-**12. The pardon.**
-A clerk in the new Kiri administration finds the file, confirms the cover, and
-stamps it. He is formally exonerated of a crime he was ordered to commit, by a
+**10. Exposed.**
+His file is now just a file. The village is reeling and nobody senior is thinking
+about a foreign artisan's paperwork. The protection was never a policy — it was
+one old man's attention.
+
+And he is, at this exact moment, **in violation of his amnesty**.
+
+**11. Pressure.**
+Danzō was in contention for the succession and this is when Root's interest
+sharpens. *(Kept as pressure rather than an appointment — I could not confirm an
+interim Hokage term, so don't assert one.)*
+
+What Danzō wants is a weapon. What the MC is quietly becoming is a medic. That
+mismatch is his only defence and he doesn't know it yet.
+
+**12. Guren.**
+She can reach him even here. The offer at last, at the moment he has least to
+refuse it with — and it is the same offer Danzō is circling, in a kinder accent.
+
+He was warned in Act 2 beat 4, by an organisation that then denied his existence
+for five years.
+
+---
+
+## Part C — Tsunade
+
+**13. The Fifth.**
+Tsunade is inaugurated — the greatest medical ninja alive, and the one person in
+the world who would identify self-taught medical ninjutsu on sight.
+
+His entire secret is medical. She inherits the decision about him.
+
+**14. Caught.**
+The act's climax. However it happens — an injury he can't hide, an audit that
+doesn't add up, a colleague who notices — the violation surfaces, and it surfaces
+to someone qualified to understand exactly what he's been doing to himself.
+
+Konoha was decent to him. He betrayed it anyway, because he could not stop being
+what Kiri made him.
+
+**15. The news.**
+Somewhere in here, through intelligence summaries read out by a clerk with no
+idea he's in the room for a reason:
+
+- **Ao's discovery.** The Mizukage was under someone else's control the entire
+  time. The player has known since Act 1; this is where it lands on the
+  character, and it lands as bereavement, not as a twist. The revenge he
+  organised his life around was aimed at a hostage.
+- **Yagura dies. Mei Terumī becomes Fifth Mizukage. The purges stop.**
+- Nothing he did appears anywhere in the account. The money arrived, was spent,
+  and is indistinguishable from all the other money.
+
+**16. The ledger.**
+Kiri reforms and reparations require lists. Somewhere in the new administration's
+records the Ruri are entered as **extinct**, and the entry is correct.
+
+Bookends the Act 1 inventory: same instrument, same clerks, closing the file it
+opened.
+
+**17. The pardon.**
+A clerk in the new Kiri administration finds his file, confirms the cover, and
+stamps it. Formally exonerated of a crime he was ordered to commit, by a
 government that no longer resembles the one that ordered it, on the word of
 records nobody thought to destroy.
 
-Act 1 opened with paperwork that killed his family. This closes it. Neither is
-remotely satisfying, and that is the point.
+**18. The choice.**
+Kiri is safe now, and empty. Konoha has caught him and has to decide what he is.
+Guren's offer is still open. Root is still interested.
 
-**13. The choice.**
-Kiri is safe now. It is also where everyone he loved died, and he has no one
-there, and the woman who won his war has never heard of him.
+**He doesn't take a headband. He takes a hospital post.**
 
-Go home, stay, or leave again.
+Act 1 he was a craftsman. Act 2 he butchered the craft into a weapon. Here he
+turns the weapon back into a craft — and this time he chooses it rather than
+inheriting it.
+
+It is the only thing in this design he actually wins, and it is small enough to
+believe.
 
 ---
 
 ## Open questions
 
-- **Which beat is the act's peak?** With the Haku conversation now in Act 3, this
-  act is falling action and needs one. Candidates: Guren's offer (11), Danzō's
-  interest resolving (4), or the pardon (12). Currently none of them is written
-  as the summit and the act will trail off until one is.
-- **Does he meet Mei?** He funded her war for five years from three countries
-  away and she has no idea he exists. Per the instrumental-not-decisive rule the
-  strongest version is that he *could* claim it and doesn't — but a version where
-  they never meet at all may be stronger still.
-- **Does he take a headband?** Becoming a Konoha shinobi is the obvious ending
-  and possibly the wrong one. He has spent the whole game being owned by
-  institutions.
+- **How he gets caught** in beat 14 — injury, audit, or witness. Each implicates
+  a different person and changes who has to decide about him.
+- **Does Tsunade take him on?** Teaching him properly is the warm ending;
+  permitting him without teaching him is the colder and probably better one.
+- **Does he meet Mei?** He funded her war for five years and she has no idea he
+  exists. Strongest version is that he could claim it and doesn't — or that they
+  never meet at all.
 - **Sequel hook.** This lands roughly two years before the Fourth Shinobi World
-  War. Whether to leave the door open or shut it.
-- **Where the scroll thread completes** — here or in Act 2. If it lands here, the
-  inheritance arrives after there is anyone left to have wanted it for.
+  War.
+- **Where the scroll thread completes** — here or in Act 2. Landing it here means
+  the inheritance arrives after there is anyone left to have wanted it for.

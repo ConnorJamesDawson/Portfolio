@@ -93,6 +93,16 @@ first and loses every fight he didn't choose. This is not a power-level fudge; i
 is a childhood spent at a bench instead of a training ground, and it holds all
 the way to the last scene of the game.
 
+**The theory obsession, running.** He is not only experimenting — he is trying to
+build a working model of chakra with no source material. He buys books he can
+barely afford, copies scrolls he isn't allowed to keep, and interrogates every
+teacher he pays for far more than he bought. Five years of reconstructing a
+discipline from scraps and secondhand rumour.
+
+This is what makes Act 4 beat 5 land, and it is why medical ninjutsu is
+reachable for him later: sustained precision chakra control plus an appetite for
+theory is exactly the profile the discipline demands.
+
 **10. The place he almost stays.**
 A village, a workshop, steady work, someone kind to him with no agenda. Months
 pass. He is nearly happy and he is nearly ordinary.

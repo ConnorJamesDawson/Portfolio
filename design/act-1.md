@@ -20,6 +20,12 @@ being grown in the next room. The MC's own ability established immediately:
 hollow, small, cloudy. He makes an earring — a gift for Kohaku. The praise he
 gets for it is half a beat too long.
 
+**Plant the theory obsession here.** He wants to know *why* crystal grows, not
+just how, and the adults answer him the way craftsmen answer children: *because
+that's how it's done.* Nobody in the compound can tell him more. This trait pays
+off across the whole game and detonates in Act 4 beat 5, and it has to exist from
+the first scene or it reads as retrofitted.
+
 **2. The scroll.**
 The family head keeps the combat techniques sealed. Shows it, does not open it.
 *When you graduate.* Kohaku has already learned them and won't teach him — same
