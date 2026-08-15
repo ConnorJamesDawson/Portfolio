@@ -180,6 +180,16 @@ month to a war he has not seen in three years.
 
 → **Act 3.**
 
+### Keeping the war alive
+
+The civil war does not end until Act 4, which means it runs as background for the
+whole of this act. If it is inert the whole time, the call home lands on nothing.
+
+Seed it at intervals: a rumour that the Mizukage is not himself, a rebel setback
+that makes his remittance matter, a courier who doesn't come back, news that the
+Kaguya-style reprisals have stopped or worsened. The war should be visibly moving
+while he is not in it.
+
 ---
 
 ## Open questions

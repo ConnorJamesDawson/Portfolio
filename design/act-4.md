@@ -1,166 +1,136 @@
-# Act 4 — The Bridge
+# Act 4 — The Guest
 
-First draft beat sheet. See `world-bible.md` for setting and canon anchors.
+**Partial draft.** The spine is settled; the act's emotional peak is not. See
+the open questions.
 
-**Span:** the Land of Waves arc, Part I. MC ~17.
-**Function of the act:** every thread closes, and none of them close the way he
-wanted. He is present for the most important events of his life and decisive in
-none of them.
+**Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
+**Opens:** the gate. **Closes:** a choice about where he lives.
 
-**Hard rule for this act:** it takes place inside the single most-loved arc in
-Part I. The audience has specific, strong, pre-existing feelings about exactly
-what happened on that bridge. **Nothing the MC does may change the outcome of
-anything.** His entire contribution is invisible to canon — no character's fate
-alters, no report mentions him, Kakashi's mission log is unchanged.
+**Function of the act:** the war he has funded for five years ends while he is in
+another country's custody, and every thread in the game closes through
+paperwork rather than through him.
 
----
-
-## Part A — Arrival
-
-**1. Weeks behind, again.**
-He has chased Zabuza's shadow across the map for years — always late, always
-hearing about him from clients and innkeepers, assembling a picture of the man
-who once told him to run. In the Land of Waves he finally isn't late.
-
-**2. Gatō's country.**
-A place being strangled economically rather than militarily. Relevant: he has
-spent Act 2 and 3 selling his craft in places like this, and he understands
-exactly what is being done here and to whom.
-
-**3. Zabuza.**
-They talk. Zabuza does not remember him — a kid pulled out of a street during a
-failed coup eleven years ago is not a memory, it's a Tuesday. The MC does not
-correct him.
-
-What he gets instead is a working missing-nin's account of the life he's been
-living: unsentimental, unromantic, and delivered by someone with no idea he's
-describing the listener.
-
-**4. The inheritance, mentioned casually.**
-Zabuza on the Seven Swordsmen: the blades are handed down, holder to holder.
-Nothing profound — a fact about his job.
-
-The MC, whose own inheritance was a sealed scroll behind the words *when you
-graduate*, hears the word **handed down** and wants it badly. Plant it here and
-do not touch it again until beat 12.
-
-**5. Haku.**
-First conversation. Warm, disarming, and quietly the most frightening person in
-the act. Both of them recognise the other's accent before either says anything.
-
-**6. Team 7.**
-Sighted, not met. Four Konoha shinobi, one of them a loud blond boy the MC has
-no reason to notice. He has been told his whole life what Konoha are. They do
-not look like it.
+**Canon note:** the exact end of the Kiri civil war is *not* pinned down. Kiri
+sat out the Part I Chūnin Exams; Yagura died when Ao dispelled Obito's genjutsu,
+the prolonged control having already damaged him fatally; Mei is Mizukage by the
+Five Kage Summit in Part II. That leaves a window of several years that no source
+narrows, and this act sits inside it. Do not state a date.
 
 ---
 
-## Part B — The Bridge
+## Part A — Custody
 
-**7. The battle.**
-The MC is on the **periphery**. He does not fight Team 7 — every outcome of that
-is bad. Performing well is wish-fulfilment; being flattened tells the player
-their entire run of growth was worthless.
+**1. The gate.**
+Kakashi delivers him and it stops being Kakashi's business. He was honest about
+that on the bridge and he meant it.
 
-**8. The conversation with Haku.**
-The thematic climax of the whole game.
+**2. Debriefing.**
+He tells the truth: he was deployed, the desertion was a cover, the rebellion
+listed him themselves. It sounds exactly like what a deserter would say — because
+the cover was built to be airtight, and it was built against people much less
+careful than these.
 
-Haku is Yuki clan — Ice Release, hidden from the same purge, the same country,
-the same decade. He is the MC with one variable changed:
+Everyone who could confirm it is dead. The organisation that issued it has spent
+five years denying he exists, as instructed.
 
-| | MC | Haku |
-|---|---|---|
-| Bloodline clan, Land of Water | ✓ | ✓ |
-| Orphaned by the purge | ✓ | ✓ |
-| Used by someone he loved | Kohaku | Zabuza |
-| **Knew** | No | **Yes** |
-| **Consented** | Never asked | **Chose it, and calls it enough** |
+**3. Guest.**
+Not a prisoner and not free. A room, a stipend, a minder, no headband, and no
+stated end date. Konoha is being decent to him and also not letting him leave,
+and both of those are true at once.
 
-The MC tries to talk him down. **The attempt fails, and must.** Standing down is
-the one thing Haku's identity cannot survive — being Zabuza's tool is the self he
-built to replace the one his father took. Asking him to stop is asking him to be
-an orphan again.
+**4. The second interviewer.**
+Someone else asks questions in a different register — less about Kiri, more about
+the bloodline. What it can do. Whether it breeds true. Never threatening, never
+named. **Danzō** is a pressure in this act, not a character with a nameplate.
 
-**The MC loses the argument.** He cannot refute *I chose this and it was enough*,
-because the person who used him chose it too, and he still cannot say she was
-wrong.
+He escaped one state that wanted to use his blood and walked into another one's
+interest. The point is not that Konoha equals Kiri — it manifestly doesn't. The
+point is that there is no clean place and he has to pick one anyway.
 
-**Player choice, real but non-branching.** He picks what to appeal to — *Zabuza
-wouldn't want this* / *you're a person, not a tool* / *I was used too, and I'm
-still angry* — and Haku has a different refusal for each. The outcome is fixed;
-what the MC learns about himself is not. This is a choice about characterisation,
-not plot, and it should be honest about that rather than pretending otherwise.
-
-**9. The shield.**
-His one use of the bloodline in the act: **defensive.** A barrier, a block,
-someone pulled out of the way. No win condition, no loss condition.
-
-This inverts Act 1 beat 22 exactly. The first time he used this power it was a
-spike, it killed a man, and it tore his hand open. The last time, it is a wall,
-it protects someone, and he chooses it.
-
-**10. Haku dies. Zabuza dies.**
-Exactly as written. The MC watches from the edge and changes nothing.
-
-**11. No hope.**
-The only living person who ever did him an unearned kindness is dead on a bridge
-in a country neither of them came from, and the boy who was his mirror died
-proving a point the MC cannot argue with.
+**5. Naruto.**
+The only person in the village who treats him as a person rather than an asset,
+because he is the only other person there who knows what it is to be the thing
+everyone quietly watches. Not a friendship arc — a handful of scenes, no
+speeches.
 
 ---
 
-## Part C — The Gate
+## Part B — The News
 
-**12. The sword.**
-Kubikiribōchō is left beside the grave. Nobody is watching.
+**6. Rumour.**
+Ao's discovery — that the Mizukage was under someone else's control the entire
+time — reaches him third-hand through Konoha's intelligence summaries.
 
-**He leaves it there.**
+He has hated Yagura for eleven years. **The player has known since Act 1.** This
+is where the dramatic irony finally lands on the character, and it does not land
+as a twist. It lands as a bereavement: the revenge he organised his life around
+was pointed at a hostage.
 
-Taking an inheritance he wasn't given is what the Ruri did every day of their
-protected lives, what Kiri made of him, and what Kohaku did to him. Walking away
-empty-handed is the one clean refusal available in a life that hasn't offered
-many.
+**7. The war turns, in bullet points.**
+He follows the most important events of his life as briefing summaries read out
+by a clerk who has no idea he's in the room for a reason.
 
-**Canon constraint:** the blade must stay. Suigetsu Hōzuki retrieves it from that
-grave three years later, and never knows anyone else stood there.
+**8. It ends.**
+Yagura dies. Mei Terumī becomes Fifth Mizukage. The purges stop.
 
-**Pairs with the scroll.** He reclaims the inheritance that was his and walks
-away from the one that wasn't. Two decisions about what he is entitled to, and he
-gets both right — which is about as much as this game can let him win.
+Nothing he did appears anywhere in the account. The money arrived, was spent, and
+is indistinguishable from all the other money.
 
-**13. Asking Kakashi.**
-Not a sob story refused by a hard man. **Kakashi genuinely cannot promise
-anything.** A foreign missing-nin with a rare kekkei genkai walking into Konoha
-is a diplomatic and intelligence event, not a jōnin's decision — and a bloodline
-orphan with no living family is precisely what Danzō collects.
+**9. Reform.**
+Kiri undoes the Bloody Mist. Over about eighteen months it becomes a normal
+country that is publicly sorry — and the apology is sincere, which is worse than
+if it weren't.
 
-Kakashi's answer: *I can get you to the gate. What happens after that isn't mine
-to give.*
+**10. The ledger.**
+Reparations require lists. Somewhere in the new administration's records the Ruri
+are entered as **extinct**, and the entry is correct.
 
-The "way of the swordsmen, handed down" line goes here — said to Kakashi as an
-explanation of what he **didn't** do.
+Bookends the Act 1 inventory: the same instrument, the same clerks, the same flat
+handwriting, closing the file it opened.
 
-**14. Naruto and Sakura.**
-They argue with their teacher on behalf of a stranger, against a real constraint
-rather than against Kakashi being cold. Entirely in character for both, and
-Kakashi conceding partially is entirely in character for him.
+---
 
-**15. Close.**
-He walks toward Konoha: a boy raised on Academy propaganda about a country that
-was soft and treacherous, going there to ask for shelter, because every single
-thing that room taught him turned out to be false.
+## Part C — What's Left
 
-*Explore, Live, Learn.* End of game.
+**11. Guren, finally asking.**
+She can reach him even here. The war is over, the purpose is gone, and the only
+living person who could teach him properly makes the offer at last — at the exact
+moment he has nothing to refuse it with.
+
+He was warned about this in Act 2 beat 4, by an organisation that then lied to
+him by omission for five years.
+
+**12. The pardon.**
+A clerk in the new Kiri administration finds the file, confirms the cover, and
+stamps it. He is formally exonerated of a crime he was ordered to commit, by a
+government that no longer resembles the one that ordered it, on the word of
+records nobody thought to destroy.
+
+Act 1 opened with paperwork that killed his family. This closes it. Neither is
+remotely satisfying, and that is the point.
+
+**13. The choice.**
+Kiri is safe now. It is also where everyone he loved died, and he has no one
+there, and the woman who won his war has never heard of him.
+
+Go home, stay, or leave again.
 
 ---
 
 ## Open questions
 
-- **Does he tell anyone who he is?** Currently: no. He gives Kakashi a name and
-  nothing else. The player carries the whole story into a scene where nobody in
-  it knows any of it.
-- **Sequel hook.** He arrives in Konoha roughly two years before the Fourth
-  Shinobi World War. Whether to leave a door open or close it hard.
-- **Does he ever learn what Kohaku was doing?** Still unresolved from Act 1, and
-  this is the last place it could land. Current position: he suspects and never
-  confirms, and Haku's *I chose it* is as close to an answer as he ever gets.
+- **Which beat is the act's peak?** With the Haku conversation now in Act 3, this
+  act is falling action and needs one. Candidates: Guren's offer (11), Danzō's
+  interest resolving (4), or the pardon (12). Currently none of them is written
+  as the summit and the act will trail off until one is.
+- **Does he meet Mei?** He funded her war for five years from three countries
+  away and she has no idea he exists. Per the instrumental-not-decisive rule the
+  strongest version is that he *could* claim it and doesn't — but a version where
+  they never meet at all may be stronger still.
+- **Does he take a headband?** Becoming a Konoha shinobi is the obvious ending
+  and possibly the wrong one. He has spent the whole game being owned by
+  institutions.
+- **Sequel hook.** This lands roughly two years before the Fourth Shinobi World
+  War. Whether to leave the door open or shut it.
+- **Where the scroll thread completes** — here or in Act 2. If it lands here, the
+  inheritance arrives after there is anyone left to have wanted it for.
