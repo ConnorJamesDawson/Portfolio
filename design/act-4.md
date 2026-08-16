@@ -4,6 +4,7 @@ First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
 **Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
 **Opens:** the amnesty hearing. **Closes:** owned, ranked, and free to move.
+**Act 4 is the midpoint of the game, not the end.** → `act-5.md`
 
 **Function of the act:** he stops being a weapon. Acts 1–3 take everything from
 him; this one is where he builds something and then survives learning that

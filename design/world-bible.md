@@ -190,15 +190,50 @@ Legible to the player, invisible to the character.
   only honest window is the aftermath, a boy the MC's age carried past in a box.
   No dialogue.
 
+### Guren — Ruri, renounced
+The sole Shōton user in the franchise, a marked vessel candidate of Orochimaru's,
+and canonically the commander of one of his bases.
+
+**She is a Ruri.** Shōton is a kekkei genkai, so two unrelated users in one small
+country is the less plausible option. Some of the family got out before the worst
+of it, and the purity faction speaks of them as cowards and traitors — the
+framing the MC grows up with in Act 1.
+
+**She renounced the name.** She left because the Ruri sat by: they took
+protection while other clans burned, they armed the hunters, and they never came
+for anyone. She was right, and the MC has spent four acts living with what that
+bargain cost.
+
+So she is **not a reunion and not somewhere to belong.** She is the family's
+accuser, and she has an argument he cannot answer.
+
+- **"He is the last" stays true to what he knows.** He believes it for four acts
+  and the isolation is real. Finding her is a reveal, not a retcon.
+- **Her birth name is a stone-name** (clan convention) that she buried. Using it
+  once would be the cruellest thing he ever does; knowing it and never saying it
+  is the version consistent with the rest of him.
+- **What she wants is not family.** The technique should outlive the people who
+  dishonoured it — preserving an art by discarding the bloodline that shamed it.
+  A coherent belief for someone working for a man who preserves techniques
+  exactly that way.
+
 ### Orochimaru
 The only faction that wants a hunted crystal-user alive is the one that wants
-him as a body. **Guren** — the sole Shōton user in the franchise, and a marked
-vessel candidate — works as the recruiter: she got out years earlier, took the
-offer, and wears it well. A tempter who is telling the truth.
+him as a body — and later, the only institution that would actually fund his
+research.
 
 Late irony to hold in reserve: the faction offering sanctuary is built around
 **sound**, the one thing that shatters crystal. (Otogakure's founding postdates
-this war, so this is pre-village Orochimaru — the operation, not the place.)
+the Kiri civil war, so the Act 2 approaches are pre-village Orochimaru — the
+operation, not the place.)
+
+### The pattern of the back half
+
+**Haku chose to be used. Guren chose to leave. The MC has never chosen anything**
+— used without being told, then deployed, then traded, then licensed. He loses an
+argument to each of them, because each picked a side and can defend it.
+
+Act 5 is where he finally has to pick one.
 
 ---
 
