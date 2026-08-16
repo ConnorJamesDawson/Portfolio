@@ -106,7 +106,7 @@ Jirō had the whole thing before the first hour.
 
 Jirō had four older siblings and a mother who worked in the laundry that did the
 barracks, and this made him, at nine, the best-informed person Sazare would know
-for another eleven years.
+for years to come.
 
 "It was a clan," he said. "It was a whole clan. They came in over the east wall in
 the night and they went straight up the hill and they were *trying to get to the

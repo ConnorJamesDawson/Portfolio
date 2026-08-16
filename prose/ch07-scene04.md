@@ -388,9 +388,8 @@ And then there would be twenty-nine.
 
 ---
 
-So that was what he had, at thirteen, and what he carried for eleven years
-afterwards, and it was worse than either of the two things he had gone up there
-for.
+So that was what he had, at thirteen, and it was worse than either of the two
+things he had gone up there for.
 
 Somebody was sitting at a Ruri trestle for four hours at a stretch and doing it
 well.

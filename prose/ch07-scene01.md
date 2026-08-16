@@ -201,7 +201,7 @@ food was still in the bowl on the table, and the frames were broken.
 If they had killed them, he thought, they would not have broken the frames.
 
 He was twelve. It was the best reasoning he had and it was, as it turned out,
-correct, and it did not help him for one second in the eleven years that followed.
+correct, and it did not help him for one second in all the years that followed.
 
 ---
 

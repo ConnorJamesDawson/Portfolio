@@ -375,4 +375,4 @@ steps."
 
 "I'm going to keep winning, too," said Kohaku. "That's what's so brilliant about
 it," and she was gone, and he went after her, and he did not think about the
-package again for eleven years.
+package again for five years.

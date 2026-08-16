@@ -132,7 +132,7 @@ Jirō nodded about six times, fast.
 Then he hugged him, hard, for about two seconds, and let go and went back down the
 street at a run without looking round.
 
-Sazare did not see him again for eleven years, and when he did, Jirō was wearing a
+Sazare did not see him again for four years, and when he did, Jirō was wearing a
 mask.
 
 ---

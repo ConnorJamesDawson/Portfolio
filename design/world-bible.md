@@ -312,6 +312,28 @@ recognise, a decade after the man who was meant to hand it over died.
 **Pairs against the ending:** he reclaims the inheritance that was his and walks
 away from the one that wasn't.
 
+## Novel continuity decisions
+
+Rulings made during drafting, binding on later chapters:
+
+- **The nine on the platform** (ch. 8) were a *network* trial, not a bloodline
+  purge: the surviving Ruri plus network people — **Ishibe among them** (the
+  chandler's "new man" in ch. 7 is the trace). The tribunal's language was
+  literally true: households used, and persons who used them.
+- **The family worked Ashiya** during the fourteen months. The measured trestle
+  pattern says someone stood in the wrecked north room with a rule. Sazare
+  missed them by ninety minutes and never learns it.
+- **The arm is restored** in Act 2 by the Hot Water medic — slowly, over months,
+  completing the boat medic's work rather than overriding it. Full function
+  returns; **the scar stays** (wrist to elbow, three exits). Medical restoration
+  in this story is slow and knowledge-bound, never miraculous.
+- **He has no headband and never did** — nothing to slash, no outlaw
+  iconography. His camouflage is the truth.
+- **The crowd wound is specific**: he cannot be in a crowd facing one thing — an
+  audience, a platform. Markets stay his camouflage.
+- **Jirō is the Act 2 hunter**, reconnaissance stream, encounter at ~16 — "four
+  years, and the mask" (ch. 7 emended).
+
 ## Themes
 
 - **Complicity before victimhood.** The Ruri are protected because they arm the

@@ -154,8 +154,7 @@ He put Sazare's mother third.
 
 ---
 
-Afterwards, when he had had eleven years to look at it, Sazare could still not
-find the moment.
+Afterwards, with years to look at it, Sazare could still not find the moment.
 
 That was what he wanted and never got: the point at which he decided. He wanted
 there to have been a second in which he thought *I am going to do this*, because a

@@ -152,8 +152,11 @@ interface rather than being told about him, and it costs no extra systems.
 
 ## Open questions
 
-- **The body.** The ruined hand from Act 1 beat 22, the crowd aversion, what
-  fifteen years of this does to how he stands and moves. Not yet drafted.
+- ~~The body~~ **Resolved:** the arm is fully restored in Act 2 (slow, guided,
+  months — the Hot Water medic completes what the boat medic started). The scar
+  stays: wrist to elbow, three exits, the only record of the square he carries.
+  The crowd wound is specific — he cannot be in a crowd facing one thing; markets
+  remain his camouflage.
 - **Name.** Ruri children are named after stones (see `world-bible.md`).
 - **Whether he is voiced.** An authored character argues for it; a fan project's
   budget argues against. Text-only with strong writing is the safe answer.
