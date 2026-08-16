@@ -98,8 +98,10 @@ limitation.
 
 #### Who has a POV
 
-The protagonist is the default, roughly seventy per cent of the whole. Others are
-deployed for specific effect, not distributed evenly:
+The protagonist is the default — around ninety per cent of chapters and rather
+less of the scenes. See `chapter-plan.md` for the six dedicated non-protagonist
+chapters; additional scene-level switches inside his chapters are at the writer's
+discretion, within this roster:
 
 - **Kohaku** (Act 1) — the reader watches her love him and use him in the same
   scene. He never gets that scene.
