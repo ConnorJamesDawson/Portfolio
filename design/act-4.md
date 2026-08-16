@@ -3,7 +3,7 @@
 First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
 **Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
-**Opens:** the amnesty hearing. **Closes:** he stays, as a medic.
+**Opens:** the amnesty hearing. **Closes:** owned, ranked, and free to move.
 
 **Function of the act:** he stops being a weapon. Acts 1–3 take everything from
 him; this one is where he builds something and then survives learning that
@@ -187,10 +187,14 @@ disciplines.
 
 ---
 
-## Part C — What He Built
+## Part C — The Settlement
 
-*Spans the 2.5-year timeskip. **Structure as two or three dated chapters, not a
-drift** — an act that crosses years risks going montage-shaped.*
+*Spans the 2.5-year timeskip along with Part D. **Structure as two or three dated
+chapters, not a drift** — an act that crosses years risks going montage-shaped.*
+
+**This part is the low point, not the ending.** He builds something real and is
+then informed, by two governments jointly, that he is a permanent asset of both.
+Part D is where he climbs off it.
 
 **Timeline note:** the Konoha Crush to Tsunade's inauguration is **weeks**, not
 years — she is installed immediately after the Search for Tsunade arc. So her
@@ -255,14 +259,7 @@ it. Formally exonerated of a crime he was ordered to commit, by a government tha
 no longer resembles the one that ordered it, on the word of records nobody
 thought to destroy.
 
-**22. He survives it.**
-This works only because he stopped wanting revenge first.
-
-The past arrives in full — the puppet, the war won without him, his family
-recorded as a closed file — and it does not destroy him, because it is aimed at a
-person he is no longer. He has shifts in the morning.
-
-**23. The summons.**
+**22. The summons.**
 Called before the Hokage. Kiri–Konoha normalisation talks: a senior delegation,
 **Mei Terumī attending.**
 
@@ -276,7 +273,7 @@ isn't something the series depicts. The safer version is a senior delegation wit
 no Mizukage, or an envoy. Taking the stretch deliberately — her presence is worth
 more than strict accuracy — but it is a stretch.*
 
-**24. The settlement.**
+**23. The settlement.**
 He learns the war is over and that **he is not allowed to go home.**
 
 The terms: he remains in Konoha, and in exchange for Kiri not making a diplomatic
@@ -293,14 +290,103 @@ quota, and a diplomatic clause. His whole life is people writing down what he is
 worth, and this is the one where two governments do it jointly with him in the
 room.
 
-**25. What he actually wins.**
+**24. The floor.**
+He survives the news — which works only because he stopped wanting revenge first.
+The past arrives in full and it is aimed at a person he is no longer. He has
+shifts in the morning.
+
+But the shape of his life is now fixed by treaty. He is a productive asset of two
+governments, permanently, and everyone in the room agreed to it without him.
+
+**This is the lowest point of the act and the player should feel the ceiling.**
+
+---
+
+## Part D — Standing On His Own
+
+*The corrective. Acts 1–3 constrain him relentlessly — can't duel, can't beat the
+examiner, can't save Haku, can't take the sword — and Part A adds can't train.
+Each is defensible; stacked, they make a game where the player is never permitted
+to win anything. This part is where that stops.*
+
+**Design note on scaling.** Shōton is already an advanced nature release (Earth +
+Water). He is not a baseline character creeping upward — he has carried an
+advanced kekkei genkai since he was seven and has never been taught to use it.
+Growth here is **catching up to what he already had**, so it can be steep without
+being unearned.
+
+**Scale him in preparation depth, not raw output.** More elaborate prepared
+ground, faster deployment, better seal work, more crystal variants. Never harder
+hitting. Ceiling: operates independently, survives an A-rank, holds a position,
+keeps people alive. A jōnin-adjacent utility specialist. He never needs to matter
+at Naruto's altitude.
+
+**25. Tsunade takes an interest.**
+Not ceremony — merit. He has become a significant part of the hospital, the
+crystals work, and his medical skill is real.
+
+**No apprenticeship, no formal student.** She understands medical theory far
+better than he ever will; the crystals are new ground even for her. What he gets
+is passing remarks on his technique from the best in the world, and being taken
+seriously in one narrow domain — which is worth more to this character than being
+anybody's apprentice, and doesn't hand him a reward the story hasn't earned.
+
+**26. The evaluation.**
+He has never been officially permitted to combat train, so nobody knows what he
+is. Konoha will not deploy an unranked foreign asset, so he is assessed.
+
+**Frame it as an out-of-cycle ranking evaluation, not the Chūnin Exam** — the
+Exam proper is a multi-village public tournament and slotting an amnesty case
+into one would be strange. This is mundane, bureaucratic, and administered by
+people doing a job.
+
+**This is him graduating.** The wound at the centre of Act 1 — the sealed scroll
+behind *when you graduate*, the gate in beat 16 where they turn him away because
+he isn't a real shinobi, the examiner he was never going to beat. Eight years
+late, in a foreign country, from people who have no idea what they are handing
+him.
+
+It is also the fourth time an institution has measured him and written the number
+down, and the first time the number works in his favour.
+
+**27. The long lead.**
+Restrictions lifted enough to leave the village and take missions. **Not freedom
+— a leash with more length in it.** The crystals are the tether: he can go
+because his output is guaranteed, and it is guaranteed because two governments
+signed for it.
+
+He will never be unowned. He can move.
+
+**28. The scroll.**
+The Ruri combat techniques, looted from the compound in Act 1, sold on, sitting
+in a collection somewhere. He has chased rumours of it since Act 2 without ever
+being able to act on one.
+
+**This is the first thing in the entire game he chooses and executes under his own
+power.** Every prior act he was escorted, deployed, extracted, granted, or traded.
+This one is his, and it is what the whole of Part D exists to make possible.
+
+The inheritance arrives at last: off a stranger's shelf, bought with money he
+earned, a decade after the man who was meant to hand it over died.
+
+**29. Guren, answered.**
+The last open thread, and she belongs on this road.
+
+She has been offering knowledge since Act 2 — the only person alive who could
+teach him properly. He refuses it as a man who no longer needs it, having built
+his own out of a hospital, a bedridden man's fūinjutsu notes, and eight years of
+getting it wrong alone.
+
+She is not defeated. She is declined.
+
+**30. What he actually wins.**
 Not freedom. He does not choose where he lives or who receives his work.
 
 **He chooses what to make.** They can compel the output; they cannot compel it to
-be a weapon. That is the only sovereignty left to him, it is genuinely his, and
-it is small enough to be true.
+be a weapon. That is the only sovereignty left to him, it is genuinely his, and it
+is small enough to be true.
 
-He doesn't take a headband. He takes a hospital post.
+No headband. A hospital post, and a bag he can pack.
 
 Act 1 he was a craftsman. Act 2 he butchered the craft into a weapon. Here he
 turns the weapon back into a craft — and this time he chooses it rather than
@@ -310,13 +396,14 @@ inheriting it.
 
 ## Open questions
 
-- **Does Mei attend in person?** See the canon liberty at beat 23. Her presence
-  is dramatically much stronger; an envoy is the accurate version.
-- **How the timeskip is chaptered.** Two or three dated sections, not a drift.
-  Which years get scenes is undecided.
+- **Does Mei attend in person?** See the canon liberty at beat 22. Her presence is
+  dramatically much stronger; an envoy is the accurate version.
+- **Who administers the evaluation?** The Act 1 examiner returning is the obvious
+  rhyme and possibly too neat — he was Kiri, and would have no reason to be in
+  Konoha.
+- **How the timeskip is chaptered.** Two or three dated sections across Parts C
+  and D. Which years get scenes is undecided.
+- **Where Guren's refusal sits** relative to the scroll — before it, after it, or
+  she is holding it.
 - **Sequel hook.** Ends at the start of Shippuden, MC ~19–20, roughly two years
   before the Fourth Shinobi World War.
-- **Where the scroll thread completes** — here or in Act 2. Landing it here means
-  the inheritance arrives after there is anyone left to have wanted it for.
-- **Guren, finally.** Beat 13 plants her as a knowledge temptation. She needs a
-  final answer somewhere in Part C and currently doesn't have one.
