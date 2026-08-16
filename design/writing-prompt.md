@@ -4,15 +4,32 @@ For turning the design documents into prose fiction.
 
 ---
 
+## Target shape
+
+**10,000-word chapters. Multiple POV. Serial length.**
+
+Eight acts at the density designed, at 10k a chapter, comes to somewhere north of
+**400,000 words** — four books' worth. That is a serial rather than a novel in
+the trade sense, which is entirely normal for the medium, but it changes the
+planning:
+
+- **Chapter boundaries must be decided in advance.** Writing act-by-act without
+  them produces badly uneven pacing — some acts sprawling to twelve chapters,
+  others crushed into two.
+- **A chapter is one POV**, several scenes, with its own internal shape.
+
+---
+
 ## How to use it
 
 **1. Start with one scene, not an act.** Commission the Act 1 opening — the
 workshop morning — at around 2,000 words. If the register is wrong, everything
 built on top of it is wasted. Iterate on that one scene until the voice is right.
 
-**2. Then commission act by act**, in scenes of 1,500–3,000 words. Do not ask for
-a whole act in one pass; you will get compression and summary rather than
-dramatisation.
+**2. Never generate a 10k chapter in one pass.** It will sag in the middle and
+summarise at the end. Write each chapter as **two or three scene-sized
+commissions of 3,000–4,000 words** and assemble, then do a joining pass for
+transitions and rhythm.
 
 **3. Supply the design documents with every request.** At minimum
 `world-bible.md`, `character.md`, and the act file in question. Continuity across
@@ -58,16 +75,51 @@ This is the single easiest way to ruin this story. Treat it as the first rule.
 
 ### POV and tense
 
-**Third person limited, past tense, locked to the protagonist throughout.**
+**Third person limited, past tense. Multiple POV characters, one per scene.**
 
-He deflects emotion into mechanism: asked how he is, he describes what he is
-working on. So the narration **observes what he will not say**. It does not
-analyse him, diagnose him, or announce his feelings.
+Do not use first person. A narrator who thinks like the protagonist would either
+have to break character to explain himself or withhold everything, and both are
+worse.
 
-Show him counting something. Show his hands. Let the reader do the rest.
+**When in the protagonist's POV:** he deflects emotion into mechanism — asked how
+he is, he describes what he is working on. The narration **observes what he will
+not say**. It does not analyse him, diagnose him, or announce his feelings. Show
+him counting something. Show his hands. Let the reader do the rest.
 
-Do not use first person. A narrator who thinks like him would either have to
-break character to explain himself or withhold everything, and both are worse.
+#### The POV rule
+
+**Changes happen at chapter or scene breaks only. Never inside a scene.**
+
+Head-hopping mid-conversation collapses tension exactly where it matters — the
+moment a reader can see both sides of an exchange, neither side is at risk. When
+a scene sits in another character's head, **the protagonist becomes opaque for
+its duration**, observed from outside like anyone else. That is the point, not a
+limitation.
+
+#### Who has a POV
+
+The protagonist is the default, roughly seventy per cent of the whole. Others are
+deployed for specific effect, not distributed evenly:
+
+- **Kohaku** (Act 1) — the reader watches her love him and use him in the same
+  scene. He never gets that scene.
+- **The friend who stays** (Acts 1–2) — the hunter-nin must be comprehensible in
+  his own frame or the regime is cardboard.
+- **Guren** (Act 5) — her account of leaving, before she ever says it aloud to
+  him.
+- **Tayuya** (Act 5) — the convalescence from the prisoner's side.
+- **A Kiri clerk** (Act 1, one chapter only) — the inventory from behind the
+  desk. A man doing paperwork, mildly bored, faintly sympathetic, recording
+  yields and noting which children demonstrated well. No malice anywhere in it.
+
+**Canon characters: rarely, and never during their defining moments.** Writing
+inside them is the highest-risk prose in the work and the failure is invisible to
+the author. In particular, **do not give Haku a POV during the Act 3
+conversation** — his serenity must stay opaque, or the protagonist's defeat
+becomes something the reader can audit rather than feel.
+
+Nobody's POV may reveal what the protagonist privately believes in Acts 6–8. He
+tells no one, and the narration outside his own head does not know.
 
 ### Voice
 
@@ -150,6 +202,15 @@ agrees with the antagonist and tells no one — but the protagonist is
 constitutionally unable to narrate his own feelings. First person forces the
 narration either to break character or to withhold everything. Third limited
 lets the prose see what he will not say.
+
+**Multiple POV, one per scene.** The design runs on dramatic irony: the reader
+knows Yagura is a puppet and the protagonist never will; the reader should
+suspect Kohaku's network well before he does. Single-POV cannot deliver that at
+this length — it can only hope the reader infers it.
+
+The cost is the protagonist's isolation, which is a pillar of the design. The
+mitigation is the seventy-per-cent default and the short POV roster: other heads
+are an instrument, not a habit.
 
 **Past tense** carries a fifteen-year span more comfortably than present, and
 keeps the register out of the breathless mode that present tense invites.
