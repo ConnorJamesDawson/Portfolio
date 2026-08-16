@@ -50,11 +50,10 @@ Then the noise started.
 
 He ran the wrong way.
 
-He would think about that for years, too. There was no reason for it. He ran up the
-hill and inward, towards the noise, because that was the direction he had been
-facing when it started and because he was twelve years old and had spent eleven
-weeks being extremely careful about food and sleeping and had never once had to
-decide anything at speed.
+There was no reason for it. He ran up the hill and inward, towards the noise,
+because that was the direction he had been facing when it started, and because he
+was twelve years old and had spent eleven weeks being extremely careful about food
+and sleeping and had never once in his life had to decide anything at speed.
 
 He got about two hundred yards.
 
@@ -199,8 +198,21 @@ from the way, by a man who had then gone on up the hill about his own business.
 
 He knew all that.
 
-And he thought about *whose are you* — and about the quarter of a second — every
-single day for eleven years, the way you press on a bruise.
+What he could not get rid of was the quarter of a second.
+
+He went at it the way he went at everything, which was to lay it out and turn it
+over and look for the place it was moving. A man in the middle of a failed coup,
+bleeding, with two words being shouted at him from the top of the hill, had asked a
+child in a doorway whose he was — and had waited for the answer.
+
+That was the part. He had *waited for the answer*. It had cost him perhaps a second
+and there had been nothing in it for him, and he had done it anyway, and then
+something had gone across his face and gone again.
+
+Sazare could account for all of it except that, and he could not make that come out
+to anything at all, and he took it out and looked at it about once a week for a
+very long time and never got any further with it than he had got sitting in the wet
+at the bottom of the alley.
 
 ---
 

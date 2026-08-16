@@ -162,45 +162,150 @@ the far end were on the gate at the far end and had not moved all evening.
 
 ---
 
-He worked it out afterwards, over about a year, and the answer was almost certainly
-extremely boring: that the working day at Ashiya ran to the sixth hour, and that
-whoever they were, they were housed somewhere else, in something with a lock on it,
-and were walked down in the morning and walked back at night, and that he had come
-in through the boards about ninety minutes after the last of them had gone out of
-the far door.
+He got out over the back the way he had come in, and lay in the bracken above the
+valley until the sky went grey, and did not cry, and could not have said what he
+felt.
 
-Ninety minutes.
+Nine trestles, built to his mother's pattern by a man with a rule. Six frames, and
+new copper. A shelf of blue crystal that somebody had grown that day.
 
-He had lain in the bracken for four hours because it was sensible to lie in the
-bracken for four hours.
+And nobody. Not a person, not a name, not a mark, not one word anywhere in five
+hundred yards of building that he could read.
 
 ---
 
-He did not find that out for a year. What he had, that night, standing in the dark
-in the third bay with his hand on a tray of sand that was still warm, was this:
+The woman in the queue had said *my sister's boy does the carting*.
 
-Nine trestles, built to his mother's pattern by a man with a rule.
+It took him nine days to find the boy, and the nine days were nothing — they were
+three questions at the Ashiya road end, and a name, and then a lot of sitting
+about at the weighbridge below the mill where the carts queued to be tallied, which
+was in the open, and which anybody could do.
 
-Six frames, and new copper.
+His name was Kiyo and he was seventeen and he had a horse he was extremely proud
+of.
 
-A perfect shelf of blue crystal, four hours' work, his mother's grade, that
-somebody had grown that day.
+Sazare talked to him about the horse for the better part of two hours over three
+days before he asked him anything, which was not cunning; it was that he had not
+had a conversation with anybody for four months and had rather lost the ability to
+get to the point.
 
-And nobody. Not a person, not a name, not a mark, not one thing anywhere in five
-hundred yards of building with a single word on it that he could read.
+"That place up the rope-walk," he said, on the third day.
 
-He got out over the back the way he had come in, and lay in the bracken above the
-valley until it started to get light, and did not cry, and could not have said what
-he felt except that it was not what he had walked nine miles to feel.
+"The works?"
 
-He had come to find out whether they were alive.
+"Is it a works?"
 
-He went away knowing that somebody, somewhere, was sitting at a Ruri trestle for
-four hours at a time and doing it *well* — and that this was either the best news
-he had ever had in his life or the worst, and that there was no way on earth for
-him to find out which, and that he was going to have to carry both of them at once
-from now on.
+"It's a works." Kiyo spat. "I take flour up there twice a week and I take charcoal
+up there once and I've never been past the gate and I never will, and if you want
+my opinion it's the best-paying run in the valley and I'd rather do the coast."
 
-He was in the lower district again by the ninth month.
+"Why?"
 
-He was thirteen in the eleventh.
+"Because of the walk-down," said Kiyo.
+
+---
+
+It was, in the end, a completely ordinary thing that a seventeen-year-old with a
+horse told him at a weighbridge for nothing, and it took about four minutes.
+
+The people who worked at Ashiya did not live at Ashiya. They lived in the old mill
+buildings on the far side of the valley — the ones with the boarded windows, which
+Sazare had walked past twice without looking at, because they were boarded, and
+because a boarded building looks like a building nobody is in.
+
+They came out at the second hour of the morning and they went back in at the
+seventh hour of the evening, and they did it under escort, in a column, and the
+column was what Kiyo called the walk-down, and every carter in the valley knew to
+have his horse off the road and standing before it started.
+
+"How many?"
+
+"Thirty. Bit less." Kiyo shrugged. "You don't look. That's the thing. Nobody looks.
+There's men front and back and there's two on the ridge and they're not there for
+the *column*, if you follow — they're there for anybody stood watching the column."
+
+"What do they do to them?"
+
+"To who?"
+
+"To anybody stood watching."
+
+Kiyo looked at him properly for the first time in three days.
+
+"I don't know," he said. "I've never stood watching."
+
+---
+
+Sazare had come in through the boards at the eighth hour of the evening.
+
+He counted it out that night, sitting on the wall of the weighbridge with his arms
+round his knees, and got the same answer four times and did not believe it any of
+them.
+
+The column went in at the seventh. He had lain in the bracken from the fourth hour
+until dark because lying in the bracken until dark was the sensible thing to do.
+
+If he had gone over the back wall in daylight — stupidly, in the open, the way a
+person does when they have not thought about it — he would have been in the third
+bay with his hand on the sand while whoever it was was still sitting at it.
+
+Ninety minutes. He had been careful, and it had cost him ninety minutes.
+
+---
+
+He went back four times over the next five months.
+
+The first time he got up onto the shoulder of the hill in the dark and found that
+Kiyo had been telling the plain truth about the ridge: there were two men on it,
+and they were not looking at the valley, they were looking at the hillsides, and
+he lay in the wet with his face in his arms for two hours and went home having seen
+nothing at all.
+
+The second time he went further round, to the west, where the bracken came down
+almost to the road, and got there before the second hour, and saw it.
+
+It was four hundred yards away in the dark and the fog was on the valley floor the
+way it was every morning of the year in that country, and what he saw was a column
+of people in identical grey coming out of a doorway and turning left, at about the
+pace of a walking man, with a lamp at the front and a lamp at the back.
+
+He counted twenty-eight.
+
+He could not tell one of them from another. Not their heights, not their walk, not
+whether any of them was a woman of forty-five with her sleeves pinned, because they
+were four hundred yards off in fog before dawn in a grey coat apiece, and he lay
+there with his fingers in the dirt and looked at twenty-eight people for the eleven
+minutes it took them to go up the road, and could not have sworn to one thing about
+any of them.
+
+The third time it rained so hard he could not see the road.
+
+The fourth time there were three men on the ridge instead of two, and one of them
+was quartering the west side, and Sazare went backwards out of the bracken on his
+elbows for about eighty yards and then got up and ran for two miles.
+
+He did not go back after that.
+
+---
+
+It was not courage that stopped him and he never pretended otherwise. It was that
+he had worked out, lying in the wet on the fourth morning with a man on the ridge
+looking at the exact patch of hillside he was in, what happened if they took him.
+
+They would not know who he was. There was no reason on earth they would know who he
+was.
+
+They would find out in about a day, and then there would be twenty-nine.
+
+---
+
+So that was what he had, at thirteen, and what he carried for eleven years
+afterwards, and it was worse than either of the two things he had gone up there
+for.
+
+Somebody was sitting at a Ruri trestle for four hours at a stretch and doing it
+well.
+
+And twenty-eight people in grey came out of a door at the second hour of every
+morning, and he had looked at all of them, and he could not say.
+

@@ -287,7 +287,37 @@ Ryōsuke looked at him.
 
 Sazare went home.
 
-He got over the back wall at about the sixth hour and his mother was in the
-workshop with her hands on frame two, and she did not turn round, and she did not
-ask him one single question about where he had been all night, then or ever, and it
-took him another eleven years to work out what that meant.
+He got over the back wall at about the sixth hour. The lamp was on in the workshop
+and his mother was at frame two with her hands flat on it, and she did not turn
+round.
+
+He stood in the yard for a bit, working out what he was going to say.
+
+"There's food," she said.
+
+That was all. She did not ask him where he had been. She did not ask him the next
+day either, or the day after that, and by the end of the week he had understood
+that she was not going to, and had begun — with a certain amount of effort — not
+to think about why.
+
+He was twelve. The explanation he arrived at was that she had not noticed.
+
+It held for about four days.
+
+On the fifth he came down in the morning and there was a bowl out for him and a
+wrap of the small fish beside it, which was Ozaki's, which meant she had gone to
+the cutting before light; and his boots, which he had left in the yard covered to
+the ankle in the particular grey-black mud that you only got on the north side up
+past the saltworks, had been cleaned and put by the door.
+
+She was at the frames. She did not look up when he came in.
+
+Sazare sat down and ate the fish, and looked at his boots by the door, and
+understood that his mother had gone out into the yard in the dark, and looked at
+the mud on them, and known within about a second which end of the village it had
+come off — and had cleaned them, and said nothing, and gone back to work.
+
+He never mentioned it. Neither did she.
+
+It was, he thought afterwards, the single most frightening kindness anybody ever
+did him.

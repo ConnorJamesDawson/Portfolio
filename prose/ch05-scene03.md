@@ -149,10 +149,9 @@ somebody's books. And they took them anyway, so it doesn't—"
 
 "Because nets aren't—" Ren stopped.
 
-He did stop. Sazare would think about that for a long time afterwards: that his
-father, who was the kindest man he knew and who had never in his life failed to
-finish a sentence out of cowardice, got exactly that far and then stopped, because
-he had heard where the sentence was going.
+He did stop. His father, who was the kindest man in that house and who had never in
+his life left a sentence unfinished out of cowardice, got exactly that far and
+stopped, because he had heard where it was going.
 
 "Because there's four net-makers on the east quay," said Iwao, quietly, from the
 other end of the table, "and there's one of us."

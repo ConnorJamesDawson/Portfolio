@@ -159,6 +159,23 @@ material is bleak, the later material has nowhere to go.
 
 - State the theme, in narration or dialogue.
 - Narrate a feeling the prose can imply.
+- **Use forward-reference as a substitute for dramatising.** *"He would think about
+  that for years," "he did not work it out until much later," "it took him eleven
+  years to understand what that meant"* — this is a real technique and it becomes a
+  crutch fast, because it lets the narration assert that something mattered instead
+  of making the reader feel it, and it papers over mechanism the author has not
+  worked out.
+
+  **The test:** does the forward-reference deliver *information the reader cannot
+  get another way*? *"He did not see him again for eleven years, and when he did, he
+  was wearing a mask"* passes — that is a fact, and a hook. *"He worked it out
+  afterwards, over about a year"* fails — that is a summary standing where a scene
+  should be.
+
+  If the protagonist figures something out, **show him figuring it out**: who told
+  him, what he counted, what he got wrong first. If he watched a place for months,
+  the reader needs to know where he watched from and why he was not caught. Roughly
+  one forward-reference per act, and it must carry a fact.
 - Write purple prose. The register is plain, precise, and unsentimental. Grimness
   comes from what is described, never from adjectives.
 - Resolve ambiguity the design deliberately leaves open.
