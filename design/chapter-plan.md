@@ -6,15 +6,18 @@ of them. The plan now carries the discipline that fixes it.
 
 ## The 10k discipline
 
-10,000 words is a **pacing goal, not a cap** — if a scene drags a chapter past
-it, the chapter ends where it ends. But the floor matters:
+10,000 words is a **pacing goal, not a cap and not a floor**. The ruling
+standard is natural weight:
 
-- **Four to five scenes per chapter, 2,300–2,600 words each.**
-- A scene brief that comes in under 2,000 words is under-scoped: it needs
-  another movement, another character, or another day inside it — not padding.
-- Act 2+ can carry more density than Act 1 legitimately: new countries through
-  deprogramming eyes, older narrator, more interiority. The terse register was
-  Kiri; it is not the whole book.
+- **A scene earns its length or it doesn't.** Nothing gets widened to hit a
+  number; nothing gets split to make a count. If a chapter lands at 7–8k with
+  nothing skipped, it is finished.
+- The test for a short scene is *"did it skip something the story wanted?"* —
+  another movement, another character, a day the reader needed — never *"where
+  can words be added?"*
+- Act 2+ carries more density than Act 1 legitimately (new countries through
+  deprogramming eyes, older narrator, more interiority), so its natural weight
+  runs higher. Let it.
 
 52 chapters, ~500k, four books. Numbering continuous; book divisions are
 morale, not structure.
