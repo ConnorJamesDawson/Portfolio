@@ -85,10 +85,76 @@ being harvested. Very on the nose — use sparingly, but it is canon.
 her killed in Act 5. Now she is a corpse puppet on the field and he has to work
 around her.
 
+### He believes Madara is right
+
+The disillusionment does not stop at Pain. It escalates with the argument:
+Nagato's thesis is that the **system** manufactures suffering; Madara's is that
+**existence** does. The MC follows it all the way.
+
+**Do the arithmetic on what the Infinite Tsukuyomi offers him specifically.** The
+compound standing. His family alive. **Kohaku alive**, and either she never used
+him or it never cost anything. He never learned to kill. He graduates and the
+scroll opens. He never leaves.
+
+Eight acts of loss, refunded exactly. He is not someone who would need persuading
+— he may be **the most susceptible person in the Allied Shinobi Forces**, not from
+weakness but because the offer happens to be shaped like his life.
+
+**And there is a medic's version of it.** The Infinite Tsukuyomi is perfect
+palliation: end all suffering by ending awareness of it. A man who learned
+medicine out of guilt and has never once saved enough people, offered a world
+where nothing is ever in pain again and nothing dies on his table. That is his
+profession taken to its logical extreme.
+
+**Fourth in the series.** Orochimaru offered knowledge. Guren offered teaching.
+Oto offered a laboratory. Madara offers his family back. Each aimed better than
+the last.
+
+### The line: belief, never action
+
+**He must not defect.** An OC switching sides at the climax of the Fourth Shinobi
+World War makes him plot-relevant at the largest event in the franchise, detonates
+*instrumental but never decisive*, and turns him into a villain-flavoured Marty
+Stu. That is where this idea would get silly.
+
+**Believing it costs canon nothing.** Nobody notices. No report records it.
+
+So: **he believes Madara is right, and he keeps working.** A field medic in a
+mobile hospital packing a nineteen-year-old's wound and handing over a crystal,
+thinking the entire time that all of this is pointless and the man trying to stop
+it has the better argument.
+
+He never says it. He never stops.
+
+### The resolution
+
+**He is not argued out of it.** He has better evidence for the nihilist position
+than almost anyone alive; no speech out-reasons him. Same trap as Act 7.
+
+**What refutes him is that his hands have been voting the other way for eight
+acts.** He learned medicine out of regret. He held a hospital. He invented
+distributed medicine in an overloaded ward. He chose what to make when they could
+compel everything else. He has spent the entire game demonstrating a belief he
+would flatly deny holding.
+
+When the Tsukuyomi breaks, the answer is not that Madara was wrong. It is that he
+personally kept working anyway and cannot account for why. The same shape as
+Naruto's answer to Nagato: never won by logic, won by having already done the
+thing.
+
+### Build the ending on his dream
+
+Show it. The compound in the morning. Everyone alive. An unfinished earring on
+the bench. Kohaku eating with him.
+
+**The horror is that it is good, that he would have stayed, and that something
+made him get up anyway.**
+
 ### Open
 
 - Whether Guren appears, and on which side.
 - Whether he ever tells anyone what he did in Oto.
+- Whether anyone ever learns he agreed with Madara. Current position: no.
 - The final image. He has no family, no village of his own, and a hospital post
   in a country that owns his output by treaty. What "winning" looks like for a
   man whose only sovereignty is choosing what to make.
