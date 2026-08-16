@@ -163,27 +163,74 @@ Goodwill from the invasion, and ANBU with far more urgent problems than a man
 they have already watched for six months. Not a reward ceremony — an
 administrative easing that nobody announces.
 
+**15. Promoted.**
+The invasion killed medics. The hospital is short-staffed, overloaded, and stays
+that way for a long time. He is promoted because there is nobody else, and he
+sees the full reality of the aftermath from inside it.
+
+**16. The teacher in the bed.**
+A shinobi with working knowledge of fūinjutsu, bedridden for months, with nothing
+to do and someone asking good questions.
+
+**This completes a pattern.** Every teacher this character has ever had was
+someone who fell — Act 2's disgraced jōnin, deserters, and drunks with one
+technique left, because no legitimate instructor would touch a missing-nin. Now
+he is safe in the best-resourced village in the world and his fūinjutsu teacher
+still can't get out of bed. He has never once been taught by someone at the top
+of their profession, which is precisely why he innovates: nobody ever handed him
+a finished answer.
+
+**Governor: he learns notation, not power.** Enough to read seals, understand the
+grammar, and apply the logic. Never enough to write combat fūinjutsu. That is all
+his innovation requires, and it stops him quietly becoming excellent at three
+disciplines.
+
 ---
 
 ## Part C — What He Built
 
-**15. Innovation.**
-With room to work, the experimentation that kept him alive becomes the thing he's
-actually for.
+*Spans the 2.5-year timeskip. **Structure as two or three dated chapters, not a
+drift** — an act that crosses years risks going montage-shaped.*
+
+**Timeline note:** the Konoha Crush to Tsunade's inauguration is **weeks**, not
+years — she is installed immediately after the Search for Tsunade arc. So her
+inauguration and the Kiri news land early, on a village still counting its dead.
+Everything below happens across the years that follow, while Naruto is away with
+Jiraiya.
+
+**17. Innovation, under scarcity.**
+The ideas he has been carrying since Act 2 finally get actioned, because an
+overloaded hospital with too few medics will try anything.
 
 **Self-healing crystal, activated through chakra.** Sealed medical work: crystal
-that holds a charge and releases it into a wound. Nobody in the world is doing
-this, because nobody else grew up in a crystal workshop, taught themselves
-medicine out of guilt, and then learned to read seals off a corpse.
+that holds a charge and releases it into a wound.
 
-It is also decisively **not weapon value** — which is his defence against Root
-without either of them ever naming it.
+**Why this doesn't shank canon — three limiters, all needed:**
 
-**16. Tsunade.**
-The Fifth is inaugurated: the greatest medical ninja alive, and now his
-institution's head. Whether she teaches him personally is open (see below).
+1. **They degrade.** Crystals are chakra products with a shelf life.
+2. **He is not a jinchūriki.** Finite personal chakra, so finite production. One
+   man, by hand.
+3. **They are not better than a medic-nin — they are better than *nothing*.** A
+   crystal doesn't outperform Tsunade or Sakura or any competent medical shinobi.
+   It works when there is no medic in the room, which is the situation most
+   wounded people are actually in. Not superior medicine: **distributed**
+   medicine.
 
-**17. The news.**
+Every canon medic keeps their value, it matters enormously in a post-invasion
+hospital, and it never reshapes the world.
+
+It is also decisively **not weapon value** — his defence against Root without
+either of them ever naming it.
+
+**18. Tsunade.**
+The Fifth is inaugurated. She has two institutional reasons to be in a room with
+him — she runs the medical corps, and she is Hokage — and needs no third.
+
+**She does not take him as a student.** He has spent the entire game learning
+from people who fell, and being finally taught by the best in the world is a
+reward this story hasn't earned him.
+
+**19. The news.**
 Through intelligence summaries read out by a clerk with no idea he is in the room
 for a reason:
 
@@ -195,52 +242,81 @@ for a reason:
 - Nothing he did appears anywhere in the account. The money arrived, was spent,
   and is indistinguishable from all the other money.
 
-**18. The ledger.**
+**20. The ledger.**
 Reparations require lists. Somewhere in the new administration's records the Ruri
 are entered as **extinct**, and the entry is correct.
 
 Bookends the Act 1 inventory: same instrument, same clerks, closing the file it
 opened.
 
-**19. The pardon.**
+**21. The pardon.**
 A clerk in the new Kiri administration finds his file, confirms the cover, stamps
 it. Formally exonerated of a crime he was ordered to commit, by a government that
 no longer resembles the one that ordered it, on the word of records nobody
 thought to destroy.
 
-**20. He survives it.**
-This is the resolution, and it works only because he stopped wanting revenge
-first.
+**22. He survives it.**
+This works only because he stopped wanting revenge first.
 
 The past arrives in full — the puppet, the war won without him, his family
 recorded as a closed file — and it does not destroy him, because it is aimed at a
 person he is no longer. He has shifts in the morning.
 
-**21. The choice.**
-Kiri is safe now, and empty. Guren's offer stands. Root is still interested.
+**23. The summons.**
+Called before the Hokage. Kiri–Konoha normalisation talks: a senior delegation,
+**Mei Terumī attending.**
 
-**He doesn't take a headband. He takes a hospital post.**
+He is not a subject of the meeting. **He is item four**, discussed in the third
+person while he stands there — the woman he glimpsed as a child, whose war he
+funded for five years from three countries away, who has no idea and is not going
+to find out.
+
+*Canon liberty: an in-person Kage-to-Kage meeting outside the Five Kage Summit
+isn't something the series depicts. The safer version is a senior delegation with
+no Mizukage, or an envoy. Taking the stretch deliberately — her presence is worth
+more than strict accuracy — but it is a stretch.*
+
+**24. The settlement.**
+He learns the war is over and that **he is not allowed to go home.**
+
+The terms: he remains in Konoha, and in exchange for Kiri not making a diplomatic
+incident of him, **Kiri receives access to everything he fabricates.**
+
+**This is the Act 1 bargain for the fourth time, and the one that closes the
+loop.** The Ruri were kept alive because Kiri found them useful. After eleven
+years, three countries, and every person he loved, he is supplying Kirigakure
+with sealed crystal under audit. The only thing that has changed is that he
+knows.
+
+All four ledgers now rhyme: the Act 1 inventory, the bingo book, the Konoha
+quota, and a diplomatic clause. His whole life is people writing down what he is
+worth, and this is the one where two governments do it jointly with him in the
+room.
+
+**25. What he actually wins.**
+Not freedom. He does not choose where he lives or who receives his work.
+
+**He chooses what to make.** They can compel the output; they cannot compel it to
+be a weapon. That is the only sovereignty left to him, it is genuinely his, and
+it is small enough to be true.
+
+He doesn't take a headband. He takes a hospital post.
 
 Act 1 he was a craftsman. Act 2 he butchered the craft into a weapon. Here he
 turns the weapon back into a craft — and this time he chooses it rather than
 inheriting it.
 
-The only thing in this design he actually wins, and small enough to believe.
-
 ---
 
 ## Open questions
 
-- **Does Tsunade take him on?** Teaching him properly is the warm ending;
-  permitting him without teaching him is colder and probably truer — he has spent
-  the whole game learning from people who fell, and being finally taught by the
-  best in the world may be a reward the story hasn't earned him.
-- **Does he meet Mei?** He funded her war for five years and she has no idea he
-  exists. Strongest version is that he could claim it and doesn't — or they never
-  meet at all.
-- **How far the seal work goes.** Fūinjutsu is a deep discipline and he is
-  self-taught in it too. Risk of overpowering him late; the governor is that his
-  seals are *medical and material*, never combat.
-- **Sequel hook.** Lands roughly two years before the Fourth Shinobi World War.
+- **Does Mei attend in person?** See the canon liberty at beat 23. Her presence
+  is dramatically much stronger; an envoy is the accurate version.
+- **How the timeskip is chaptered.** Two or three dated sections, not a drift.
+  Which years get scenes is undecided.
+- **Sequel hook.** Ends at the start of Shippuden, MC ~19–20, roughly two years
+  before the Fourth Shinobi World War.
 - **Where the scroll thread completes** — here or in Act 2. Landing it here means
   the inheritance arrives after there is anyone left to have wanted it for.
+- **Guren, finally.** Beat 13 plants her as a knowledge temptation. She needs a
+  final answer somewhere in Part C and currently doesn't have one.
