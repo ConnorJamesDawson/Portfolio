@@ -82,6 +82,27 @@ cannot want it and keep working. He works.
 the through-line, and it is what defeats Madara at the end — eight acts of a man
 demonstrating a belief he would flatly deny holding.
 
+### Stillness is his only stealth, and he does not know it
+
+He has no infiltration training and never will — he was streamed to support and
+never graduated. What he has is five years of finding where a thing is moving and
+**not interfering with it**, which is the nearest an untrained child could come to
+chakra suppression.
+
+He does it under threat because it is the only thing he has ever been good at, not
+because anybody taught him it was for this. It should never make him competent:
+
+- It buys him **one** narrow escape, not repeated success.
+- He is never told whether it worked. A guard stops, he goes still, the guard moves
+  on — and the honest reading is that a tired man simply never looked over the edge
+  of a culvert. Both explanations stay available.
+- Where he hides matters more than how. **Every position with a good view is a
+  position sentries are watching, because the view is the reason.** He survives by
+  choosing places with no sightline and paying for it in what he cannot see.
+
+Later this becomes the fortifier discipline — prepared ground, chosen positions,
+winning by having been somewhere first. It starts here, as terror plus a bowl.
+
 ---
 
 ## Voice

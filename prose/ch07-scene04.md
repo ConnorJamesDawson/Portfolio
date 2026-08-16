@@ -59,14 +59,18 @@ Sazare lay in the bracken above it until dark.
 
 ---
 
-He got in over the back, where the wall met the old cutting and where nobody had
-thought about it, because nobody thinks about the back of a thing they have built
-a front for.
+He got in over the back, where the wall met the old cutting.
 
-It took him two hours to do about four hundred yards and by the end of it his
-hands would not do what he told them, and he came up under the eaves of the long
-shed at the western end where the boards had gone, and got his eye to a gap, and
-looked in.
+It was not skill and he had none. It was that the men at Ashiya were guarding
+people, and at that hour there were no people in it — the guards were on the gate,
+at the front, facing the road, because the thing they had been put there to stop
+was somebody walking up the road. Nobody had ever been posted to watch the back of
+an empty shed in the dark, because why would they.
+
+It took him two hours to do about four hundred yards, most of it on his stomach,
+and by the end of it his hands would not do what he told them. He came up under the
+eaves of the long shed at the western end where the boards had gone, and got his
+eye to a gap, and looked in.
 
 There was a lamp on at the far end and nothing else.
 
@@ -253,49 +257,134 @@ Ninety minutes. He had been careful, and it had cost him ninety minutes.
 
 ---
 
-He went back four times over the next five months.
+He went back twice.
 
-The first time he got up onto the shoulder of the hill in the dark and found that
-Kiyo had been telling the plain truth about the ridge: there were two men on it,
-and they were not looking at the valley, they were looking at the hillsides, and
-he lay in the wet with his face in his arms for two hours and went home having seen
-nothing at all.
+The first time he did the obvious thing, which was to get up onto the shoulder of
+the hill before the second hour and find somewhere with a view.
 
-The second time he went further round, to the west, where the bracken came down
-almost to the road, and got there before the second hour, and saw it.
+He got about two thirds of the way up and stopped, because there was a man
+standing on the ridge above him in the dark, perfectly still, facing downhill.
 
-It was four hundred yards away in the dark and the fog was on the valley floor the
-way it was every morning of the year in that country, and what he saw was a column
-of people in identical grey coming out of a doorway and turning left, at about the
-pace of a walking man, with a lamp at the front and a lamp at the back.
+Sazare lay in the bracken for a while with his heart going and then went backwards
+out of it, badly, on his elbows, and did not stop until he was over the shoulder
+and into the next valley, and was sick in a ditch, and walked home.
 
-He counted twenty-eight.
+He thought about it for six weeks.
 
-He could not tell one of them from another. Not their heights, not their walk, not
-whether any of them was a woman of forty-five with her sleeves pinned, because they
-were four hundred yards off in fog before dawn in a grey coat apiece, and he lay
-there with his fingers in the dirt and looked at twenty-eight people for the eleven
-minutes it took them to go up the road, and could not have sworn to one thing about
-any of them.
+What he arrived at was not clever and he was faintly humiliated by how long it had
+taken him. There were two men on that ridge and their job was to watch the
+hillsides. So every place on that hillside from which you could see the road was a
+place they were looking at, and that was not bad luck or good positioning, it was
+the entire principle of the thing: **the view was the reason.**
 
-The third time it rained so hard he could not see the road.
-
-The fourth time there were three men on the ridge instead of two, and one of them
-was quartering the west side, and Sazare went backwards out of the bracken on his
-elbows for about eighty yards and then got up and ran for two miles.
-
-He did not go back after that.
+Which meant the only place he could lie was somewhere with no view at all.
 
 ---
 
-It was not courage that stopped him and he never pretended otherwise. It was that
-he had worked out, lying in the wet on the fourth morning with a man on the ridge
-looking at the exact patch of hillside he was in, what happened if they took him.
+The old rope-walk had been drained, in the days when anybody drained anything at
+Ashiya, by a stone cutting that ran from the mill side of the valley under the
+road and out into the beck.
 
-They would not know who he was. There was no reason on earth they would know who he
-was.
+It was two feet deep, and full of nettles, and it had six inches of water in the
+bottom of it, and from inside it you could see approximately nothing: a strip of
+sky, the underside of the road embankment, and about a foot and a half of the road
+surface itself where it came over the culvert.
 
-They would find out in about a day, and then there would be twenty-nine.
+He got into it at the eleventh hour of the night and lay in the water for three
+hours.
+
+---
+
+They came at the second hour and he heard them a long time before he saw anything.
+
+Twenty-odd pairs of feet on a wet road at a walking pace, and the particular
+scrape of clogs that had been issued rather than chosen, and two lamps — he could
+tell there were two by the way the light went over the top of the cutting, once at
+the front and once at the back.
+
+Then the column came over the culvert.
+
+He was four feet below them and about eight feet to the side, looking up through
+grass and nettle stems and the fog that sat in the cutting because fog sits in
+cuttings, and what he had was a strip of road about eighteen inches deep.
+
+He saw hems. He saw boots and clogs and the bottoms of grey coats going past at
+the height of his own eyeline, and a lamp swinging, and the wet shine of the road,
+and one hand at the end of one sleeve that was a woman's hand and was not his
+mother's.
+
+He counted twenty-eight pairs of feet.
+
+He was close enough to hear one of them cough. He was close enough to hear a guard
+at the back say something short about the weather and somebody else answer him. He
+could not see a face. Not one. Not for eleven minutes, and there was no angle from
+which he could have, and if he had stood up he would have been standing on a road
+in front of thirty people and four guards with a lamp on him.
+
+---
+
+Then one of them stopped on the culvert.
+
+He never knew which — guard or not, there was no way to tell from the boots. What
+he knew was that the column went on and one pair of feet did not, and stood there,
+about twelve feet away and four feet above him, and turned.
+
+Sazare had two things and neither of them was a plan.
+
+The first was that he was already lying in six inches of water in a stone cutting
+full of nettles and could not have moved quietly if his life had required it,
+which it now did.
+
+The second was the bowl.
+
+He did not decide to do it. It was not a technique and he did not have a name for
+it and it would be four years before anybody told him it had one. He was
+thirteen years old and terrified out of his mind, and the only thing he had ever
+been good at in his life was finding the place where a thing was moving and then
+not doing anything about it — and so he found the place where he was moving, which
+was all of him, and did not do anything about it.
+
+His heart. His hands. The breath in the top of his chest. The want to look up.
+
+He held it for as long as the man stood there, which he could not measure and
+which was probably ninety seconds and felt like a great deal more, and the whole
+of it was in the dark under a road with nettle stems against his mouth.
+
+The boots went away up the hill after the column.
+
+---
+
+He never found out whether it had worked.
+
+That was the part he could not put down. There was no way to know — not then, not
+ever — whether he had done something, or whether a tired man on a wet road at two
+in the morning had simply stopped to shift a stone out of his sandal and had never
+once thought about looking over the edge of a culvert into a drainage cutting full
+of nettles, because why would he.
+
+Both of those were completely reasonable. He had, in that moment, absolutely no
+evidence at all.
+
+He lay in the water for another hour after the road had gone quiet, because he did
+not trust his legs, and got out at the top end where the cutting came into the
+beck, and walked nine miles home with his clothes freezing on him.
+
+---
+
+He did not go back.
+
+It was not courage that stopped him and he never pretended otherwise, and it was
+not the man on the culvert either.
+
+It was that somewhere on the second or third mile, with his teeth going, he
+finished the thought he had been refusing to finish since the district office.
+
+If they took him, they would not know who he was. There was no reason on earth
+they would know who he was.
+
+They would find out in about a day.
+
+And then there would be twenty-nine.
 
 ---
 
