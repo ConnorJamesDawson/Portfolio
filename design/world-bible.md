@@ -287,6 +287,32 @@ away from the one that wasn't.
   so exploration is *deprogramming*: each region personally falsifies a lesson he
   was taught by someone he trusted. The most boring part of Act 1 — sitting in a
   classroom — is secretly the game's structural spine.
+- **Innovation.** Having no teacher made him an experimenter. He is inquisitive
+  by necessity first and by temperament after, and everything he ends up able to
+  do is something he worked out rather than inherited. **Seals are to him what
+  code is to a programmer** — a rule system: learnable, composable, and the first
+  thing since the workshop that behaves predictably.
+
+### What he wants
+
+**Not power and not revenge.** He has seen what both do to people, and by Act 4
+the hospital reinforces it daily. He wants to **survive and learn**, and he wants
+to heal because if he had known how he might have saved people along the way.
+
+The turn happens in Act 3: he loses the argument to Haku and then watches Haku
+die proving the point — a person who made himself into a tool for a purpose.
+That is what converts him out of Act 2's logic, and it is what lets him survive
+the Act 4 news instead of being destroyed by it.
+
+### Illiterate in his own medium
+
+The Ruri grew and cut the crystal. The **guild** did the inscribing. He spent his
+entire childhood watching seals go onto his family's work and nobody ever told
+him what they said — it wasn't their part of the job.
+
+The economic dependency of Act 1 is also his intellectual wound, and it pays off
+in Act 4 when he sees a cursed seal on a dying Sound shinobi and realises the
+medium was always his and the writing never was.
 
 ### Deployed, not deserting
 

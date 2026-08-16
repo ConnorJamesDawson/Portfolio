@@ -3,11 +3,20 @@
 First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
 **Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
-**Opens:** the amnesty hearing. **Closes:** a choice about what he is.
+**Opens:** the amnesty hearing. **Closes:** he stays, as a medic.
 
-**Function of the act:** he buys his life in a new country on the exact terms
-that kept his family alive in the old one, breaks those terms, and has to decide
-what he wants to be when he's caught.
+**Function of the act:** he stops being a weapon. Acts 1–3 take everything from
+him; this one is where he builds something and then survives learning that
+everything he lost was for a war other people won.
+
+**Motivation, corrected and load-bearing:** not power, not revenge. He has seen
+what both do to people, and the hospital reinforces it daily. He wants to
+**survive and learn** — and he wants to heal because if he had known how, he
+might have saved people along the way.
+
+**The turn that makes this possible happens in Act 3.** He loses the argument to
+Haku and then watches Haku die proving the point: a person who made himself into
+a tool for a purpose. That is what converts him out of Act 2's logic.
 
 **Canon note — do not state a date.** The exact end of the Kiri civil war is not
 pinned down. Kiri sat out the Part I Chūnin Exams; Yagura died when Ao dispelled
@@ -17,29 +26,29 @@ no source narrows, and this act sits inside it.
 
 ---
 
-## Part A — Hiruzen
+## Part A — Amnesty
 
-**1. Amnesty.**
-Konoha operates a defection route: a missing-nin may turn himself in if he brings
-something the village wants. This is an institution, not a kindness, and it is
-why he gets in at all.
+**1. The route in.**
+Konoha operates a defection system: a missing-nin may turn himself in if he
+brings something the village wants. This is an institution, not a kindness, and
+it is the only reason he gets in.
 
 **His ticket is the crystal.** Not his story, not Kakashi's word, not Naruto
 arguing on a bridge. An asset assessment.
 
 **2. The terms.**
-Hiruzen Sarutobi grants it with conditions, and the conditions are *reasonable* —
-this is a foreign missing-nin with a rare kekkei genkai and an unverifiable
-account of himself:
+Hiruzen Sarutobi grants amnesty with conditions, and the conditions are
+*reasonable* — this is a foreign missing-nin with a rare kekkei genkai and an
+unverifiable account of himself.
 
 - **No combat practice. At all.**
 - Monitored movement, a minder, no headband.
 - **Every piece he makes is audited.**
-- His residency is conditional on **meeting a quota**.
+- Residency conditional on **meeting a quota**.
 
 **3. The bargain, again.**
 The Ruri were kept alive because they were productive. He has crossed the world
-and bought his life on identical terms, and this time he signed it himself.
+and bought his life on identical terms — and this time he signed it himself.
 
 Nobody here is being cruel. That is what makes it land.
 
@@ -47,134 +56,168 @@ Nobody here is being cruel. That is what makes it land.
 2: the bingo book pricing his head. Here: a clerk weighing his monthly quota.
 Three institutions, three ledgers, the same flat handwriting, his whole life.
 
-**4. Too visible to take.**
-The bloodline is rare enough that he is watched at the Hokage's own direction —
+**4. Suspicion.**
+Watched, questioned, not trusted. **Institutional, not social** — ANBU doing
+their jobs, nothing personal in it, no villager particularly cares who he is.
+
+This is the difference between him and Naruto, and the basis for their few
+scenes together: Naruto is watched by people who hate him, the MC by people
+filling in forms. Neither can explain it to anyone else. Neither is envied. They
+don't discuss it directly and shouldn't.
+
+**5. Too visible to take.**
+The bloodline is rare enough that he is watched at the Hokage's own direction,
 which is precisely why **Danzō cannot quietly acquire him.** Root works in
 shadow; a high-profile asset under the Third's personal attention is the one
 thing it can't reach for.
 
-His safety is a side effect of his surveillance. Hold that thought for Part B.
+His safety is a side effect of his surveillance.
 
-**5. The library.**
-The payoff for a trait that must be planted in Acts 1 and 2: he is obsessed with
-chakra theory, because he spent five years reconstructing it from scraps, rumour,
-and whatever his paid teachers happened to know.
+**6. The library.**
+Payoff for a trait planted in Acts 1 and 2: he is obsessed with chakra theory,
+because he spent five years reconstructing it from scraps and paid teachers'
+half-knowledge.
 
-He walks into a **public reading room where children are doing their homework**,
-and it is the single most overwhelming moment of his life. More is freely
-available on one shelf here than he assembled in half a decade.
+He walks into a **public reading room where children are doing homework**, and it
+is the most overwhelming moment of his life. More is freely available on one
+shelf than he assembled in half a decade.
 
-**6. The hospital.**
-Work, for money against the quota. And the beginning of the real thread.
+**7. The hospital.**
+Work against the quota — and the actual spine of the act. **This is how he
+integrates.** Not through a mentor, not through a team, not through a friendship
+arc. Through shifts.
 
-**7. Healing, and why.**
-He experiments with the bloodline in secret because he cannot stop — and the
-experiments injure him, as they have since he was twelve. So he learns to repair
-the damage.
+**8. Why healing.**
+He has spent years killing for money. He learns medicine because if he had known
+how, he might have saved people along the way — the ones he passed, the ones he
+was too late for, the ones he made.
 
-**The medicine is how he hides the evidence.** He is in continuous violation of
-the only terms under which he is permitted to exist in this village, and he has
-taught himself to erase the proof off his own body.
-
-Third payoff of Act 1 beat 22: the bloodline has been tearing his hands open
-since he was a child, and he is finally good enough at hurting himself to mend
-it afterwards.
+Not utility. Not cover. **Regret.**
 
 **On plausibility.** Medical ninjutsu demands very advanced chakra control plus
-real knowledge of anatomy, herbs and poisons — it is classed with genjutsu as
+real knowledge of anatomy, herbs and poisons — classed with genjutsu as
 "Intellectual Ninjutsu," and Sakura trained under Tsunade for years.
 
 He has the hard half already: artisan crystal growth is sustained precision
-chakra control, and he has had it since he was seven. **But the hospital must be
-the teacher, not the library** — supervised work is where he actually learns.
-
-The irony is the point: Konoha forbids him combat training and cheerfully teaches
-him medicine, and the medicine is what makes the secret combat training
-survivable. Their own decency is the hole in their own restriction.
-
-**8. Naruto.**
-A handful of scenes, no speeches. The only person in the village who treats him
-as a person rather than an asset, because he is the only other person there who
-knows what it is to be the thing everyone quietly watches.
+chakra control, and he has had it since he was seven. **The hospital is the
+teacher, not the library** — supervised work is where he actually learns.
 
 ---
 
-## Part B — The Interregnum
+## Part B — The Invasion
 
-**9. The Third dies.**
-The Konoha Crush. Hiruzen kills himself sealing Orochimaru's arms.
+**9. Alibi.**
+The Chūnin Exams and Orochimaru's assault. A foreign ninja in Konoha when
+Orochimaru attacks is an obvious suspect — especially one Orochimaru's people
+have been courting.
 
-The Hokage who granted the amnesty, set the terms, and made him too visible to
-take is dead within months of his arrival.
+He is visibly elbow-deep in casualties for the duration. **His integration is
+earned by circumstance he didn't choose**, which is more honest than earning it
+by being likeable.
 
-**10. Exposed.**
-His file is now just a file. The village is reeling and nobody senior is thinking
-about a foreign artisan's paperwork. The protection was never a policy — it was
-one old man's attention.
+**10. Defending the hospital.**
+The hospital is his home now and he holds it.
 
-And he is, at this exact moment, **in violation of his amnesty**.
+**This is the fortifier payoff.** He cannot duel and never could. What he can do
+is prepare ground and hold a fixed position — and here is a building full of
+people who cannot move, a defined perimeter, and time to set up.
 
-**11. Pressure.**
-Danzō was in contention for the succession and this is when Root's interest
-sharpens. *(Kept as pressure rather than an appointment — I could not confirm an
-interim Hokage term, so don't assert one.)*
+Every constraint placed on him for four acts becomes an advantage in one scene,
+and he never has to be good at something he isn't.
 
-What Danzō wants is a weapon. What the MC is quietly becoming is a medic. That
-mismatch is his only defence and he doesn't know it yet.
+**11. The Third dies.**
+Hiruzen kills himself sealing Orochimaru's arms. The Hokage who granted the
+amnesty, set the terms, and made him too visible to take is dead within months of
+his arrival. The protection was never policy — it was one old man's attention.
 
-**12. Guren.**
-She can reach him even here. The offer at last, at the moment he has least to
-refuse it with — and it is the same offer Danzō is circling, in a kinder accent.
+**12. The seals.**
+In the aftermath, among the Sound dead and dying: **cursed seals on their necks.**
 
-He was warned in Act 2 beat 4, by an organisation that then denied his existence
-for five years.
+The trigger is not "seals are interesting." It is that he is **illiterate in a
+language he was raised beside.** The Ruri grew and cut the crystal; the *guild*
+did the inscribing. He spent his whole childhood watching seals go onto his
+family's work and nobody ever told him what any of them said — it wasn't their
+part of the job.
+
+Now he sees something on a dying man's neck that is unmistakably *written*:
+deliberate, designed, authored. The medium was always his. The writing never was.
+
+**Seals are to him what code is to a programmer** — a rule system, learnable,
+composable, and satisfying in a way nothing else has been since the workshop.
+*(The cursed seal is Orochimaru's own work rather than standard fūinjutsu; that
+is a door he shouldn't be able to open, which is the point.)*
+
+**13. Guren is alive.**
+Learned from a wounded shinobi in the aftermath.
+
+**Not a threat and not a revenge target** — with vengeance off the table, what
+she represents is the one person who could teach him properly. He now has
+libraries, a hospital, seals, and a home, and Orochimaru's people could *still*
+teach him more and faster.
+
+The sharpest possible offer, because it is aimed at the only thing he actually
+wants.
+
+**14. Restrictions relaxed.**
+Goodwill from the invasion, and ANBU with far more urgent problems than a man
+they have already watched for six months. Not a reward ceremony — an
+administrative easing that nobody announces.
 
 ---
 
-## Part C — Tsunade
+## Part C — What He Built
 
-**13. The Fifth.**
-Tsunade is inaugurated — the greatest medical ninja alive, and the one person in
-the world who would identify self-taught medical ninjutsu on sight.
+**15. Innovation.**
+With room to work, the experimentation that kept him alive becomes the thing he's
+actually for.
 
-His entire secret is medical. She inherits the decision about him.
+**Self-healing crystal, activated through chakra.** Sealed medical work: crystal
+that holds a charge and releases it into a wound. Nobody in the world is doing
+this, because nobody else grew up in a crystal workshop, taught themselves
+medicine out of guilt, and then learned to read seals off a corpse.
 
-**14. Caught.**
-The act's climax. However it happens — an injury he can't hide, an audit that
-doesn't add up, a colleague who notices — the violation surfaces, and it surfaces
-to someone qualified to understand exactly what he's been doing to himself.
+It is also decisively **not weapon value** — which is his defence against Root
+without either of them ever naming it.
 
-Konoha was decent to him. He betrayed it anyway, because he could not stop being
-what Kiri made him.
+**16. Tsunade.**
+The Fifth is inaugurated: the greatest medical ninja alive, and now his
+institution's head. Whether she teaches him personally is open (see below).
 
-**15. The news.**
-Somewhere in here, through intelligence summaries read out by a clerk with no
-idea he's in the room for a reason:
+**17. The news.**
+Through intelligence summaries read out by a clerk with no idea he is in the room
+for a reason:
 
 - **Ao's discovery.** The Mizukage was under someone else's control the entire
   time. The player has known since Act 1; this is where it lands on the
-  character, and it lands as bereavement, not as a twist. The revenge he
-  organised his life around was aimed at a hostage.
+  character. Not a twist — a bereavement. The revenge he organised his life
+  around was aimed at a hostage.
 - **Yagura dies. Mei Terumī becomes Fifth Mizukage. The purges stop.**
 - Nothing he did appears anywhere in the account. The money arrived, was spent,
   and is indistinguishable from all the other money.
 
-**16. The ledger.**
-Kiri reforms and reparations require lists. Somewhere in the new administration's
-records the Ruri are entered as **extinct**, and the entry is correct.
+**18. The ledger.**
+Reparations require lists. Somewhere in the new administration's records the Ruri
+are entered as **extinct**, and the entry is correct.
 
 Bookends the Act 1 inventory: same instrument, same clerks, closing the file it
 opened.
 
-**17. The pardon.**
-A clerk in the new Kiri administration finds his file, confirms the cover, and
-stamps it. Formally exonerated of a crime he was ordered to commit, by a
-government that no longer resembles the one that ordered it, on the word of
-records nobody thought to destroy.
+**19. The pardon.**
+A clerk in the new Kiri administration finds his file, confirms the cover, stamps
+it. Formally exonerated of a crime he was ordered to commit, by a government that
+no longer resembles the one that ordered it, on the word of records nobody
+thought to destroy.
 
-**18. The choice.**
-Kiri is safe now, and empty. Konoha has caught him and has to decide what he is.
-Guren's offer is still open. Root is still interested.
+**20. He survives it.**
+This is the resolution, and it works only because he stopped wanting revenge
+first.
+
+The past arrives in full — the puppet, the war won without him, his family
+recorded as a closed file — and it does not destroy him, because it is aimed at a
+person he is no longer. He has shifts in the morning.
+
+**21. The choice.**
+Kiri is safe now, and empty. Guren's offer stands. Root is still interested.
 
 **He doesn't take a headband. He takes a hospital post.**
 
@@ -182,21 +225,22 @@ Act 1 he was a craftsman. Act 2 he butchered the craft into a weapon. Here he
 turns the weapon back into a craft — and this time he chooses it rather than
 inheriting it.
 
-It is the only thing in this design he actually wins, and it is small enough to
-believe.
+The only thing in this design he actually wins, and small enough to believe.
 
 ---
 
 ## Open questions
 
-- **How he gets caught** in beat 14 — injury, audit, or witness. Each implicates
-  a different person and changes who has to decide about him.
 - **Does Tsunade take him on?** Teaching him properly is the warm ending;
-  permitting him without teaching him is the colder and probably better one.
+  permitting him without teaching him is colder and probably truer — he has spent
+  the whole game learning from people who fell, and being finally taught by the
+  best in the world may be a reward the story hasn't earned him.
 - **Does he meet Mei?** He funded her war for five years and she has no idea he
-  exists. Strongest version is that he could claim it and doesn't — or that they
-  never meet at all.
-- **Sequel hook.** This lands roughly two years before the Fourth Shinobi World
-  War.
+  exists. Strongest version is that he could claim it and doesn't — or they never
+  meet at all.
+- **How far the seal work goes.** Fūinjutsu is a deep discipline and he is
+  self-taught in it too. Risk of overpowering him late; the governor is that his
+  seals are *medical and material*, never combat.
+- **Sequel hook.** Lands roughly two years before the Fourth Shinobi World War.
 - **Where the scroll thread completes** — here or in Act 2. Landing it here means
   the inheritance arrives after there is anyone left to have wanted it for.
