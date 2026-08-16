@@ -1,15 +1,31 @@
-# Acts 6–7 — Skeleton
+# Acts 7–8 — Skeleton
 
 **Sketch only.** Recorded so the back half has a shape. Neither act is drafted.
 
 ---
 
-# Act 6 — The Rubble
+# Act 7 — The Rubble
 
 **Span:** Shippuden, Pain's assault on Konoha. MC ~20.
 
 **The event:** Pain destroys the village. Nagato revives the dead; **the buildings
 stay gone.**
+
+### He agrees with Pain
+
+Act 6 leaves him holding Nagato's thesis — that the shinobi system manufactures
+suffering and the powerful spend the weak — reached independently, from evidence,
+months before Pain says it aloud.
+
+**So he is not a bystander to the ideological confrontation.** He is the person in
+the audience who already agrees with the man who just levelled his home, and he
+has to watch Naruto argue him out of it.
+
+**Naruto's answer has to work on him too, or it does not work at all.** That is
+this act's real climax — not the destruction, the argument.
+
+Do not resolve it cheaply. He has better evidence for Pain's position than almost
+anyone alive, and whatever moves him has to be worth more than evidence.
 
 **Why it matters to this character specifically:**
 
@@ -31,7 +47,7 @@ to find it flattened rhymes harder with Act 1.
 
 ---
 
-# Act 7 — The War
+# Act 8 — The War
 
 **Span:** the Fourth Shinobi World War. MC ~21.
 **Ends:** Madara's defeat.

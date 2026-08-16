@@ -5,14 +5,14 @@ and cast, `act-4.md` for what precedes this.
 
 **Span:** the 2.5-year timeskip and into early Shippuden. MC ~19 at the opening.
 **Opens:** a prisoner nobody is supposed to know about.
-**Closes:** Sasuke kills Orochimaru and the network fragments.
+**Closes:** Sasuke kills Orochimaru and the network fragments. → `act-6.md`
 
 **Function of the act:** he finally has to choose a side. Acts 1–4 happen *to*
 him — used without being told, deployed, traded, licensed. Here he is given a
 mission with real latitude and has to decide what he is on the way through.
 
 **Act 4 is the midpoint of the game, not the end.** The full arc runs to the
-Fourth Shinobi World War (see `act-6.md`, `act-7.md`).
+Fourth Shinobi World War (`act-6.md`, `acts-7-8.md`).
 
 ---
 
@@ -185,7 +185,7 @@ Out, with whatever he chose to become.
 - **Does he take Guren's offer, even temporarily?** Going and coming back is
   riskier and considerably more interesting than a clean refusal.
 - **Does Guren survive the act?** She is anime-original with an ambiguous canon
-  fate, so either is available. Surviving makes her a presence in Acts 6–7.
+  fate, so either is available. Surviving makes her a presence in Acts 6–8.
 - **What Konoha does with what he brings back**, and whether he tells them
   everything.
 - **How Tayuya's death is caused** — slip, sacrifice, or choice. Only the third

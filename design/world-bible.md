@@ -233,7 +233,8 @@ operation, not the place.)
 — used without being told, then deployed, then traded, then licensed. He loses an
 argument to each of them, because each picked a side and can defend it.
 
-Act 5 is where he finally has to pick one.
+Act 5 is where he finally has to pick one, and Act 6 is where the answer curdles
+from a personal one into a political one.
 
 ---
 
