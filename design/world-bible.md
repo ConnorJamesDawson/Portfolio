@@ -141,8 +141,13 @@ that is killing them.
 ## Cast
 
 ### The MC
-Player-created. ~7 at the opening, ~11–12 at the break. Can produce only small
-hollow crystal at game start. Never graduates.
+~7 at the opening, ~11–12 at the break. Can produce only small hollow crystal at
+game start. Never graduates.
+
+**Authored, not player-defined** — he loses an argument to Haku, secretly agrees
+with Madara, and carries his family's guilt, none of which a blank protagonist
+can do. Any character creator is cosmetic. Full personality, voice and
+progression in `character.md`.
 
 ### Kohaku Ruri — older sister
 Five to six years older. Already a working shinobi while the MC is in the
