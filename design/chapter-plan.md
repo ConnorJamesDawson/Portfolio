@@ -60,8 +60,8 @@ throughout as background.
 | 9 | Sazare | 13 | The crossing; the sorting station; triage with no column for him; pointed at Hot Water down Kohaku's road; Ryōsuke's warnings |
 | 10 | Sazare | 13–14 | The medic. Malnutrition first, the arm over months, the nightmares slower. First medical ninjutsu he ever sees, performed on him. Function restored; the scar stays |
 | 11 | Sazare | 14 | The craft rehabilitation — refusal, failure, a crooked earring in a rented room; first paid work; a country from "the nine that don't matter" full of people who matter entirely |
-| 12 | Sazare | 14–15 | First bought teacher (fallen); grasping in the dark; the fortifier emerging; **the bingo book with his name in it** — the Schedule B file wearing a price; courier work and the money going home |
-| 13 | Sazare | 15 | **The place he almost stays.** Whole chapter. Protected. He leaves because the hunter is close and the money has to move |
+| 12 | Sazare | 15 | The ronin Sakai and the sword — *hard to kill, never a swordsman*; off the lattice (shape vs smoothing; **the note**); **the bingo book with his name in it** — the Schedule B shield voided by the square, the clerk's kindness now the caveat |
+| 13 | Sazare | 15–16 | **Leaving Yumoto.** The almost-stay beat is Yumoto itself — the warm centre paid for in full. Courier work resumes on the road; the money keeps moving |
 | 14 | **Jirō** | 15–16 | Reconnaissance, out and about, searching. How he got the file and why he wanted it. War-state carrier from the hunter's side |
 | 15 | Sazare | 16 | The encounter — survived by prepared ground, won nothing. **Four years, and the mask.** Ends on the hinge: the killing contract, taken deliberately |
 | 16 | Sazare | 16–17 | The work changes; Guren's first approach (a meal, no ask); the scroll rumour through the courier network |

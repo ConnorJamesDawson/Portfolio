@@ -110,16 +110,37 @@ The rehabilitation of the craft, earned over a chapter — refusal, failure, a
 crooked earring grown badly in a rented room. The first thing he has made since
 the spike. The first meal bought with work his mother taught him.
 
-**8. Buying a teacher.**
-No academy will touch an unaffiliated foreign boy with a wanted bloodline. His
-instructors are the fallen — a disgraced jōnin, a retired mercenary, a drunk
-with one good technique left. **Every teacher is a preview of what he might
+**8. The swordsman.**
+He owns no jutsu and has no foundation for any — the Academy taught still
+water, throwing, and substitution forms, and no missing-nin teaches elemental
+ninjutsu to an unaffiliated boy. What can be taught from nothing is the sword.
+
+His teacher is a fallen man all the same — a ruined ronin doing bathhouse door
+work, drinking his wages — and **every teacher is a preview of what he might
 become.** Training costs money; money comes from work; the economy of the act.
 
-**9. Grasping in the dark.**
-The experiments, and what they cost. He develops **workshop crystal** — fluent
-at structures, barriers, traps, precision, anything prepared; hopeless at
-speed, armour, anything reactive. **A fortifier, not a duelist** — the culvert
+**Governor, permanent:** he is never a prodigy. The teacher's assessment is the
+fortifier ceiling said plainly: *you started eight years late; you'll never be
+a swordsman; what you can be is hard to kill.* Seven seconds of not dying, and
+leave. The sword also carries its own weight in this story — his family died
+by one, he killed the man who carried it, and blades-handed-down versus
+**a blade you make yourself** is a thread that pays years from now, never in
+this act.
+
+**9. Off the lattice.**
+The curiosity engine pointed at his own trade. He has grown twice without a
+lattice — blood, and a bent stove wire — and nobody in the compound could ever
+say what the copper was for. Empirically, alone, at night: the lattice did two
+jobs, **shape and smoothing**, and still-water control can do the smoothing
+itself. Shaping by intent is the frontier — growth along a string, around a
+form, a facet freehand.
+
+One discovery folds the canon weakness in as craft knowledge: **pieces have a
+note, and a wrong-grown piece shatters at its note.** The frames hummed his
+whole childhood, none of them quite in tune. Now he knows why that mattered.
+
+He remains **a fortifier, not a duelist** — fluent at structures, precision,
+anything prepared; hopeless at speed, armour, anything reactive. The culvert
 lesson formalised: he wins by having been somewhere first.
 
 **10. The bingo book.**

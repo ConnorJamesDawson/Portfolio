@@ -125,6 +125,29 @@ is what got bloodline clans feared in the first place.
 The MC's arc is butchering his own craft into a weapon. His skill grows and his
 art dies. Power growth must read as loss, never as reward.
 
+### The lattice, and the note
+
+The copper lattice does two jobs the clan never separated: **shape** (a
+boundary the growth answers to) and **smoothing** (evening an uneven feed).
+Strong growers barely need the second; the trade needed consistent product, so
+the lattice became liturgy and nobody could say what the copper was for.
+Sazare separates the two jobs empirically in Act 2 — his control does the
+smoothing; shaping by intent is his innovation lane, years before the seal
+work.
+
+**Pieces have a note.** A wrong-grown piece shatters at its note — the canon
+sound-weakness discovered from inside, as craft knowledge. The frames' hum was
+this. A grown blade would have to be made *off-note* — one of the reasons the
+blade thread runs years, not chapters.
+
+### The grown blade — long thread
+
+Planted Act 2: swordsmanship from Sakai (survival fencing, never mastery), and
+lattice-free shaping. Zabuza in Act 3: *blades are handed down.* Kubikiribōchō
+refused at the grave. The answer, far downstream: **a blade nobody handed him,
+grown by his own hands, slowly, off-note — the anti-spike.** Do not deliver it
+early; the question is the thread, not the sword.
+
 ### Naming convention
 
 The Ruri name their children after stones.
