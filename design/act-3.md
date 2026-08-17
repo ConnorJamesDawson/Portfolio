@@ -158,6 +158,34 @@ still angry* — and Haku has a different refusal for each. The outcome is fixed
 what the MC learns about himself is not. This is a choice about characterisation,
 not plot, and it should be honest about that rather than pretending otherwise.
 
+**8b. Where the conversation happens — ruling.** *(ch20 sc2.)* **Before the
+bridge**, at first light on the north shore in fog, not during the fight: canon
+owns the mirrors, and the Naruto/Haku conversation is the one that belongs
+there. The three appeals run in order and each fails differently:
+
+1. *He doesn't want this.* — Every fact correct, conclusion wrong. Zabuza cannot
+   say a warm thing, so the caring comes out **as use**; there is no warmer
+   version underneath to be got at. Take the use away and you have two people in
+   a house with nothing to do with each other.
+2. *You're a person, not a tool.* — Haku doesn't dispute it and is faintly
+   impatient that everyone assumes that's the confusion. A tool is what he is
+   *for*. Being a person is what nobody wanted; being useful is what somebody
+   came and got. *You are asking me to prefer a version of myself nobody has
+   ever asked for.*
+3. *I was used too.* — The MC gives up his own story for the first time in four
+   years, and Haku ends him with one question: **would you have said yes, if she
+   had asked?** The answer comes out instantly. *Then you are not angry that she
+   used you. You are angry that she didn't ask.* Haku was never asked either —
+   but he was **told**, from the second week, every time. *That is much less than
+   being asked and immeasurably more than you got.* **You're not asking me to
+   save my life. You're asking me to give up the only thing you ever wanted.**
+
+Closes on **"Was she wrong?"** — four years of work, and the answer is no, and
+the MC has licensed the whole thing with his own mouth. Then Haku settles his
+accounts (the pan for O-Kiyo, the larch under the veranda) and the MC realises
+one second too late that the entire hour has been a man putting his house in
+order.
+
 **9. The shield.**
 His one use of the bloodline in the act: **defensive.** A barrier, a block,
 someone pulled out of the way. No win condition, no loss condition.
@@ -165,6 +193,23 @@ someone pulled out of the way. No win condition, no loss condition.
 This inverts Act 1 beat 22 exactly. The first time he used this power it was a
 spike, it killed a man, and it tore his hand open. The last time, it is a wall,
 it protects someone, and he chooses it.
+
+**Written (ch20 sc4):** a hip-high lip along eight feet of the **unfinished,
+unparapeted** deck edge, during Gatō's rout, when thirty men break the wrong way
+into the arriving villagers and the scrum reaches the drop. Two men, a woman, and
+**Inari** stay on the bridge. It comes out exactly as badly as everything he
+grows under pressure — one course, no smoothing, ugly as a splint — and it
+**holds four seconds and goes**, and a hundred and thirty people in a rout are
+all looking six hundred feet the other way, so nobody sees it and it is ground to
+grit inside a minute.
+
+**The realisation is the act's payoff and must not be softened into a power-up:**
+four seconds was never a defect. It is a **specification** — a number, like the
+width of a chisel — and there is no such thing as a bad number, only jobs it fits
+and jobs it does not. Every job he had ever chosen for himself was one it did not
+fit, because he chose them all by what would keep him alive. He had to walk onto
+somebody else's bridge in somebody else's war to be handed one it fitted exactly,
+with nothing to spare and nothing wanting.
 
 **10. Haku dies. Zabuza dies.**
 Exactly as written. The MC watches from the edge and changes nothing.
