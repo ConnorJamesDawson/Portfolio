@@ -38,8 +38,8 @@ He had been collecting its members all his life.
 
 ---
 
-He asked on a wet evening in the third month of his fifteenth year, at the
-door, with the steam coming off the bath-house eaves and the lamps just lit.
+He asked on a wet evening in the third month, the spring after his fifteenth
+birthday, at the door, with the steam coming off the bath-house eaves and the lamps just lit.
 
 "Will you teach me the sword?"
 

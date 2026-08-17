@@ -207,5 +207,5 @@ against — "on an empty stomach. In you come."
 
 The steam went up out of the whole valley into the morning.
 
-Sazare Ruri, thirteen years and five months old, picked his bundle out of the
+Sazare Ruri, thirteen years and six months old, picked his bundle out of the
 road, and went up the steps of the last house before Yumoto, and in.
