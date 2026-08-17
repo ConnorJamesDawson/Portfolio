@@ -1,6 +1,6 @@
 # Chapter 16, Scene 5 — The Second One
 
-*Act 2, part D. Kanezaki. POV: Guren. ~3,750 words.*
+*Act 2, part D. Kanezaki. POV: Guren. ~3,650 words.*
 
 ---
 
