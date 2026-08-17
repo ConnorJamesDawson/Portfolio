@@ -1,7 +1,7 @@
 # Chapter 18, Scene 2 — A Town That Cannot Pay
 
 *Act 3, part A. Nami, the Land of Waves. Sazare Ruri, age sixteen. POV:
-Sazare. ~2,450 words.*
+Sazare. ~3,050 words.*
 
 ---
 
@@ -234,10 +234,19 @@ tearing shreds.
 
 "I'm the mender."
 
-"My daughter's been on at me about a rice steamer." He turned away and
-started back up the deck, waving one hand over his shoulder without
-looking round. "Come at seven, there'll be food. And don't tell anybody
-about the pine, they've enough on."
+"Tazuna." He put a hand out, and shaking it was like shaking a bag of
+walnuts. "My daughter's been on at me about a rice steamer." He turned
+away and started back up the deck, waving one hand over his shoulder
+without looking round. "Come at seven, there'll be food. And don't tell
+anybody about the pine, they've enough on."
+
+Sazare had known the name for five weeks. Everybody in Nami said it about
+four times a day, in the particular tone a dying town keeps for the one
+man in it who is still trying — half exasperation, half something they
+would not have admitted to — and it had not once occurred to him to put
+*old Tazuna, the drunk, the bridge* together with a man who had built
+fourteen sets of forms in the water on a falling tide and struck them and
+rebuilt them and had not got sloppy on the ninth.
 
 ---
 
@@ -266,6 +275,60 @@ Sazare stopped on the shore path in the pines with his hand on a trunk and
 stood there for a while with his eyes shut.
 
 Then he went back into the town and mended a rice steamer, and turned up
-at seven at a house on the water side where an old man's daughter fed him
-too much and would not take a ryō, and did not tell anybody about the
-pine.
+at seven at a house on the water side that stood on its own piles at the
+end of the plank walk with a lamp already lit in the window.
+
+Tazuna's daughter was called Tsunami and she was about thirty, tall, with
+her father's square jaw and none of his bristle, her black hair pushed
+back off her forehead with a folded cloth and her sleeves pushed to the
+elbow. She had a cook's hands — scalded across the backs, nails kept
+short. She fed him a quantity of rice and grilled mackerel that he was
+physically unable to finish, and would not take a ryō for it, and took
+the mended steamer off him and turned it over twice and said "oh" in a
+small voice when she found the new gasket, because the old one had been a
+cut strip of somebody's boot for two years.
+
+There was a boy at the table.
+
+He was eight or nine, in a striped fisherman's smock, wearing a white
+bucket hat he did not take off indoors. He ate with his head down and his
+elbow round his bowl and he did not say one word for the whole meal. When
+Tazuna talked about the bridge — which he did, at length, with his chin up
+and his glasses going opaque in the steam — the boy set his chopsticks
+down and looked at the wall until it was finished.
+
+Sazare watched that happen twice and identified it immediately and
+completely, the way you identify a smell out of your own childhood, and
+kept his face exactly where it was, and said nothing whatever about it,
+because there was nothing available that was both true and any use, and
+he had made a rule some years ago about not saying things that were only
+one of the two.
+
+He got the rest of it inside a week, from three separate people, in the
+way you get everything in a small town — sideways, as garnish, in a story
+about something else.
+
+The boy was called Inari. He had had a father — not by blood, but by
+every other measure that has ever counted — a man off the boats called
+Kaiza, who had gone into the water in a storm to hold the town's dam and
+had come out of it a hero, and had gone on afterwards saying so, in
+public, about Gatō.
+
+So Gatō's people had taken him one morning and put him up on a scaffold
+on the town quay, and had gathered everybody — everybody; the whole of
+Nami, standing in a half-circle, facing one thing — and had cut his arms
+off first, on account of something he had once said about protecting the
+people you love with both arms, and then killed him.
+
+And had made his son stand at the front.
+
+Sazare heard the last of it at the water queue with a kettle in his hand,
+from a woman who told it flatly, in the smooth worn way people tell a
+thing that has been in a town too long to have edges left on it. He
+thanked her. He carried the kettle back along the plank walk to the net
+loft and set it down on the bench and did not light the lamp, and sat on
+the floor with his back to the wall in the middle of the afternoon for a
+considerable time, with the tide going out underneath him and the cold
+coming up through the boards.
+
+He did not tell anybody about the pine.

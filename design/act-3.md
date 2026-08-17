@@ -49,6 +49,30 @@ do not touch it again until beat 12.
 First conversation. Warm, disarming, and quietly the most frightening person in
 the act. Both of them recognise the other's accent before either says anything.
 
+**5b. Inari, and the scaffold.** *(Added after ch18 — the strongest parallel in
+the act, and it was nearly missed.)*
+
+Kaiza was executed by Gatō **publicly, deliberately, to demoralise the town**:
+put up on a scaffold on the quay, the whole of Nami gathered in a half-circle
+facing one thing, his arms cut off first in mockery of what he had said about
+protecting people with both arms, and his son made to stand at the front.
+
+That is Sazare's square, feature for feature — the platform, the audience, the
+dismemberment as an instruction to everyone watching, the child in the crowd.
+His mother's sleeves were pinned; Kaiza's arms were taken. And the crowd wound
+Sazare carries is *specifically* about a crowd facing one thing.
+
+**Ruling: he can do nothing for Inari, and must not.** Anything that helps is
+either a lie or is Naruto's job. Sazare will not lie — it is the one thing of
+Tōan's he kept — so he understands the boy perfectly, completely, at sight, and
+has nothing to offer him. Then a loud blond idiot he has no reason to notice
+fixes it in one speech.
+
+**This is the act's thesis in miniature** and should be positioned as such:
+present for the most important events of his life and decisive in none of them.
+Do not let him say one useful thing to Inari. The recognition is silent on both
+sides or it is nothing.
+
 **6. Team 7.**
 Sighted, not met. Four Konoha shinobi, one of them a loud blond boy the MC has
 no reason to notice. He has been told his whole life what Konoha are. They do
