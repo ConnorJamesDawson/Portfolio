@@ -160,7 +160,7 @@ left.
 
 ---
 
-## Part D — The Almost-Life and the Fall (ages 15–17)
+## Part D — The Almost-Life and the Fall (age 15)
 
 **12. The place he almost stays.** *(Whole chapter. Protected. Do not cut for
 pace.)*
@@ -175,18 +175,54 @@ He knows Sazare never served; what he believes is his own account of the square
 and the people Sazare left with. Never wrong in his own frame. How he got the
 file, and why he wanted it, is his chapter to answer.
 
-**14. Survived, not won.**
-The encounter, at ~16. Sazare lives through it by prepared ground — a trap laid
-two days early, a wall where a wall should not be — and wins nothing. He
-understands with total clarity that he cannot survive the second visit as he
-is. **Four years** after the street parting, and the mask is exactly where the
-prose promised it would be.
+**14. Survived, not won.** *(Written: ch15, Tomari.)*
+The encounter, at 15y10m. Sazare lives through it by prepared ground and wins
+nothing at all — eleven seconds and a hole in a drain. **Three years** after the
+street parting, and the mask is exactly where the prose promised it would be.
 
-**15. The hinge.** *(Act midpoint by weight, whatever the chapter number.)*
-He needs training he cannot afford, urgently. Fabrication will not cover it in
-time. **He takes the killing contract deliberately**, knowing what he is buying
-and what he is paying with. He can name the reason. That is worse than
-drifting.
+Three things the prose fixed that the design must now hold:
+
+- **The seeding habit.** For two years, in every place he sleeps, he has grown
+  small fixtures into the fabric — a rung in render, a spur in a door rebate, a
+  ridge on a slate, a cleat in a drain — and in two years not one of them has
+  ever been the slightest use. At Tomari four of them are used inside eleven
+  seconds. He had a diagnosis ready for the habit (*a man who cannot sleep in a
+  room he has not fortified*) and the diagnosis was correct; it was **also** the
+  four seconds. A symptom and a weapon, same object, two ends.
+- **The flag is a rule of the fight.** *Damage to hands or forearms voids
+  premium* stops being a tag round his neck and becomes tactical: he puts his
+  arms where the blows are, and the blows abort. He does not survive by skill.
+  He survives by a clerk's wording and a friend's lie, and he knows it by the
+  next afternoon.
+- **What Jirō does.** He comes eight feet into the culvert, close enough to
+  take him, says **"Seven's fine"** — two words said once on a wall above a
+  market at ten years old, which nobody else alive owns — asks nothing that
+  would need an answer, backs out, and lies to his own detail in the road.
+  *Open question closed.* The consequence is not that Jirō hunts him; it is
+  that Jirō **chose**, which means there will be a second visit and Sazare will
+  have to be ready to do something about a person.
+
+**15. The hinge.** *(Written: ch15 sc5, Tsuzura, twenty-three days later.)*
+He needs training he cannot afford, urgently, and the trap is arithmetic rather
+than temptation: a year with a real teacher is ~200 ryō; carrying clears ~30 a
+year; and every hunter cycle takes the pot back to zero, because the method of
+finding him **is** finding the town his money lives in. Honest work cannot buy
+the thing honest work needs to survive. He checks it four times looking for the
+error. There isn't one.
+
+**He takes the killing contract deliberately**, on a knee that will not bend,
+and the specific corruption is this: **he refuses to be told who the man is.**
+The broker offers — brokers always offer, it is how a new man is kept
+serviceable — and Sazare says *don't*, and gives the true reason, which is that
+if he is told he will take it apart, because taking things apart is the only
+thing he has ever been able to do. The boy whose one trait was that curiosity
+beat fear, closing his own eyes on purpose. He names it a coward's arrangement
+himself and takes the money anyway.
+
+Two riders: **the tenth still goes home**, out of the advance, because he will
+not start sorting his money into kinds. And that night he does not seed the
+room — the first room in two years — because a man only fortifies a room he
+expects to be **found** in.
 
 **16. The work changes.**
 Tier-three becomes normal. Craft skills persist, repurposed — the same
@@ -201,8 +237,9 @@ A contract on another bloodline user. Whether he knows before he takes it is
 the darkest dial in the design — still deliberately unresolved. He does it. He
 is very good at this now.
 
-**Close:** solvent, capable, hunted, alone, seventeen, and the money still goes
-home every month to a war he has not seen in four years.
+**Close:** solvent, capable, hunted, alone, fifteen, and the money still goes
+home every month — a tenth of a killing fee now — to a war he has not seen in
+two and a half years.
 
 → **Act 3, the Land of Waves.**
 
@@ -220,5 +257,3 @@ Jirō's POV chapter doubles as a war-state carrier from the hunter's side.
 - **Does he know the floor contract is a bloodline user before taking it?**
 - **The person in the almost-stay town** — a friend carries the beat; anything
   more changes the act's register and should be chosen on purpose.
-- **What Jirō does at the end of the encounter** — presses, withdraws, or
-  reports something other than what he found.

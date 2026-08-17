@@ -139,7 +139,7 @@ the wood's own say-so, a cloth roll of thirty-four worthless offcuts,
 twelve chips against the day he needed a door, and a pendant's weight
 of a question he had refused to answer beautifully.
 
-Sixteen years old. Taught, not run.
+Fifteen years old. Taught, not run.
 
 "Now this stretch," said Hachirō, comfortably, as the cart came down
 onto the coast road's long grey levels, "this stretch is *honest*—"

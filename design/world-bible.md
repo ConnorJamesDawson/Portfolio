@@ -354,8 +354,8 @@ Rulings made during drafting, binding on later chapters:
   iconography. His camouflage is the truth.
 - **The crowd wound is specific**: he cannot be in a crowd facing one thing — an
   audience, a platform. Markets stay his camouflage.
-- **Jirō is the Act 2 hunter**, reconnaissance stream, encounter at ~16 — "four
-  years, and the mask" (ch. 7 emended).
+- **Jirō is the Act 2 hunter**, reconnaissance stream, encounter at 15y10m —
+  three years, and the mask (ch. 7 as written).
 - **The three-year gap is priced, not negligent.** Kiri carried him at even odds
   dead for two years (starved child, ruined arm, winter crossing), and retrieval
   is not leak-plugging — he holds no ciphers, so he lost every wartime triage to
@@ -373,10 +373,38 @@ Rulings made during drafting, binding on later chapters:
   at fifteen, by a month** — the sixteenth birthday passes unremarked in
   custody. Consequences: Jirō is fifteen on the corridor; the listing runs ~2
   years not 4; the fall (hinge → floor) is a plunge over weeks, not a year's
-  slide. Accepted canon strain, recorded once: this sets Zabuza's coup ~3–4
+  slide — twenty-three days from Tomari to the broker's inner stair, taken on a
+  knee that will not bend, because there was never time to heal it. Accepted canon strain, recorded once: this sets Zabuza's coup ~3–4
   years before Part I rather than the fan-databook 6, and ages Kimimaro's cage
   scene accordingly — the timeline table already labels those figures
   approximate.
+
+### The seeding habit (est. ch15, retroactive to Act 2 part B)
+
+For two years, within about three days of arriving anywhere he sleeps, he goes
+round the place — not searching, **reading**: which wall takes a boot, which
+door opens inward and can therefore be wedged, where the dark is, where a man
+coming in fast has to slow down. Then, over the following nights, twenty minutes
+at a time, he grows **fixtures**. Never weapons — a grown blade in a room is a
+room with a grown blade in it, and rooms get searched. A rung in render six feet
+up, blue-grey, reading as old repair to anyone who does not put a hand on it. A
+spur in a door rebate where a wedge wants a shoulder. A ridge on a slate under
+an eave. A cleat inside a drain-mouth.
+
+Eleven lodgings across two countries. Not one of them ever used, until Tomari,
+where four are used inside eleven seconds. He has never told a living soul,
+because he is embarrassed by it and has a diagnosis ready in Tōan's voice: *a
+man who cannot sleep in a room he has not fortified, treating himself for a
+condition he will not name.* The diagnosis is correct. It is **also** the four
+seconds Sakai told him to buy from ground. Symptom and weapon, one object, two
+ends — and he does not see it until he audits it in a lime kiln with two ribs
+gone.
+
+**Rule going forward:** the habit is his, permanently, and it is never
+foreshadowed as clever. It is only ever shown as compulsion, and it only ever
+pays by accident. The one time it stops — the night after he takes the killing
+contract — is the loudest thing in the act, and the reason is stated flat: a man
+fortifies a room he expects to be **found** in.
 
 ## Themes
 
