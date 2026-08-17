@@ -261,8 +261,16 @@ What the prose fixed and the design must now hold:
   Guren's offer lethal.
 
 **Guren's first approach** *(ch16 sc5, her POV)*: she finds him **by his own
-seeding habit** — a step-guard under a public water stair, grown freehand and
-smooth, which nobody else alive would look at twice. She buys him a meal, sits
+seeding habit** — a step-guard under a public water stair, and what stops her is
+not the skill but the *permanence*: it is an object, made to last, grown into a
+mortar joint to a tolerance and left there for strangers, and she has never in
+her life made anything meant to exist ten seconds after it was needed.
+
+She crystallises the wet ring under her teacup in under a second, from water,
+while talking — everything he cannot do — and he hands it back with its **note**
+found in three minutes with a chopstick, ringing across a full room. She does
+not know why her crystal shatters. Nobody has ever told her. He starts to
+explain the mechanism, gets four words in, and shuts. She buys him a meal, sits
 where he can leave, asks for nothing, and gives him one sentence: *there is a
 person alive who could tell you what you're doing wrong.* Then, at the door,
 the kindest and most frightening thing anyone has said to him: **"Stop putting

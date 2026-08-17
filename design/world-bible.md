@@ -140,6 +140,17 @@ sound-weakness discovered from inside, as craft knowledge. The frames' hum was
 this. A grown blade would have to be made *off-note* — one of the reasons the
 blade thread runs years, not chapters.
 
+**The speed/note trade — the mechanism, and it explains both users.** Canon
+states the sound weakness exists because crystal requires a very precise
+build-up of molecules, so the right frequency breaks the build-up down. So:
+**fast growth leaves the note on the surface; slow growth buries it.** Guren
+raises a labyrinth in seconds, therefore everything she has ever made rings like
+a struck glass and can be taken apart by anyone who finds the frequency — which
+is exactly what Rinji's bats did to her walls. Sazare grows a step-guard over
+three nights, therefore his work is quiet and survives three seasons of
+foot-traffic — and that is *the same reason* he can only hold four seconds under
+load. **Her weakness and his ceiling are one trade-off from opposite ends.**
+
 The note is also the **last-resort disposal** for the assassin work — a piece
 grown off-key can be given its note afterwards, destroying the *form* that
 testifies (tapered, unmounted, no tool marks) and leaving grit that reads as a
@@ -317,6 +328,20 @@ blows with Team 7 in Act 4 — a discipline mismatch, not a power-level fudge.
 It also loads Guren: she is the only living person who could correct him, and
 she can see he is self-taught in ten seconds. Orochimaru's temptation stops
 being abstract and becomes *someone can finally teach you*.
+
+**Guren has no lattice and never did — corrected against canon.** She creates
+crystal instantly from any matter, including moisture in the air; Jade Crystal
+Blade forms on her arm mid-step; she raises labyrinths, walls, prisons, clones
+and needle barrages in combat. No frame, no former, no medium, no tool. The
+lattice is a **Ruri workshop** artefact — a production tool for consistent
+saleable goods — and she has never heard of one, because she was raised as a
+weapon and never taught a craft. She does effortlessly everything he cannot.
+
+What she lacks is craft knowledge, and specifically: **she does not know why her
+crystal shatters.** Nobody has ever told her, because there was nobody to tell
+her. A jeweller finds it in three minutes with a chopstick. That is what makes
+their first meeting dangerous — he becomes valuable for a reason that has
+nothing to do with his bloodline, and Guren leaves carrying it.
 
 ## World structure
 
