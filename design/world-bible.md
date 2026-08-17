@@ -511,6 +511,59 @@ pays by accident. The one time it stops — the night after he takes the killing
 contract — is the loudest thing in the act, and the reason is stated flat: a man
 fortifies a room he expects to be **found** in.
 
+## Money — the canon scale
+
+**Corrected after ch18.** Earlier chapters priced a killing at 400 ryō, which is
+about seven bowls of noodles. Everything has been swept; this table is the
+authority.
+
+**Anchor: 1 ryō ≈ 10 yen (~£0.05, ~$0.07).** Ryō *is* the small change — there is
+no sub-unit and "coppers" have been removed from the prose entirely.
+
+### Canon reference points
+
+| | ryō |
+|---|---|
+| Ichiraku "Naruto Special" | **60** |
+| D-rank mission | 5,000 – 50,000 |
+| C-rank | 30,000 – 100,000 |
+| B-rank | 80,000 – 200,000 |
+| A-rank | 150,000 – 1,000,000 |
+| S-rank | 1,000,000+ |
+| Chiriku's bounty (elite jōnin) | **30,000,000** |
+| Asuma's bounty | 35,000,000 |
+
+### This story's ladder
+
+| | ryō |
+|---|---|
+| A meal at a stall | 60 – 120 |
+| A day's unskilled labour | 300 – 500 |
+| A cheap room, per week | 600 – 900 |
+| Five hours of skilled mending (the lantern) | 1,200 |
+| A new brass lantern from a smith | 6,000 |
+| Nakabori's purse — what he died for | 2,400 |
+| Ine's garboard repair, unpayable | 8,000 |
+| A courier's *clear* annual surplus, top of market | ~30,000 |
+| Two years of Sazare's savings (lost in a wall at Tomari) | under 50,000 |
+| A refugee's strait passage, per head | **40,000** |
+| A season with a bad teacher | 40,000 – 60,000 |
+| A year with a real one | 200,000 |
+| First contract (Nakabori) | 240,000 — B-rank money |
+| Kasado contract, made to look like anything else | 400,000 — A-rank money |
+| The Kasado ferry syndicate's monthly turnover | 400,000 |
+| Sazare's own bingo-book price, alive, undamaged, premium | 1 – 2 million, deliberately unstated on the page |
+
+**Sense checks that hold:** 360,000 ÷ 40,000 = nine of the thirty-one, so the
+Kasado arithmetic survives intact. Four hundred thousand is two years with a real
+teacher *and* is genuine A-rank money for a killing that must not look paid for.
+His courier surplus is a D-rank mission a year, which is exactly the humiliation
+intended — Konoha genin weeding gardens out-earn him.
+
+**Prose rule:** state a large sum in full on first use in a scene, then shorten
+naturally — *"Four hundred thousand." … the four hundred thousand … the four
+hundred* — the way people actually talk about money.
+
 ## Themes
 
 - **Complicity before victimhood.** The Ruri are protected because they arm the

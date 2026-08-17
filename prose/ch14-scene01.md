@@ -21,7 +21,7 @@ no contact since the twelfth day of the fifth month three years ago. Yes,
 he was certain of the date. The date was the day before the subject's
 family was produced in the fish market square, and the subject had come to
 their street looking for lodging, and had been refused, and Jirō had
-followed him to the corner and given him eight ryō and the rice out of the
+followed him to the corner and given him eight hundred ryō and the rice out of the
 cloth, and told him to keep his head down, and that was in the record too,
 all of it, in his mother's statement and his own, said straight, said the
 same, ever since.

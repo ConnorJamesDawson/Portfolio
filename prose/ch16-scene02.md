@@ -100,7 +100,7 @@ now with any pleasure at all.
 
 Her name was Mio and she was fourteen and she was, in the wholly
 unremarkable way of daughters, the single justification he had ever found
-for any of it. He had two hundred and forty ryō put by for her. He would
+for any of it. He had two hundred and forty thousand ryō put by for her. He would
 have three hundred by the spring after next. He had costed it the way he
 costed everything, and he was not going to be out on this tally either.
 
@@ -115,7 +115,7 @@ counter had mentioned him twice.
 It was his good lantern — brass, ten years old, a gift from his
 principals in a year when they had been pleased with him — and the
 hinge-plate had sheared and the pillar was bent and the smith had said
-new one, four hundred, which was robbery, and Nakabori had said several
+new one, six thousand, which was robbery, and Nakabori had said several
 things about that in the smith's own doorway.
 
 The boy's card said MENDING and the boy was about fifteen, sat on a
@@ -140,22 +140,22 @@ being shown a true thing about an object he had owned for a decade.
 
 "Yes. Not today. The plate wants making and I've a queue." The boy set it
 down on the bench with a care that was slightly excessive for a lantern.
-"Three days. Sixty."
+"Three days. Twelve hundred."
 
-"Sixty."
+"Twelve hundred."
 
-"Sixty."
+"Twelve hundred."
 
-"The smith wanted four hundred for a new one."
+"The smith wanted six thousand for a new one."
 
-"The smith wanted four hundred because he'd rather sell you a lantern
+"The smith wanted six thousand because he'd rather sell you a lantern
 than mend one, and I'd rather mend one," said the boy, "because I can't
 make lanterns."
 
 Nakabori laughed — a short bark of a thing, which surprised him, because
-he did not do it often — and paid the sixty there and then, which he
+he did not do it often — and paid the twelve hundred there and then, which he
 never did, and then, out of an embarrassment he did not examine, put
-another twenty on the bench and said it was for the plate, and left
+another four hundred on the bench and said it was for the plate, and left
 before the boy could argue about it.
 
 He was two streets away before he identified the feeling, and the
@@ -177,16 +177,16 @@ year it was made.
 
 "What do I owe you?"
 
-"You paid twenty over."
+"You paid four hundred over."
 
 "For the plate."
 
-"The plate cost four," said the boy, and put sixteen coins on the bench
+"The plate cost eighty," said the boy, and put three hundred and twenty ryō on the bench
 and pushed them across, and looked at him with an expression of complete
 and unembarrassed patience while Nakabori worked out that he was not
 going to be allowed to leave them there.
 
-He took the sixteen coins.
+He took the three hundred and twenty.
 
 He was a man who had spent twenty-six years being exactly right about
 money and it had never once, in all that time, been done *to* him.
@@ -204,7 +204,7 @@ good. "Half the lofts in this town are full of somebody's cousins from
 the Mist paying three times the rent, and there's four new hulls on the
 salt run that wouldn't exist in a quiet year. Terrible business.
 Terrible." He tucked the cloth over. "Mind you don't take work in
-copper's-worth from those families, though. They'll promise and then
+a ryō's worth of work from those families, though. They'll promise and then
 they're gone."
 
 The boy said nothing at all. He had a very still way about him.
@@ -233,7 +233,7 @@ he knew the way.
 
 The evening was cold and clear and there was a lighter going down with
 one lamp at its stern, and he stopped at the bend where the row jogged
-out, the way he did, to watch it go and to think about three hundred ryō
+out, the way he did, to watch it go and to think about three hundred thousand
 by the spring after next.
 
 He was thinking that he must ask the boy on the salt side whether he

@@ -5,7 +5,7 @@ Sazare. ~2,450 words.*
 
 ---
 
-He took a room over a net loft on the water side for eight coppers a week,
+He took a room over a net loft on the water side for eight hundred ryō a week,
 which was four more than it was worth and half what he offered, because
 the woman who let it to him tried to knock her own price down twice and he
 would not have it.
@@ -91,9 +91,9 @@ almost fitted, and, once, an apology.
 
 He took all of it, including the apology.
 
-He had three hundred and sixty ryō sewn into the lining of his coat and he
-worked six days a week for a month and cleared, in coin, about forty
-coppers, and it was the only stretch of his life in which he was never
+He had three hundred and sixty thousand ryō sewn into the lining of his coat and he
+worked six days a week for a month and cleared, in coin, about nine
+hundred ryō, and it was the only stretch of his life in which he was never
 once asked a question he could not afford.
 
 ---
@@ -267,5 +267,5 @@ stood there for a while with his eyes shut.
 
 Then he went back into the town and mended a rice steamer, and turned up
 at seven at a house on the water side where an old man's daughter fed him
-too much and would not take a copper, and did not tell anybody about the
+too much and would not take a ryō, and did not tell anybody about the
 pine.

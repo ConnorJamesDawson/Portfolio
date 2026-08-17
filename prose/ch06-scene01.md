@@ -96,7 +96,7 @@ he laid it out in a flat, tired voice that was much worse than shouting: that th
 should stop selling to the yard altogether. That they should live off the jewellers
 — private sales, no dockets, no lists — and take the loss, and take it for as long
 as it took. That eight people could live small. That the family had a house and a
-wall and a gate and eleven hundred ryō put by, and that the moment you stopped
+wall and a gate and a hundred and ten thousand ryō put by, and that the moment you stopped
 being on somebody's paper you stopped being on somebody's paper, and there was no
 other way out of a list except to get off it.
 
@@ -163,7 +163,7 @@ has to be."
 
 "They are four hundred years—"
 
-"They are *wood*," said Kohaku, "and they are worth about ninety ryō and a great
+"They are *wood*," said Kohaku, "and they are worth about nine thousand ryō and a great
 deal of sentiment, and Nao Amagai's father had a workshop too."
 
 ---

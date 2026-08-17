@@ -13,7 +13,7 @@ people walk when they have been told twice not to talk.
 The skiff was the small one, which she did not like and had chosen
 anyway. The big one had been up on the hard at the second boatyard for
 eleven days having a garboard put back in, and the garboard was going to
-cost her eight ryō she did not have, and the man doing it had stopped
+cost her eight thousand ryō she did not have, and the man doing it had stopped
 asking when she meant to pay him, which was worse than being asked.
 
 She got them in. A woman of about forty. A boy of nine or ten, wrapped in
@@ -149,11 +149,11 @@ The accounts were the accounts and she went through them anyway, in her
 head, in the dark, because they were not going to change by being
 avoided.
 
-The garboard: eight ryō. The chandlery: sound, more or less; the trade
+The garboard: eight thousand. The chandlery: sound, more or less; the trade
 was real and it paid, and it had paid for everything for twelve years.
 The line: not sound. The line had never been sound. Four crossings this
 week and the four crossings had brought in, between the lot of them,
-about eleven ryō and a wedding ring she was not going to sell, and a
+about eleven thousand ryō and a wedding ring she was not going to sell, and a
 crossing cost her a night, a boat, and a share to Bunzō, who took it and
 did not want it and had a family.
 
@@ -175,7 +175,7 @@ She was fifty-two and she was not a fool.
 
 She had done the arithmetic more than once, in this chair, in the dark:
 that the ferry syndicate at Kasado turned over something like four
-hundred ryō a month; that at the head of it were three men who lived at
+hundred thousand ryō a month; that at the head of it were three men who lived at
 Kasado, drank at Kasado, and were going to have to live and drink at
 Kasado afterwards; that she was costing them perhaps a tenth of that and
 had been costing them more every season for two years; and that the
@@ -192,7 +192,7 @@ She answered the letters. She never answered that part.
 
 It was not courage and she would have hit anybody who called it that.
 It was that there were, this week, thirty-one people in the two inns on
-the south quay who had paid the ferry syndicate forty ryō a head out of
+the south quay who had paid the ferry syndicate forty thousand ryō a head out of
 everything they had left in the world, and about a third of them were
 going to be told, at the last minute, that the price had gone up; and
 they would come to the north quay, because everybody comes to the north
@@ -226,7 +226,7 @@ tools:
 
 *That one's proper.*
 
-She would send the pulley over. It would be a few coppers and it was
+She would send the pulley over. It would be a few hundred ryō and it was
 worth it, and it would give the boy a bit of work off his own bat rather
 than the smith's, and — this was the part she would have denied if
 anybody had put it to her — a lad on his own in a strange town with a

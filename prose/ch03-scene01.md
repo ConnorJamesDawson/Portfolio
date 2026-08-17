@@ -7,7 +7,7 @@
 The rule was that you never carried anything you could not account for, and
 Kohaku had spent four years getting extremely good at accounting for things.
 
-The bag on her hip had in it: two ration bars, a spare wrap, forty-one ryō in
+The bag on her hip had in it: two ration bars, a spare wrap, four thousand one hundred ryō in
 mixed coin, a whetstone, a letter from her mother to a cousin in Nagihama that
 was two years old and had never been sent, and a twist of paper containing
 eleven small crystal offcuts of no value whatsoever.

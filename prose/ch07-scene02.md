@@ -25,7 +25,7 @@ the red gate had been repainted green.
 The fourth pontoon at the south basin still had four boats on it and a man mending
 a net, possibly the same man, who looked at him twice this time.
 
-He did not go to Kuromizu. It was four miles and he had eleven ryō.
+He did not go to Kuromizu. It was four miles and he had eleven hundred ryō.
 
 ---
 
@@ -86,7 +86,7 @@ belt-purse.
 "Jirō—"
 
 "*Take it.*" He was crying, furiously, in the way of a boy who has decided not to
-and is losing. "It's eight ryō. It's got — there's the rest of the rice in the
+and is losing. "It's eight hundred ryō. It's got — there's the rest of the rice in the
 cloth and there's a — she does a thing with the—"
 
 "I can't take your—"
@@ -137,7 +137,7 @@ mask.
 
 ---
 
-The eleven ryō and the eight ryō lasted twenty-three days, which he thought at the
+The eleven hundred and the eight hundred lasted twenty-three days, which he thought at the
 time was quite good and was in fact appalling.
 
 He was very bad at it. That was the thing nobody had ever told him and which he

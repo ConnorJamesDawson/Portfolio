@@ -18,7 +18,7 @@ ninja had let him take it, because that was the arrangement, apparently,
 between villages.
 
 Sazare was sitting cross-legged on the loft floor with a lamp bracket in
-pieces on a cloth in front of him and forty coppers' worth of somebody
+pieces on a cloth in front of him and a few thousand ryō's worth of somebody
 else's crockery stacked against the wall, and he put the bracket down.
 
 He knew four things about that story inside about six seconds, and three
@@ -227,7 +227,7 @@ months.
 The veranda had lost a third of its boards.
 
 He went up the hill to O-Kiyo's brother-in-law who had a saw pit and no
-work, and bought — with actual money, forty coppers, more than he had
+work, and bought — with actual money, four thousand ryō, more than he had
 earned in a month in that town — six planks of larch, eight feet, sawn and
 squared, and borrowed a two-wheeled handcart with a broken axle-cap that
 he mended in nine minutes on the spot.

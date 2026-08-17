@@ -29,9 +29,9 @@ That was the thing about it. There was no confusion anywhere in him and
 he was not lying to himself about a single part of it. He sat in the back
 of a boatyard for five hours on a Saturday in the eleventh month and did
 five hours of genuinely excellent work for a woman he had been paid two
-hundred ryō to kill on the Wednesday, and he did it well because he could
-not do it any other way, and he charged her thirty coppers, which was
-fair, and she sent back forty.
+hundred thousand ryō to kill on the Wednesday, and he did it well because he could
+not do it any other way, and he charged her six hundred ryō, which
+was fair, and she sent back eight hundred.
 
 He had been here before. He knew that too. Nine weeks and a river port
 ago there had been a brass lantern with a pillar a quarter-turn out, and
@@ -140,7 +140,7 @@ standing over him.
 She had a scull in her hand. She had picked it out of the beached skiff
 in the time it took him to hit the water and she had it back over her
 shoulder like a woman about to split wood, and she was between him and
-the beach, and Sazare Ruri, who had been given four hundred ryō for being
+the beach, and Sazare Ruri, who had been given four hundred thousand for being
 careful, sat in the sea at first light and understood that he was about
 to be killed on a shingle spit by a chandler.
 
@@ -296,7 +296,7 @@ were four other men on it wet to the chest already.
 
 ---
 
-That evening, in a boatyard, by lamplight, with two hundred ryō in his
+That evening, in a boatyard, by lamplight, with two hundred thousand ryō in his
 coat and two hundred more coming, he wrote the fifth line in the book
 that had no numbers in it.
 

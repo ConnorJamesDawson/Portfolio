@@ -250,7 +250,7 @@ their time, and had done it on five buildings in a town where a child sat
 under the walkway fishing into an empty bucket.
 
 He had spent a year in the border country working for exactly this. He
-knew the species. He had taken two hundred ryō off a fat man in a
+knew the species. He had taken two hundred thousand off a fat man in a
 counting-room to remove an inconvenience from a strait, and the men who
 had paid for it had needed to go on standing on that quay afterwards and
 looking people in the face, and had managed it perfectly well.

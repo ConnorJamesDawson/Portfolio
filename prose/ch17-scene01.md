@@ -134,14 +134,15 @@ than found it on the ground."
 
 "Say the number first."
 
-"Four hundred."
+"Four hundred thousand."
 
 The room went quite quiet, in the way rooms do when a number lands in
 them.
 
-*Four hundred* was two years with a real teacher. *Four hundred* was the
+*Four hundred thousand* was two years with a real teacher. It was the
 whole specification he had costed at a bench in Tsuzura with a scale-beam
-in pieces — two hundred to buy the year, and two hundred to live on
+in pieces — two hundred thousand to buy the year, and two hundred thousand to
+live on
 while he had it, and no need to work through it, and no need to take
 another job for eighteen months, and the arithmetic that had been a
 closed trap since the day he lost everything in a wall at Tomari simply
@@ -208,11 +209,11 @@ it apart, that's what I do, it's the only thing I've ever been able to
 do.* It had been a true sentence and a hard one and it had come out of
 him at some price.
 
-Nine weeks later, in a warmer room, for four hundred ryō, the same word
+Nine weeks later, in a warmer room, for four hundred thousand, the same word
 had come out flat and early and easy, the way *sixty* came out when
 somebody asked about a lantern.
 
-He took the papers. He counted the advance, which was two hundred, which
+He took the papers. He counted the advance, which was two hundred thousand, which
 he had never held in one hand before.
 
 At the door Chōsei said, comfortably, "Kasado, then. Pretty place. Mind

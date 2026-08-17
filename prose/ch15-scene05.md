@@ -16,7 +16,7 @@ did the only work available to a man who cannot stand up: clock-and-lock,
 hinge plates, chain, scale-beams, the fiddly interior lives of things
 that come to a bench and go away again. He was good at it. He was
 cheaper than the smith. In three weeks he cleared his board and his
-food and about four ryō.
+food and about nine hundred ryō.
 
 He did not touch the crystal once in those three weeks.
 
@@ -94,12 +94,12 @@ to stop reading anything.
 
 Missing-nin who took students took money by the season, and the going
 rate in the border country that year was somewhere between forty and
-sixty ryō a season, cash, in advance, and that was for a man who would
+sixty thousand ryō a season, cash, in advance, and that was for a man who would
 teach you badly. The ones worth having asked for more and asked for it in a
 lump, because a teacher who is himself hunted does not want a payment
 schedule; he wants to be able to leave.
 
-Two hundred ryō would buy a year with somebody real.
+Two hundred thousand ryō would buy a year with somebody real.
 
 Sazare sat at a bench in a rope-walk in Tsuzura with a scale-beam in
 pieces in front of him and did the courier arithmetic he had done every
@@ -108,9 +108,9 @@ come out before he started, which is why it had taken him three weeks to
 make himself sit down and do it.
 
 Carrying paid, at the top of the market, in a good season, with routes he
-had earned by being unusually good at it, about thirty ryō a year clear
-of living. It had taken him two years to accumulate something under fifty,
-and the fifty was in a hole behind a brick in a wall on the strait, and it
+had earned by being unusually good at it, about thirty thousand ryō a year clear
+of living. It had taken him two years to accumulate something under fifty
+thousand, and the fifty was in a hole behind a brick in a wall on the strait, and it
 was going to stay there until the building fell down.
 
 Seven years, then. Seven years of carrying to buy one year of teaching.
@@ -127,7 +127,7 @@ every coin he had, because a courier's coin lives in one town and the
 whole method of finding him was to find the town.
 
 He would never accumulate anything. Not once, not ever. Every cycle would
-take the pot back to nothing, and the pot had to reach two hundred, and
+take the pot back to nothing, and the pot had to reach two hundred thousand, and
 the pot could not survive one cycle, let alone seven.
 
 He checked it four times over four days, hunting for the arithmetic error,
@@ -195,7 +195,7 @@ drunk and I'm not going to change my mind in the street, and if you send
 me away I'll go to Kakiuchi at the ferry and Kakiuchi is a thief who'd
 sell my name back to the coast in a fortnight, and you know that, which
 is why you're going to deal with me instead." He kept his hands still.
-"You've got work that pays in one payment what carrying pays in four
+"You've got work that pays in one payment what carrying pays in eight
 years. I want the list."
 
 There was a silence with a cat in it.
@@ -223,7 +223,7 @@ out categories, with the sums, and the terms, and the halves.
 
 Three of them were nothing. Debt-grade, retrieval, standing-off work.
 
-The fourth was two hundred and forty ryō, and Umeya said the figure and
+The fourth was two hundred and forty thousand ryō, and Umeya said the figure and
 then stopped, and took his spectacles off again, and set them on the
 ledger, and did the thing that Sazare understood, later, to have been a
 kindness of the trade's own peculiar kind — the thing a broker does for a
@@ -285,7 +285,7 @@ going to say. "Half now. Half on the word coming back, and the word comes
 back through the boards, so don't get clever and don't come here after.
 You'll want to be out of this town inside the month either way." He
 counted it out of the box under the bench in fives, and pushed it across
-the boards, and it was a hundred and twenty ryō, which was more than two
+the boards, and it was a hundred and twenty thousand ryō, which was more than two
 years of a courier's life in one flat brick of paper and coin, and it took
 about nine seconds to count.
 
@@ -325,7 +325,7 @@ Then he got up, and went to the writing shelf, and did the only piece of
 business he had left that night, which was the tenth.
 
 He wrote out the chit for the boards in the small block hand he used for
-the network — twelve ryō, entered at the counter, name that wasn't true,
+the network — twelve thousand ryō, entered at the counter, name that wasn't true,
 against a war four years and a country away — and he was three characters
 into it when he stopped and looked at what he was doing, and made himself
 finish it and seal it and put it in his boot, because the alternative was

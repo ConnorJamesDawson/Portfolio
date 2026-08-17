@@ -44,9 +44,9 @@ He cut the rope. "Shirakawa's four men now."
 "You'll take it," he said, "because four men on a table is a man with a list,
 and a man with a list stops being interested in your bag and starts being
 interested in you, and you're fifteen and you're on that road twice a month and
-somebody is going to start counting." He handed her the coil. "Eight ryō."
+somebody is going to start counting." He handed her the coil. "Eight hundred ryō."
 
-She gave him eight ryō.
+She gave him eight hundred ryō.
 
 "Anything going up?" she said, which was the only question she was allowed and
 which she asked every time.

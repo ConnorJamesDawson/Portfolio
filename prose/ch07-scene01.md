@@ -246,7 +246,7 @@ tell him what to do, and that this was now, permanently, a thing he was going to
 have to decide by himself, and that he had no idea whatsoever how you started.
 
 He went in and got his frame off the sill, and the cloth roll with the thirty-four
-offcuts in it, and his coat, and the eleven ryō that were in the jar in the
+offcuts in it, and his coat, and the eleven hundred ryō that were in the jar in the
 kitchen because they had always been in the jar in the kitchen.
 
 He did not take the frame in the end. He stood in the yard holding it for a while

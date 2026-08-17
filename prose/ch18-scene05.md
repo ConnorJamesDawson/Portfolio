@@ -29,7 +29,7 @@ He sistered it. He cut a length of new larch, drove it up alongside the
 bad one, bolted the pair together through the good wood, and the whole
 front of that veranda went from something that flexed when you stood on it
 to something that did not, and the going-from-one-to-the-other took about
-forty minutes and cost eleven coppers of timber, and he sat back on his
+forty minutes and cost eleven hundred ryō of timber, and he sat back on his
 heels afterwards and looked at it with a satisfaction so pure and so
 uncomplicated that it was almost embarrassing.
 

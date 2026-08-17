@@ -107,7 +107,7 @@ four of them do it and could not stop them without standing on something.
 
 He crossed the strait on the Wednesday on the syndicate's own ferry, with
 the syndicate's own money in his coat, and paid the full fare of forty
-ryō, and was the only man on that boat who was not either weeping or
+thousand ryō, and was the only man on that boat who was not either weeping or
 counting.
 
 He found the Ōgi road and he found the pines and he waited from the
@@ -165,11 +165,11 @@ believe it." He pushed the stack across. "You'll take more off me."
 "They all say that." Chōsei beamed. "Come back in the spring, young man.
 Bring your knee."
 
-Sazare walked down to the rope-walk counter with four hundred ryō in his
+Sazare walked down to the rope-walk counter with four hundred thousand ryō in his
 coat, and stood in the queue behind a bargeman and a woman with a
 consignment of lamp wick, and sent the tenth.
 
-Forty ryō. Entered in a ledger, under a name that was not true, by a clerk
+Forty thousand ryō. Entered in a ledger, under a name that was not true, by a clerk
 who did not look up, against the war in the Land of Water.
 
 He stood there while the pen moved and did the arithmetic, because he was
@@ -192,7 +192,7 @@ out.
 
 ---
 
-Three hundred and sixty ryō, then, and eleven days, and this is what he
+Three hundred and sixty thousand, then, and eleven days, and this is what he
 found out with it:
 
 There was nothing to buy.
@@ -204,7 +204,7 @@ came back the same because it was the same answer and it had never
 depended on the number.
 
 Nobody sells an unaffiliated boy an education in chakra. Not for two
-hundred, not for four hundred, not for a thousand. The men who could teach
+hundred thousand, not for four hundred thousand, not for a million. The men who could teach
 it want to *own* what they teach; the men who will take money teach bodies
 and edges; and the one person he had ever met who could have stood behind
 him for an hour and told him what he was doing wrong had bought him a meal
@@ -228,9 +228,9 @@ The last arithmetic he did at Kasado he did on the Thursday evening, on
 the north quay, sitting on a bollard with his back to the chandlery, and
 it was very short.
 
-Forty ryō a head.
+Forty thousand ryō a head.
 
-Three hundred and sixty ryō in his coat.
+Three hundred and sixty thousand ryō in his coat.
 
 Nine.
 
@@ -254,8 +254,8 @@ when the white faces came back he would have nothing to meet them with.
 And because if he spent it on nine strangers in an inn yard, then he had
 held a woman down in the sea for nothing.
 
-He had killed her for four hundred ryō. He was not going to make it four
-hundred ryō he had also given away. There is no name for what that would
+He had killed her for four hundred thousand ryō. He was not going to make
+it four hundred thousand he had also given away. There is no name for what that would
 have made him and he did not want to find one.
 
 So he kept it.
@@ -279,7 +279,7 @@ he had spent two years learning not to do: forty-one items in four days,
 kettles and hinges and a stuck window and a child's clog and a
 bosun's whistle and the toll clerk's chair and eleven feet of guttering
 on the empty inn that had been hanging since the summer, and every single
-one of them well, and none of them for a copper.
+one of them well, and none of them for a ryō.
 
 It helped nobody. He knew that at the time and it did not slow his hands
 for one minute. There were still twelve people in an inn yard who had paid
@@ -302,7 +302,7 @@ himself famous in a town for four days had better be out of it.
 Sixteen years old, and eight days.
 
 Solvent, hunted, alone, and extremely good at his work, with three hundred
-and sixty ryō in his coat that would not buy the only thing he wanted, a
+and sixty thousand in his coat that would not buy the only thing he wanted, a
 medical roll, a jeweller's tools, a knee that clicked on stairs, a ledger
 with five lines in it, and a tenth going home every month to a war he had
 not seen in two and a half years and could no longer have told you the

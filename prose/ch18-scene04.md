@@ -405,7 +405,7 @@ in order to buy the one thing he needed, which could not be bought with
 contract money and never had been.
 
 He had done the sum on a bollard at Kasado in the dark and kept three
-hundred and sixty ryō, and this man was doing it with a country.
+hundred and sixty thousand ryō, and this man was doing it with a country.
 
 "I mended a woman's pulley," said Sazare, out of nowhere.
 

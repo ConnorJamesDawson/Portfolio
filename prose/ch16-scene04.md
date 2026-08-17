@@ -106,12 +106,12 @@ locked, and went home.
 The town took two days to decide what had happened and then decided it
 comprehensively.
 
-Nakabori Sōhachi, factor, killed on the salt gangway for eleven ryō,
+Nakabori Sōhachi, factor, killed on the salt gangway for twenty-four hundred ryō,
 which was — everybody said this, the phrase went round Kanezaki like a
 song — *about right for him.* The harbourmaster came in for a great deal
 of it, because of the lamps. There was a subscription raised on the
 second day for the lamps, and it raised more in an afternoon than four
-years of the guild asking politely, and Sazare put in five coppers
+years of the guild asking politely, and Sazare put in two hundred ryō
 because a man who does not put in is a man who is remembered for not
 putting in.
 
@@ -180,14 +180,15 @@ itself a kind of message: routine work carries a mark; this did not
 carry anything, because the men who handled it did not want their hands
 on it either.
 
-A hundred and twenty ryō. Two hundred and forty in total. More than
+A hundred and twenty thousand ryō. Two hundred and forty thousand in
+total. More than
 eight years of carrying, in his coat, in about a month.
 
 He sent the tenth.
 
 He did it at a counter, in his own presence, in a ledger, under a name
 that was not true, and the woman behind the counter entered
-twenty-four ryō against the war in the Land of Water without looking up,
+twenty-four thousand ryō against the war in the Land of Water without looking up,
 because it was a remittance and remittances are the most boring thing in
 the world; and Sazare stood there while the pen moved and thought about
 Kohaku on a step in the dark saying *no* and *no* and *yeah*, and about
@@ -204,7 +205,7 @@ every month for the rest of his life.
 The teacher was the part that did not work, and it did not work in a way
 he had not seen coming at all.
 
-He had two hundred and sixteen ryō and a clear specification and he spent
+He had two hundred and sixteen thousand ryō and a clear specification and he spent
 eleven days on it, through the boards and through Umeya's kind of people
 in three towns, and what he learned was this:
 
@@ -233,7 +234,7 @@ it in the second month of the year he was nine, standing at the front of
 a room, in the flat voice: *a village is the only place that will teach
 you this, and that is not an accident, and it is not generosity.*
 
-He sat with two hundred and sixteen ryō and the exact knowledge of what
+He sat with two hundred and sixteen thousand ryō and the exact knowledge of what
 he needed, in a country where it was not for sale.
 
 ---

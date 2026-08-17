@@ -240,7 +240,7 @@ He was extremely angry about his coat. He was angry, at some length,
 about the harbourmaster, who did not put lamps on the gangway, and whose
 predecessor had not either, and whose lamp oil was a scandal. He said
 that whoever had done it had been after the purse, and that the purse
-had eleven ryō in it and no more, and that there was a joke in that
+had twenty-four hundred ryō in it and no more, and that there was a joke in that
 somewhere which he could not at present find.
 
 At about the sixth minute he asked Sazare to make sure the tally on the
@@ -267,7 +267,7 @@ fist still in the wrong place.
 
 Then he took it away, and cleaned his hands on the inside of the dead
 man's coat, which was correct, and found the purse and took it, which
-was correct, and took the eleven ryō out and put the purse in the river,
+was correct, and took the twenty-four hundred out and put the purse in the river,
 which was correct, because a mugging has a purse missing and a killing
 does not.
 
@@ -293,7 +293,7 @@ good work.
 ---
 
 He was four streets away, walking normally, breathing normally, with
-eleven ryō in his coat and his ribs going like a bell, when the thing he
+twenty-four hundred ryō in his coat and his ribs going like a bell, when the thing he
 had been not-thinking about since the sixth second came up out of the
 floor of him and stood in the road.
 

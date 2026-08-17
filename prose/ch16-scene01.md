@@ -170,7 +170,7 @@ there. Any hunter with a book knows a Shōton user by the thing he leaves
 behind, because the thing he leaves behind is the reason there is a book.
 
 So: nothing of his. The wound would be made by an object that ten
-thousand people owned, bought for coppers in a market, and dropped in
+thousand people owned, bought for a few hundred ryō in a market, and dropped in
 deep water within the hour.
 
 He chose a fish-knife — a gutting knife, four and a half inches, thin,

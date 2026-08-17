@@ -161,7 +161,7 @@ crossing and are not sure of it, and one inn that has none.*
 ferry that Chōsei — comfortable, cheerful, in a warm room, with his
 sons in the trade — had called a swindle to my face and laughed about.*
 
-*Forty ryō a head.* He did not know that number. He knew that number the
+*Forty thousand ryō a head.* He did not know that number. He knew that number the
 way you know the price of bread in a town you have never been to: it was
 the number, it had been the number on every coast in the four years since
 the fog came down, and he had heard it said aloud in a boat once by a man
@@ -177,7 +177,7 @@ without any possibility of error whatsoever:
 She moves them for nothing.
 
 That is the whole of it. That is the entire commercial dispute. There are
-men on this strait who charge forty ryō a head to put frightened people
+men on this strait who charge forty thousand ryō a head to put frightened people
 in a boat and some of those people are landed and some of them are not,
 and there is a fat woman on the north quay with a chip on a peg and a
 line of skiffs she does not own, and she takes them across for whatever
@@ -187,7 +187,7 @@ enough that two inns are full and the third one is empty.
 And she is bad for business.
 
 And a man in a counting-room with a finger like a sausage has offered
-four hundred ryō for her, in a fortnight, *made to look like anything
+four hundred thousand for her, in a fortnight, *made to look like anything
 else at all*, because the buyers have to go on standing on that quay
 afterwards and looking those people in the face.
 
@@ -228,7 +228,7 @@ And she had been bad for business too. That was the thing. That was
 exactly the thing. His whole family had gone into a square in front of
 four hundred people because a resistance is *inconvenient* to somebody,
 and the somebody had not even been ideological about it, and here he sat
-on a bollard at sixteen with two hundred ryō in his coat, hired.
+on a bollard at sixteen with two hundred thousand ryō in his coat, hired.
 
 ---
 
