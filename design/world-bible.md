@@ -140,10 +140,13 @@ sound-weakness discovered from inside, as craft knowledge. The frames' hum was
 this. A grown blade would have to be made *off-note* — one of the reasons the
 blade thread runs years, not chapters.
 
-The note is also the **disposal mechanism** for the assassin work: a piece grown
-deliberately off-key can be given its note afterwards, so what is left in a wound
-is grit rather than a bloodline with an address on it. See
-`design/crystal-doctrine.md`.
+The note is also the **last-resort disposal** for the assassin work — a piece
+grown off-key can be given its note afterwards, destroying the *form* that
+testifies (tapered, unmounted, no tool marks) and leaving grit that reads as a
+smashed pendant, because the clan sold crystal as gemstone for four hundred
+years. It does not destroy the *material*, so it defeats a constable and not a
+medic-nin, and every unretrieved piece is a deposit on a clock. Primary disposal
+is no crystal in the wound at all. See `design/crystal-doctrine.md`.
 
 ### The grown blade — long thread
 

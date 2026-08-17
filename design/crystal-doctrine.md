@@ -72,24 +72,63 @@ is one.
 This is also the reason he keeps his cover: the cover is not a disguise, it is
 the delivery system.
 
-### 3. The note — disposal, and the best technique in the design
+### 3. Disposal — three tiers, and the note is only the third
 
-The signature problem: crystal is the one substance in the world with his name
-on it. A blue-grey shard left in a wound is a bingo-book entry with an address.
+The signature problem is real and it is not solved by shattering. **Grit is
+still crystal.** Anyone who sifts a wound finds blue-grey particles, and the
+person most likely to be sifting a wound is a medical-nin, who is precisely the
+person who knows what they are looking at. Shattering solves the *shape*
+problem and does nothing whatever about the *material*.
 
-The answer is craft knowledge he already earned on a bench: **a wrong-grown
-piece shatters at its note.** So he grows the working piece deliberately
-off-key and gives it its note afterwards — a hum, a tap, a struck rim, the
-movement of the body itself. What is left in the wound is grit.
+So the hierarchy runs, in the order he would work it out on a bench:
+
+**Tier 1 — no crystal in the wound.** *The primary method, and the one that
+keeps him a fortifier.* The wound is made by something a hundred people in that
+town own: a bodkin, a boning knife, a rigging spike, a fish-gutting blade bought
+that morning and dropped in a canal that afternoon. Crystal does the part nobody
+ever examines — the lock grown shut so the target must use the other door, the
+sliver in a hinge pin that fails a gate at a chosen second, the foothold, the
+wedge, the reason a man is standing where he is standing. The kills read as
+muggings, accidents, and ordinary knife crime. There is no signature because he
+never brought one.
+
+**Tier 2 — retrieval.** When it must be crystal (a bump where steel cannot be
+carried; a search at the door), the piece **comes back out and goes in his
+pocket.** A shank withdrawn is a shank recovered. Basic tradecraft, and it
+covers most of the close work.
+
+**Tier 3 — the note.** Only for what he cannot get back: a snapped tip, a throw
+he cannot walk over to, a hand that had to open. The piece is grown deliberately
+off-key and given its note afterwards — a hum, a tap, a struck rim, the movement
+of the body itself.
+
+**Why tier 3 helps at all — the clan's economics do the work.** Ruri crystal has
+been sold as gemstone on the open market for four hundred years. It is in rings,
+pendants, and inlay from Kiri to the southern islands. Blue-grey grit in a wound
+therefore does **not** say *Shōton user*; it says *somebody was hit with a piece
+of jewellery*, which is a thing that happens in a fight. What says Shōton is an
+intact piece obviously **grown to purpose** — tapered, unmounted, unfaceted, no
+tool marks, and a base where it left a hand. Destroy the form and you have
+destroyed the testimony. The material on its own is ambiguous.
+
+**And it is a clock, not a solution — hold this.** Grit defeats a border-town
+constable looking at a stabbing. It does not defeat a hunter-nin, a proper
+medical examination, or a sensor. Every unretrieved piece is a deposit, and one
+day somebody lays three reports side by side. This is the pressure that should
+drive the back half of his contract years, and the person most likely to
+recognise crystal grit under a loupe is somebody from the crystal trade:
+**Guren**, or **Yashiro**, the collector whose rival bid reactivated his file.
 
 Consequences to hold:
 
-- It is **his mother's frames** that taught him this. The hum he grew up inside.
-- It makes him nearly unattributable, which is exactly what the network will pay
-  for and exactly what removes the last external check on him.
+- It is **his mother's frames** that taught him the note. The hum he grew up
+  inside.
 - A piece grown to shatter is a piece grown *badly on purpose*. He is a mender.
   Deliberately making something wrong is not a neutral act for this character
   and should never be written as one.
+- The reasoning above is **his**, on a bench, at night — he is the man who takes
+  things apart, so he arrives at all three tiers himself and knows exactly how
+  thin tier 3 is. He uses it anyway, because the alternative is not working.
 
 ### 4. The bump, and the throw
 
@@ -98,7 +137,9 @@ Consequences to hold:
   life being invisible in. The victim usually walks several paces.
 - **The throw.** Grown in the sleeve, thrown underhand from waist height, which
   looks like nothing and is the throwing form the Academy actually taught before
-  it stopped existing. This is the noisiest rung and should stay rare.
+  it stopped existing. This is the noisiest rung and should stay rare — it is
+  also the rung that cannot be retrieved, so every throw is a tier-3 disposal and
+  a deposit on the clock.
 
 ### 5. Growth inside a living body — **held back, possibly forever**
 
