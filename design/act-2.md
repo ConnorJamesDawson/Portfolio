@@ -224,13 +224,60 @@ not start sorting his money into kinds. And that night he does not seed the
 room — the first room in two years — because a man only fortifies a room he
 expects to be **found** in.
 
-**16. The work changes.**
-Tier-three becomes normal. Craft skills persist, repurposed — the same
-precision, aimed differently. Growing power reads as loss, never reward.
-**Guren's first approach** lands here: she buys him a meal, admires his work,
-asks for nothing, and makes sure he knows that somewhere in the world is a
-person who could teach him properly. **The scroll rumour** surfaces through the
-courier network: sacked compounds get looted, looted things get sold.
+**16. The work changes.** *(Written: ch16, Kanezaki — the first contract.)*
+Craft skills persist, repurposed — the same precision, aimed differently.
+Growing power reads as loss, never reward.
+
+What the prose fixed and the design must now hold:
+
+- **The discipline of not-assembling.** Refusing the name held for nine days and
+  then collapsed on contact with a town, because a town tells you a man's life
+  without being asked. So he cannot stop the facts arriving — he refuses to
+  *sort* them, keeping them loose in the tray, never laid out, because a man's
+  facts in order make a person and a person can be pitied. It is the exact
+  inverse of his whole nature and it becomes permanent.
+- **The survey is the same list.** Item for item, in the same order, as the
+  seeding habit — only the question has changed from *how do I get out* to
+  *where does he have to be*. He works out mid-chapter that Sakai spent two
+  years giving him an assassin's education while believing he was teaching a boy
+  to run.
+- **Tier 1 was the plan and it failed.** Anonymous fish-knife, bought in a crowd,
+  meant for deep water; three fixtures grown forty yards from the killing and
+  none of them ever to be found. Then the knife went in badly, a fifty-one-year
+  old man simply *grabbed*, and the crystal came out of his palm in panic — the
+  square in miniature. The tip snapped on a rib. **The deposit exists because
+  the doctrine failed under pressure, not because he chose it.**
+- **The medical inversion.** Nakabori never saw who did it, recognised the
+  mender kneeling over him, and was *relieved*. Sazare held pressure three
+  inches from the right place for eleven minutes and talked to him while he
+  died. Tōan's two years, run backwards.
+- **The clock is literal and located.** The tip went into the ground with the
+  body, in a marked plot on a named hill, which is worse than the gutter: in a
+  gutter it is rubbish in a week; in a grave it is *filed*.
+- **The teacher market does not exist.** Two hundred and sixteen ryō buys
+  nothing, because men who can teach the trade take apprentices they intend to
+  own, and the honest ones teach bodies and edges. Nobody sells an unaffiliated
+  boy an education in chakra — that is what a village *is*. This is what makes
+  Guren's offer lethal.
+
+**Guren's first approach** *(ch16 sc5, her POV)*: she finds him **by his own
+seeding habit** — a step-guard under a public water stair, grown freehand and
+smooth, which nobody else alive would look at twice. She buys him a meal, sits
+where he can leave, asks for nothing, and gives him one sentence: *there is a
+person alive who could tell you what you're doing wrong.* Then, at the door,
+the kindest and most frightening thing anyone has said to him: **"Stop putting
+rungs in walls."** She has found three in one town. She is not the worst thing
+that could come down that road.
+
+Held, undelivered: she does not know he is a Ruri, and something in the way his
+thumb checks the shoulder of a drop goes through her like a draught under a door
+and will not place itself.
+
+**The scroll rumour** surfaces the same fortnight, sideways, in a consignment
+notice on the boards: a lot going north to a broker at Nagihama, *ex-Water,
+dom. effects, temple and clan work, sold per catalogue.* Sacked compounds get
+looted; looted things get sold. He reads it four times, puts it back exactly as
+he found it, and asks nobody anything.
 
 **17. The floor.**
 A contract on another bloodline user. Whether he knows before he takes it is
