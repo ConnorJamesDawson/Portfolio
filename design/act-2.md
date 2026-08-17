@@ -270,7 +270,15 @@ She crystallises the wet ring under her teacup in under a second, from water,
 while talking — everything he cannot do — and he hands it back with its **note**
 found in three minutes with a chopstick, ringing across a full room. She does
 not know why her crystal shatters. Nobody has ever told her. He starts to
-explain the mechanism, gets four words in, and shuts. She buys him a meal, sits
+explain the mechanism, gets four words in, and shuts.
+
+**They do not solve it, and that is the point.** He offers the clean rule —
+*fast rings, slow is silent, it's time* — and she falsifies it flatly from the
+valley: three walls, one slow one that died and one no slower that held, and
+four hundred repetitions since and nothing to show for them. He gets as far as
+*it's something time usually gets you* and runs out. Half an answer each, no way
+to put them together, and Guren wanting to sit in a room until it came apart and
+knowing what that would cost him. She buys him a meal, sits
 where he can leave, asks for nothing, and gives him one sentence: *there is a
 person alive who could tell you what you're doing wrong.* Then, at the door,
 the kindest and most frightening thing anyone has said to him: **"Stop putting

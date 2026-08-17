@@ -1,6 +1,6 @@
 # Chapter 16, Scene 5 — The Second One
 
-*Act 2, part D. Kanezaki. POV: Guren. ~3,350 words.*
+*Act 2, part D. Kanezaki. POV: Guren. ~3,750 words.*
 
 ---
 
@@ -288,21 +288,53 @@ gesture that took in the leg, the ribs, the town, the whole of him.
 "It cracks," he said. "It always cracks the same way and I know the sound
 it makes and I know it's the note and I don't know how to stop it yet."
 
-And Guren sat back against the wall of a noodle shop and did the
-arithmetic, and the arithmetic went like this:
+"Then that's it," he said. He had gone somewhere else; she could watch
+him doing it, the way you watch a man count a stack. "That's the whole
+of it. It's *time*. You make things fast, so they ring; I make things
+slow, so they don't. The step took three nights and it's silent and it's
+still there. Everything that's ever cracked on me cracked because I
+hurried it." He looked up with something in his face that she disliked
+on sight, because she had worn it herself at about his age. "That's the
+same trade from both ends. That's one rule."
 
-Four seconds, because he grows slowly, and things grown slowly are quiet,
-and quiet things last three seasons in a public stair under ten thousand
-feet.
+"No," said Guren.
 
-A labyrinth in eleven seconds, because she grows fast, and things grown
-fast ring like a bell, and a bell is a thing any fool with the right
-noise can break.
+He stopped.
 
-The same trade. The identical trade, from the two opposite ends of it,
-and she had spent fifteen years at one end without ever once being told
-there was another, and he had spent seven at the other end without ever
-being told there was anybody at all.
+"I want it to be that," she said. "I've wanted it to be something for two
+years and I'd take that one gladly and it isn't true. I've got—" She put
+her cup down. "In the valley I put up three walls. The first one I threw
+up in about a second and a half and it went like a dropped window. The
+second one took me maybe four seconds, which for me is *slow*, that's me
+being careful, and it went the same way. The third one I built in about
+the same time as the second and it *held*. It held through everything he
+had and I walked out behind it, and I have gone over that third wall in
+my head about four hundred times and I could not tell you one single
+thing I did differently."
+
+She watched him take that in, and she watched — with a kind of appalled
+respect — his face do the thing where a good rule dies.
+
+"Then it's not time," he said.
+
+"It's not time."
+
+"It's something time usually *gets* you." He had both hands flat on the
+table now. "Something that happens while you're waiting, that you don't
+have to do on purpose, so if you're slow you get it every time and never
+notice, and if you're fast you get it sometimes and can't tell why—"
+
+"Say the rest of it."
+
+"I can't," said Sazare. "That's the end of what I've got."
+
+And they sat there, the two of them, in the middle of a noodle shop, with
+a bead of crystallised tea on the boards between them and half of an
+answer each and no way at all to put them together — and Guren
+experienced, for perhaps eleven seconds, the specific and unfamiliar
+misery of wanting very badly to sit in a room with somebody until a
+problem came apart, and knowing exactly what it would cost him if she
+did.
 
 ---
 

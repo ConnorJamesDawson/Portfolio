@@ -140,16 +140,57 @@ sound-weakness discovered from inside, as craft knowledge. The frames' hum was
 this. A grown blade would have to be made *off-note* — one of the reasons the
 blade thread runs years, not chapters.
 
-**The speed/note trade — the mechanism, and it explains both users.** Canon
-states the sound weakness exists because crystal requires a very precise
-build-up of molecules, so the right frequency breaks the build-up down. So:
-**fast growth leaves the note on the surface; slow growth buries it.** Guren
-raises a labyrinth in seconds, therefore everything she has ever made rings like
-a struck glass and can be taken apart by anyone who finds the frequency — which
-is exactly what Rinji's bats did to her walls. Sazare grows a step-guard over
-three nights, therefore his work is quiet and survives three seasons of
-foot-traffic — and that is *the same reason* he can only hold four seconds under
-load. **Her weakness and his ceiling are one trade-off from opposite ends.**
+### The courses — what the note actually is
+
+*Authorial truth. **No character in the story has this model yet.** Sazare has
+the observation and the wrong explanation; Guren has a counterexample that
+falsifies his. Neither can resolve it. Do not let anyone state this cleanly on
+the page until it is earned.*
+
+Canon states the sound weakness exists because crystal requires a very precise
+build-up of molecules, so the right frequency breaks the build-up down before it
+can properly form. The mechanism underneath that:
+
+**Crystal lays down in courses** — nested orders of internal structure, each
+finer than the last, each binding the one before. *(Sazare's eventual word for
+them, taken from bricklaying, because he fences like a mason and thinks like
+one.)*
+
+- **One course = one note, and the whole piece agrees on it.** Give it that note
+  and everything answers at once and the structure converts to grit. Four
+  courses = four notes that disagree; the fine work damps the coarse, so the
+  piece chips instead of disintegrating.
+- **So the sound weakness is not a property of Crystal Release. It is a property
+  of single-course work** — which is what combat crystal always is, because
+  nobody in a fight has time to lay a second course. This is why Rinji's bats
+  took Guren's walls and why it will not always work on everyone.
+- **Time is not the variable. Courses are.** Time is the beginner's proxy,
+  because a beginner lays one course at a time and no faster. **A master lays
+  many courses fast.** Speed and structure are independent axes and everyone
+  below mastery believes they are one axis, because at their level they are.
+
+**Guard — courses cost chakra and attention, not seconds.** Guren putting three
+courses into a wall puts up one wall instead of nine. Mastery is a decision per
+piece, never a permanent upgrade. Nobody gets this for free.
+
+**Guard — Sazare is not laying courses because he is good.** He lays them
+because he is slow, and he is slow because nobody ever taught him. The structure
+is a side effect of a limitation, and his current theory ("slow is quiet") is
+wrong. **His four seconds is a structure limit, not stamina:** under pressure he
+gets one course out, one course is one note, and Kōga's third strike found it.
+
+**The lattice was named after the wrong thing.** Four hundred years and the clan
+called the copper frame *the lattice* without ever knowing the real lattice is
+inside the stone. The frame's smoothing job evened the feed, which let courses
+lay down evenly — so the liturgy half-worked for a reason nobody could state.
+The clan kept the practice and lost the reason, which is the clan in one detail.
+
+**The frames hummed** because production work gets two courses — commercial
+grade, sold by the trestle. The pieces a shop kept back were silent.
+
+**This resolves the blade thread.** Off-note is not a trick and never was.
+It is *enough courses that the piece has no single note to give.* Years, not
+chapters — and not because he grows slowly, but because he is laying courses.
 
 The note is also the **last-resort disposal** for the assassin work — a piece
 grown off-key can be given its note afterwards, destroying the *form* that

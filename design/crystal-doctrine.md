@@ -61,6 +61,22 @@ is genuinely elite. Winnable without a power-up.
 Target spec: from palm contact, under a sleeve, no seals, no sound, no flare, in
 under a second, at the size of a nail.
 
+### 1b. The courses *(the ceiling he does not know he has)*
+
+His four seconds is a **structure** limit, not stamina. Crystal lays down in
+nested courses; under pressure he gets one out; one course is one note; the note
+is what kills the piece. See the bible's *The courses* section for the full
+model and its guards.
+
+What this changes about rung 1: the target is not "grow faster." It is **lay a
+second and third course quickly**, which is a control problem and therefore the
+one axis he is genuinely elite on — and which nobody alive can teach him, which
+is precisely what makes Guren's offer lethal.
+
+**Do not let him state the model.** He currently believes it is about time. He is
+wrong, Guren can falsify him from experience, and neither of them can resolve it.
+The gap is the hook.
+
 ### 2. Concealment — the tools are already innocent
 
 A jeweller's roll is an assassin's kit that nobody searches. Files, gravers,
