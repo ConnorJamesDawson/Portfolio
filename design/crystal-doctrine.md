@@ -139,21 +139,38 @@ It does not vanish and it does not fly to his hand. This is consistent with
 everything already established about the craft and it finally explains why the
 medium mattered.
 
-**Costs, all of them load-bearing:**
+**The training gradient — the crack.** Recall is growth run backwards, so it
+needs the same **smoothing** the lattice used to provide. Withdraw the chakra
+unevenly and the piece fails under uneven stress — which is exactly how a
+wrong-grown piece fails, at its note. A badly-recalled piece and a badly-grown
+piece break identically, and that is how he works out what recall *is*: not a new
+power, the old one in reverse, requiring a discipline he is already elite at,
+performed in a direction he has never tried.
 
+**A botched recall is worse than none.** The piece cracks: a small sharp noise
+next to a body, and now three fragments instead of one shank, each smaller and
+harder to get a grip on than the thing he started with. Failed cleanup makes more
+evidence, not less. This is the whole training pressure and it needs no other.
+
+*No ambient perception rule.* Deliberately not "sensors feel the flow" — that
+would force an audit of who was in earshot in every scene and why nobody noticed.
+The crack is local and self-calibrating; readers know what a thing snapping
+sounds like. The **one** exception, narrow and canon-native: a **Byakugan sees
+it**, because a Byakugan sees chakra. That makes detection a plot lever for when
+a Hyūga is in the room, not a standing rule.
+
+**Permanent costs — these survive mastery, so the crack going away does not make
+recall free:**
+
+- **Proximity.** He must be close, and he must wait — standing near a body doing
+  nothing while a crowd builds, which is the one place every instinct in the
+  trade says leave. This bind cannot be optimised away and it feeds the thing the
+  arc already costs him: he stops being able to leave places cleanly.
+- **Slow.** Seconds to minutes by mass and distance. Never a combat action.
 - **Lossy.** He gets a fraction back, never all. Emptying a room's worth of work
   leaves him hollow for a day.
-- **Range falls off hard.** Contact is cheap and near-total. At twenty yards it
-  is expensive and incomplete. Beyond that it is a gesture.
-- **Slow.** Seconds to minutes by mass and distance. Not a combat action.
-- **LOUD — the central cost.** Growth is a still thing; **recall is a flow**, and
-  flow is what sensors and dōjutsu read. A Byakugan sees it plainly, a decent
-  sensor feels it, a Sharingan reads the shape of it. **The killing is silent and
-  the tidying is a flare.**
-- **Proximity.** To take it back he must be close, and he must wait — near the
-  body, which is the one place every instinct in the trade says leave. This bind
-  cannot be optimised away and it feeds the thing the arc already costs him: he
-  stops being able to leave places cleanly.
+- **Range falls off hard.** Contact is cheap and near-total. At twenty yards it is
+  expensive and incomplete. Beyond that it is a gesture.
 - **Only his own.** Not his mother's work. Not the clan's four hundred years of
   traded product. Keyed to the individual.
 

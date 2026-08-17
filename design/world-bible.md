@@ -152,11 +152,17 @@ is no crystal in the wound at all. See `design/crystal-doctrine.md`.
 
 Grown crystal is his chakra organising a medium; the chakra can be drawn back
 out, and the piece then **slumps to the mineral it was grown from** (sand, grit)
-rather than vanishing. Lossy, slow, sharply range-limited, and — the load-bearing
-cost — **visible**: growth is still, recall is a *flow*, and flow is what sensors
-and dōjutsu read. The killing is silent; the tidying is a flare. **Only his own**
-comes back: not his mother's work, not the clan's traded product, and Guren can
-unmake hers by the same rule.
+rather than vanishing. Lossy, slow, sharply range-limited, and it requires him
+to be **close** and to **wait**. **Only his own** comes back: not his mother's
+work, not the clan's traded product, and Guren can unmake hers by the same rule.
+
+**The training gradient is the crack.** Recall is growth backwards and needs the
+same smoothing the lattice used to give; yank unevenly and the piece fails under
+uneven stress, exactly as a wrong-grown piece fails at its note. So a botched
+recall makes a small sharp noise beside a body *and* leaves three fragments where
+there was one shank — failed cleanup produces more evidence, not less. No ambient
+sensor rule (it would force an earshot audit in every scene); the one narrow
+exception is that a **Byakugan sees it**, because a Byakugan sees chakra.
 
 Two rulings held in `design/crystal-doctrine.md`: it **arrives late**, after the
 ugly kills have already scattered pieces of him he cannot reach; and everything
