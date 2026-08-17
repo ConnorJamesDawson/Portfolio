@@ -1,11 +1,12 @@
 # Chapter 18, Scene 2 — A Town That Cannot Pay
 
 *Act 3, part A. Nami, the Land of Waves. Sazare Ruri, age sixteen. POV:
-Sazare. ~3,700 words.*
+Sazare. ~3,750 words.*
 
 ---
 
-He took a room over a net loft on the water side for eight hundred ryō a week,
+He took a room over a net loft on the water side for eight hundred ryō a
+week,
 which was four more than it was worth and half what he offered, because
 the woman who let it to him tried to knock her own price down twice and he
 would not have it.
@@ -91,8 +92,8 @@ almost fitted, and, once, an apology.
 
 He took all of it, including the apology.
 
-He had three hundred and sixty thousand ryō sewn into the lining of his coat and he
-worked six days a week for a month and cleared, in coin, about nine
+He had three hundred and sixty thousand ryō sewn into the lining of his
+coat and he worked six days a week for a month and cleared, in coin, about nine
 hundred ryō, and it was the only stretch of his life in which he was never
 once asked a question he could not afford.
 
@@ -241,8 +242,8 @@ without looking round. "Come at seven, there'll be food. And don't tell
 anybody about the pine, they've enough on."
 
 Sazare had known the name since his first week in Nami. Everybody said it
-about four times a day, in the particular tone a dying town keeps for the one
-man in it who is still trying — half exasperation, half something they
+about four times a day, in the tone a dying town keeps for the one man in
+it who is still trying — half exasperation, half something they
 would not have admitted to — and it had not once occurred to him to put
 *old Tazuna, the drunk, the bridge* together with a man who had built
 fourteen sets of forms in the water on a falling tide and struck them and
@@ -278,8 +279,8 @@ Then he went back into the town and mended a rice steamer, and turned up
 at seven at a house on the water side that stood on its own piles at the
 end of the plank walk with a lamp already lit in the window.
 
-Tazuna's daughter was called Tsunami and she was about thirty, tall, with
-her father's square jaw and none of his bristle, her black hair pushed
+Tazuna's daughter was called Tsunami and she was about thirty, tall,
+with her father's square jaw and none of his bristle, her black hair pushed
 back off her forehead with a folded cloth and her sleeves pushed to the
 elbow. She had a cook's hands — scalded across the backs, nails kept
 short. She fed him a quantity of rice and grilled mackerel that he was

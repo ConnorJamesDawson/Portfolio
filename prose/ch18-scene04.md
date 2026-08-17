@@ -1,7 +1,7 @@
 # Chapter 18, Scene 4 — Handed Down
 
 *Act 3, part A. The north shore. Sazare Ruri, age sixteen. POV: Sazare.
-~3,000 words.*
+~3,400 words.*
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 18, Scene 3 — Not Late
 
 *Act 3, part A. Nami and the north shore. Sazare Ruri, age sixteen. POV:
-Sazare. ~2,300 words.*
+Sazare. ~2,200 words.*
 
 ---
 
@@ -11,8 +11,8 @@ his uncle who had it from a carter — and by the time it reached the net
 loft it had been through six mouths and had acquired a giant.
 
 There had been a fight on the coast road north. Konoha ninja, four of
-them, bringing the old bridge-builder home. A man had come at them out of the water with a
-sword the size of a door. He had been killed. His body had been taken away
+them, bringing the old bridge-builder home. A man had come at them out of
+the water with a sword the size of a door. He had been killed. His body had been taken away
 by a boy in a white mask who had come down out of a tree, and the Konoha
 ninja had let him take it, because that was the arrangement, apparently,
 between villages.

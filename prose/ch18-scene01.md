@@ -1,7 +1,7 @@
 # Chapter 18, Scene 1 — The Thin Coast
 
 *Act 3, part A. The crossing to the Land of Waves. Sazare Ruri, age
-sixteen. POV: Sazare. ~2,400 words.*
+sixteen. POV: Sazare. ~2,500 words.*
 
 ---
 
