@@ -72,7 +72,7 @@ is one.
 This is also the reason he keeps his cover: the cover is not a disguise, it is
 the delivery system.
 
-### 3. Disposal — three tiers, and the note is only the third
+### 3. Disposal — three tiers *(the early doctrine, before recall)*
 
 The signature problem is real and it is not solved by shattering. **Grit is
 still crystal.** Anyone who sifts a wound finds blue-grey particles, and the
@@ -130,7 +130,60 @@ Consequences to hold:
   things apart, so he arrives at all three tiers himself and knows exactly how
   thin tier 3 is. He uses it anyway, because the alternative is not working.
 
-### 4. The bump, and the throw
+### 4. Recall — "the straw" *(later discovery; fixes the future, not the past)*
+
+**The mechanic.** Grown crystal is his chakra organising a medium. He can draw
+the chakra back out — a straw, not a summons. The organisation fails and the
+piece **slumps to the mineral it was grown from**: sand, grit, ordinary powder.
+It does not vanish and it does not fly to his hand. This is consistent with
+everything already established about the craft and it finally explains why the
+medium mattered.
+
+**Costs, all of them load-bearing:**
+
+- **Lossy.** He gets a fraction back, never all. Emptying a room's worth of work
+  leaves him hollow for a day.
+- **Range falls off hard.** Contact is cheap and near-total. At twenty yards it
+  is expensive and incomplete. Beyond that it is a gesture.
+- **Slow.** Seconds to minutes by mass and distance. Not a combat action.
+- **LOUD — the central cost.** Growth is a still thing; **recall is a flow**, and
+  flow is what sensors and dōjutsu read. A Byakugan sees it plainly, a decent
+  sensor feels it, a Sharingan reads the shape of it. **The killing is silent and
+  the tidying is a flare.**
+- **Proximity.** To take it back he must be close, and he must wait — near the
+  body, which is the one place every instinct in the trade says leave. This bind
+  cannot be optimised away and it feeds the thing the arc already costs him: he
+  stops being able to leave places cleanly.
+- **Only his own.** Not his mother's work. Not the clan's four hundred years of
+  traded product. Keyed to the individual.
+
+**Timing ruling — this must arrive late.** If he has recall before the first
+contract, tiers 1 and 2 never get established and he skips straight to safe. He
+does the early kills the ugly way: a bought knife dropped in a canal, a shank in
+his pocket, and **one throw he cannot walk over to and has to leave.** Recall
+turns up afterwards and fixes nothing that is already out there. Some pieces are
+too far. One is in a man who has been buried.
+
+**Consequences to hold:**
+
+- **The leash.** Everything he has ever grown and not taken back still has a
+  thread of him in it — eleven lodgings, four fixtures at Tomari, every shard he
+  could not reach. That is a sensor problem lying in wait, and it runs both
+  directions.
+- **Tomari.** The day he learns this he learns he could go back and empty it:
+  unmake the rung, the spur, the ridge, the cleat — the four things that saved
+  his life. Either decision is a chapter. Do not resolve it cheaply.
+- **His mother is outside him, permanently.** One day he holds a piece of Ruri
+  work in a shop and cannot take it back, and that is exactly why any of her
+  still exists.
+- **Guren gets teeth from the same rule.** She can unmake anything she has made,
+  including whatever she has put around him. Act 5 combat constraint, established
+  in advance and fair.
+- **The note is demoted.** With recall available, the note stops being disposal
+  and becomes a battlefield trick — shattering a piece he cannot reach, or one
+  that is not his to take back.
+
+### 5. The bump, and the throw
 
 - **The shank from a bump.** Contact, growth, withdrawal, note. Delivered in a
   market, a queue, a gangway, a stairwell — the places he has spent his whole
@@ -141,7 +194,7 @@ Consequences to hold:
   also the rung that cannot be retrieved, so every throw is a tier-3 disposal and
   a deposit on the clock.
 
-### 5. Growth inside a living body — **held back, possibly forever**
+### 6. Growth inside a living body — **held back, possibly forever**
 
 This is the line. It is what the square did *to* him and it is the technique that
 makes him the thing his family died to. If it is ever used it is once, late, at

@@ -148,6 +148,21 @@ years. It does not destroy the *material*, so it defeats a constable and not a
 medic-nin, and every unretrieved piece is a deposit on a clock. Primary disposal
 is no crystal in the wound at all. See `design/crystal-doctrine.md`.
 
+### Recall — the straw
+
+Grown crystal is his chakra organising a medium; the chakra can be drawn back
+out, and the piece then **slumps to the mineral it was grown from** (sand, grit)
+rather than vanishing. Lossy, slow, sharply range-limited, and — the load-bearing
+cost — **visible**: growth is still, recall is a *flow*, and flow is what sensors
+and dōjutsu read. The killing is silent; the tidying is a flare. **Only his own**
+comes back: not his mother's work, not the clan's traded product, and Guren can
+unmake hers by the same rule.
+
+Two rulings held in `design/crystal-doctrine.md`: it **arrives late**, after the
+ugly kills have already scattered pieces of him he cannot reach; and everything
+he has ever grown and not recalled still carries a thread of him — a leash that
+runs both ways.
+
 ### The grown blade — long thread
 
 Planted Act 2: swordsmanship from Sakai (survival fencing, never mastery), and
