@@ -4,8 +4,8 @@
 
 ---
 
-The lattice question he took apart the same winter, at night, on the scrap
-tray, in the manner of the only laboratory he had ever been trained in:
+The lattice question he took apart that spring, in the weeks after the first
+piece, at night, on the scrap tray, in the manner of the only laboratory he had ever been trained in:
 one change at a time, and write nothing down.
 
 The question was old. It was, in fact, the second-oldest question he owned —
@@ -67,7 +67,7 @@ thread was true. A nail stood upright in the bed grew a socket around
 itself, released with a twist, a perfect blind hole. A chopstick laid flat
 got a half-round channel. The growth answered *any* boundary it was
 offered — offered, not imposed; the thread did not force the crystal any
-more than a path forces a walker — and by the second month of the year he
+more than a path forces a walker — and within two months he
 could grow, slowly, on a good night, with everything in him bent to it, a
 flat ribbon two fingers wide and a hand long, unlatticed, shaped by
 nothing but a stretched string and intent.

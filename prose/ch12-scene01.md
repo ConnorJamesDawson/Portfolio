@@ -1,6 +1,6 @@
 # Chapter 12, Scene 1 — The Door Man
 
-*Act 2, part C. Sazare Ruri, age fifteen. POV: Sazare. ~2,300 words.*
+*Act 2, part C. Sazare Ruri, ages fourteen–fifteen. POV: Sazare. ~2,300 words.*
 
 ---
 
@@ -38,8 +38,7 @@ He had been collecting its members all his life.
 
 ---
 
-He asked on a wet evening in the third month, the spring after his fifteenth
-birthday, at the door, with the steam coming off the bath-house eaves and the lamps just lit.
+He asked on a wet evening in his second summer at Yumoto, at the door, with the steam coming off the bath-house eaves and the lamps just lit.
 
 "Will you teach me the sword?"
 

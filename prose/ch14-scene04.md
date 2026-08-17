@@ -1,13 +1,13 @@
 # Chapter 14, Scene 4 — The Fortnight
 
-*Act 2, part D. The southern coast. Jirō, age sixteen. POV: Jirō. ~2,400
+*Act 2, part D. The southern coast. Jirō, age fifteen. POV: Jirō. ~2,400
 words.*
 
 ---
 
 The village was called Ōura, eleven houses and a smoke-shed on a hard
-little bay three days south of Shiranui, and the stone-mender had wintered
-in it, and Jirō knew that before anyone said so, because the smoke-shed
+little bay three days south of Shiranui, and the stone-mender had stopped
+five weeks in it, and Jirō knew that before anyone said so, because the smoke-shed
 door hung on a hinge that had been mended by somebody who loved the work,
 and nothing else in Ōura had been mended by anybody at all.
 
@@ -23,7 +23,7 @@ short pipe with the economy of a woman who had rationed her whole life,
 and she stood in her doorway with her arms folded and answered Rei's
 questions like a woman paying a toll: exactly, and no more.
 
-Stayed five weeks, the turn of the year. Paid board weekly, in advance,
+Stayed five weeks, midsummer. Paid board weekly, in advance,
 never owed a day. Mended the smoke-shed hinge, and her kettle, and the
 church of small broken things the village brought him once it understood
 what it had — she gestured with the pipe at half of Ōura in a single
@@ -36,8 +36,8 @@ because none of her business, and none of theirs.
 "Then he'll pay it," said Ō-Yone. "That one settles up." And shut the
 door, courteously, in their faces.
 
-Jirō wrote: *subject wintered Ōura, 5 wks. Departed south by water,
-second month. Local account consistent.* And underneath, in the box the
+Jirō wrote: *subject stopped Ōura, 5 wks. Departed south by water,
+eighth month. Local account consistent.* And underneath, in the box the
 form kept for an assessor's remark, after a while, the pen not hurrying:
 *Settles up.*
 
@@ -64,7 +64,7 @@ the same toll — shorter here, blunter there; the kettle had dropped out
 of the account and the tideline walks had gained a detail, that he'd
 stand at the water an hour at a time, of an evening, looking east — and
 Jirō stood behind Rei's shoulder in the wet with his hat brim down,
-sixteen years old, listening to a woman say it straight and say it the
+fifteen years old, listening to a woman say it straight and say it the
 same, arms folded against people with papers and a fee for trouble, and
 he was eleven, and the door was his own door, and the voice was his
 mother's voice to the width of a grain: *I fed him. He went up and down
@@ -118,7 +118,7 @@ Jirō sat with his tea and his face in order, and hated the fire, and
 the rain, and the trade, and the truth of it — because it *was* true,
 it was the best piece of tracking doctrine he'd heard spoken aloud on
 the whole detail, and it was also, said otherwise, this: the only
-thing in four years that has made your friend findable is that
+thing in three years that has made your friend findable is that
 nothing they did to him has managed to stop him being kind. That is
 the trail. You are following the kindness. You, of all the people
 they could have sent.
@@ -166,14 +166,14 @@ blanket, ending it. "Sleep."
 
 Jirō sat up a while with the fire dying and the mask on his knees.
 
-Four years. He'd be tall now. He'd have the scar under his sleeve
+Three years. He'd be tall now. He'd have the scar under his sleeve
 and a barge-hand's shoulders and a way of standing at the water of
 an evening, looking from; and somewhere down that thin coast he was
 mending his way south at nine days' distance, leaving a trail of
 better hinges, and the finest tracer of his intake was coming down
 the same coast behind him carrying a white face in a kit-roll and a
 flag that said *alive, undamaged, premium*, and an unfinished
-sentence of his mother's, folded corners-in, four years old:
+sentence of his mother's, folded corners-in, three years old:
 
 *You bring him to me before you bring him to them. I'll feed him,
 and I'll look at him, and then—*

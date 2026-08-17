@@ -1,6 +1,6 @@
 # Chapter 13, Scene 2 — The Reason
 
-*Act 2, part D. Sazare Ruri, age sixteen. POV: Sazare. ~2,100 words.*
+*Act 2, part D. Sazare Ruri, age fifteen. POV: Sazare. ~2,100 words.*
 
 ---
 
@@ -149,7 +149,7 @@ once used it on money."
 "*Details*," bawled Gonta, and hugged him, and stumped away up the
 new-cut road without looking round, exactly like his predecessor, and
 Sazare stood at the ford with the cloth in his arms and let himself
-have the whole of it, both boys, four years apart, the parallel and
+have the whole of it, both boys, three years apart, the parallel and
 the ache, because Tose's country had taught him that you let these
 things through the door when they knock, or they come back at the
 third hour with keys of their own.

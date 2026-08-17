@@ -6,7 +6,7 @@
 
 The bounty men came up the valley in the mud month, two of them, off the
 coast road, and stayed at the cheap inn and soaked at the old bathhouse,
-and were, by the standards of everything Sazare had spent three years
+and were, by the standards of everything Sazare had spent two years
 bracing for, disappointingly ordinary.
 
 They were not hunting him. He established that within the hour, from the
@@ -38,7 +38,7 @@ road gear did, and the book was there in it — he had seen the older man
 carry it, oilcloth packet, breast of the coat, the size of a prayer-book
 and handled like one — and the entry hall was empty, and the innkeeper's
 girl was hanging wash in the yard, and Sazare stood in the doorway with
-his heart going and every instruction of four years standing in a row
+his heart going and every instruction of three years standing in a row
 telling him to walk on.
 
 Curiosity went past them the way it had gone past them at every door of

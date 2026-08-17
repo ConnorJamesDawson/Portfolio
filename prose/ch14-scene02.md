@@ -1,10 +1,10 @@
 # Chapter 14, Scene 2 — Don't Round Up
 
-*Act 2, part D. Kirigakure. Jirō, age sixteen. POV: Jirō. ~2,300 words.*
+*Act 2, part D. Kirigakure. Jirō, age fifteen. POV: Jirō. ~2,300 words.*
 
 ---
 
-His brother had died in the second year of the corridor postings, on the
+His brother had died in the spring of the previous year, on the
 night the resistance took the fish traps at Aragane, in an action so small
 it had not earned a name.
 
@@ -52,7 +52,7 @@ breathing it.
 And the resistance said they were fighting the arrangement, and had
 killed his brother, who was packs.
 
-He did not have anywhere to put any of it. He was sixteen. He put it in
+He did not have anywhere to put any of it. He was fifteen. He put it in
 order instead, which was not the same thing, and drew his kit, and
 polished his rate, and requested the corridor.
 
@@ -124,7 +124,7 @@ peg.
 "The second thing you already know, because I taught it to your whole
 year in the spring assessments, and one boy in that room heard it so
 completely that I've thought about the look on his face at odd moments
-for four years." Her eyes came up, flat and level, schoolroom-grey, and
+for three years." Her eyes came up, flat and level, schoolroom-grey, and
 for a moment Jirō was nine, and it was raining, and the whole world was
 a slate wall with five blobs on it. "*Don't round up.*
 

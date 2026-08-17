@@ -1,6 +1,6 @@
 # Chapter 13, Scene 3 — Weights and Measures
 
-*Act 2, part D. Sazare Ruri, age sixteen. POV: Sazare. ~2,000 words.*
+*Act 2, part D. Sazare Ruri, age fifteen. POV: Sazare. ~2,000 words.*
 
 ---
 
@@ -10,7 +10,7 @@ only coin that had ever meant anything in that house.
 He had thought about it for the whole of the summer — what you leave a
 man who keeps no ledger with names in it, who had fed him before touching
 him, who had moved a bed nearer a stove in the second week and never once
-in three years referred to it. Money was absurd; Tōan repriced other
+in two years referred to it. Money was absurd; Tōan repriced other
 people's money on principle. Words were worse. The trade of that house
 ran on a different standard entirely, and it had taken Sazare most of a
 season to see that the standard had been in front of him the whole time,
@@ -72,7 +72,7 @@ things that outlast us."
 
 "You weren't taught it well," said Sazare. "There's a woman up the second
 valley whose whole family exists because of your hands. That outlasts
-you. I've watched you build things that outlast you for three years.
+you. I've watched you build things that outlast you for two years.
 The weights are just — " he looked for it, and found it, tradesman to
 the end — "the weights are just the receipt."
 
@@ -85,7 +85,7 @@ somewhat thickened. "You'll eat before you go. A month at least."
 
 It was the oldest joke the house owned — it was, in fact, the first
 sentence the house had ever said to him — and Sazare laughed, at last,
-properly, sixteen years old in a lamplit treatment room at four in the
+properly, fifteen years old in a lamplit treatment room at four in the
 morning, and the sound of it surprised them both, and neither of them
 was sorry.
 

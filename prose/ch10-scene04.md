@@ -4,7 +4,7 @@
 
 ---
 
-In the summer Tōan declared the arm finished, in the manner of a tradesman
+In the spring Tōan declared the arm finished, in the manner of a tradesman
 signing off a job: he ran the whole battery on it in one morning — the stones,
 the knots, the spring-band, grip against the scale hooks, and last a raw egg
 to be lifted, carried the length of the porch in the bad hand's fingertips,
@@ -106,7 +106,7 @@ of it again that year.
 
 ---
 
-The wages came at midsummer and were an ambush.
+The wages came at the start of summer and were an ambush.
 
 Tōan put coin on the kitchen table on the last evening of the month, in a
 short stack, and pushed it across, and went on eating.

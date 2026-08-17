@@ -1,6 +1,6 @@
 # Chapter 14, Scene 3 — Things Get Fixed
 
-*Act 2, part D. The Land of Hot Water. Jirō, age sixteen. POV: Jirō. ~2,400
+*Act 2, part D. The Land of Hot Water. Jirō, age fifteen. POV: Jirō. ~2,400
 words.*
 
 ---
@@ -39,7 +39,7 @@ question is a stone dropped in still water and every ring of it says
 talked at every table of his childhood, and you let the coast do what
 coasts do, which is mention things.
 
-It took the coast five months to mention the stone-mender.
+It took the coast the rest of that summer to mention the stone-mender.
 
 ---
 
@@ -103,7 +103,7 @@ what the first hour gave him, because the paper school required it, and
 because every detail of the confirming hurt in a place the mask was
 starting to fit over.
 
-The stone-mender was gone. Left in the spring, the town said, easily,
+The stone-mender was gone. Left at midsummer, the town said, easily,
 to anyone; no mystery in it; trade's trade, boys move on. The porch at
 the last house before the town — a treatment house, an old Kiri medic,
 *retired, decades back, keep your voice down about it all the same* —
@@ -174,7 +174,7 @@ passive. No indication of insurgent handling.* He looked at the last
 sentence for a long time, at the shape of the hole where the corridor
 brief expected *handlers* to be, because the brief's whole theory was
 that the network had taken the boy and was running him, and five
-months of coast and three years of this valley said otherwise, said
+months of coast and two years of this valley said otherwise, said
 worse, said something no box was built for: that the boy had been
 raised — by a coast, by a doctor, by a drunk, by a fat horse and a
 country that didn't matter — into exactly what he'd been at eight,

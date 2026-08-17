@@ -1,13 +1,13 @@
 # Chapter 13, Scene 4 — The Second Peg
 
-*Act 2, part D. Shiranui. Sazare Ruri, age sixteen. POV: Sazare. ~2,300 words.*
+*Act 2, part D. Shiranui. Sazare Ruri, age fifteen. POV: Sazare. ~2,300 words.*
 
 ---
 
 Shiranui had grown the way a wound swells.
 
 He saw it from the last hill, from the seat of the cart, and spent the whole
-descent reading it: a third again more masts in the harbour than three years
+descent reading it: a third again more masts in the harbour than two years
 ago, and rafts of them the wrong kind — deep-keeled coasters riding empty,
 waiting on cargoes that were worth waiting on. New roofs up the eastern
 slope, raw wood, thrown up fast. A queue at the water-bailiff's shed that
@@ -23,7 +23,7 @@ changes by the hour.
 
 "It's always the war. A war's a fire in the next street, boy — everybody
 who isn't burning does a roaring trade in buckets." He clicked at the
-horse. "Three years back this coast said *it's a shame*. Now it says
+horse. "Two years back this coast said *it's a shame*. Now it says
 nothing and rents out its lofts. You can watch a country learn to live
 off a thing it's ashamed of, if you stand still long enough. It's not
 improving, as a sight."
@@ -37,7 +37,7 @@ the reins loose in his brown old hands.
 said. "Because they will. You got famous, up there. Famous for mending,
 which is a foolish lovely way to get famous, and it travels." He gathered
 the reins. "I'll tell them the truth. Quiet lad. Paid his way. Got off at
-Shiranui in the spring, and I don't know where he went, because I won't."
+Shiranui in the summer, and I don't know where he went, because I won't."
 He clicked at the horse. "Keep off the platforms. Mind the camber. Go
 on."
 
@@ -65,7 +65,7 @@ finally emptied she looked over at him without one particle of surprise.
 "Come here where I don't have to shout."
 
 He sat down on the stool. The ledger between them was a fatter cousin of
-the one four years dead; she flipped it backward through seasons of
+the one two years dead; she flipped it backward through seasons of
 other people's names, found her page, and laid her finger on the old
 entry without hunting for it, which told him she had looked at it more
 than once in the interval.
@@ -131,7 +131,7 @@ dark with his sister saying *no* and *no* and *yeah*.
 
 "He knew if you were alive you'd come through carrying money," said
 Anzu. "You've been sending a tenth of everything down a mountain for
-three years, love. Ryōsuke can read a manifest. Everyone who matters
+two years, love. Ryōsuke can read a manifest. Everyone who matters
 has known you were up that valley since the second winter; the whole
 art was making sure nobody who mattered *otherwise* did." She let
 that sit exactly one beat. "It held, near enough. Now it's done
@@ -170,7 +170,7 @@ thought; the *ko* survived and little else — with no line through it
 and no second hand and nobody left, apparently, in the whole traffic
 of that coast, who came of an evening to keep it asking.
 
-He had not written four years ago because a name on that wall was a
+He had not written two years ago because a name on that wall was a
 question, and his questions had answers, and the wall was for people
 who were allowed to hope.
 
@@ -194,8 +194,8 @@ would have been his out of a hundred.
 
 *Ours. Safe. Knock.*
 
-Sazare knocked, and a door on a foreign coast opened to him, four
-years and a war away from a boy on a jetty with everything he owned
+Sazare knocked, and a door on a foreign coast opened to him, two
+years and a whole war away from a boy on a jetty with everything he owned
 in one hand; and by the morning boat-watch he was gone south along
 the grey levels with a parcel in his pack that did not rattle, a
 route in his head instead of coin, and the tenth and the tenth

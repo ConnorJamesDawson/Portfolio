@@ -365,8 +365,18 @@ Rulings made during drafting, binding on later chapters:
   their own borders in this same era.
 - **Jirō is a war-list chūnin at fifteen** — field promotion, no exam, which
   Mizuho's "never made chūnin theory, and it never mattered" already supports.
-- **Age ledger:** born month 11. Execution at 13y6m. Arrives Hot Water 13y6m.
-  Leaves Yumoto ~16y8m. Encounter 16–17. Waves at 17.
+- **Age ledger (compressed per ruling):** born month 11. Execution at 13y6m.
+  Arrives Hot Water 13y6m. Yumoto stay ≈ 2 years 1 month: arm signed off in
+  spring (~14y3m), Sakai from the second summer, Tose dies month 10 (14y11m),
+  first piece at the front edge of spring (15y4m), scout month 5 (15y6m),
+  departs month 7 at **15y8m**. Encounter ~15y10m. Waves 15y11m. **Konoha gate
+  at fifteen, by a month** — the sixteenth birthday passes unremarked in
+  custody. Consequences: Jirō is fifteen on the corridor; the listing runs ~2
+  years not 4; the fall (hinge → floor) is a plunge over weeks, not a year's
+  slide. Accepted canon strain, recorded once: this sets Zabuza's coup ~3–4
+  years before Part I rather than the fan-databook 6, and ages Kimimaro's cage
+  scene accordingly — the timeline table already labels those figures
+  approximate.
 
 ## Themes
 

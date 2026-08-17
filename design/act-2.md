@@ -5,9 +5,11 @@ and assumed the game's Act 1 (rebel HQ recruitment, formal deployment, staged
 missing-nin listing). The prose broke those assumptions; this version matches
 what is now on the page.
 
-**Span:** ages 13 to 17 — four years, and his formative ones. He enters it
-malnourished, mute by choice, with a ruined right arm and nightmares; he leaves
-it solvent, capable, hunted, and compromised.
+**Span:** ages 13 to 15 — two and a half years, compressed per ruling, and his
+formative ones. He enters it malnourished, mute by choice, with a ruined right
+arm and nightmares; he leaves it capable, hunted, and compromised, and reaches
+Konoha's gate still fifteen. The fall (hinge → floor) is a plunge over weeks,
+not a year's slide.
 **Opens:** a boat in the fog. **Closes:** the floor, and the road to Waves.
 
 **Function of the act:** *Explore, Live, Learn.* He recovers a body, then a

@@ -1,10 +1,10 @@
 # Chapter 13, Scene 1 — Noon
 
-*Act 2, part D. Sazare Ruri, age sixteen. POV: Sazare. ~2,200 words.*
+*Act 2, part D. Sazare Ruri, age fifteen. POV: Sazare. ~2,200 words.*
 
 ---
 
-The winter he was sixteen, he helped bring a child into the world, and that
+The winter he turned fifteen, he helped bring a child into the world, and that
 was the high-water mark, and he knew it at the time, which is rare, and
 worth recording.
 
@@ -74,7 +74,7 @@ and he woke slow and whole in the warm dark and heard, through the wall,
 a spoon tap twice on a jar rim and go still, as though somebody had only
 been checking.
 
-He was sixteen. He had a trade, a teacher, a doctrine, a town, a waiting
+He was fifteen. He had a trade, a teacher, a doctrine, a town, a waiting
 list, and a count paid monthly against a debt he never named.
 
 He caught himself, one evening on the porch in the long light, doing a
@@ -157,7 +157,7 @@ Kindness from strangers who already know what you are.
 *You don't explain. You walk.*
 
 But you did not walk at mid-morning, off your own porch, from a pleasant
-man with a commission. That was the other thing four years had taught
+man with a commission. That was the other thing three years had taught
 him, the Anzu thing, the ledger thing: a bolt is a *description*, and
 descriptions sell.
 

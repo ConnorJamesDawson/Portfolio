@@ -1,6 +1,6 @@
 # Chapter 14, Scene 1 — Known Associate
 
-*Act 2, part D. Kirigakure. Jirō, age sixteen. POV: Jirō. ~2,400 words.*
+*Act 2, part D. Kirigakure. Jirō, age fifteen. POV: Jirō. ~2,400 words.*
 
 ---
 
@@ -17,14 +17,14 @@ So: yes, he had known the subject. From age seven; Academy intake of the
 same year; the association was daily and continued until the subject's
 household was detained. Yes, the subject had been in his mother's house;
 his mother had fed him; this was on record, volunteered at the time. No,
-no contact since the twelfth day of the fifth month four years ago. Yes,
+no contact since the twelfth day of the fifth month three years ago. Yes,
 he was certain of the date. The date was the day before the subject's
 family was produced in the fish market square, and the subject had come to
 their street looking for lodging, and had been refused, and Jirō had
 followed him to the corner and given him eight ryō and the rice out of the
 cloth, and told him to keep his head down, and that was in the record too,
 all of it, in his mother's statement and his own, said straight, said the
-same, four years running.
+same, ever since.
 
 The officer across the table was new — they were always new; that was
 another part of the trick — and went down the file with a dry finger, and
@@ -37,7 +37,7 @@ Fed him. Schooled beside him. Liked him.
 
 Cost, to date, of having liked Sazare Ruri: the barracks laundry contract,
 withdrawn from his mother in the month after the square, *pending review*,
-reviewed now for four years; his sister's betrothal, quietly returned by
+reviewed ever since; his sister's betrothal, quietly returned by
 the boy's family with the porcelain still wrapped; two postings his
 brother had been passed over for, in writing, with no reason given,
 because the reason did not go in writing.
@@ -50,13 +50,13 @@ one, the one with the wave-stamp on the board — and went through it aloud
 in the passionless inventory voice they all used, as though reading back
 a delivery manifest.
 
-"Four years listed. Correct me where your information's better. Year
-one: subject vanishes off the face of the earth out of a square with
+"Two years listed, near enough. Correct me where your information's
+better. Year one: subject vanishes off the face of the earth out of a square with
 four hundred witnesses in it — into the smuggler channels, the assessors
 wrote, *if he lived*, and half of them underlined the if. A starved
 child with a destroyed arm, in a winter crossing, in wartime. This file
-carried him at even odds dead by spring." A leaf turned. "Years two and
-three: nothing. No sighting, no whisper, no coin. And I'll save you the
+carried him at even odds dead by spring." A leaf turned. "The year after:
+nothing. No sighting, no whisper, no coin. And I'll save you the
 question you're too well trained to ask: no, nobody went looking.
 There's a war on, Chūnin. Retrieval is not leak-plugging — the boy holds
 no ciphers, no signals, no doctrine. He cannot hurt us by existing; he
@@ -67,7 +67,7 @@ neglect. That's arithmetic, and I'd do it again."
 
 Another leaf.
 
-"Then this year. A mender in the Hot Water spring towns who works
+"Then this spring. A mender in the Hot Water spring towns who works
 island-fashion. Trade chatter, low grade — it would have sat in the file
 another season, except that it arrived alongside something with more
 iron in it." He looked up for the first time. "Other parties asking up
@@ -185,7 +185,7 @@ gone by supper. You remember."
 that boy four hundred times. I'd have fed him four hundred more. When
 they came round with the list I said it straight and I've said it
 straight every fortnight since, and I'll tell you what I've learned in
-four years of rooms, Jirō, because it's the only thing there is to
+three years of rooms, Jirō, because it's the only thing there is to
 learn: they don't ever want *him*. They want the shape of the hole he
 leaves. They'll take him whole, like the paper says, all kindness, and
 they'll stand him somewhere and grow things out of him till there's
@@ -200,7 +200,7 @@ sit him at this table one hour. I'll feed him, and I'll look at him, and
 then—"
 
 She stopped. She folded the sentence up the way she folded sheets,
-corners in, and put it away wherever the last four years of sentences
+corners in, and put it away wherever the last three years of sentences
 had gone.
 
 "Eat," she said. "It's getting cold."
