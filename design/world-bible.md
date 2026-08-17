@@ -140,6 +140,11 @@ sound-weakness discovered from inside, as craft knowledge. The frames' hum was
 this. A grown blade would have to be made *off-note* — one of the reasons the
 blade thread runs years, not chapters.
 
+The note is also the **disposal mechanism** for the assassin work: a piece grown
+deliberately off-key can be given its note afterwards, so what is left in a wound
+is grit rather than a bloodline with an address on it. See
+`design/crystal-doctrine.md`.
+
 ### The grown blade — long thread
 
 Planted Act 2: swordsmanship from Sakai (survival fencing, never mastery), and
@@ -277,7 +282,11 @@ Release — he developed **workshop** Crystal Release.
   does effortlessly.
 
 **He is a fortifier, not a duelist.** He wins fights by having been somewhere
-first and loses every fight he didn't choose. This is a childhood spent at a
+first and loses every fight he didn't choose. **Assassination is this same
+doctrine pointed at a person**, which is why the trade takes him without
+requiring one new trait — he never becomes fast, brave, or willing to trade
+blows. Progression ladder, costs, and the held-back technique:
+`design/crystal-doctrine.md`. This is a childhood spent at a
 bench instead of a training ground, and it is the honest reason he cannot trade
 blows with Team 7 in Act 4 — a discipline mismatch, not a power-level fudge.
 

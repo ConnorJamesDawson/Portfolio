@@ -1,0 +1,192 @@
+# Crystal doctrine — the assassin evolution
+
+**Status:** ruling taken after ch15. This supersedes nothing in the world bible;
+it is the progression ladder that sits under *"He is a fortifier, not a
+duelist"* and explains what a fortifier becomes when he has to kill people for
+money.
+
+**The one-line thesis:** assassination is not a departure from the fortifier
+doctrine, it is the fortifier doctrine pointed at a person. He wins by having
+been somewhere first. An assassin is someone who was somewhere first. He never
+becomes fast, never becomes brave, never trades blows, and never needs to.
+
+---
+
+## Why the archetype fits without a single new trait
+
+Every load-bearing thing already established points here, and none of it was
+planted for this:
+
+- **Fortifier, not duelist.** Prepared beats reactive. Assassination is the most
+  prepared form of violence there is.
+- **Stillness is his only stealth, and he does not know it.** Still-water control
+  reads ambiently as chakra suppression. Never named, never rewarded.
+- **Crowds are camouflage.** Fourteen months of it in Kiri, two years of it since.
+- **The body is wrong for anything else.** No mass, no reach, no arrogance, eight
+  years late to the sword and a knee that will never again tell him the truth
+  about how much weight it has left.
+- **Sakai's doctrine forbids the alternative.** *You won't be drawn. You won't
+  fight the fight that's offered when you can fight the one that isn't. Winning
+  makes appointments.* A swordsman's flourish with crystal on it is a
+  description, and a description is how a man with a book finds you.
+- **The trade already recruited him.** He took the contract at Tsuzura on a leg
+  that would not bend, and refused to be told the name.
+
+**The sword is not abandoned; it is demoted to what Sakai always said it was.**
+Defensive. Eleven seconds and leave. Killing tools are disposable and grown; the
+survival tool is a blade, and the long thread — *a blade nobody handed him,
+grown by his own hands, slowly, off-note* — is unaffected and arguably improved,
+because by the time he makes it he will know exactly why it has to be off-note.
+
+---
+
+## The ladder
+
+Rungs are ordered by difficulty, not by chapter. Each one should cost something
+and at least two of them should be discovered by accident or by failure.
+
+### 1. On command, small, and quiet *(the real rung one)*
+
+Not strength. Strength was never the problem — he put a spike through a man at
+ten yards at thirteen. The problems are **control under a heart rate**,
+**repeatability**, and **silence**.
+
+State at the end of ch15: he cannot do this. The bar at the culvert came out
+off-key because the still water went out of him, and it shattered on the third
+strike, and he has not touched the craft since. **The gap between "can grow" and
+"can grow on demand, unremarkably, while frightened" is the whole first movement
+of the next arc**, and it is a control problem, which is the one axis on which he
+is genuinely elite. Winnable without a power-up.
+
+Target spec: from palm contact, under a sleeve, no seals, no sound, no flare, in
+under a second, at the size of a nail.
+
+### 2. Concealment — the tools are already innocent
+
+A jeweller's roll is an assassin's kit that nobody searches. Files, gravers,
+pin-vices, wax, a burnisher, wire. He can grow *into* things already in his
+hand: a comb, a hairpin, a shop weight, the shank of a bracelet, the tang of a
+chisel. Nothing on him is ever a weapon until about a quarter-second before it
+is one.
+
+This is also the reason he keeps his cover: the cover is not a disguise, it is
+the delivery system.
+
+### 3. The note — disposal, and the best technique in the design
+
+The signature problem: crystal is the one substance in the world with his name
+on it. A blue-grey shard left in a wound is a bingo-book entry with an address.
+
+The answer is craft knowledge he already earned on a bench: **a wrong-grown
+piece shatters at its note.** So he grows the working piece deliberately
+off-key and gives it its note afterwards — a hum, a tap, a struck rim, the
+movement of the body itself. What is left in the wound is grit.
+
+Consequences to hold:
+
+- It is **his mother's frames** that taught him this. The hum he grew up inside.
+- It makes him nearly unattributable, which is exactly what the network will pay
+  for and exactly what removes the last external check on him.
+- A piece grown to shatter is a piece grown *badly on purpose*. He is a mender.
+  Deliberately making something wrong is not a neutral act for this character
+  and should never be written as one.
+
+### 4. The bump, and the throw
+
+- **The shank from a bump.** Contact, growth, withdrawal, note. Delivered in a
+  market, a queue, a gangway, a stairwell — the places he has spent his whole
+  life being invisible in. The victim usually walks several paces.
+- **The throw.** Grown in the sleeve, thrown underhand from waist height, which
+  looks like nothing and is the throwing form the Academy actually taught before
+  it stopped existing. This is the noisiest rung and should stay rare.
+
+### 5. Growth inside a living body — **held back, possibly forever**
+
+This is the line. It is what the square did *to* him and it is the technique that
+makes him the thing his family died to. If it is ever used it is once, late, at
+enormous cost, and it should read as a man doing to someone else the exact thing
+that was done to him. Do not spend it in Act 2 and do not let it become a tool.
+
+---
+
+## The price — what the evolution actually costs
+
+Not "he becomes dark." The fee is specific and it is the best thing in the whole
+idea:
+
+**To be untraceable he has to stop mending things.**
+
+Kōga's tracking thesis stands unchallenged: *he leaves them better. Every stop on
+this coast, he leaves it better than he found it. Kindness has a gait; you can
+track it like anything else that walks.* Anzu's version: *a man who doesn't ask
+questions is the loudest thing in the room.* His approach was never findable.
+His **aftermath** is.
+
+So the assassin arc's real training is not the killing. It is learning to walk
+out of a town that is still broken. Hinges left hanging. A kettle he could fix in
+four minutes and doesn't. The stammering boy waited out by nobody. That is his
+mother's trade being put down deliberately, town by town, and it is the last
+piece of her he has.
+
+**And it gives us the countdown for free:** the day the hinges stop getting fixed
+is the day Jirō's trail goes cold — and Jirō, who has been following the kindness
+for a year and knows perfectly well that it is the kindness he is following, will
+know **exactly** what a cold trail means. He will not be relieved. He will
+understand that something has been removed from his friend, and that he is the
+reason it was removed.
+
+---
+
+## The crowd — keep it as a trap, do not fix it
+
+The crowd wound is specific and stays specific: markets are fine, **a crowd
+facing one thing** is not. An audience, an announcement, a platform, people
+arranged toward a stage.
+
+That is a large fraction of assassination work — processions, public
+appearances, sentencings, festivals with a dais. So the trade will keep offering
+him the one formation that puts him back in the square at thirteen.
+
+**Ruling:** he specialises around it for years. He prices himself out of
+platform work, invents reasons, takes the awkward jobs instead, and becomes
+quietly known in the trade as a man who will not do public ones — which is
+itself a description, and therefore itself a danger. The one time he cannot
+avoid it is a whole chapter and should be positioned deliberately.
+
+---
+
+## Who teaches what
+
+**Nobody can teach him the crystal.** That is the point and it must not be
+softened: he is the sole surviving holder, and Guren — the only living person
+who could correct him — is not available until she is, and when she is it is a
+temptation, not a tutorial.
+
+So the 120 ryō does not buy crystal instruction. It buys the **delivery
+system**: approach, movement, positioning, how a body actually dies, how long
+you have, the trade's ordinary competence that he has none of. The payload he
+invents himself, alone, at night, on a bench — exactly as he has done since
+Yumoto, because that is the engine of the character and it should not change
+just because the output has.
+
+---
+
+## First kill — the shape to aim for
+
+The floor of Act 2 is designed as *a contract on another bloodline user*. The
+**first** kill should not compete with that; it should hurt in a completely
+different register.
+
+Recommendation: it goes technically well and morally wrong. The bump works, the
+note works, the crowd closes, nothing is left. And the man does not die at once —
+he goes down in a doorway and takes some minutes about it, and Sazare, who
+carries a medical roll and was taught for two years by a man who does not lie,
+**knows precisely what would save him**: where the pressure goes, what to pack,
+how long the window is, every step of a procedure he has performed on strangers
+for nothing.
+
+He stands in the crowd and does not do it.
+
+Tōan's training, run backwards. That is the floor beneath the floor, and it does
+not require the victim to be sympathetic, or innocent, or known — which keeps
+faith with the fact that he refused to be told the man's name.
