@@ -1,7 +1,7 @@
 # Chapter 18, Scene 2 — A Town That Cannot Pay
 
 *Act 3, part A. Nami, the Land of Waves. Sazare Ruri, age sixteen. POV:
-Sazare. ~3,050 words.*
+Sazare. ~3,700 words.*
 
 ---
 
@@ -240,8 +240,8 @@ away and started back up the deck, waving one hand over his shoulder
 without looking round. "Come at seven, there'll be food. And don't tell
 anybody about the pine, they've enough on."
 
-Sazare had known the name for five weeks. Everybody in Nami said it about
-four times a day, in the particular tone a dying town keeps for the one
+Sazare had known the name since his first week in Nami. Everybody said it
+about four times a day, in the particular tone a dying town keeps for the one
 man in it who is still trying — half exasperation, half something they
 would not have admitted to — and it had not once occurred to him to put
 *old Tazuna, the drunk, the bridge* together with a man who had built
@@ -332,3 +332,73 @@ considerable time, with the tide going out underneath him and the cold
 coming up through the boards.
 
 He did not tell anybody about the pine.
+
+---
+
+Eight days after that, Tazuna went away.
+
+The town knew where and the town knew why inside about an hour, because
+the town always did, and by the second morning Sazare had been told it
+four separate times by people who had not been asked.
+
+The old fool had gone to the Land of Fire. To Konoha. To the *hidden
+village*, at his age, on the ferry and then four days on foot, to hire
+himself some ninja to see him home and stand about on his bridge, because
+Gatō's men had been up the causeway twice in the autumn and the second
+time they had taken a hammer to the crane.
+
+The town's opinion of this divided about evenly. Half of Nami thought it
+was the bravest thing anybody there had done since Kaiza. The other half
+pointed out, at the water queue, at some length, that a hidden village is
+not a charity and that the man had not got two ryō to rub together, and
+what did he think he was going to pay with — concrete?
+
+Sazare stood in the queue with his kettle and did the sum, and it was the
+first genuinely cold thing he had felt since he came to that country.
+
+He knew what escort work cost. He had spent a year and a half around
+boards and counters and brokers and he knew the shape of the market the
+way a fishmonger knows the price of ice: a road escort, bandit country, a
+civilian client, no known threat — that is the cheapest professional
+work there is, and a village will do it for fifty thousand and send
+children.
+
+And he knew what this job actually was. A shipping monopolist with five
+warehouses and a painted name, and one old man standing between him and a
+permanent income, in a country with fourteen ways in and no law at all.
+That is not bandits. That is a named party with money who has already
+sent people twice, and the moment the village priced it honestly it went
+up two whole ranks and out of the reach of every coin in the Land of
+Waves put together.
+
+Which meant Tazuna could not have told them.
+
+Which meant that somewhere on a road four days north there were some
+Konoha shinobi walking south with an old drunk, believing they had been
+hired to keep bandits off a bridge-builder, and that they were going to
+find out what they had actually been hired for in the field, at speed,
+with a client to keep alive.
+
+Sazare carried his kettle home along the plank walk with the gulls going
+up off the roofs ahead of him and did precisely nothing about any of it,
+because there was nothing to do and nobody to tell; and because a
+foreigner in a poor town who turns out to know a great deal about how
+missions are graded is a foreigner that people begin, quite reasonably,
+to ask each other about.
+
+He thought about it that night, though, at the window, with the tide out
+and the cold coming up through the boards.
+
+The old man had lied to a hidden village about the rank of a job and had
+bet an entire country on the lie, and would have known — a man who had
+built fourteen sets of forms in the water and struck them and rebuilt them
+knew *exactly* what he was doing when he did it — that whoever they sent
+would arrive under-briefed and under-armed and would be told the truth by
+somebody with a sword.
+
+He had done it anyway.
+
+*Twelve to eighteen years. And in twelve to eighteen years there'll be
+money in this town again and a man can come out here and change six beams
+in a fortnight. That doesn't need changing. The top's just a road. A
+road's a thing you mend.*

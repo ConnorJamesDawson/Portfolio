@@ -11,7 +11,7 @@ his uncle who had it from a carter — and by the time it reached the net
 loft it had been through six mouths and had acquired a giant.
 
 There had been a fight on the coast road north. Konoha ninja, four of
-them, escorting somebody. A man had come at them out of the water with a
+them, bringing the old bridge-builder home. A man had come at them out of the water with a
 sword the size of a door. He had been killed. His body had been taken away
 by a boy in a white mask who had come down out of a tree, and the Konoha
 ninja had let him take it, because that was the arrangement, apparently,
@@ -83,7 +83,7 @@ to it.
 
 He did not look for a man. He looked for the shopping.
 
-That was the whole method and it took him nine days and it worked, and it
+That was the whole method and it took him six days and it worked, and it
 worked because the Land of Waves was the easiest country on earth to do it
 in: there was no money, therefore there was almost no trade, therefore
 every single purchase in that town was an event that somebody remembered.
@@ -97,7 +97,7 @@ He did not ask a single direct question. He mended things and let people
 talk at him, which they did, constantly, because he was sixteen and quiet
 and had a leg and had fixed the school's window catch for nothing.
 
-In nine days he was given, without asking:
+In six days he was given, without asking:
 
 That the herbalist at the top of the hill — a bent old man with a shop the
 size of a cupboard and a smell in it like a hedge on fire — had sold, in
@@ -151,7 +151,7 @@ He drew the circle in his head. Four miles, north shore, over the ridge,
 with water and shelter and no neighbours.
 
 There were eleven places in that arc it could be. He walked six of them in
-three days, in the rain, with his knee going, and found four empty
+two days, in the rain, with his knee going, and found four empty
 fishermen's huts and a burnt-out farm.
 
 The seventh was the one.
@@ -209,7 +209,7 @@ sat up.
 
 Sazare walked back over the ridge in the dark with the rain coming on
 again and his knee clicking on every downhill step, and did not go near
-the place for two more days, because he did not know how to.
+the place for another day, because he did not know how to.
 
 There was no version of *walk up to that door* that ended in a
 conversation. He was a stranger in a country with one road. If he came up
@@ -218,7 +218,7 @@ threat; and both of those, in that house, with that man in it, ended the
 same way, because a man lying up with a chest wound cannot afford to work
 out which sort of stranger you are.
 
-He solved it on the third morning, sitting at the window over the mud with
+He solved it the next morning, sitting at the window over the mud with
 his tea going cold and the mist burning off the shallows in long white
 bars, and the solution was so obvious and so entirely his that he laughed
 out loud at it, alone, in an empty room, for the first time in about nine
