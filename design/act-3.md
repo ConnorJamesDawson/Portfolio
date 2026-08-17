@@ -266,11 +266,44 @@ thing that room taught him turned out to be false.
 
 ---
 
-## Open questions
+## Resolved in the prose (ch21)
 
-- **Does he tell anyone who he is?** Currently: no. He gives Kakashi a name and
-  nothing else. The player carries the whole story into a scene where nobody in
-  it knows any of it — and it stays that way into Act 4.
-- **Does he ever learn what Kohaku was doing?** Still unresolved from Act 1.
-  Current position: he suspects and never confirms, and Haku's *I chose it* is as
-  close to an answer as he ever gets.
+- **Does he tell anyone who he is?** **Yes — the facts, never the story.** At the
+  causeway head he gives Kakashi, unprompted: name, district, age, the kekkei
+  genkai, the live bounty, no service record, the money in the lining, and the
+  capital charge in one sentence when Sasuke asks it flat out. He gives nothing
+  about his mother, his sister, the trade, Kasado, or Ine. *"Most of it isn't
+  relevant and some of it is other people's."* Act 4 therefore opens with a room
+  full of people who have his file and none of his life.
+- **The reference is a thing he didn't do.** Kubikiribōchō came out of the ground
+  and went back into it, sighted true and oiled, on an empty headland with nobody
+  within a mile — and Kakashi went back and looked, because professionals always
+  do. *Nobody handed it to me.* Paired with the clan living four hundred years on
+  an arrangement they never looked at, Kiri pricing him without asking, and
+  Kohaku taking four years of him without asking.
+- **Kakashi's deciding question is the third one:** *what will you do if I say
+  no?* The safe answer is four words. Sazare gives the true one — that he would
+  go and find Guren and pay whatever that costs — and it is the not-lying, which
+  has cost him everything all book, finally paying once, with the one person for
+  whom it is the deciding factor.
+- **Sakura's field manual** supplies the actual mechanism (endorsement by a
+  shinobi who can attest to direct observation of conduct → conditional residence
+  pending assessment → probation and monitoring), which is Act 4's whole legal
+  scaffolding, and it arrives because the girl nobody listens to read the book on
+  the boat.
+- **Kakashi teaches him nothing on the road**, and says exactly why: the sentence
+  they would read out is *a jōnin instructed an unregistered foreign kekkei genkai
+  holder with a live bounty, before assessment, on his own initiative* — after
+  which it stops being a residence question and Sazare becomes the exhibit.
+- **What he gets instead is a word.** Sakura tells him, for free, on a hill,
+  because he finally asked: *tree-walking; the second control exercise; there's a
+  water one after it that's harder.* Not how — the **name**, and the fact that
+  they are numbered. Eight months on a bench working in the dark on something he
+  could not name, ended in nine seconds by a twelve-year-old.
+
+## Still open
+
+- **Does he ever learn what Kohaku was doing?** Current position: he suspects and
+  never confirms, and Haku's *I chose it* is as close to an answer as he ever
+  gets. Reinforced in ch20: he has now said out loud, to a witness, that she was
+  not wrong.
