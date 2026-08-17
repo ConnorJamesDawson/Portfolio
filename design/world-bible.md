@@ -356,6 +356,17 @@ Rulings made during drafting, binding on later chapters:
   audience, a platform. Markets stay his camouflage.
 - **Jirō is the Act 2 hunter**, reconnaissance stream, encounter at ~16 — "four
   years, and the mask" (ch. 7 emended).
+- **The three-year gap is priced, not negligent.** Kiri carried him at even odds
+  dead for two years (starved child, ruined arm, winter crossing), and retrieval
+  is not leak-plugging — he holds no ciphers, so he lost every wartime triage to
+  live defectors. The file reactivated in year three because of the **rival
+  bid**: collector interest surfaced alongside the stone-mender trade chatter.
+  Yashiro caused Jirō. Canon backstop: Kiri failed to find Haku for years inside
+  their own borders in this same era.
+- **Jirō is a war-list chūnin at fifteen** — field promotion, no exam, which
+  Mizuho's "never made chūnin theory, and it never mattered" already supports.
+- **Age ledger:** born month 11. Execution at 13y6m. Arrives Hot Water 13y6m.
+  Leaves Yumoto ~16y8m. Encounter 16–17. Waves at 17.
 
 ## Themes
 

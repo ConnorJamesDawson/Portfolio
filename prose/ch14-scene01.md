@@ -45,9 +45,51 @@ because the reason did not go in writing.
 His brother had got the third posting. Everyone had been very pleased
 about the third posting.
 
-"You've requested the external corridor," said the officer, turning the
-last leaf. "Retrieval support, coastal detail. That's a strange request
-from a man whose file reads like yours."
+The officer set the family file aside and opened the other one — the fat
+one, the one with the wave-stamp on the board — and went through it aloud
+in the passionless inventory voice they all used, as though reading back
+a delivery manifest.
+
+"Four years listed. Correct me where your information's better. Year
+one: subject vanishes off the face of the earth out of a square with
+four hundred witnesses in it — into the smuggler channels, the assessors
+wrote, *if he lived*, and half of them underlined the if. A starved
+child with a destroyed arm, in a winter crossing, in wartime. This file
+carried him at even odds dead by spring." A leaf turned. "Years two and
+three: nothing. No sighting, no whisper, no coin. And I'll save you the
+question you're too well trained to ask: no, nobody went looking.
+There's a war on, Chūnin. Retrieval is not leak-plugging — the boy holds
+no ciphers, no signals, no doctrine. He cannot hurt us by existing; he
+can only fail to be recovered. Every specialist this office could field
+was spent on men who *can* hurt us, and an asset at even odds dead does
+not outbid a live defector with a codebook in his head. That's not
+neglect. That's arithmetic, and I'd do it again."
+
+Another leaf.
+
+"Then this year. A mender in the Hot Water spring towns who works
+island-fashion. Trade chatter, low grade — it would have sat in the file
+another season, except that it arrived alongside something with more
+iron in it." He looked up for the first time. "Other parties asking up
+that coast. Moneyed. Patient. Professionally polite. Interested in
+precisely one commodity this office holds title to. You're streamed for
+tracing — so trace it for me. An asset carried as probably dead draws a
+rival bid. What does the office learn?"
+
+"That he's alive," said Jirō. "Rival bids don't form on corpses.
+Somebody with better information than ours has done their own assessment
+and priced him worth collecting."
+
+"Worth collecting," the officer agreed, "and findable. And nothing on
+this earth wakes an office like another office reaching for its
+property. Hence the corridor. Hence — at last — the budget for it.
+
+"You've requested the external corridor," he went on, turning the last
+leaf. "Retrieval support, coastal detail. That's a strange request from
+a man whose file reads like yours — war-list chūnin at fifteen, tracker
+rating underlined twice by your own assessors, a clean career in front
+of you if you keep your sleeve clean. And you've asked for the one file
+that can dirty it."
 
 "It's not strange, sir."
 
@@ -111,7 +153,7 @@ war eating the village's men out from under him island by island.
 
 "My predecessor marked your request *refused, conflict of interest*," he
 said. "I'm marking it *approved, exploitable interest*. I'd carry both
-of those sentences with you, Genin. They'll take turns being the true
+of those sentences with you, Chūnin. They'll take turns being the true
 one." He stamped it, in the way of that whole country: one clean strike,
 no flourish. "Corridor detail musters on the eighth. You'll draw kit,
 and you'll draw a mask. Dismissed."
