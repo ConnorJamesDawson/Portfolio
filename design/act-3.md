@@ -73,10 +73,52 @@ present for the most important events of his life and decisive in none of them.
 Do not let him say one useful thing to Inari. The recognition is silent on both
 sides or it is nothing.
 
-**6. Team 7.**
-Sighted, not met. Four Konoha shinobi, one of them a loud blond boy the MC has
-no reason to notice. He has been told his whole life what Konoha are. They do
-not look like it.
+**6. Team 7.** *(Written: ch19. Sighted, never met — he reads all four off a
+doorway, a training clearing, and four bedrolls on a floor.)*
+
+**Where they actually are in canon, and the rule for writing them:** this is
+early Waves, before the bridge. Do **not** write the people they become.
+
+- **Naruto** — twelve, filthy, orange, training himself unconscious in the woods
+  every night after being humiliated at tree-walking. Loud because he has been
+  last at everything for twelve years and volume is the only tool he has been
+  issued. Artlessly kind. Reads no rooms whatsoever.
+- **Sasuke** — twelve, terse, genuinely the best of the three and correctly aware
+  of it, beautifully taught from the age of five. Checks no doorways. Has begun,
+  unwillingly, to be affected by Naruto.
+- **Sakura** — twelve, and the one everybody writes wrong. She got the tree-walk
+  **on the first try** because her chakra control is the best on the team, and
+  she has no idea that is the most valuable thing about her. Bossy, insecure,
+  out of her depth on a client detail — and doing the job properly anyway.
+- **Kakashi** — on a crutch with chakra exhaustion, thirty feet back, reading a
+  small orange book and not reading one word of it. Conserving deliberately, and
+  has arranged the whole detail around the fact.
+
+**The MC's assessment is the device.** He reads all four professionally and the
+reader gets to check him:
+
+- *Kakashi* — right, and frightened by it.
+- *Sasuke* — right on the mechanics, and dismissive for a reason that is
+  genuinely shrewd: *you are the best of them and the one I'd worry about least,
+  because you have been told you are the best of them.*
+- *Sakura* — catastrophically underrated for sixty seconds, then the hinge of the
+  whole chapter. He watches her **walk** up a trunk and stand at ninety degrees
+  for forty seconds, explaining, gesturing with her free hand. She is not better
+  than him at control. **She was taught**, in one afternoon, by a man who knew
+  the answer — and he has spent eight months alone on a bench on the same
+  question. That night he tries it on a wall in the dark, gets a fraction of a
+  second twice, and cracks the plaster.
+- *Naruto* — completely, evidentially, defensibly wrong. Eleven failed attempts
+  in twenty minutes, four times the chakra for half the height. *He'll be dead
+  inside two years.* Every observation correct; the conclusion worthless.
+
+**And the payoff is beat 5b.** The MC gives Inari the truth — checked four ways,
+carefully, kindly, because Tōan's not-lying is the one thing he kept — and it
+goes into the boy like a nail. Then Naruto shouts at Inari with no evidence
+whatsoever, and it works. The MC cannot find the error in his own reasoning
+anywhere, and closes the chapter on: *there is something I do not have, and it is
+not a technique, and I have not got the first idea where you would go to be
+taught it.*
 
 ---
 
