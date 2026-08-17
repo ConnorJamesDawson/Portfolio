@@ -237,3 +237,57 @@ keeps the register out of the breathless mode that present tense invites.
 **Scene-length commissions.** Long requests produce summary. The failure is
 recognisable: events reported in sequence rather than dramatised, and every
 scene running at the same speed.
+
+---
+
+## Description — the standing deficiency, corrected
+
+**Diagnosis (given by the author after ch17):** the prose describes how things
+*work* and almost never what they *look like*. Alleys get a width, a camber and
+a drainage plan; they do not get light, colour, smell, or weather. Named
+characters get one functional trait — a bad hip, grey, heavy build — and no
+face. A reader cannot picture a single room in seventeen chapters.
+
+**This is a defect, not a style.** Fix it going forward. The voice does not
+change; what changes is that the image arrives *as well as* the mechanism.
+
+### Minimums, per scene
+
+- **Within the first ~200 words:** time of day, quality of light, weather,
+  temperature, and at least one smell and one sound. Not a paragraph — a
+  sentence or two, load-bearing.
+- **Ground and sky.** What is underfoot and what is overhead. Mud, shingle,
+  boards, dust; overcast, stars, smoke, rain coming.
+- **Colour, and what age has done to it.** Not "a door" — a door, and what
+  colour it was painted, and how much of that is left.
+
+### Minimums, per named character
+
+**Two to four concrete visual anchors on introduction**, and at least one of
+them a face. Hair and how it is kept. Skin, and what weather or work has done
+to it. Teeth. Hands — always hands, in this book. Build and how they carry it.
+Clothing, its cut and its condition. How they move, and what that costs them.
+
+Recurring characters get one *refreshed* detail per major reappearance, not a
+re-run of the introduction.
+
+### The rule that keeps it from going purple
+
+**Description must be seen through the POV, and should do a second job** —
+characterise the observer, plant a physical fact that pays later, or carry
+information about the place's economics or history. But *needing* a second job
+is not a licence to skip the image: the reader's ability to see the room is
+itself a sufficient job.
+
+Each POV sees differently, and this is free characterisation:
+
+- **Sazare** reads workmanship, wear, materials, and how a thing was made and by
+  whom. He sees repairs, tool marks, what has been bodged, what has been loved.
+  His measuring habit stays — it is his voice — but it must not *replace* the
+  picture.
+- **Jirō** reads people and rooms: posture, hands, what somebody is not saying,
+  where the exits are, who in a room is frightened.
+- **Guren** reads material and speed — how fast a thing was made, whether it was
+  meant to last.
+- **Civilian POVs** read cost. What things are worth, what they were paid for,
+  and what they will cost to replace.

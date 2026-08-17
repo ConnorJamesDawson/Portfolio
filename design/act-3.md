@@ -2,7 +2,7 @@
 
 First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
-**Span:** the Land of Waves arc, Part I. MC ~17.
+**Span:** the Land of Waves arc, Part I. MC **16y1m** (revised ledger — he turned sixteen in ch17).
 **Closes:** walking toward Konoha. → `act-4.md`
 
 **Function of the act:** the emotional climax. He is present for the most

@@ -1,0 +1,271 @@
+# Chapter 18, Scene 2 — A Town That Cannot Pay
+
+*Act 3, part A. Nami, the Land of Waves. Sazare Ruri, age sixteen. POV:
+Sazare. ~2,450 words.*
+
+---
+
+He took a room over a net loft on the water side for eight coppers a week,
+which was four more than it was worth and half what he offered, because
+the woman who let it to him tried to knock her own price down twice and he
+would not have it.
+
+Her name was O-Kiyo and she was somewhere past sixty, a small round person
+in a faded indigo work-jacket gone almost white at the shoulders, with a
+face like a walnut and one eye that had gone milky and a habit of tilting
+her head to bring the good one round. Her hair was thin and white and
+scraped back so tight it showed the pink of her scalp. She moved slowly
+and she never once stopped moving. She smelled of woodsmoke and the sharp
+green of the pickle crock she kept under the stairs.
+
+The room was ten feet by seven with a window that did not close properly,
+a floor of wide unpainted boards silvered by forty years of feet, and a
+smell that took him a day to identify and turned out to be the mud
+underneath. At low water the boards under his mat gave off a low cold
+draught that carried it up: black estuary mud, weed, and a faint iodine
+sweetness like the inside of an oyster shell. At high water it went away
+and was replaced by the noise instead — the slap and knock of water on the
+piles, right there, four feet below him, all night, so close he could hear
+individual wavelets go under the floor and come out the other side.
+
+He slept better in that room than he had slept in two years and he could
+not have told anybody why.
+
+The window looked north over the shallows to the hills, and at first light
+the mist lay on the water in a flat white layer about eight feet deep, so
+that the pines on the far shore stood up out of it with no trunks, and the
+gulls flying through it appeared and disappeared like fish in milk. He got
+into the habit of sitting at that window with his tea and watching it burn
+off, which took about forty minutes and never happened the same way twice,
+and at the end of the third week he realised he had been doing something
+he had no word for, and that the word most people used for it was
+*enjoying himself*.
+
+---
+
+He put the card in the window on the second morning and by the fourth he
+had understood the economics of the place completely and could have
+written them out on one sheet.
+
+The queue was enormous. It was the biggest queue he had ever had in his
+life and it started before he was awake, and it went on all day, and it
+was full of things that in any solvent town in the world would have been
+thrown away nine years ago.
+
+A kettle with three previous repairs on it, two of them his kind of work
+and one of them a nail hammered flat.
+
+A pair of dividers with the point snapped, belonging to a woman who used
+them for cutting dough circles because her mother had used them for that
+and there had never been anything else in the house that made a circle.
+
+Four separate fish-knives, all four with the tang gone in the handle.
+
+A child's shoe. Actually a shoe. He had never been given a shoe before in
+his life.
+
+A hand-mirror, silvered glass, cracked corner to corner, which the woman
+who brought it in did not want mended, because it could not be, but had
+brought anyway on the grounds that he might be able to *do something*; and
+he took the glass out and cut it down and reset the good half in the frame
+with a new backing, and she stood in the doorway of the net loft and cried
+about it, and he had no idea what to do with his hands.
+
+And nobody could pay.
+
+That was the thing. That was the entire shape of the Land of Waves and he
+had it inside four days. In a town with money, a mender competes with
+replacement: people bring you a thing and you charge less than a new one
+costs or they buy a new one. In Nami there was no new one. There was
+nothing to compete with. Every single object in that town was the last one
+of its kind that anybody was going to own, which meant the value of his
+work was, in strict terms, infinite —
+
+— and there was no money. There was simply none. It was not that they were
+poor and haggled. They were poor and had nothing to haggle *with*. He was
+offered, in the first fortnight: eleven eggs, a bucket of clams he had to
+be shown how to open, half a day's help re-tarring the loft roof, a
+grandfather's chisel that was better than any chisel he owned, four
+separate meals, a sack of the small hard local rice, a pair of shoes that
+almost fitted, and, once, an apology.
+
+He took all of it, including the apology.
+
+He had three hundred and sixty ryō sewn into the lining of his coat and he
+worked six days a week for a month and cleared, in coin, about forty
+coppers, and it was the only stretch of his life in which he was never
+once asked a question he could not afford.
+
+---
+
+The bridge he did not go and look at properly for eleven days, and the
+reason he gave himself was that he was busy, and the reason was not that.
+
+The reason was that he had been walking past it twice a day at a distance
+and it had begun to bother him in a way he could not put down, the way a
+sound out of true bothers a person who tunes things; and he knew perfectly
+well that if he went and stood underneath it he was going to spend four
+hours there, and he was right.
+
+He went on a still white morning with the mist not gone, out along the
+mainland shore path through the pines, and came out of the trees onto the
+head of the causeway with his boots wet to the ankle from the grass and
+the smell of hot pine resin already coming off the trunks in the early
+sun.
+
+Close up it was a different object altogether.
+
+From the water it had been a grey line. From underneath it was a
+*structure*, and it was full of decisions, and he stood on the shingle at
+the foot of the first pier with his head back and read it for four hours
+the way another man reads a letter from home.
+
+The piers were concrete and they were beautiful. That was the first thing
+and it never stopped being true: they were poured in lifts, four feet at a
+time, and you could see the lift lines going up them like tide marks, and
+every lift was plumb, and every lift met the one below it clean. Somebody
+had built those forms and struck them and rebuilt them, over and over, in
+the water, on a falling tide, and had not got bored and had not got sloppy
+on the ninth one or the fourteenth.
+
+The deck was a disaster.
+
+Not badly made — *badly supplied*. He got up onto it and walked out along
+it and it was all there in front of him: the first hundred and forty feet
+of the span was proper structural timber, big square section, the real
+thing, seasoned, with the bark long gone and the surfaces adzed true. And
+then it changed. From the fourth pier out, the deck beams were smaller.
+From the sixth they were smaller again and doubled up — two thin ones
+bolted and packed to make one thick one, which works, and which nobody
+does unless they have to. Past the eighth the beams were *round*; they had
+stopped squaring the timber altogether and were laying whole trunks with
+the bark peeled, flattened on two faces where they sat, because squaring a
+trunk wastes a third of it and they had stopped being able to waste a
+third of it.
+
+He crouched down out at the ninth pier and put his hand flat on the last
+beam laid.
+
+It was pine. Not larch, not cedar; pine, off the hill behind the town, cut
+that season, still weeping resin at the ends where the saw had been. A
+softwood, wet, unseasoned, in a marine structure, going in under a road.
+
+He sat back on his heels in the sun with the water forty feet below him
+going green-black round the pier foot, and worked out, without wanting to,
+what it meant: that the beams at the town end would outlive everybody in
+the Land of Waves, and that the beams at the far end would need replacing
+inside fifteen years, and that whoever was building this knew that
+perfectly well, and had made a decision about it, and the decision was
+*a bridge that needs work in fifteen years is a bridge*.
+
+There were eight men on the deck that morning. He counted them out of
+habit. Two were over sixty. Three were under sixteen. One had an arm that
+did not work.
+
+---
+
+"You've been sat there an hour."
+
+Sazare turned round.
+
+The man standing over him was old — sixty, sixty-five — and thick through
+the chest and the shoulders in the way of somebody who had done heavy work
+all his life and had begun, in the last few years, to go soft over the top
+of it. Grey hair, cut short, standing up in a bristle. A grey beard round
+the jaw, not shaped, just let alone. Round spectacles with wire arms, one
+of the arms mended with a whipping of black thread. A white cloth knotted
+round his forehead, gone the colour of weak tea. A sleeveless jacket over
+bare arms with the sun-line halfway up the bicep, and hands — Sazare
+looked at the hands, because he always looked at the hands — with the
+nails worn back square and a permanent grey line of concrete dust in every
+crease.
+
+He smelled, at nine in the morning, quite strongly of sake.
+
+"I've been sat here four," said Sazare.
+
+"You have. I've been watching you." The old man came and stood at the beam
+end with his fists on his hips and looked down at him. "Every man who
+comes out on my bridge and sits down comes out here to tell me it can't be
+done. You've not said anything. You've just been touching it."
+
+"It's pine."
+
+"It is pine."
+
+"Off the hill. Cut this year."
+
+"Cut in the eighth month, that one," said the old man, "and if you're
+about to tell me what unseasoned pine does in salt air, don't, because I
+knew it before your mother was born and I'll be dead before it matters."
+
+"Fifteen years," said Sazare.
+
+The old man's head came round.
+
+"Twelve," he said. "Eighteen if the town gets its tar back and somebody
+goes under there every spring and does it properly." He took his glasses
+off and cleaned them on the hem of the jacket, which achieved nothing, and
+put them back on. "Twelve to eighteen. And in twelve to eighteen years
+there'll be money in this town again and a man can come out here and
+change six beams in a fortnight without stopping the traffic, because
+that—" and he pointed with a blunt grey finger down the length of it, at
+the piers, at the lift lines, at the four hundred yards of plumb concrete
+standing out into the channel — "*that* doesn't need changing. Not in your
+life and not in your grandson's. I built that part right. The top's just
+a road. A road's a thing you mend."
+
+Sazare stood up.
+
+"You did the forms yourself."
+
+"Who else was going to."
+
+"Struck and rebuilt them nine times."
+
+"Fourteen," said the old man. "Five of them didn't take."
+
+They looked at each other for a moment, the boy with the bad knee and the
+old drunk with the concrete under his nails, on the unfinished end of a
+road over the sea, in the sun, with the mist going off the water in long
+tearing shreds.
+
+"You're the mender," said the old man.
+
+"I'm the mender."
+
+"My daughter's been on at me about a rice steamer." He turned away and
+started back up the deck, waving one hand over his shoulder without
+looking round. "Come at seven, there'll be food. And don't tell anybody
+about the pine, they've enough on."
+
+---
+
+Sazare walked back along the shore path with the sun getting up over the
+hill and the resin smell going and something moving in his chest that he
+did not enjoy at all.
+
+He had spent a year and a half looking at things in order to work out how
+to use them. He had walked into eleven towns and read every wall and door
+and drain in them with one question in his mouth, and the question had
+changed once, at Kanezaki, from *how do I get out* to *where does he have
+to be*, and there had been no third question and he had assumed there
+would not be one.
+
+And he had just stood on a bridge for four hours and read the whole of it
+without once asking either.
+
+He had read it the way he read a lantern. The way he read a block-pulley.
+The way his mother had read a bad frame with her thumb on the seam,
+saying *feel that, there — that's where whoever made it got bored.*
+
+*You'll do well enough,* said a dead man in a lodging window in a river
+port, wrapping his good brass lantern in a cloth he had brought for it.
+
+Sazare stopped on the shore path in the pines with his hand on a trunk and
+stood there for a while with his eyes shut.
+
+Then he went back into the town and mended a rice steamer, and turned up
+at seven at a house on the water side where an old man's daughter fed him
+too much and would not take a copper, and did not tell anybody about the
+pine.
