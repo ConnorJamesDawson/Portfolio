@@ -295,14 +295,64 @@ dom. effects, temple and clan work, sold per catalogue.* Sacked compounds get
 looted; looted things get sold. He reads it four times, puts it back exactly as
 he found it, and asks nobody anything.
 
-**17. The floor.**
-A contract on another bloodline user. Whether he knows before he takes it is
-the darkest dial in the design — still deliberately unresolved. He does it. He
-is very good at this now.
+**17. The floor.** *(Written: ch17, Kasado.)*
 
-**Close:** solvent, capable, hunted, alone, fifteen, and the money still goes
-home every month — a tenth of a killing fee now — to a war he has not seen in
-two and a half years.
+**The dial is resolved, and chapter 15 resolved it.** He refuses to be told, so
+the answer is neither yes nor no: **he finds out mid-job and finishes anyway.**
+He cannot claim ignorance (he built the not-knowing on purpose) or honesty (he
+built it so he would never have to decide). Umeya already named it: *that's a
+coward's arrangement.* — *Yes. It is.*
+
+- **The breach is not a face, it is the grammar.** A chip of worthless quartz
+  wedged flush in the second peg of a rope-board. He does not get his four
+  seconds, because it is not assembly, it is *reading* — and reading is not a
+  thing a literate person can decline to do. He was taught that language at
+  eight, on a step, by his sister, as a game.
+- **The target is the local Kohaku.** Ine, chandler, fifty-two, third-year list,
+  went out of a back window at forty-nine. Her kekkei genkai is a ferryman's
+  gift — she feels fresh water running under salt — which is militarily worthless
+  and is *precisely* why she can cross a nine-hundred-yard strait at night with
+  no lamp. The state listed her anyway. Echoes *ornamental grade,
+  non-combatant.*
+- **The buyers are a passage syndicate**, and the dispute is commercial: forty
+  ryō a head, and she takes people for whatever they have. This rhymes Act 3
+  deliberately — he arrives in Waves having already worked for Gatō's species.
+- **No crystal anywhere in it.** He kills her with the ground: her own routine,
+  the shelving beach at the point, and a set the whole town gossips about. The
+  ledger line reads *No material.* His best work is the one with none of him in
+  it.
+- **The handover.** She gets a scull in her hands and could kill him, works out
+  in four seconds exactly what he is, puts it down out of her own reach so no
+  coroner has to explain a mark — and spends her last four minutes briefing him,
+  because *it's the work, and you're the only one here.* Then: **"Then they've
+  had you off somebody too."** He does it anyway. Under three minutes, and he
+  stays.
+- **He executes every instruction.** Burns the ledger, breaks the chips, warns
+  the thirty-one, sends word to Bunzō. Two payoffs: the crowd wound stops him at
+  the inn-yard gate (thirty-one people facing a man on a mounting-block with a
+  paper), so the warning takes three days done sideways and nineteen of the
+  thirty-one listen; and Bunzō asks the only question he has ever asked —
+  *was it quick?* — and gets the truth, because not-lying is the one thing of
+  Tōan's he kept.
+- **The floor beneath the floor: the money buys nothing.** Four hundred ryō and
+  eleven days of asking, and the answer is the same as at two hundred and
+  sixteen, because it never depended on the number. He priced the trap correctly,
+  paid, and the trap had no price. Then the last sum: 360 ryō at forty a head is
+  nine of the thirty-one — and he keeps it, because spending it means he held her
+  down for nothing. He can name the reason immediately and never pretends
+  otherwise.
+- **Close on Kōga's thesis.** Four days of mending, free, forty-one items, at a
+  speed that frightens the foreman. It helps nobody, he knows it at the time, and
+  it does not slow his hands — the last thing in him that still works without
+  being switched on, and the exact reason he is findable.
+
+**Close:** solvent, capable, hunted, alone, **sixteen years and eight days** —
+the birthday found three days late off a dated docket, marked by nobody — with
+360 ryō that will not buy the only thing he wants, and the tenth still going home
+every month to a war he has not seen in two and a half years and could no longer
+name one living person in. The remittance now runs in a circle: his money funds
+the line, and he has just killed a link in it, and he sends the tenth of the fee
+down the same chain without making an exception.
 
 → **Act 3, the Land of Waves.**
 

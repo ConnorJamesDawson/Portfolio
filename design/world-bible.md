@@ -468,9 +468,15 @@ Rulings made during drafting, binding on later chapters:
   Arrives Hot Water 13y6m. Yumoto stay ≈ 2 years 1 month: arm signed off in
   spring (~14y3m), Sakai from the second summer, Tose dies month 10 (14y11m),
   first piece at the front edge of spring (15y4m), scout month 5 (15y6m),
-  departs month 7 at **15y8m**. Encounter ~15y10m. Waves 15y11m. **Konoha gate
-  at fifteen, by a month** — the sixteenth birthday passes unremarked in
-  custody. Consequences: Jirō is fifteen on the corridor; the listing runs ~2
+  departs month 7 at **15y8m**. Encounter (Tomari) month 9, **15y10m**. Tsuzura
+  and the hinge month 10, **15y11m**. Kanezaki month 10–11. **Sixteenth birthday
+  month 11 day 8 — found three days late off a dated docket, marked by nobody**
+  (ch17 sc1). Kasado month 11, closing Act 2 at **16y0m**. Waves ~16y1m. **Konoha
+  gate at sixteen, by a month or two.** *(Revised: the earlier "Konoha at fifteen
+  by a month" over-specified the user's ruling of "about 15" and could not
+  survive two full chapters at the floor. Everything the ruling protected still
+  holds — he is a boy and not a young man, Jirō stays plausible, the listing runs
+  ~2 years not 4.)* Consequences: Jirō is fifteen on the corridor; the listing runs ~2
   years not 4; the fall (hinge → floor) is a plunge over weeks, not a year's
   slide — twenty-three days from Tomari to the broker's inner stair, taken on a
   knee that will not bend, because there was never time to heal it. Accepted canon strain, recorded once: this sets Zabuza's coup ~3–4
