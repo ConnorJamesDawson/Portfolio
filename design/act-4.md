@@ -2,7 +2,9 @@
 
 First draft beat sheet. See `world-bible.md` for setting and canon anchors.
 
-**Span:** Konoha, from the end of the Land of Waves arc. MC ~17 at the opening.
+**Span:** Konoha, from the end of the Land of Waves arc. MC **16y2m** at the
+opening (revised ledger — he turned sixteen in ch17 and reached the gate eleven
+days after Waves).
 **Opens:** the amnesty hearing. **Closes:** owned, ranked, and free to move.
 **Act 4 is the midpoint of the game, not the end.** → `act-5.md`
 
@@ -73,6 +75,41 @@ shadow; a high-profile asset under the Third's personal attention is the one
 thing it can't reach for.
 
 His safety is a side effect of his surveillance.
+
+**Written (ch22) — three things the prose fixed:**
+
+- **The Yamanaka problem, handled rather than dodged.** Konoha has mind-walkers,
+  so the "unverifiable account" premise dies unless it is faced. **Sazare
+  volunteers for it**, Inoichi does it, it is genuinely awful — twenty-two
+  minutes, at the intensity it was laid down at, and he is not right for eleven
+  days — and it settles nothing, because **a placed asset believes his cover**.
+  Ibiki's ruling: it moves the file from *unverified* to *consistent*, one full
+  grade, which is the difference between a hearing and no hearing, and no
+  technique in the world reads intent.
+- **Inoichi's debt.** He pays for what he took with one true thing: he went in
+  looking for a handler and found **nobody in the middle at all** — not hiding,
+  absent — and has never in twenty-one years been inside a person built that way
+  who still worked. The tray is *a splint, not a bone*, and it is holding because
+  he is sixteen. **"Get somebody into the middle of you. A person, a place, a
+  trade."** This is Act 4's actual spine and the hospital is the answer to it.
+- **The assessment is a humiliation and then a pivot.** Combat: *NIL* four times,
+  four seconds written down in pencil under a ruled line by a fair man who
+  explains why to his face. Then Kanzaki Uta of the quartermaster's fabrication
+  branch stops the conversation about fighting and asks about **material** — and
+  what Konoha actually wants is a **substrate**, because every seal in the world
+  is on paper and paper burns, folds and cracks along the fold. Which is exactly
+  what his family sold for four hundred years, with the guild doing the writing
+  and the Ruri never being taught to read it. **The medium was always his; the
+  writing never was** — and beat 12 is now loaded from the first chapter.
+
+**The audit is his alibi, and Kanzaki says so.** Three hundred ruled lines and a
+weight for every gram, in his own hand — so that when a piece of blue-grey stone
+eventually turns up somewhere it should not be, he can open a book.
+
+**Hiruzen gives the true reason for every condition rather than the official
+one**, and the monitoring clause is the one Sazare misreads: reports to the
+Hokage personally, daily, in writing, *on the order in those words rather than
+left as a courtesy*. He hears distrust. It is beat 5, and nobody explains it.
 
 **6. The library.**
 Payoff for a trait planted in Acts 1 and 2: he is obsessed with chakra theory,
