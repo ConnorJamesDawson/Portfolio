@@ -82,12 +82,19 @@ throughout as background.
 
 # Book 2 — The Guest
 
-## Act 4 (ch. 22–31)
+## Act 4 (ch. 22–32)
 
-Unchanged in content from the previous plan (amnesty → invasion → settlement →
-evaluation → the scroll), renumbered 22–31. Key protected beats: the hospital
-defence (ch. 24), the settlement as floor not finale (ch. 29), the evaluation
-as his graduation (ch. 30).
+Amnesty → integration → invasion → settlement → evaluation → the scroll.
+**Ch. 24 is the integration chapter** (civilian library, bedside work, the
+street, seeding); everything from the invasion onward shifts one number later.
+Key protected beats: the hospital defence (**ch. 25**), the settlement as floor
+not finale (**ch. 30**), the evaluation as his graduation (**ch. 31**).
+
+- **ch. 22** — the gate, Yamanaka, assessment, item six, the reading room
+- **ch. 23** — the hospital: portering, the ruling, smoothing, ninety seconds
+- **ch. 24** — integration: the civilian library, bed eleven, seeding, the
+  street, the eve of the finals
+- **ch. 25** — the invasion and the hospital defence
 
 ---
 

@@ -193,6 +193,72 @@ teacher, not the library** — supervised work is where he actually learns.
   first one that records **where he will be** rather than what he is worth,
   written in advance by somebody relying on it.
 
+**Written (ch24) — the integration chapter:**
+
+- **The right shelf is the civilian one.** Nobody has ever studied Crystal
+  Release; there are four lines in the kekkei genkai index and three are *not
+  verified*. But **crystals** are an ordinary natural phenomenon that civilians
+  have been studying for centuries. The village library off the Nakadōri has
+  forty books filed under *natural history* because the 1961 shelving predates
+  geology, and the one that changes his life is a school textbook for
+  fifteen-year-olds: **cleavage** — *the specimen decides where it breaks; the
+  hammer only decides when.* The note is the cleavage plane. Also on the shelf:
+  seeding, annealing, habit, and *growth is a race between arrival and
+  arrangement.*
+- **The bloodline's role in the discovery is that it has none.** Four hundred
+  years of a clan and not one page of this. Everything he learns about his own
+  kekkei genkai comes from people who never had one, arguing with each other in
+  print, in a building open until the tenth hour, with a chair in it.
+- **Seeding, and why it is not a power-up.** Fast growth is one-course because
+  it has to organise itself from nothing under load. Started on a pre-grown,
+  properly-ordered grain, the new material inherits the template. **Four seconds
+  becomes six** — and it fails in pieces with a warning tick at four rather than
+  going all at once into grit. Cost: the seed is consumed, ninety minutes each,
+  and it does nothing whatever for size, speed, reach or range.
+- **Six is a data point, not a ceiling — this is the load-bearing correction.**
+  The number had not moved since he was fifteen. It moved because of a *method*,
+  and the method obviously generalises, and he can see the extensions from where
+  he is standing: more courses in the seed, a seed off a seed, a seed placed in
+  the corner so it survives the failure. He writes down the honest version —
+  *I don't know what the number is. I know four. I know six.* — and the creed
+  that governs the rest of the book: **I am not going to get stronger. Find out
+  how it works.**
+- **The trajectory pays off inside the chapter, in minutes rather than
+  seconds.** A seed grown off a seed comes up in **fifty-one minutes** instead
+  of ninety, and the parent is not consumed because it was never under load. Two
+  make four; four make eight. The floor turns out to be forty-four minutes, and
+  he finds it in a fortnight, and finding a floor is itself a result. He goes
+  into the invasion with **nineteen** grains rather than twelve.
+- **Bedside work is a technique and it has a name.** Sister Kaburagi's rule:
+  *ask one more question than the task needs.* Bed eleven is Handa Rokusuke,
+  forty-four, carpenter, spinal injury, hands still working — and the way in is
+  that Handa corrects Sazare's choice of wood for a window. Craft is the only
+  common language he has ever had and it turns out to be enough.
+- **The street is the thing he has no procedure for.** He knows how to make
+  himself *owed* — it is the only technique he has that works on people, and it
+  has saved his life twice. Konoha's east side will not go into that ledger:
+  O-Shige makes a scene on the market row for a boy who never asked her to,
+  Nemoto pays two hundred ryō of sharpening with a plum, Kurihara Nao gives him
+  the aubergine as an excuse for the advice. The columns do not balance and
+  nobody is keeping a total. **A ledger you cannot balance is not a debt; it's
+  an address.**
+- **Ōtaki Sue is the one person in the Land of Fire who cannot hear his
+  accent.** Deaf since nine, she gets his written hand — a clerk's hand his
+  mother beat into him at seven — and nothing else. To exactly one person in
+  that village he is from nowhere at all.
+- **The Kiri dread resolves administratively, which is the point.** He loses
+  eleven days' sleep over the foreign delegations and then reads the list pinned
+  by the reading-room door, which he has walked past twice a day: Suna, Ame,
+  Kusa, Taki, Oto. No Kiri. Decided in an office by somebody who has never heard
+  of him, months before he thought to be frightened.
+- **He is rostered to the hospital, not the stadium, and he asks and is
+  refused.** Kaburagi's three reasons, given straight because she has never made
+  him ask twice: the inner perimeter, four hundred foreign shinobi who would be
+  interested in his hands, and — the one that is actually true — sixteen of her
+  best staff are going four miles away for a sports fixture and what is left in
+  the building is a skeleton and eleven people who cannot walk. This is the
+  hospital defence being loaded, in a sluice room, over a bin liner.
+
 ---
 
 ## Part B — The Invasion
