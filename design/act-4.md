@@ -383,6 +383,46 @@ hospital, and it never reshapes the world.
 It is also decisively **not weapon value** — his defence against Root without
 either of them ever naming it.
 
+**17b. The web he didn't build.**
+Act 4 is structurally the first act that *can* carry social density — Kiri
+isolated him, the mercenary years made every contact transactional or fatal,
+Wave was three weeks with people who were mostly about to die or leave. This is
+the first time in his life he has stayed anywhere long enough for a relationship
+to become ordinary instead of a crisis, and he does not know how to do that on
+purpose.
+
+**He wants friends. He is dense about it and knows he is.** Not obliviousness —
+he reads a room professionally, for a living, better than anyone in the cast.
+It is specifically affection aimed at him that he has no instrument for. The
+comedy has one rule: it comes from total sincerity, never from him being a bit.
+He is the last person in any scene to know it's funny.
+
+**Kakashi, paid off.** Ch21 planted the condition directly: *"When somebody
+tells me you're allowed to be taught, I'll teach you."* Clause four of the
+integration terms makes it true. By the time this starts, Kakashi has a
+dissolved team and nothing to do with the promise — Sasuke gone, Naruto with
+Jiraiya, Sakura apprenticed to Tsunade. Fundamentals only: footwork, weapons,
+the academy basics beat 26's evaluation will otherwise flag as weak. Never
+crystal work — that stays outside anyone's reach but his own by his own
+insistence in the terms. Built the same way Ashida was: by showing up, not by
+either of them naming it.
+
+**Anko, via the cursed seal.** The one person in the village who knows what the
+mark feels like from inside the skin rather than off a diagram. Prickly,
+Orochimaru-scarred, hostile to anyone who treats it as a tragedy to manage her
+through. The friendship works precisely because he never once does that — he
+treats her mark as a materials problem, which is the only register that could
+possibly get past her guard.
+
+**The invasion cohort.** Mika, Daichi, Ren — people his own age he bled next to
+on a street, which is the only mode of bonding he actually has fluency in. This
+is where he consciously, badly, tries to make a friend rather than accruing one
+by accident.
+
+**Ashida, recognised late.** Already a friend by the time anyone says so —
+formed by accrual over four months of box eleven, not by either of them
+choosing it. He should be the slowest of all of these for Sazare to notice.
+
 **18. Tsunade.**
 The Fifth is inaugurated. She has two institutional reasons to be in a room with
 him — she runs the medical corps, and she is Hokage — and needs no third.
@@ -390,6 +430,35 @@ him — she runs the medical corps, and she is Hokage — and needs no third.
 **She does not take him as a student.** He has spent the entire game learning
 from people who fell, and being finally taught by the best in the world is a
 reward this story hasn't earned him.
+
+**The pull starts here and stays unnamed through the rest of Part C.** Two
+independent tracks, neither one performing the other:
+
+- **His side.** He has exactly one template for a person who explains things
+  without making the explanation a performance of authority: his mother. He
+  doesn't have the categories to tell trust from want, and the story should not
+  hand him those categories early. When he eventually tries to audit the
+  feeling the way he audits everything else — in the notebook, in his own
+  ledger voice — he should fail to make the entry, not because he's embarrassed
+  but because the form has no column for it. That failure is the whole beat.
+  Do not let the narration diagnose him faster than he diagnoses himself.
+- **Her side.** Not charm, not flattery — violation of her own rule. Dan,
+  Nawaki, the necklace: she does not let herself care whether someone reckless
+  survives. He treats his own body as acceptable material cost in an experiment,
+  repeatedly, and she catches herself caring anyway. Her first real crack is a
+  moment of noticing she's doing the thing she swore off, not a moment of
+  finding him charming.
+- **Sakura is the canon-safe echo, not a decoy.** Tsunade takes Sakura as her
+  actual apprentice — this is canon, keep it intact — partly because Sakura
+  already carries the one trait that pulled Tsunade toward Ruri in the first
+  place: exceptional control she has no idea is her best asset (established in
+  Wave, ch21). Investing in Sakura is not displacement so much as the safe,
+  sanctioned version of the same instinct. Don't spell this out in prose; let
+  the parallel sit unremarked, the way ch21 already left it.
+- **Do not resolve this in Act 4.** He's sixteen and has never so much as kissed
+  anyone; she's the sitting Hokage with an obvious institutional conflict
+  neither of them would want named. The 2.5-year timeskip does the actual work.
+  Part C should end with the pull real and unexamined on both sides.
 
 **19. The news.**
 Through intelligence summaries read out by a clerk with no idea he is in the room
@@ -488,6 +557,16 @@ is passing remarks on his technique from the best in the world, and being taken
 seriously in one narrow domain — which is worth more to this character than being
 anybody's apprentice, and doesn't hand him a reward the story hasn't earned.
 
+**This is where beat 18's pull deepens without being named.** More time
+together than either would admit to scheduling, "I don't know — show me" as
+their actual register, occasional theoretical questions about her techniques
+that she answers and does not demonstrate ("when your knee survives stairs" —
+not a no). The hospital starts calling him her project; both deny it; nobody
+believes either of them. Keep her scenes interrupted by the Hokage's actual job
+— a messenger, Shizune, an ANBU at the window — so her absence never reads as
+lost interest, only as what being Hokage costs her. Still unresolved at the end
+of this beat. It stays that way until the Oto mission forces the question.
+
 **26. The evaluation.**
 He has never been officially permitted to combat train, so nobody knows what he
 is. Konoha will not deploy an unranked foreign asset, so he is assessed.
@@ -514,6 +593,36 @@ signed for it.
 
 He will never be unowned. He can move.
 
+**27b. Oto.**
+Sasuke has gone to Orochimaru by now. Konoha needs eyes inside and has no clean
+way in — except that Oto has already shown it wants exactly what he makes.
+Oto built and used a countermeasure against Guren's crystal (established in the
+Konoha Crush). A foreign, plausibly deniable supplier offering the thing they've
+already demonstrated they want is a door nobody else on the roster can open.
+
+**He goes in as product, not agent — and that's the point.** The one moment
+he's finally started being wanted for himself, the village needs him again for
+what he makes. Not a betrayal of the friendship arc; the same wound, on
+schedule, which is what this book does. He'd volunteer for his own reason
+regardless of the order: Guren, still the one open question since Act 3. This
+mission does not answer it — see beat 29 — it only sharpens it. A near-miss, a
+name overheard, a door that doesn't open. He does not defect, does not seek
+her out past the mission's terms, and comes back having learned tradecraft
+mattered more than longing.
+
+**Doubles as Tsunade quietly moving her most Root-coveted asset somewhere Root
+can't reach** (beat 17's "not weapon value" defence, cashed) — never stated
+outright, consistent with how she protects him elsewhere: by reassignment, not
+by argument.
+
+**Tsunade POV, here.** The one non-Sazare POV scene this arc spends beyond
+Guren's and Yagi's earlier ones — ration it the same way, so it still counts as
+a pivot rather than a mood piece. Her side of signing off: the strategic
+calculus and, underneath it, catching herself doing the thing she swore off
+after Dan and Nawaki — caring whether someone she's stopped treating as an
+asset comes back. Do not have her name the feeling. She realises it as he
+walks off, in a paragraph, not a chapter.
+
 **28. The scroll.**
 The Ruri combat techniques, looted from the compound in Act 1, sold on, sitting
 in a collection somewhere. He has chased rumours of it since Act 2 without ever
@@ -527,7 +636,10 @@ The inheritance arrives at last: off a stranger's shelf, bought with money he
 earned, a decade after the man who was meant to hand it over died.
 
 **29. Guren, answered.**
-The last open thread, and she belongs on this road.
+The last open thread, and she belongs on this road — a chance meeting, not the
+Oto mission's payoff (beat 27b sharpens the ache; this closes it). The
+difference matters: a deliberately mounted infiltration ending in reunion reads
+as plot fiat, a chance meeting after he no longer needs her reads as earned.
 
 She has been offering knowledge since Act 2 — the only person alive who could
 teach him properly. He refuses it as a man who no longer needs it, having built
