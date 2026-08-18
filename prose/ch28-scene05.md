@@ -1,214 +1,184 @@
-# Chapter 28, Scene 5 — The Latch
+# Chapter 28, Scene 5 — Terrain
 
-*Act 4, part C. Konoha, the room over the persimmon tree. Sazare Ruri,
-age sixteen. POV: Sazare. ~1,821 words.*
-
----
-
-He waited until the fourth week, because Fujita's ceiling on the
-pathways was explicit and he had decided, for once, to test it exactly
-rather than approximately.
-
-*Small load, short duration, no repetition inside a day.* He had
-copied the sentence onto the inside cover of the notebook, under
-*Auditor: K.U.*, and had looked at it every night for a week before
-deciding that a test built entirely from stored chakra rather than
-chakra spent live might sit inside those terms without breaking them,
-because the cost would be paid once, at the writing, and nothing at
-all at the moment it mattered.
-
-He worked at the low table with the shutter half open. Late in the
-seventh month the evenings had begun to lengthen at the wrong end,
-lost from the top rather than gained at the bottom, and the light
-by the time he sat down had gone the particular deep gold that comes
-before dusk rather than after dawn, warm and low and slightly orange
-where it caught the persimmon leaves outside the window. The room held
-the day's heat the way it did every night in that month, close and a
-little stale, and he had the shutter open a hand's width for whatever
-air the evening had to offer, which was not much and smelled of dust
-and, faintly, of the drains three streets over.
-
-He laid the materials out in the order he intended to use them, which
-was also the order he intended to write them up.
-
-**One seed**, four-tenths of a gram, unfaulted, one of the six that had
-survived the invasion audit and still sat, untouched, in the fold of
-black cloth where Kanzaki had counted them and signed the line.
-
-**One granite chip**, plain stock, the twin of the one Kanzaki had
-watched him grow a bar from three weeks before.
-
-**Urushibara's thirteenth element**, copied from the tray in his own
-hand: three strokes inside a broken square. *Store.*
-
-**A trigger**, and this was the part he had spent the most nights
-turning over, because Urushibara had given him three categories and no
-instruction on which to choose, and choosing wrong meant either a seal
-that never fired or one that fired the moment he looked at it wrong.
-
-Time was useless to him — he had no reliable clock inside a crystal
-and no interest in building one yet. Contact was the obvious choice
-and the one he distrusted most, because contact was also what a
-crystal did constantly, in a pocket, against a splint, brushed by
-accident against a bed rail, and a trigger that fired at the first
-careless touch was not a trigger, it was a hazard with paperwork.
-
-That left the third.
-
-*Foreign chakra, arriving and being recognised as the right key.*
-
-He had not been given the mechanism for recognition — Urushibara had
-promised it and withheld it in the same breath, the way he withheld
-everything he judged Sazare wasn't ready to be careless with — but he
-had watched Anko describe the shape of it precisely enough to copy
-without understanding: *it knows that signature the way you'd know
-somebody's knock through a door you've never seen them use.* A door
-that answered one hand and stayed shut to every other. He did not know
-how Orochimaru's mark managed that after eleven years. He suspected,
-turning it over at the low table with the light going from gold to
-grey outside the window, that he did not need to know the whole of it
-to borrow the smallest possible piece: a seed already carried a route
-back to the chakra that had grown it, the same route recall used, the
-same route the street had answered to in a single reversed pull. If a
-seed already recognised its own maker's signature well enough to
-soften under it and refuse everyone else, then recognition was not a
-mystery he needed Urushibara to hand him.
-
-It was a fact he had been using for three months without naming it.
-
-*Every seed already has a lock. I only need to teach it what to do
-when the right key turns.*
+*Act 4, part C. Konoha General, the forecourt. Sazare Ruri, age
+sixteen. POV: Sazare. ~1,421 words.*
 
 ---
 
-He wrote *store* onto the granite chip first, working the three
-strokes into the surface the way he had worked the twelve elements
-onto scrap paper for a fortnight, slow, exact, checking each stroke
-against Urushibara's copy before committing it. The chip took the
-notation the way plain stock took anything — indifferently, without
-argument, because it had no order of its own to disagree with him.
+Kakashi arrived forty minutes after the time he had named, which
+Sazare had begun to suspect was not lateness so much as a fixed unit
+of measurement the man used instead of a clock.
 
-Then he charged it.
+He was reading when he came through the new iron gate — hung at last,
+the ropes gone, a fortnight's work by two men and a jack Sazare had
+priced for O-Shige and never billed — and he did not stop reading
+until he had crossed the whole of the forecourt and stood over the
+bench where Sazare sat with his splinted leg out straight and a chart
+of the street balanced on his knees.
 
-Not with intention, not with the smoothing instinct that had closed
-wounds for four months without him understanding why it worked. Just
-chakra, measured, small, the kind of load he would have spent without
-noticing on a single dressing change — a fraction of what Kanzaki's
-four-second bar had cost him three weeks before, well inside whatever
-margin Fujita's healing pathways could carry without complaint. He
-felt it go into the notation and stop there, held, the way a coin
-held in a closed hand is still a coin and not yet spent.
+"You're doing homework," Kakashi said, closing the book on one finger.
 
-He set the seed beside it, close enough to touch, and reached for the
-route.
+"It's the incident report. I'm correcting it."
 
-The seed answered the way it always did at contact — immediate,
-familiar, his own signature meeting itself the way two halves of a
-snapped stick still know each other's break. He did not draw anything
-back. He simply held the contact for a four-count, the way Urushibara
-had described a trigger checking a key against a lock, and let go.
+"Whose incident report?"
 
-Nothing happened.
+"Mine. Natsumi's diagram has the gate barrier eighteen inches out of
+position."
 
-He sat with that for a moment, disappointed in the specific quiet way
-he had learned, over eleven weeks of Thursdays with Kanzaki, not to
-mistake for failure until he had actually checked.
+"Does that matter to anyone but you?"
 
-He picked the chip up.
+"It matters to whoever reads it in five years and builds a plan on top
+of a wrong number." Sazare turned the page round so Kakashi could see
+it, though he had no particular expectation that Kakashi would look.
+"I told you I'd get it right the first time this once."
 
-It was warm — not hand-warm, not evening-warm, a degree or two above
-either, the kind of warmth a thing has when it has just finished doing
-something rather than about to. He turned it in the lamp light and saw,
-along one edge, the faintest cloudiness where there had been none an
-hour before: not growth, not a fracture, a discharge, small and
-contained and entirely spent, the store empty where it had been full.
+Kakashi looked at it for exactly as long as courtesy required and no
+longer. "You corrected a security report for accuracy nobody's going
+to check."
 
-He had missed it. It had fired at the four-count, exactly where he had
-told it to check, and released everything it held in less time than
-it took him to notice the temperature of his own hand.
+"Somebody might."
 
-*It worked the first time and I nearly wrote it down as a failure
-because I was watching for the wrong thing.*
+"Somebody might. That's not why you did it." He sat on the far end of
+the bench, unhurried, the book still closed around one finger like a
+bookmark he hadn't decided to use yet. "You did it because it was
+wrong and you can't leave a wrong thing sitting where you can see it.
+I've read your file. I know exactly what that habit's cost you and
+exactly what it's earned you, and today I'm here about the second
+part."
 
-He sat back from the table and put both hands flat against his knees,
-the way he did when a thought needed a moment before it would hold
-still enough to write.
+"You said you'd teach me when somebody told you I was allowed to be
+taught."
 
-*A seed can carry a route home. A seal can carry a store and a
-trigger. Put the trigger on the route instead of on time or on touch,
-and the store discharges the instant the right chakra arrives — mine,
-now, but there is no reason in anything Urushibara has taught me why
-it has to stay mine.*
+"I did say that."
 
-*Structure. Store. Condition.*
+"Somebody has."
 
-*I have made all three tonight, on a granite chip that isn't even
-crystal, and none of it required me to be in the room when it fired.
-It required me to have been in the room once, beforehand, at full
-strength, to load it.*
+"I know. I read that file too." Kakashi turned the book over in his
+hand, not opening it, a habit rather than a decision. "Which is why I
+want to be clear before we start: I'm not here to teach you anything
+today. Your knee has another three weeks in it before Yagi lets me
+near you with anything that involves your feet, and I have no
+intention of being the shinobi who undid nine years of somebody else's
+patient work because I was bored."
 
-*A closed seal doesn't need the writer present. It needs the writer,
-once, to have meant it.*
+"Then why are you here."
 
-He thought of Urushibara's hand going to the tubing mid-sentence,
-finishing four breaths later in a voice with less behind it, and of
-the particular flatness in his own chest watching it happen and being
-able to do nothing about the shape of a lesson except wait for it to
-resume.
-
-*This is not what he stops for. But it is built out of the fact that
-he stops.*
+"Because there's a version of training that doesn't need legs, and I'd
+rather start there than waste three weeks doing nothing at all." He
+nodded at the chart on Sazare's knees. "Walk me through the street.
+Not what happened. What you'd change if you had it to build again,
+knowing what you know now."
 
 ---
 
-He wrote it up in the notebook the way he wrote up everything, in
-order, without softening the flattering half or the honest one:
+They went through it properly, Sazare talking and Kakashi listening
+with the particular economy of a man who asked exactly as many
+questions as the answer required and no more — where the camber ran
+fast and where it ran slow, which walls gave cover and which only
+looked like they did, where the staggered blocks had worked because
+they forced a choice and where the flat plate under the admissions
+window had failed because it gave none.
 
-*One granite chip, plain stock. Notation: store, copied from
-Urushibara's thirteenth element. Charge: approximately equal to one
-dressing change, well inside Fujita's ceiling. Trigger: contact with
-originating chakra signature, four-count hold. Result: discharge at
-four seconds, complete, chip cooled within a minute. Not felt at the
-moment of release — noticed only afterward, by temperature and by a
-faint cloud in the fracture plane.*
+"You put six short faces instead of one long one," Kakashi said,
+partway through. "Why."
 
-*This is not healing. It is a chip that got warm and then didn't. It
-proves nothing except that a store can be told to wait for a key
-instead of a clock or a touch, and that the key can be as small as a
-route a seed was already carrying before I thought to ask it to carry
-anything else.*
+"A long face is a decision. Somebody sees it, decides to go round or
+over, and the decision is made once. Six short ones make them decide
+six times in the time it takes to cross the gap, and a person making
+six decisions in four seconds makes at least one of them badly."
 
-*What it proves, which is not nothing: a person does not have to be
-in the room for a thing they built to still be true.*
+"That's not fabrication. That's ambush thinking with the roles
+switched — you're not hiding in the ground any more, you're making the
+ground do the deciding for whoever's coming through it."
 
-He looked at the sentence for a long time after he had written it,
-long enough that the lamp began to gutter and the persimmon outside
-the window went from a shape with leaves in it to a shape without any
-detail at all, and understood, slowly, that he had done something with
-this finding he had not done with the seeding or the courses or the
-recall or any of the nine years of benches that had come before it.
+"I hadn't thought of it that way."
 
-He wanted to tell somebody.
+"You should. It's the same skill you've had since before I met you,
+pointed somewhere it's legal to point it." Kakashi looked out at the
+gate, where the new hinges still showed bright unweathered metal
+against the old dark iron of the posts. "Most of what I'd teach a
+genin at your stage is footwork and form, because most genin haven't
+spent a year and a half learning to read a street the way you have.
+I'm not going to waste time teaching you to see ground. I'm going to
+teach you what to do once you've seen it, which is a narrower problem
+than you think and a much easier one to be bad at without noticing."
 
-Not Kanzaki, who would want it entered in the ledger before she would
-let herself be interested in it, which was correct and also not what
-he wanted from the telling. Not Urushibara, who would be asleep by
-now and whose next lesson would arrive better for the withholding. He
-sat with the wanting for a while, turning it over the way he turned
-over everything, and found that it did not resolve into a name the
-way most of his wants did once he looked at them directly.
+"Such as."
 
-He thought, briefly and without deciding anything by it, of a woman
-who had looked at a medical crystal that didn't yet exist and asked
-*why does this heal*, in a voice that expected an actual answer rather
-than a performance of one.
+"Such as: you built a field that killed twenty-two people and couldn't
+turn it off cleanly when a Hyūga told you to stop. That's not a moral
+failing. It's a design failing. A weapon you can't safely de-escalate
+is a weapon that eventually gets used on the wrong person by accident,
+including you." He said it without any particular weight, the same
+register he'd used for the camber and the six short faces, which
+Sazare understood, after a moment, to be deliberate — the observation
+delivered exactly like every other piece of technical feedback, so it
+could be received the same way.
 
-He put the chip in the tin beside the six grains, whole and unspent,
-and the seed that had lent its route without giving up a fraction of
-itself to do it. He did not write her name down anywhere,
-because the notebook had a column for what he knew and none yet for
-what he merely wanted to say out loud to somebody who wasn't there to
-hear it.
+"I know."
 
-Then he blew out the lamp, and lay down, and did not, for a long
-while, get to sleep.
+"I know you know. I'm not telling you something new. I'm telling you
+it's now officially my problem too, which means we're going to spend
+considerably more time on stopping than on starting, once your leg
+lets us start at all."
+
+---
+
+A bell rang somewhere across the village, three notes, unhurried, the
+kind of sound that meant an announcement rather than an alarm. Two
+orderlies crossing the forecourt with a laundry basket between them
+slowed to listen, then kept walking, unsurprised.
+
+"That's the Fifth," Kakashi said, without looking up from the book he
+had, at some point in the last ten minutes, finally opened. "New
+proclamation board goes up outside the tower this afternoon. First one
+under her own seal."
+
+"Should I be somewhere for that."
+
+"No. You'd be item four hundred on a list a thousand people are
+watching, and the only useful thing that comes of you standing in that
+crowd is somebody deciding you're worth photographing." He turned a
+page. "She'll get to you eventually. She runs the whole medical corps
+now, on top of everything else, and I'm told somebody's already shown
+her your fabrication file. When she wants you, you'll know, because
+Tsunade doesn't send a form, she sends a person, usually with very
+little warning and less patience for excuses."
+
+"You make her sound difficult."
+
+"She's the best medical mind alive and she once threw a training
+dummy through four walls because she'd had a bad morning. Difficult
+undersells it." He said this with something that might, in a less
+careful man, have been fondness. "Sakura's already been sent for.
+Picked her personally, out of the whole intake, first week back. If
+you want to know what impressed her, ask Sakura — mine's a guess and
+hers is an eyewitness account."
+
+"What's your guess."
+
+"That she doesn't waste time on things that are already finished
+learning." Kakashi closed the book again, unhurried, and stood. "Which
+is, incidentally, why I'm here and not somebody else. You're not
+finished. Neither's your knee. I've got nothing better to do with a
+genin team that's currently down to one, and you correct incident
+reports nobody asked you to correct, which tells me everything I need
+to know about whether you'll show up for the boring part of this."
+
+"Will there be a boring part."
+
+"There is nothing but the boring part, for the first several months.
+Footwork. Falling correctly. Learning to lose a fight on purpose so
+you can end it somewhere better than where it started." He tucked the
+book away at last. "Three weeks. Yagi's clock, not mine — I'd start
+tomorrow if she'd let me, but she's made it extremely clear what
+happens to jōnin who ignore her timelines, and I've seen what happens
+to Ashida's collarbone forms when he's slow filing them, which is
+nothing compared to what I imagine happens to a jōnin's."
+
+He was through the gate and gone before Sazare had finished working
+out whether that last part had been a joke.
+
+He decided, on balance, that it had been, and that he had missed the
+window to say anything dry back, and that Handa would have something
+to say about that whenever he got round to reporting it.

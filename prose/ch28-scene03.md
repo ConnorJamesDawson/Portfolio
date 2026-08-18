@@ -1,180 +1,249 @@
-# Chapter 28, Scene 3 — The Mark
+# Chapter 28, Scene 3 — Between Breaths
 
-*Act 4, part C. Konoha General, an examination room. Sazare Ruri, age
-sixteen. POV: Sazare. ~1,325 words.*
+*Act 4, part C. Konoha General, the respiratory ward. Sazare Ruri, age
+sixteen. POV: Sazare. ~1,878 words.*
 
 ---
 
-Ibiki had said it would take one request and had been wrong about
-that, the way people were usually wrong when they promised him
-anything would be simple.
+Urushibara Gen had rearranged his bed three times before Sazare
+arrived, which the duty nurse reported at the door with the flat
+patience of somebody reciting a fact rather than complaining about one.
 
-It took four. The first went nowhere because Sazare had written it as
-a hospital form, and a hospital form requesting access to a T&I asset
-did not survive contact with the clerk who filed it. The second went
-to Ibiki directly and came back with one line added in his own hand —
-*state the medical purpose, not the intelligence one* — which Sazare
-did, honestly, because the medical purpose was the true one and he had
-never seen the advantage in dressing a request in a costume it didn't
-need. The third produced a date. The fourth, from Ibiki personally,
-was two words: *she agreed.*
+"He wants the tray at the foot end now. Don't move it back. He'll only
+do it again and it costs him more than it's worth."
 
-Nobody told him what that had cost to arrange, and he had the
-professional sense, by then, not to ask.
+"Why the foot end?"
 
-She came to the small examination room off the second-floor corridor
-at the hour Fujita kept free for exactly this kind of visitor —
-somebody who was not, technically, a patient of that ward and did not
-want to be seen queuing with the ones who were. She wore the same
-mesh-and-coat combination Sazare had seen twice in the corridor
-without knowing whose it was, and a senbon between her teeth that she
-did not remove for the entire conversation, and she looked at him for
-a long moment from the doorway before she came in, the specific look
-of somebody counting exits.
+"He says the light's better for writing. I think he's decided
+something and hasn't told anyone what."
 
-"You're the crystal one."
+The respiratory ward ran along the building's south side, which meant
+it caught the morning sun in a way the men's end never had, and by the
+tenth hour the light lay across the beds in a long warm bar that
+picked out dust turning slowly above every mattress. It smelled of
+camphor and something sweeter underneath it, a syrup the kitchens sent
+up for the coughing, and beneath both of those the particular flat
+mineral smell of the oxygen cylinders lined against the far wall like
+a row of quiet soldiers.
 
-"Yes."
+Urushibara sat propped at forty-five degrees with the tubing crossing
+one cheek and a lap board across his knees covered in torn paper. He
+had, as promised, moved the tray to the foot of the bed, where it now
+held twelve notation elements written out in a hand too controlled to
+belong to a man who could not walk to his own washstand.
 
-"You're younger than the file said."
+"You're late," he said.
 
-"The file's from four months ago."
+"The clock says I'm on time."
 
-"Files don't age that fast." She sat on the exam table without being
-told to, which he understood, correctly, as a test rather than
-impatience. "Ibiki says you want to look at my neck."
+"The clock is a civilian instrument. I keep shinobi time, which begins
+four minutes before the appointment and ends when I decide the lesson
+is over, not when the clock thinks it should."
 
-"I want to ask about it. Looking isn't required."
+"That's not a standard anybody's told me about."
 
-"Everyone who's ever asked to look has meant look."
+"It's my standard. I invented it forty years ago specifically so I
+could be technically correct while being difficult." He turned the lap
+board round. "Sit. Today we discuss why a seal you wrote yesterday is
+still working today, when you are, provably, not."
 
-"I don't need to. I need to know how it behaves."
+Sazare took the stool at the bedside and looked at the twelve
+elements, ranked in their familiar rows. "Because the instruction
+doesn't need me. It needs the medium."
 
-She took the senbon out, turned it once between two fingers, and put
-it back. "That's a new question. Usually it's *does it hurt* or *can
-you control it* or, my favourite, *do you still see him* — like I'm
-carrying round a photograph instead of a piece of writing somebody put
-in my neck against my will." She tilted her head, exposing the mark
-without ceremony, three curved shapes inside a circle, faded to a
-shadow of themselves against the skin. "Ask your question, then."
+"Wrong in a way that will get somebody killed if you keep believing
+it. Sit up straighter, this matters." Urushibara tapped the paper with
+one finger. "A seal is not a message left in a bottle. A message in a
+bottle sits there being true forever because ink doesn't change its
+mind. Chakra is not ink. Chakra wants to disperse the moment it is not
+being told what to do, the way water wants to find the lowest ground.
+The instant you finish writing, you have a very short window in which
+the chakra you laid down is still listening to you and can be told,
+once, what to keep doing after you stop talking to it."
 
-"Does it wait for something specific, or does it act on its own?"
+"And after that window."
 
-Anko went still in a way that told him, before she answered, that
-nobody had asked her that either.
+"After that window it is either **open** or **closed**, and everything
+that matters about a seal's whole life is decided in that one instant
+and never revisited."
 
-"Both," she said, slower. "It sits there most of the time doing
-nothing I can feel. But there's a difference between doing nothing and
-being *off*, and I only worked that out because I've had eleven years
-to sit with it. It's — listening isn't the right word. It's more like
-a door that's shut but not locked. Most days nobody's on the other
-side of it. Some days I can tell somebody's stood there, even if they
-don't open it."
+He drew two shapes on a fresh scrap: a circle with a gap in it, and a
+circle without one.
 
-"Does it respond to anybody, or specifically to him?"
+"Open. The circle isn't finished. It stays listening for the writer,
+because the writer intends to keep supplying it — a barrier held up
+for the length of a fight, a genjutsu maintained by continuous
+attention. The moment the writer stops feeding it, it collapses,
+because it was never told to do anything else. Convenient. Also
+fragile. Kill the writer, the seal dies with him."
 
-"Specifically him. I've had other people's chakra all over this thing
-— medics, Ibiki's lot with their diagnostic seals, once a very
-unpleasant afternoon with somebody from Suna who wanted to poke at it
-for research. Nothing. It sits there being inert stone for everybody
-except one signature, and it knows that signature the way you'd know
-somebody's knock through a door you've never seen them use." She
-looked at him properly for the first time since sitting down. "Why
-does that matter to a crystal fabricator."
+"And closed."
 
-"Because it means it isn't finished."
+"Closed, the circle finishes, and the last thing you do before it
+finishes is give it an instruction that doesn't require you any more.
+A storage tag. A trap set on a door that isn't watched. A seal that
+releases a measured dose of something at a measured time, to nobody in
+particular, whether you are in the room, in another country, or in the
+ground." He set the paper down. "The cursed mark on that Sound
+prisoner's neck is closed. It does not need Orochimaru to be present,
+does not need him to be alive, does not even need him to remember he
+wrote it. It finished its own circle years ago and has been running on
+its own instructions ever since, adjusting to whatever body it's
+wearing, because the instruction it was given was not *do this thing*
+but *keep doing whatever this thing requires, under these changing
+conditions, indefinitely.*"
 
-He explained it the way Urushibara had explained it to him, because he
-had no better version of his own yet and did not see the use in
-pretending otherwise: a seal that closes properly stops needing its
-writer, runs on stored instruction and a trigger that doesn't care who
-supplies it. A seal that still recognises one specific chakra, after
-eleven years, has never actually closed. It has been running on a
-standing order and periodically checking whether the man who gave the
-order is still the one giving it.
+"That's not writing. That's a standing order."
 
-Anko listened with her arms folded and her face doing very little,
-which he had begun to understand, over the last twenty minutes, was
-not the same as her doing nothing with what she heard.
+"That," Urushibara said, with the particular satisfaction of a teacher
+whose student has said the thing he was steering toward without being
+told to, "is exactly what it is. Most seals are letters. A cursed mark
+is a standing order to a soldier who never gets relieved."
 
-"So it's not mine," she said, eventually. "It never was mine. It's his
-letter, still addressed to him, that happens to be written on me."
+---
 
-"That isn't what I said."
+He had Sazare copy both shapes eleven times before he was satisfied,
+correcting the angle of the gap in the open circle twice — "you're
+drawing a mouth that's already shut, that's a closed circle with
+ambitions" — and then, without any change in tone that would have
+warned a less attentive listener, began to run out of breath in the
+middle of a sentence about activation triggers.
 
-"It's what you meant. Don't soften it, I've had eleven years of people
-softening it and it doesn't help, it just means I have to do the
-unsoftening myself later, alone, which is worse." She rolled her
-shoulder, the same gesture, he suspected, she used to check whether
-the mark had moved without her noticing. "Go on, then. What do I do
-with that."
+"A closed seal needs three things to release," he said. "Structure,
+which is the writing. Stored chakra, which is the—"
 
-"I don't know yet."
+He stopped.
 
-"That's an honest answer."
+Not dramatically. The words simply arrived slower, then further apart,
+then not at all, and his hand went to the tubing at his cheek and
+adjusted it a half-inch with the same unhurried precision he brought
+to everything, as though this too were a scheduled part of the lesson
+and Sazare was meant to be taking notes on it.
 
-"It's the only one I've got."
+"—condition," he finished, four breaths later, in a voice with
+considerably less behind it. "Write that down before I forget I said
+it. Structure. Store. Condition. Three things, in that order, and if
+you ever try to build one with only two of them you will get a seal
+that either can't fire or can't stop."
 
-She studied him for a while with an attention that had nothing
-performed in it, the senbon turning slowly between two fingers.
+"Should I call somebody?"
 
-"Ibiki said you're not squeamish and you're not sympathetic," she said.
-"He made it sound like a warning. It's the first useful thing anybody's
-told me about you before I met you."
+"No."
 
-"Was it accurate?"
+"You stopped mid-word."
 
-"Mostly. You flinched twice."
+"I do that. It is not new information and it is not an emergency, and
+if you treat every one of these the way that nurse treats them I will
+never finish teaching you anything, because she comes in, checks four
+things I already know the answer to, and leaves me to start the
+sentence again from the beginning, which wastes considerably more
+breath than the stopping did." He closed his eyes for a moment, chest
+working with the particular shallow effort Sazare had watched him do
+four times now without ever naming it to himself as anything more than
+part of the man. "Where was I."
 
-"When?"
+"Condition."
 
-"Once when I said *photograph.* Once just now, when I said *alone.*"
-She stood, tucking the senbon away. "You're not as unreadable as you
-think you are, crystal boy. You're just reading yourself wrong, same
-as everybody who's spent their whole life being told what they're
-worth stops noticing what they actually feel about it."
+"Condition. Good." He opened his eyes. "A trigger. What makes a
+finished, structurally sound, fully charged seal actually release its
+instruction, rather than sitting there being correct and useless
+forever."
 
-He had no answer for that and did not attempt to manufacture one,
-which she appeared, from the small movement at the corner of her
-mouth, to register as the correct response.
+"Time."
 
-"One more thing," she said, at the door. "You asked if it acts on its
-own. It has. Twice, both times when I was low — starved, hurt,
-half-conscious once after a bad extraction. It doesn't need him
-present to try and finish its own sentence. It just needs me weak
-enough that it can talk louder than I can."
+"Crude but valid. What else."
 
-"That's the store," Sazare said, half to himself. "It doesn't need
-fresh supply from him to fire. It's carrying its own, and it spends it
-when your own guard goes down far enough to let it."
+"Contact. Being cracked, or broken, or opened."
 
-"Is that useful to you."
+"Better. What else."
 
-"Yes."
+Sazare looked at the tubing, at the half-inch adjustment Urushibara had
+just made without seeming to notice he'd made it, at the twelve
+elements on the tray and the two circles, one gapped and one whole.
 
-"Good. Then it was worth eleven years of it being none of anybody's
-business finally being somebody's business for a reason that isn't
-morbid curiosity." She paused, one hand on the frame, and looked back
-at him with something that was not quite warmth and was not quite its
-opposite either. "You can ask me again. Not the department. You,
-personally, if it's useful and you can be bothered to make the
-appointment yourself instead of letting Ibiki do it."
+"Foreign chakra," he said. "Somebody else's, arriving and being
+recognised as the right key."
 
-"Why personally."
+"Recognised, not merely present — that distinction is the whole of
+next week's lesson and I am not giving it to you for free today." He
+tapped the closed circle once. "Time, contact, or a key. Every closed
+seal in existence releases on one of those three, or some combination
+of them, and the entire discipline of fūinjutsu is ninety per cent
+deciding which of the three suits the job and ten per cent not
+poisoning yourself while you write it."
 
-"Because you're the first person who's treated this like a fault in a
-piece of equipment instead of a wound, and I have had considerably
-more practice being pitied than being consulted, and it turns out I
-prefer the second one." She knocked the door frame once, a small
-percussive habit he suspected she did not know she had. "Don't make me
-regret saying that."
+---
 
-"I'll try not to."
+The second stop came twenty minutes later, and it lasted longer.
 
-"That's not a promise."
+Sazare watched it happen with the particular useless attention of
+somebody who had spent nine years learning to identify exactly when a
+crisis was and was not his to intervene in, and who found, watching an
+old man's chest fail to keep pace with an old man's sentence, that the
+category did not resolve cleanly either way. Urushibara's hand found
+the tubing again. His eyes stayed open this time, fixed on a middle
+distance past Sazare's shoulder, and the room's ordinary noise — a
+trolley somewhere, the syrup cart, a cough three beds down — went on
+without him for the better part of a minute while he did nothing but
+breathe.
 
-"No," Sazare said. "It's an honest answer."
+Sazare did not call the nurse.
 
-For the first time since she had come through the door, Anko laughed —
-one short syllable of it, surprised out of her — and was gone before
-he had finished working out what he'd said that earned it.
+He sat with the pencil still in his hand and watched a man run a
+lesson on standing orders while demonstrating, without meaning to,
+exactly the problem such an order was built to solve: a writer whose
+own supply could not be relied upon to finish the sentence he had
+started.
+
+*A closed seal doesn't need the writer to be present.*
+
+*It needs the writer, once, at full strength, to load it — and then it
+runs without him.*
+
+Urushibara's hand came away from the tubing.
+
+"Where was I," he said again, in a voice that had cost him more to
+produce than the first one had.
+
+"Ninety per cent deciding which trigger. Ten per cent not poisoning
+yourself."
+
+"Good. You were listening instead of hovering. That is the correct
+response to what just happened, for the record, in case you were
+weighing it." He picked the pencil out of Sazare's unmoving hand and
+wrote a thirteenth element at the bottom of the tray, one Sazare had
+not seen before, three strokes inside a broken square. "This is
+*store*. Not instruction, not trigger — the third leg, the one nobody
+teaches first because it's boring and it's also the one that kills
+people who skip it. A seal can be perfectly written and perfectly
+triggered and still fail if there isn't enough kept behind it to
+finish the job once it starts."
+
+"Kept where."
+
+"In the medium. In ink, in paper, in a coil of wire if you're clever
+and desperate. In whatever will hold a charge without arguing with it
+between the writing and the releasing." Urushibara set the pencil
+down and looked at him with the particular sharpness that arrived,
+Sazare had noticed, precisely when the old man judged a lesson had
+stopped being safe to leave half finished. "You have a face on."
+
+"I don't have a face on."
+
+"You have the face you had over the cleavage diagram. I've been
+teaching seals for forty years and I know what that face is worth. Say
+it or don't, but don't sit there rationing it."
+
+Sazare looked at the broken square, and at the tubing, and at the man
+who had just spent four minutes proving, with his own lungs, that a
+teacher's presence could not always be counted on to last as long as
+the lesson required.
+
+"Nothing yet," he said. "I don't have the shape of it."
+
+"Then go and find the shape of it somewhere that isn't my bedside,
+because I am tired, and you are transparently not finished thinking,
+and neither of those facts is going to improve by you sitting there
+being polite about it."
+
+He was asleep before Sazare reached the door.

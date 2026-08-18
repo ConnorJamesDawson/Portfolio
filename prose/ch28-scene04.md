@@ -1,184 +1,180 @@
-# Chapter 28, Scene 4 — Terrain
+# Chapter 28, Scene 4 — The Mark
 
-*Act 4, part C. Konoha General, the forecourt. Sazare Ruri, age
-sixteen. POV: Sazare. ~1,421 words.*
-
----
-
-Kakashi arrived forty minutes after the time he had named, which
-Sazare had begun to suspect was not lateness so much as a fixed unit
-of measurement the man used instead of a clock.
-
-He was reading when he came through the new iron gate — hung at last,
-the ropes gone, a fortnight's work by two men and a jack Sazare had
-priced for O-Shige and never billed — and he did not stop reading
-until he had crossed the whole of the forecourt and stood over the
-bench where Sazare sat with his splinted leg out straight and a chart
-of the street balanced on his knees.
-
-"You're doing homework," Kakashi said, closing the book on one finger.
-
-"It's the incident report. I'm correcting it."
-
-"Whose incident report?"
-
-"Mine. Natsumi's diagram has the gate barrier eighteen inches out of
-position."
-
-"Does that matter to anyone but you?"
-
-"It matters to whoever reads it in five years and builds a plan on top
-of a wrong number." Sazare turned the page round so Kakashi could see
-it, though he had no particular expectation that Kakashi would look.
-"I told you I'd get it right the first time this once."
-
-Kakashi looked at it for exactly as long as courtesy required and no
-longer. "You corrected a security report for accuracy nobody's going
-to check."
-
-"Somebody might."
-
-"Somebody might. That's not why you did it." He sat on the far end of
-the bench, unhurried, the book still closed around one finger like a
-bookmark he hadn't decided to use yet. "You did it because it was
-wrong and you can't leave a wrong thing sitting where you can see it.
-I've read your file. I know exactly what that habit's cost you and
-exactly what it's earned you, and today I'm here about the second
-part."
-
-"You said you'd teach me when somebody told you I was allowed to be
-taught."
-
-"I did say that."
-
-"Somebody has."
-
-"I know. I read that file too." Kakashi turned the book over in his
-hand, not opening it, a habit rather than a decision. "Which is why I
-want to be clear before we start: I'm not here to teach you anything
-today. Your knee has another three weeks in it before Yagi lets me
-near you with anything that involves your feet, and I have no
-intention of being the shinobi who undid nine years of somebody else's
-patient work because I was bored."
-
-"Then why are you here."
-
-"Because there's a version of training that doesn't need legs, and I'd
-rather start there than waste three weeks doing nothing at all." He
-nodded at the chart on Sazare's knees. "Walk me through the street.
-Not what happened. What you'd change if you had it to build again,
-knowing what you know now."
+*Act 4, part C. Konoha General, an examination room. Sazare Ruri, age
+sixteen. POV: Sazare. ~1,325 words.*
 
 ---
 
-They went through it properly, Sazare talking and Kakashi listening
-with the particular economy of a man who asked exactly as many
-questions as the answer required and no more — where the camber ran
-fast and where it ran slow, which walls gave cover and which only
-looked like they did, where the staggered blocks had worked because
-they forced a choice and where the flat plate under the admissions
-window had failed because it gave none.
+Ibiki had said it would take one request and had been wrong about
+that, the way people were usually wrong when they promised him
+anything would be simple.
 
-"You put six short faces instead of one long one," Kakashi said,
-partway through. "Why."
+It took four. The first went nowhere because Sazare had written it as
+a hospital form, and a hospital form requesting access to a T&I asset
+did not survive contact with the clerk who filed it. The second went
+to Ibiki directly and came back with one line added in his own hand —
+*state the medical purpose, not the intelligence one* — which Sazare
+did, honestly, because the medical purpose was the true one and he had
+never seen the advantage in dressing a request in a costume it didn't
+need. The third produced a date. The fourth, from Ibiki personally,
+was two words: *she agreed.*
 
-"A long face is a decision. Somebody sees it, decides to go round or
-over, and the decision is made once. Six short ones make them decide
-six times in the time it takes to cross the gap, and a person making
-six decisions in four seconds makes at least one of them badly."
+Nobody told him what that had cost to arrange, and he had the
+professional sense, by then, not to ask.
 
-"That's not fabrication. That's ambush thinking with the roles
-switched — you're not hiding in the ground any more, you're making the
-ground do the deciding for whoever's coming through it."
+She came to the small examination room off the second-floor corridor
+at the hour Fujita kept free for exactly this kind of visitor —
+somebody who was not, technically, a patient of that ward and did not
+want to be seen queuing with the ones who were. She wore the same
+mesh-and-coat combination Sazare had seen twice in the corridor
+without knowing whose it was, and a senbon between her teeth that she
+did not remove for the entire conversation, and she looked at him for
+a long moment from the doorway before she came in, the specific look
+of somebody counting exits.
 
-"I hadn't thought of it that way."
+"You're the crystal one."
 
-"You should. It's the same skill you've had since before I met you,
-pointed somewhere it's legal to point it." Kakashi looked out at the
-gate, where the new hinges still showed bright unweathered metal
-against the old dark iron of the posts. "Most of what I'd teach a
-genin at your stage is footwork and form, because most genin haven't
-spent a year and a half learning to read a street the way you have.
-I'm not going to waste time teaching you to see ground. I'm going to
-teach you what to do once you've seen it, which is a narrower problem
-than you think and a much easier one to be bad at without noticing."
+"Yes."
 
-"Such as."
+"You're younger than the file said."
 
-"Such as: you built a field that killed twenty-two people and couldn't
-turn it off cleanly when a Hyūga told you to stop. That's not a moral
-failing. It's a design failing. A weapon you can't safely de-escalate
-is a weapon that eventually gets used on the wrong person by accident,
-including you." He said it without any particular weight, the same
-register he'd used for the camber and the six short faces, which
-Sazare understood, after a moment, to be deliberate — the observation
-delivered exactly like every other piece of technical feedback, so it
-could be received the same way.
+"The file's from four months ago."
 
-"I know."
+"Files don't age that fast." She sat on the exam table without being
+told to, which he understood, correctly, as a test rather than
+impatience. "Ibiki says you want to look at my neck."
 
-"I know you know. I'm not telling you something new. I'm telling you
-it's now officially my problem too, which means we're going to spend
-considerably more time on stopping than on starting, once your leg
-lets us start at all."
+"I want to ask about it. Looking isn't required."
 
----
+"Everyone who's ever asked to look has meant look."
 
-A bell rang somewhere across the village, three notes, unhurried, the
-kind of sound that meant an announcement rather than an alarm. Two
-orderlies crossing the forecourt with a laundry basket between them
-slowed to listen, then kept walking, unsurprised.
+"I don't need to. I need to know how it behaves."
 
-"That's the Fifth," Kakashi said, without looking up from the book he
-had, at some point in the last ten minutes, finally opened. "New
-proclamation board goes up outside the tower this afternoon. First one
-under her own seal."
+She took the senbon out, turned it once between two fingers, and put
+it back. "That's a new question. Usually it's *does it hurt* or *can
+you control it* or, my favourite, *do you still see him* — like I'm
+carrying round a photograph instead of a piece of writing somebody put
+in my neck against my will." She tilted her head, exposing the mark
+without ceremony, three curved shapes inside a circle, faded to a
+shadow of themselves against the skin. "Ask your question, then."
 
-"Should I be somewhere for that."
+"Does it wait for something specific, or does it act on its own?"
 
-"No. You'd be item four hundred on a list a thousand people are
-watching, and the only useful thing that comes of you standing in that
-crowd is somebody deciding you're worth photographing." He turned a
-page. "She'll get to you eventually. She runs the whole medical corps
-now, on top of everything else, and I'm told somebody's already shown
-her your fabrication file. When she wants you, you'll know, because
-Tsunade doesn't send a form, she sends a person, usually with very
-little warning and less patience for excuses."
+Anko went still in a way that told him, before she answered, that
+nobody had asked her that either.
 
-"You make her sound difficult."
+"Both," she said, slower. "It sits there most of the time doing
+nothing I can feel. But there's a difference between doing nothing and
+being *off*, and I only worked that out because I've had eleven years
+to sit with it. It's — listening isn't the right word. It's more like
+a door that's shut but not locked. Most days nobody's on the other
+side of it. Some days I can tell somebody's stood there, even if they
+don't open it."
 
-"She's the best medical mind alive and she once threw a training
-dummy through four walls because she'd had a bad morning. Difficult
-undersells it." He said this with something that might, in a less
-careful man, have been fondness. "Sakura's already been sent for.
-Picked her personally, out of the whole intake, first week back. If
-you want to know what impressed her, ask Sakura — mine's a guess and
-hers is an eyewitness account."
+"Does it respond to anybody, or specifically to him?"
 
-"What's your guess."
+"Specifically him. I've had other people's chakra all over this thing
+— medics, Ibiki's lot with their diagnostic seals, once a very
+unpleasant afternoon with somebody from Suna who wanted to poke at it
+for research. Nothing. It sits there being inert stone for everybody
+except one signature, and it knows that signature the way you'd know
+somebody's knock through a door you've never seen them use." She
+looked at him properly for the first time since sitting down. "Why
+does that matter to a crystal fabricator."
 
-"That she doesn't waste time on things that are already finished
-learning." Kakashi closed the book again, unhurried, and stood. "Which
-is, incidentally, why I'm here and not somebody else. You're not
-finished. Neither's your knee. I've got nothing better to do with a
-genin team that's currently down to one, and you correct incident
-reports nobody asked you to correct, which tells me everything I need
-to know about whether you'll show up for the boring part of this."
+"Because it means it isn't finished."
 
-"Will there be a boring part."
+He explained it the way Urushibara had explained it to him, because he
+had no better version of his own yet and did not see the use in
+pretending otherwise: a seal that closes properly stops needing its
+writer, runs on stored instruction and a trigger that doesn't care who
+supplies it. A seal that still recognises one specific chakra, after
+eleven years, has never actually closed. It has been running on a
+standing order and periodically checking whether the man who gave the
+order is still the one giving it.
 
-"There is nothing but the boring part, for the first several months.
-Footwork. Falling correctly. Learning to lose a fight on purpose so
-you can end it somewhere better than where it started." He tucked the
-book away at last. "Three weeks. Yagi's clock, not mine — I'd start
-tomorrow if she'd let me, but she's made it extremely clear what
-happens to jōnin who ignore her timelines, and I've seen what happens
-to Ashida's collarbone forms when he's slow filing them, which is
-nothing compared to what I imagine happens to a jōnin's."
+Anko listened with her arms folded and her face doing very little,
+which he had begun to understand, over the last twenty minutes, was
+not the same as her doing nothing with what she heard.
 
-He was through the gate and gone before Sazare had finished working
-out whether that last part had been a joke.
+"So it's not mine," she said, eventually. "It never was mine. It's his
+letter, still addressed to him, that happens to be written on me."
 
-He decided, on balance, that it had been, and that he had missed the
-window to say anything dry back, and that Handa would have something
-to say about that whenever he got round to reporting it.
+"That isn't what I said."
+
+"It's what you meant. Don't soften it, I've had eleven years of people
+softening it and it doesn't help, it just means I have to do the
+unsoftening myself later, alone, which is worse." She rolled her
+shoulder, the same gesture, he suspected, she used to check whether
+the mark had moved without her noticing. "Go on, then. What do I do
+with that."
+
+"I don't know yet."
+
+"That's an honest answer."
+
+"It's the only one I've got."
+
+She studied him for a while with an attention that had nothing
+performed in it, the senbon turning slowly between two fingers.
+
+"Ibiki said you're not squeamish and you're not sympathetic," she said.
+"He made it sound like a warning. It's the first useful thing anybody's
+told me about you before I met you."
+
+"Was it accurate?"
+
+"Mostly. You flinched twice."
+
+"When?"
+
+"Once when I said *photograph.* Once just now, when I said *alone.*"
+She stood, tucking the senbon away. "You're not as unreadable as you
+think you are, crystal boy. You're just reading yourself wrong, same
+as everybody who's spent their whole life being told what they're
+worth stops noticing what they actually feel about it."
+
+He had no answer for that and did not attempt to manufacture one,
+which she appeared, from the small movement at the corner of her
+mouth, to register as the correct response.
+
+"One more thing," she said, at the door. "You asked if it acts on its
+own. It has. Twice, both times when I was low — starved, hurt,
+half-conscious once after a bad extraction. It doesn't need him
+present to try and finish its own sentence. It just needs me weak
+enough that it can talk louder than I can."
+
+"That's the store," Sazare said, half to himself. "It doesn't need
+fresh supply from him to fire. It's carrying its own, and it spends it
+when your own guard goes down far enough to let it."
+
+"Is that useful to you."
+
+"Yes."
+
+"Good. Then it was worth eleven years of it being none of anybody's
+business finally being somebody's business for a reason that isn't
+morbid curiosity." She paused, one hand on the frame, and looked back
+at him with something that was not quite warmth and was not quite its
+opposite either. "You can ask me again. Not the department. You,
+personally, if it's useful and you can be bothered to make the
+appointment yourself instead of letting Ibiki do it."
+
+"Why personally."
+
+"Because you're the first person who's treated this like a fault in a
+piece of equipment instead of a wound, and I have had considerably
+more practice being pitied than being consulted, and it turns out I
+prefer the second one." She knocked the door frame once, a small
+percussive habit he suspected she did not know she had. "Don't make me
+regret saying that."
+
+"I'll try not to."
+
+"That's not a promise."
+
+"No," Sazare said. "It's an honest answer."
+
+For the first time since she had come through the door, Anko laughed —
+one short syllable of it, surprised out of her — and was gone before
+he had finished working out what he'd said that earned it.
