@@ -140,6 +140,59 @@ He has the hard half already: artisan crystal growth is sustained precision
 chakra control, and he has had it since he was seven. **The hospital is the
 teacher, not the library** — supervised work is where he actually learns.
 
+**Written (ch23):**
+
+- **He gets in at the bottom and stays there.** Nine weeks portering — laundry,
+  trays, trolleys, two dead men — because Ashida's advice was right: you do not
+  volunteer at a hospital, you get *used*. Nobody speaks to him for eleven days,
+  which is the going rate and is not hostility. The way in is that he mends
+  eleven things in the building without being asked.
+- **The medical-ninjutsu ruling is a real bureaucratic problem and is faced.**
+  Medical ninjutsu *is* a shinobi discipline, so Kaburagi refuses to teach him
+  without a ruling and puts her refusal in writing. It comes back with one line
+  across the bottom: *Approved. Medical ninjutsu is not combat training and I
+  decline to pretend otherwise. Anyone who wishes to argue may come and see me. —
+  S.* And underneath, in a different pen: *Enter it in his book like everything
+  else.*
+- **The breakthrough is the lattice's second job.** He is elite at control and
+  hopeless at bodies, because nine years of craft trained him on media that
+  **hold still**, and a forearm has an opinion. He keeps trying to *shape*. What a
+  body wants is **smoothing** — a level unvarying feed, shaping nothing, telling
+  it nothing — which is exactly the job the copper web did, which his mother
+  could hold for six hours, and which the trade never once called a skill.
+- **Governor held:** three months in he can close a clean two-inch cut in four
+  minutes at the cost of a day's work. Nurse Yagi does it in nineteen seconds
+  while talking. *Control is about a third of it and the rest is knowing what you
+  are looking at, and that takes nine years.*
+- **Beat 8 has a number.** A stabbing comes in at the second hour — left, low,
+  under the ribs, under and forward, vessel at the back of the spleen — and a
+  duty medic closes it in **ninety seconds** while talking about something else.
+  It is the same wound Sazare made at Kanezaki and knew was survivable and then
+  held pressure three inches from for eleven minutes. The three lists follow: the
+  ones he made, the ones he was too late for (Tōan's *there is a thing they can do
+  for that* turning out to be a fact about the world, not about Tōan), and the
+  ones he passed. His grief has exactly one available shape — he asks Nurse Yagi
+  for the survival figure and writes it on the back page of the audit book, and
+  writes about eleven hundred more over the following years.
+- **Naruto, per beat 4, and neither of them names it.** Sazare reads the ward's
+  response to him in four seconds — the auxiliary who does the far end first and
+  leaves — and corrects himself immediately: it is not obliviousness, the boy has
+  clocked all of it since he was four and goes on talking anyway, which is the
+  most expensive thing Sazare has ever watched anybody do. Naruto is furious about
+  the minder for four seconds and then *puts it down* and takes him to lunch. And
+  he asks the only question nobody in Konoha has asked: **what was she like?**
+- **The reader gets the invasion warning and the character correctly declines to
+  give it.** Three Sound protectors at a market stall, all from one die, unworn at
+  the punch-line — an observation only a boy raised in a metal-and-stone workshop
+  would make, and worth nothing on its own. His reason for silence is airtight: a
+  probationary foreigner who reports on other foreigners has told the village that
+  he does that, that he is good at it, and that he has been doing it since he
+  arrived.
+- **The chapter closes on the roster** — a piece of card by the sluice door, in
+  pencil, ruled. The fifth time an institution has written his name down, and the
+  first one that records **where he will be** rather than what he is worth,
+  written in advance by somebody relying on it.
+
 ---
 
 ## Part B — The Invasion
