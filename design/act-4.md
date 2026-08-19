@@ -518,6 +518,42 @@ isn't something the series depicts. The safer version is a senior delegation wit
 no Mizukage, or an envoy. Taking the stretch deliberately — her presence is worth
 more than strict accuracy — but it is a stretch.*
 
+**22b. The scroll comes back, and it is a headstone.**
+
+**Reparations are not only money.** Across the same table, as a gesture of good
+will, Kiri returns the **Ruri clan scroll** — the combat techniques looted from
+the compound in Act 1 and sold on, which he has chased rumours of since Act 2.
+The gesture is real and it is also an investment: better technique means better
+crystal, and Kiri is in that room to secure fabrication access. Nobody says the
+second part aloud. Everybody in the room understands it.
+
+**The two records are raised here** (beat 20), because they are the currency. A
+live Kiri bounty on a serving Konoha shinobi is the diplomatic incident;
+withdrawing it is what Konoha wants; fabrication access is what Kiri charges.
+The scroll is the sweetener on top.
+
+**And the scroll is an anticlimax, which is the point.** He opens four hundred
+years of his family and finds he already knows most of it — and that the parts
+he does not know are *worse than what he worked out alone on benches in four
+countries*. Ch24 already stated it outright: every technique he has, invented
+twice, once by people who are all dead and once by him. The scroll confirms it
+in his hands.
+
+There is no secret. There was never going to be a secret. **The inheritance he
+organised a decade around was never the thing that could have saved him — the
+people were** — and they are gone, and there is nobody left to show it to.
+
+Kiri's stated reason for the gift (*this will help him make more crystal*) is
+therefore wrong, and he is the only person in the room who knows it, and he does
+not correct them.
+
+**This is where he finally faces his family's death.** Not at the graves, not at
+the news, not at the extinct entry — here, holding the thing, finding it
+insufficient.
+
+**Tsunade, who has watched the whole of it from four feet away and is the only
+person present who can see what just happened:** *you could use a drink.*
+
 **23. The settlement.**
 He learns the war is over and that **he is not allowed to go home.**
 
@@ -642,17 +678,49 @@ after Dan and Nawaki — caring whether someone she's stopped treating as an
 asset comes back. Do not have her name the feeling. She realises it as he
 walks off, in a paragraph, not a chapter.
 
-**28. The scroll.**
-The Ruri combat techniques, looted from the compound in Act 1, sold on, sitting
-in a collection somewhere. He has chased rumours of it since Act 2 without ever
-being able to act on one.
+**28. The sword.**
 
-**This is the first thing in the entire game he chooses and executes under his own
-power.** Every prior act he was escorted, deployed, extracted, granted, or traded.
-This one is his, and it is what the whole of Part D exists to make possible.
+*(The scroll has moved. It no longer arrives here, bought off a shelf — it comes
+back in Part C as a Kiri reparation, handed across the table at the Mei meeting
+as a gesture of good will that is also a capital investment in the fabrication
+Kiri is about to receive. See beat 22b. What follows is what replaces it.)*
 
-The inheritance arrives at last: off a stranger's shelf, bought with money he
-earned, a decade after the man who was meant to hand it over died.
+**He stops holding himself back, and makes a sword.**
+
+Crystal, whole, his own work, with **RURI** inscribed along the guard.
+
+**The setup is already on the page, in ch21.** On the headland he stood over
+Kubikiribōchō and thought: nobody knew who had made it, nobody had known for two
+hundred years, and whoever it was had taken a piece of steel the size of a door
+plank and sat down with a file and gone round a curve. Then he levered it out of
+the ground, wanted it until his teeth ached, and put it back — *nobody handed it
+to me.*
+
+**The insight, and it is the whole beat:** the making was never lost. People have
+been hunting a metallurgy that does not exist. A sword is legendary for what
+happens *after* it is made — the holders, the deeds, the handing down — so the
+technique everybody is looking for is *have a sword worth telling about and then
+live a life worth telling*. A legend is not forged, it is accrued.
+
+Which also demolishes the Seven Swordsmen tradition rather than joining it. *You
+get it off the last man* is how you inherit a legend. It is not how you start
+one.
+
+**It closes the extinct entry (beat 20).** A clan register three offices from a
+bounty list says the Ruri ended. The last one puts the name on an object built
+to outlast every clerk currently disagreeing about it.
+
+**Governor — this must not break the Part D scaling rule.** It is not a better
+sword and it never hits harder than good steel. It is a sword **only he can
+own**: crystal blades are a novelty for anybody else because they shatter, and
+for him shattering is the delivery mechanism — seeded throughout, broken and
+regrown from its own fragments, which is nine years of his own doctrine pointed
+at a single object and completely useless in any other hands. It cannot be taken
+off him, which is the entire point of the man.
+
+**Open question (author's call):** what he does with the returned scroll —
+archived, taught, published, or buried — is a decision no institution can make
+for him and is the natural companion beat to this one. Not yet decided.
 
 **29. Guren, answered.**
 The last open thread, and she belongs on this road — a chance meeting, not the
