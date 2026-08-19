@@ -298,14 +298,41 @@ Each POV sees differently, and this is free characterisation:
   matches the job the person claims. He prices what he sees without meaning to
   and without ever saying the price aloud.
 
+  **The next rung is objects in use, and from ch31 it is compulsory on every
+  named character.** Not just what a person is wearing — how they are wearing
+  it. Where the kunai pouch sits and how tight; wear on the flap, which tells
+  you actual draw frequency rather than claimed; whether a belt loop has been
+  re-stitched, which means it was torn off once, which means something
+  happened. Gait: heel or ball, whether they roll the foot, whether they are
+  quiet by training or by build, what they favour and how well they hide it.
+  And how the clothes sit on the frame — issued or made, whether the shoulders
+  fit, and above all whether the garment still fits the body inside it. **A
+  coat that no longer fits the man in it is a fact about a body and a fact
+  about a life**, and that is the exact hinge between what Sazare can already
+  do and what he cannot.
+
   **His blind spot is the person inside the objects.** He can tell you a
   garment was turned twice by somebody competent and cannot tell you the
   wearer was frightened while they sat there. He reads rooms professionally
   and people only when he deliberately focuses — which is why he missed what
-  the Sound protectors meant, and why affection aimed at him is invisible to
-  him. **Kakashi's training addresses exactly this** (from ch31): reading
-  ground is a skill he already has; reading people is the one he was never
-  taught and does not know he lacks.
+  the Sound protectors meant (procurement, correctly; purpose, not at all),
+  and why affection aimed at him is invisible to him.
+
+  **Kakashi's training addresses exactly this** (ch31) and it works by
+  teaching to strength rather than asking for a personality transplant. The
+  ladder, one rung at a time: **object → object in use → habit → intention →
+  feeling.** He is already fluent at the first rung and can be walked up the
+  rest. Do not let him skip to the top.
+
+  **The absence to correct in ch32: he has never complimented anybody.** Not
+  once in the whole book. He assesses constantly and appreciates never, and
+  the only time an assessment leaves his mouth is when something is *wrong* —
+  a bad solder join, a sill that falls outward, a wall that will fail in six
+  seconds — because a fault is useful and therefore sayable. Telling somebody
+  a thing is good has no function he recognises, so he has never done it. The
+  emotional arc is not "learn to feel"; it is **learn that regard is not the
+  same as assessment**, and that an observation can be given as a gift with no
+  price attached to it.
 - **Jirō** reads people and rooms: posture, hands, what somebody is not saying,
   where the exits are, who in a room is frightened.
 - **Guren** reads material and speed — how fast a thing was made, whether it was
