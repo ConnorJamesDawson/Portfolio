@@ -1,7 +1,7 @@
 # Chapter 30, Scene 3 — The Pile Behind the Shed
 
 *Act 4, part C. The Hokage's office. Sazare Ruri, age sixteen. POV:
-Sazare. ~1,781 words.*
+Sazare. ~3,053 words.*
 
 ---
 
@@ -25,10 +25,42 @@ brass balance, borrowed, with the case open beside it.
 The pen stand had two pens in it and neither of them was broken.
 
 Behind the desk, with her sleeves shoved back to the elbow and her
-forearms on the paper, was a woman in her fifties who did not look it,
-with her hair in two loose tails over her shoulders and a violet mark
-on her forehead and an expression of total, undivided, faintly hostile
-concentration.
+forearms flat on the paper, was a woman in her fifties who did not look
+it.
+
+Sazare catalogued her the way he catalogued everything, before he had
+decided to and without any capacity to stop.
+
+The hair was pale gold and in two loose tails over the shoulders and
+had been put up and taken down again at least once that morning — there
+was a crease in it where a pin had been. The eyes were brown and moved
+faster than the rest of her. There was a violet mark on the forehead
+about the size of a thumbnail, and a line between the brows that had
+been put there by reading rather than by temper, and the skin around
+the eyes had the particular dryness of somebody who had not slept
+properly for a long time and had stopped treating it as a problem to be
+solved.
+
+The haori was good and had been good for a long time. Grey-green silk,
+lined, and the lining had been replaced — he could see it at the cuff,
+a slightly different weight of cloth turned under and stitched with a
+running hem by somebody with small neat competent hands who was not a
+tailor. There was a scorch the size of a coin near the left hip,
+brushed and left. The kimono under it was plain and had been washed
+until the dye had gone flat in the folds.
+
+The hands were the thing.
+
+They were immaculate. Nails cut to the quick and filed square, no
+rings, no varnish, the skin of the fingers dry and slightly rough from
+being scrubbed several times a day for thirty years. There was a
+callus on the outside edge of the right index finger, low down, in the
+place a pen puts one — and a second on the inside of the same hand,
+across the top of the palm, which no pen puts anywhere and which he
+had seen exactly twice before in his life, both times on men who
+worked with a hammer.
+
+Then he saw the necklace and everything else stopped.
 
 She did not look up.
 
@@ -62,6 +94,127 @@ watched happen with a sensation he had no name for and did not have
 time to examine.
 
 "Good," she said. "Next."
+
+---
+
+He got four more questions in before she caught him looking.
+
+It was not deliberate and he could not afterwards reconstruct how long
+it had been going on, because the necklace had taken hold of the part
+of him that had been trained before he could read and had never once
+been successfully switched off.
+
+*The stone is not cut.*
+
+That was the first thing and it was, professionally speaking, absurd.
+It was a pale green-blue crystal about the size of the end of his
+thumb, and it had not been faceted, or cabbed, or even properly
+polished — it had been taken more or less as it came out of the ground
+and mounted. Nobody did that. A stone of that size and that water went
+to a cutter, always, because cutting it was the difference between a
+curiosity and money, and any workshop in four countries would have put
+eleven facets on it inside a week and sold it for a house.
+
+Which meant nobody had ever intended to sell it. Which meant it had
+never been bought.
+
+*The mount is wrong for the stone and right for the era.* Plain, heavy,
+a simple closed bezel in a yellow gold too soft for daily wear, made by
+somebody good, at least eighty years ago and probably more, in a style
+Sazare had only seen in his mother's pattern books under a heading
+about work that had stopped being fashionable before the villages were
+founded.
+
+*It has been repaired twice, by two different hands, decades apart.*
+The first repair was excellent: a new bail, cleanly done, the join
+polished out so well that he could only see it because the gold from
+the two periods had aged to fractionally different colours. The second
+was not excellent. It was a re-solder at the base of the bezel, done
+hot, done fast, with a bead of excess left in the angle that nobody had
+cleaned off — the work of somebody who needed it back on within the
+hour and did not care what it looked like.
+
+*The cord is not jewellery at all.* Ordinary braided cord, the sort a
+person buys by the arm's length in any market for tying a parcel,
+knotted at the back by hand rather than fitted with a clasp. It had
+been replaced recently; the ends were still sharp where they had been
+cut. A woman who could have had a chain made of anything she liked, in
+a village with nine goldsmiths in it, was wearing four ryō of parcel
+string she had tied herself.
+
+And on the face of the stone, off-centre, on the lower left, there was
+a patch about the width of a thumb where the natural surface had gone
+smooth and slightly cloudy in a way no polisher had ever produced,
+because it had been rubbed. Not once. Not by accident. By the same
+thumb, in the same place, over and over, for a very long time, by
+somebody who did it without knowing she was doing it.
+
+"Are you going to keep doing that," Tsunade said, without looking up,
+"or shall I turn round so you can get a proper look."
+
+Sazare, who had been raised by a woman who had beaten professional
+courtesy into him before he was eight, answered the question that had
+been asked.
+
+"The second repair was done in a hurry," he said. "There's solder left
+in the angle at the base of the bezel. It'll be catching on your
+clothes."
+
+Tsunade's pen stopped.
+
+She looked up, and for a moment her whole face did something
+complicated and fast that Sazare could not read at all, because faces
+were not a thing he had ever learned to read and he had spent the last
+minute and a half proving it.
+
+"That's not where people look," she said.
+
+"I'm sorry. Should I not have—"
+
+"No, you idiot, I mean that is *not where people look*." She sat back
+an inch. "Thirty years. Kage, Council, foreign delegations, a
+gambling hall in every town between here and the coast. Every single
+one of them looks at one of two things and I could not tell you which
+is more tedious, and *you* have spent ninety seconds staring at a
+solder join."
+
+"It's a bad join."
+
+"It's a *terrible* join," Tsunade said. "A field medic did it in the
+Second War with an instrument torch and about four minutes, because I
+wanted it back on before we moved out and I wasn't prepared to discuss
+it. Everyone since has offered to have it made good and I've said no
+to every one of them."
+
+"Because the mount would have to come off the stone."
+
+She stopped again.
+
+"Yes," she said, more slowly. "Because the mount would have to come off
+the stone. That's exactly what the last man told me and it took him
+about an hour to get there."
+
+She picked the pen back up.
+
+"Ruri."
+
+"Yes?"
+
+"Your file says jeweller's workshop. It says it in one line, under
+*background*, between the date of your mother's death and the name of a
+district that doesn't exist any more, and I read it four times this
+morning and it did not once occur to me that it meant anything." She
+found her place on the sheet again. "That's my error and I'd rather
+have it out loud than carry it round for a month."
+
+Sazare had no idea what to do with that, and so did the only thing he
+had ever been able to do with anything, which was to answer the
+technical part.
+
+"It's a good stone," he said. "I've never seen one like it. I don't
+know what it is."
+
+"Neither does anybody else," said Tsunade. "Next."
 
 ---
 

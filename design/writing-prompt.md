@@ -285,6 +285,27 @@ Each POV sees differently, and this is free characterisation:
   whom. He sees repairs, tool marks, what has been bodged, what has been loved.
   His measuring habit stays — it is his voice — but it must not *replace* the
   picture.
+
+  **This lens applies to people, and the failure to apply it is a recurring
+  defect.** (Diagnosed by the author after ch30: Tsunade sat four feet from a
+  jeweller's son for an hour and the reader got hair, a forehead mark, and
+  nothing else — while the room got two unbroken pens and a borrowed balance.)
+  A person, to Sazare, is a set of made objects being worn and used: garments
+  and their cut, their condition, whether they have been altered or turned or
+  mended and by whose hand; boots and where they have worn through; jewellery,
+  which is his actual trade and which he cannot *not* assess; and hands, always
+  hands, including what work has done to them and whether the callus pattern
+  matches the job the person claims. He prices what he sees without meaning to
+  and without ever saying the price aloud.
+
+  **His blind spot is the person inside the objects.** He can tell you a
+  garment was turned twice by somebody competent and cannot tell you the
+  wearer was frightened while they sat there. He reads rooms professionally
+  and people only when he deliberately focuses — which is why he missed what
+  the Sound protectors meant, and why affection aimed at him is invisible to
+  him. **Kakashi's training addresses exactly this** (from ch31): reading
+  ground is a skill he already has; reading people is the one he was never
+  taught and does not know he lacks.
 - **Jirō** reads people and rooms: posture, hands, what somebody is not saying,
   where the exits are, who in a room is frightened.
 - **Guren** reads material and speed — how fast a thing was made, whether it was
