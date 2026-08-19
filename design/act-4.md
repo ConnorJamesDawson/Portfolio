@@ -639,10 +639,39 @@ He survives the news — which works only because he stopped wanting revenge fir
 The past arrives in full and it is aimed at a person he is no longer. He has
 shifts in the morning.
 
-But the shape of his life is now fixed by treaty. He is a productive asset of two
-governments, permanently, and everyone in the room agreed to it without him.
+**The ceiling is not ownership. Do not write it that way.** The old framing —
+*permanent asset of two governments, trapped by treaty* — no longer holds and
+should not be reached for. By this point the bounty is withdrawn, the charge is
+vacated, travel is a **production question rather than a permission question**
+(build a surplus against the fabrication schedule and go — he walks out of that
+conversation with a number, not a wall), and he has a floor full of people who
+noticed when he stopped going to his bench.
 
-**This is the lowest point of the act and the player should feel the ceiling.**
+**Do not re-run the four-ledgers rhyme here.** It has been hit in ch27, ch33 and
+ch34 and running it again is not merely repetitive, it is *regressive* — ch35
+established the counter-evidence. Replace it with its opposite: a scene in which
+nobody attaches an output to him and he notices that he has stopped auditing for
+one.
+
+**The actual ceiling is smaller, worse, and has no villain in it: the life works
+and it is not the one he wanted.** He said it out loud drunk in ch34 — *I never
+wanted to be a shinobi, not one day; I was going to have my mother's bench* — and
+he now has a ward, a classification, a four-year contract and eleven people who
+would defend him, and all of it is good, and none of it is the thing. There is
+no clause to renegotiate and nobody to be angry at.
+
+**This is the lowest point of the act**, and it is the ordinary adult discovery
+that you can get everything working and still not have what you wanted.
+
+**It is also what Part D grows out of**, because the sword (beat 28) reconciles
+the two halves: a shinobi's weapon made by a jeweller, with the family name on
+the guard.
+
+**On going back:** there is nothing to reclaim — he already knows the compound is
+gone and ward eleven is a harbour-works materials yard on a deferred phase three.
+The only reason to return is to pay respects, and the live question is whether
+anything survives to stand in front of, given an unmarked grave in a district
+that was cleared. That is a query somebody has to send and wait on.
 
 ---
 
