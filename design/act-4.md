@@ -472,12 +472,31 @@ for a reason:
 - Nothing he did appears anywhere in the account. The money arrived, was spent,
   and is indistinguishable from all the other money.
 
-**20. The ledger.**
+**20. The ledger — two records that disagree.**
 Reparations require lists. Somewhere in the new administration's records the Ruri
-are entered as **extinct**, and the entry is correct.
+are entered as **extinct** — compiled from the district roll, and the district
+roll ends where the district ended.
 
-Bookends the Act 1 inventory: same instrument, same clerks, closing the file it
-opened.
+**And the entry is wrong, and Kiri's own files prove it.** The bingo book has
+carried his name, clan, technique, face and a price since Act 1 (see ch21), and
+the amnesty will have propagated an update: *Sazare Ruri, Crystal Release, now
+Konoha-affiliated.* Same government, different office, both current, neither
+reconciled — because reconciling them would require somebody to work out that
+the man they are hunting is the man whose extinction they are compensating.
+
+**He is the only person alive holding both documents at once**, and he cannot
+correct either of them without being, administratively, a different person than
+whichever office he is standing in front of.
+
+Bookends the Act 1 inventory: same instrument, same species of clerk, and a file
+that does not close so much as split in two.
+
+**This is the engine for beats 21–23.** The pardon must resolve a contradiction
+rather than merely clear a charge. And the settlement becomes a real
+negotiation with a real currency: **a live Kiri bounty on a serving Konoha
+shinobi is the diplomatic incident**, so withdrawing it is what Konoha wants and
+access to his fabrication is what Kiri charges for it. The Act 1 bargain closing
+for the fourth time now has a mechanism instead of an assertion.
 
 **21. The pardon.**
 A clerk in the new Kiri administration finds his file, confirms the cover, stamps
