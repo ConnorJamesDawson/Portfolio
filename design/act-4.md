@@ -510,8 +510,35 @@ Called before the Hokage. Kiri–Konoha normalisation talks: a senior delegation
 
 He is not a subject of the meeting. **He is item four**, discussed in the third
 person while he stands there — the woman he glimpsed as a child, whose war he
-funded for five years from three countries away, who has no idea and is not going
-to find out.
+funded for **thirty-one months** from three countries away (ch17 and ch33: a
+tenth of everything, ~420,000 ryō, ~1% of aggregate).
+
+**She does not know it was him, and she cannot — but she is not oblivious, and
+writing her that way wastes her.** Separate the two:
+
+- **Attribution is structurally impossible.** Contributions were pooled at the
+  second transfer point as a matter of operational security. No attribution by
+  source exists at any level (established in ch33). That holds.
+- **The category she knows cold.** She ran that war. She knows exile money moved
+  through mainland chains, she knows what the purges did to the families of the
+  people who got out, and by now she has met a great many survivors.
+
+**So she addresses him.** Briefly, on the record, as Kiri: *there is not an
+apology that heals that wound; we hope the new administration is not tainted by
+the old one.*
+
+**And it is a formula.** Entirely sincere and said before, to other people, many
+times, because that is what a reconciliation administration does. He is one of
+several hundred. She says it in the same meeting in which her government is
+trading a bounty withdrawal for access to his fabrication, and both of those are
+genuine at once.
+
+**The beat this sets up:** he has the sentence — *I sent a tenth of everything
+for thirty-one months* — and he does not say it. Saying it would be asking for
+something, and attribution was the single thing the whole design existed to
+prevent. He is standing in front of the one person on earth whose knowing would
+mean anything, and his own system is working exactly as built. Pays off ch33's
+*I want somebody to know.*
 
 *Canon liberty: an in-person Kage-to-Kage meeting outside the Five Kage Summit
 isn't something the series depicts. The safer version is a senior delegation with
