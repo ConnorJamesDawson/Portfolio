@@ -598,6 +598,42 @@ quota, and a diplomatic clause. His whole life is people writing down what he is
 worth, and this is the one where two governments do it jointly with him in the
 room.
 
+**23b. The claim, and the wall.**
+
+**The mechanical unlock.** In ch33 he refused to file the reparations claim for
+one stated reason: *if I put my name on that form the only thing that changes is
+that they'll know where I am.* The settlement destroys that objection — Kiri
+knows exactly where he is, the retrieval order is withdrawn by treaty, and his
+location has stopped being information. Nothing is stopping him now, so filing
+becomes a choice with no cover behind it.
+
+**The weight is buried in the paperwork, which is the point.** The Kiri register
+carries the family as *Cl. ext.* To claim, somebody has to enter *surviving
+claimant* against a clan that four years of records agree ended. It is a probate
+form and it is simultaneously the only correction of that entry that will ever
+exist, and his own name goes in the box.
+
+**He cannot do it alone and does not know that.** He classifies it as a process
+problem and goes to find the correct person for a process problem — which is the
+category error the scene runs on.
+
+**Emiko triages him.** Her established skill since ch25 is knowing which work
+requires a medic and which does not; she applies it to a boy asking about
+foreign probate in a corridor and identifies in about nine seconds that the
+paperwork is not the presenting complaint. She has **no emotional stake in
+him**, which is why she is the right first contact — the reader sees the distress
+from outside, without sentiment, before he can name it himself. Then she does
+what a charge nurse does with anything above her line: she escalates, and gets
+Yagi.
+
+**This is the slow start of the wall coming down.** Not a collapse. The first
+time in the book he has needed something from people who are standing right
+there, in daylight, at work, in front of colleagues who have known him two years
+and have never once seen it.
+
+**Placement:** the private crack is Tsunade's drink at the end of beat 22b. This
+is the public one, and it comes after.
+
 **24. The floor.**
 He survives the news — which works only because he stopped wanting revenge first.
 The past arrives in full and it is aimed at a person he is no longer. He has
