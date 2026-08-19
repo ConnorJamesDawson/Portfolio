@@ -455,10 +455,41 @@ independent tracks, neither one performing the other:
   Wave, ch21). Investing in Sakura is not displacement so much as the safe,
   sanctioned version of the same instinct. Don't spell this out in prose; let
   the parallel sit unremarked, the way ch21 already left it.
-- **Do not resolve this in Act 4.** He's sixteen and has never so much as kissed
-  anyone; she's the sitting Hokage with an obvious institutional conflict
-  neither of them would want named. The 2.5-year timeskip does the actual work.
-  Part C should end with the pull real and unexamined on both sides.
+- **Unresolved, but no longer unexamined — revised from ch37.** The earlier note
+  said the pull should stay "real and unexamined on both sides" through Part C.
+  That is no longer what we are writing, and the distinction matters:
+
+  **Nothing is named, nobody acts, and the examination is of *him*, not of
+  them.** The gift problem (his actual trade) forces him to think about her as a
+  person to be adorned, which is one step from a thing he has never done, and he
+  walks into it without seeing it coming. Tsunade asks him directly — bluntly,
+  having counted where people look for thirty years — and the discovery is a
+  **deficit, not a virtue**: he has never run that assessment on anybody, has
+  only just learned other people run it constantly, and does not know whether
+  that is damage or lateness. He then tries to run it deliberately, as a
+  technical exercise, fails, and finds that distressing rather than funny.
+
+  Her one useful answer, same register as *the inheritance is a thing you
+  carry*: it is not damage, nothing in his life has ever been slow or safe
+  enough for it, and it arrives when it arrives and pushing it produces nothing.
+
+  **Still no resolution in Act 4.** He is nineteen and has never kissed anybody;
+  she is the sitting Hokage with an institutional conflict neither would want
+  named. The timeskip still does the actual work.
+
+- **Description rule for her, and it is load-bearing.** Her build and how she
+  carries it must be on the page, fully, per `writing-prompt.md` — the gap so
+  far is a defect, not a choice. It closes **in his register**: he estimates
+  mass reflexively because he lifts patients, and reads how a garment hangs
+  because a garment hangs off a frame. Tailor and medic, complete and precise,
+  with no charge on it. Describing a body fully and having nothing happen is a
+  far louder statement than leaving it undescribed, and it is what makes the
+  ch37 discovery land.
+
+  **Keep desire out of the narration entirely.** Every sexual reading in this
+  thread comes from *other people's* assumptions — ward gossip, Anko, whoever
+  teases him — and from his own bewilderment at his own absence. Never from the
+  prose itself.
 
 **19. The news.**
 Through intelligence summaries read out by a clerk with no idea he is in the room
