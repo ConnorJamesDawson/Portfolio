@@ -718,9 +718,17 @@ regrown from its own fragments, which is nine years of his own doctrine pointed
 at a single object and completely useless in any other hands. It cannot be taken
 off him, which is the entire point of the man.
 
-**Open question (author's call):** what he does with the returned scroll —
-archived, taught, published, or buried — is a decision no institution can make
-for him and is the natural companion beat to this one. Not yet decided.
+**Deliberately undecided — do not resolve this in advance.** What he does with
+the returned scroll — archived, taught, published, or buried — is a decision no
+institution can make for him, and it is also the *measure* of who he has become
+by the time he makes it. Settling it now would mean fixing the character first
+and writing him toward it, which is the one thing this book has not done.
+
+The order is emotional, then physical. Part C is the emotional work (the
+compliment problem, the Kiri grief, the scroll turning out to be a headstone);
+Part D is the craft assertion (the sword, the name on the guard). The scroll
+question sits between them and should be answered by the man who arrives at it,
+not by this document.
 
 **29. Guren, answered.**
 The last open thread, and she belongs on this road — a chance meeting, not the
