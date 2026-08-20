@@ -36,7 +36,7 @@ He had given up the revenge on a shingle spit in the Land of Waves at
 sixteen years old, in the fog, with the sea going out through the
 stones, in an argument he had lost to a boy who was dead four hours
 later. He had put it down deliberately and completely and had not
-picked it up again, not once, not in nineteen months of a village that
+picked it up again, not once, not in fourteen months of a village that
 would have given him a hundred quiet opportunities to.
 
 He had stopped wanting it because he had worked out that wanting it was
@@ -46,7 +46,7 @@ Not because it was aimed at the wrong man.
 
 *I did the right thing for reasons that turn out to be beside the
 point,* he thought, sitting in the dark in his coat, *and now the
-reasons have arrived, eighteen months late, and there is nothing for
+reasons have arrived, fifteen months late, and there is nothing for
 them to do.*
 
 *If I had found this out at fourteen it would have broken me open.*
@@ -134,7 +134,7 @@ instrument he had:
 *I have checked this four ways. It is not numbness — I felt the ward
 eleven entry, and I felt it in my hands. It is not disbelief. It is
 that the part of me that wanted this was dismantled deliberately on a
-beach eighteen months ago and I did the dismantling myself, and I did
+beach fifteen months ago and I did the dismantling myself, and I did
 it well, and there is nothing left in there to receive the news.*
 
 *I am glad. I know that I am glad the way I know the persimmon is
@@ -155,7 +155,7 @@ Ninety-one clippings, in date order, which meant Ashida had gone back
 and sorted them at some point rather than simply adding to the top.
 
 The first was four lines from the Fire Daily's foreign column,
-eighteen months old, about a fishing dispute.
+ten months old, about a fishing dispute.
 
 The eleventh had been cut out badly, with the scissors going into the
 text of the column beside it, and there was a thumbprint on the corner
@@ -183,7 +183,7 @@ It was not the repeal that did it, in the end, and it was not the
 Mizukage or the ward number or the man with no face.
 
 It was that a woman he had met twice, in a village he had lived in for
-nineteen months, had read a shipping page over her husband's shoulder
+fourteen months, had read a shipping page over her husband's shoulder
 at some point in the previous year and had recognised, correctly, that
 eleven lines under an advertisement were the most important thing that
 had happened to a boy neither of them was related to.

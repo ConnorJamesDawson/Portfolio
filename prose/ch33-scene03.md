@@ -213,9 +213,9 @@ requirement. Yours went up in the fourth month because somebody in
 personnel flagged that there was a Water-origin shinobi on the
 establishment and there was no current digest he could be briefed off."
 
-"So you've been keeping a file on my country for eighteen months."
+"So you've been keeping a file on my country for ten months."
 
-"For eighteen months," Hazama agreed, "in case you ever asked."
+"For ten months," Hazama agreed, "in case you ever asked."
 
 She put the glasses back on.
 

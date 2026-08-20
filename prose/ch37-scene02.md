@@ -24,7 +24,7 @@ He got four evenings into designing a marking gauge before he sat back
 and understood that he had already done it — that there was a bench
 hook in a lean-to three streets off the south-east gate with four
 inches of crystal along the stop and nine evenings of the Land of Waves
-larch in it, and that he had made it eighteen months before he had
+larch in it, and that he had made it eight months before he had
 ever heard of chapter four.
 
 He went back to the book to see what it said about that.

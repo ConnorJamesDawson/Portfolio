@@ -20,10 +20,11 @@ query."
 
 "Yes."
 
-"It's still open. I've kept it open. I put a note on it in the winter
-saying *hold at claimant's request, do not close*, because there's a
-clerk in this section who closes things on a six-month rule and I did
-not want you coming back in a year to find it gone."
+"It's still open. I've kept it open. I put a note on it the same
+afternoon you left saying *hold at claimant's request, do not close*,
+because there's a clerk in this section who closes things on a
+six-month rule and he does it in bulk without reading, and I did not
+want you coming back in half a year to find it gone."
 
 Sazare stood in front of the desk with his hands at his sides.
 
@@ -49,7 +50,7 @@ is absurd — and appealable. Claimant field blank. Status *Cl. ext.*"
 "You said if you put your name on the form the only thing that changed
 was that they'd know where you were." She said it back verbatim,
 without looking at the note, and Sazare registered that she had
-remembered it for eleven months. "Which was correct, and which I
+remembered it word for word. "Which was correct, and which I
 thought at the time was the single most reasonable thing anybody had
 said to me across this desk."
 

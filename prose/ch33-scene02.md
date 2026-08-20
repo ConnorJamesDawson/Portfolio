@@ -51,7 +51,7 @@ near one and both of those tell me something." Ibiki did not smile.
 
 "It has."
 
-"That's eighteen months."
+"That's ten months."
 
 "It is."
 
@@ -175,7 +175,7 @@ open your mouth in that room at least once before you walk out of it."
 
 "Why?"
 
-"Because in nineteen months this village has built an entire model of
+"Because in fourteen months this village has built an entire model of
 you out of the things you didn't say," said Ibiki, "and I have just
 spent a quarter of an hour explaining to you what that cost, and I
 would rather not do it again in another nineteen."

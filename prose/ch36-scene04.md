@@ -39,7 +39,7 @@ something."
 
 "You said bring something."
 
-"That was eleven months ago and I'd given up." Handa put the
+"That was six months ago and I'd given up." Handa put the
 spokeshave down. "Let's see it, then."
 
 ---
@@ -179,11 +179,11 @@ thing that happened on Sundays.
 Handa never once asked about the hospital, the treaty, the crystal, the
 scroll, the Mizukage, or the box on the shelf. He asked whether the
 fillet had gone off properly. He asked, eleven weeks later, whether
-Sazare had ever cut a dovetail, and made a face when told no, and spent
-the following four months on it.
+Sazare had ever cut a dovetail, and made a face when told no, and had
+not finished with him on the subject by the turn of the year.
 
-And he did not, on any occasion, in eleven months, ask what was going
-to go in the frame.
+And he did not, on any Sunday of all the Sundays that followed, ask
+what was going to go in the frame.
 
 Sazare noticed that too, eventually, and understood it correctly, and
 never mentioned it either.

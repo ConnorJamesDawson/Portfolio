@@ -26,7 +26,7 @@ either of them agreeing to it, a thing that happened.
 Ashida was a father twice over by then. The second had arrived in the
 winter and had taken about four stone off his sleep and put most of it
 back on his face, and he had the specific grey around the eyes that
-Sazare had spent eighteen months learning to recognise on a ward. His
+Sazare had spent fourteen months learning to recognise on a ward. His
 flak jacket was done up wrong — one buckle across from the correct
 loop — and had been since at least the previous week.
 
@@ -57,7 +57,7 @@ Ashida did not say anything at all.
 That was the first thing that was wrong, because Ashida always said
 something — he was a man who filled silences the way water fills a
 hull, reflexively and without any particular intent, and Sazare had
-never in twenty months seen him take longer than about a second to
+never in fourteen months seen him take longer than about a second to
 produce a sentence.
 
 He took eleven.
@@ -193,9 +193,9 @@ He had no procedure for this.
 
 He fell back, as he always did, on the true thing.
 
-"You kept them for twenty months," he said. "Nobody asked you to. You
+"You kept them for ten months," he said. "Nobody asked you to. You
 did it on a Tuesday without thinking about it and then you kept doing
-it for twenty months, and you did it for somebody who never once gave
+it for ten months, and you did it for somebody who never once gave
 you a single sign that he wanted it."
 
 "That's — I mean, it's a rubber band and some scissors—"

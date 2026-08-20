@@ -49,7 +49,7 @@ both cases the thing they cost me was the same thing: the other person
 now knows what I want.*
 
 *Ōtaki Sue knows I have thought something admiring about her twice a
-week for eighteen months.*
+week for twelve months.*
 
 *Handa knows he was one of four.*
 
@@ -80,7 +80,7 @@ calibrate against, and he found that he minded less than he had
 expected to, and that what he actually minded was something else
 entirely, which took him another twenty minutes to locate.
 
-*I have been in this village for nineteen months.*
+*I have been in this village for twelve months.*
 
 *I have made, by my own count: one friend I chose (Handa, and he
 chose me first and had to force the last four feet of it), one I
@@ -168,7 +168,7 @@ Sazare read the tab.
 
 He did not read anything else, because it was not his and because
 reading it would have been a thing he could be asked about later, and
-he had been very careful for nineteen months about the difference
+he had been very careful for twelve months about the difference
 between what was in front of him and what was his.
 
 The clerk came back with the requisition.

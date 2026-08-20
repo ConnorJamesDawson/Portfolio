@@ -20,7 +20,7 @@ it was angled to throw the light back onto the table.
 
 She was seventy-two now. The wrapper was the same grey cotton, worn
 white at the elbows, and she had a second one exactly like it that she
-alternated, and Sazare had established over eighteen months that both
+alternated, and Sazare had established over twelve months that both
 had been made from the same bolt at the same time by the same person
 and that the person had been her.
 
@@ -173,7 +173,7 @@ Sazare read it twice.
 He had come down those stairs ninety times. He had mended her window
 catch four times because she opened it with her foot. He had mended the
 stair nosing and the mangle and the kettle handle and had never once,
-in eighteen months, written her a single word that was not either
+in twelve months, written her a single word that was not either
 practical or a joke.
 
 He took the chalk.

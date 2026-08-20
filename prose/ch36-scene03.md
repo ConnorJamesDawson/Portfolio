@@ -8,7 +8,7 @@ seventeen. POV: Sazare. ~1,104 words.*
 Hazama remembered him.
 
 He had not expected her to. She had read to him for two hours and
-eleven minutes in a room with a broken radiator eighteen months
+eleven minutes in a room with a broken radiator four months
 earlier and had filled two glasses of water and drunk neither, and he
 had assumed — reasonably, he thought — that he was one of about four
 hundred people she had read to.
@@ -25,7 +25,7 @@ afternoon. It came back nine weeks later with nothing in it and I never
 told you, because there was nothing to tell you, and because I have
 learned over about twenty years that *I asked and there was nothing*
 lands worse on people than silence does." She squared the page. "I have
-been fairly sure that was the wrong call for eighteen months. Sit
+been fairly sure that was the wrong call for four months. Sit
 down."
 
 ---

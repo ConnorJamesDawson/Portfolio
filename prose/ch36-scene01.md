@@ -108,12 +108,12 @@ predict and which is going to annoy me for a week."
 "I'm interested in the crate."
 
 "Everybody is interested in the crate, it is a *very good crate*, that
-is not the point." She put the pen down. "Ruri. Three years ago I
+is not the point." She put the pen down. "Ruri. A year ago I
 weighed nineteen grains of your work on that balance and entered them
 at four-tenths of a gram apiece. Today I have consigned four kilos of
 it to a foreign government under a treaty. If there is a version of you
 that has an objection to that, I would rather it came out in this yard
-than in eleven months."
+than in a year."
 
 ---
 
