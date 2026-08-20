@@ -50,6 +50,8 @@ dated off it.
 | 39 | month 1. Ashida's birthday 19/1; the party after |
 | 40 | months 2 → 3. Urushibara dies 4/2 |
 | 41 | months 3 → 4. Tsunade's birthday given as 2/8 — five months out, deliberately not acted on |
+| 42 | month 4. About three weeks. Sakura, the marking scheme, the governor |
+| 43 | months 4 → 5. About three weeks. Board on the 9th, Ibiki on the 14th, notice goes up the following Monday |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
 Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
@@ -153,7 +155,11 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | The governor | ch42 | Ceiling as deepest course; every fragment inherits it; costs 31%. Signed into Kanzaki's ledger in his own hand. **Unwitting sword design.** The stray clause — *including if somebody takes it off my body* — left in the notebook as an open query. |
 | The east stair | ch42 | Sakura's, unresolved. She has not used the short stair in eighteen months and has not told Ino. |
 | Kakashi / physical training | ch28, ch42 | **Restarted after 15 months.** 51 seconds; genin 34; honest ceiling offered unasked at 41. Weekly. The diagnosis: he has never given up a position on purpose. |
-| Kabuto approach | ch38+ | Letter received and reported (ch38 sc6). Reply written, **not sent** (ch41 sc6) — retained in the drawer, no receipt slip filed for it. "Not this Thursday" — he could not write "not ever." |
+| Kabuto approach | ch38+ | Letter received and reported (ch38 sc6). Reply written, **not sent** (ch41 sc6). Drawer disclosed to Ibiki unprompted (ch43 sc2) and slipped, six weeks late. **Controlled correspondence agreed:** three exchanges over ~9 months, first two true and unaltered. The fee — it will help him — stated in advance and accepted in writing. First letter goes 2nd Thursday of month 5. |
+| Kurihara Saeko | ch43 | 20. Urushibara's student six years, **left two years ago**, was not at the funeral, found out off a form. Certifying the stones. Better at sealwork than him and says so. Holds the lacquered pin — thirty years too old for her, unexplained. He has the last winter and has decided not to offer it. |
+| Urushibara — did he know | ch40, ch43 | Moved 8-in-10 → **9-in-10** on Kurihara's evidence (he only ever reordered a sequence to compress a syllabus). Deliberately held at one item of evidence. |
+| The paper leak | ch43 | Marking approved **with public notice** — Tsunade's ruling. Notice signed by her, up Monday of month 5. Anything surviving the notice is by definition the serious version. |
+| Ōkubo Hidetsugu | ch43 | 56, general surgery, 11 yrs. Left hand has a tremor with ~4 years in it. Volunteered as practitioner one. Wants a room where somebody is allowed to tell him he is wrong. |
 | Tsunade's birthday | ch41 | 2/8. Given freely. He deliberately opened **no** design file — five months' notice refused on the grounds that a date is a deadline, not a requirement. Chapter four still unpaid. |
 | The material-participates study | ch41 | Six practitioners, half silent. Tsunade will sign it if he gets the answer. Review board of eleven. 4–9 months. **ch42: Sakura volunteers for the silent half; routed via Yagi, not Tsunade, so it stays hers.** Deliberately unresolved past the timeskip. |
 | The sentence he may not write | ch41 | "Outcome is partly the patient's will." Tsunade stopped it out loud. He formed it unprompted — the hypothesis-throwing failure mode, live and demonstrated. |
