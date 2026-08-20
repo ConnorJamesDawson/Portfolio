@@ -97,7 +97,7 @@ Sazare wrote *Kiyomi, 23rd/11, four* and *Tarou, 6th/1, one* and
 
 "And yours."
 
-"Nineteenth of the ninth."
+"Nineteenth of the first."
 
 "That's in three weeks."
 

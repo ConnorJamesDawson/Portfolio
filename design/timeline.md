@@ -38,6 +38,25 @@ reads as elegance and costs a quarter of the act.
 | Konoha gate | 16y1m | ch22 |
 | Konoha Crush | 16y7m | ch24–27 |
 
+### Calendar months — use these, do not invent
+
+His birthday is **month 11, day 8** (world-bible). Everything in Act 4 Part D is
+dated off it.
+
+| Chapter | Calendar |
+|---|---|
+| 37 | months 9 → 12. Birthday (8/11) falls inside; he learns of it five weeks late, in month 12 |
+| 38 | month 12 → month 1 |
+| 39 | month 1. Ashida's birthday 19/1; the party after |
+
+Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
+Handa 2/3 · Emiko 12/10 · Kanzaki 30/6.
+
+**Corrected once already:** the prose twice wrote his birthday as "the eleventh
+of last month" against a world-bible date of day 8, and ch37–38 were sitting in
+months 8–10 where the arithmetic could not close. Ashida's birthday was also set
+three weeks out and then skipped past off-page.
+
 **The trap:** "nine years" is correct for the *trade and the knee* (both start at
 ~7) and wrong for *the family*, who were alive until 13y6m. Loss is measured in
 **four years**, not nine. One line in ch35 was written wrong on this and has been

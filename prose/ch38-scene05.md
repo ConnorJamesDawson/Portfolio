@@ -70,7 +70,7 @@ and it means a different thing depending on the hour and the room and
 what has just been said and what the two of you were doing last week,
 and everybody else appears to conjugate it without thinking.*
 
-*I have watched Emiko do it. She did it to me in the eighth month over
+*I have watched Emiko do it. She did it to me in the tenth month over
 a brass hook and it meant approximately nine things at once and I have
 still not finished unpacking it.*
 
@@ -140,7 +140,7 @@ of knowing her, absolutely nothing to say.
 
 ---
 
-He did not manage it before the ninth month ended.
+He did not manage it before the year ended.
 
 He wrote it up on the last night of it, at the bench, in the flat hand,
 and the entry was four lines long and he did not soften any of it:

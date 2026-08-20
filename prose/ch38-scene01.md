@@ -9,7 +9,7 @@ He had passed her about forty times and had never said one word to her,
 and he could tell you what her sandals were.
 
 That was the whole of it and he arrived at it standing at the top of
-the second-floor stairs on a Tuesday in the ninth month with an
+the second-floor stairs on a Tuesday in the twelfth month with an
 observation board under his arm, watching a girl of fourteen come up
 the flight below him with a covered tray, and he did not move out of
 the way in time and she went past him with the tray held level and said
@@ -55,7 +55,7 @@ He had never spoken to her, and until about ninety seconds ago he had
 not registered that as a thing that required an explanation, and now
 that he had registered it he found that he had an explanation ready and
 that it was four pages long and had been sitting in a notebook since
-the eighth month.
+the tenth month.
 
 *Chapter three. Of Inquiry, and the asking after a person's affairs.*
 

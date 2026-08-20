@@ -5,7 +5,7 @@ eighteen. POV: Sazare. ~1,484 words.*
 
 ---
 
-He asked Ochiai for it in the eighth month, at the desk, out loud, in a
+He asked Ochiai for it in the ninth month, at the desk, out loud, in a
 building with four other people in it.
 
 That was the hard part and it took him three visits. He had come in on

@@ -177,7 +177,7 @@ Yagi's face did something.
 
 "And what's the date?"
 
-"It's already gone," said Sazare. "The eleventh of last month. I only
+"It's already gone," said Sazare. "The eighth of last month. I only
 found out about it three weeks ago and by then it had been and gone,
 which as far as I can establish means the matter is closed."
 

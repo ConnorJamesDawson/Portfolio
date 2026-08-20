@@ -33,7 +33,7 @@ person so this is going badly."
 shelved under domestic economy because the 1961 scheme thinks people go
 with the cookery," said Sazare, in one breath, "and it has six chapters
 and I've done four of them badly and this is chapter four and I've been
-stuck on you since the eighth month."
+stuck on you since the ninth month."
 
 Tsunade looked at him for a moment.
 
@@ -156,7 +156,7 @@ Sazare stopped.
 
 "...Did I?"
 
-"The eleventh of last month. It's on your establishment record, which I
+"The eighth of last month. It's on your establishment record, which I
 read four times a year." Tsunade watched him do the arithmetic and
 arrive at it and looked, for a moment, genuinely sad about something.
 "You didn't know."

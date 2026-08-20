@@ -126,7 +126,7 @@ that, run the thing they were running."
 "On me or on anybody?"
 
 "On anybody. Ever." He made himself say the rest of it. "And I did not
-know that was unusual until about the eighth month of this year, and I
+know that was unusual until about the ninth month of this year, and I
 have spent five weeks working out whether it's damage."
 
 ---

@@ -5,7 +5,7 @@ eighteen. POV: Sazare. ~1,371 words.*
 
 ---
 
-It came up with the internal post on a Wednesday in the tenth month,
+It came up with the internal post on a Wednesday in the first month,
 in the wire tray on the second-floor desk, between a pharmacy
 requisition and a laundry note.
 
