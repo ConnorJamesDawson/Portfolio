@@ -73,14 +73,14 @@ building could have given him in the corridor.
 
 His pen stopped.
 
-He had not written his mother's name in nine years.
+He had not written his mother's name since she died.
 
-He had thought about it constantly and had said it perhaps four times
-out loud and had written it, he was fairly sure, never — not in a
-notebook, not on a form, not once in four countries — and it went onto
-a reparations schedule in a foreign administrative office in the hand
-she had beaten into him before he was eight, and the *e* at the end had
-her tail on it because that was how he had been taught to finish a
+Four years. He had thought about it constantly and had said it perhaps
+four times out loud and had written it, he was fairly sure, never — not
+in a notebook, not on a form, not once in four countries — and it went
+onto a reparations schedule in a foreign administrative office, in the
+hand she had beaten into him before he was eight, and the *e* at the end
+had her tail on it because that was how he had been taught to finish a
 name.
 
 Nobody in the room said anything.

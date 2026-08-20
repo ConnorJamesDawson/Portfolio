@@ -24,6 +24,27 @@ reads as elegance and costs a quarter of the act.
 
 ---
 
+## FIXED AGES — check against these before writing any "X years ago"
+
+| Event | Age | Source |
+|---|---|---|
+| Knee injury (field repair, wire) | ~7y | ch26 — "keep a seven-year-old walking" |
+| Enters the trade / stock lists | ~7y | ch30, ch35 — "before he was eight" |
+| Kohaku's courier runs begin | ~9y | world-bible — the drops |
+| **The execution. Mother (Ruri Kaede) and Kohaku both die.** | **13y6m** | world-bible age ledger, act-1 beats 21–23 |
+| Crossing, Hot Water | 13y6m | act-2 Part A |
+| Leaves Hot Water | 15y8m | age ledger |
+| Sixteenth birthday, month 11 day 8 | 16y0m | ch17 sc1 |
+| Konoha gate | 16y1m | ch22 |
+| Konoha Crush | 16y7m | ch24–27 |
+
+**The trap:** "nine years" is correct for the *trade and the knee* (both start at
+~7) and wrong for *the family*, who were alive until 13y6m. Loss is measured in
+**four years**, not nine. One line in ch35 was written wrong on this and has been
+corrected.
+
+---
+
 ## THE SPINE
 
 The anchor is the **Konoha Crush**, which is also the start of the canonical
