@@ -134,6 +134,7 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | The *gamble* kanji | ch37 | Noticed after two years. Evidence he cannot explain away. |
 | Is it the mechanism or is it her | ch35, ch37 | Twice constructed, twice refused. Unresolved by design. |
 | **Sakura** | — | **NOT YET ON PAGE. See below.** |
+| **Urushibara Gen** | ch28–32 | **DEBT. ch36 flags "until the winter" proleptically; his death is unwritten and is due. He gave the notation, the thirteenth element, the seal on the seal. Cannot die in a subordinate clause.** |
 | Root | ch27, ch34 | Quiet. The quiet is itself the news. |
 | Guren alive | ch27 | Confirmed as of 8 days pre-invasion. Untouched since. **Act 5.** |
 | Kabuto approach | ch38+ | Not yet begun. |
