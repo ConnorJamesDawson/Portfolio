@@ -477,6 +477,49 @@ independent tracks, neither one performing the other:
   she is the sitting Hokage with an institutional conflict neither would want
   named. The timeskip still does the actual work.
 
+- **HER SIDE — the load-bearing frame (added at ch40).** *The bait was the
+  interest. The hook was him.* She came for a medical result that did not
+  descend from her and stayed for the person, and she knows it, and she can date
+  it.
+
+  **Her POV scenes are not confusion. She understands her own position
+  completely.** She knows what she feels, she knows precisely which memory is in
+  the way, and she cannot move — which is far worse to read than bewilderment
+  and far truer to a woman of fifty who has had thirty years to think about it.
+
+  **The space she needs is not the professional boundary.** That ended with the
+  hug and she knows that too. It is her trauma: caring about him is the exact
+  shape of the thing she swore off after Dan and Nawaki, wearing a new face — a
+  man who treats his own body as acceptable experimental cost, who spent himself
+  to nothing on a roof, who had a foreign retrieval order on him until six
+  months ago and a bounty before that.
+
+  **The conundrum that gives her a story of her own:** she is the greatest
+  medic-nin alive and she is running from her own trauma exactly as he is running
+  from his, in different notation, and neither of them can treat it. They are
+  doing the identical avoidance and only one of them has the vocabulary to name
+  it.
+
+  **The permissions she grants are all the same decision.** The hug, and then the
+  nickname. Both are genuinely inappropriate — a subordinate does not address the
+  village leader that way, least of all in front of others — and she permits both
+  on identical reasoning: **correcting him would stunt the growth.** She pays for
+  that, publicly, in standing, and never mentions the cost to him.
+
+- **AND THIS IS WHERE HIS ARC PAYS INTO HERS.** Three years ago he would have
+  seen nothing. He now reads people to intention, and what he starts to see is a
+  **pattern** — where she deflects, the necklace-touch that does not happen, that
+  she never speaks of anybody from before, the shape of her drinking. Patterns
+  produce hypotheses. That is the next step for the relationship and it is his
+  actual competence pointed at a person for the first time.
+
+  **The danger, and it must be on the page:** hypothesis-forming is a *materials*
+  instinct. Treating her as a fault to diagnose would be a violation and he would
+  know it. So he forms the hypothesis, writes it down, and **does not test it** —
+  and this is harder than ch39's not-working-something-out, because now he has a
+  method that would work. He is also **partly right and dangerously wrong**,
+  having no data whatever on Dan or Nawaki.
+
 - **Description rule for her, and it is load-bearing.** Her build and how she
   carries it must be on the page, fully, per `writing-prompt.md` — the gap so
   far is a defect, not a choice. It closes **in his register**: he estimates
