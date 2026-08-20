@@ -48,9 +48,11 @@ dated off it.
 | 37 | months 9 → 12. Birthday (8/11) falls inside; he learns of it five weeks late, in month 12 |
 | 38 | month 12 → month 1 |
 | 39 | month 1. Ashida's birthday 19/1; the party after |
+| 40 | months 2 → 3. Urushibara dies 4/2 |
+| 41 | months 3 → 4. Tsunade's birthday given as 2/8 — five months out, deliberately not acted on |
 
 Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
-Handa 2/3 · Emiko 12/10 · Kanzaki 30/6.
+Handa 2/3 · Emiko 12/10 · Kanzaki 30/6 · **Tsunade 2/8** (canon).
 
 **Corrected once already:** the prose twice wrote his birthday as "the eleventh
 of last month" against a world-bible date of day 8, and ch37–38 were sitting in
@@ -89,7 +91,9 @@ The anchor is the **Konoha Crush**, which is also the start of the canonical
 | 39 | 18y2m | +19 to +20 | The year they stopped, one invitation, Ashida's, six tables, **the hug** |
 | 40 | 18y3m → 18y4m | +20 to +22 | **Urushibara dies.** The book returned, the next one taken, Hime, **Tsunade POV**, the hypothesis |
 
-**Position at end of ch40: month ~22 of 30. Eight months remain.**
+| 41 | 18y4m → 18y5m | +22 to +23 | Skill decay and recovery; **the material participates**; the seventh hand; **the birthday asked**; the trade paid; the letter not sent |
+
+**Position at end of ch41: month ~23 of 30. Seven months remain.**
 
 **Retcon applied (see git history).** ch34 originally opened on an eleven-month
 skip and ch33 closed on "still open eleven months later." Both were compressed
@@ -138,7 +142,10 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | Urushibara Gen | ch28–32 | **PAID (ch40 sc1).** Died 4th of the 2nd month. The open question — whether the last lesson was deliberate — is left at 8-in-10 and unresolvable. |
 | Root | ch27, ch34 | Quiet. The quiet is itself the news. |
 | Guren alive | ch27 | Confirmed as of 8 days pre-invasion. Untouched since. **Act 5.** |
-| Kabuto approach | ch38+ | Not yet begun. |
+| Kabuto approach | ch38+ | Letter received and reported (ch38 sc6). Reply written, **not sent** (ch41 sc6) — retained in the drawer, no receipt slip filed for it. "Not this Thursday" — he could not write "not ever." |
+| Tsunade's birthday | ch41 | 2/8. Given freely. He deliberately opened **no** design file — five months' notice refused on the grounds that a date is a deadline, not a requirement. Chapter four still unpaid. |
+| The material-participates study | ch41 | Six practitioners, half silent. Tsunade will sign it if he gets the answer. Review board of eleven. 4–9 months. |
+| The sentence he may not write | ch41 | "Outcome is partly the patient's will." Tsunade stopped it out loud. He formed it unprompted — the hypothesis-throwing failure mode, live and demonstrated. |
 
 ---
 
