@@ -771,35 +771,63 @@ signed for it.
 
 He will never be unowned. He can move.
 
-**27b. Oto.**
-Sasuke has gone to Orochimaru by now. Konoha needs eyes inside and has no clean
-way in — except that Oto has already shown it wants exactly what he makes.
-Oto built and used a countermeasure against Guren's crystal (established in the
-Konoha Crush). A foreign, plausibly deniable supplier offering the thing they've
-already demonstrated they want is a door nobody else on the roster can open.
+**27b. The approach.** *(Rewritten. The Oto infiltration is cut — see
+`timeline.md`. Three load-bearing assumptions of the original beat have
+expired.)*
 
-**He goes in as product, not agent — and that's the point.** The one moment
-he's finally started being wanted for himself, the village needs him again for
-what he makes. Not a betrayal of the friendship arc; the same wound, on
-schedule, which is what this book does. He'd volunteer for his own reason
-regardless of the order: Guren, still the one open question since Act 3. This
-mission does not answer it — see beat 29 — it only sharpens it. A near-miss, a
-name overheard, a door that doesn't open. He does not defect, does not seek
-her out past the mission's terms, and comes back having learned tradecraft
-mattered more than longing.
+**Why the old version is dead.** It opened *"Sasuke has gone to Orochimaru by
+now; Konoha needs eyes inside"* — unreachable, and Orochimaru is months from the
+end. It motivated Oto's interest with the crystal countermeasure from the Crush,
+which is **crystal-as-weapon, and Guren covers that completely**. And it sent him
+away for six weeks, which after nine chapters of attachment makes less sense the
+better the writing gets. Direction, motivation and premise all fail.
 
-**Doubles as Tsunade quietly moving her most Root-coveted asset somewhere Root
-can't reach** (beat 17's "not weapon value" defence, cashed) — never stated
-outright, consistent with how she protects him elsewhere: by reassignment, not
-by argument.
+**The inversion: he does not go. They come to him.**
 
-**Tsunade POV, here.** The one non-Sazare POV scene this arc spends beyond
-Guren's and Yagi's earlier ones — ration it the same way, so it still counts as
-a pivot rather than a mood piece. Her side of signing off: the strategic
-calculus and, underneath it, catching herself doing the thing she swore off
-after Dan and Nawaki — caring whether someone she's stopped treating as an
-asset comes back. Do not have her name the feeling. She realises it as he
-walks off, in a paragraph, not a chapter.
+This repairs all four problems at once — no travel means no timeline cost, it
+never touches Sasuke's arc, the attachment stops being an obstacle and becomes
+the stake, and Tsunade's decision gets harder rather than easier.
+
+**The motivation, corrected.** Oto is not shopping for a crystal user. What
+Sazare has built and Guren has not is **a device that stores a chakra
+instruction and releases it into living tissue later, without its author
+present** — which is structurally the cursed seal, arrived at from the opposite
+direction by a boy with no training. The design already states this: *the
+medical stones and cursed seals are not separate magic systems; they are the
+same discovery used with different intentions.*
+
+**The interested party is Kabuto, not Orochimaru.** He is the medic-nin; he is
+the one who reads a technique note out of Konoha General and understands
+instantly what it implies. Orochimaru may never appear on the page, which is
+better — the offer is more frightening delivered by somebody polite,
+professional and medically literate.
+
+**Canon constraint that improves it:** Kabuto was exposed at the Chūnin Exams
+and cast the sleep genjutsu at the Crush. He is a known face and cannot enter
+Konoha. **So the approach arrives remotely or through a cutout** — correspondence,
+courteous, no return address, technically literate. Konoha's file on him is
+thick and current, so identification is fast, and that is the moment it stops
+being a curiosity and becomes an operation.
+
+**Tsunade's decision, and the POV scene survives here.** She is not sending him
+somewhere safe. She is authorising him to be **run as bait inside her own
+village**, knowing exactly what he has become to her. Same rationing as before —
+one scene, a pivot and not a mood piece. Her side of the authorisation: the
+calculus, and underneath it catching herself doing the thing she swore off after
+Dan and Nawaki. She does not name it. Not a chapter — a paragraph.
+
+**The wound still reopens on schedule.** The moment he has finally started being
+wanted for himself, an organisation wants him for what he makes — and this time
+it is an offer rather than an order, which is worse, because it means saying no
+is his to do.
+
+**What this costs the surplus:** the operation eats the months. He loses the
+schedule he built himself — sixteen months of arithmetic, the first thing he
+ever wanted at a price he could pay — and not the trip. Correct shape of loss
+for this book.
+
+**Guren moves out of this beat entirely**, to Act 5 and post-skip, where the
+chance meeting belongs and where `chapter-plan.md` already has her POV waiting.
 
 **28. The sword.**
 
