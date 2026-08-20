@@ -1,6 +1,6 @@
 # Chapter 37, Scene 5 — Where People Look
 
-*Act 4, part D. Konoha. Sazare Ruri, age nineteen. POV: Sazare.
+*Act 4, part D. Konoha. Sazare Ruri, age eighteen. POV: Sazare.
 ~1,435 words.*
 
 ---
@@ -97,7 +97,7 @@ months finding out that I'm not exact about myself and it's cost me."
 "Take as long as you want. The woman with the cloth will throw us out
 when she wants us out."
 
-"I'm nineteen. Five weeks ago, apparently." He turned the cup without
+"I'm eighteen. Five weeks ago, apparently." He turned the cup without
 lifting it. "I have never kissed anybody. I've never wanted to that I
 can identify, and I want to be careful about the word *identify*,
 because I have found out this year that I have been running around

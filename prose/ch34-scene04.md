@@ -1,6 +1,6 @@
 # Chapter 34, Scene 4 — Non-Monetary
 
-*Act 4, part C. The Hokage's office. Sazare Ruri, age eighteen. POV:
+*Act 4, part C. The Hokage's office. Sazare Ruri, age seventeen. POV:
 Sazare. ~1,323 words.*
 
 ---

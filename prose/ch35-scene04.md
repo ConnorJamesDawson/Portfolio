@@ -1,7 +1,7 @@
 # Chapter 35, Scene 4 — The Check Was Running
 
 *Act 4, part C. Konoha General, the corridor. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,770 words.*
+seventeen. POV: Sazare. ~1,770 words.*
 
 ---
 

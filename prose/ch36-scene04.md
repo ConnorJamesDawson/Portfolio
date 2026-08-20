@@ -1,7 +1,7 @@
 # Chapter 36, Scene 4 — Nobody Asks What It's For
 
 *Act 4, part C. Konoha, the south-east quarter. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,304 words.*
+seventeen. POV: Sazare. ~1,304 words.*
 
 ---
 

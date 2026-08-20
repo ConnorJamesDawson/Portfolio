@@ -1,7 +1,7 @@
 # Chapter 35, Scene 1 — Nothing Stopping You
 
 *Act 4, part C. Konoha, the administration building. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,316 words.*
+seventeen. POV: Sazare. ~1,316 words.*
 
 ---
 

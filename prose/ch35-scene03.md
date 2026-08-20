@@ -1,7 +1,7 @@
 # Chapter 35, Scene 3 — Nine Seconds
 
 *Act 4, part C. Konoha General, second floor. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,187 words.*
+seventeen. POV: Sazare. ~1,187 words.*
 
 ---
 

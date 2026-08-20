@@ -1,7 +1,7 @@
 # Chapter 37, Scene 6 — Under Supervision
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age nineteen. POV: Sazare. ~1,373 words.*
+age eighteen. POV: Sazare. ~1,373 words.*
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 35, Scene 5 — Eleven Minutes
 
 *Act 4, part C. Konoha, the administration building. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,240 words.*
+seventeen. POV: Sazare. ~1,240 words.*
 
 ---
 

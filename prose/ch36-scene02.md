@@ -1,7 +1,7 @@
 # Chapter 36, Scene 2 — A Number, Not a Wall
 
 *Act 4, part C. Konoha, the administration building. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,169 words.*
+seventeen. POV: Sazare. ~1,169 words.*
 
 ---
 

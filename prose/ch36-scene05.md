@@ -1,7 +1,7 @@
 # Chapter 36, Scene 5 — Sober, In Daylight
 
 *Act 4, part C. Konoha, the quartermaster's shed. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,258 words.*
+seventeen. POV: Sazare. ~1,258 words.*
 
 ---
 

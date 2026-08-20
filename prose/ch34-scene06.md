@@ -1,6 +1,6 @@
 # Chapter 34, Scene 6 — You Could Use a Drink
 
-*Act 4, part C. Konoha. Sazare Ruri, age eighteen. POV: Sazare.
+*Act 4, part C. Konoha. Sazare Ruri, age seventeen. POV: Sazare.
 ~4,202 words.*
 
 ---
@@ -319,7 +319,7 @@ questions."
 "You've done this before."
 
 "I have done this for thirty-five years and I am extremely good at it
-and you are eighteen and one drink in, and I want you to understand
+and you are seventeen and one drink in, and I want you to understand
 that I am not going to go easy on you, because going easy on people is
 patronising and I have been on the receiving end of it since I was
 nine." She set the bottle down. "Nothing about work. That's the only
@@ -559,7 +559,7 @@ drain, and the lamps had haloes on them.
 She turned left and he turned right and that was the whole of the
 geography of it.
 
-And Sazare Ruri, at eighteen, three drinks in, on a wet street in the
+And Sazare Ruri, at seventeen, three drinks in, on a wet street in the
 Land of Fire, with the editing stage still not entirely running and no
 particular confidence that it would be back before morning, heard
 himself say:
@@ -606,7 +606,7 @@ happened.
 *The check wasn't running. That's all. I said eleven things I would not
 have said sober and about nine of them were fine and one of them was a
 bench and one of them was a callus, and I have watched myself do a
-thing I have not been able to do in eighteen years and the only reason
+thing I have not been able to do in seventeen years and the only reason
 it worked is that a chemical switched off the part that stops me.*
 
 *That is not a solution. That is a fault I found a way around.*

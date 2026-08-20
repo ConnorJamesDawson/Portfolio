@@ -1,6 +1,6 @@
 # Chapter 34, Scene 3 — Item Four
 
-*Act 4, part C. The Hokage's office. Sazare Ruri, age eighteen. POV:
+*Act 4, part C. The Hokage's office. Sazare Ruri, age seventeen. POV:
 Sazare. ~1,941 words.*
 
 ---

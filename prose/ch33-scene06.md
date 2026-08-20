@@ -231,6 +231,8 @@ know where I am."
 
 He went back to the ward and did the six o'clock observations.
 
-The entry stayed open. It was still open eleven months later, when it
-stopped being a clerical matter and became, exactly as Serizawa had
-said it would have to, inconvenient for somebody else.
+The entry stayed open. He intended to leave it open for years.
+
+It survived five weeks, and then it stopped being a clerical matter
+altogether and became, exactly as Serizawa had said it would have to,
+inconvenient for somebody else.

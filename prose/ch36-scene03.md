@@ -1,7 +1,7 @@
 # Chapter 36, Scene 3 — Whether There Is Anywhere to Stand
 
 *Act 4, part C. Konoha, the intelligence building. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,104 words.*
+seventeen. POV: Sazare. ~1,104 words.*
 
 ---
 

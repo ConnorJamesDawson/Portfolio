@@ -1,37 +1,44 @@
 # Chapter 34, Scene 1 — A Hole in the Position
 
-*Act 4, part C. Konoha General. Sazare Ruri, age eighteen. POV:
+*Act 4, part C. Konoha General. Sazare Ruri, age seventeen. POV:
 Sazare. ~1,389 words.*
 
 ---
 
-Eleven months went past and did not feel like eleven months, which he
-had been told by four separate people in that hospital was what
-happened once a life acquired a shape and which he had not believed
-until it happened to him.
+Five weeks went past and he spent every one of them assuming he had
+years.
 
-The knee finished healing and stopped being a fact about every
-staircase. Ubukata came twice more and wrote a larger number on a form
-the second time and did not write one at all on the third, which was
-how Sazare found out he had been cleared. The medical stone programme
-went to five patients and then to eleven, under Shizune's review, with
-two failures that went in the ledger and one that went in the ledger
-and also into a letter of apology Sazare wrote himself and delivered by
-hand. He sat the infection paper again in the spring and got
-seventy-eight, which Tsunade described in a margin as *adequate and
-about forty points of it purchased with panic.*
+That was the error, and it was not an unreasonable one. Kudō had said
+two to three years to a first determination, probably three with an
+appeal. Hazama had said a fortnight to never. Every single person who
+had touched any part of it had handed him a number with a *year* in it,
+and he had rebuilt his whole internal calendar on the assumption that
+nothing about the Land of Water was going to move again inside his
+lifetime.
 
-Kakashi did not come back to training ground eleven and did, twice,
+The five weeks themselves were good ones.
+
+Ubukata came again and wrote a larger number on the form than the last
+one, which was the first time in Sazare's life that anybody had raised
+a ceiling of his rather than defended one. The medical stone programme
+went from five patients to eleven under Shizune's review, with a failure
+in the eighth that went into the ledger and also into a letter of
+apology Sazare wrote himself and delivered by hand. He re-sat the
+infection paper and got seventy-eight, which Tsunade described in a
+margin as *adequate, and about forty points of it purchased with
+panic.*
+
+Kakashi did not come back to training ground eleven, and did, twice,
 appear at the hospital gate at hours that made no sense, and on the
 second occasion stood there for eleven minutes talking about nothing
 whatsoever before leaving, and Sazare understood about a fortnight
 afterwards what that had been.
 
-The reparations query stayed open on Kudō's desk. He asked about it
-twice in eleven months and both times the answer was that nothing had
-moved, and both times he was, on balance, relieved.
+The reparations query stayed open on Kudō's desk, and he asked about it
+once, and the answer was that nothing had moved, and he was on balance
+relieved.
 
-Then in the second month of the following year, Sarutobi Kōji came to
+Then, on the ninth day of the following month, Sarutobi Kōji came to
 the hospital.
 
 ---

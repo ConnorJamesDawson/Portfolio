@@ -1,6 +1,6 @@
 # Chapter 35, Scene 6 — Same Night
 
-*Act 4, part C. Konoha. Sazare Ruri, age eighteen. POV: Sazare.
+*Act 4, part C. Konoha. Sazare Ruri, age seventeen. POV: Sazare.
 ~1,553 words.*
 
 ---
@@ -180,7 +180,7 @@ for a second. "Thirty-one feet of a bloodline nobody's ever
 documented, sitting in a box on a shelf in a rented room over a
 persimmon tree, in a village with the best archive on the continent and
 a research directorate that would take it off you tomorrow, and an
-eighteen-year-old who is the last person alive who can read the
+seventeen-year-old who is the last person alive who can read the
 annotations."
 
 "I don't know."

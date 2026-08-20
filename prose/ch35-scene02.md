@@ -1,7 +1,7 @@
 # Chapter 35, Scene 2 — Four Lines in My Own Hand
 
 *Act 4, part C. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,131 words.*
+age seventeen. POV: Sazare. ~1,131 words.*
 
 ---
 
@@ -121,7 +121,7 @@ files it, and goes to lunch.*
 
 *And the last thing that will ever have happened to my family, the
 actual last event in four hundred years of them, will be a boy of
-eighteen in a foreign country asking a clerk whether they still counted
+seventeen in a foreign country asking a clerk whether they still counted
 and being told no.*
 
 He sat with that until the window went grey.

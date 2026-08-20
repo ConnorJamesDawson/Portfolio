@@ -1,7 +1,7 @@
 # Chapter 34, Scene 2 — Four Lines
 
 *Act 4, part C. Konoha, the administration building. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,075 words.*
+seventeen. POV: Sazare. ~1,075 words.*
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 34, Scene 5 — The Unfinished Line
 
 *Act 4, part C. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~2,085 words.*
+age seventeen. POV: Sazare. ~2,085 words.*
 
 ---
 

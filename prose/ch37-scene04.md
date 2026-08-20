@@ -145,12 +145,12 @@ about halfway through and I'd like to withdraw the second half."
 "No, I'm not letting you withdraw it, I'm going to sit with it for a
 while." She was, he saw, entirely serious under about four layers of
 amusement. "The Fifth Hokage's ears, pierced in the back room of a
-drinking house by a nineteen-year-old fabrication technician with a
+drinking house by an eighteen-year-old fabrication technician with a
 cork and a needle. Shizune would have to be sedated."
 
-"I'm eighteen."
+"I'm seventeen."
 
-"You turned nineteen five weeks ago."
+"You turned eighteen five weeks ago."
 
 Sazare stopped.
 

@@ -1,7 +1,7 @@
 # Chapter 36, Scene 1 — First Consignment
 
 *Act 4, part C. Konoha, the quartermaster's yard. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,389 words.*
+seventeen. POV: Sazare. ~1,389 words.*
 
 ---
 

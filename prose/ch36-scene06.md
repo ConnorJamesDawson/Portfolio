@@ -1,7 +1,7 @@
 # Chapter 36, Scene 6 — Surplus
 
 *Act 4, part C. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,422 words.*
+age seventeen. POV: Sazare. ~1,422 words.*
 
 ---
 

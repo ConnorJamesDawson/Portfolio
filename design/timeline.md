@@ -41,38 +41,38 @@ The anchor is the **Konoha Crush**, which is also the start of the canonical
 | 31 | 17y0m | +5 | Clearances, fundamentals, reproducible, the evaluation |
 | 32 | 17y1m | +6 | Kakashi ends training, the compliment problem, Handa discharged |
 | 33 | 17y3m | +8 | The asking, the digest, Yagura, a tenth of everything, two records |
-| **34** | **18y2m** | **+19** | **⚠ ELEVEN-MONTH SKIP.** Mei, the scroll, the drink |
-| 35 | 18y3m | +20 | Surviving claimant, the corridor, the signature |
-| 36 | 18y5m | +22 | First consignment, surplus arithmetic, Handa's shed |
-| 37 | 18y8m–19y0m | +25 to +29 | ⚠ 3-month drift. The book, gifts, the bells, where people look |
+| 34 | 17y4m | +9 | Mei, the scroll, the drink — **five weeks after ch33** |
+| 35 | 17y5m | +10 | Surviving claimant, the corridor, the signature |
+| 36 | 17y7m | +12 | First consignment, surplus arithmetic, Handa's shed |
+| 37 | 17y10m → 18y1m | +14 to +18 | The book, gifts, the bells, where people look |
 
-**Position at end of ch37: month ~29 of 30.**
+**Position at end of ch37: month ~18 of 30. Twelve months remain.**
 
-Naruto returns imminently. Roughly **one month of quiet remains.**
+**Retcon applied (see git history).** ch34 originally opened on an eleven-month
+skip and ch33 closed on "still open eleven months later." Both were compressed
+to **five weeks**, recovering ten months of runway. The in-story join is better
+for it: he leaves the reparations query open intending to leave it for years,
+and the normalisation declaration moves five weeks later. Ages swept across
+ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 
 ---
 
-## WHAT THIS COSTS, STATED PLAINLY
+## WHAT REMAINS
 
-Everything still outstanding in Act 4 — the long lead, the Kabuto approach, the
-sword, Guren, the trip to Kiri — was planned for a village at peace. There is
-one month of that left.
+**Twelve months of quiet, and everything outstanding has to fit inside it.**
 
-**Therefore:**
-
-- **Act 4 closes inside the remaining month.** Two or three chapters. The
-  Kabuto approach *begins* here and does not resolve here.
+- **The Kabuto approach** (beat 27b) begins in the remaining window and runs
+  across the Act 4/5 boundary. It does not resolve inside Act 4.
+- **The surplus** (30 kg, ~16 months at the ch36 rate) is **eight months in and
+  will not complete before the operation eats the rest.** He loses the schedule
+  he built himself, not the trip. Correct shape of loss for this book.
 - **Naruto's return is the Act 4 curtain.** He met Sazare at sixteen in Wave and
-  is the one person who ever asked *what was she like* (ch23). That beat is
-  sitting unused and it is the right ending.
-- **Sword, Guren, and the Kiri trip move to Act 5**, post-skip, into the
-  Akatsuki era — which is where `chapter-plan.md` already has a Guren POV
-  waiting.
-- **The surplus is never completed.** Sixteen months of arithmetic, interrupted
-  by the operation. He loses the schedule, not the trip. That is the correct
-  shape of loss for this book and it is better than never having had the plan.
+  is the one person who ever asked *what was she like* (ch23). Unused, and the
+  right ending.
+- **Sword, Guren, and the Kiri trip are Act 5**, post-skip, into the Akatsuki
+  era — where `chapter-plan.md` already has a Guren POV waiting.
 
----
+**Do not spend the twelve months the way the first eighteen were spent.**
 
 ## LOOSE THREADS — open, with owners
 
@@ -80,7 +80,7 @@ one month of that left.
 |---|---|---|
 | Reparations claim | ch35 | Filed. 2–3 yrs to determination. Kudō writes either way. |
 | Hazama's four queries (grave) | ch36 | Sent. Burial register, clearance, survey, temples. None back. |
-| The surplus (30 kg) | ch36 | ~8 months in. **Will not complete.** |
+| The surplus (30 kg) | ch36 | ~8 months in of ~16. Will not complete — operation eats the rest. |
 | The scroll — what he does with it | ch34 | **Deliberately undecided.** Do not resolve in advance. |
 | Chapter four — Tsunade's gift | ch37 | Requirement still not established. 11 weeks, 3 designs, 1 burned. |
 | Chapter two — speech without object | ch37 | Cannot do. No plan. |
