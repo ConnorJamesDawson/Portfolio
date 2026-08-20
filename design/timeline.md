@@ -50,6 +50,7 @@ dated off it.
 | 39 | month 1. Ashida's birthday 19/1; the party after |
 | 40 | months 2 → 3. Urushibara dies 4/2 |
 | 41 | months 3 → 4. Tsunade's birthday given as 2/8 — five months out, deliberately not acted on |
+| 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
 Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
 Handa 2/3 · Emiko 12/10 · Kanzaki 30/6 · **Tsunade 2/8** (canon).
@@ -93,7 +94,13 @@ The anchor is the **Konoha Crush**, which is also the start of the canonical
 
 | 41 | 18y4m → 18y5m | +22 to +23 | Skill decay and recovery; **the material participates**; the seventh hand; **the birthday asked**; the trade paid; the letter not sent |
 
-**Position at end of ch41: month ~23 of 30. Seven months remain.**
+| 42 | 18y5m | +23 to +24 | Sakura and the manual; the marking scheme; ch5 paid on Handa; Kakashi and falling; **the governor**; ch4 reclassified *refused* |
+
+**Position at end of ch42: month ~24 of 30. Six months remain.**
+
+**Pacing floor set at ch42:** chapters now cost weeks, not months. Named
+days inside a chapter (the fourth, the ninth, the sixteenth) rather than a
+month label at the top. This is what makes the remaining queue fit.
 
 **Retcon applied (see git history).** ch34 originally opened on an eleven-month
 skip and ch33 closed on "still open eleven months later." Both were compressed
@@ -129,9 +136,9 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | Hazama's four queries (grave) | ch36 | Sent. Burial register, clearance, survey, temples. None back. |
 | The surplus (30 kg) | ch36 | ~8 months in of ~16. Will not complete — operation eats the rest. |
 | The scroll — what he does with it | ch34 | **Deliberately undecided.** Do not resolve in advance. |
-| Chapter four — Tsunade's gift | ch37 | Requirement still not established. 11 weeks, 3 designs, 1 burned. |
-| Chapter two — speech without object | ch37 | Cannot do. No plan. |
-| Chapter five — the shoulder | ch37 | Attempted never. Due before month end. |
+| Chapter four — Tsunade's gift | ch37 | **Reclassified ch42 sc7: not *unattempted* — *refused, five times, by me.*** Reason now written down: "an extravagance is a demand disguised" (p.61). He wants something back, knows it, will not act on it. Still open. |
+| Chapter two — speech without object | ch37 | **ch42: 6/10 on a good morning.** Sakura's correction beats the book — the object is the other person. He has flagged himself that it is a habit with one person in it, not a capability. |
+| Chapter five — the shoulder | ch37 | **PAID (ch42 sc3).** Handa, the shed, evening of the 16th, mid-sentence, reaching for a try square. Deliberate attempt forty minutes earlier was a disaster. |
 | Chapter six — eleven birthdays | ch37 | Handa first. |
 | Yagi's one pierced ear | ch37 | He intends to ask. Has not. |
 | Ochiai Sumiko's name | ch37 | Learned. Four years late. |
@@ -142,9 +149,13 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | Urushibara Gen | ch28–32 | **PAID (ch40 sc1).** Died 4th of the 2nd month. The open question — whether the last lesson was deliberate — is left at 8-in-10 and unresolvable. |
 | Root | ch27, ch34 | Quiet. The quiet is itself the news. |
 | Guren alive | ch27 | Confirmed as of 8 days pre-invasion. Untouched since. **Act 5.** |
+| Sakura | ch42 | **Foregrounded.** Half-seven landing, the east stair, Ino and the eight who stopped asking. She and Sazare share the same unanswerable question from opposite ends (picked for the technique, or not). The third person. |
+| The governor | ch42 | Ceiling as deepest course; every fragment inherits it; costs 31%. Signed into Kanzaki's ledger in his own hand. **Unwitting sword design.** The stray clause — *including if somebody takes it off my body* — left in the notebook as an open query. |
+| The east stair | ch42 | Sakura's, unresolved. She has not used the short stair in eighteen months and has not told Ino. |
+| Kakashi / physical training | ch28, ch42 | **Restarted after 15 months.** 51 seconds; genin 34; honest ceiling offered unasked at 41. Weekly. The diagnosis: he has never given up a position on purpose. |
 | Kabuto approach | ch38+ | Letter received and reported (ch38 sc6). Reply written, **not sent** (ch41 sc6) — retained in the drawer, no receipt slip filed for it. "Not this Thursday" — he could not write "not ever." |
 | Tsunade's birthday | ch41 | 2/8. Given freely. He deliberately opened **no** design file — five months' notice refused on the grounds that a date is a deadline, not a requirement. Chapter four still unpaid. |
-| The material-participates study | ch41 | Six practitioners, half silent. Tsunade will sign it if he gets the answer. Review board of eleven. 4–9 months. |
+| The material-participates study | ch41 | Six practitioners, half silent. Tsunade will sign it if he gets the answer. Review board of eleven. 4–9 months. **ch42: Sakura volunteers for the silent half; routed via Yagi, not Tsunade, so it stays hers.** Deliberately unresolved past the timeskip. |
 | The sentence he may not write | ch41 | "Outcome is partly the patient's will." Tsunade stopped it out loud. He formed it unprompted — the hypothesis-throwing failure mode, live and demonstrated. |
 
 ---
