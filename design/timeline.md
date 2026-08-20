@@ -87,8 +87,9 @@ The anchor is the **Konoha Crush**, which is also the start of the canonical
 | 37 | 17y10m → 18y1m | +14 to +18 | The book, gifts, the bells, where people look |
 | 38 | 18y1m → 18y2m | +18 to +19 | Sakura, Yagi's ear, eleven birthdays, ch5 fails, **the letter** |
 | 39 | 18y2m | +19 to +20 | The year they stopped, one invitation, Ashida's, six tables, **the hug** |
+| 40 | 18y3m → 18y4m | +20 to +22 | **Urushibara dies.** The book returned, the next one taken, Hime, **Tsunade POV**, the hypothesis |
 
-**Position at end of ch39: month ~20 of 30. Ten months remain.**
+**Position at end of ch40: month ~22 of 30. Eight months remain.**
 
 **Retcon applied (see git history).** ch34 originally opened on an eleven-month
 skip and ch33 closed on "still open eleven months later." Both were compressed
@@ -134,7 +135,7 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | The *gamble* kanji | ch37 | Noticed after two years. Evidence he cannot explain away. |
 | Is it the mechanism or is it her | ch35, ch37 | Twice constructed, twice refused. Unresolved by design. |
 | **Sakura** | — | **NOT YET ON PAGE. See below.** |
-| **Urushibara Gen** | ch28–32 | **DEBT. ch36 flags "until the winter" proleptically; his death is unwritten and is due. He gave the notation, the thirteenth element, the seal on the seal. Cannot die in a subordinate clause.** |
+| Urushibara Gen | ch28–32 | **PAID (ch40 sc1).** Died 4th of the 2nd month. The open question — whether the last lesson was deliberate — is left at 8-in-10 and unresolvable. |
 | Root | ch27, ch34 | Quiet. The quiet is itself the news. |
 | Guren alive | ch27 | Confirmed as of 8 days pre-invasion. Untouched since. **Act 5.** |
 | Kabuto approach | ch38+ | Not yet begun. |
