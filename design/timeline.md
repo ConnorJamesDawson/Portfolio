@@ -53,6 +53,7 @@ dated off it.
 | 42 | month 4. About three weeks. Sakura, the marking scheme, the governor |
 | 43 | months 4 → 5. About three weeks. Board on the 9th, Ibiki on the 14th, notice goes up the following Monday |
 | 44 | month 5, the 2nd to the 22nd. Two weeks and a bit. Letter goes 2nd Thursday = the 21st |
+| 45 | month 5, the 22nd to the 31st. Nine days. Sword started 31/5, 23:20 |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
 Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
