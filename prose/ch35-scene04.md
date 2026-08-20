@@ -8,8 +8,8 @@ seventeen. POV: Sazare. ~1,770 words.*
 Yagi came up from surgical still in the apron and did not take it off,
 which meant she had been got out of something.
 
-She was thirty-eight and had been thirty-four when he met her and the
-four years had gone into her the way they went into everybody in that
+She was thirty-five and had been thirty-four when he met her, and the
+year between had gone into her the way it went into everybody in that
 building. The voice was the same. She had cut her hair short at some
 point in the winter and it suited her and he had not said so.
 
@@ -122,7 +122,7 @@ the other way.
 "That's four people," he said.
 
 "That's four people who noticed and didn't want to say, and one of them
-is seventy-four and deaf and worked it out through a *floor*." Yagi
+is seventy-two and deaf and worked it out through a *floor*." Yagi
 stopped too. "You have been walking round this building for five weeks
 running on the thing you always run on, which is that if you complete
 every task correctly then nothing needs to be said. And the tasks have

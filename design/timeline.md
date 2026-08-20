@@ -45,8 +45,9 @@ The anchor is the **Konoha Crush**, which is also the start of the canonical
 | 35 | 17y5m | +10 | Surviving claimant, the corridor, the signature |
 | 36 | 17y7m | +12 | First consignment, surplus arithmetic, Handa's shed |
 | 37 | 17y10m → 18y1m | +14 to +18 | The book, gifts, the bells, where people look |
+| 38 | 18y1m → 18y2m | +18 to +19 | Sakura, Yagi's ear, eleven birthdays, ch5 fails, **the letter** |
 
-**Position at end of ch37: month ~18 of 30. Twelve months remain.**
+**Position at end of ch38: month ~19 of 30. Eleven months remain.**
 
 **Retcon applied (see git history).** ch34 originally opened on an eleven-month
 skip and ch33 closed on "still open eleven months later." Both were compressed
