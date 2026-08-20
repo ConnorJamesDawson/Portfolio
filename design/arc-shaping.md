@@ -85,40 +85,85 @@ No leaps. Every link is canon or already on the page.
 Sits in the **middle** of the shape-manipulation arc. It is the proof
 article for the stable lattice, and it *causes* step 8.
 
-### The breakthrough
+### The breakthrough — the model
 
-The six seconds was never a duration. **It was upkeep.**
+**Two independent axes. Do not conflate them.**
 
-He has been growing crystal and letting the lattice form however it forms,
-then bracing it with his own chakra. Four seconds unseeded, six seeded, and
-then it is spent. What he was paying for was *holding the structure up*.
+**1. Active vs inactive — a design choice, not a grade.** Pathways or no
+pathways. Medical stones are *deliberately* inactive: you want them to hold
+a recorded instruction and release it once, and a conductor would be the
+wrong article for that job. **The six-day degradation problem therefore
+stands, untouched.** Nothing about the sword fixes the ward.
 
-With shape transformation he **specifies the geometry** instead of growing
-it and hoping. A specified lattice is self-supporting. The structure carries
-the load and the chakra stops doing structural work.
+**2. Capacity — a continuum.** Every active crystal conducts. **Time
+invested sets the rating.** Two seconds conducts a little; five hours
+conducts a lot. Nothing is off the table and everything has a number.
 
-**The six-second limit is gone.** Not extended. Gone — it was never the
-right unit.
+The failure mode is **mismatch, never attempt.** Hook a car battery to a
+phone and the phone goes, not because phones cannot take current but
+because that is the wrong current for that conductor. Blowout, not refusal.
 
-Pays off the ch24 correction directly: *that isn't a hard ceiling, it's
-progress.* He wrote *I don't know what the number is.* The answer is that
-there was no number, there was a wrong question.
+> **He can absolutely make active crystal in a fight.** He always has. It
+> just has a low rating and he has to throttle what he puts through it.
 
-### The trade-off — REQUIRED, or it is a free upgrade
+### What that resolves backwards
 
-**Stability and instruction are opposed.**
+**The six seconds was never a duration. It was burnout — his own output
+frying cheap stock.**
 
-A crystal that is spending itself can *carry a course* — that is what the
-six seconds bought. A stable lattice is permanent and **dumb**. The sword
-is a sword and nothing else: it cannot heal, cannot trap, cannot recall,
-cannot hold an instruction of any kind.
+- *Unseeded fails to grit, seeded fails to pieces* — a wire that vaporised
+  versus one that came apart at the joints. Seeding was never a bigger
+  battery. It was **a better conductor**.
+- **The reject table is a conductor-grade table.** Own prior work 4%, yard
+  aggregate 22%, granite 31%, site rubble 44%. Already-graded stock versus
+  scrap wire. Ch41's *the material is a participant* stands unchanged — it
+  turns out to have been a materials-grading result all along.
+- **The forearm slab in the street was already shape manipulation.** Fast,
+  in-fight, low-rated, worked once and came apart. The precedent exists
+  *and* demonstrates the grade problem. He did the thing under fire, got the
+  scrap-wire result, and filed it as the technique's limit.
 
-Which means the medical stones can never be made permanent, and everything
-he has built for two years stays exactly as fragile as it was.
+**Nothing needs retconning. All of it reads better.**
 
-**And that sets the long arc:** can you have both? Permanent *and* alive?
-Yes — that is what Hashirama's forest is, and that is nature chakra, and it
-is years away.
+### The finding that hurts
+
+**He has been over-driving everything he has ever made.**
+
+Eleven years of blowing out his own work because he had one setting and
+nobody ever told him there was a rating on the other side. Every wall in
+that corridor, every splint, the slab. He was never limited by the crystal.
+**He was too much for it, continuously, since he was seven** — and he read
+it as the material's failure and entered it in a ledger as a fault of the
+medium.
+
+The fix is not more power. It is **match the load to the conductor** — the
+governor arriving in its third domain. Stone in ch42. His mouth in ch43.
+His own output now.
+
+### Why the sword is an extension of him
+
+**It is the first object he has ever made that can take everything he has
+got.**
+
+A man who has spent his whole life being too much for every material he
+touched finally holds something that does not flinch when he opens up. That
+is why it is a sword and not a tool, and why it is *his*, and he will not be
+able to explain it to anybody for a long time.
+
+### What conducting buys — not damage
+
+- **He can read through it.** Material-reading at a blade's length. His
+  actual faculty, extended.
+- **He can push instruction down it.** Reverse recall already exists — push
+  the instruction outward along the route. Now there is a graded conductor
+  to push along. Set the point to the ground and run a course into it.
+- **So the sword is an applicator.** It is how he *builds* fast in the
+  field, delivering instruction into terrain at a reach and speed bare hands
+  cannot manage. It does not make him a fighter. It makes him a faster
+  fabricator while people are shooting at him.
+- **Burnout is a live danger.** Wires do not fail gracefully. Overdraw it
+  and an active lattice has a whole pathway network to come apart along.
+  Self-inflicted tension, not imposed by an opponent.
 
 ### The object
 
@@ -194,6 +239,64 @@ cannot stop it.
      consequence that fully reverses is not one. Open: whether the surviving
      patch is stone or **his own medium** — a lifelong object lesson with a
      reject rate of its own.
+
+
+---
+
+## 4b. Katsuyu — the petrification is the door
+
+**Why the greatest medic alive has nothing.** Her whole discipline rests on
+the ch41–43 finding: *the receiver contributes.* Medical ninjutsu directs
+and accelerates a process the body is already running. **Stone has no
+process.** It is not damaged tissue, it is converted tissue — nothing to
+direct, nothing to accelerate, no job for it to be doing that she can help
+it finish. The one injury her life's work cannot touch is the one where the
+patient has stopped being a participant. She knows that in four seconds and
+they are the worst four seconds she has had in years.
+
+**The precise shape of her avoidance.** She summons Katsuyu constantly —
+that is not the gap. The gap is that in forty years **she has never once
+asked her about natural energy**, because the question leads to Shikkotsu
+and Shikkotsu leads to her grandfather.
+
+> *"You never asked, Tsunade-sama."*
+
+Mild, unreproachful, factual. Which is worse.
+
+**What Ruri does, and why it is what breaks her.** She is braced for panic,
+or for him being brave about it. Instead he gets a notebook out and starts
+asking a slug technical questions with his good hand, because a creature
+from a place saturated in natural energy is a **primary source** and he has
+been reading secondary literature for two months. It is absurd and it is
+completely him, and he is more interested than frightened in a room where
+she is more frightened than she has let herself be since Dan.
+
+**The five things he makes her feel:**
+
+1. Not knowing. She has been the ceiling for forty years.
+2. Having to ask, in a direction she sealed off.
+3. Her grandfather, unavoidably.
+4. Fear for a specific person — the exact thing she swore off.
+5. **Curiosity.** Being interested means caring how it turns out, and she
+   has spent forty years arranging her life so she does not care how things
+   turn out. She catches herself leaning in to hear the answer. That is the
+   one she cannot explain away afterwards.
+
+**Craft risk and the fix.** The failure mode is lore delivery. So **make
+Katsuyu a poor explainer** — she is not a teacher, she knows natural energy
+the way a fish knows water. He asks precise, well-formed questions and gets
+*"it is simply there."* The frustration is real and what he extracts is
+almost nothing. The one thing she says that matters is not about senjutsu.
+It is about Tsunade.
+
+**The Hashirama card.** Katsuyu mentions him **casually**, with no idea it
+is a live wire. Tsunade shuts it down inside four words. Sazare files it and
+says nothing — the largest piece of growth he has shown, and the loaded gun
+for the chapter where he finally does ask.
+
+**The save is hers.** Katsuyu names what happened and gives a partial
+method; the rest is hours of Tsunade working at the edge of her range. She
+is not rescued. She is **unblocked**, and then does it herself.
 
 ---
 
