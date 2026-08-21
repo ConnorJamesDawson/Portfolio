@@ -1,7 +1,7 @@
 # Chapter 48, Scene 6 — No Report
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,906 words.*
+age eighteen. POV: Sazare. ~2,412 words.*
 
 ---
 
@@ -107,12 +107,12 @@ writing all afternoon because I do not know what to do with it.*
 
 *It worked.*
 
-*Twenty-five millimetres of stem, one node, partial bark, out of my own
-palm, four minutes after I shut my eyes. I have it in a slip of paper
-on this table and it is going brown at the cut end the way anything
-does.*
+*Nine inches of stem, two leaf pairs, four thorns, one bud a third
+open, out of my own palm, four minutes after I shut my eyes. It is in a
+sheet of paper in a box in the tower and one person in the world knows
+which drawer.*
 
-*I made wood.*
+*I made a rose.*
 
 *Not because I am gifted and not because there is something in me. I
 had a specimen in my hand and I matched it, the way I matched a bezel
@@ -120,10 +120,54 @@ at eleven and a retaining figure at seventeen, and the operation
 underneath was one I have been performing since I was seven and did not
 know had a general form.*
 
+*And I copied it so exactly that his crooked third thorn is on mine.*
+
+*I do not know what a rose is. I could not build one from the idea of a
+rose if my life depended on it. I built THAT rose, the one in my other
+hand, faults and all, because copying an object is the only way I have
+ever been able to acquire anything and I have never once in my life had
+the notation.*
+
 *Everything I have written for eleven years about what I am is wrong in
 a way I cannot yet state and can state the edge of:*
 
 *I do not have a bloodline. I have a habit.*
+
+---
+
+*The other finding, which I said out loud at twenty to six with one
+hand while she held the other one and could not get up.*
+
+*Six days is not decay. It is a battery.*
+
+*A plant is built by drawing — every part of it was made out of
+something that came in from outside, which means every part of it is a
+way in. The structure IS the intake.*
+
+*Mine is laid. Everything it will ever have goes in at the start, and
+then I close it, automatically, without ever knowing I am doing it, and
+it spends what it has and the order slumps because there is nothing
+left to stand up in.*
+
+*And the closing move is the one that did not fire last night.*
+
+*The thing that protects me is the thing that kills everything I build.
+Not two mechanisms. One habit, doing both jobs, since I was seven.*
+
+*So the target is an article that draws. Not a bigger store — an
+intake. A stone that does not run out because it is standing in the
+thing it is made of, the way every plant that has ever lived stands in
+it.*
+
+*And she is right about the other direction and I am writing it here so
+that I cannot claim I was not told: an open article is a route both
+ways, and I do not have a way to make one one-way, and until I do it
+does not go near a ward.*
+
+*Hashirama's forest is seventy years old and makes its own seeds.*
+
+*It is not permanent because he made it well. It is permanent because
+he never shut it.*
 
 ---
 
@@ -243,9 +287,29 @@ the interesting things.*
 
 He put the pencil down.
 
-Then he picked it up and wrote one more line, and it was at the bottom
-of the page in the ordinary place, in the ordinary hand, where it had
-been every night for thirteen weeks.
+There was one more thing and he had been not writing it since about
+five in the afternoon, and he got as far as putting the pencil back on
+the page for it.
+
+*The second of the eighth month was thirteen days ago.*
+
+He looked at that for some time and then did not finish it, and the
+reason he gave himself was that it was not the same object — that a
+thing produced by accident in the course of injuring yourself is not a
+gift, and that arriving with it thirteen days late would be arriving
+with an excuse.
+
+Both of those were true.
+
+*State: refused. Reason known. Not resolved.*
+
+*Same three words as the fifth month and I have written them twice now
+and I would like a future reader to notice that they were not more
+honest the second time.*
+
+Then he picked it up again and wrote the last line, at the bottom of
+the page in the ordinary place, in the ordinary hand, where it had been
+every night for thirteen weeks.
 
 *Exercise 1: two.*
 

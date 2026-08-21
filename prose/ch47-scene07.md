@@ -1,7 +1,7 @@
 # Chapter 47, Scene 7 — Matching
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~2,300 words.*
+age eighteen. POV: Sazare. ~2,519 words.*
 
 ---
 
@@ -103,29 +103,59 @@ It came.
 
 ---
 
-He got about an inch.
+The stem came out of the meat of his palm.
 
-It came up out of the meat of his palm — not out of the rose, which was
-the thing he understood immediately and which was the whole of it —
-about an inch of stem, green, with the bark not properly formed on one
-side, and a node, and the beginning of something at the node that would
-have been a leaf if he had known what a leaf was.
+Not out of the rose. That was the thing he understood in the first
+second and it was the whole of it — the reference lay in his fingers,
+dry and nine days dead, doing nothing at all, and the green came up out
+of the pad below his thumb like something surfacing.
 
-It was warm and slightly wet.
+Two inches. Then four. Then a node, and a pair of leaves out of the
+node, uncurling in about as long as it takes to say so.
 
-He looked at it for about two seconds and made a sound he did not
-recognise as his own.
+He made a sound he did not recognise as his own.
 
 *It works.*
 
-*It works, it is not mine, it is coming out of my hand, it is wood,
-there is wood coming out of my hand and I have never in my life made
-anything that was not a silicate and this is CELLULOSE—*
+*It is not mine, it is coming out of my hand, it is wood, it is
+CELLULOSE, I have never in my life made anything that was not a
+silicate—*
 
-And then, having got it, he did the thing he had done at the end of
-every operation of his life, which was to finish.
+Six inches. Eight. A second node and a second pair.
+
+And then, at about nine inches, it put out a bud.
 
 ---
+
+It was Tenzō's rose.
+
+That was what stopped him, four seconds too late, standing in a rented
+room at half past ten at night with a flower growing out of his own
+hand.
+
+It had four thorns. One of them was crooked.
+
+It had two leaves and the second leaf had a small brown nothing at the
+margin, the sort of blemish any leaf in the world has, in the same
+place, the same size, the same shape.
+
+*I have copied the object.*
+
+*Not the idea. Not the operation's output — the object, this object,
+the one in my other hand, including the parts of it that are wrong. I
+did the same thing at eleven years old with a bezel Warashina made and
+I put his file mark in it four hundred times before anybody told me the
+file mark was a fault.*
+
+*I do not know what a rose is. I have never looked at one properly in
+my life.*
+
+*So I made his.*
+
+---
+
+Then he did the thing he had done at the end of every operation of his
+life, which was to finish.
 
 Nothing closed.
 
@@ -145,20 +175,34 @@ never written it down, never once been conscious of doing it, and if
 anybody had asked me at any point in eleven years whether there was a
 closing move I would have said no and been wrong.*
 
-*It is not a decision and it is not a technique. It is the same class of
-thing as taking your hand off something hot.*
+*It is not a decision and it is not a technique. It is the same class
+of thing as taking your hand off something hot.*
 
 *It is tied to the crystal operation. It did not fire, because I was
 not doing the crystal operation.*
 
-He opened his hand.
+And the rose went on growing.
 
-The rose fell on the felt.
+---
 
-It did not help. He had known within about a second and a half that
-letting go was not going to help, because the route was not in the
-rose. The rose was a reference. He had been holding a picture, and you
-do not stop the thing you have copied by putting the picture down.
+That was the part he had no framework for at all and it took him about
+six seconds to find the words, and the words when they came were not
+technical, and he wrote them down afterwards exactly as they had
+arrived because they were what he had actually thought.
+
+*It's drinking.*
+
+The bud was opening. Not fast — at the speed a rose opens, which is
+hours, compressed into something that was still slow enough to watch
+and far too fast to be anything else — and the whole length of the stem
+was under a very slight, continuous, unmistakable draw, and the draw
+went down through the stem and into his palm and up his arm and out
+into somewhere he could not follow.
+
+*It is alive and it is doing what a living thing does, which is take
+things in, continuously, from wherever it happens to be standing.*
+
+*And it is standing in me.*
 
 He tried four things in the next ninety seconds.
 
@@ -168,44 +212,27 @@ which is a thing that works on every operation a person has ever
 performed and did not work on this one. He tried laying a course into
 the seeded grain on the table with the same hand, on the theory that
 occupying the route might do something, and it did nothing at all
-except produce a perfectly ordinary crystal on a felt beside a dead
-rose. He tried, at the end, putting his palm flat on the floorboards,
-because Katsuyu had not yet told him about the ground and because a
-man will put his hand on the floor.
+except produce a perfectly ordinary crystal on a felt beside a
+flowering stem. He tried putting his palm flat on the floorboards,
+because a man will put his hand on the floor.
 
-Then it was full.
+Then he snapped it off.
 
 ---
 
-The inch of stem stopped growing at some point and he did not see when.
+That was correct. He was sure about that afterwards and remained sure
+about it, and it was the only part of the evening he never revisited:
+he got his right hand round the stem an inch above the palm and broke
+it, cleanly, the way you break a stem, and the draw stopped instantly
+and completely.
 
-The fingertips went first.
+It was about four seconds too late.
 
-He watched it happen, which was the part he did not put in the ledger
-in any detail, because there was no honest way to write it that was not
-worse than leaving it out.
+The rose lay on the felt and was a cut flower and did nothing at all,
+which is what cut flowers do, and the route in his hand stayed open and
+full because the route had never been in the rose.
 
-The pad of the index finger went pale and then went *matte* — the shine
-off it, the way a stone goes when it dries — and then the colour left
-the nail bed and did not come back, and the whole of it stopped being
-skin somewhere between one moment and the next in a way he did not see
-the edge of even though he was looking directly at it.
-
-There was no pain.
-
-That was the first thing and it was the thing that made the next forty
-seconds possible, and afterwards he could never decide whether it had
-been a mercy or the worst part.
-
-It moved.
-
-Not fast. He got his other hand round his wrist and squeezed and could
-feel his own pulse perfectly well and there was nothing wrong with the
-pulse, and above the line everything was warm and ordinary and his, and
-below it there was a thing on the end of his arm that had his
-fingerprints on it and did not belong to him.
-
-It was at the second knuckle by the time he had finished not panicking.
+The rose had only been the reason.
 
 ---
 
@@ -215,13 +242,23 @@ He wrote that sentence down two days later in a different room and read
 it back and left it standing, because it was true and it was the single
 most complete description of himself that he had ever produced.
 
-*22:31 approx — first product. Approx. 25 mm of stem, green, one node,
-partial bark. Emerged from the palm, not from the reference.*
+*22:31 approx — first growth. Emerged from the palm, not from the
+reference. Nine inches in under a minute, two nodes, two leaf pairs,
+four thorns, one bud. Reproduces the reference including its faults —
+crooked third thorn, margin fault on the second leaf, same position,
+same size.*
 
 *22:31 — attempted close. No closing move available for this operation.
 Four subsequent attempts, all failed, see over.*
 
-*22:33 — distal phalanges 1–3. Matte, cold to my other hand, no
+*22:32 — continuous draw through the stem and through the palm for the
+duration. It is alive. It was taking in, the way anything alive takes
+in, and it was standing in me.*
+
+*22:33 — stem severed one inch above the palm. Draw ceased instantly.
+Approximately four seconds too late.*
+
+*22:34 — distal phalanges 1–3. Matte, cold to my other hand, no
 sensation. Pulse at the wrist normal, 88.*
 
 *22:37 — second knuckles, index and middle. Line is not straight. It is
@@ -271,14 +308,17 @@ night would stop anybody. He took the rose, because it was evidence and
 because leaving it on a felt in an empty room was not a thing he was
 able to do.
 
-And he took the other thing.
+And he took the other one.
 
-It had come off in his palm when the hand went — it was an inch of
-green stem with a node and half a bark, no longer growing, no longer
-warm, lying on the felt where the rose had been — and he wrapped it in
-a slip of paper and wrote *22:31, L palm, approx 25 mm* on the outside
-because it was a sample and samples get labelled, and put it in the
-breast pocket.
+It was lying on the felt where he had dropped it, nine inches of it,
+green, two leaf pairs, four thorns with the third one crooked, and a
+bud about a third open and stopped there forever. He wrapped it in a
+sheet of clean paper the way you wrap a specimen and wrote *22:31, from
+L palm, ref. rose 3* on the outside, because it was a sample and
+samples get labelled.
+
+It did not fit in a breast pocket. He carried it in his right hand, in
+the paper, like a man bringing flowers.
 
 Then he went down the stairs and out into the lane.
 
@@ -308,8 +348,8 @@ seventeenth at the earliest and she came in on the fifteenth, and I
 know that because Ashida told me at four o'clock and I remember
 thinking that I would go up on Monday with the eleven pages.*
 
-He went up the hill with a rose in a stone hand and an inch of wood in
-his breast pocket.
+He went up the hill with a dead rose in a stone hand and a living one
+in a sheet of paper.
 
 ---
 

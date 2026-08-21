@@ -1,7 +1,7 @@
 # Chapter 48, Scene 1 — The Stair
 
 *Act 4, part D. Konoha, the Hokage's tower. Sazare Ruri, age eighteen.
-POV: Sazare. ~2,139 words.*
+POV: Sazare. ~2,165 words.*
 
 ---
 
@@ -75,10 +75,15 @@ to know for how long and how hard, and then we're going—"
 "I wasn't holding it," said Sazare. "I mean I was holding it. It wasn't
 the holding."
 
-He got the slip of paper out of his breast pocket, which took some
-doing one-handed, and unfolded it against his chest, and there was an
-inch of green stem in it with a node and half a bark and the start of
-something at the node that had not finished being a leaf.
+He held up his right hand, which had a sheet of clean paper in it with
+something wrapped in it, and he had been holding it the entire time and
+she had not looked at it once because she had been looking at the other
+one.
+
+He opened the paper against his chest.
+
+Nine inches of green stem. Two leaf pairs. Four thorns, the third one
+crooked. A bud about a third open and stopped there.
 
 "That came out of my palm at half past ten," he said.
 
@@ -102,9 +107,10 @@ in it:
 "You haven't finished the—"
 
 "I have finished on this staircase," said Tsunade. "I am now going to
-finish somewhere with a door on it, because you have just handed me the
-single most dangerous object in this village and you are holding it in
-a piece of paper with the *time* written on the outside."
+finish somewhere with a door on it, because you have just walked up a
+public hill carrying the single most dangerous object in this village
+in a sheet of paper with the *time* written on the outside, like a man
+bringing flowers."
 
 "Not the office," she said. "The room at the end, the one with the
 table."

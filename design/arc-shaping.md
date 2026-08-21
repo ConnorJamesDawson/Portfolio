@@ -224,9 +224,20 @@ cannot stop it.
    - **It takes four minutes and it is easy.** That is the finding, and it
      lands before he understands what it proves: *the operation is the
      same operation.* Same act, different lattice.
-   - **He gets about 25 mm of stem** — green, one node, partial bark — out
-     of the meat of his own palm, not out of the reference.
-5. **Nothing closes.** At the end of every course he does something that
+   - **He gets a rose.** Nine inches, two leaf pairs, four thorns, a bud a
+     third open — out of the meat of his own palm, not out of the
+     reference. And it is **Tenzō's** rose: crooked third thorn, brown
+     margin fault on the second leaf, same position, same size. He copied
+     the object, faults included, because copying an object is the only
+     acquisition method he has ever had.
+5. **It drinks.** The rose is alive, and a living thing takes in
+   continuously from wherever it is standing, and it is standing in him.
+   That is why the fill does not stop — it is not a leak, it is a plant
+   feeding. He snaps the stem an inch above the palm, which is correct and
+   is four seconds too late; the draw ceases instantly and the route stays
+   open, because the route was never in the rose. **The rose was only the
+   reason.**
+6. **Nothing closes.** At the end of every course he does something that
    shuts the route. Nine hundred thousand times since he was seven, never
    once conscious of it, never described, never taught — the same class of
    thing as taking your hand off something hot. **It is tied to the crystal
@@ -237,16 +248,16 @@ cannot stop it.
    - So the injury is not hubris and not curiosity. It is **his own
      competence failing to transfer** — the cost of succeeding at something
      for the first time.
-6. **His hand fills.** The stem stops growing and comes off in his palm.
+7. **His hand fills.**
    - The right organ: his hands are his trade, his diagnostic instrument,
      his only means of touch, and the writing standard's fixed anchor.
    - He fills out and signs **his own consent form** first, because he is
      the only subject his doctrine permits him to consent for, and he would
      have noticed that. It is in his pocket at her door.
-7. **He takes two things to her door**: the rose, and the fragment in a slip
+8. **He takes two things to her door**: the rose, and the fragment in a slip
    of paper with *22:31, L palm, approx 25 mm* written on the outside,
    because it is a sample and samples get labelled.
-8. **The only person who knows is Tsunade.** End of chapter.
+9. **The only person who knows is Tsunade.** End of chapter.
    - Her reaction to the fragment is **larger than her reaction to the
      hand** — she takes her hand off a live petrification to look at a
      piece of wood. It is the first physical evidence anybody has ever had
@@ -467,8 +478,10 @@ table in ch34.
 ## 8. Provenance
 
 **Author's, in full:** the thesis and the dōjutsu exception; **the copy
-rather than the probe, and the missing closing move as the cause of the
-injury**; **the culmination — Wood Release taught, and Crystal Release
+rather than the probe; the product being a whole living rose that keeps
+drawing, which is why the nature chakra bleeds into him; and the
+degradation finding that falls out of it — plants draw from the
+environment and his crystals do not, so he must build one that does**; **the culmination — Wood Release taught, and Crystal Release
 taught back to Tenzō, the parallel between them being the qualification**; crystal as
 nature chakra shaped, not absorbed; discovery by testing rather than
 archive; the study-reading route; Wood Release as the nearest case; the

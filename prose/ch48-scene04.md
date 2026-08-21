@@ -1,7 +1,7 @@
 # Chapter 48, Scene 4 — The Fourth Hour
 
 *Act 4, part D. Konoha, the Hokage's tower. Tsunade, age fifty-three.
-POV: Tsunade. ~1,941 words.*
+POV: Tsunade. ~2,919 words.*
 
 ---
 
@@ -218,6 +218,141 @@ She put it where she put things.
 
 It did not go, entirely, and she noticed that too, and put that
 somewhere as well.
+
+---
+
+At about half past five he got it, and she was holding his arm and
+could not do a single thing about it.
+
+"It was drinking," he said.
+
+She had her eyes shut. "What?"
+
+"The rose. The whole time it was growing, and after it had stopped
+growing, right up until I broke the stem. It was taking in. Continuously.
+That's not a fault and it isn't the injury — that is simply what a
+living thing does, it stands somewhere and it takes in from where it is
+standing, and it does not stop, ever, until it is dead."
+
+"Ruri, I am going to need you to—"
+
+"A plant is *built by drawing*." He was not listening and she knew,
+distantly, that he had stopped being able to. "Every part of it. There
+is no part of a tree that was not made out of something that came in
+from outside — that is the entire method of a plant, from the first
+cell, and it means that every part of it is a *way in*. The structure
+is the intake. It isn't a container with an intake attached, the
+container *is* the intake."
+
+Tsunade opened her eyes.
+
+"And mine isn't," said Sazare.
+
+"...No."
+
+"Mine is laid. I put the whole of it in at the start, all of it, in a
+second and a half or in seven hours, and then—"
+
+He stopped.
+
+She felt him stop. His arm was in her hands and something went through
+it that had nothing to do with what she was doing.
+
+"And then I close it," he said.
+
+---
+
+She could not move.
+
+That was the thing she thought about afterwards more than any other
+part of the night: that she had both hands full of an unknown substance
+being drawn out of a boy's wrist at a fixed rate she could not alter,
+and could not let go of it, and could not stand up, and could not do
+anything at all except sit there while he said the following out loud to
+a scrubbed table at twenty to six in the morning.
+
+"Six days," he said. "The stones. The order slips before the quantity
+does — I measured it fifty times out to nine days and I put three days
+on the label and I have spent fourteen months calling it degradation
+and treating it as a property of the medium."
+
+"It isn't."
+
+"It's a *battery*. It's a sealed jar. I put in everything it will ever
+have and then I shut the lid, automatically, without knowing I'm doing
+it, and it spends what's in it and then there is nothing left and the
+order has nothing to stand up in. Six days is not a decay rate. It's a
+capacity divided by a rate of use, and I could have worked that out in
+the fourth month if I had ever once asked why anything I made was
+finite."
+
+"And his rose is nine years old."
+
+"His rose is nine years old and dead and *porous*," said Sazare, "and
+whatever it drew, it drew through an architecture that is still shaped
+like an architecture for drawing, and I do not know whether it is still
+taking in — I would have to leave one in a dead place and one in an old
+place for a year — but I know that mine can't, because I sealed it."
+
+Tsunade sat with her hands round his wrist.
+
+"Say the last part," she said.
+
+"Which last part?"
+
+"You know exactly which."
+
+There was a pause of about four seconds.
+
+"The closing move," said Sazare. "The one that didn't fire tonight and
+put a stone hand on the end of my arm. That's the same move. It's the
+same automatic thing, done at the end of every course I have ever laid
+since I was seven, and it is the reason nothing I make lasts."
+
+"So."
+
+"So the thing that protects me is the thing that kills everything I
+build," he said, "and they are not two mechanisms that happen to be
+related, they are one habit, and if I want an article that does not run
+out then I have to not close it — which is precisely the thing that
+happened to me at half past ten last night."
+
+---
+
+Tsunade looked at the window, where it was starting to be light.
+
+*And that,* she thought, *is the biggest single piece of work anybody
+has done in my hospital in two years, and he has just said it out loud
+to a table, at twenty to six, with one hand, and there is nobody in
+this building who will ever know he said it.*
+
+*And I cannot write a word of it down.*
+
+She made herself say the other half, because she was a medic before she
+was anything else and because if she did not say it now she would say
+it worse in a week.
+
+"An unsealed article is an open route," she said.
+
+"...Yes."
+
+"In both directions. You have spent one night finding out what comes
+through an open route into a person, and you are proposing to build one
+deliberately and put it in a *ward*, into people with nothing left, and
+I want you to have heard me say that before you have had any sleep,
+because in about nine hours you are going to be extremely excited and
+you will not hear it then."
+
+"I've heard it."
+
+"Say it back."
+
+"An open article can be filled from outside," said Sazare, "which is
+the point, and it can also fill something else from outside, which is
+not, and the second one is a door in a body and I do not currently have
+a way to make it one-way."
+
+"Right," said Tsunade. "Good. Hold onto that when you don't want to."
 
 ---
 
