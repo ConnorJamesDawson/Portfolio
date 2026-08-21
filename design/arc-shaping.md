@@ -641,6 +641,24 @@ nothing usable.
 only because he refused the contract — the no-contract decision produces the
 one conversation a contract could never have compelled.
 
+**Placement: ch52, the aftermath.** Deliberately *after* the confrontation, so
+the confirmation arrives when it cannot possibly be useful.
+
+**And the elder refers to Tsunade's unhappiness.** Flat, as small talk,
+without malice: *Katsuyu says the Hokage is not pleased with you.*
+
+- What Sazare hears is a fact he already has.
+- What it means is that **the slugs discuss her among themselves.** There is a
+  network, she is a topic in it, and she is not in it and never has been —
+  which is the exact wound, arriving in a form she will never know occurred.
+- And it completes his fourth-instance error from the far side: he assumed a
+  channel existed, and one does. It does not go where he thought. **They do
+  not report to her. They report to each other.**
+- **Restraint beat:** an elder who has watched that family four hundred years
+  would add something like *she has always been like that*, in passing. He
+  will want the rest of it enormously and must leave it standing. Same shape
+  as the Hashirama shutdown in ch48 sc3, and by now it is a muscle.
+
 ### And it reopens the Urushibara argument at full size
 
 *You can't put a ladder in a book. You can only put the rungs.*
