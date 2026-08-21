@@ -728,6 +728,35 @@ table in ch34.
 
 ---
 
+## 6b. CHAPTER RUN — 50, 51, 52
+
+**Ch50 — the quiet one.** Month 8 day 25 → month 9, about three weeks. The
+contract offered and refused. Katsuyu starts correcting how he moulds and
+nobody uses the word *sage* because nobody has it. The work gets measurably
+better and Kanzaki finds it in the ledger before he does. **Closes on the
+count moving for the first time in thirteen weeks.**
+
+**Ch51 — the confrontation.** He sends for Tsunade, correctly, per the term,
+to try the wood. Six seconds, a rose, hand fine. Her four layers. Katsuyu
+offers her the same thing. She refuses. End on the refusal, unexplained.
+
+**Ch52 — the aftermath, and the elder.** The confirmation arrives when it
+cannot be useful. *Katsuyu says the Hokage is not pleased with you.*
+
+### The rose after it was delivered — hold the silence
+
+She does not mention it. He does not ask. **A month of neither of them
+referring to it**, and the silence is loud and both of them are in it.
+
+He learns only what Katsuyu said, from Shizune, in a corridor. Nothing else.
+**He does not find out where it is** — and cannot ask, and the not-knowing
+runs under ch50.
+
+(Note: it is an open article. It draws and it hums. In the Hokage's office
+that is evidence sitting on a windowsill, and she would have thought of that
+inside four seconds. Whatever she did with it is a decision the reader should
+be able to reconstruct and he should not.)
+
 ## 7. Housekeeping — outstanding
 
 **Saeko's second certification was never written.** Ch45 sc5: *Kanzaki's got
