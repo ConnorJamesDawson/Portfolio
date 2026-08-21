@@ -409,6 +409,254 @@ the entry.
 
 ---
 
+---
+
+## 5b. THE SLUG ROAD
+
+Everything from ch49 onward. Recorded because it is intricate and the pieces
+depend on each other.
+
+### Summons are categorically his only teachers
+
+Ch47 sc2 established it without the implication being noticed: **seals are
+notation, and the notation is permanently shut to him.** Every technique in
+the world travels as a seal sequence, so every human teacher is transmitting
+in a language he cannot read.
+
+**Summons have no notation.** Their methods are innate; there is nothing to
+sequence and nothing to write down. The toads have borrowed human forms from
+four generations of summoners; slugs and snakes never had it.
+
+So a summon is the **only class of teacher whose method is transmissible to
+him** — because their method is not a notation either. This is a category,
+not a nice parallel.
+
+### Katsuyu can see the close
+
+**The close is two acts** — letting go, and the object shutting — a tenth of a
+second apart, welded by habit since he was seven, and he has no report of
+either. She can see both. That is the whole reason ch49 works and the reason
+the slug road exists at all.
+
+Teaching method: **she says *now*, nine hundred times, until the inside
+catches up.** Exactly what Yagi did with pulses when he was fifteen.
+
+### The contract — REFUSED, and why
+
+She offers one. She is straightforward, it is the biggest thing she has, and
+it is what everybody has always wanted from her. The thought *this is not mine
+to offer* does not arrive — established blind spot.
+
+**He asks how the first one happened.** Before there was a contract there were
+people and there were slugs and somebody spoke to somebody. **A contract is
+the paperwork on a relationship, not its precondition** — the same category
+error as *bloodline* in the box where the mechanism goes, and *source medium*
+in a provenance column. Fourth instance.
+
+**He declines, and the reason is that a contract removes the *free*.** Four
+hundred and eleven years and never a no available. If she signs, he can call
+her and she comes and it is not a choice. The one good thing about the whole
+business is the only thing a contract destroys. She would not have seen that,
+and it costs her when he says it.
+
+**So: she visits.** He cannot summon her, call her, order her or any slug,
+or rely on her being there. She comes if she wants to. He asks every time.
+
+Consequences:
+- **Sakura's queue is untouched** — nothing left it. And it is now, quietly, a
+  queue for paperwork, and nobody is going to tell her, and it is not his to
+  tell.
+- **Any slug may choose to talk to him.** Which is the door to Shikkotsu with
+  no contract in it — the forest deciding to be interested rather than a
+  signature. See the elder, below.
+
+### Tsunade's grievance — four layers, all true at once
+
+1. Nobody asked her.
+2. It is her summon, and Katsuyu has a life now and it is not with her.
+3. **Her own interest is what took her.** Ch49 sc4: *you are in the middle of
+   something with Tsunade-sama, and I have never been in the middle of
+   anything with Tsunade-sama.*
+4. **She had the same access for forty-one years and never used it.** A boy
+   did it in four minutes.
+
+She will be right to be angry and wrong about who at, and will know both
+while she is doing it.
+
+**Sazare's actual fault is small and exact:** he assumed the channel existed.
+He took it for granted that a summon reports to her summoner, because the
+arrangement is formal. It is not — nobody ever asked Katsuyu to volunteer
+anything, so in forty-one years she never has. A man who audits everything
+took a communication structure entirely on faith because it looked official.
+
+### Sage mode — scaffolded, not bypassed
+
+Canon precedent: **Fukasaku and Shima on Naruto's shoulders**, gathering and
+mixing while he fights, because he cannot hold the ratio himself; and
+Fukasaku correcting him with a staff when he over-gathers, because a person
+learning this has no report of what they are doing wrong.
+
+Both of Sazare's problems exactly: **no report** and **no capacity**.
+
+So the stillness gate is not bypassed. It is **scaffolded** — somebody holds
+it with him until he can. The price stays intact and the road gets a first
+step.
+
+### The three roads
+
+- **Toads: the self.** Raw enhancement, power in the body.
+- **Snakes: taking.** Acquisition — other bodies, other techniques.
+- **Slugs: the world.** Giving. Which is why the healing sits there, and why
+  Hashirama's is read as life.
+
+### Slug sage mode — capacity, not power
+
+A slug is **a membrane.** It exchanges with its environment through its whole
+surface, continuously, both ways. Which is the open-article problem and the
+having-room problem, in an animal.
+
+- **It does not run out.** Toad sage burns through. A slug sage does not fill
+  and does not empty — it exchanges. The one that lasts. Same finding as the
+  rose: a root standing in a field.
+- **Division.** Genuinely in more than one place at reduced capacity. For a
+  man whose hard limit has always been one pair of hands.
+- **Healing at scale.**
+
+**And the cost is slowness.** Nothing can be done quickly in it. Gathering is
+slow; while in it you are deliberate; there is no fast decision.
+
+> **Slug sage mode is a governor.**
+
+The thing Kakashi told him he needs and structurally cannot have — a gap
+between intention and effect — is a **property of the state**. The road does
+not end in power. It ends in the brake.
+
+### Life in rock — what it actually means
+
+Not golems. A living thing **draws**, **maintains**, **grows**, **reproduces**.
+
+He got *draws* in ch49. Ch46 already named the end: Hashirama's forest is
+seventy years old and **makes its own seeds**, and no chakra has gone into it
+in fifty years. Ch41: **every piece is a seed.**
+
+So: **crystal that repairs itself, grows, and seeds.** A reef, not a golem — a
+mineral ecology, which is a real thing the world does and has never needed a
+will to do it.
+
+**What it is for:** walls that close their own cracks; a medical stone that
+regenerates instead of dying at six days; a splint that grows with a child's
+bone; a blade that repairs its own microfractures. **Infrastructure and
+medicine. Not a combat power.**
+
+**The danger:** a thing that reproduces **cannot be recalled**. A forest is
+benign because it is a forest. Self-seeding mineral does not compete for
+light, it competes for *place*, has no season, and nothing eats it. The ch28
+objection at full size — a thing you cannot de-escalate — and this time the
+governor is whether he can build something that stops.
+
+**And the bomb:** he is the last of his line, the seventh of a family that
+ends with him, and the whole back half of the arc is *do I teach, and who* —
+and the end-state of his bloodline is **the ability to make things that
+reproduce.**
+
+### Aesthetics — it shows in the room, not on the man
+
+Every other sage state is written on a body. His is written on the four feet
+around him, **because it was never in him — it is in the taking-up.**
+
+**Rapid, encroaching crystallisation**, which restores itself **only so long
+as he can hold it all together.** The moment he runs out of room it is a lot
+of loose stone. Capacity, at every scale, same finding.
+
+### THE CONFRONTATION — trigger and shape
+
+**Trigger: he has enough practice to try Wood Release again.**
+
+He cannot do it without telling her — the ch48 term is explicit. **So he sends
+for her.** She comes by invitation, expecting a crystal demonstration.
+
+**He does the right thing and the right thing is what exposes him.**
+
+His reason is rigorous: the close was the problem, he now has the close and
+the capacity, and the experiment he abandoned in the eighth month is the one
+he can now do safely. This time the protocol has an operator line.
+
+**It is undramatic.** Six seconds, a rose on a felt, hand fine. The thing that
+took his hand two months ago is a bench operation, and the only difference is
+that somebody taught him — **which is the thesis complete: it was always a
+technique, and here is the proof, because it has just been taught.**
+
+She asks what has changed. Then how. Then what Katsuyu has been teaching him.
+Katsuyu answers plainly, because she always does. He hands over the notebook,
+because he hands everybody the notebook, and it is headed something like
+*Ex. 1 — assisted. Day nine.*
+
+**The bind:** sage training is the safety measure. If he can hold it, he does
+not petrify. Forbidding it makes him less safe, and she set the term herself.
+She cannot stop it, cannot be in it, cannot be the one teaching it. She can
+only watch somebody walk a road she has spent her life not walking.
+
+**The beat to hold the scene for: Katsuyu offers Tsunade the same thing.**
+
+Of course she does. It is obvious, it costs nothing, and she has had a
+fortnight of finding out that obvious things go unsaid.
+
+**Tsunade says no.**
+
+Sazare will not understand it. Katsuyu will not understand it. The reader
+will. **End on the refusal. Do not explain it.**
+
+### The slugs have always known
+
+Bloodlines are not real, and to the slugs it is not a discovery — it is about
+as remarkable as the tide. **An elder confirms it flatly**, in the register
+Katsuyu uses for *the fourth floor is holding*.
+
+**The point is not the confirmation. It is that nobody ever asked.** Four
+hundred years of a summon on the Hokage's desk, released the moment the work
+was done. It lands on Tsunade harder than on him.
+
+**CONSTRAINT — hold this hardest: it must not help him.** A summon's oral
+word is not evidence any board would take, and Tsunade has already forbidden
+the paper on security grounds. He gets **certainty and no evidence**, which is
+worse than where he started: he knows he is right, he still cannot say it, and
+the reason he cannot say it is that it is true.
+
+**The Sage of the Six Paths — keep it small.** The elder is a *terrible*
+source, the way Katsuyu is a terrible explainer of natural energy: fragments,
+no dates, the boring parts intact and the dramatic parts missing, expansive
+about something irrelevant and uninterested in what he desperately wants.
+**This book does not do cosmology.** What she confirms flatly: chakra was
+*given*, once, by somebody; the eyes came down a body-line from before that
+and are the one genuinely inherited thing; everything else people call blood
+is what humans worked out and then forgot they had worked out.
+
+**They keep no scrolls. They teach by doing.** Which means the slugs have held
+the answer for four centuries **in the only format nobody could receive it
+in** — and the one human alive who can only learn that way has walked in.
+Every other person in the world could have gone and asked and come back with
+nothing usable.
+
+**The elder is not Katsuyu.** A second slug chose to come. Which is possible
+only because he refused the contract — the no-contract decision produces the
+one conversation a contract could never have compelled.
+
+### And it reopens the Urushibara argument at full size
+
+*You can't put a ladder in a book. You can only put the rungs.*
+
+**The slugs are the proof that Urushibara was right** — and the price of being
+right is four hundred years of nobody finding out.
+
+**Minato is the counter-proof:** he broke his own mess into three stages so it
+could be handed on, and it survived him, and Kakashi has it.
+
+Saeko lost two years of a man's life to that argument. Sazare is about to
+stand in the middle of it holding both halves, because the question at the end
+of his arc is *do I teach, and who* — and he has just met the two possible
+answers.
+
+
 ## 6. Downstream consequences
 
 **Kiri.** Not a tragedy of prejudice — **a category error.** His mother and
@@ -462,7 +710,24 @@ table in ch34.
 
 ---
 
-## 7. Still open
+## 7. Housekeeping — outstanding
+
+**Saeko's second certification was never written.** Ch45 sc5: *Kanzaki's got
+me down for the second certification in the seventh, so I'll be in the yard
+for that — four days' work.* That falls inside ch46's span and did not appear.
+Either write it as a short retrospective, or accept that it happened offstage
+and she was correct and pleasant for four days.
+
+**The runway.** Position after ch49 is month ~28 of 30. Still queued: Kiri,
+Saeko's ending, the publication refusal, the sword finishing (~month 10, on
+the boundary), the second Kabuto exchange. Four or five chapters against two
+months of story time.
+
+**Kiri will not fit and must not be compressed.** It is the heaviest beat in
+the arc. Let the act run past month 30 and open Act 5 with the last of it —
+the timeskip's end is a hard date for *Naruto*, not for this book's act break.
+
+## 7b. Still open
 
 - Chapter count for the theory span — is the hypothesis-and-hunt its own
   chapter or folded into the Yamato chapter?
@@ -476,6 +741,15 @@ table in ch34.
 ---
 
 ## 8. Provenance
+
+**Author's, in full (§5b):** summons as the only teachers he can have, and
+why; Katsuyu asking about the contract and his refusal turning on the *free*;
+the slugs having always known bloodlines are not real, and the elder
+confirming it; no scrolls and teaching by demonstration; the three roads and
+slug sage mode as transformative to how he *creates*; life in rock by
+extension from Hashirama; rapid encroaching crystallisation that restores
+itself only while he can hold it together; the confrontation triggered by him
+trying Wood Release again with Tsunade watching him train to be a Sage.
 
 **Author's, in full:** the thesis and the dōjutsu exception; **the copy
 rather than the probe; the product being a whole living rose that keeps
@@ -491,6 +765,14 @@ bridge and the Rasengan as its canon anchor; the sword and the loss of the
 six-second limit; no new elements — no lava, no steam; the emotional
 diagnosis, the finite road, the hobby problem, and the breakup's absence of
 hurt.
+
+**Proposed, subject to veto (§5b):** that the confirmation must not *help*
+him — certainty without usable evidence; keeping the Six Paths fragmentary and
+the elder a poor source; slug sage mode's cost being slowness, and therefore
+that it is the governor Kakashi said he cannot have; the sage state showing in
+the room rather than on the body; Katsuyu offering Tsunade the same thing and
+being refused, as the scene's close; Sakura's queue becoming a queue for
+paperwork that nobody tells her about.
 
 **Proposed, subject to veto:** Yamato specifically and Kakashi as the gate;
 the labelled fragment and Tsunade's reaction to it outweighing the hand;
