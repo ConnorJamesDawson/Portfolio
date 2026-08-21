@@ -214,20 +214,43 @@ cannot stop it.
      goes on being a rose. The permanence problem, portable, on his bench.
    - **The familiarity is the finding.** Different lattice, same input, and
      it reads as something he already knows.
-4. **He never attempts Wood Release.** He does what he has done ten thousand
-   times since he was seven: holds a material and reaches in to read it.
-   Three hundred media on Kanzaki's ledger and this is the first one that
-   reaches back.
-   - The injury is not hubris. It is **the exact reflex Kakashi told him to
-     put a governor on**, days earlier, and he had only ever applied the
-     governor to stone and to his mouth.
-5. **His hand turns to stone.** The rose is in it.
+4. **He copies it.** Not a probe — a *copy*. He has no notation (ch47 sc2:
+   the transmission medium of ninjutsu is permanently shut to him), so the
+   only way he has ever learned anything is by holding a finished article
+   and matching the operation until the two agree. He did that with a bezel
+   at eleven and a retaining figure at seventeen. He has been sitting with
+   one of Tenzō's roses every evening for nine days telling himself he is
+   taking readings.
+   - **It takes four minutes and it is easy.** That is the finding, and it
+     lands before he understands what it proves: *the operation is the
+     same operation.* Same act, different lattice.
+   - **He gets about 25 mm of stem** — green, one node, partial bark — out
+     of the meat of his own palm, not out of the reference.
+5. **Nothing closes.** At the end of every course he does something that
+   shuts the route. Nine hundred thousand times since he was seven, never
+   once conscious of it, never described, never taught — the same class of
+   thing as taking your hand off something hot. **It is tied to the crystal
+   operation and it does not fire**, because he is not performing the
+   crystal operation.
+   - Letting go of the rose does not help. The route is in him; the rose
+     was only a reference. Four attempted closes, all failed.
+   - So the injury is not hubris and not curiosity. It is **his own
+     competence failing to transfer** — the cost of succeeding at something
+     for the first time.
+6. **His hand fills.** The stem stops growing and comes off in his palm.
    - The right organ: his hands are his trade, his diagnostic instrument,
      his only means of touch, and the writing standard's fixed anchor.
    - He fills out and signs **his own consent form** first, because he is
      the only subject his doctrine permits him to consent for, and he would
      have noticed that. It is in his pocket at her door.
-6. **The only person who knows is Tsunade.** End of chapter.
+7. **He takes two things to her door**: the rose, and the fragment in a slip
+   of paper with *22:31, L palm, approx 25 mm* written on the outside,
+   because it is a sample and samples get labelled.
+8. **The only person who knows is Tsunade.** End of chapter.
+   - Her reaction to the fragment is **larger than her reaction to the
+     hand** — she takes her hand off a live petrification to look at a
+     piece of wood. It is the first physical evidence anybody has ever had
+     that a kekkei genkai is a technique.
    - She recognises petrification instantly, which means she knows he was
      reaching for natural energy, which means the next question is *who told
      you* and the answer is *nobody, I derived it*, which is worse.
@@ -403,11 +426,22 @@ a rumour about a woman in Sound is not four hundred families. Tsunade
 installed this check in ch41, out loud: *one in nine will be the one that
 hurts people for a century — bring me the other eight.* This is the one.
 
-**The landing.** The final question is not *do I publish* but **do I teach,
-and who.** Land it on a person: he teaches somebody with **no bloodline at
-all** and it works **partially**. Not fully. Enough. Which proves both halves
-— the aptitude was real, and it was only ever a head start — and means the
-purge killed several thousand people over a running start.
+**The landing — the culmination of the whole arc.** Not a paper. **A
+demonstration between two people, in private, that can never be published.**
+
+**Wood Release can be taught. And so can Crystal Release — back to Tenzō.**
+
+The two of them can pick each other's up because they are already fluent in
+the operation; only the lattice differs. This is *not* a licence for anybody
+to learn anything — Kakashi does not start growing crystal. The parallel is
+the qualification: two men who have spent their lives shaping natural energy
+can learn each other's shape, and a man who has never shaped any cannot.
+
+Which means the final question is not *do I publish* but **do I teach, and
+who** — and the answer arrives as a person rather than a decision. It works
+**partially**. Not fully. Enough. Which proves both halves at once: the
+aptitude was real, and it was only ever a head start — and means the purge
+killed several thousand people over a running start.
 
 **Sage mode** stays shut behind stillness, the one price this character is
 built to be unable to pay. The ch43 falling lesson is rung one, written by
@@ -432,7 +466,10 @@ table in ch34.
 
 ## 8. Provenance
 
-**Author's, in full:** the thesis and the dōjutsu exception; crystal as
+**Author's, in full:** the thesis and the dōjutsu exception; **the copy
+rather than the probe, and the missing closing move as the cause of the
+injury**; **the culmination — Wood Release taught, and Crystal Release
+taught back to Tenzō, the parallel between them being the qualification**; crystal as
 nature chakra shaped, not absorbed; discovery by testing rather than
 archive; the study-reading route; Wood Release as the nearest case; the
 practitioner interview and the paper as the honest stated reason; the rose;
@@ -443,7 +480,7 @@ diagnosis, the finite road, the hobby problem, and the breakup's absence of
 hurt.
 
 **Proposed, subject to veto:** Yamato specifically and Kakashi as the gate;
-*he reads the material rather than attempting the jutsu*; the consent form;
+the labelled fragment and Tsunade's reaction to it outweighing the hand;
 the permanent partial cost; stability-versus-instruction as the sword's
 trade-off; the test-piece-versus-legend reaction; permanence as the prize
 and Hashirama's self-seeding forest; Konoha-as-unread-fabrication; the

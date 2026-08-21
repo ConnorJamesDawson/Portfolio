@@ -1,7 +1,7 @@
 # Chapter 48, Scene 5 — What She Did Not Write
 
 *Act 4, part D. Konoha, the Hokage's tower. Sazare Ruri, age eighteen.
-POV: Sazare. ~1,704 words.*
+POV: Sazare. ~1,827 words.*
 
 ---
 
@@ -80,15 +80,30 @@ case and has not stopped him because we have no evidence either way."
 "So a report is the leak."
 
 "A report is *a* leak, with a delay on it, and I would be building it
-myself." She rubbed her eyes. "And here is the second half, which is the
-part that isn't about you at all. It isn't the incident that matters.
-It's the four steps in your notebook. The incident is a boy who touched
-something and hurt his hand — that's four lines and nobody cares. But
-the incident is not *explicable* without the hypothesis. The first
-competent officer who reads it asks why you were touching a Mokuton
-artefact with intent, and the honest answer to that question is the
-sentence I made you say out loud in my office on the first of this
-month, and I am not putting that sentence into a filing system."
+myself." She rubbed her eyes. "And here's the second half, which isn't
+about you at all. It isn't the incident that matters. A boy hurt his
+hand — that's four lines and nobody cares."
+
+"Then—"
+
+"It's the *product*, Ruri." She said it flatly. "There is an inch of
+green wood in a slip of paper on that table, produced by a Shōton user,
+in four minutes, by copying. That is not an incident report. That is
+the first piece of physical evidence anybody has ever had that a
+kekkei genkai is a technique, and it is not explicable without the
+hypothesis, and the first competent officer who reads the file asks the
+obvious question and the honest answer is the sentence I made you say
+out loud in my office on the first of this month."
+
+"You want me to destroy it."
+
+"No." She looked at him. "God, no. It's the only one in the world and
+you'd never forgive either of us. I want it in a box, and I want the
+box in this building, and I want to be the person who knows which
+drawer — and I am aware, before you say it, that what I have just
+described is exactly what a man collecting this sort of paper for
+thirty years would also want, and the only difference between us is
+which of the two of us gets to be wrong about themselves."
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 48, Scene 1 — The Stair
 
 *Act 4, part D. Konoha, the Hokage's tower. Sazare Ruri, age eighteen.
-POV: Sazare. ~1,865 words.*
+POV: Sazare. ~2,139 words.*
 
 ---
 
@@ -54,7 +54,7 @@ touching?"
 
 ---
 
-He got the rose out of his pocket with his left hand.
+He got the rose out of his coat with his right hand.
 
 Tsunade looked at it.
 
@@ -64,8 +64,50 @@ five past eleven at night holding an eighteen-year-old's wrist in one
 hand and looking at a dead rose in the other and said one word, quietly,
 to nobody.
 
-Then she said: "Upstairs. Now. Not the office — the room at the end,
-the one with the table."
+"That's a Mokuton article," she said. "Nine days, ten? It's had the
+water out of it. All right. You held it and it filled you, and I want
+to know for how long and how hard, and then we're going—"
+
+"No."
+
+"...No?"
+
+"I wasn't holding it," said Sazare. "I mean I was holding it. It wasn't
+the holding."
+
+He got the slip of paper out of his breast pocket, which took some
+doing one-handed, and unfolded it against his chest, and there was an
+inch of green stem in it with a node and half a bark and the start of
+something at the node that had not finished being a leaf.
+
+"That came out of my palm at half past ten," he said.
+
+---
+
+Tsunade did not move for four seconds.
+
+He had learned, over two years, what her face did when the working
+apparatus went still, and he had never once been able to read
+underneath it, and he was not able to read underneath it now — but he
+had never before seen the thing that happened next, which was that she
+took her hand off his wrist.
+
+She took her hand off a live petrification to look at a piece of wood.
+
+Then she put it back, fast, and said, in a voice with nothing whatever
+in it:
+
+"Upstairs."
+
+"You haven't finished the—"
+
+"I have finished on this staircase," said Tsunade. "I am now going to
+finish somewhere with a door on it, because you have just handed me the
+single most dangerous object in this village and you are holding it in
+a piece of paper with the *time* written on the outside."
+
+"Not the office," she said. "The room at the end, the one with the
+table."
 
 "There's a guard on the—"
 

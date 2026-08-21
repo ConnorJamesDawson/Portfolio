@@ -1,127 +1,183 @@
-# Chapter 47, Scene 7 — The Active Read
+# Chapter 47, Scene 7 — Matching
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,765 words.*
+age eighteen. POV: Sazare. ~2,300 words.*
 
 ---
 
-He had not done the active read and the reason was manners.
+He had been holding them for nine days and he had known since about day
+three what he was actually doing.
 
-That was the whole of it and he had known it since day two. Every
-unknown medium he had ever been handed — a new stone, a foreign
-aggregate, a bar of something a quartermaster could not name — he read
-the same way, and he had done it perhaps four thousand times, and it
-took about a second and a half.
+He had told himself it was observation. He had a chart with weights on
+it and a blind test with four decoys and eleven out of eleven written in
+the margin, and all of that was real and none of it was the reason he
+picked one up every evening and sat with it for forty minutes.
 
-You put a small amount in. Not a course. A load about the size of a
-seat check. And you feel what comes back, and what comes back tells you
-the grain, the seat, the way it will take an instruction and whether it
-will fight you, and it is the single most ordinary thing a fabricator
-does and he had done it to a piece of granite on the yard wall on his
-first morning in this village without asking anybody.
+*I am matching.*
 
-He had held the rose eleven times with his eyes shut and read it
-passively, from the outside, the way you can tell a room somebody has
-left.
+*That is the only thing I have ever been able to do. I cannot read a
+seal sequence and I never will — the notation is shut to me and Kakashi
+said so on a training ground four weeks ago in the plainest language he
+has ever used with me — and every single thing I have ever learned, I
+have learned by having it in my hand and going at it until my hands did
+the same thing.*
 
-He had not put anything in.
+*I learned a bezel at eleven by holding one Warashina made and doing it
+wrong four hundred times.*
 
-*Because it is his.*
+*I learned the seal on the seal by watching an old man's fingers in a
+cold room and writing down what he said in brackets.*
 
-*I have been given twelve of a thing a man makes when nobody is
-watching, and he gave me all twelve because he worked out inside two
-hours that I wanted twelve and would have asked for four, and putting
-my own chakra into one of them is a thing I have not been able to make
-myself do for nine days.*
-
-*Which is sentiment, and I have written it down four times this week
-and crossed it out three, and it is now the fifteenth of the eighth
-month and I have eleven pages and two days.*
+*I have twelve saturated objects in a box under my bed made by the only
+living instance of a thing I am trying to understand, and I have been
+sitting with one in my hand every evening for nine days telling myself
+I am taking readings.*
 
 ---
 
-He wrote the protocol at about ten, because he wrote a protocol for
+He wrote the protocol at about ten because he wrote a protocol for
 everything.
 
-*Question. Does the rose take a load, and what comes back?*
+*Question. Can the operation be reproduced?*
 
-*Sample. Rose 3 — the one with the double thorn at the fourth node,
-5.9 g, dried, nine days, chosen because it is the least good of the
-twelve and if I ruin it I have ruined the worst one.*
+*Reference. Rose 3 — double thorn at the fourth node, 5.9 g, dried,
+nine days. The worst of the twelve.*
 
-*Method. Standard active read. Seat-check load, one to two seconds, one
-attempt. If nothing comes back, stop and record. If something comes
-back, record and stop.*
+*Method. Hold the reference. Match it. This is not a defined method and
+I am aware of that. It is the method I have used for everything I know
+and it consists of holding a finished article and attempting the same
+operation until the article and the attempt agree.*
 
-*Prediction. Nothing. It is a dead rose. The most likely outcome is
-that it takes nothing at all, because dry cellulose is a poor medium
-and I have never had a useful read off dead plant matter in my life.*
+*Product. Whatever I get. Probably nothing.*
+
+*Prediction. Nothing. I am a Shōton user attempting an operation on
+cellulose and water, which is a medium I have never worked and could
+not name the properties of, and I expect no result whatsoever.*
+
+*Stopping rule. One attempt.*
 
 *Risk. None identified.*
 
-He wrote *none identified* and underlined it, which he did with things
-he wanted a future reader to be able to find, and then he read the whole
-protocol back once, the way he always did.
+He read the protocol back once, the way he always did.
 
-It was a good protocol. It had a sample, a method, a prediction, a
+It had a question, a reference, a method, a product, a prediction, a
 stopping rule and a risk line.
 
-It did not have a subject, because he had not noticed there was one.
+It did not have an operator, because he had not noticed there was one.
 
 ---
 
-He put the rose on the felt and his index finger on the stem at the
-third node at about twenty past ten.
+He put the rose in his left palm and closed his hand round it.
 
-Then he put a small amount in.
+Not tight — it was dry and it would have snapped — but round it, so
+that the stem lay across the pads and the head sat between the thumb
+and the first finger, and he could feel the whole length of it.
 
-Less than a seat check. He was being careful; it was somebody else's
-and it was dry and he had four thousand of these behind him and had
-learned, at about nine years old, that you go in light on anything
-brittle.
+Then he shut his eyes and did what he had done at eleven with a bezel.
 
-He went in light.
+*Not "what is this." "What is being done."*
 
-Nothing came back.
+He had it inside about four minutes and it was nothing like as
+difficult as he had expected, and afterwards, on a stair, in a room, in
+four separate accounts written over the following months, he came back
+to that and could not make it be a smaller fact than it was.
 
-*Right,* he thought, and had actually begun the movement of taking his
-hand away — had begun it, the finger was already lifting — when the
-rose took the rest.
+*It was easy.*
+
+*Not the shape. The shape is a rose and I could not make a rose to save
+my life; I do not know what a rose is at the level a maker has to know
+a thing.*
+
+*The operation was easy.*
+
+*It is the same operation. It is the identical operation. There is
+something available and you take some and you give it a form, and I
+have been doing it since I was seven years old and he has been doing it
+since he was six, and the only difference between us in the entire
+business is what we happen to be making, and I have just found that out
+in four minutes with my eyes shut in a room over a persimmon tree.*
+
+He reached for it.
+
+It came.
+
+---
+
+He got about an inch.
+
+It came up out of the meat of his palm — not out of the rose, which was
+the thing he understood immediately and which was the whole of it —
+about an inch of stem, green, with the bark not properly formed on one
+side, and a node, and the beginning of something at the node that would
+have been a leaf if he had known what a leaf was.
+
+It was warm and slightly wet.
+
+He looked at it for about two seconds and made a sound he did not
+recognise as his own.
+
+*It works.*
+
+*It works, it is not mine, it is coming out of my hand, it is wood,
+there is wood coming out of my hand and I have never in my life made
+anything that was not a silicate and this is CELLULOSE—*
+
+And then, having got it, he did the thing he had done at the end of
+every operation of his life, which was to finish.
 
 ---
 
-It was not painful.
+Nothing closed.
 
-That was the first thing and it was the thing that made the next
-forty seconds possible, and afterwards he could not decide whether it
-had been a mercy or the worst part.
+That was all. That was the entire event and it took less than a second
+and he did not feel it happen, because you do not feel a thing that
+does not occur.
 
-There was no grab and no shock and nothing that felt like an attack.
-What happened was that the small amount he had put in went somewhere,
-and then more went, and it went the way water goes out of a cup with a
-crack in it — not pulled, not drained, simply *going*, along a route
-that had opened without anybody deciding to open it, and the route ran
-the wrong way through his hand.
+He worked out what had happened much later, on a floor, left-handed,
+and it went into the notebook in four lines that he wrote twice because
+the first version was not accurate enough:
 
-And something came in.
+*At the end of a course I do something. I have done it perhaps nine
+hundred thousand times since I was seven. It shuts the route.*
 
-He had no word for it then and he had no word for it four months later
-and he never entirely got one. What he wrote that night, with the
-wrong hand, was:
+*I did not know it existed. I have never described it, never taught it,
+never written it down, never once been conscious of doing it, and if
+anybody had asked me at any point in eleven years whether there was a
+closing move I would have said no and been wrong.*
 
-*Enormous. Not hostile. Not directed. It is not doing anything to me.
-It is simply there in a quantity that has nothing to do with the size
-of the object and it went into my hand because my hand was the open
-end.*
+*It is not a decision and it is not a technique. It is the same class of
+thing as taking your hand off something hot.*
 
-He got his finger off the rose at what he estimated afterwards at about
-one and a half seconds.
+*It is tied to the crystal operation. It did not fire, because I was
+not doing the crystal operation.*
 
-That was fast. He wrote that down too, later, without any pride in it
-at all: *disengagement 1.5 s, which is as fast as I have ever come off
-anything, and it made no difference whatsoever.*
+He opened his hand.
+
+The rose fell on the felt.
+
+It did not help. He had known within about a second and a half that
+letting go was not going to help, because the route was not in the
+rose. The rose was a reference. He had been holding a picture, and you
+do not stop the thing you have copied by putting the picture down.
+
+He tried four things in the next ninety seconds.
+
+He tried the crystal close, which was the only one he had, and it went
+through his hand and found nothing to shut. He tried simply stopping,
+which is a thing that works on every operation a person has ever
+performed and did not work on this one. He tried laying a course into
+the seeded grain on the table with the same hand, on the theory that
+occupying the route might do something, and it did nothing at all
+except produce a perfectly ordinary crystal on a felt beside a dead
+rose. He tried, at the end, putting his palm flat on the floorboards,
+because Katsuyu had not yet told him about the ground and because a
+man will put his hand on the floor.
+
+Then it was full.
 
 ---
+
+The inch of stem stopped growing at some point and he did not see when.
 
 The fingertips went first.
 
@@ -129,87 +185,102 @@ He watched it happen, which was the part he did not put in the ledger
 in any detail, because there was no honest way to write it that was not
 worse than leaving it out.
 
-The pad of the index finger, where it had been on the stem, went pale
-and then went *matte* — the shine off it, the way a stone goes when it
-dries — and then the colour left the nail bed and did not come back,
-and the whole of it stopped being skin somewhere between one moment and
-the next in a way he did not see the edge of even though he was looking
-directly at it.
+The pad of the index finger went pale and then went *matte* — the shine
+off it, the way a stone goes when it dries — and then the colour left
+the nail bed and did not come back, and the whole of it stopped being
+skin somewhere between one moment and the next in a way he did not see
+the edge of even though he was looking directly at it.
+
+There was no pain.
+
+That was the first thing and it was the thing that made the next forty
+seconds possible, and afterwards he could never decide whether it had
+been a mercy or the worst part.
 
 It moved.
 
 Not fast. He got his other hand round his wrist and squeezed and could
 feel his own pulse perfectly well and there was nothing wrong with the
-pulse, and above the line everything was warm and ordinary and his,
-and below it there was a thing on the end of his arm that had his
+pulse, and above the line everything was warm and ordinary and his, and
+below it there was a thing on the end of his arm that had his
 fingerprints on it and did not belong to him.
 
-It was at the second knuckle by the time he had finished not
-panicking.
+It was at the second knuckle by the time he had finished not panicking.
 
 ---
 
 He timed it.
 
 He wrote that sentence down two days later in a different room and read
-it back and left it standing, because it was true and it was the
-single most complete description of himself that he had ever produced.
+it back and left it standing, because it was true and it was the single
+most complete description of himself that he had ever produced.
 
-*22:24 approx — contact. 22:24 — disengagement, 1.5 s.*
+*22:31 approx — first product. Approx. 25 mm of stem, green, one node,
+partial bark. Emerged from the palm, not from the reference.*
 
-*22:25 — distal phalanges 1–3. Matte, cold to my other hand, no
+*22:31 — attempted close. No closing move available for this operation.
+Four subsequent attempts, all failed, see over.*
+
+*22:33 — distal phalanges 1–3. Matte, cold to my other hand, no
 sensation. Pulse at the wrist normal, 88.*
 
-*22:29 — second knuckles, index and middle. Line is not straight. It
-is following something.*
+*22:37 — second knuckles, index and middle. Line is not straight. It is
+following something.*
 
-*22:34 — third and fourth. Thumb unaffected as of now.*
+*22:42 — third and fourth. Thumb unaffected as of now.*
 
-*22:41 — mid-metacarpal, index. Rate is slowing. Between 22:25 and
-22:34 it moved approximately 30 mm; between 22:34 and 22:41
-approximately 8.*
+*22:49 — mid-metacarpal, index. Rate slowing. 30 mm in the first nine
+minutes, approximately 8 in the next seven.*
 
 *No pain at any point. That is the observation I would most want a
-reader to have. There is no pain. If there were pain I would have gone
-out of that door at 22:26.*
+reader to have. If there were pain I would have gone out of that door
+at 22:34.*
 
 He wrote all of it left-handed, badly, sitting on the floor with his
 back against the wall in the position he had sat in every night for
-eleven weeks failing to hold a sphere, and at about ten to eleven he
+eleven weeks failing to hold a sphere, and at about five to eleven he
 stopped writing in the middle of a word.
 
-*It is slowing but it is not stopping and I have been sitting on this
-floor for twenty-six minutes taking readings.*
+*It is slowing and it is not stopping and I have been on this floor for
+twenty-four minutes taking readings.*
 
 He looked at the page.
 
-*I wrote a protocol with a risk line and put "none identified" under
-it and underlined it.*
+*I wrote a protocol with a risk line and put "none identified" under it
+and underlined it.*
 
-*I put the rose down as the sample.*
+*I put the rose down as the reference and "whatever I get" as the
+product.*
 
-*I was the sample. I have been the sample since about ten past ten and
-I did not write myself into my own protocol, and I have spent two years
-building a doctrine that says nobody has a thing done to them without
-knowing, and I have just done a thing to myself that I did not know
-about and could not have consented to because I did not know there was
-anything to consent to.*
+*I did not write an operator.*
+
+*I have spent two years building a doctrine that says nobody has a
+thing done to them without knowing, and I have this evening performed
+an unknown operation on the only subject in the room, and the reason I
+did not obtain consent is not that I refused to. It is that I did not
+notice there was a person in my own experiment.*
 
 He got up.
 
 ---
 
-The street was empty and the eighth month was warm and there was a moon
-of about three-quarters.
+He put the coat on with one hand, which took some doing.
 
-He put his coat on with one hand, which took some doing, and put the
-stone hand in the pocket because a stone hand at eleven at night would
-stop anybody, and he took the rose — rose 3, the worst of the twelve,
-double thorn at the fourth node, five point nine grams — because it was
-evidence and because leaving it on a felt in an empty room was not a
-thing he was able to do.
+He put the stone hand in the pocket, because a stone hand at eleven at
+night would stop anybody. He took the rose, because it was evidence and
+because leaving it on a felt in an empty room was not a thing he was
+able to do.
 
-He went down the stairs and out into the lane.
+And he took the other thing.
+
+It had come off in his palm when the hand went — it was an inch of
+green stem with a node and half a bark, no longer growing, no longer
+warm, lying on the felt where the rose had been — and he wrapped it in
+a slip of paper and wrote *22:31, L palm, approx 25 mm* on the outside
+because it was a sample and samples get labelled, and put it in the
+breast pocket.
+
+Then he went down the stairs and out into the lane.
 
 He got about forty yards and stopped.
 
@@ -237,7 +308,8 @@ seventeenth at the earliest and she came in on the fifteenth, and I
 know that because Ashida told me at four o'clock and I remember
 thinking that I would go up on Monday with the eleven pages.*
 
-He went up the hill with a rose in a stone hand.
+He went up the hill with a rose in a stone hand and an inch of wood in
+his breast pocket.
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 48, Scene 2 — Four Minutes and Some Floor
 
 *Act 4, part D. Konoha, the Hokage's tower. Tsunade, age fifty-three.
-POV: Tsunade. ~1,773 words.*
+POV: Tsunade. ~1,947 words.*
 
 ---
 
@@ -97,9 +97,24 @@ and shouldn't."
 
 "I derived that there's something, and that it's in the ground, and
 that it's thicker under old cedars than under a burnt street." He
-looked at his hand. "I did not derive that touching it would do this. I
-didn't know there was anything to derive. My protocol has a risk line
-and it says *none identified* and I underlined it."
+looked at his hand. "I did not derive that it would do this. I didn't
+know there was anything to derive. My protocol has a risk line and it
+says *none identified* and I underlined it."
+
+"Say what you actually did. Not what you were touching — what you
+*did*."
+
+"I copied him."
+
+Tsunade shut her eyes.
+
+"I held a finished article and I matched the operation, because that is
+the only way I have ever learned anything in my life and I have not got
+another one." He said it without any defence in it. "It took four
+minutes and it was easy. That's the part I'd want on the record if
+somebody asked me tomorrow. Not that it worked — that it was *easy*.
+It's the same operation. It's the identical operation with a different
+thing on the end of it."
 
 Tsunade stood in the middle of the room.
 
@@ -117,6 +132,12 @@ And if he had derived it — from a ledger and a rejected splint study
 and a flower — then nobody had put him in front of anything.
 
 *He walked here himself, and he will walk here again.*
+
+*And there is an inch of green wood in a slip of paper in his coat with
+the time written on the outside, and it is the first piece of physical
+evidence in the history of this profession that a kekkei genkai is a
+technique, and it was produced by an eighteen-year-old fabricator in a
+rented room in about four minutes because he had a specimen to copy.*
 
 *I take the hand off tonight and it is clean and it is safe and he is
 back in that yard inside a fortnight with one hand and the same

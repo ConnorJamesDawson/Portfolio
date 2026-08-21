@@ -1,7 +1,7 @@
 # Chapter 48, Scene 6 — No Report
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,729 words.*
+age eighteen. POV: Sazare. ~1,906 words.*
 
 ---
 
@@ -74,32 +74,56 @@ He wrote the rest of it at the low table with the lamp not lit because
 it was daylight, which was strange, and which made him write differently
 and he did not know why.
 
-*Protocol, fifteenth of the eighth month, twenty-two twenty. Sample:
-rose 3. Method: standard active read, seat-check load, one attempt.
-Prediction: nothing. Risk: none identified, underlined.*
+*Protocol, fifteenth of the eighth month, twenty-two twenty. Question:
+can the operation be reproduced. Reference: rose 3. Method: hold the
+reference and match it. Product: whatever I get. Prediction: nothing.
+Risk: none identified, underlined.*
 
-*There was no subject line on that protocol.*
+*There was no operator line on that protocol.*
 
-*I have written four hundred protocols. Every one of them has a sample.
-About nine of them have a subject, and all nine are hospital documents,
-and I wrote them for patients, and I was extremely thorough about them,
-and I built a doctrine on top of them that has my name on it in three
-files and does not say the word "patient" anywhere in it.*
+*I have written four hundred protocols. Every one of them has a sample
+or a reference. About nine of them have a subject, and all nine are
+hospital documents, and I wrote them for patients, and I was extremely
+thorough about them, and I built a doctrine on top of them that has my
+name on it in three files and does not say the word "patient" anywhere.*
 
-*I put a dead rose down as the sample.*
+*I wrote "product: whatever I get."*
 
-*I was the sample. I was the sample from ten past ten and I did not
-write myself into my own paper, and there is no version of this where
-that is a slip of the pencil.*
+*The product was an inch of stem and a hand. I did not write myself
+into my own paper, and there is no version of this where that is a slip
+of the pencil.*
 
 He looked at that for a while.
 
 *The doctrine says nobody has a thing done to them without knowing. I
 have now failed it twice in four months. Once against four hundred and
 eleven people on paper with a tare weight, which Kanzaki stopped and
-the Hokage improved. Once against one person in a room at ten past ten
-at night, which nobody stopped, because I was the only person there and
-I did not think there was anybody there.*
+the Hokage improved. Once against one person in a room at half past
+ten at night, which nobody stopped, because I was the only person
+there and I did not think there was anybody there.*
+
+*And the third thing, which is not a failure and which I have put off
+writing all afternoon because I do not know what to do with it.*
+
+*It worked.*
+
+*Twenty-five millimetres of stem, one node, partial bark, out of my own
+palm, four minutes after I shut my eyes. I have it in a slip of paper
+on this table and it is going brown at the cut end the way anything
+does.*
+
+*I made wood.*
+
+*Not because I am gifted and not because there is something in me. I
+had a specimen in my hand and I matched it, the way I matched a bezel
+at eleven and a retaining figure at seventeen, and the operation
+underneath was one I have been performing since I was seven and did not
+know had a general form.*
+
+*Everything I have written for eleven years about what I am is wrong in
+a way I cannot yet state and can state the edge of:*
+
+*I do not have a bloodline. I have a habit.*
 
 ---
 
