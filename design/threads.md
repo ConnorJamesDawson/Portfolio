@@ -66,17 +66,94 @@ Act 5 opening. The heaviest beat in the arc and it gets its own chapter.
 
 ## B. CLOSING EARLY ACT 5
 
-### Kurihara Saeko
-**Plan:** the road ends because it runs out of subject, not because of
-conflict. **She ends it**, names it accurately including Tsunade, without
-malice. Then they go on working together, correctly and pleasantly, for the
-rest of the book — which is worse than a clean break, because it proves the
-thing she said.
-**The breakup beat:** Sakura — *do you feel sad?* — *funny, I haven't even
-thought about it.* And that is **not** the end of the scene. The cost is that
-he watched what he did to her in detail and could not feel it, and wrote it
-down. *She cried and I made a note of the light.*
-**Closes:** early Act 5. Her presence does not.
+### Kurihara Saeko — a debt, not a romance
+
+**It never began, and that is the point.** What is actually on the page: she
+corrects him (ch43), makes nine unpaid visits with no work order (ch44 sc1),
+gets the last winter whole in a noodle house (ch44 sc3), asks him twice
+whether something has happened and is told **"no"** (ch44 sc6), brings her own
+lens, softens two corrections, uses his given name once, and books her next
+two months so she is only in that yard by contract (ch45 sc5).
+
+He never made a move. She cleared her diary when he shut the door.
+
+**So there is nothing to end.** ch44 sc6 was the whole story, and it should
+have cost him something permanent, and it did.
+
+**He owes her eleven seconds.** He constructed the sentence at the time and
+had it in his mouth: *I did something with what you gave me that you would not
+have consented to, I stopped, I have recorded it, and I am ashamed.* He said
+"no" instead.
+
+**The scene, whenever it comes, is a debt settled far too late.** Not a
+beginning and not an ending. She still reads him faster than he reads himself.
+She can still name Tsunade, without malice, and be right. And she gets a
+better line than a breakup allows: *here is what I would have been, and here
+is why it was never going to happen* — from somebody who worked it out two
+years before he did.
+
+Afterwards they go on working together, correctly and pleasantly, forever,
+which proves her point exactly.
+
+**She needs two or three proper scenes in Act 5** or she was a device. She has
+the lacquered pin (thirty years too old for her, unexplained), the funeral she
+did not attend, the curriculum row, and six years of a dead man. That is a
+character.
+
+**The lack-of-hurt beat still lands, and harder.** Sakura: *do you feel sad?*
+— *funny, I haven't even thought about it.* Feeling nothing about a
+relationship that ran its course is one diagnosis. Feeling nothing about a
+thing that never started **because you said one word in a yard** is a much
+worse one, and it is the accurate one.
+
+### WHAT KICKS IT OFF — the slugs ask why he has no mate
+
+**Placement: ch52, in the elder's conversation.** Same flat register as the
+bloodline confirmation and *Katsuyu says the Hokage is not pleased with you* —
+the tonal whiplash between the three is the joke.
+
+**No social barrier, same mechanism as *are you free* and *she should ask*.**
+A biological question asked biologically, by something hermaphroditic, with
+genuine cross-species confusion, uninterested in everything he is tortured
+about and expansive about something irrelevant.
+
+**And nobody has ever asked him.** Not Yagi, not Kanzaki, not Ashida, not
+Handa — because human beings have the sense not to. The first entity ever to
+ask him about this is a slug.
+
+**What it produces: he goes and gets data**, retrospectively, out of his own
+ledgers, because that is how he works. And the evidence is all there and
+logged and never read as a column. **Nine visits with no work order** — he
+noticed, wrote it up, could not interpret it. Now he can.
+
+That is the Saeko detonation: **he reads his own bench log correctly, two
+years late.** Same failure as the source-medium column, the shape-theory
+schoolbook, and the assumed channel — but this time it is about a person.
+
+### AND THE ONE HE LOOKS AT ON PURPOSE
+
+**The stair.** She came down the outside stair at a run, at eleven at night,
+in her shirt, with her hair down and no haori, and at the time he was in shock
+with a stone hand and registered nothing — he says himself he watched her
+face.
+
+**The memory arrives later, complete, having been stored without being looked
+at**, which is how memory actually works and is the point.
+
+**Register:** his, not generic. He does what he does with everything — an
+inventory, in the only vocabulary he owns, which is fabric and load and line
+and what age does to a thing. **The attempt is transparent to the reader and
+opaque to him.** Mature, unhurried, and not leering, because leering is a
+failure of precision and he is never imprecise.
+
+One moment where the technical vocabulary drops and something plainer comes
+out. **He crosses it out and it is still there.**
+
+**Brief — a paragraph or two.** The restraint is what lands it.
+
+**The development is that he lets himself look.** Ch44: *I did not decide to
+do nothing. I decided not to look.* Here he looks, once, deliberately, writes
+it down, and does not act on it. Growth is permission, not action.
 
 ### Sakura's grievance
 **Plan:** relief and replacement, both at once, in her own POV. **Turns** at

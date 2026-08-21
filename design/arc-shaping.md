@@ -741,7 +741,14 @@ to try the wood. Six seconds, a rose, hand fine. Her four layers. Katsuyu
 offers her the same thing. She refuses. End on the refusal, unexplained.
 
 **Ch52 — the aftermath, and the elder.** The confirmation arrives when it
-cannot be useful. *Katsuyu says the Hokage is not pleased with you.*
+cannot be useful. *Katsuyu says the Hokage is not pleased with you.* **And the
+elder asks why he has no mate** — biologically, flatly, with no social barrier
+whatsoever, which nobody in his life has ever had the tactlessness to do.
+
+Which sends him back through two years of his own ledgers reading a column he
+logged and never interpreted — nine visits with no work order — and produces
+**the one thing he looks at on purpose**: the stair, retrospectively, in his
+own vocabulary. See `threads.md` for the register.
 
 ### The rose after it was delivered — hold the silence
 
