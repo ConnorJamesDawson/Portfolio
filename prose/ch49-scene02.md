@@ -1,7 +1,7 @@
 # Chapter 49, Scene 2 — The Tour
 
 *Act 4, part D. Konoha General and the quartermaster's yard. Sazare
-Ruri, age eighteen. POV: Sazare. ~1,919 words.*
+Ruri, age eighteen. POV: Sazare. ~1,991 words.*
 
 ---
 
@@ -70,29 +70,42 @@ I last saw it?"
 
 "...No."
 
-"The seventh of the ninth month, two years ago, at about four in the
-afternoon, when it came through that door and up onto the second bed on
-the left and every person on this floor who was conscious understood
-that the village was being overrun and that the Fifth had put herself
-across all of us because there were not enough hands." Her voice did
-not change at all. "There were forty-one people on that ward. I had six
-staff. It stayed for nine hours."
+"The third week after the Crush," said Kaburagi. "The Fifth had been in
+this village nine days. We had four hundred still on the books and I
+had six staff on a floor built for two hundred, and there had been no
+new hands since the invasion because there were no new hands anywhere,
+and I had stopped writing the ones who were going to die in the
+observation column because there was no point."
+
+Her voice did not change at all.
+
+"And then that came through the door and went up onto the second bed on
+the left, and every conscious person on this floor understood that the
+Hokage had divided herself across the hospital because she had looked
+at us and decided there were not enough of us."
 
 Sazare stood in a linen room.
 
-"You have walked it," said Kaburagi, "through the second floor, the
-sluice, the forecourt and the admissions queue, at nine o'clock in the
-morning, on a Tuesday."
+"How long did it stay?"
+
+"Eleven days," said Kaburagi. "And you have walked it through the
+second floor, the sluice, the forecourt and the admissions queue, at
+nine o'clock in the morning, on a Tuesday."
 
 "Nobody said—"
 
 "Of course nobody said. What would they say?" She let that sit for
-about two seconds. "Ōtaki Sue is seventy-four and has been in bed
-eleven days and she saw it come past the door at twenty past eight and
-she has been asking every four minutes since who has died. Tomioka in
-the side room started crying and would not say why and I know exactly
-why. Two of my orderlies have gone to find out what is happening and
-one of them has gone to *the gate*, because that is where you go."
+about two seconds. "That thing does not mean *a slug*. On this floor it
+means the Fifth has looked at what is coming and decided we cannot
+carry it. Ōtaki Sue is seventy-four and has been in bed eleven days and
+she saw it go past the door at twenty past eight and has been asking
+every four minutes what has happened. Tomioka in the side room started
+crying and would not say why and I know exactly why. Two of my
+orderlies have gone to find out what is coming in."
+
+She paused.
+
+"And one of them has started clearing beds."
 
 ---
 
