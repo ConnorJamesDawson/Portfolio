@@ -339,3 +339,59 @@ Each POV sees differently, and this is free characterisation:
   meant to last.
 - **Civilian POVs** read cost. What things are worth, what they were paid for,
   and what they will cost to replace.
+
+---
+
+## THE RETROSPECTIVE — retire it
+
+**Count as of ch51: 76 instances across ch44–51** (*since I was seven*, *for
+eleven years*, *at seven years old*, and variants). Roughly one every 1,100
+words, peaking at fourteen in ch46. **That is past signature and into tic.**
+
+### Two problems, handled separately
+
+**1. Overuse, which is the author's.** It is a reliable way to put a floor
+under a paragraph and it has been reached for when a sentence needed weight.
+**Cut the density from ch52 onward regardless of the in-story arc.** Target:
+no more than two or three per chapter, and never twice in one scene.
+
+**2. The habit, which is his** — and it needs retiring on the page, not
+quietly dropping.
+
+### Why he does it
+
+**The retrospective is the absence of peers.** He measures every new thing
+against eleven years of his own ledgers because his own history is the only
+data set he has ever had. A man with no teachers has exactly one comparison
+subject.
+
+**And it is how he keeps the boy in the room.** His family died. The boy in
+the workshop is the last continuous thing he has, and every entry
+re-establishes contact with him. **Dropping it costs him that**, which is why
+it is a beat and not a style note.
+
+### The mechanism, already on the page
+
+Kanzaki, ch50 sc5, about the ledger: *It is not a series any more. It is two
+series with a wall between them, and everything on the far side of it
+describes a process nobody is going to perform again.*
+
+**It is literally true about him.** Every *since I was seven* is now a
+citation to an invalidated series — data produced by a man doing it wrong in
+two specific ways that have stopped. He has not noticed it applies to himself.
+
+### What replaces it
+
+**Other people**, and it is already half-written. Ch50 sc4 — Handa's chisel,
+Yagi's hands, Kakashi's eleven falls, Kanzaki's two-man lift — is the new
+form: four colleagues instead of his own history, producing a better finding
+than eleven years of self-reference ever did.
+
+### Placement
+
+- **Diagnosed ch52.** That chapter is already him consulting his own records;
+  finding they no longer work is its natural conclusion.
+- **Retired ch53, at the promotion.** Leaving floor two gives him a start
+  date, and a start date is a new series with a wall behind it — the same
+  shape as Kanzaki's break, and the wall is a job.
+- **Make it the last thing in Act 4.**
