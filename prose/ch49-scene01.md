@@ -1,7 +1,7 @@
-# Chapter 49, Scene 1 — Not the Wood
+# Chapter 49, Scene 1 — Four Minutes
 
 *Act 4, part D. Konoha, the Hokage's office. Sazare Ruri, age eighteen.
-POV: Sazare. ~1,700 words.*
+POV: Sazare. ~1,839 words.*
 
 ---
 
@@ -26,8 +26,8 @@ afternoon."
 "It's never four minutes."
 
 "It's four minutes," said Sazare, "because I'm not going to argue with
-her about it. I'm going to say one sentence and she is either going to
-say yes or no, and if she says no I'll go to work."
+her about it. I'm going to ask one thing, and she's going to say yes or
+no, and if she says no I'll go to work."
 
 Shizune looked at him for a moment.
 
@@ -38,7 +38,7 @@ pocket, and back up.
 
 ---
 
-"Summon Katsuyu again," said Sazare.
+"Summon Katsuyu," said Sazare.
 
 Tsunade, behind the desk, on about three hours' sleep, with her hair up
 badly and the green haori over the chair as usual, put her pen down
@@ -46,223 +46,225 @@ with great care.
 
 "Say the rest of it."
 
-"I want to show her the operation. Not tell her — she couldn't follow
-what I told her the night before last, and I don't blame her for that,
-I was describing colours to somebody who has never—" He stopped and
-rebuilt it. "She lives in the thing. She has lived in it her whole
-life. She could not tell me where it begins because she is in the sea.
-But a creature that is in the sea can tell you when something moves
-through it, and nobody in the world can do that for me and she can, and
-I have had this since about four o'clock this morning and I have not
-slept."
+"I want to show her the operation. Not describe it — she couldn't
+follow what I said the night before last and I don't blame her, I was
+describing colours to somebody who has never—" He stopped and rebuilt
+it. "She lives in it. She has lived in it her whole life. She couldn't
+tell me where it begins because she's in the sea. But a creature that
+is in the sea can tell you when something moves through it, and nobody
+in the world can do that for me and she can."
 
 "You are not," said Tsunade, "putting your hands anywhere near a rose."
 
 "No."
 
-"I want to hear you say the whole of it."
+"I want to hear the whole of it."
 
 "I am not doing the wood." He said it flatly. "Not with her there, not
 with you there, not alone, not ever until I understand the close. It is
-in a box in this building and I am not going near it and I have written
-that down and dated it."
-
-Tsunade sat back.
+in a box in this building and I don't know which drawer and I am not
+going to ask, and I've written that down and dated it."
 
 "Then what are you showing her?"
 
 "Crystal."
 
----
-
-She did not answer for a moment and he watched her get there, which
-took about four seconds and which he enjoyed considerably more than he
-had any business enjoying at seven in the morning.
+Tsunade did not answer for a moment and he watched her get there, which
+took about four seconds.
 
 "Because it's safe," she said.
 
-"Because it's safe."
+"Because it's safe. Eleven years of a close I can't stop doing. Which
+means the demonstration and the proof are the same object — the only
+difference between the operation that took my hand and the one I've
+been doing since I was seven is a reflex."
 
-"And it's safe because—"
+"That's about two minutes of your four."
 
-"Because I have the close," said Sazare. "Eleven years of it. Nine
-hundred thousand repetitions. It fires whether I want it to or not and
-I have never once been conscious of it and I could not stop it doing it
-if I tried, and that is the entire and only difference between the
-operation I performed on the fifteenth and the operation I have been
-performing since I was seven."
+"I know."
 
-"So you're going to demonstrate the identical act."
+"You've built me a thing I can't object to," said Tsunade, "at seven in
+the morning, on four hours."
 
-"I'm going to demonstrate the identical act, safely, in front of a
-witness who can see what it does from the outside, on the one version
-of it where my own reflexes are going to stop it going wrong." He
-kept his hands still. "That is not a way round the term you set me. It
-is the term. You said I don't do it alone. I have brought you the
-version of it where the only person in the room I can hurt is
-protected by a habit I've had since before you knew my name, and I am
-asking for the witness."
+"Yes. And I'd like it recorded that I spent two of them working out how
+to bring you something you could say yes to rather than something I'd
+have to win."
 
-Tsunade looked at the ceiling.
+"That," said Tsunade, "is the most alarming compliment anybody has paid
+me this year." She stood up and pushed the chair back. "Fine. Not in
+here — I've a delegation at nine and they'll be early. Go out into the
+corridor and do it wherever you were going to do it anyway, which I
+assume is a yard."
 
-"You've built me a thing I can't object to," she said.
+"And you?"
 
-"Yes."
-
-"At seven in the morning."
-
-"I had four hours and I could not sleep and I would like it recorded
-that I spent about two of them working out how to bring you something
-you'd be able to say yes to, rather than something I'd have to win."
-
-"That," said Tsunade, "is the single most alarming compliment anybody
-has paid me this year." She picked the pen back up. "Three conditions."
-
-"Go."
-
-"One. My room, not the yard. That's not about secrecy, it's that I
-want a floor I know and a wall I've already put a hundred and forty
-grams into.
-
-"Two. I am in the room the entire time, and if I say stop you do not
-finish the course you are in, you stop mid-figure and you take the
-loss, and I want you to agree to that specifically because I know what
-you are like about a spoiled article.
-
-"Three." She turned the pen over. "You ask her, not me. I'll summon
-her, and then I am going to stand at the window and say nothing, and
-whether she stays for it is hers."
-
-"That's not a condition on me."
-
-"No," said Tsunade. "It isn't."
+"I'll summon her and go and be appalling to some people about a
+border." She was already making the seals. "You ask her. Not me. I'm
+going to be out of this room in about ninety seconds and whether she
+goes with you is hers."
 
 ---
 
-They did it that evening at eight.
+Katsuyu arrived on the desk at about the size of a large cat, which was
+the size she came at when nobody was dying, and settled among the
+paperwork.
 
-The room at the end had been scrubbed since the fifteenth and smelled
-of it, and somebody had put a second lamp in, which Sazare noticed and
-said nothing about. He set up on the table: the tin, the felt, the
-brass balance, four grades of stock in labelled dishes — yard
-aggregate, granite, site rubble and his own prior work — and a sheet
-with the reject figures written out large enough to be read by
-something without eyes as he understood them.
+"Tsunade-sama."
 
-Tsunade summoned her and went to the window and folded her arms.
+"Morning. He wants you." Tsunade picked the haori off the chair and put
+it on, which took four seconds and made her a different shape. "I've got
+the Rivers people at nine and I'll be in it till two. I'm not in this
+one. Ask him what he wants and decide."
 
-Katsuyu arrived at about the size of a large cat and settled on the
-table with what Sazare had begun to understand was a species of
-politeness — she took the corner rather than the middle, and she took
-the corner nearest him rather than nearest Tsunade, and he did not know
-whether that meant anything at all.
+She went out.
 
-"Good evening," she said.
+The door shut and there was a slug on a stack of border reports and an
+eighteen-year-old with his hand in his pocket, and about a minute and a
+half of the four minutes left, and Sazare found — having constructed
+this exchange in four different versions on the walk up the hill — that
+none of them were any use, because all four of them had begun with the
+technical content.
 
-"Thank you for coming."
+So he asked the other thing first.
 
-"I was called."
-
-"You were called by her. You didn't have to stay for this, she said so
-in front of me this morning, and you have — so thank you for coming."
-
-There was a pause of about a second and a half.
-
-"Oh," said Katsuyu.
+"Are you free?"
 
 ---
 
-"I'm going to explain what I'm going to do and then do it," said
-Sazare, "and I'd like you to interrupt me at any point, including in
-the middle of a word, and I would like you to interrupt me
-particularly if I say something that is wrong from where you are
-sitting, because I have been the only witness to this for eleven years
-and I have no way of knowing what I have got used to."
+Katsuyu did not answer.
 
-"I do not know very much about crystal."
+It went on rather longer than a pause. It went on long enough that he
+began to construct explanations for it, and got as far as the second
+before the mantle shifted very slightly and she said:
 
-"You don't need to. I'm not asking you about crystal." He set the first
-grain on the felt. "I'm going to ask you about what happens around it."
+"I do not understand the question."
 
-"Around it."
+"Whether you've got the time. Whether there's something else you're in
+the middle of." He was aware that he was explaining a sentence, which
+was a thing he had learned by eighteen usually meant the sentence was
+not the problem. "It's most of a day, and if there's somewhere else you
+need to be, then it'll keep. It has kept for eleven years."
 
-"When I do this, something arrives from somewhere. I have never seen
-it, I cannot feel it going, I have no instrument that detects it, and I
-have been doing it since I was seven years old with no more idea of
-what is happening than a man has of his own heartbeat." He put his
-finger on the grain. "You live in it. I want to know what you see."
+"There is not anywhere else."
 
-Katsuyu shifted forward slightly on the corner of the table.
+"Then—"
 
-"Nobody has ever asked me to watch anything," she said.
+"That is not what I mean," said Katsuyu. "Forgive me. I mean that the
+question does not — I am summoned, and then I am here, and then I am
+released. There has never been a *free*. When Tsunade-sama calls, I come.
+If I were in the middle of something I would leave it. That is not an
+inconvenience and I am not describing a hardship; it is simply the
+shape of the thing. It is what a contract is."
 
-From the window, without turning round, Tsunade said: "Katsuyu."
+"So nobody's ever asked."
 
-"I was not making a point, Tsunade-sama."
+"Nobody has ever asked," said Katsuyu. "In four hundred and eleven
+years."
 
-"I know you weren't. That's why I said your name." She went on looking
-out at the village. "Go on, Ruri."
+Sazare stood in an empty office with a minute of his four minutes left.
+
+"Four hundred and eleven," he said.
+
+"Approximately. I am poor with numbers of that size and I would not
+like to be quoted." A small settling. "It is not only Tsunade-sama. It
+is her teacher, and his, and it is the ones before that, and every one
+of them was courteous and several of them were kind, and not one of
+them ever asked whether I had the time. It would not have occurred to
+them. It does not occur to *me* — I have been sitting here for eleven
+seconds trying to work out what I would say if the answer were no, and
+I do not have one, because there has never been a no available for me
+to have."
+
+"Then take the eleven seconds," said Sazare. "I'll wait. I've got about
+forty of my four minutes and I don't have to be anywhere until eight."
 
 ---
 
-He laid a course.
+She took rather more than eleven seconds.
 
-It was the ordinary article — three deep, fine damping coarse, four
-seconds, the thing his hands had done nine hundred thousand times and
-would do without him — and it came up on the felt as a chip about the
-size of a thumbnail, colourless, correct, dull, the least interesting
-object he had ever produced.
+He stood and waited and did not fill it, which he had learned from a
+woman on a landing with a marking scheme and had failed at for two
+years before it began to work, and he watched a slug on a stack of
+border reports think about a question.
 
-He took his hand off.
+"I would like to know what you want to show me," she said, eventually.
 
-Then he waited, because that was the whole of the experiment, and it
-took Katsuyu rather longer to say anything than he had expected, and
-when she did say something it was not what he had constructed any of
-the four versions of.
+"Then I'll tell you, and you decide after."
 
-"That is not the same," she said.
+He told her. It took ninety seconds and he did not shorten it, and he
+put in the four grades of stock and the reject figures and the fact
+that he had been the only witness to his own hands for eleven years and
+had no way of knowing what he had got used to, and he ended it where he
+had decided on the stairs to end it, which was not with the science.
 
-"Not the same as what?"
+"You saw the close," he said. "The night before last, on the fifteenth,
+when Tsunade-sama described what happened to me. And last night I
+worked out that the thing that closed is the reason nothing I make ever
+lasts, and I have been making things that die at six days since I was
+nine years old, and there is one creature alive who can look at me
+doing it and tell me what she sees.
 
-"As the other one." A slow settling of the mantle. "The one in his hand
-on the fifteenth. Tsunade-sama described it to me while she was
-working, at about the third hour, and I did not understand it at the
-time and I understand it now that I have seen this, and they are not
-the same thing at all."
+"That's what I want. That's the whole of it. And it's most of a day and
+it's boring, and there is a considerable chance you'll watch me lay
+four hundred articles and be able to tell me nothing at all."
 
-Sazare put the chip down very carefully.
+"And if I cannot tell you anything?"
 
-"Say more."
+"Then I'll have found that out, which is worth an afternoon."
 
-"That took a *lump*," said Katsuyu. "Forgive me, I have no better word.
-It reached, and it took an amount, and then it stopped, and the
-stopping was extremely definite — like a mouthful. It is over. There is
-nothing going on around that object now and there will not be."
+Katsuyu was quiet for a moment.
 
-"And the other one?"
+"There is a difficulty," she said. "I am obliged to Tsunade-sama. If she
+calls, I must go — I would go from the middle of a sentence and it would
+not be a choice — and she has a delegation until two and after that she
+has whatever she has, and if I am on the other side of the village I am
+of no use to her."
 
-"The other one was *drinking*," said Katsuyu. "That is what Tsunade-sama
-said and I did not know what she meant. It was not a mouthful. It was
-open, and it went on being open, the way a root is open, and it would
-have gone on until it was stopped or until there was nothing left where
-it was standing."
+"Then that's a no and it's a good reason and I'll—"
 
-The room was quite quiet.
+"I did not say it was a no," said Katsuyu, mildly. "I said it was a
+difficulty. I can divide."
 
-At the window, Tsunade had turned round.
+---
 
-"Katsuyu," said Sazare, and he found that his voice had gone somewhere
-slightly wrong and did not attempt to correct it, "can you see the
-stopping?"
+She did it without any particular ceremony and it was over in about two
+seconds.
 
-"See it?"
+Most of her stayed on the desk. A piece of her — perhaps the size of a
+large fist, the same pale blue-white, the same two dark stripes running
+back over the mantle — came away from the mass and sat on the border
+reports on its own, and the two halves said nothing to each other,
+because there was, he understood, nothing to say.
 
-"The moment it ends. The mouthful closing. You've just described it as
-extremely definite — is that a thing you *observed*, or is it a thing
-you inferred because nothing was happening afterwards?"
+"That one will remain," said the one on the desk. "She is here, she is
+in this room, and she will go to Tsunade-sama the instant she is
+wanted, and the contract is not touched in any particular."
 
-"I observed it."
+"And you?"
 
-"You watched me close it."
+"I am going with you," said the smaller one, in exactly the same voice,
+from about a foot away. "Where do I sit?"
 
-"Yes," said Katsuyu, mildly. "It was the clearest part."
+Sazare looked at it.
+
+"...I hadn't got that far."
+
+"The shoulder is customary," said Katsuyu. "It is what I do for
+Tsunade-sama when she is walking, though it has been some years. The
+left, if it is the same to you, because the right is where a person's
+work is."
+
+"The left's the bad one."
+
+"I am aware. I was there." A brief pause. "It will not mind."
+
+He put his hand down on the desk and she came up his sleeve, which was
+a sensation he did not have a word for and did not, on the whole, mind,
+and settled on his left shoulder against the collar with about a third
+of her weight taken by the seam.
+
+She weighed almost nothing.
+
+"Right," said Sazare. "Shift starts at eight."
+
+"Then we should go," said Katsuyu, "because it is four minutes to."
