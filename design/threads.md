@@ -42,17 +42,52 @@ on it.
 **Closes:** Act 4 close or Act 5 opening. **The panel closes later** — when
 the thing is named, which is not the same event as when it is finished.
 
-### The promotion, and R&D
+### The promotion, and R&D — the hug box
 **Plan:** recognition for the medical crystal work. Off floor 2, someone else
 takes the role. New remit: medical devices for Konoha, on the argument that a
 stone doing a third of a medic's work expands the medical force by a third at
 no extra commitment. **Approval pipeline straight to Tsunade** as head of the
 medical board.
-**Cost, which must be paid on the page:** he loses the ward, the people, and
-the patients — the last being the thing he asked for and did not cost. His
-world narrows as his remit widens.
-**Closes:** the act break. It does not resolve anything; it *builds the
-structure Act 5 runs on.*
+
+**It is framed as a leash and it is a hug box.**
+
+*On paper, containment.* From outside he is a problem — an unsupervised
+fabricator walking a summon through a hospital, an unexplained light in a
+yard, a live correspondence with a foreign agent, an injury in the tower at
+eleven at night that never got filed. Move him off the wards, give him a
+title, put **every single thing he makes through one named channel.** Anybody
+unsympathetic reads that docket as a leash and is not wrong.
+
+*What it is:* structure he has never had and cannot build for himself. Yagi
+supervised his medicine, Kanzaki audited his materials, and **nobody has ever
+supervised him** — eleven years of decisions at benches nobody checked. The
+governor in its **fourth domain**: stone, then his mouth, then his own output,
+now his career. A hug box works by pressure — **the constraint is the
+relief** — and he will find it comfortable and be ashamed of finding it
+comfortable.
+
+**He calls it a leash himself**, in the ledger, correctly. Better than an
+antagonist saying it. **Kanzaki names the other half**, because thirty-one
+years of quartermastery is an argument that a signature on a chit is not an
+insult.
+
+**She does it because she is furious.** It is the thing Tsunade does about the
+confrontation — a disciplinary response and an act of care at once, and the
+only way to keep him close while being unable to look at him. Neither of them
+will say which. Neither of them knows.
+
+**Cost, paid on the page:** he loses the ward, the people, and the patients —
+the last being the thing he asked for and did not cost. *Medicine that does
+not require a person in the room* turns out to mean he is not in the room.
+His world narrows as his remit widens.
+
+**The irony that runs the rest of the book:** the leash creates the standing
+appointment. The supervision produces the privacy. Every meeting is
+documented, which is exactly why nobody ever looks at them.
+
+**Placement:** ch53, the act break — after the confrontation (ch51) and the
+aftermath (ch52). It resolves nothing; it *builds the structure Act 5 runs
+on.*
 
 ### Kiri
 **Plan:** the category error. His mother and Kohaku died for a property they

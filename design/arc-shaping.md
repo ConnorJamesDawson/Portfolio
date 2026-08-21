@@ -764,6 +764,9 @@ that is evidence sitting on a windowsill, and she would have thought of that
 inside four seconds. Whatever she did with it is a decision the reader should
 be able to reconstruct and he should not.)
 
+**Ch53 — the promotion. The act break.** Framed as a leash, and it is a hug
+box. She does it *because* she is furious. See `threads.md`.
+
 ## 7. Housekeeping — outstanding
 
 **Saeko's second certification was never written.** Ch45 sc5: *Kanzaki's got
