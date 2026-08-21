@@ -55,6 +55,7 @@ dated off it.
 | 44 | month 5, the 2nd to the 22nd. Two weeks and a bit. Letter goes 2nd Thursday = the 21st |
 | 45 | month 5, the 22nd to the 31st. Nine days. Sword started 31/5, 23:20 |
 | 47 | month 8, the 1st to the 15th. Two weeks. Tenzō on the 6th; the reach 22:24 on the 15th |
+| 48 | **One night.** 23:05 on the 15th to 16:00 on the 16th |
 | 46 | month 6 through 29/7. **Six weeks — build time, the one span the model says must be real.** First note 28th night (~8/7); the test 11/7; Tsunade over the wall 29/7 |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
