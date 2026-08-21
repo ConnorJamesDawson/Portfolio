@@ -58,6 +58,7 @@ dated off it.
 | 48 | **One night.** 23:05 on the 15th to 16:00 on the 16th |
 | 49 | month 8, the 17th to the 24th. Eight days. The rose delivered ~02:10 on the 25th |
 | 50 | month 8 the 25th → month 9 the 30th. Five weeks. Contract refused 2/9; requisition filed 4/9; the count reaches nine on 30/9 |
+| 51 | month 10, the 3rd to the 14th. Twelve days. The wood at 21:19 on the 14th |
 | 46 | month 6 through 29/7. **Six weeks — build time, the one span the model says must be real.** First note 28th night (~8/7); the test 11/7; Tsunade over the wall 29/7 |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
