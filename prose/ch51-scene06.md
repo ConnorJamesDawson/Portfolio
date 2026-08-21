@@ -1,7 +1,7 @@
 # Chapter 51, Scene 6 — Not Tonight
 
 *Act 4, part D. Konoha, the quartermaster's yard. Sazare Ruri, age
-eighteen. POV: Sazare. ~1,663 words.*
+eighteen. POV: Sazare. ~2,076 words.*
 
 ---
 
@@ -234,6 +234,65 @@ and her hands at her sides, and she did not turn round, and she was
 still for about three seconds.
 
 "Yes," she said. "I know."
+
+---
+
+He heard it land and knew exactly what he had done.
+
+*That was the worst available sentence.*
+
+*She has just spent twenty seconds not being able to do a thing and
+then said no to it gently, and I have told her it would be easy.*
+
+*I have told a woman that the thing she cannot do is small.*
+
+And he started, immediately, on the correction — because that was what
+he did, he built the better version, he had been building better
+versions since he was seven and he had four of them going before she
+had finished not turning round.
+
+*It isn't about the size of it. I know that. Say: I did not mean that
+it was small, I meant that if you ever wanted to, the cost is—*
+
+*No. Every one of these is a paragraph about me.*
+
+*Say something with no object in it.*
+
+*I have never done that. Chapter two. Cannot do at all, in a column,
+since the ninth month of last year, and Sakura marked me for it forty
+times and I have got to six out of ten on a good morning and every
+single one of those had a thing on the table.*
+
+*There is nothing on the table.*
+
+He stopped constructing.
+
+"I'll support you either way, Hime," he said.
+
+---
+
+She did not turn round.
+
+That was the whole of it and it was all he got, and afterwards, on the
+page, he had exactly one figure and no content whatsoever, which was a
+condition he had spent his entire life arranging never to be in.
+
+She stood in the gateway with her back to him and the lamp behind her,
+and she did not move, and she did not say anything at all.
+
+He counted it, because he could not help counting it.
+
+*Eleven seconds.*
+
+*Not a pause. A pause is two and I have measured about nine hundred of
+them. She stood in a gateway with her hands at her sides for eleven
+seconds after four words, in the cold, at half past ten, with nothing
+happening at either end of it.*
+
+*I have no idea what any of it was. I could not see her face and I
+could not see her hands and I would not have been able to read either
+of them if I had, and the only instrument I had was a count, and the
+count is eleven, and eleven is not a finding.*
 
 Then she went out, and the gate did not bang because it never did, and
 there was a yard and a lamp on a stool and three pieces of stem lying

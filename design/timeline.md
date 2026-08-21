@@ -147,7 +147,7 @@ ch34–37; he now turns eighteen inside ch37 rather than nineteen.
 | The surplus (30 kg) | ch36 | ~8 months in of ~16. Will not complete — operation eats the rest. |
 | The scroll — what he does with it | ch34 | **Deliberately undecided.** Do not resolve in advance. |
 | Chapter four — Tsunade's gift | ch37 | **Reclassified ch42 sc7: not *unattempted* — *refused, five times, by me.*** Reason now written down: "an extravagance is a demand disguised" (p.61). He wants something back, knows it, will not act on it. Still open. |
-| Chapter two — speech without object | ch37 | **ch42: 6/10 on a good morning.** Sakura's correction beats the book — the object is the other person. He has flagged himself that it is a habit with one person in it, not a capability. |
+| Chapter two — speech without object | ch37, ch51 | **PAID ch51 sc6** — four words in a gateway with nothing on the table, after he stopped constructing the better version. First time in his life. **ch42: 6/10 on a good morning.** Sakura's correction beats the book — the object is the other person. He has flagged himself that it is a habit with one person in it, not a capability. |
 | Chapter five — the shoulder | ch37 | **PAID (ch42 sc3).** Handa, the shed, evening of the 16th, mid-sentence, reaching for a try square. Deliberate attempt forty minutes earlier was a disaster. |
 | Chapter six — eleven birthdays | ch37 | Handa first. |
 | Yagi's one pierced ear | ch37 | He intends to ask. Has not. |
