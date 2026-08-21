@@ -1,7 +1,7 @@
 # Chapter 49, Scene 2 — The Tour
 
 *Act 4, part D. Konoha General and the quartermaster's yard. Sazare
-Ruri, age eighteen. POV: Sazare. ~1,991 words.*
+Ruri, age eighteen. POV: Sazare. ~2,485 words.*
 
 ---
 
@@ -47,96 +47,173 @@ wall."
 
 ---
 
-He was forty minutes into it before anybody stopped him and it should
-have been four.
+What he did not notice, in four hours, was that the building had
+stopped working.
 
-He had gone the length of the second floor, through the sluice, out
-across the forecourt to the admissions desk and back up, and he had
-been talking the whole way, and it did not occur to him at any point to
-look at anybody's face.
+Not badly. Nobody dropped anything. But an orderly on the second floor
+came out of a bay, saw his shoulder, and stood in the corridor for
+about four seconds with a bedpan in her hands doing nothing at all. A
+porter went and got another porter. Somebody on the third floor said
+*is that* and did not finish the sentence. Ōtaki Sue, who was
+seventy-four and eleven days into a chest infection and had opinions
+about everything, asked whether she might touch her, and Katsuyu said
+yes, and four other people on that bay found reasons to be at the end
+of the bed.
 
-Sister Kaburagi took him into the linen room off the fourth-floor
-landing and shut the door.
+By half past nine there were people coming up from the laundry.
 
-"Sazare," she said. "What is that."
+It was, in every case, delight. That was the thing he did notice and
+the only thing he took from it — that a hospital in the eighth month
+with the windows shut had been handed something to look at, and that
+eleven people who had asked him nothing in three years had asked him
+four questions each in a morning.
 
-"That's Katsuyu."
-
-"I know what it is. I have seen it before." Kaburagi had her hands
-folded. She was fifty-nine and had run that ward for nineteen years and
-he had never in three years heard her raise her voice, and she did not
-raise it now. "That is why I have brought you in here. Do you know when
-I last saw it?"
-
-"...No."
-
-"The third week after the Crush," said Kaburagi. "The Fifth had been in
-this village nine days. We had four hundred still on the books and I
-had six staff on a floor built for two hundred, and there had been no
-new hands since the invasion because there were no new hands anywhere,
-and I had stopped writing the ones who were going to die in the
-observation column because there was no point."
-
-Her voice did not change at all.
-
-"And then that came through the door and went up onto the second bed on
-the left, and every conscious person on this floor understood that the
-Hokage had divided herself across the hospital because she had looked
-at us and decided there were not enough of us."
-
-Sazare stood in a linen room.
-
-"How long did it stay?"
-
-"Eleven days," said Kaburagi. "And you have walked it through the
-second floor, the sluice, the forecourt and the admissions queue, at
-nine o'clock in the morning, on a Tuesday."
-
-"Nobody said—"
-
-"Of course nobody said. What would they say?" She let that sit for
-about two seconds. "That thing does not mean *a slug*. On this floor it
-means the Fifth has looked at what is coming and decided we cannot
-carry it. Ōtaki Sue is seventy-four and has been in bed eleven days and
-she saw it go past the door at twenty past eight and has been asking
-every four minutes what has happened. Tomioka in the side room started
-crying and would not say why and I know exactly why. Two of my
-orderlies have gone to find out what is coming in."
-
-She paused.
-
-"And one of them has started clearing beds."
+He was enjoying himself enormously.
 
 ---
+
+Sister Kaburagi took him into the linen room off the fourth-floor
+landing at about ten and shut the door.
+
+"Sit down," she said.
+
+"I'm on at—"
+
+"You are not on at anything for four minutes. Sit down."
 
 He sat down on a laundry hamper, which he had never done in that
 building.
 
-"I have made a mistake," he said.
+"Right," said Kaburagi. "I am going to tell you what has happened this
+morning and you are not going to see it while I am telling you, and I
+have decided to tell you anyway, because the alternative is that you
+find out in about three weeks when it has set."
 
-"You have made an ordinary mistake in an extraordinary way, which is a
-thing you do about twice a year and which I have written down twice."
-Kaburagi unfolded her hands. "You have carried a signal through a
-hospital. That object does not mean *a slug*. It means the Hokage has
-divided herself across this village, and there is exactly one reason
-that has ever happened here, and everybody on my floor over the age of
-about eleven learned that reason on the seventh of the ninth month."
+"Something's happened?"
 
-"I'll go to the wards. I'll tell them—"
+"Something has happened to Haruno."
 
-"You will not go to the wards and tell forty-one people anything,
-because you will tell them accurately and at length and it will take
-you until two o'clock." Kaburagi opened the linen room door. "I will do
-it. It is four sentences and it is my floor. You are going to go
-somewhere that is not a hospital, and you are going to think about what
-else that thing is going to mean to people who see it on your shoulder,
-and I would suggest you start with the ones who are not frightened of
-it."
+---
 
-"Which ones aren't?"
+Sazare stopped.
 
-"Ask me tomorrow," said Sister Kaburagi, "and I will tell you, and you
-will not like it."
+"She isn't on this floor today," he said. "She's on the second with
+Ōkubo's list, she was down there at eight, I saw the board—"
+
+"She has been on the second floor all morning," said Kaburagi, "while
+four hundred people upstairs looked at your shoulder. That is the whole
+of it and I would like you to sit with it for a moment before I
+explain, because I think if you do the arithmetic yourself you will
+carry it better."
+
+He sat with it.
+
+He got most of the way there and stopped at the place he always
+stopped, which was the last rung.
+
+"They know she's the apprentice," he said slowly. "Everybody in this
+building knows. It's the one thing about her anybody knows — she came
+in at thirteen and the Fifth picked her out of the whole intake in the
+first week and it's been *the thing about Haruno* for two years."
+
+"Yes."
+
+"And now there's a piece of Katsuyu in this building and it isn't on
+her."
+
+"Now," said Kaburagi, "we are getting somewhere."
+
+---
+
+"Then she should ask," said Katsuyu, from his shoulder.
+
+Kaburagi looked at the slug for the first time since the door had
+closed.
+
+"I beg your pardon?"
+
+"She should ask," said Katsuyu, in the ordinary mild register. "I would
+say yes. I would have said yes at any point in the last two years and
+three months and I would say yes this afternoon. Nobody has asked me. I
+have said this rather a lot this week and I am finding that people
+react to it strangely."
+
+"That was my thought as well," said Sazare, "and I had it about four
+seconds ago, and I was going to say it out loud."
+
+"Well, don't," said Kaburagi.
+
+---
+
+She said it quite pleasantly and it went through the room like a
+dropped tray.
+
+"I have run this floor for nineteen years," she said, "and about
+nine-tenths of that job is people who feel passed over, and I am going
+to tell you the two of you have arrived at the single worst sentence
+available and you have both arrived at it by being straightforward,
+which is why neither of you can see it."
+
+"Explain it," said Sazare. "Properly. I'm not going to argue."
+
+"*She should ask* means *she did not ask.*" Kaburagi folded her hands.
+"Which means the reason she has not got it is a thing she failed to do.
+Which makes it her fault, and her fault for a failure of nerve, and you
+would be saying that to a fifteen-year-old girl who was told once,
+two years ago, *when you are ready* — and who has spent every day since
+deciding not to ask, because asking would look like she thought she was
+ready, and the entire arrangement she is in is that somebody else says
+when."
+
+Sazare did not say anything.
+
+"You asked at seven o'clock on a Tuesday morning between a delegation
+and a border argument," said Kaburagi, "and you got it in four minutes,
+and the reason you could ask is that you are not in the queue. You have
+no standing to lose. There is no arrangement over you that says *when
+you are ready*, because nobody has ever offered you one."
+
+"So he skipped it," said Katsuyu.
+
+"He skipped it, and he did not know there was a queue, and everybody
+who watched him do it this morning knows there was one." Kaburagi
+turned back to Sazare. "And the worst of it is that there is no
+*claim*. If you had been made her second apprentice on Monday there
+would be a thing to be told, and people would tell each other, and it
+would be settled by Friday. There is nothing. You are a hospital
+fabricator with a foreign name and a chit for a bench, and you have
+got, in four minutes, a thing she has been standing quietly beside for
+two years."
+
+---
+
+"What do I do."
+
+"Nothing that you would like to do," said Kaburagi. "You will want to
+go and find her and explain the arrangement, and I want you to
+understand what that is: it is you, walking down two flights, to tell
+a girl who has worked out the whole of it already that she has got it
+slightly wrong."
+
+"...Yes."
+
+"You will then want to go to the Fifth. Also no, and for a better
+reason, and I think you have already got it."
+
+"Anything she gets after that, she gets because I said so," said
+Sazare. "And it's mine for the rest of her life."
+
+"There," said Kaburagi. "That's the one that matters and you got it
+without help, so I shall stop."
+
+She opened the door.
+
+"Go to the yard," she said. "Not because you're in trouble. Because
+that thing on your shoulder is a wonderful morning for four hundred
+people who have nothing else to look at, and every hour of it is
+another hour of Haruno being on the second floor while it happens
+upstairs, and there is nothing you can do about that except be
+somewhere else."
 
 ---
 

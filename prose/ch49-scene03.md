@@ -1,15 +1,26 @@
 # Chapter 49, Scene 3 — Nine Out of Ten
 
 *Act 4, part D. Konoha General, the fourth-floor landing. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,655 words.*
+age eighteen. POV: Sazare. ~1,902 words.*
 
 ---
 
-He went to find Kaburagi on the Wednesday morning because she had told
-him to ask her tomorrow and because he had been unable to work out the
-answer on his own, which had irritated him for most of the night.
+He stayed off the wards for a day and a half and came back on the
+Thursday morning with a plan, and the plan was correct, and it lasted
+about nine seconds.
 
-*Start with the ones who are not frightened of it.*
+The plan was nothing.
+
+He had built it at the bench on Tuesday night and gone over it twice on
+Wednesday and written it down in four lines, which was the whole of it:
+*Do not raise it. Do not apologise for it. Do not explain the
+arrangement. If she raises it, do not defend and do not fix. Say as
+little as can be said without being cold.*
+
+He had been rather pleased with it, in the way he was pleased with a
+protocol that had a stopping rule in it, and it had not once occurred
+to him that a plan for what to say is only any use against somebody who
+is going to let you speak first.
 
 He got as far as the fourth-floor landing.
 
@@ -137,16 +148,23 @@ Sakura stopped with the tray at the top of the stairs.
 "...What?"
 
 "A piece. Or the contract, or whatever the right word is — I don't know
-the right word and I've had it on my shoulder for a day and a half,
-which is part of the problem." He kept his voice ordinary, which took
-some doing. "You've been her apprentice for two years and three months.
-Have you been given one?"
+the right word and I've had it on my shoulder for two days, which is
+part of the problem." He kept his voice ordinary, which took some
+doing. "You've been her apprentice for two years and three months. Have
+you been given one?"
 
 There was a pause.
 
 "No," said Sakura.
 
 "Have you asked?"
+
+He heard it land about a quarter of a second after it was out, and knew
+exactly how close it had come — *she should ask* was four inches away
+and in the same shape, and Kaburagi had spent a minute in a linen room
+on Tuesday explaining precisely why that sentence would be the worst
+thing available, and he had come within a hair of it while trying to be
+careful.
 
 "You don't *ask*." She turned round. "You don't ask for that. It's not
 a thing you put in for. She'll do it when — she said *when you're
@@ -232,33 +250,41 @@ She went up.
 
 ---
 
-He found Sister Kaburagi in the linen room at about half past ten and
-did not need to ask her anything.
+He reported it to Sister Kaburagi in the linen room at about half past
+ten, because she had told him a thing on Tuesday and it had happened,
+and a person who tells you a thing that then happens is owed the
+outcome.
 
-"You've met Haruno," she said.
+"She made a joke," he said.
 
-"On the landing."
+"Of course she made a joke." Kaburagi went on counting sheets. "She's
+fifteen and she has been in this hospital since she was thirteen and
+she is extremely good at being pleasant about things, and she will go
+on being extremely good at it for about forty years and it will cost
+her a great deal."
 
-"Mm." Kaburagi went on counting sheets. "That's the one I meant. I'd
-have said it yesterday and you'd have gone and found her and made a
-speech at her and it would have been considerably worse, so I told you
-to come back today, and you have come back today having already had it
-happen to you properly, which is the only way anybody learns anything
-in this building."
+"I had a plan."
 
-"She made a joke."
+"I'm sure you did."
 
-"Of course she made a joke. She's fifteen and she has been in this
-hospital since she was thirteen and she is extremely good at being
-pleasant about things." Kaburagi put a sheet on the pile. "You want to
-watch for the jokes, Sazare. The ones who come and tell you straight
-have already decided to forgive you. It's the ones who make it funny
-you've got a fortnight of work with."
+"It was to say nothing," said Sazare. "It was four lines and it was
+right and I got about half of it done and then said four sentences too
+many at the end, and she scored me six out of ten for it and she was
+correct about the criterion."
+
+Kaburagi put a sheet on the pile.
+
+"Then you want to watch for the jokes," she said. "That's the whole of
+what I'd give you. The ones who come and tell you straight have already
+decided to forgive you — that's what telling you straight *is*. It's the
+ones who make it funny you've got a fortnight of work with, and
+sometimes a year, and they will never once say a hard word to you about
+it and you will never be entirely sure whether it is finished."
 
 He stood in the doorway.
 
 "There's nothing I can do about it," he said.
 
 "No," said Kaburagi. "There isn't, and that's the correct answer, and I
-notice it's taken you a day and a half to reach it, which is about a
-week faster than last year."
+notice it has taken you two days to arrive at it, which is about a week
+faster than last year."
