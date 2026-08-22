@@ -928,7 +928,7 @@ people); Katsuyu takes it back (removes the corpse, sentimental); she binned it
 is the most humiliating and the funniest available, because he is the world
 expert.
 
-## C5. CH57 — THE BEST-INFORMED MAN IN THE WORLD
+## C5. CH57 — THE BEST-INFORMED MAN IN THE WORLD — **WRITTEN**, nine scenes, ~14,900 words
 
 **Author-specified.** Eight scenes, ~11,000. 16/11. Scenes 1–5 **POV Tsunade**
 (first since ch49), 6–8 POV Sazare.
@@ -1022,6 +1022,53 @@ Shizune. Sazare weights corroboration above almost anything.
    one other man who knows, gets it confirmed, and is asked **to be there when
    she spends it.** Not a torch he is still carrying — a watch he can no longer
    keep.
+
+### FIXED BY THE WRITING — carry forward
+
+- **The paper is nineteen pages**, tenth month, in his hand, tied with
+  fabrication-room string, plus a four-line covering note. The *eleven pages* are
+  the separate third-month shape-theory document. Both in her drawer with the
+  fragment.
+- **THE PETRIFICATION WAS A SAGE FAILING, not a crystal accident.** 15/8 was the
+  senjutsu ceiling — too much natural energy taken in, unspendable, turning to
+  stone from the point of contact outward, painlessly. It explains the spared
+  thumb (the line moved in proportion to *contact*, not along a chakra pathway),
+  which had sat unexplained in a margin for three months. **He should be a
+  statue.** Two reasons he isn't: the close, and six hours of her work on a
+  thing she could not name.
+- **And the close is therefore load-bearing twice**: the reflex he built at seven
+  is the only thing between him and a plinth — *and* it is the whole of the
+  six-day problem. The move that keeps him alive kills everything he makes.
+  Jiraiya: *the man who wrote it did not know he was describing his own throat.*
+- **Four sages alive:** Jiraiya, Sazare, Orochimaru (contested), and Naruto, who
+  does not know yet. Jiraiya cannot do it clean — assisted, thirty years, the
+  features, and he says so on a roof because that is what the information costs.
+- **The three roads, named:** toads = yourself, snakes = taking, **slugs = the
+  world, and their art is capacity, so the healing is a consequence not a
+  tradition.** First sentence in the book that explains Katsuyu.
+- **The Ibiki thread is closed and it was never his.** Jiraiya has had the Oto
+  correspondence in a file since the seventh month; Ibiki has known that since
+  the eighth; four sentences in a corridor and neither raised it again. Sazare
+  spent five days carrying an empty box.
+- **The swearing is the reclassification.** Four instances in eleven minutes,
+  none in three years and four hundred visits. She has not started swearing —
+  she has stopped assembling, and the change is on his side. Membership of that
+  group: Shizune, Jiraiya, and now him.
+- **He counts the interventions, and it is three in five days** — Shizune's *not
+  yet*, the folded form, the paper moving. All three correct, all three by people
+  on his side, and he said all right to all three. Not a grievance. A count.
+- **Tsunade's five**, given to Jiraiya and unknown to Sazare: the reject table;
+  he came and told her he had looked at her; **he has never once asked her for
+  anything in three years**; he is wrong in public; and **he does not want to be
+  strong** — and has become dangerous anyway, as a side effect, which will look
+  like the opposite of the truth to everybody.
+- **Jiraiya's warning is not about her.** It is that he was made in the dark and
+  has never had to find out whether he is anything with the light on.
+- **The watch is handed over.** *Be there when she spends it. Don't stop it —
+  just don't let her do it on her own.*
+
+**Note against `act-5.md` Part F: Jiraiya is now the right student AND holds the
+watch, and he will be dead within the year. Nothing in ch57 forecloses Ame.**
 
 ### DO NOT TOUCH IN CH57 — but do not foreclose
 
