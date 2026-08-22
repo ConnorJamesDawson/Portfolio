@@ -93,6 +93,30 @@ on.* **And the job is only the frame. See below.**
 
 ## CH53 — THE ACT BREAK, IN ORDER
 
+**0. THE INSTRUMENT FINISHES — and he gives it away.** First week of month 11,
+five months, ~250 hours. The biggest thing he has ever made. **Maker's panel
+still flat.**
+
+Katsuyu is back from Shikkotsu. **The slugs have heard about him and would
+like to see his work**, and there is an invitation in that which neither of
+them names as one.
+
+**He declines to go.** Not caution — *it is her family's forest and I asked
+nobody the last time.* The ch51 lesson learned: he assumed a channel once and
+got it catastrophically wrong. **And he cannot ask her, because they have not
+spoken in seventeen days**, so the invitation sits unaccepted because of the
+exact thing he is about to go up the hill to repair.
+
+**So he sends the article instead, as a review request** — numbered questions,
+in his own hand, because he does not know the first thing about the offensive
+use of natural energy and they will. *How does it stand under load. What
+happens to it in a fight. What am I not asking.*
+
+**Sets up combat senjutsu for Act 5 without him acquiring anything.**
+
+And it means he walks up that hill having deliberately given away the only
+object he could have brought.
+
 **The promotion is the frame. The sentence is the event.**
 
 **1. He arrives with the loss.** The retrospective has died and it is not a
@@ -446,6 +470,22 @@ shaped rather than an answer.
 **Closes:** Act 5, tied to Kiri.
 
 ---
+
+## C2. ACT 5 OPENS ON JIRAIYA — not Naruto
+
+**Naruto's homecoming stays off the page in ch53** — gate noise at most. The
+important figure is **Jiraiya**, arriving a few days after the worst emotional
+week Tsunade has had in a decade.
+
+Why he is the right door:
+
+- **He knows her better than anybody alive**, and will read the whole
+  situation in about the time it takes to cross a room.
+- **He is the only human in the village who would recognise what Sazare is on
+  sight** — a toad sage looking at somebody who has been trained by slugs
+  without ever being told what it was called.
+- He would not be kind about it, and he would be right, and Sazare has had
+  nobody be unkind and correct to him in a very long time.
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
