@@ -1154,6 +1154,112 @@ it against `act-5.md` Part F.
 
 ---
 
+## C7. CH59 — RADIANT — **WRITTEN**, eight scenes, ~15,300 words
+
+21–27/11. Fixed by the writing:
+
+- **He states it as fact, not promise** — *a promise can be broken and then you
+  find out what it was worth* — and does not change register between the
+  declaration and the undertaking. **He has classified his own death as
+  evidence.**
+- **There was no process, and that is the horror.** The ordinary sequence is a
+  graduated exposure protocol; every step is a cheap exit. **Dan did all eleven
+  months of it.** Ten days from *why me* to this, with no point at which she
+  could have declined at low cost — because there were no points. It is the same
+  absence Jiraiya named on the windowsill: **no interval between deciding and
+  the world finding out.**
+- **She refuses to say it back, and says why**, in his own terms: said at 04:20
+  under load he would later check the conditions it was produced under, write
+  *not a clean reading* in his own book, never mention it, and step over that
+  bracket for the rest of his life. **She will not hand him an article he cannot
+  weigh.** He reads it correctly as the most careful thing anyone has done about
+  him.
+- **Why he said it: he supplied the completion condition.** Shizune told him on
+  the 12th there is no docket, no acceptance criteria, **no end state**. Nine
+  days of that, from a man who has never had a day without a number in it. So he
+  wrote the terms himself, unilaterally, at the largest defensible value. **It is
+  the thing where he solves it — and this time it worked**, once, and he records
+  it as an anomaly and warns himself not to build a rule on it.
+- **It arrived assembled**, which nothing ever does, so it had been built and
+  waiting. He starts dating it, gets past the 11th, further, and stops.
+- **THE MECHANIC — retroactive, not a gift.** State shapes chakra; everyone knows
+  this; **a seal is a fixed form and doesn't care what mood you are in**, so for
+  everyone else state modulates the last tenth. He does the whole hundred by
+  hand, so **his output has always been a direct readout of his emotional state
+  at full amplitude** — and he has eleven years of it filed under *materials*.
+  Bad deliveries, damp, poor stock: all of it was him.
+- **The reject table may be contaminated.** Four hundred rows, the document his
+  entire standing rests on, and he cannot say which rows are the material and
+  which are him on a Tuesday. Eleven months to re-run, and he cannot start until
+  he is in a state he can trust.
+- **No magnitude: he is inside his own sample.** First entry in fourteen books
+  with a hypothesis and no figure. *Lovesick* rejected as a term — a joke about
+  somebody at a table. He writes a protocol for reaching the state, finds step
+  one is *have somebody take hold of your coat at twenty past four in the
+  morning*, and strikes the whole thing: **not reproducible, do not build
+  anything on this.**
+- **Radiant, in his own vocabulary:** three and a half seconds not four, the
+  light going the whole way in with no scatter at the junctions, four voices
+  seated and clean. Eleven articles in one night, the worst better than the best
+  of the ninth month.
+- **AND THE SIX DAYS DO NOT MOVE.** Controlled pair: best article of his life,
+  six days; worst article of his life, six days. **Therefore the close is the
+  mechanism and order is not.** The most useful result of his year, and it cost
+  him the best thing he ever made.
+- **THE SHIKKOTSU REVIEW (11 sheets, six answers).** Core correctly graded, the
+  real compromise at the eleventh inch worth 4%, wrong end. Do not correct the
+  fourth voice — that is settling. Failure is always the blade, never the hilt;
+  **stop treating the blade as the article.** Six seconds was burnout, *he knew,
+  he asked anyway.* Twice, never three times, four hours to a day.
+  **Question six: two hundred and six questions and not one about what it is
+  for.** A missing specification at the front of the article, and everything
+  downstream of it is a guess that happened to work. And: **the object is not
+  the weapon, he is; the instrument is a tap** — *six seconds, and then a man
+  standing in the open holding a handle.*
+  The fifth thing: four elders, three positions and one refusal, recorded as a
+  disagreement rather than a manufactured consensus. **Do not go looking alone.**
+- **MYŌBOKU'S FOUR CONDITIONS.** Fukasaku will come; Shima comes, non-negotiable.
+  (1) Who has authority over the room. (2) Sazare states plainly, out loud, what
+  is being transferred. (3) Something must be written — **Shizune holds the pen**,
+  the only person Tsunade trusts to write down a thing she does not understand
+  without improving it. (4) **What has the boy given Shikkotsu?** Everything
+  Myōboku has ever given a human is under contract, no exception in their whole
+  history, because **the obligation is what keeps it honest at both ends** — and
+  Sazare owes nothing. Either the slugs are doing something Myōboku never has, or
+  the boy has taken without paying, and Fukasaku will not enter a building
+  without knowing which. **Tsunade refuses to answer four for him.**
+  And three lines across the grain: **Fukasaku has met one of theirs before**,
+  a very long time ago, not on either mountain, and will not put it in a letter.
+- **THE CEILING EVENT, 26/11.** Gather did not terminate; he held it open
+  deliberately, 30–40 seconds, count lost in the twenties. **The intake margin is
+  far larger than the hold** — fifteen is how long he can carry a full one, not
+  the size of him. Past twenty seconds the yard was *in the room with him*.
+  **There is no gauge: you find the edge by going over it.** His only proximity
+  warning was the scar at the carpus aching — dead tissue that should not report.
+  **His sole instrument for nearness to death is made out of the last time.**
+- **One effect, not two.** The observer that has been the fault in his hands for
+  eleven years is also the only brake he owns, and it is currently outbid. Clean
+  articles and no fear are the same absence. He has run no risk line since the
+  21st and did not notice.
+- **The slap.** Open hand, controlled inside the movement to about a fortieth,
+  from fear. **It is the only thing that takes his face off — for four seconds.**
+  Then the line, then *Kami's sake, you sappy little bastard.*
+- **HE MOVES INTO THE TOWER.** Second floor, the room past the treatment room.
+  Cover is real and documented: **supervised senjutsu training with medical
+  oversight for a Corps sergeant with a prior near-fatal incident in the same
+  discipline** — not one false word, and Thursday night is the evidence. Her four
+  reasons, the fourth said aloud on purpose because he would have found it: *I
+  want you where I can see you.*
+  **And he names the flaw and she has already had it:** it trades many small
+  exposures for one very large one, it is a concentration and not a cover, she
+  decided at half past four before he told her about the yard, and she is at
+  peace with it.
+
+**Open into ch60:** the trial, 28/11. Two mountains, four conditions, Shizune's
+minute, and question four answered out loud.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
