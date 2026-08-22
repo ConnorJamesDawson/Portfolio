@@ -928,6 +928,111 @@ people); Katsuyu takes it back (removes the corpse, sentimental); she binned it
 is the most humiliating and the funniest available, because he is the world
 expert.
 
+## C5. CH57 — THE BEST-INFORMED MAN IN THE WORLD
+
+**Author-specified.** Eight scenes, ~11,000. 16/11. Scenes 1–5 **POV Tsunade**
+(first since ch49), 6–8 POV Sazare.
+
+### The spine
+
+**Jiraiya is the first person who has ever been able to tell him what he is.**
+Everyone else says what he *does*. Katsuyu found eleven years of faults in his
+hands in one evening; Jiraiya finds the fault in what he has become in one
+morning.
+
+**And the real engine is the paper.** Jiraiya has no clan name, was the dead-last
+of a team containing a prodigy and a Senju princess, and is entirely self-made.
+**His own life is the control experiment for the thesis** — a man with no
+bloodline who became one of the three — and nobody in fifty-four years has ever
+framed it to him as *evidence*. He does not read it as a security problem. He
+reads it as somebody finally proving the thing he has believed since he was
+twelve. That is why he goes looking for the kid, and it is personal before it is
+political.
+
+### FIXED — the draft exists, and how
+
+Forbidding publication never forbade writing, and he cannot not write it.
+**He wrote it in the tenth month, unasked, and handed her the only copy**, with
+a covering note saying he was not going to submit it and **did not want to be
+the only person holding it** — keeping it himself would be a concealment and he
+does not do those. It has been in her drawer with the fragment and the eleven
+pages since.
+
+**So she is lending out a document given to her for safekeeping, without asking
+him.** Third person to stand between him and a procedure in five days, and much
+the largest.
+
+### FIXED — Jiraiya's file
+
+Excellent and wrong in one specific way. Kiri, the purge, the reparations claim,
+the fabrication output, the price on his head, the promotion, the Corps board
+vote — **and the Oto correspondence**, because unattached intelligence would
+have it. Better than Konoha's file. And built entirely from outside, so it has
+everything except what the man is actually doing.
+
+**This resolves the Ibiki thread with no contrivance:** Jiraiya mentions the
+letters in passing as an established fact, and Sazare learns that the thing he
+agreed on Wednesday to sit on has been in a file for months.
+
+### Jiraiya's register
+
+Delighted, filthy, unsentimental, **no envy whatsoever**. *I shot my shot a long
+time ago, kid.* The wistful-rival reading is thin in canon and worse for the
+book — it steals a chapter whose job is Sazare being named. He is the **only
+unambiguously glad person in the village**, which is what makes the scene 8
+unkindness land: it is not coming from a man with an axe.
+
+*"Congrats on getting around all that armour"* — **a technical compliment from
+an expert**, and the second independent arrival at the word *armour* after
+Shizune. Sazare weights corroboration above almost anything.
+
+### Scenes
+
+1. **The Fourth Hour** — POV Tsunade. He arrives. She knows exactly what turning
+   up at the fourth hour is, and knew when he said *no* on the 13th and she said
+   *good*. **The grip pays from her side** — she remembers her own hands, has
+   never mentioned it, never will. Why she did the kiss in front of Shizune. And
+   the thing she can say to nobody: what it is to be read accurately, for the
+   first time, at fifty-three.
+2. **Jiraiya** — POV Tsunade. Genuinely excited to meet Sazare and shows it,
+   which Sazare cannot interpret at all.
+3. **An Errand** — POV Tsunade. A real task, not a dismissal. She does not do
+   dismissals to him any more.
+4. **Pleasantries, Naruto, Then Him** — POV Tsunade. *"So he's the one you chose,
+   eh? Didn't put you down for a toy boy, Hime."* Then **what makes him so
+   special** — and her answer **must not mirror the ch54 list**. Things Sazare
+   does not know she noticed. That is the whole pleasure of the POV switch.
+5. **The Paper** — POV Tsunade. She says *extraordinary*; he asks how; she opens
+   the drawer. She watches the best-informed man alive read eleven pages and stop
+   being any of the things he was.
+6. **The Errand Comes Back** — POV Sazare. A room he cannot read, a man holding a
+   document he recognises at forty feet, and the Hokage saying nothing.
+   **AND THE KISS LANDS HERE — for a task well done.** Making it a work reward is
+   her armour and completely genuine at once: it can be nothing on Monday, and
+   she did it. He gets exactly what he asked for on the 12th in a form neither of
+   them can call by its name, **in front of Jiraiya**, stacked against the paper
+   so he has no capacity for either.
+7. **Who Taught You** — POV Sazare. The recognition, the word, the fork, the
+   cost — **Jiraiya's own incompleteness is the price of admission.** And the
+   ordinary follow-up that pays the Friday debt with a witness: *when did you
+   last see her?*
+8. **I've Seen Her Do It** — POV Sazare. Three days, and he has watched somebody
+   stop before, at close range, for twenty years, and it did not start with a
+   decision. Then **the seal**: Sazare checks his Thursday deduction against the
+   one other man who knows, gets it confirmed, and is asked **to be there when
+   she spends it.** Not a torch he is still carrying — a watch he can no longer
+   keep.
+
+### DO NOT TOUCH IN CH57 — but do not foreclose
+
+**Jiraiya is the right student and will be dead within the year.** He is the one
+candidate who is neither Konoha, nor the enemy, nor a claimant with a blood
+grievance, and who is himself the proof. The reader knows about Ame; Sazare does
+not. Leave it entirely alone here and let it become an ache in retrospect. Note
+it against `act-5.md` Part F.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
