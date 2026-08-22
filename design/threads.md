@@ -573,11 +573,46 @@ through a window.
   the first observer is a professional who files it as nothing.
 - He half-senses them and never actually sees them.
 
-**He puts her in her bed and falls asleep looking at her face**, in a chair, in
-her house — which is a catastrophe and the most honest possible outcome, and
-means the next chapter opens with him waking somewhere he cannot explain being.
+**AUTHOR'S DECLARATION — fixed. He falls asleep with her in his arms, and the
+one thing he notes is that her hands are gripping his shirt.**
 
-**Last line, in the retrospective:** *and tomorrow is going to be just as bad.*
+**The grip is the mechanism, not the decoration.** He gets her in through the
+window and goes to lay her down, and **she does not let go** — so the reason
+he is still there in the morning is not a decision he made. He never chose to
+stay. He was held. That is the only version in which a man who has spent
+fifty chapters not presuming ends the night on top of her covers with his
+arms round her, and it is consistent with the whole of him: **the one time he
+does the thing he would never do, it is because he was not permitted to
+leave.**
+
+**And it is the only thing he registers about the entire night.** Not her
+face, not the room, not what either of them said. Two fists in the front of
+his shirt, closed, and not loosening. He has no interpretation for it. He
+files the observation and goes under holding it — which is exactly what he
+did with the note, and the take, and the grip on the sword: **he reports the
+fact and misses what it means.** The reader does not.
+
+**Do not have him name the pun.** The grip is his eleven-year-old fault —
+twice the necessary effort, invisible to him, immediately visible to
+somebody else. Hers is the same shape. He does not notice. Nobody points at
+it.
+
+**What this costs, and it should cost:**
+- **The chair was survivable and this is not.** A man asleep in a chair in
+  the Hokage's house has an explanation. This has none, and he will not be
+  able to construct one, and he will not lie about it either.
+- **He wakes first**, works out where his arms are, and has to decide whether
+  moving them wakes her. He does not move them. **That is the decision the
+  chapter ends on** — not the night, the ten seconds after it.
+- **Shizune's morning gets much sharper.** What she is spelling out is no
+  longer *you had a conversation with her*.
+- **And Tsunade wakes knowing.** She was drunk, not unconscious; she will
+  remember her own hands. The next chapter has to survive her being sober
+  about it.
+
+**Last line:** *and tomorrow is going to be just as bad.* **Not a
+retrospective** — retired ch53. A flat closing thought, no inventory, no
+comparison to an earlier version of himself.
 
 ### The next morning — Shizune
 

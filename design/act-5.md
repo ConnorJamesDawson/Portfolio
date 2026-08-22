@@ -110,10 +110,16 @@ lands on a trusted doctor and not on T&I.
 ## Part A — What He Has Become
 
 **1. The morning after.**
-He wakes in a chair in the Hokage's house and cannot explain being there.
-Shizune finds him. She spells out what he has done **to her**, not what he did
-wrong — **and she calls her Hime**, which is his word, which nobody else uses,
-and which she has been not-saying for a year.
+He wakes in the Hokage's house **with her in his arms**, because she took hold
+of his shirt when he tried to lay her down and never let go — see `threads.md`
+§C1. He cannot explain being there and will not invent one. Shizune finds him.
+She spells out what he has done **to her**, not what he did wrong — **and she
+calls her Hime**, which is his word, which nobody else uses, and which she has
+been not-saying for a year.
+
+**Tsunade was drunk, not unconscious.** She remembers her own hands. Part A has
+to survive her being sober about that, and it is the first thing in the act
+that neither of them can file.
 
 **2. Jiraiya.**
 Four days after ch53, which is the worst possible timing and the point.
