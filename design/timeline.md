@@ -63,6 +63,7 @@ dated off it.
 | 51 | month 10, the 3rd to the 14th. Twelve days. The wood at 21:19 on the 14th |
 | 52 | month 10, the 15th to the 31st. Seventeen days. Ame on the 24th; the book given 28/10, leaves for Shikkotsu 2/11 |
 | **53** | month 11, the 4th to the 11th. Eight days. Instrument finished 4/11; sent for review 8/11; the hill 11/11. **ACT 4 ENDS.** |
+| **54** | month 11, the 11th, evening into the 12th, ~01:00. One continuous night. The office, then her house. **ACT 5 OPENS.** Eight scenes, ~12,200 words. |
 | 46 | month 6 through 29/7. **Six weeks — build time, the one span the model says must be real.** First note 28th night (~8/7); the test 11/7; Tsunade over the wall 29/7 |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 

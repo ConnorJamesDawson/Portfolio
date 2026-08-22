@@ -471,7 +471,7 @@ shaped rather than an answer.
 
 ---
 
-## C1. CH54 — THE CONVERSATION
+## C1. CH54 — THE CONVERSATION — **WRITTEN**, eight scenes, ~12,200 words
 
 **The single most load-bearing exchange these two will have until one of them
 asks the other something.** It follows directly from *why me*.
@@ -602,8 +602,9 @@ it.
   the Hokage's house has an explanation. This has none, and he will not be
   able to construct one, and he will not lie about it either.
 - **He wakes first**, works out where his arms are, and has to decide whether
-  moving them wakes her. He does not move them. **That is the decision the
-  chapter ends on** — not the night, the ten seconds after it.
+  moving them wakes her. He does not move them. **Moved to ch55** — ch54 ends
+  on him going under holding the observation; the waking opens the next
+  chapter, which is the right place for it.
 - **Shizune's morning gets much sharper.** What she is spelling out is no
   longer *you had a conversation with her*.
 - **And Tsunade wakes knowing.** She was drunk, not unconscious; she will

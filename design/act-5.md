@@ -10,7 +10,8 @@ dates), `writing-prompt.md` (the Act 5 register).
 
 **Span:** from the day after ch53 into early Shippuden. He is 18y10m at the
 opening and turns nineteen in the eleventh month.
-**Opens:** Jiraiya, four days after the worst week Tsunade has had in a decade.
+**Opens:** **ch54, the same night as ch53** — the conversation, then he carries
+her home. Jiraiya arrives four days later (Part A, beat 2).
 **Closes:** Sasuke kills Orochimaru and the network fragments. → `act-6.md`
 
 ---
