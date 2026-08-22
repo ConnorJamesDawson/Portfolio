@@ -67,6 +67,7 @@ dated off it.
 | **55** | month 11, the 12th, 07:15 to 08:10. One continuous morning, her house. Eight scenes, ~12,100 words. The seal seen; the rose found; the Ibiki deferral. |
 | **56** | month 11, the 12th (Thu) to the 15th. Four days, the tower. Eight scenes, ~11,200 words. Shizune's assistant; the lost count; the form; the twelfth Friday missed; **Jiraiya at the gate**. |
 | **57** | month 11, the 16th, 03:40 to ~06:00. One morning, the tower and its roof. Nine scenes, ~14,900 words. **POV Tsunade sc1–4**, Sazare sc5–9. The paper commissioned to Jiraiya; the word *sage*; the petrification re-explained; Tenzō named; **be there**. |
+| **58** | month 11, the 17th to the 21st. Five days. Nine scenes, ~14,400 words. The exercise breaks; the chain designed; the twelfth Friday paid; **what are we**. POV Tsunade sc9. |
 
 
 ### FIXED — where Tsunade actually lives

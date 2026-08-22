@@ -1080,6 +1080,80 @@ it against `act-5.md` Part F.
 
 ---
 
+## C6. CH58 — WHAT ARE WE — **WRITTEN**, nine scenes, ~14,400 words
+
+17–21/11. Fixed by the writing, carry forward:
+
+- **THE EXERCISE IS CALIBRATION, NOT TRAINING.** Nineteen evenings, seventy-two
+  corrections, and **not one word about power** — the whole curriculum is
+  capacity, and *that was the warning*. Katsuyu knew what the palm was from the
+  first evening. She never said it because **she has no word for it and no model
+  of a creature that could do it without knowing.** He logged the most important
+  operation of his life as a figure in a column with nothing under it.
+- **And it worked because it did not require him to know.** *If you had
+  explained it to me I would have understood it perfectly and had two.*
+- **The exercise has broken and the fix is to wait.** Knowing installed
+  attention in an operation that requires its absence — he cannot go still while
+  watching himself go still. Best 6, accidental; seven attempts at zero.
+  Katsuyu's one sentence: **do it every day and be bad at it for some weeks.**
+  The watching wears out. First fault in his life whose answer is *wait*.
+- **Katsuyu has never taught anybody, ever.** Not in four hundred years, not on
+  the mountain, not Tsunade in nineteen years. She did not know she could until
+  the second Friday or that she liked it until the sixth. **He is the only one.**
+- **The asking costs eleven words in a yard.** She has never explained how she
+  hears it and he has never asked — the only question he has ever left alone.
+  That is what makes the missed Friday unbearable: it cost nothing.
+- **Her answer to the apology: *I did not mind*, and it is not forgiveness** —
+  nothing was done. His counter, which is the scene's engine: if missing the
+  twelfth was nothing, the eleven were nothing, **and he does not believe that,
+  because of what she told him in the tenth month.**
+- **He pays her by using her own method on her** — third attempt, after a list
+  and a superlative both fail. Observations offered flat to the person best
+  placed to use them, ending on: *you have never asked me for anything, and I
+  don't think you know how to.* Her reply: **ask me next Friday.**
+- **THE CHAIN.** Ruri → Katsuyu → a Myōboku elder (Fukasaku) → Jiraiya, with the
+  author present at every transfer to stop deviation. Derived by asking *has it
+  ever been done* instead of *how do I teach it*: two of the three links are
+  already proven, one is unknown. **Tsunade's read: it is the slowest
+  transmission medium that has ever existed and that is its best security
+  property** — there is no fast version and nobody can take it off him.
+- **She refuses to summon Katsuyu**, in front of two people, to preserve an
+  arrangement between a boy and a slug. *He asks her. On Friday. Like always.*
+- **Predicted result: worse than his first crystal at nine.** Shapeless, silent,
+  four seconds, an hour to produce. **That is the entire finding** — it has to
+  exist, come out of a man with no line, and be put on a scale. The trial is
+  the 28th.
+- **Seals are notation and therefore a compression** — forty techniques badly
+  held versus **three held entire**. He has crystal, the wood (once), and the
+  gather. A genin with a scroll outnumbers him by Thursday. And there is **no
+  interval** between intention and effect, which is why the governor exists.
+- **Jiraiya's ask is not curiosity.** He cannot gather and move; thirty years
+  assisted; and he watched a boy do it in a fifth of a second. Sazare tells him
+  the word broke the exercise, and then that he would not give the word back.
+- **Four interventions in eight days**, now including Shizune backdating the
+  attachment request to the 12th. *The thing to be careful about is not the
+  four. It is that I have stopped counting them as a surprise.*
+- **THE KISS.** He asks with four clauses — position, evidence, question,
+  release — and **the release is what does it**: he dismantles himself politely
+  to make sure the rest is not a lever, offers to be less than the ordinary
+  version for as long as it is on offer, and would like it written down. She
+  takes his coat mid-clause.
+- **He swoons and the register holds**, because the swoon *is* the report: every
+  structure gone and unrecoverable, no readings, no duration, no instrument —
+  **and he does not care**, which has never once been true. Then the laugh that
+  comes apart, the hand over the mouth, and *can I have another one*, meant both
+  times.
+- **Her decision (sc9, POV Tsunade).** Her ledger is six items about
+  **performance**, and a boy with no face has just come apart in a chair and
+  could not have stopped a second of it. **There is no amount of acting that can
+  fake that.** So: he is hers, and anyone who takes a view can come up the hill
+  and put it to her in person. **She knows she has just become the exact
+  vulnerability Jiraiya described on Monday, and does not care.**
+- Scenes 8 and 9 deliberately overlap and close on the same line from both
+  sides.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
