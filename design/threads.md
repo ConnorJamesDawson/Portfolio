@@ -878,6 +878,56 @@ people); Katsuyu takes it back (removes the corpse, sentimental); she binned it
 
 ---
 
+---
+
+## C4. CH56 — FOUR DAYS — **WRITTEN**, eight scenes, ~11,200 words
+
+**Fixed by the writing, carry forward:**
+
+- **The instrument fails three times, one cause.** He didn't count the doorway
+  (ch55); he loses a count when she crosses the outer office (14/11, first time
+  ever, four attempts to get one figure); he writes **Senju Tsunade** in the
+  authority field of a Suna dispatch cover where **the office of the Hokage**
+  belongs. One error in four hundred and six, which is worse than nine — nine
+  would be a template and fixable.
+- **Shizune pockets the spoiled form.** Second procedure she has stood between
+  him and in sixty-eight hours. He names it and lets it stand and asks for it on
+  the record. **Say it again on Monday.**
+- **The box is a punishment from outside.** Yagi's read: a man given a post on
+  the 11th and a clerk's desk on the 12th has been quietly sat down, and that is
+  the ordinary story and ordinary always wins. **Shizune's control manufactures
+  the disgrace it was built to prevent**, and it holds precisely because it is
+  the shape of a punishment.
+- **Yagi clocks him in one second** when he looks up at a wrong tread, and is
+  the first of the female cast to have it. She offers the ward and leaves.
+- **Sakura's five warnings**, delivered in front of him while he takes notes.
+  **Number five — *he will not look up, nothing gets in* — is false since
+  11/11**, and Shizune is the only person in the room who knows and cannot say.
+- **THE COST: the twelfth Friday.** Eleven Fridays asked, eleven yeses, never
+  once assumed. He did not ask on the 13th. **Not declined, not deferred —
+  forgotten.** He finds out at ten at night on the 14th. *It has come out of the
+  one person who volunteered.*
+- **Thirty-one hours / three days.** No exercise since the hill. The work has
+  not been displaced, it has been **annexed** — the only time it entered his
+  head in three days it came in as a property of her (the seal, Wednesday,
+  ninety seconds). And **he has been happy for three days and has no prior
+  entry for the word in fourteen books**, so he cannot tell recovery from
+  something going badly wrong.
+- **Tsunade's two not-answers.** The docket at the fourth hour (her own work,
+  handed to an eighteen-year-old to read) and the same docket back from the
+  Corps board with **S. Ruri, Medical Corps (Fabrication), on referral** at the
+  bottom. She says nothing about either, then or ever.
+- **She never answers *can I have another one*.** She does it again unannounced,
+  in the middle of a work sentence, at a moment with no romance in it — **ch57
+  at the earliest.** The wait is the point.
+- **Weekday anchor:** 12/11 is a Thursday. 13th Friday, 14th Saturday, 15th
+  Sunday. Sixth-month ledgers due Tuesday the 17th — after which Shizune has no
+  control left and says so.
+
+**Open into ch57:** Jiraiya clocks the puppy love in about four seconds, which
+is the most humiliating and the funniest available, because he is the world
+expert.
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He

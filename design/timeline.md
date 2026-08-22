@@ -65,6 +65,7 @@ dated off it.
 | **53** | month 11, the 4th to the 11th. Eight days. Instrument finished 4/11; sent for review 8/11; the hill 11/11. **ACT 4 ENDS.** |
 | **54** | month 11, the 11th, evening into the 12th, ~01:00. One continuous night. The office, then her house. **ACT 5 OPENS.** Eight scenes, ~12,200 words. |
 | **55** | month 11, the 12th, 07:15 to 08:10. One continuous morning, her house. Eight scenes, ~12,100 words. The seal seen; the rose found; the Ibiki deferral. |
+| **56** | month 11, the 12th (Thu) to the 15th. Four days, the tower. Eight scenes, ~11,200 words. Shizune's assistant; the lost count; the form; the twelfth Friday missed; **Jiraiya at the gate**. |
 
 
 ### FIXED — where Tsunade actually lives
