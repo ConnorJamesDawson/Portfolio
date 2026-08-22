@@ -253,8 +253,10 @@ could not ask for it.
 lie, and enjoys it.** Forty-one years on the low shelf, out four times, three
 of them Sazare. *It is not doing anything here.*
 
-**She knows what reading is and has never done it.** So he reads her the
-contents page in a cold yard, and gets six reactions — chapter one she cannot
+**They read when they have to** — there are four written things that concern
+them and every one is a contract, read once and then held. **They do not
+*keep* books**, because a book is a thing you go back to and they carry things
+instead. So he reads her the contents page in a cold yard, and gets six reactions — chapter one she cannot
 do (she goes where she is called, never where people are); chapter three she
 has been doing all year without knowing it had a name; **chapter four she
 cannot answer at all, because it is happening to her while he reads it**; and
@@ -267,9 +269,10 @@ several of them kind.
 
 She takes it to Shikkotsu on 2/11. And:
 
-- **It will be kept, in a dry place, and looked at by everybody and consulted
-  by nobody**, because slugs do not read. It becomes the first written object
-  in that forest — **something akin to a museum piece.**
+- **It will be kept, in a dry place, looked at by everybody and consulted by
+  nobody** — not because they cannot read it, but because it will not occur to
+  anybody to. The first thing written down in that forest **that nobody has
+  had to sign** — something akin to a museum piece.
 - **What gets kept is what she says.** She holds the six chapters perfectly;
   oral tradition is their whole method and it does not lose much *per
   transmission*.
@@ -286,8 +289,10 @@ several. He is a man obsessed with provenance watching a text drift in real
 time and unable to do a thing about it. *Not you too.*
 
 **And the authoritative copy sits four hundred miles away, uncorrupted, and
-nobody consults it** — which is exactly how real textual corruption works, and
-is unbearable to him.
+nobody consults it** — and **any one of them could walk over and check.** That
+is the part he cannot get past: not that they can't, but that it will never
+occur to anybody that a thing they are holding perfectly might have stopped
+being the thing.
 
 **It also hands him a reason to go to Shikkotsu that has nothing to do with
 senjutsu.** He goes to see a book. And the first thing he does when he gets

@@ -1,7 +1,7 @@
 # Chapter 52, Scene 6 — The Comparison Set
 
 *Act 4, part D. Konoha, the room over the persimmon tree. Sazare Ruri,
-age eighteen. POV: Sazare. ~1,497 words.*
+age eighteen. POV: Sazare. ~1,552 words.*
 
 ---
 
@@ -97,14 +97,20 @@ Then:
 *I have known that for about three hours and I have been trying to get
 round it since.*
 
-*I was seven in a workshop in Kiri. Warashina had the bench under the
-window and I had the stool and there was a graver I could not hold and
-a knee that had gone in the spring, and it is the year I started, and I
-have used it as the origin of everything I have ever counted.*
+*I was seven in a workshop in Kiri. My mother had the frames along the
+long wall and I had the stool at the end and there was a graver I could
+not hold and a knee that had gone in the spring, and it is the year I
+started, and I have used it as the origin of everything I have ever
+counted.*
 
-*My mother was alive. She was thirty-one and she had four years of
-hospital shifts still to do and eleven of the ones after that. Kohaku
-was three and had not started running yet.*
+*She was at those frames every morning of my life and had six and a
+half years left at them.*
+
+*Kohaku was twelve, or thirteen — I do not have her birthday either,
+which I have only this minute noticed — and she was already going out
+in the mornings and coming back with her boots wrong, and she still ate
+at that table and pushed her bowl across for the last of the rice, and
+she had six and a half years too.*
 
 *They were alive until I was thirteen and a half.*
 

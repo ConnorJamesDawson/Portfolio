@@ -1,7 +1,7 @@
 # Chapter 50, Scene 4 — What It Is Called
 
 *Act 4, part D. Konoha, the quartermaster's yard, after hours. Sazare
-Ruri, age eighteen. POV: Sazare. ~1,593 words.*
+Ruri, age eighteen. POV: Sazare. ~1,607 words.*
 
 ---
 
@@ -230,8 +230,9 @@ technique fault. A history, in my hands.*
 Kanzaki will have one before I do because she always does.*
 
 *It has no name. I asked. She could not understand the question and
-then said "it is how you hold it," and slugs keep no scrolls and never
-have and there is nothing to write down, and I have written that down.*
+then said "it is how you hold it," and they do not keep books, and
+there is only somebody doing it in front of you until you are doing it
+too — and I have written that down, which she would find funny.*
 
 Then, at the bottom, under all of it:
 

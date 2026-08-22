@@ -1,7 +1,7 @@
 # Chapter 52, Scene 5 — Six Chapters
 
 *Act 4, part D. Konoha, the village library and the quartermaster's
-yard. Sazare Ruri, age eighteen. POV: Sazare. ~2,173 words.*
+yard. Sazare Ruri, age eighteen. POV: Sazare. ~2,218 words.*
 
 ---
 
@@ -283,18 +283,21 @@ it, and it will be there in four hundred years."
 
 Sazare put the file down.
 
-"We do not read," said Katsuyu. "I know what reading is — I have
-watched people do it for four hundred years and I understand the
-principle perfectly well and I have never done it and neither has
-anybody I know. We hold things by saying them. That is the whole of our
+"We read when we have to," said Katsuyu. "There are four things written
+down that concern us and every one of them is a contract, and they are
+read once, carefully, by somebody, and then they are held the way
+everything is held.
+
+"But we do not *keep* books. A book is a thing you go back to, and we
+do not go back to things — we carry them. That is the whole of our
 method and it is a good method and it does not lose very much."
 
 "So the book—"
 
-"The book will be the first written thing that has ever been in that
-forest," said Katsuyu, "and it will be looked at by everybody and
-consulted by nobody, and I will tell them what is in it, and *that* is
-what will be kept."
+"The book will be the first thing written down in that forest that
+nobody has had to sign," said Katsuyu, "and it will be looked at by
+everybody and consulted by nobody, and I will tell them what is in it,
+and *that* is what will be kept."
 
 "You'll tell them."
 
@@ -309,8 +312,8 @@ by the dye-works.
 
 *She will tell them. And they will tell each other. And they divide.*
 
-*There is one copy and it is going to a place where nobody reads, and
-the text is going to go into an oral tradition on the second of the
+*There is one copy and it is going to a place where nobody will need
+it, and the text is going into an oral tradition on the second of the
 eleventh month and it is going to move through — I have no idea. A
 hundred of them. A thousand. However many there are.*
 
@@ -326,9 +329,10 @@ He stood in the lane for a while.
 away, being looked at by everybody and consulted by nobody.*
 
 *And whatever is going round that forest in fifty years will not be
-what is in that book, and there will be no way for anybody to find out,
-because the only creature who could check it will be the only one who
-never needs to.*
+what is in that book, and any one of them could walk over and check —
+that is the part I cannot get past. It is not that they can't. It is
+that it will not occur to anybody that a thing they are holding
+perfectly might have stopped being the thing.*
 
 He wrote it down that night and put a heading on it, and the heading
 was a joke and he knew it was a joke and he left it standing.

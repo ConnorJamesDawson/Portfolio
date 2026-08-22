@@ -31,6 +31,8 @@ reads as elegance and costs a quarter of the act.
 | Knee injury (field repair, wire) | ~7y | ch26 — "keep a seven-year-old walking" |
 | Enters the trade / stock lists | ~7y | ch30, ch35 — "before he was eight" |
 | Kohaku's courier runs begin | ~9y | world-bible — the drops |
+| **Kohaku is the ELDER sister, 5–6 yrs older** | 12–13y when he is 7 | world-bible: already a working shinobi while he was in the Academy. **She is never a small child in any look-back.** |
+| **Mother (Ruri Kaede) works the frames** | — | ch01 sc1. The family trade. **Not a medic, no hospital.** |
 | **The execution. Mother (Ruri Kaede) and Kohaku both die.** | **13y6m** | world-bible age ledger, act-1 beats 21–23 |
 | Crossing, Hot Water | 13y6m | act-2 Part A |
 | Leaves Hot Water | 15y8m | age ledger |
