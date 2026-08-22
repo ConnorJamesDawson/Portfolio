@@ -241,6 +241,61 @@ relationship that ran its course is one diagnosis. Feeling nothing about a
 thing that never started **because you said one word in a yard** is a much
 worse one, and it is the accurate one.
 
+### THE BOOK — chapter four, paid (ch52 sc5)
+
+**He cannot give her an article.** She divides; a thing on a shelf needs
+somebody with a shelf, and everything in chapter four assumes a person with a
+room. So he gives her **the friendship manual** — the only thing he owns that
+was given rather than made, handed to him by Ochiai in the ninth month when he
+could not ask for it.
+
+**Ochiai strikes it off the accession as *withdrawn, condition*, which is a
+lie, and enjoys it.** Forty-one years on the low shelf, out four times, three
+of them Sazare. *It is not doing anything here.*
+
+**She knows what reading is and has never done it.** So he reads her the
+contents page in a cold yard, and gets six reactions — chapter one she cannot
+do (she goes where she is called, never where people are); chapter three she
+has been doing all year without knowing it had a name; **chapter four she
+cannot answer at all, because it is happening to her while he reads it**; and
+chapter five is useless to something with no shoulders.
+
+**Nobody has given her anything.** Not rarely — never. Only instructions,
+several of them kind.
+
+### THE TRANSMISSION — comedy first, danger later
+
+She takes it to Shikkotsu on 2/11. And:
+
+- **It will be kept, in a dry place, and looked at by everybody and consulted
+  by nobody**, because slugs do not read. It becomes the first written object
+  in that forest — **something akin to a museum piece.**
+- **What gets kept is what she says.** She holds the six chapters perfectly;
+  oral tradition is their whole method and it does not lose much *per
+  transmission*.
+- **And then they tell each other. And they divide.** One reading, and inside
+  a fortnight it is in all of them, and it cannot be recalled.
+
+**This is ch46's danger arriving as comedy first** — *a thing that reproduces
+cannot be recalled* — which is the ideal order: the reader learns the shape as
+a joke, long before it turns up as a landscape.
+
+**The payoff, Act 5:** Chinese whispers. Slugs quoting chapter two back at him,
+flat, verbatim, and **slightly wrong** in a way that proves it has been through
+several. He is a man obsessed with provenance watching a text drift in real
+time and unable to do a thing about it. *Not you too.*
+
+**And the authoritative copy sits four hundred miles away, uncorrupted, and
+nobody consults it** — which is exactly how real textual corruption works, and
+is unbearable to him.
+
+**It also hands him a reason to go to Shikkotsu that has nothing to do with
+senjutsu.** He goes to see a book. And the first thing he does when he gets
+there is check it against what he has been hearing.
+
+*(His own heading on the entry, and he knows it is a joke and leaves it
+standing: **Provenance: unknown.**)*
+
 ### WHAT KICKS IT OFF — the slugs ask why he has no mate
 
 **Placement: ch52, in the elder's conversation.** Same flat register as the
@@ -261,8 +316,8 @@ ledgers, because that is how he works. And the evidence is all there and
 logged and never read as a column. **Nine visits with no work order** — he
 noticed, wrote it up, could not interpret it. Now he can.
 
-That is the Saeko detonation: **he reads his own bench log correctly, two
-years late.** Same failure as the source-medium column, the shape-theory
+That is the Saeko detonation: **he reads his own bench log correctly, five
+months late.** Same failure as the source-medium column, the shape-theory
 schoolbook, and the assumed channel — but this time it is about a person.
 
 ### AND THE ONE HE LOOKS AT ON PURPOSE
