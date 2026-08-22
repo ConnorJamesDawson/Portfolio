@@ -642,7 +642,7 @@ Why he is the right door:
 - He would not be kind about it, and he would be right, and Sazare has had
   nobody be unkind and correct to him in a very long time.
 
-## C3. CH55 — THE MORNING AFTER
+## C3. CH55 — THE MORNING AFTER — **WRITTEN**, eight scenes, ~12,100 words
 
 **Author-specified. Load-bearing.** Seven scenes plus a short Shizune close,
 target ~10,600. The first morning of Act 5.
