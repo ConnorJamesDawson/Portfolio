@@ -642,6 +642,242 @@ Why he is the right door:
 - He would not be kind about it, and he would be right, and Sazare has had
   nobody be unkind and correct to him in a very long time.
 
+## C3. CH55 — THE MORNING AFTER
+
+**Author-specified. Load-bearing.** Seven scenes plus a short Shizune close,
+target ~10,600. The first morning of Act 5.
+
+### The spine
+
+Ch54 was a knife-fight; this is the release — but it must not be *only* release.
+The cost is planted here and paid in Part D: **the first thing he ever fails to
+report.**
+
+### 1. Twelve Hours — POV Sazare
+
+Best night's sleep of his life, and he can date the previous record. **Her hands
+still shut in his shirt.** He traces her face — enough detail to make a bust of
+her in crystal if he chose, and he notes that he could, and files what that
+would mean.
+
+**The diamond is a seal, and the shock is not that it exists.**
+
+- **He can see it and he cannot read it.** Seals are notation; notation is the
+  one transmission medium permanently closed to him. There is a piece of writing
+  four inches from his face, on her, and he is categorically excluded from it —
+  not by security, not by policy, by what he is.
+- **And it is a seal that stores and does not close.** He has spent the whole of
+  Act 4 on the fact that his crystal is a jar that runs out because the closing
+  move that protects him kills everything he builds. The thing he has failed to
+  make for eleven years has been on her forehead for three years.
+- **The drag-away is the stronger of the two pulls, and it is not lechery.** He
+  is about to start *studying her*, nine hours after being told *you're doing
+  the thing where you solve it*. The chapter must know this is a relapse.
+
+**He also finds the rose — see §C3a below.**
+
+### 2. Pervert — POV Sazare
+
+She has been awake a while, which means she has had time to decide what kind of
+morning this is going to be, and she chose light. **She lets go of the shirt as
+she says it** — the grip ends by choice. **Neither of them ever mentions the
+grip, then or ever.**
+
+Eyes snap up: *"Good morning, Hime."* He makes light of it; she takes it.
+
+*Close your eyes, I need to get dressed.* — a mile from *fuck off*.
+*What, I can't stay and watch?*
+*No, Ruri, that was the polite way of saying get the fuck out of my bedroom.*
+
+**The word is BEDROOM, not house.** She has put a boundary round the room and
+left the building alone, and it is a smaller word than she needed, and he
+notices.
+
+**His defence on the pervert charge is true and unbelievable** — he was checking
+her ribs. **He accepts the charge on a technicality while the real offence goes
+unnoticed**, and he knows it.
+
+### 3. The Bottom of the Stairs — POV Sazare
+
+Shizune. *"Pleasant sleep, I hope."*
+
+She sent the guard home and **stood watch herself all night**. She heard *fuck
+off* through a door and then heard nothing get thrown, and was three seconds
+from going in.
+
+### 4. A Glass Heart — POV Sazare
+
+The warning proper, and it must be sharper than *be careful, she's fragile*:
+Tsunade has survived forty years by never being **reachable**. The danger is not
+that he will hurt her — **it is that he already can, and he cannot yet tell the
+difference between those two sentences.**
+
+Evidence: three people in twenty years have said something like that to her and
+all three went through something. He didn't. **Shizune's conclusion is not *she
+likes you*. It is *she couldn't*.**
+
+Optional private knife: Shizune says one sentence that only makes sense if she
+knows he has seen the rose. Neither confirms.
+
+### 5. What It's Called — POV Sazare
+
+He asks Shizune about the seal, because he cannot ask Tsunade. **She gives him
+the name and nothing else**, and says that if he wants to know what it is *for*
+he must ask Tsunade, and that it is the most expensive question available to
+him.
+
+He gets far enough alone to stop wanting the rest: **it stores, it has been
+storing for decades, and a store that size is not for a patient.** It is a woman
+who has spent thirty years preparing to spend herself.
+
+**He does not ask.** Second thing in two chapters he knows and will not say.
+
+### 6. What This Actually Is — POV Sazare
+
+**Shizune teaches him what a relationship is, and the mechanism matters as much
+as the content.**
+
+- **He has to construct the questions, badly, one at a time.** She volunteers
+  nothing and answers only what is asked.
+- Which is exactly how Katsuyu teaches and exactly how he learned crystal: match
+  a finished article, no notation. **Shizune does summon pedagogy on him by
+  instinct and neither of them notices.**
+- **She refuses exactly one question**, and he has to work out which and why.
+  That is the scene's spine.
+- **What she gives him is a frame, not a rule:** no docket, no acceptance
+  criteria, no completion condition, nobody signs it off. **The first thing in
+  his life with no end state**, and it frightens him more than the council did.
+
+**Shape:** Katsuyu taught him his hands. Tsunade taught him to be asked for the
+rest. **Shizune teaches him the only subject he has no notation for.** Three
+women at the same woman's side, none of them a shinobi teacher.
+
+### 7. The Assistant — POV Shizune
+
+The penance. **The hug box made real** — the control was one name at the bottom
+of a docket and is now a person with a clipboard, all day.
+
+Comedy: he is the best clerk alive, clears four days of backlog before lunch,
+sees the end date immediately and tries to negotiate. **She lets him negotiate
+and then invents more work, and that is how she gets him.**
+
+Only outside look at what he has become. She clocks two things he cannot: that
+he is above her now in every way that matters and has not noticed, and that
+Tsunade came downstairs **not hungover in the way she is always hungover**.
+
+**Note for Act 5:** this is the last time the hug box works, and it works
+because it is a human being and not a signature.
+
+### 8. Angelic — POV Sazare
+
+**In the kitchen, in front of Shizune.** Not private. He has no filter and never
+has, and saying it publicly costs something the moment after Shizune warned him.
+
+*"You look angelic when you sleep."*
+*"What, so I don't look angelic anyway?"*
+
+**The trap is that he answers it honestly, because he always does.** Awake, she
+looks like somebody working out what a thing is going to cost — **and that is
+the face he would make the bust of.** He turns a joke into the best line in the
+book by accident. Shizune's face is the punchline and her own warning proved
+correct in the same room she gave it.
+
+**Then the kiss on the cheek. Hers. She initiates.**
+
+- **It is not an answer.** She has said yes to nothing. She gives him one thing,
+  in front of a witness, with a joke over the top of it, and can take all of it
+  back on Monday. **He knows that and wants it anyway.**
+- **Shizune leaves — and it is a concession, not an escape.** She set the watch,
+  sent the guard home, and gave the glass-heart warning an hour ago, and now
+  she stands down.
+- Tsunade, shouting after her: **"C'mon Shizune, I wasn't about to mount him on
+  the table."** The crudeness is the cover. She is making it a joke *in front of
+  a witness* so it can be a joke later if she needs it to be — **the henge in
+  verbal form.** Sazare half-sees that and does not say it.
+
+**"Can I have another one, Hime?"**
+
+- **He does not fluster.** He reports. The collapse is entirely internal — the
+  instrument fails, he has no reading, and the only thing that comes out is the
+  request.
+- **It is the first time in fifty-five chapters he has asked for something for
+  himself.** Name that. It is the actual event of the scene.
+
+**She does not answer.** She has her coat. She stops in the doorway and does not
+turn round — the ch51 gateway, except about four seconds — and goes.
+
+**And he does not count it.** He notices afterwards that he did not count it.
+**That is the last line of the chapter.**
+
+### 8b. Doorstep — POV Shizune, short (~400)
+
+She stands outside in the cold and has her own reaction to what she just
+watched. Frames the chapter against §3–5, and gives Shizune the close as well as
+the open.
+
+### THE COST — plant it, do not resolve it
+
+Between §4 and §6: **he raises Ibiki.**
+
+A concealed relationship between the Hokage and a subordinate running a live
+foreign correspondence is an unreported security vulnerability. He knows the
+exact shape of it. Somebody has to be told, it should be Ibiki, and it should be
+him who tells him.
+
+**Shizune says not yet. He defers** — not because he is convinced, but because
+she asked, and she stood on a stair all night, and she is the only person in the
+building on their side.
+
+**First dishonest thing he has ever done.** He does not lie. He never lies. He
+just does not report, and the not-reporting has a date on it, and it will still
+be undone when exchange three arrives with a fee attached and Ibiki finds out
+from somebody else. **This is the crack that runs the whole act.**
+
+---
+
+## C3a. WHERE THE CRYSTAL ROSE IS — FIXED
+
+**It is dead.** Made ch49 sc6, carried up by Katsuyu, set on the border reports
+with *"He will be good for you, Hime."* **It went on the 25th of the eighth
+month**, six days later, per ch50 sc6.
+
+**She kept it. It is on the shelf in the bedroom** — one of the four things,
+none of them photographs, that he could not identify in the dark in ch54 sc8.
+**In daylight he can.**
+
+- **She carried a dead flower the length of the village to the house she has
+  arranged not to be in.** Not sentiment — the opposite. Where nobody would see
+  it and she would not have to look at it. **The house is where she puts
+  things**, which answers the ch54 question without answering it.
+- **She kept the corpse of the object that proved his work dies at six days.**
+  A statement she would never make aloud and has now made.
+
+**MECHANIC, FIXED — what six-day failure looks like.** The order goes; the mass
+does not. It stays rose-shaped and stops being crystal in any useful sense:
+opaque, and **friable**. It holds its shape sitting still and comes apart under
+any handling at all. A sandcastle.
+
+**Therefore it records every touch**, and he is the one man alive who can read
+it — he knows what it weighed and exactly what it looked like the moment it
+went.
+
+**And there is a dish under it.** She noticed it was shedding and put something
+down to catch what came off. **Nobody does that for a dead flower.**
+
+**He has no right to any of it**, cannot un-know it, and **must never mention
+it**.
+
+**The dates line up and he will notice:** he was last up the hill on the 24th of
+the eighth month — the night before the rose went. The rose going and the
+thirty-six days of silence are the same event, and he has always filed that as
+coincidence. **Leave it unsettled.**
+
+**Rejected:** still on the tower desk (she would have had to explain it to forty
+people); Katsuyu takes it back (removes the corpse, sentimental); she binned it
+(honest to her self-protection, wastes the beat).
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
