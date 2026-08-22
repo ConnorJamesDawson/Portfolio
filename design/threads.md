@@ -87,7 +87,107 @@ documented, which is exactly why nobody ever looks at them.
 
 **Placement:** ch53, the act break — after the confrontation (ch51) and the
 aftermath (ch52). It resolves nothing; it *builds the structure Act 5 runs
-on.*
+on.* **And the job is only the frame. See below.**
+
+---
+
+## CH53 — THE ACT BREAK, IN ORDER
+
+**The promotion is the frame. The sentence is the event.**
+
+**1. He arrives with the loss.** The retrospective has died and it is not a
+methodology problem — *since I was seven* is how he keeps the boy in the
+workshop in the room, and the boy is the last continuous thing he has of a
+family that is dead.
+
+**First time in three years he goes up that hill with nothing to give.** No
+finding, no protocol, no article, no docket. And the timing is the worst
+possible — they have been frozen since the fourteenth — which is what makes it
+work: he goes because there is nowhere else, and that resolves the
+estrangement without either of them apologising.
+
+**2. Her advice, and it must be genuinely good.** She is the person alive with
+the most experience of having to stop referring back to a past that no longer
+applies — Nawaki, Dan, twenty years away rather than live somewhere that kept
+referring back.
+
+> *You don't replace it. You just don't have one for a while, and the while is
+> longer than anybody tells you. And the danger isn't the gap — it's what you
+> reach for to fill it, because whatever you pick you'll have for thirty
+> years.*
+
+Specific, hard-won, correct — **and a confession she does not know she is
+making.** She picked cards and drink and four countries. He hears advice. He
+works out much later that it was a report.
+
+**3. "If that is the fix then I choose you."**
+
+**He is not saying a romantic thing. He is answering a specification.** She has
+handed him a design constraint with a selection criterion in it, and he
+answers those immediately, out loud, with no check running.
+
+**Third instance of the signature:** the hug (ch39), the walk up the hill on
+the fifteenth (ch47), this.
+
+**4. "Don't say it again."** Her only move — because a repeat *having been
+told* stops being an accident and becomes a choice, and she cannot have that
+in the room. He is already halfway into restating it more precisely when she
+stops him.
+
+**He knows exactly what he said.** Do not regress him past ch51. He knows it
+was true, and he knows it was not a refusal — he can tell a door shutting from
+a wall going up. **What he does not have is why it cost her that much**, and
+that is **the first question of his life that cannot be answered from his
+side.** No bench for it. Which is what actually kills the retrospective:
+eleven years of himself is structurally irrelevant to a question that is
+entirely inside somebody else.
+
+*(He writes the technical reason first — Kanzaki's series break, correctly
+reasoned — then crosses it out and writes the real one underneath. Same
+pattern as the noodle house and the comparison table: the honest half arrives
+after the defensible one and both stay on the page.)*
+
+**5. The business.** The promotion, at length, properly, with the costs
+itemised, because business is where she puts things. Off the ward, off the
+patients, off the people. The hug box.
+
+**6. She asks him to leave. HE SAYS NO.**
+
+**First refusal in three years.** Not defiance — **rung four.** He can see what
+he has just put her through, which is the top of Kakashi's ladder and the rung
+he has been told for two years not to skip to, and he has finally earned it.
+
+Objectless, like the gateway. *No. Not yet.* No argument in it.
+
+**7. The findings — and they must be SHORT.** Three sentences and then he
+stops, which is the shock: a man who cannot stop talking about a subject
+stopping. She will know it is not a performance because it is too brief to be
+one.
+
+- **The nightmares.** Reported clinically, with a date, the way he reports a
+  symptom that has changed. **And underneath it, the thing he says without
+  understanding why it lands: the nightmares were the last place he saw
+  them.** His mother, and Kohaku. That was the only remaining contact and it
+  has been displaced — so the line is simultaneously the largest thing anybody
+  has ever said to her *and a report of a bereavement he has not finished
+  having.*
+- **The looking.** *I have looked, and I'm sorry about that.* The ch44 refusal
+  breached — *I did not decide to do nothing, I decided not to look.* He
+  offers it as a fault, sincerely, because he thinks the transgression was
+  looking. It obviously isn't. She knows that; he doesn't.
+
+*(Wording is free. The meaning is not.)*
+
+**8. "Why me?"** — **hers.**
+
+And the symmetry to hold: **he answers a specification with no check running;
+she asks a question with no check running.** Both of them, in one room, in one
+evening, doing the thing neither has done in years.
+
+**She is stunned at having asked it.** It is a request, and she does not make
+requests, and it was out of her before she could stop it.
+
+**Last line of Act 4. Nothing after it.**
 
 ### Kiri
 **Plan:** the category error. His mother and Kohaku died for a property they
