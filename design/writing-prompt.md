@@ -395,3 +395,56 @@ than eleven years of self-reference ever did.
   date, and a start date is a new series with a wall behind it — the same
   shape as Kanzaki's break, and the wall is a job.
 - **Make it the last thing in Act 4.**
+
+---
+
+## ACT 5 — THE REGISTER WIDENS
+
+**Acts 1–4 were surviving and growing. He is past the adolescent stage and
+into the adult one**, and he is no longer confined to a hospital. The book
+changes what it is willing to be about.
+
+### What widens
+
+- **Bodies.** Drink, sex as a fact rather than a fade, exhaustion, injury with
+  medical consequences — which he is uniquely placed to narrate, having spent
+  four years being the person who deals with them afterwards.
+- **What people actually say when they are frightened.** Nobody in this book
+  has sworn in fifty chapters. That restraint is capital and Act 5 spends
+  some of it.
+- **Tsunade swears, and swears well.** Gambler, drunk, field soldier, two
+  wars. When the drink is doing the talking she is coarse and specific, and it
+  lands *because* of the fifty chapters behind it.
+
+### What does NOT change
+
+**The voice.** Plain, precise, unsentimental. **The subject matter widens; the
+prose does not coarsen** except where a *character* coarsens.
+
+**Sazare's register stays exactly what it is** — a man who reports. He does not
+become lyrical about a body any more than he became lyrical about a rose. The
+inventory, the bracket, the honest half and the flattering half. **That is what
+makes adult material land rather than sit there**, and the moment his voice
+softens to meet the subject the whole thing turns to mush.
+
+### And the power problem — flag it, do not solve it
+
+**Sage mode alone puts him above 95% of the shinobi force**, before crystal
+and before wood. Three consequences, all of them problems:
+
+1. **He stops being safe.** A hospital fabricator with a foreign name is
+   nobody; a sage who produces Shōton *and* Mokuton with the Hokage's ear is a
+   strategic asset, and strategic assets get managed — by Root, the council,
+   the daimyō, four other villages. **And there is already a price on him,
+   alive and undamaged.** The power is not the problem. **Being worth taking
+   is the problem**, and it scales with him.
+2. **The hug box stops working.** One name on the bottom of everything is an
+   adequate control on a fabricator and is visibly not one on a man who can put
+   a forest across a valley — and everybody will be able to see that,
+   including him, including her, including the fifteen who voted for the post.
+3. **The creed holds and will look like it doesn't.** *I am not going to get
+   stronger. Find out how it works.* He becomes dangerous **as a side effect of
+   having found out how it works**, which is the creed's outcome and not its
+   betrayal — and he would never have got there by chasing strength. But it
+   will look like a betrayal from outside, and for a stretch it will look like
+   one to him. **A scene, not an arc.**

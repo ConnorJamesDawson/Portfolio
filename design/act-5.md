@@ -1,3 +1,22 @@
+> ## ⚠ SUPERSEDED IN PREMISE — read this first
+>
+> **This skeleton predates the ch38–53 design work and its opening is wrong.**
+>
+> It is built on **Oto infiltration**, which was cut. Kabuto approaches *him*,
+> remotely, by cutout — the correspondence is live and exchange three is where
+> the ask arrives. He does not go anywhere.
+>
+> **What is current:**
+> - `threads.md` — every live thread with a plan and a close point
+> - `arc-shaping.md` §5b — the slug road, sage mode, the confrontation
+> - `timeline.md` — state and dates
+>
+> **Act 5 now opens on Jiraiya**, a few days after ch53, and the first thing in
+> it is the conversation below (§ CH54).
+>
+> The canon ground on Otogakure further down is still accurate and worth
+> keeping. The *beats* are not.
+
 # Act 5 — The Network
 
 **Skeleton.** Beats are indicative, not final. See `world-bible.md` for setting

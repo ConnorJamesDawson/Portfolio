@@ -471,6 +471,125 @@ shaped rather than an answer.
 
 ---
 
+## C1. CH54 — THE CONVERSATION
+
+**The single most load-bearing exchange these two will have until one of them
+asks the other something.** It follows directly from *why me*.
+
+### Her objections, in order — most defensible first, because she is frightened
+
+1. **Rank.** Hokage, subordinate, end of it.
+2. **The village.** It lands on her, not him, and fifteen people who dislike
+   him just voted for his post.
+3. **The age.** Thirty-five years. **She plays the henge card** — *do you want
+   to see what you are actually asking for.*
+   - **He says go ahead.** Plainly, as a request, meaning it.
+   - **She never does it.** The threat is armour and armour only works
+     untested, and the moment somebody calls it she finds out what the henge
+     is actually for. **It was never for other people.**
+   - Do not let him pass a test. He calls it; *she* is the one who can't.
+4. **And the one she does not say.**
+
+**He answers 1 and 2 well** — structural problems, and he is good at those.
+**He answers 3 badly**, because thirty-five years is not a design problem and
+treating it as one is exactly his failure mode. He should get it wrong in
+front of her.
+
+**She stops him: *you're doing the thing where you solve it.*** She is right,
+and the turn is that **he stops answering** — the third time he has stopped
+constructing (ch51 gateway, ch53 refusal, here), and the one that costs.
+
+### The drink — during, not instead
+
+She pours from about the third objection. **Drinking herself stupid instead of
+the conversation lets her escape it; drinking through it is the anaesthetic
+that permits the surgery.** By the last movement she is genuinely drunk, and
+the drunkenness is what gets the real reason out, and she would never have
+said it sober and both of them know it.
+
+**She swears, and swears well.** Gambler, drunk, two wars. When the drink is
+doing the talking she is coarse and specific, and it lands *because* the book
+has been restrained for fifty chapters.
+
+### The sequence, in order
+
+**a) No timeline.** *Ask me again in a year* is useless on a man who reads
+ahead. The real question is not when — it is **whether SHE can love again**,
+and that is hers and he cannot answer it.
+
+**b) *I'll support you either way, Hime.*** Third time. Objectless.
+
+**c) She tells him to fuck off.** Drunk. *There are only a few reasons men
+want me* — **and she enumerates**, specifically, clearly not for the first
+time.
+- **She has kept a ledger.** Forty years of compiling reasons, in order.
+- **Sazare recognises the *form* before the content.** He has four hundred
+  books of exactly that. He knows what a list like that is for and what it
+  costs to keep, and the recognition hits him harder than the content.
+- And the finish: *you cannot possibly love me.*
+
+**d) *I don't know what that word means romantically.*** Load-bearing, and
+true — nine pages on the etiquette of the approach and a fifteen-year-old on a
+staircase. **He cannot say the other sentence honestly**, and he has never
+once made a claim he could not support.
+
+**e) So he gives her the data instead — from memory.** He has no notebook:
+Shizune told him on the stair not to put anything on that desk and he left it
+in a drawer. **It is not a document. It is him.**
+- **The rebuttal is structural: not one item on his list is anything she
+  named.** He does not argue with her reasons; he produces a list that simply
+  does not contain them.
+- The stack going on the floor. *Say the end of that sentence out loud.* The
+  fourth hour. Eleven times she took the object off the table and asked for
+  the rest. Nobody would put those on a list — which is why it works.
+
+**f) *I don't know what I'd do without you.*** **The only sentence in the
+scene with no evidence attached**, and he knows it, and says it anyway.
+
+**g) She goes to the window** and looks at the horizon at nothing at all, and
+cries.
+
+**h) He hugs her from behind.** No forethought — **fourth instance of the
+signature** (the hug ch39, the hill ch47, *I choose you* ch53, this).
+- **He is bad at it.** Chapter five, attempted never until a shed in ch42.
+- **He falls back on the only physical vocabulary he owns, which is
+  clinical** — he ends up counting her breathing, because he has done it
+  eleven thousand times and it is steady and it is honest.
+- And it works. She feels him counting and does not mind.
+
+**i) She cries into his shoulder and falls asleep.**
+
+### After
+
+**The guard on the stair has gone home.** Mysteriously. Somebody made a
+decision to protect them and Sazare did not notice, which means **people are
+now managing this** — the security problem arriving quietly.
+
+**He carries her home over the rooftops** to keep her out of the street, in
+through a window.
+- **An ANBU sees, and what they see is legible and innocent**: a man carrying
+  a drunk Hokage home discreetly. **That is the cover the whole of Act 5 runs
+  on — nothing false is ever said because nothing false is happening**, and
+  the first observer is a professional who files it as nothing.
+- He half-senses them and never actually sees them.
+
+**He puts her in her bed and falls asleep looking at her face**, in a chair, in
+her house — which is a catastrophe and the most honest possible outcome, and
+means the next chapter opens with him waking somewhere he cannot explain being.
+
+**Last line, in the retrospective:** *and tomorrow is going to be just as bad.*
+
+### The next morning — Shizune
+
+She grabs him and spells out what he has done **to her**, not what he did
+wrong.
+
+**And she calls her Hime.** That is *his* word; nobody else uses it. Shizune
+using it means she has been listening for a year, has never once said it, and
+has chosen that morning to hand it back to him as a weapon.
+
+---
+
 ## C2. ACT 5 OPENS ON JIRAIYA — not Naruto
 
 **Naruto's homecoming stays off the page in ch53** — gate noise at most. The
