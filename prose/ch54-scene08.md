@@ -1,7 +1,7 @@
 # Chapter 54, Scene 8 — Over the Roofs
 
 *Act 5, part A. Konoha, the Hokage's house. Sazare Ruri, age eighteen.
-POV: Sazare. ~1680 words.*
+POV: Sazare. ~1870 words.*
 
 ---
 
@@ -112,9 +112,34 @@ photographs.
 No mess. He had expected mess.
 
 There was a glass of water on the floor by the bed with about an inch
-in it, which had been there long enough to have dust on the surface,
-and he looked at that for slightly longer than he meant to and then
-stopped looking at it.
+in it, which had been there long enough to have dust on the surface.
+
+He looked at that for longer than he meant to.
+
+*That's about three weeks. Four, in this air.*
+
+*The bed's made. The drawers have got nothing on top of them. There is
+one shelf and four things on it and no photographs, and I have been in
+about nine hundred rooms that people live in and none of them looked
+like this, and the tidiest man I ever met still had two of something on
+a windowsill.*
+
+*Nobody lives here.*
+
+*She keeps it. She comes to it. She has not slept in it for three
+weeks and she pays for it and she has not got rid of it, and there is
+a glass by the bed which means the last time she did sleep here she
+brought water up and did not drink it.*
+
+He stood in the dark holding her and understood, about four seconds too
+late to do anything with it, that he had carried her the length of the
+village to the one building in Konoha she had arranged not to be in.
+
+*And I'd do it again, because the reasoning holds and the tower is
+worse.*
+
+*I'd just like it on the record that I have chosen the correct place
+and it is the wrong one.*
 
 ---
 

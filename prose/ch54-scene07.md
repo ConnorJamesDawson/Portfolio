@@ -1,7 +1,7 @@
 # Chapter 54, Scene 7 — Counting
 
 *Act 5, part A. Konoha, the Hokage's office. Sazare Ruri, age eighteen.
-POV: Sazare. ~1560 words.*
+POV: Sazare. ~1740 words.*
 
 ---
 
@@ -227,6 +227,28 @@ and two files on it and it is four feet six and she is five feet five.*
 would be kind about it, and the guard changes at the fourth, and the
 clerk who opens the records floor has a key to this door and has had it
 since the eighth month.*
+
+*There's the room on the second floor.*
+
+He had that for about a second and a half and then took it off the
+table, and taking it off the table told him something he had not
+previously had in words.
+
+*She sleeps in this building. Four nights in five, at a guess, and I've
+never seen the room and I know it exists because the shirt on the
+fifteenth of the eighth month had no creases across the back of it at
+five past eleven at night and a shirt that has been in a chair since
+the fourth hour has creases across the back of it.*
+
+*So: forty feet from the records floor, thirty from the stair, and the
+first four people through that building in the morning all know exactly
+which door it is.*
+
+*Which is the whole problem. The tower is where she is findable. That's
+what a tower is for.*
+
+*There is precisely one building in this village that nobody has any
+business opening a door in, and it is the one she doesn't use.*
 
 *Somebody is going to come through that door and the thing they find is
 going to be a fact for the rest of her life and none of the versions

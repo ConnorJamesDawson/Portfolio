@@ -64,7 +64,29 @@ dated off it.
 | 52 | month 10, the 15th to the 31st. Seventeen days. Ame on the 24th; the book given 28/10, leaves for Shikkotsu 2/11 |
 | **53** | month 11, the 4th to the 11th. Eight days. Instrument finished 4/11; sent for review 8/11; the hill 11/11. **ACT 4 ENDS.** |
 | **54** | month 11, the 11th, evening into the 12th, ~01:00. One continuous night. The office, then her house. **ACT 5 OPENS.** Eight scenes, ~12,200 words. |
-| 46 | month 6 through 29/7. **Six weeks — build time, the one span the model says must be real.** First note 28th night (~8/7); the test 11/7; Tsunade over the wall 29/7 |
+
+
+### FIXED — where Tsunade actually lives
+
+**She sleeps at the tower**, four nights in five. Second floor. Ch48 sc1 is the
+tower, not her house: she is at the window at five past eleven at night with a
+border commission report, in her shirt with her hair down, and comes down the
+**outside stair** when a guard says his name up it. Every ch48 header says *the
+Hokage's tower*. **Sazare has never been inside her house before ch54**, and
+that stands.
+
+**The house is the one she has arranged not to be in.** Bare, made bed, nothing
+on the drawers, one shelf, no photographs, and a glass of water by the bed with
+three weeks of dust on it. She keeps it and pays for it and does not get rid of
+it, and the reason is not stated and should not be.
+
+**So the ch54 carry needs its reason and now has it** (sc7): the tower is where
+she is *findable* — Shizune at the fifth hour, the guard change at the fourth,
+the clerk with a key — and the house is the only building in the village where
+nobody will open a door on her. He picks the correct place and it is the wrong
+one, and he knows both.
+
+**Do not later write her going home in the evening.** She goes upstairs.| 46 | month 6 through 29/7. **Six weeks — build time, the one span the model says must be real.** First note 28th night (~8/7); the test 11/7; Tsunade over the wall 29/7 |
 | 42 | month 4 day 4 → month 5 day 6. **Five weeks, not a month-plus** — the new pacing floor. Landing mornings dated individually |
 
 Other fixed dates: Ashida 19/1 · Miyuki 4/2 · Kiyomi 23/11 · Tarou 6/1 ·
