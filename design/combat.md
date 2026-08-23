@@ -1,5 +1,29 @@
 # Sazare Ruri — combat capability
 
+> ## ⚠ STANDING CORRECTIONS — READ BEFORE WRITING ANY FIGHT OR MECHANIC
+>
+> **1. "Crystal dies at six days" is FALSE and has been since 20/12.**
+> It was never decay. **It is starvation**, and it only happens to a **closed**
+> article, which spends what it has holding itself together and runs out.
+> **An open article does not run out.** The blade has been carried open since
+> 18/12 with no measurable degradation at 400+ hours. And since 20/12,
+> **cannibalistic crystal grows** — the structure is its own intake, every
+> fragment is feedstock, and the ground is food.
+> *Do not write "his work dies at six days" again. It is a property of the close,
+> and he stopped having to accept it in December.*
+>
+> **2. Preparation is NOT his Achilles heel.** He makes any structure in a
+> split second, anywhere, without material. **The limiter is capacity, not
+> time and not ground.** Preparation is an *economy*: placed articles actuate
+> for about a fortieth, so a prepared position multiplies his effective
+> capacity roughly forty-fold. Denying him preparation makes him *expensive*.
+> It does not make him a genin. **The world is the canvas.**
+>
+> **3. Wood is not the slow layer.** He knows manipulating beats creating —
+> that is his whole method. **Existing vegetation is instant and free**, and
+> vegetation is nearly everywhere. A vine on an ankle costs him almost nothing.
+> *Creating* wood is what he cannot do; using what is already there is not.
+
 **Author-pinned, 17/12 story-time, immediately before the first fight of his
 life.** Everything before this was hypothetical. This file is the reference.
 
@@ -163,3 +187,117 @@ seeds, and *a thing that reproduces cannot be recalled.*
 - Note moves, or the hand does anything at all → close, and find her.
 - Governor, eleven clauses, including *if somebody takes it off my body*.
 - The creed: *I am not going to get stronger. Find out how it works.*
+
+
+## 8. THE STYLE — built by Jiraiya, from the second week of January
+
+**One principle at four ranges: take options away.** A wall removes a direction.
+A spike removes a footing. **A blade at arm's length removes the space a person
+needs in order to do anything at all.** That is what makes it a style and not a
+toolkit.
+
+| Range | Tool | Cost | Function |
+|---|---|---|---|
+| **40 ft +** | nothing | — | the hole. Don't be there, or have seeded it |
+| **20–40 ft** | crystal at price | expensive | shape the field, close directions |
+| **5–20 ft** | placed articles, actuation | ~1/40 | **the working band** |
+| **under 5 ft** | the sword | six seconds | **reset the range** |
+
+### THE ANSWER TO QUESTION SIX
+
+**The sword is not an offensive weapon. It is a range-reset.** It exists to put
+somebody back into the band where he works.
+
+Which turns Shikkotsu's verdict — *six seconds, and then a man standing in the
+open holding a handle* — from a weakness into **the specification**. Six seconds
+is exactly how long it takes to make somebody leave.
+
+**Jiraiya hands him this**, because he is the only one who looks at the whole
+shape rather than the object. **That is what goes on the blank panel.**
+
+### The other layers
+
+- **Seals solve one-shape-at-a-time.** Urushibara, ch28: *a closed seal does not
+  need the writer present — it needs the writer, once, at full strength, to load
+  it, and then it runs without him.* **A seal on a placed article is a second
+  operation running without him.** On the page since he was sixteen.
+- **Wood: manipulate, never create.** Instant, free, and available wherever there
+  is vegetation.
+- **Taijutsu is a minimum, not an art.** Two feet and under. Do not get flipped.
+
+### Real weaknesses, after all of it
+
+Volume against scale. One shape at a time until seals. **Cannot predict a
+fighter** — the real one, and what the year is for. Nothing past forty feet. And
+the *don't-step-on-his-rubble* counter is now weak, **because he does not need
+his own debris: the ground is the feedstock.**
+
+---
+
+## 9. SEALS — corrected again: HE CAN COMPOSE
+
+Deriving *cannot compose* from *cannot read* was wrong. Reading is one route to
+understanding; **he gets there by structure**, and once you hold the parts and
+their functions, composition is available.
+
+**And he already composes, constantly.** Eleven years of crystal method from
+nothing with no notation and no teacher. The chain along four creatures. **The
+trigger reasoning on the granite chip was his own** — Urushibara supplied the
+element, Sazare supplied the mechanism, off the fact that a seed already knows
+its maker.
+
+**He composes the way he does everything: entire, by hand, from first principles,
+with nothing to check against.** Slowly, and never with a shortcut.
+
+**The reason he never composed in notation is that Urushibara was alive and it
+was faster to ask. That constraint died on 4/2.**
+
+**So he is a seal *engineer*** — reads made things as objects, finds where the
+maker got tired, builds from the parts without anybody's grammar. Which is what
+makes the barrier-array fault matter.
+
+*(Still shut: hand seals. A performance, from memory, at speed, gone in a second,
+with nothing to check against. That has never been the same problem as written
+fūinjutsu and must not be conflated with it again.)*
+
+---
+
+## 10. THE BATTERY — sage mode delivered
+
+**Every component of this is already on the page and in four different books.**
+
+1. **Crystal draws from the air.** Inert, drawing, not growing — established.
+2. **An open article does not run out** and draws continuously — 400+ hours
+   proven on the blade.
+3. **He has *store*** — Urushibara's thirteenth element, three strokes inside a
+   broken square, and he built a **keyed store on granite at sixteen that
+   fired**.
+4. **A loaded seal runs without the writer.** Urushibara's own lesson.
+5. **He has read a decades-long capacity store off a density gradient** and got
+   it right in four minutes — the Byakugō, 12/11.
+
+**Therefore: an open article, with a store element on it, drawing nature energy
+continuously, with a keyed trigger that releases it to him.**
+
+**A crystal battery. Sage mode on demand.**
+
+And it solves the thing declared unsolvable on the 20th — *he cannot enter the
+mode and nobody can teach him.* **He does not need to enter it. He needs a
+battery.**
+
+### The costs, which keep it honest
+
+- **It is a fast fill, not a bigger tank.** His *hold* is still the ceiling —
+  six minutes now, fifteen at best. The battery removes the twenty seconds of
+  stillness; it does not raise the limit.
+- **Charge time is measured in days.** An open article draws at the rate it
+  draws.
+- **He is in the circuit when it discharges**, which is precisely what took his
+  hand on 15/8. **It needs the hilt principle** — a graded conductor between him
+  and the store — and the hilt took two hundred and three hours.
+- **He is carrying an open article of enormous value.** A crystal that stores
+  nature energy is worth more than anything in the village, Orochimaru would
+  spend a great deal for one, and it is exactly the class of object the paper's
+  security problem was about.
+- **He still has to hold once he is there.**
+
