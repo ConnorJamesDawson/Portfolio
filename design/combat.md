@@ -42,7 +42,10 @@ of ability — he has the shape side solved.
 
 ## 3. Hard limits
 
-- No ninjutsu, no genjutsu, no fūinjutsu — the medium is shut.
+- **No ninjutsu, no genjutsu.** Hand seals are shut, completely and permanently —
+  a hand seal is a *performance*: a sequence, from memory, at speed, existing for
+  about a second with nothing to check against.
+- **Fūinjutsu is NOT shut — see the correction below.**
 - No taijutsu training, no weapons training. Never went to an Academy.
 - **One shape at a time, held entire, and there is one of him.** A hinge is two
   objects and a relationship; he has no operation for a relationship.
@@ -50,6 +53,48 @@ of ability — he has the shape side solved.
 - **He has never been hit on purpose.**
 - **He has never chosen what to make.** Every article of his life arrived with
   somebody standing at the front of it holding the specification.
+
+## 3b. SEALS — corrected, and this supersedes any earlier looser statement
+
+**He was properly taught.** Urushibara Gen, retired sealing instructor, forty
+years in the trade, respiratory ward, from the fifth month of his sixteenth year
+until his death on **4/2** — **two years**, correcting his notation on every
+element, every session, without exception. (ch27 sc5, ch28 sc3/sc6, ch29, ch30,
+ch40 sc1.)
+
+**What he has:**
+- **Thirteen notation elements**, memorised, worked onto scrap for a fortnight,
+  layable from memory without checking. Twelve on the first sheet; the
+  thirteenth — ***store***, three strokes inside a broken square — given with a
+  pencil out of his own hand.
+- **He can copy and he can construct.** He built a **keyed store on a granite
+  chip at sixteen**, with Urushibara's notation and his own trigger reasoning
+  (foreign-chakra recognition, borrowed off the fact that a seed already knows
+  its maker), and it fired. There is a device with Urushibara's seal cut into it
+  in a Corps file with Fujita's signature witnessing.
+
+**What he cannot do:**
+- **Read a composed array.** *I know the alphabet and I cannot read the
+  sentences.* Four elements together stop being four objects and become one
+  instruction with a meaning in it, and that step does not happen in him. He said
+  *I can't* to Urushibara on the first afternoon and Urushibara was **pleased** —
+  *people who think they can are exhausting* — and asked what he saw instead.
+- **Compose.** Ever. **Every composed array in the Corps file is Urushibara's
+  work and Sazare says so at the time and it is in the minute.**
+- **Hand seals**, which are a categorically different problem and must not be
+  conflated with written fūinjutsu. Written = an object on a surface he can stare
+  at for eleven minutes and reproduce over a fortnight without ever reading it.
+  Hand = a performance, from memory, at speed, gone in a second.
+
+**Therefore he is not seal-illiterate.** He is the best-taught non-reader in the
+village, his ceiling is composition, and the man who supplied his compositions is
+dead.
+
+**And it is why he reads seals as objects** — stroke width, join, order of
+laying, closing act, density gradient — which is the ch27 method (*three repeated
+forms sharing a boundary, unequal depth, the visible curves not aligned with the
+channels beneath*) and which is what makes him a potential **breaker**: making is
+composition, breaking is finding where the man who made it got tired.
 
 ## 4. What stops him in a fight
 

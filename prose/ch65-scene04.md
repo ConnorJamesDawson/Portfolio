@@ -1,7 +1,7 @@
 # Chapter 65, Scene 4 — Nothing Wrong With You
 
 *Act 5, part A. Konoha, behind the east bathhouse. Sazare Ruri, age
-eighteen. POV: Sazare. ~2160 words.*
+eighteen. POV: Sazare. ~2960 words.*
 
 ---
 
@@ -37,27 +37,137 @@ them and said we would come back to.*
 
 "Now," said Jiraiya. "Number one. What do you see?"
 
-"Nothing."
+"Elements. I can name four of them and I have got two more that I think
+I know and would not swear to."
 
-"Kid—"
+Jiraiya's head came up.
 
-"That is the accurate answer and it is the answer I have given four
-people in eleven years and every one of them has heard it as modesty,"
-said Sazare. "I do not see nothing in the sense of not looking hard
-enough. I look at it and the positions go in and *nothing comes back*.
+"Say the four."
 
-"There is a thing that happens in everybody else when they look at that
-and it does not happen in me. It has never happened. I was taught twice —
-once at the ward at fifteen and once by a chūnin instructor at sixteen
-who was extremely patient and gave it four afternoons and was, at the end
-of them, more upset about it than I was."
+"Containment on the outer, inverted, so it is defining an exterior
+boundary and not holding anything. Clockwise redirect at about the
+two-o'clock position, by the writer's orientation and not mine. The
+third one alters the tense of the instruction beside it and I have got
+no better word than tense and neither had he. And *store* at the
+bottom, three strokes inside a broken square."
 
-"That's what you can't do," said Jiraiya. "I did not ask you what you
-can't do.
+"Where did you get *store*?"
 
-"Describe it."
+"Urushibara," said Sazare.
 
 ---
+
+Jiraiya put the stone down on the corner of the paper.
+
+"Urushibara Gen."
+
+"Urushibara Gen. Retired sealing instructor, respiratory ward, second
+floor, and he taught me from the fifth month of the year I was sixteen
+until he could not any more.
+
+"He gave me twelve elements on a sheet on the first afternoon and told me
+he was not teaching me and that he was preventing me wasting his
+remaining lung capacity, and I worked those twelve onto scrap paper for a
+fortnight until I could lay any of them from memory without checking.
+
+"He gave me the thirteenth in the ward with a pencil out of my own hand
+about four seconds after a thing happened to his tubing that neither of
+us mentioned.
+
+"I have got all thirteen. I can lay them accurately. I built a keyed
+store on a granite chip at sixteen in a room over a persimmon tree with
+his notation and my own trigger reasoning, and it fired, and it worked,
+and there is a device with his seal cut into it in a Corps file with
+Fujita's signature witnessing.
+
+"So I am not going to sit on a wall and tell you I do not know what
+seals are."
+
+"Then why did you say you couldn't read it?"
+
+"Because I can't," said Sazare.
+
+---
+
+"Say the difference," said Jiraiya, "because I have got about four
+candidates and I would rather have yours."
+
+"I know the alphabet and I cannot read the sentences."
+
+He put his hand flat on the edge of the paper.
+
+"That is the whole of it and it took me about two years to find the
+words. I have got thirteen glyphs and every one of them has got a name
+and a direction and a stated function, and I hold all thirteen the way I
+hold a grading table — as objects, with properties, in a list.
+
+"Put four of them together into a sentence and it stops.
+
+"There is a thing that happens in everybody else at that point, where
+the four become one instruction and the instruction has a *meaning* in
+it, and it does not happen in me, and it has never happened, and
+Urushibara established that on the first afternoon by putting a cursed
+mark in front of me and telling me to read it and being pleased when I
+said I could not.
+
+"He said people who think they can are exhausting.
+
+"And then he asked me what I saw instead, and I told him, and he told
+the intelligence specialist I was not stupid, which is the highest thing
+that man ever said to anybody.
+
+"So: I can copy. I can construct — slowly, at a table, over a fortnight,
+off somebody else's composition, and I did it at sixteen and it works and
+it is in a file.
+
+"I cannot compose. Ever. And every composed array in that Corps file is
+his work and not mine and I said so at the time and it is in the minute."
+
+"And the hand seals," said Jiraiya.
+
+"The hand seals are a different thing entirely and I want that separated
+because I have been sloppy about it in this conversation for four
+minutes and so has everybody else for three years."
+
+---
+
+"Go on."
+
+"A written seal is an object," said Sazare. "It sits on a surface. You
+can look at it for eleven minutes. You can lay it over a fortnight and
+check every stroke against a copy before you commit it, and I have done
+exactly that, and it does not care that I cannot read it because I am not
+required to read it, I am required to *reproduce* it.
+
+"A hand seal is a performance.
+
+"It is a sequence, done from memory, at speed, in the right order, and
+the whole of it exists for about a second and then it is gone and there
+is nothing to check against. You cannot copy a thing that is not there
+any more.
+
+"And it is a compression. Four positions call up a shape that somebody
+worked out once, and calling it up requires the four positions to *mean*
+something to the person making them, in the order, at the speed.
+
+"That is the sentence problem, done fast, with nothing on the table.
+
+"So the written kind is a wall I can go round with a fortnight and a
+pencil, and the hand kind is shut, completely, permanently, and it is the
+one every technique in history is written in."
+
+Jiraiya sat with that for a moment.
+
+"That is a considerably better statement of it than anything in the
+literature," he said.
+
+"It is Urushibara's. Most of it. He said a seal is a relationship
+between instruction, medium, chakra and condition, and I have been
+standing on that sentence for two and a half years."
+
+---
+
+"Right," said Jiraiya. "Then describe it."
 
 "...Describe it how?"
 
@@ -205,10 +315,12 @@ it."
 
 "Yes," said Jiraiya.
 
-"So it is not a way in. It is not that I can read them after all if I
-squint. It does not get me one single technique, ever, and it never will."
+"So it is not a way in. It does not get me one ninjutsu, ever, and it
+never will, and it does not get me a composed array either — I would
+still have to be handed the composition by somebody who can read, and
+the only man who ever did that for me is dead."
 
-"No."
+"No," said Jiraiya. "It isn't a way in."
 
 "Then what is it?"
 
