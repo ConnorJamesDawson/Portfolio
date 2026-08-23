@@ -23,6 +23,15 @@
 > that is his whole method. **Existing vegetation is instant and free**, and
 > vegetation is nearly everywhere. A vine on an ankle costs him almost nothing.
 > *Creating* wood is what he cannot do; using what is already there is not.
+>
+> **4. He HAS entered sage mode. It happened on 20/12.** Roughly ninety
+> seconds, sustained, in front of witnesses; Sakura logged the eyes, Jiraiya
+> named it. *Do not write "he cannot enter the mode."* The true statement is
+> narrower and more useful: **he cannot reproduce it on purpose yet** — he has
+> no procedure, no trigger he can name, and no account of the conditions.
+> And **"nobody can teach him" is stale too**: Katsuyu spent all three of
+> Shikkotsu's questions to Myōboku on how to train a sage (ch65 sc5). The
+> teaching is coming. What he lacks is a *method*, not a possibility.
 
 **Author-pinned, 17/12 story-time, immediately before the first fight of his
 life.** Everything before this was hypothetical. This file is the reference.
@@ -74,9 +83,12 @@ of ability — he has the shape side solved.
 - **One shape at a time, held entire, and there is one of him.** A hinge is two
   objects and a relationship; he has no operation for a relationship.
 - **He cannot bluff.** No face, no feint, no deception.
-- **He has never been hit on purpose.**
-- **He has never chosen what to make.** Every article of his life arrived with
-  somebody standing at the front of it holding the specification.
+- ~~**He has never been hit on purpose.**~~ **Falsified 20/12.** He has now
+  been hit, repeatedly, by somebody trying, and did not stop.
+- ~~**He has never chosen what to make.**~~ **Falsified 20/12.** The
+  cannibalistic crystal is the first article of his life that arrived with
+  nobody standing at the front of it holding a specification. He wrote the
+  specification. *That* is the line, not the jutsu.
 
 ## 3b. SEALS — corrected, and this supersedes any earlier looser statement
 
@@ -103,8 +115,12 @@ ch40 sc1.)
   instruction with a meaning in it, and that step does not happen in him. He said
   *I can't* to Urushibara on the first afternoon and Urushibara was **pleased** —
   *people who think they can are exhausting* — and asked what he saw instead.
-- **Compose.** Ever. **Every composed array in the Corps file is Urushibara's
-  work and Sazare says so at the time and it is in the minute.**
+- ~~**Compose.**~~ **WRONG — struck, see §9.** What is true and narrow: every
+  composed array in the Corps file is Urushibara's, and Sazare says so at the
+  time and it is in the minute. That is a record of who *supplied* the
+  compositions while the supplier was alive. It is not a statement about
+  capacity, and it stopped being a constraint at all on 4/2 when Urushibara
+  died and the supply ended.
 - **Hand seals**, which are a categorically different problem and must not be
   conflated with written fūinjutsu. Written = an object on a surface he can stare
   at for eleven minutes and reproduce over a fortnight without ever reading it.
@@ -122,28 +138,48 @@ composition, breaking is finding where the man who made it got tired.
 
 ## 4. What stops him in a fight
 
-Five, and all five are already true on the page:
+Written 17/12. **Three of the five did not survive the 20th**, and that is the
+point of the chapter — a list of what stops him is a list with a date on it.
 
-1. **He cannot predict a fighter.** He can put a trap anywhere; he cannot tell
-   you where the foot will be. He has never watched a person move with intent.
-2. **Shadow clones.** Twenty feet against forty of them is nothing, and volume
-   costs him while it costs Naruto nothing.
-3. **He will not damage a person**, and he knows the hesitation is fatal while it
-   is happening.
-4. **The first real hit stops everything.**
-5. **The sphere is broken at about six** — his ammunition is down, right now,
-   because a man said a word to him on a roof.
+1. **He cannot predict a fighter.** ~~struck~~ **Downgraded, not struck.** He
+   read one fighter for six minutes and got the last thirty seconds right. He
+   has a sample of one, against an opponent with no deception in him at all.
+   Against a liar it is still open.
+2. **Shadow clones.** **Still true, still the hard one.** Twenty feet against
+   forty of them is nothing, and volume costs him while it costs Naruto
+   nothing. The cannibalistic crystal changes the *economics* — the ground is
+   food — but not the arithmetic of forty bodies.
+3. ~~**He will not damage a person.**~~ **Struck 20/12.** He put a growing
+   article through a boy's shin and let it feed. He then had to be the one to
+   close it. Whatever this costs him, it is no longer a thing that stops him
+   mid-fight.
+4. ~~**The first real hit stops everything.**~~ **Struck 20/12.**
+5. **The sphere is broken at about six.** **Still true.** Capacity is capacity
+   and no breakthrough this month raised it.
+
+**What replaces the struck three, going forward:** he cannot repeat sage mode
+on purpose (§10); he cannot hold longer than six minutes (§1); and he has never
+fought somebody who was *lying to him*. Naruto was the friendliest possible
+opponent. Every future one is worse.
 
 **Therefore the winning move is the moment a fighter stops being unpredictable,
 which is the moment he commits** — a Rasengan charge is a straight line, both
 feet, no options. That is a thing a man who has never fought can still read,
 because it is the same as an article under load.
 
-## 5. SLUG SAGE MODE — first appearance
+## 5. SLUG SAGE MODE — entered 20/12
 
-**He does not know it exists.** Jiraiya told him on 16/11 that he is *a sage*;
-**nobody has ever mentioned a mode** — a state you enter, as distinct from a
-thing you carry. So there is nothing for him to attempt.
+> **Status after 20/12: entered once, cannot repeat on demand.** Written below
+> as it stood *going in*, because the conditions are the record of how it
+> happened. What changed on the day: it is no longer a thing nobody has named.
+> He has been in it, Sakura logged it from outside, Jiraiya called it what it
+> is. He simply cannot get back there on purpose — and getting back there on
+> purpose is the whole of §10 and the whole of Jiraiya's January.
+
+**Going in, he did not know it existed.** Jiraiya told him on 16/11 that he is
+*a sage*; **nobody had ever mentioned a mode** — a state you enter, as distinct
+from a thing you carry. So there was nothing for him to attempt, and he did not
+attempt it. It arrived.
 
 **Trigger: holding.** Not being knocked into it. The fight drives him into a
 static defensive position and there he does the only thing he has ever been
@@ -281,9 +317,17 @@ continuously, with a keyed trigger that releases it to him.**
 
 **A crystal battery. Sage mode on demand.**
 
-And it solves the thing declared unsolvable on the 20th — *he cannot enter the
-mode and nobody can teach him.* **He does not need to enter it. He needs a
-battery.**
+**What it actually solves.** Not *entering* — he has done that, on the 20th,
+for about ninety seconds. What he cannot do is **enter it on purpose, at a
+time of his choosing, in under twenty seconds of stillness.** That is the gap,
+and it is a real one: a mode you can only fall into is not a technique, it is
+weather.
+
+The battery closes it from the equipment side. Myōboku closes it from the
+training side. **They are not competing answers and he should end up with
+both** — the training makes the gather reliable, the battery makes it
+*instant*, and instant is the only version of it that survives a fight where
+somebody is actively preventing him from standing still.
 
 ### The costs, which keep it honest
 
