@@ -1,7 +1,7 @@
 # Chapter 66, Scene 2 — Brown
 
 *Act 5, part A. Konoha, the quartermaster's yard. Sazare Ruri, age
-eighteen. POV: Sazare. ~2350 words.*
+eighteen. POV: Sazare. ~1460 words.*
 
 ---
 

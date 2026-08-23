@@ -2081,6 +2081,148 @@ demonstrated and it was **not even a decision — it was a side effect.**
 **Open into ch66:** the day out; the attachment decision in the first week; and
 **four mornings a week from the second.**
 
+## C15. CH66 — PAID IN FULL — **WRITTEN**, eight scenes, ~14,000 words
+
+2/1 – 9/1. Fixed by the writing:
+
+- **NARUTO IN THE YARD (2/1).** Second uninvited entry — *the category now has
+  a population*. Bone knitted day ten; crutches; the frame signed (Sakura, two
+  ward names, a circle that is probably Konohamaru). **The inside of the forty
+  seconds, given freely:** *cold, then it was drinking — not the leg, ME —
+  like it found the middle of me and put a straw in… it felt like being
+  useful. Like the thing was really, really glad I was there.* Filed:
+  **subject experienced intake as directional and personal; article read to
+  its host as GLAD.** Consequence he writes for Jiraiya's file: an informed
+  opponent will not need to look at the floor — **he will feel the drinking
+  begin. The stealth was never stealth; it was strangeness, and strangeness
+  is a coin you spend once.** Rematch set for ~six weeks (*you're THERE now —
+  that's the guy I want; fighting people who aren't there is like
+  arm-wrestling a coat*). **First reciprocal invitation of his life** —
+  Naruto's place, when the frame is off; notebook demanded, "write something
+  nice" / *I will write something true.*
+- **THE ATTACHMENT IS TENZŌ (decided 4/1, effective Monday 6/1).** Her remit,
+  three lines, her own hand: **the attachment is not able to prevent; it is
+  able to refuse** — refusal immediate, appealable to the Hokage alone, **no
+  penalty for being wrong** (the clause that makes it a chain and not a
+  colleague). Minuted reason: *uniquely relevant operational experience*; the
+  real one: **the only other last holder of a thing built by breaking
+  children, with eighteen years' practice being a person anyway.** The
+  unspoken message: the posting sheet is her reply to the fourth pile — she
+  attaches **the one shinobi that man's old shop grew, owned, numbered, and
+  lost**, and he can read it off a board like an honest man. **Kakashi built
+  the door properly** (full exit, eastern posting, never-asked file) **and
+  Tenzō left it shut**: *the boy asked me a question half a year's worth of
+  quiet ago, and this is the seat with the view of the answer* (ch47 — where
+  does the wood come from).
+- **THE ORDER MEETING (6/1, six sharp, real tea).** Sazare reads the document
+  the way he reads everything (the hand, the pressure, where the pen
+  thought); **approves**; minutes that he asked for the chain on 24/12 — *the
+  file shows the collar was requested before it was fitted; that ordering
+  matters to whoever reads this in thirty years.* **First objection — the
+  lamp hung on Tenzō** — answered by Tenzō himself and **withdrawn, minuted
+  as answered, not overruled**. The disliked thing, precisely as she
+  predicted in class though not in instance: **clause four, presence at all
+  live working** — *nobody has stood at my bench since Hot Water… I will
+  comply. I do not like it. Dated the first day, so when I stop minding —
+  estimate: eleven weeks — nobody, including me, can say I was managed into
+  it.* ("We'll diary it.") **Eight feet established.** The button still on
+  the jacket: *"You kept the button." / "You kept the question."*
+- **TENZŌ'S FIRST PATTERN.** The professional at eight feet notices the diary
+  block — senjutsu, second floor, at hours no training block has ever
+  occupied — and files it: **noted, insufficient data, not mine to
+  interpret, kept.** The cover now has a trained observer standing inside
+  its blast radius, on purpose, by her own order. Slow fuse; do not pay it
+  early.
+- **FRIDAY 3/1 — THREE CLEAN NEGATIVES.** Three configurations (hold alone;
+  hold observed with the eyes called; hold in contact with the open blade),
+  all brown at every mark. Findings: *the state does not attend the
+  procedure; on the twentieth it attended the situation* — candidate
+  differences (opponent, fear, his chakra environment, exhaustion, the
+  ditch, stakes) are unreproducible on Fridays, half forbidden outright.
+  Contact with the blade gives **traffic, not power** — the river going
+  past a man on the bank. **The answering is scheduled**: Katsuyu has
+  negotiated Myōboku's convenience to land Fukasaku's first answer **in the
+  week training begins**, so the two teachings *disagree in daylight, where
+  a disagreement is called a syllabus.*
+- **THE BANKED QUESTION (the battery fuse).** The blade: sixteen days open,
+  month sheet filed 1/1, weighs what it weighed, and the fourth reading says
+  order has **improved** — *upkeep does not improve a thing; something in
+  there is being paid more than the rent costs, and I have not found where
+  it banks.* Written and ruled closed until reopened: **Q — where does an
+  open article keep what it draws?** Katsuyu ordered it capped before the
+  holiday (*a question written before bed is a fuse, and you burn to the
+  end regardless of what else was scheduled*). Reopens post-13/1, with
+  Jiraiya in the room. **This is the battery's first thread on the page.**
+- **KATSUYU'S COMMISSION.** She has never seen a market in four hundred
+  years: she wants prices — *what things cost when nobody needs them.* The
+  commission is the sanctioned channel for his compulsion on the day out
+  (memory only, notebook never opened). He owes her the market report.
+- **SHIZUNE'S TRUE SENTENCES (7/1).** The diary block built with no false
+  line: the twelve-week field review genuinely due (window closes 19/1);
+  **nine stones went outside the walls in autumn, four at Tarugi's bath
+  house**; pass road iced (road report requisitioned), so the lake ferry;
+  overnight, licensed premises, Corps rate. Escort briefed in true
+  sentences; itinerary known to *you, me, and the innkeeper's ledger*.
+  **Tenzō's stern-bench note delivered as pure tradecraft** (sun, no wind,
+  no sightline from the shore road — *give her a reason; warm is a reason
+  that works*). **The sake wager: split** — she gets the north-cellar sake,
+  Tsunade gets to be right, both drink it on the ninth. And the sentence
+  she spent after three years: *on the eighth you are not the principal…
+  if you come back early I will resign.* / **"Minute that."**
+- **THE DAY (8/1) — chapter-seven shaped, unengineered.** The law built on
+  the ferry from two confessions (his eleven caulking seams, her read of
+  the ferryman's capsular shoulder): **seeing is free; nothing gets kept;
+  through and out.** It holds all day. The hat: 900 → the materials audit
+  said out loud mid-haggle → **340** *"for the pleasure of the speech"* +
+  a job offer for cherry season; **"Its job is that I like it. Some things
+  get to have that job. You'll adjust."** THE WIN: five-ryō cups, first go,
+  clean; **her face out for four counted seconds over a paper pinwheel**;
+  the blue one chosen; filed under *seen, kept, not asked* (with the two
+  bells and the gamble kanji). The audit real and discharged honestly:
+  four stones performing, stone three repositioned two feet north (steam
+  pocket — *the stone is right, the room moved*), her ledger remark: *the
+  village should be sending stones to more towns like this one.*
+  **Kurihara S. on all four certificates** — read four times, put through
+  and out; the debt turned over in its sleep, unspent.
+- **THE SLAB — the scene of the chapter.** House charm, sixty years, cracked
+  corner to corner through mark and prayer, held by paint. His hand out
+  before any decision; withdrawn (*nothing here is mine to mend*); and she
+  has been in the doorway the whole time, holding the lamp. **"How long
+  would it take you?" / "Four minutes." / "We'll wait."** She sets the lamp
+  to raking light herself. *I didn't bring you here to stop being you for a
+  day. I brought you where nothing NEEDS you… that one you don't put
+  through and out. That one you keep.* The bridge grown through the dark of
+  the stone, invisible under sixty years of paint; **"Now he's on
+  holiday."** Her private finding (sc8): with every reason stripped off,
+  **the work is the same — the care was never for the dockets.**
+- **THE IOU IS COMPLETED (not destroyed).** Nineteen days in the coat, worn
+  soft at one fold *like the corner of a chapter somebody keeps arriving
+  at*. He asks for it marked — un-counting it is the thing she built the
+  witness to prevent. She writes across the four lines: **PAID IN FULL —
+  received, one holiday. The seller confirms she was overpaid.** Date; her
+  name under her own name, the second smaller. *Both names on it are mine
+  now. That's how you kill a paper properly — you complete it. Keep the
+  corpse.* He keeps the corpse.
+- **THE NIGHT, AND HERS.** Snow, first of the year. The shirt grip, both
+  hands, full — she wakes, considers releasing it, declines (*my hands
+  volunteered before the rest of me finished the paperwork; seniority
+  counts*). **The curse ledger, said once, alone:** the wins that billed
+  Nawaki and Dan; the necklace twice returned, given to Naruto *as a
+  confession of faith in the curse*; and tonight's clean five-ryō win —
+  four seconds given to it, then refused: *the curse can have the pinwheel…
+  the stake changed. Fine. Noted. I am not going to stand at that window.*
+  She catches the window vector by the wrist and lies back down. **She
+  keeps the pinwheel** (checked twice). His one entry, composed in his head
+  because the rule held to the end: ***8/1. Nothing happened. It took all
+  day.***
+
+**Open into ch67:** training from Monday 13/1, four mornings; **Fukasaku's
+first answer lands the same week**; the withheld thumb (wood) to be named;
+the creed revision owed on the page (Jiraiya, a field, a date — ledger #12);
+the banked battery question reopens; Tenzō at eight feet with a kept pattern;
+the sake drunk on the ninth; the pinwheel loaded; Naruto's rematch ~mid-month
+2; Saeko's certificates seen and the debt still standing.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to

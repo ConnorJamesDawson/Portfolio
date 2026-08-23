@@ -1,7 +1,7 @@
 # Chapter 66, Scene 1 — Seven Versions
 
 *Act 5, part A. Konoha, the quartermaster's yard. Sazare Ruri, age
-eighteen. POV: Sazare. ~2400 words.*
+eighteen. POV: Sazare. ~1820 words.*
 
 ---
 

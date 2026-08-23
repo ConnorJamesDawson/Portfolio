@@ -1,7 +1,7 @@
 # Chapter 66, Scene 3 — One Name Long
 
 *Act 5, part A. Konoha, the Hokage's tower. Tsunade, age fifty-three.
-POV: Tsunade. ~2350 words.*
+POV: Tsunade. ~1690 words.*
 
 ---
 

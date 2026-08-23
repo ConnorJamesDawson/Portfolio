@@ -1,7 +1,7 @@
 # Chapter 66, Scene 4 — The Button
 
 *Act 5, part A. Konoha, the Hokage's tower and the quartermaster's
-yard. Tenzō, age twenty-seven. POV: Tenzō. ~2600 words.*
+yard. Tenzō, age twenty-seven. POV: Tenzō. ~1940 words.*
 
 ---
 
