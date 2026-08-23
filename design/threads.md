@@ -1260,6 +1260,108 @@ minute, and question four answered out loud.
 
 ---
 
+## C8. CH60 — TWO MOUNTAINS — **WRITTEN**, nine scenes, ~16,000 words
+
+28/11 – 2/12. Fixed by the writing:
+
+- **She went and got him**, half past one, sober, deliberate, and will not
+  explain it. **Exact mirror of the grip**: he now has an hour of a night he
+  cannot produce, she keeps it, and asking is the one move that would spoil it.
+  He reconstructs it to about eighty per cent off a folded coat, his own boots,
+  and the felt roll being on the wrong side of the bed, and says nothing.
+- **She meets her own four conditions.** Sober, slept, nothing on the table —
+  and she breaks the fourth herself, with a light slap, about a second before
+  she says it, so that it is broken at her hand and not his. **She delivered
+  against a specification stated six days in advance.** *Love you too, Ruri.*
+  (The "too" answers the 21st.) He decides not to write it down — first thing in
+  eighteen years — because **the entry would be worse than the thing**.
+- **The bed-state report**: eleven respirations, no catch, no surfacing, best
+  figures he has ever taken on her, delivered in ward voice. Nobody has ever
+  told her she slept.
+- **She looks at him asleep and he is eighteen**, which is the first time the
+  age has landed on her as an object rather than an argument. She has the whole
+  of it and does not flinch, and does not move off the decision.
+- **THE BLADE IS CARRIED OPEN.** Inference, not result: if the close is the
+  mechanism, a route never closed does not run out. Forty-two hours, no
+  measurable degradation, against nine hundred articles all measurably down by
+  hour thirty. Three costs: **(1)** he does not know nineteen inches of hilt is
+  enough for six months and there is no gauge; **(2)** it sings, below most
+  people's notice, but **Handa would hear it**; **(3)** the hold figure stops
+  being an exercise score and becomes a working constraint.
+  **THE HILT IS THE ISOLATION** — two hundred and three hours of graded
+  conductor built by a man who thought he was building a tap. Shikkotsu's answer
+  three was righter than they knew.
+  Her rules: measure twice daily, sheet on the first of the month; note moves or
+  hand does *anything* → close and find her; **never a second blade while one is
+  out**.
+  **And the misdirection**: he cannot take the light off his face, so he puts
+  another one next to it. Most cynical thing he has ever said, worked out in four
+  minutes, and he sat on a floor afterwards.
+- **THE NAME.** Offered as *Hime*, because a named object gives him an innocent
+  referent for the word he says four times a week. Refused, minuted, dated —
+  and she says so precisely because she knows what happens to a joke like that
+  once Jiraiya is in the building. **Unresolved.**
+- **Fukasaku and Shima came on foot**, not summoned: you cannot summon a thing
+  into a room where another mountain is standing. Katsuyu arrived early on
+  purpose so as not to arrive *into* the room. Their whole exchange is eleven
+  seconds of enormous politeness between two very old creatures with no
+  precedent.
+- **QUESTION FOUR.** *Because if she is contracted, she comes because she is
+  contracted, and then I would never be able to tell the difference again.*
+  Fukasaku's finding: **it is the same fear as Myōboku's, put the same way round,
+  producing opposite answers** — sign so neither can pretend, versus don't sign
+  so neither can pretend — and he cannot locate the error in either. Four
+  hundred years of a system that works and **no control**.
+  **Katsuyu's answer: he asked her.** Nothing in Myōboku's architecture prices
+  being asked. And Jiraiya's: thirty-one years of knowing to the day what he
+  owes, and never once asking whether Fukasaku *wanted* to — *you'd have had to
+  come anyway.*
+  Minuted at Fukasaku's insistence: **(1)** nothing today is under a Myōboku
+  contract; **(2)** *I do not know what it is under instead*, recorded verbatim
+  so that whoever reads it in ninety years knows he did not know.
+- **THE REMOVAL — the chain as designed fails in forty minutes.** The mountains
+  understand each other perfectly; the problem is that describing the *outcome*
+  is useless. **Shima's correction: an absence is not what moves — a removal is,
+  and a removal is a positive operation with a before and an after.**
+  Inverted: Katsuyu reports on Sazare, Shima on Jiraiya, and the two reports are
+  compared for **the difference**, which is his and invisible to him.
+  **The difference is a count.** Fukasaku taught it — the settling — and it is a
+  seal made out of breathing, a fixed form that gets you reliably to a place. It
+  is the moment Jiraiya *decides* it is time, and Sazare never decides, because
+  **he could never install a notation of any kind.** Four days to get it out; a
+  chair thrown at a wall on the second evening.
+  **Katsuyu teaches the person out of the way of the technique — she has never
+  taught him one thing about crystal in nineteen evenings.**
+- **The second obstacle was also wrong, and circular.** *He can't match because
+  he can't make* — but Sazare could not make wood and matched a rose. **Matching
+  is how you get it.** He had not been reasoning about it, he had been avoiding
+  it, because it took his hand. The danger was the article being *open*, not the
+  matching. Closed articles are safe.
+- **0.11 GRAMS.** Grey, shapeless, **not one voice**, apart at four seconds —
+  worse than what a nine-year-old made on a floor, which at least had a note.
+  Made by a man whose father sold eels, in front of five witnesses and a minute
+  book. **The paper stops being testimony.**
+- **WHAT FUKASAKU MET.** Before the villages: a slug on a wall in the rain for
+  half a day, and an old human with no clan name making something **that is not
+  on any list and has no word**, with no seals. The slug had taught him. He died,
+  and it went out like a lamp — no line, no pupil, no writing.
+  **It is testimony and worth nothing in a room, and Sazare says so first.**
+- **THE OTHER HALF OF THE PAPER, and it is not going in the paper.** If it is not
+  in the blood then **nothing keeps it**. A real bloodline would be *safe* — kill
+  every practitioner and it returns in the grandchildren. There is nothing to
+  return. **Every kekkei genkai is one death from gone**, and no register exists
+  of what has already gone, because nobody misses a technique they never heard
+  of. Kiri killed about four thousand people in eighteen months. **He does not
+  know how many were the last one, and there is no way to find out.**
+  Stays in his own book. It would be the most useful paragraph in the world to
+  Danzō and would give four countries a reason to be quick.
+
+**Open into ch61:** Fabrication Research starts 1/12 (already overtaken by
+events); the blade's first month of measurements; the name; whether the paper
+gets rewritten now that it has an object; **and Tenzō.**
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
