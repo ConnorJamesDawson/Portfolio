@@ -1757,6 +1757,149 @@ sage* on 16/11 and nobody has ever mentioned a state you enter.
 
 ---
 
+## C13. CH64 — THE FOURTH STEP — **WRITTEN**, nine scenes, ~18,600 words
+
+20/12. **The first fight of his life, and it becomes an incident.**
+
+- **Tsunade closed the ground at seven that morning** with a written reason —
+  *medical observation, Corps* — so the witnesses are six: her, Jiraiya, Sakura
+  (medic, and the only one who can call it), Katsuyu, Fukasaku and Shima. Forty
+  people would have come. **You do not shut a training ground to stop people
+  watching a boy lose**, and Sakura works that out before it starts.
+  Terms: nothing to the head anybody has a choice about; **no scalpel, said out
+  loud in front of five witnesses**; nobody yields; and **Naruto does not hold
+  back**, because if he learns what half feels like he will be on a road in four
+  months with the wrong figure in his head.
+- **PHASE 1 — nothing.** Eleven exchanges in ninety seconds, nine touches, four
+  of which Naruto could have put through him. **He has the article on six of
+  them, inside a third of a second, and builds none.** Naruto diagnoses it in
+  forty seconds off the feel of a body going backwards: *when somebody's trying
+  and failing you can feel where they wanted to be — there isn't one with you.
+  Where do you want to be?* Answer: **nowhere.** *Then what are you doing out
+  here?* / *Finding out what I do.* / *You're not doing anything.* / **I know.
+  That's what I do.**
+- **PHASE 2 — the first hit of his life**, third clone, sixth or seventh rib,
+  lateral. He assesses himself clinically and finds the only thing that matters:
+  ***it hurts and it does not stop me, and I did not know that.*** Eleven years
+  of a life founded on a thing he never tested.
+- **PHASE 3 — he spends everything in eighty seconds**, in exactly the shape
+  Katsuyu described on Tuesday. Wall at forty seconds (nine feet across on a
+  hundred-and-twenty-foot bowl — *a piece of furniture*). A thirty-foot bar
+  eleven feet behind where Naruto already was. **The fifth-of-a-second problem:
+  he builds where Naruto *is*.** Then temper — six articles in four seconds,
+  including a **box** he seals himself inside for fifty-one seconds of capacity,
+  which is the only thing all morning that stops anybody and it stops him.
+  6:00 → about 1:40.
+- **PHASE 4/5 — he runs out of directions and holds.** Wall left, post right,
+  ditch behind. **He does not choose to stop; his feet stop.** And he does the
+  only thing anyone has ever taught him. Naruto stops at twenty feet with his
+  weight back and cannot say why. Katsuyu, across a hundred and twenty feet:
+  ***do not close*** — and he does not hear her.
+- **THE MODE, from outside (sc4, POV Sakura).** Shoulders *down*, not cornered.
+  Fukasaku: *I have got no idea what I am looking at.* Katsuyu: *he is doing the
+  exercise*, and I did not teach him this and nobody on my mountain has seen it.
+  **Sakura notices the rubble has moved and multiplied and joined to the ground.**
+  Then the face: **the thing that has been on it since 21/11 is gone** — not
+  covered, *gone* — and the eyes have gone clear with **Katsuyu's markings, pale
+  blue, from the inner corner**, which Sakura recognises off the north post.
+  ***You can't tell what he's looking at.*** The man four hundred people can read
+  off a wall at forty feet, unreadable for the first and only time.
+  Jiraiya names it: **sage mode, partial, eyes only** — thirty-one years, two
+  toads on his shoulders, never a clean one, *and that boy has done it standing
+  in a ditch because he was frightened and ran out of places to go.* **He thinks
+  he is holding his breath.**
+- **INSIDE (sc5).** The whole bowl in the room, no edge on it anywhere. And the
+  reframe that unlocks everything: ***it is not decay, it is starvation.*** A
+  closed article spends what it has and runs out on the sixth day; **the ground
+  is full and four inches away and they cannot reach it because he shut them.**
+  **He opens twenty-six at once** — and it costs almost nothing, because
+  *building is holding a shape and opening is one act, and one act on twenty-six
+  objects is one act.* **He has had that available since he was nine.**
+  Then the reef: they eat the made ground, they eat each other, **every dead
+  piece is feedstock and every foot makes the next foot cheaper.**
+  ***The longer I stand in one place, the more of this ground is mine — and I did
+  not find a tactic on Thursday. I found what I am.***
+- **THE FINISH.** He builds nothing. **A two-foot piece of his own broken box has
+  been lying under half an inch of dust since 4:50 and has been eating for
+  twenty-six seconds** — and actuating it costs a fortieth. Fourth step, closed
+  over the ankle, taper on the inside.
+  ***He did not break the leg. He fixed a point and Naruto ran into it*** —
+  spiral tibia four inches above the ankle, lateral compartment gone.
+  **The Rasengan goes into the ground**, four feet of earth with the whole of that
+  rotation still in it, **and the crystal eats it and goes three times faster.**
+  Then the spike: blunt, under the sternum, angled along the line of travel, the
+  **only article he costed in advance**, and it turns him so he lands on the
+  shoulder — head at a third of terminal instead of face-first.
+- **THE CLIMB.** In through the compound wound at the ankle, along the femoral,
+  **accelerating up the gradient because there is more the further up it goes.**
+  He closes everything from nine feet: **twenty-five stop, one does not.**
+  ***The close works by shutting the door, and starvation only works on a thing
+  with nothing else to eat.*** It is attached to the supply.
+  Cannot be withdrawn (takes the femoral). Cannot be closed. **At the abdomen he
+  puts his hands on something that is not an organ and is not tissue and is not
+  on any page of anything he has read, and takes his hands off.**
+- **SOMETHING PUSHED BACK.** The crystal stops dead, and then **an article of his
+  is *held*, which has never happened in eleven years** — *something in that boy
+  has put a hand on a thing I made.* Enormous, unsurprised, and it has been in
+  there the whole time. **And he closes** — no process, no clause, the way it went
+  out of him at seven on a floor in Kirigakure — everything, at once, from the
+  ground up.
+  **And it takes only because it was held: a thing that is not drawing is a thing
+  with a door you can shut.** *I did not save him.* And he has nowhere to write
+  that down.
+- **THE TWO FACES.** Jiraiya at the head, looking at the abdomen, not at the boy.
+  Tsunade the colour of the underside of a leaf. **And neither of them looks at
+  the other**, because checking would be admitting it in front of him.
+  ***I do not know what is in that boy. They do. And they have both just found out
+  that I have had my hands on it, and it is not about Naruto — it is about me.***
+- **FOUR HOURS AND ELEVEN MINUTES.** He has to open an article in front of
+  everybody to free the ankle and nobody says a word. Forty-one sections, each
+  separated at a boundary a fortieth of an inch wide over fourteen inches.
+  **He has to use the scalpel forty-eight hours after writing *not to be used*
+  under a line**, and makes Tsunade instruct him by name, out loud, in theatre,
+  in front of Yagi and two nurses.
+  Total recovered: fourteen and a quarter inches.
+- **THE PROGNOSIS, AND THE BOUNDARY.** Ordinary sixteen-year-old: you take the
+  leg at mid-thigh, or nine months of crutches and a stick for life. Naruto: the
+  **tibia was knitting on the table**, ten days for the bone, three weeks
+  walking, six weeks running, nothing to find by the eighth month.
+  ***Uzumaki blood*** — a real clan, a documented reputation, in the archive under
+  the alliance papers, readable any afternoon with a Corps card. **Every word
+  true and it accounts for about half of it.**
+  And he sees it for what it is: **not a lie and not a cover but a boundary,
+  shown to him as a boundary** — *she gave me a true one that stops in the middle
+  and she did not dress the stopping.* He thanks her for not making one up, and
+  asks for it recorded that he knew what he was agreeing to, **because in about
+  eleven months he is going to want to go at the wall.**
+- **HE CANNOT DO IT AGAIN.** Jiraiya has to explain that a *mode* exists at all —
+  he told him *sage* on 16/11 and never mentioned a state, because **nobody
+  arrives at it; everybody is taught, over years, with somebody standing next to
+  them saying when the line is crossed.** And the only creature who can teach him
+  is a slug who has never taught anybody anything **and who told him on Thursday
+  that his eyes had gone clear and that he had her markings, and let him laugh at
+  it.**
+  *It was not knowledge. I have had the whole theory for four months. The only
+  thing that changed is that I stood still for twenty seconds in a ditch.*
+- **THE IOU IS PAID.** He refuses it — *nobody is going to call that a match, and
+  it stopped because a medic went onto the ground, and the reason the medic went
+  onto the ground is that I put him there.* Jiraiya: **in about forty countries
+  that is the only kind of result there is, and you have won a fight against
+  Uzumaki Naruto, and that is going to be true for the rest of your life.**
+  She pays it: four lines, a date, her name, **no reference number, because a
+  reference is a thing people can request against.** *I'm not going to use it.* /
+  *I know. That's why it's the prize.*
+- **AND NARUTO WAKES DELIGHTED**, fourteen seconds in, with a frame on his leg:
+  ***that was the best fight I have ever had.*** He asks what the frosty thing
+  was and gets the true answer — *I do not know what I did, I cannot do it again,
+  and there is nobody alive who can teach me* — and says: *Aw. That's a shame.
+  That was great.*
+
+**Open into ch65:** by Sunday the village has a story; Root has it inside a day;
+**the hug box is not failing, it is dead**; and Jiraiya's ch63 fear has been
+demonstrated and it was **not even a decision — it was a side effect.**
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
