@@ -1,7 +1,7 @@
 # Chapter 65, Scene 3 — The Bathhouse
 
 *Act 5, part A. Konoha, behind the east bathhouse. Sazare Ruri, age
-eighteen. POV: Sazare. ~2420 words.*
+eighteen. POV: Sazare. ~2710 words.*
 
 ---
 
@@ -227,18 +227,30 @@ nothing of yours is ever left lying anywhere near their feet.
 about half past nine on the twenty-third and I have not been able to find
 a way round it.
 
-"Everything I have got is slow to set up and it is worth nothing on
-ground I have not had time on, and the whole of my range is a price curve
-that goes to nothing at about fifty feet, and I cannot make two things at
-once and I cannot predict a fighter.
+"Not because I am slow. I can put a wall anywhere in a split second and
+the twentieth proved it. Because I am *expensive*. On ground I have had
+time on, my articles actuate for about a fortieth and the day is long.
+On ground I have not, everything is full price, and at full price my
+whole war is about six minutes deep, and my range is a price curve that
+goes to nothing at sixty feet. An informed opponent does not have to
+beat me. He has to decline my ground and stay patient, and the
+arithmetic does the rest.
 
-"The one thing that made any of it work was that nobody knew, and now
-everybody knows.
+"And I have read exactly one fighter in my life, for six minutes, and
+he is the least deceptive human being either of us will ever meet.
+Against a liar the instrument is untested.
 
-"And the mode is not an answer, because I cannot enter it and there is
-nobody who can teach me, and if I could enter it I would still be a man
-standing still, and standing still against somebody who knows I need to
-stand still is a way of getting killed."
+"The one thing that made the twentieth work was that nobody knew, and
+now everybody knows.
+
+"And the mode is not an answer, because I cannot enter it *on purpose*.
+I have done it once, by standing in a ditch while somebody tried to
+take my head off, and I have got no procedure, no trigger, and no
+account of the conditions, and the only creature who could teach me has
+never taught anybody anything. And if I could enter it at will I would
+still be a man who has to stand still to do it, and standing still
+against somebody who knows I need to stand still is a way of getting
+killed."
 
 "That is a considerably better statement of the problem than I could have
 given you," said Jiraiya.
@@ -322,6 +334,25 @@ nobody has ever put you on a road.
 have watched you for six minutes and I know exactly how I would kill you,
 and I am going to do it to you about four hundred times until you stop
 being killable that way and then I am going to find another one."
+
+---
+
+"And at the end of the year," said Sazare, "what am I? Because there is
+no word for it. I have looked."
+
+"No, there isn't," said Jiraiya, "because nobody has ever been one
+before. Which means I am not training you *at* a style, I have got to
+build the style, and I have already started, on a roof, three weeks ago,
+the way you start everything — by writing down what the parts do." He
+counted it off on his fingers, folding the thumb down last. "Stone.
+Seals. That sword. Your own two feet, which have never been taught one
+thing in their life and are about to be. And a fifth, under the thumb,
+that I am not going to say tonight — because you get worse when you are
+told, and this one you are going to want to be told *badly*."
+
+"That is four fingers and a thumb held down."
+
+"It is, isn't it," said Jiraiya, and ate the last rice ball.
 
 ---
 

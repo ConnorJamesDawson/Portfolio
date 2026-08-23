@@ -1955,11 +1955,41 @@ demonstrated and it was **not even a decision — it was a side effect.**
   has never decided to hurt anybody and does not know whether he can, and they
   will find out in a field where the answer is allowed to be no; (2) ground he has
   not had; (3) somebody who knows.**
+  **And the style is announced (revised scene).** Nobody has ever been what he
+  is, so Jiraiya is not training him at a style — he has to build it, and
+  started on the roof three weeks ago. Four fingers and a thumb held down:
+  **stone, seals, the sword, his own two feet — and a fifth, withheld**,
+  because he gets worse when told, *and this one he will want to be told
+  badly* (= wood; lands in ch67+). Sazare's corrected self-assessment, same
+  scene: not slow but **expensive** (fortieth on prepared ground, full price
+  otherwise, six minutes deep, nothing past sixty feet); **one fighter read,
+  ever, and he was the least deceptive man alive**; the mode entered ONCE, in
+  a ditch — *cannot enter it on purpose*, no procedure, no trigger, no account
+  of the conditions.
   **The target is not the creed.** *That woman stops going to the window every
   time somebody says the word deployment.* Not that he becomes dangerous — he is —
   **that he becomes survivable.** And he is going to have to do it anyway.
-- **THE SEAL ASSESSMENT.** Nothing wrong with him and no fix. But: **he does not
-  fail to read seals, he reads them as objects** — stroke width, join, order of
+- **THE SEAL ASSESSMENT.** Nothing wrong with him and no fix. **REVISED
+  after the falsified-rules audit — the compose verdict now runs the other
+  way.** Sazare claims *I cannot compose* and **Jiraiya dismantles it off the
+  boy's own minute**: the granite chip was *his notation and MY OWN trigger
+  reasoning* — a key (foreign-chakra recognition, off a seed knowing its
+  maker) that is in no text in four countries, i.e. **a composition**.
+  Composing starts from the meaning and goes down into parts — the direction
+  he has worked in all his life (the trigger, the governor's eleven clauses,
+  nine hundred articles in a notation of density/boundary/closing act nobody
+  else writes in). **He has composed for eleven years and never composed in
+  ink for one reason: for two years the notation had a living owner who
+  would compose anything he could specify, and asking was faster and was the
+  only currency Urushibara took. Then he died, and Sazare filed the faculty
+  under his name and locked the drawer.** *You have been paying rent on a
+  locked room in your own house.* Sazare tests it against evidence and
+  concedes: **one wall, not two — reading is shut; composing was never
+  tested.** New capability on the table, stated by him: he could *make*
+  seals — slowly, at a table, in ink, compositions that run without him,
+  written by a man who cannot read what he wrote. Jiraiya: the most
+  dangerous sentence said behind this bathhouse, **and it is only the slow
+  half.** But: **he does not fail to read seals, he reads them as objects** — stroke width, join, order of
   laying, closing act, density gradient. He finds a **hundred-and-forty-year-old
   fault at the fourth junction of an eight-point barrier array in eleven minutes,
   off the ink**, a fault that cost a Kumo sealing officer four fingers to

@@ -1,7 +1,7 @@
 # Chapter 65, Scene 4 — Nothing Wrong With You
 
 *Act 5, part A. Konoha, behind the east bathhouse. Sazare Ruri, age
-eighteen. POV: Sazare. ~2960 words.*
+eighteen. POV: Sazare. ~3730 words.*
 
 ---
 
@@ -120,10 +120,94 @@ that man ever said to anybody.
 off somebody else's composition, and I did it at sixteen and it works and
 it is in a file.
 
-"I cannot compose. Ever. And every composed array in that Corps file is
-his work and not mine and I said so at the time and it is in the minute."
+"I cannot compose. Every composed array in that Corps file is his work
+and not mine, and I said so at the time, and it is in the minute."
 
-"And the hand seals," said Jiraiya.
+"Stop there," said Jiraiya. "Say the granite chip again. The whole
+sentence, the way you said it four minutes ago."
+
+"I built a keyed store on a granite chip at sixteen with his notation
+and my own trigger reasoning—"
+
+"Whose trigger reasoning?"
+
+Sazare stopped.
+
+"The key was foreign-chakra recognition," said Jiraiya, "borrowed off
+the fact that a seed already knows its maker. It is in the file, in the
+minute you are so careful about. Now tell me which page of which text
+that construction is on, because I have read all of the texts, all of
+them, and I am telling you it is on none, because nobody had built that
+key before. A dying instructor did not hand it to you. You took a
+property out of one discipline and carried it into another because you
+needed it and it was true, and that operation has a name, and the name
+is *composition*."
+
+"It was one element—"
+
+"It was one element the *first time*," said Jiraiya, "which is what
+composing is like the first time. Now be quiet, because I have been
+teaching for thirty-one years and I am about to do some.
+
+"You cannot go from the sentence to the meaning. That is real. I have
+watched it, I believe it, and it does not close what you have spent two
+and a half years assuming it closes — because composing does not start
+from the sentence. Composing starts from the *meaning*. The composer
+has the meaning before he has anything, because he chose it, and he
+goes down from it into the parts with the purpose in his hand at every
+step. Parts to whole, purpose first. Which is the direction you have
+worked in every day of your working life.
+
+"That is how you built the trigger. That is how you built the governor
+— eleven clauses, out of nothing, to a purpose you chose, signed into a
+ledger. And it is how you have built nine hundred articles, because
+what do you think a graded article *is*, if it is not an instruction
+composed in a notation of density and boundary and closing act that
+nobody taught you because nobody else has ever written in it?
+
+"You have been composing for eleven years. You have never composed in
+*ink*. And there is exactly one reason, and it is not a thing missing
+in you. For two years the notation had a living owner, up a stair you
+were on four days a week, who would compose anything you could specify
+and be kept alive an afternoon longer by the asking — so you asked,
+because asking was faster and because it was the only currency he took.
+And then he died, and you filed the entire faculty under his name, and
+locked the drawer, and you have spent two years calling a locked drawer
+a wall."
+
+The steam went over the fence. Somewhere on the other side of it a man
+was singing, badly, in the key of a man alone in hot water.
+
+*Test it. He is a persuasive man, and persuasive men are how wrong
+things get in.*
+
+*The trigger: mine. He is right that it is in the minute. The governor:
+mine, from nothing, to a purpose I chose, eleven clauses, and Kanzaki
+witnessed my hand. The splint protocol: a recorded instruction,
+composed into a medium, released on a condition — which is Urushibara's
+own definition of a seal, and I have laid four hundred of them and
+called it fabrication.*
+
+*He is right, and the wall is real, and it is one wall and not two.
+Reading is shut. Composing was never tested. For two years the test was
+unnecessary, and then it was—*
+
+"The drawer is not locked," said Sazare. "It is worse than that. I
+never tried the handle. Because trying it without him felt like—" He
+stopped, and the stopping was itself the sentence.
+
+"Like working his bench before the estate was settled," said Jiraiya.
+
+"Yes."
+
+"It settled, kid. It settled on the fourth of the second month, and the
+tools came to you, and you have been paying rent on a locked room in
+your own house for two years."
+
+---
+
+"And the hand seals," said Jiraiya, eventually, in the voice of a man
+moving a stone he means to come back for.
 
 "The hand seals are a different thing entirely and I want that separated
 because I have been sloppy about it in this conversation for four
@@ -316,13 +400,17 @@ it."
 "Yes," said Jiraiya.
 
 "So it is not a way in. It does not get me one ninjutsu, ever, and it
-never will, and it does not get me a composed array either — I would
-still have to be handed the composition by somebody who can read, and
-the only man who ever did that for me is dead."
+never will — the hand kind stays shut, and the hand kind is where the
+techniques live. What it gets me, if what you said about the drawer
+holds, is the other trade entirely: I could *make* them. Slowly. At a
+table. In ink. Compositions of my own, that run without me, written by
+a man who cannot read what he wrote."
 
-"No," said Jiraiya. "It isn't a way in."
+"Which is the most dangerous sentence anybody has said behind this
+bathhouse," said Jiraiya, "and I have read the ones in the book. And it
+is half of it. The slow half."
 
-"Then what is it?"
+"Then what is the other half?"
 
 ---
 
