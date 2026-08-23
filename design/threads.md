@@ -1492,6 +1492,124 @@ month sheet due 1/1; **and the clock on Tenzō.**
 
 ---
 
+## C10. CH62 — THEN BANG ALL YOU LIKE — **WRITTEN**, nine scenes, ~17,000 words
+
+14–17/12. Fixed by the writing:
+
+- **The inventory is eleven minutes.** Eighteen books (seventeen kilos, fourteen
+  of it paper), a tool roll, two tins, a lamp, a cup, one bowl, two sets of
+  clothes. The futon is the landlord's, the table came with the room, one blanket
+  is O-Shige's. **In four years he has bought tools, a lamp, boots, notebooks and
+  the things he writes in them with, and nothing else.** *Everything I own does a
+  job* — which he writes down as a virtue.
+- **He had not slept there for seventeen days and had been back nine times.**
+  *I am running it as a store.* And the real reason he was putting it off was not
+  the room — **Ōtaki Sue's door is four feet from the bottom of that stair.**
+- **NARUTO IS THE FIRST PERSON MORE LEGIBLE THAN HIM.** No bracket needed,
+  nothing to construct, all of it arriving at whatever volume it has. *He is a
+  man standing in a field.* The word Sazare finds for it is **restful** and he has
+  never applied it to a person. And Naruto is the first person ever to walk into
+  a room of his uninvited (sc9).
+- **The misdirection's first live test works in eleven seconds**, on the most
+  guileless person in the village — and Sazare tells him, thirty seconds later,
+  unprompted, that he did it on purpose. Naruto: *that's kind of horrible… yeah,
+  all right, fair*, and puts it down in three seconds. **Sazare would have had it
+  in a book for four years.**
+- **FOUR SECONDS — the insight that reframes eleven years.** *You don't fill a
+  room for you. You fill it for somebody who's going to come in.* Naruto had a
+  futon, a kettle, four bowls and a poster after four years with money in his
+  pocket. **Nobody has ever been up Sazare's stairs** — not kept out, never
+  asked, and asking never occurred to him as a category.
+  **And therefore the accent is not the reason.** He has a four-hundred-page
+  explanation for the shape of his own life that is load-bearing on being
+  foreign, and he has just watched it fail on a boy who is from here and whose
+  name everyone knows. **Different reason, same room.** Fourteen books to go
+  through with that question in his hand.
+  Plus Naruto's aside — ***everyone does a thing instead*** — which is the word
+  he has never had for gambling, drink, and a shape on a woman's own face.
+- **THE BOOKS.** Four options, one of them (*burn them*) put on the list
+  deliberately because a list with the unbearable option missing is a list
+  somebody has arranged. Her answer: **the north store**, because it is a Corps
+  facility with a posting attached — *you cannot stop a thing being taken, you
+  can pick which kind of theft it is.* Same shape as the drawer.
+  **And his: the index does not go with them.** Nine pages turn a week's work
+  into an hour, so the box goes to the store and **the index goes in the drawer
+  in the tower.** Neither half is worth having. Plus the standing problem: a
+  second index will be in his head inside a fortnight, and clause eleven of the
+  governor is *including if somebody takes it off my body*, and he signed it.
+- **SAKURA HAS BUILT THEM A COVER, ALONE, UNASKED.** She has the board
+  reference off the top of her head, including that it went through on the
+  seventh — which means she went and looked, which means a clerk knows she asked.
+  She deploys the **true** senjutsu-posting document against Naruto's question in
+  a street, rehearsed, in one piece. *Not a friend keeping a secret. An
+  operation.* **Fifth person to decide not to know.** And she builds her sentence
+  so he cannot thank her — **second person this month to do that** (Shizune,
+  28/11) — so he says out loud at a fork that he will find another way, so that
+  when he does neither of them can call it sly.
+- **ŌTAKI SUE.** She knew on the 22nd, from his face, before anybody. She has had
+  two channels for two years and three months — the slate twice a week and his
+  bench through her ceiling — **and both end on the same afternoon.** *I will not
+  feel you any more. That is the part I mind. Not the tea.*
+  **On 24/11 she wrote *WHAT HAS HAPPENED TO YOUR FACE* and he wrote *I CANNOT
+  SAY*, and she kept the slate.** The same three words he wrote to Kabuto on
+  11/12 as the first lie of his life — once the most honest thing he had, once
+  the worst thing he has done.
+  **Her kitchen is the only room in Konoha where he can tell the truth**: no
+  sound, written, then wiped. He tells her the whole of it and she wipes the
+  slate twice and checks it against the window. Her answer: *GOOD.*
+  **And she had one.** 1958, a man of twenty-four who could not write; two years
+  to teach him; eleven years; then the second war. **Third person she has told in
+  forty years.** *I never asked you anything.* / *NEITHER DID ANYBODY ELSE. 40
+  YEARS. YOU WROTE TWICE A WEEK. THAT IS NOT NOTHING, BOY.*
+  Tuesdays. And her refusal of duty: *come when you come.*
+  **The first slate is on a nail by the door — *THEN BANG ALL YOU LIKE* — never
+  wiped in two years and three months, and Sakura sees it and asks.**
+- **He fits the staple** he has carried since the third month, into sound wood
+  two inches lower, plugging the old holes so it does not come out of somebody's
+  deposit. Nobody will ever know it is there. **First column, and the columns
+  have never balanced, and nobody on that street has ever kept a total.**
+- **PLEASE — the ninth-year frame.** A crushed hand: bones want rigidity, fingers
+  want movement, and the frame must **change while it is on him for eight to
+  twelve weeks**. Splitting fails; a hinge is two objects and a relationship and
+  **he has no operation for a relationship** — he holds one entire shape by hand
+  and there is one of him.
+  **So the answer is an open article, and he is forbidden to make it**, and the
+  reason is the fifteenth of the eighth month. *A man with a crushed hand has not
+  got nineteen inches of graded conductor.*
+  **The real work is therefore not the frame — it is the thing in between.**
+  *One-way* has been a condition for a year and a half and has never once been
+  worked on as an object.
+  **And the frame specified itself in four hours, because there is a person at
+  the front of it.** Which answers question six by contrast: *they were not
+  asking me what the article is for. They were asking me who it is for.*
+- **THE SPAR — set for 20/12, ground two, 09:30.** Naruto's pitch: six ways to
+  fight in Konoha and Sazare does none of them. Sazare's honest position: **he
+  has never been in a fight in his life**, has three operations, none fast, one
+  takes four months, and capacity is not fighting. Naruto's counter, which is
+  correct: **the eleven-seconds guess is about technique and a fight is never
+  about technique**, and either way something nobody knows gets found out.
+  **The bet: Jiraiya on Naruto (the sensible money, and nine others have taken
+  it). Tsunade on Sazare.** Forty years of losing, professionals in three
+  countries who follow her about and take the other side — **so her backing him
+  is the worst possible omen, and everybody will read it as a joke, and about
+  four people will read it as a joke and then stop.** *She could not bet against
+  him in public.* Jiraiya says it out loud in front of her, on purpose, so that
+  somebody in the room has heard it.
+  **The prize: an unconditional IOU**, any time, any purpose, no expiry, no
+  refusal, terms witnessed. Sazare names it immediately as **the most valuable
+  object in the Land of Fire** and a lever with her name on it that would sit in
+  his coat. She has costed it and does not move.
+  **And the sword has *unknown* on the panel**, and the rule in writing says he
+  does not draw except to a specification. *Either I write a specification in the
+  next four days or I find out what I am without it — and I have got no idea
+  which of those is the point of the exercise.*
+
+**Open into ch63:** the spar. And the standing note from C9 holds — the
+relationship is texture, and the only place it surfaced here was a security
+argument about shelving.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
