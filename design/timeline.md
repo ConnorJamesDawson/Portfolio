@@ -74,6 +74,7 @@ dated off it.
 | **62** | month 12, the 14th to the 17th. Four days. Nine scenes, ~17,000 words. Moving day; Naruto; Sakura's cover; the books split from the index; **Ōtaki Sue**; the ninth-year frame; **the spar set for the 20th** with an IOU on it. |
 | **63** | month 12, the 16th to the 19th. Four days' training. Eight scenes, ~14,500 words. The mountains' wager; the manual come back broken; the conversion table; range is a price; **placed articles are free**; the scalpel sheet; the eyes alluded to; *believe in me*. POV Tsunade sc5, 6, 8. |
 | **64** | month 12, the 20th. One day, 09:30 to ~20:30. Nine scenes, ~18,600 words. **The spar.** Slug sage mode; cannibalistic crystal; Naruto's leg; the thing in his abdomen; four hours in theatre two; the IOU paid. POV Sakura sc1, 4. |
+| **65** | month 12 the 22nd to month 1 the 1st. Ten days. Eight scenes, ~16,400 words. The story travels; the box is finished; Jiraiya takes him on; the seal assessment; **the three questions spent**; the notes; **the IOU spent on a day out**. |
 
 
 ### FIXED — where Tsunade actually lives

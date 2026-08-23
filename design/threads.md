@@ -1900,6 +1900,159 @@ demonstrated and it was **not even a decision — it was a side effect.**
 
 ---
 
+## C14. CH65 — A HOLIDAY — **WRITTEN**, eight scenes, ~16,400 words
+
+22/12 – 1/1. Fixed by the writing:
+
+- **THE ADVANTAGE WAS IGNORANCE AND IT IS SPENT.** Five versions collected by the
+  23rd, all wrong except the shortest — **"he made the crystal come alive,"** off
+  the fishmonger's boy, aged eleven, and it is *the only accurate account anybody
+  has produced including him.* **He won because Naruto never once looked at the
+  floor**, and nobody was ever going to, because debris is over and every shinobi
+  alive is trained to ignore it and is right to.
+  **And his method has been public for four years** — four Corps papers with
+  method sections, four hundred rows of reject table, eleven pages of splint
+  method. *I have published my own manual and the only thing that saved me on the
+  twentieth was that my opponent had not read it.*
+  **Counter, which he finds in eleven minutes:** the story is bigger than he is
+  and he will never correct it. A man who puts somebody through a wall has a
+  technique and techniques have counters. *A man who makes the ground come alive
+  is not a technique.*
+  Sakura says **jinchūriki** in front of him, as an ordinary noun. He writes down
+  four versions and does not write down the word.
+- **CONSEQUENCES (24/12), four piles.** Naruto seven weeks off the roster, three
+  jobs reassigned, one to a man nine years too old. The incident report, written
+  by her, going in the file, including ***a live article entered the subject's
+  limb and was arrested by the operator. Duration approximately forty seconds. No
+  procedure existed and none exists.***
+  **The box is not failing, it is finished** — and the problem was never that he
+  is dangerous, it is that **he is unattached.** No chain, nobody whose job it is
+  to say no. *Shizune said no to me four times and not one of them was her job.*
+  He agrees without an argument and asks for it recorded that he did.
+  **She will attach him to somebody in the first week of January and he will not
+  like it.**
+  **Fourth pile is empty: Root.** No request, no query, nothing since the 20th
+  from a man who has had somebody in that hospital since before Sazare was born.
+  *He is showing me that he knows and that he is not going to ask.* Four reasons
+  and three are bad; **the fourth is that he does not need to ask because he is
+  going to be told**, and she will not say a name out loud.
+  Sazare asks not to be told who, on the record, **because the most valuable thing
+  about him is that there is nothing in his head anybody could want.**
+- **THE BATHHOUSE (27/12).** Jiraiya is genuinely working — notebook, ninety
+  pages, two-thirds full — and is **looking at the steam, not over the fence.**
+  The book: *you'll need it, I hear you're a bad kisser.* One possible source, and
+  Sazare works it out in two seconds and **decides not to raise it with her**,
+  not out of decency but arithmetic: *she has got about nine things to be annoyed
+  about this fortnight and I am not adding one for free.*
+  **Jiraiya's assessment: *you are not going to win another one.*** Informed
+  opponents will look at the floor first, fight on ground of their choosing, at a
+  range he cannot afford, and never leave anything of his near their feet. Sazare
+  states the problem better than Jiraiya could and gets told **you are the only
+  person I have met who gets worse when he is told and better when he works it
+  out, so I would rather you had the problem than the answer.**
+  **Training from the second week of January, four mornings a week, about a
+  year.** Three things in order: **(1) the hesitation — not the fault, but that he
+  has never decided to hurt anybody and does not know whether he can, and they
+  will find out in a field where the answer is allowed to be no; (2) ground he has
+  not had; (3) somebody who knows.**
+  **The target is not the creed.** *That woman stops going to the window every
+  time somebody says the word deployment.* Not that he becomes dangerous — he is —
+  **that he becomes survivable.** And he is going to have to do it anyway.
+- **THE SEAL ASSESSMENT.** Nothing wrong with him and no fix. But: **he does not
+  fail to read seals, he reads them as objects** — stroke width, join, order of
+  laying, closing act, density gradient. He finds a **hundred-and-forty-year-old
+  fault at the fourth junction of an eight-point barrier array in eleven minutes,
+  off the ink**, a fault that cost a Kumo sealing officer four fingers to
+  discover.
+  **Making and breaking are not the same trade.** Making is composition and
+  grammar; **breaking is looking at an object and working out where the man who
+  made it got tired** — and every good breaker has been good *despite* being a
+  maker, because reading it tells you what it is supposed to do, which is the
+  thing you must stop believing.
+  **Jiraiya refuses to say the next sentence and says so, for the record.** And
+  warns him off it entirely — not for the countries or the price, but because
+  ***he has already done it once***: the Byakugō, 12/11, four minutes, at four
+  inches, off a density distribution, correct in every particular. *You made
+  yourself the fourth person alive who knows what that thing is by looking at it
+  while she was asleep. Leave it alone.*
+- **THE THREE QUESTIONS (27/12).** Katsuyu four hours late for the first time in
+  fifteen Fridays: **she has been arguing since Tuesday.**
+  The three her elders wanted: **(1) the dry seasons** — a tenth of her kind, every
+  dry year, four hundred years, no mechanism; **(2) how Myōboku counts time**, the
+  fourth elder's question since before the village had a wall; **(3) why the
+  mountains stopped speaking** — asked for by the one who has declined to answer
+  four times in two hundred years.
+  **She argued all three onto training a sage, and won badly** — one sentence on
+  Thursday evening, four hours of silence, then *very well*.
+  **What she said: Fukasaku asked what the boy had given Shikkotsu and we had to
+  answer *nothing*, and in a month they will find out we spent everything we have
+  ever had on him — and I would like Myōboku to have to sit with that.**
+  **She did not argue for Sazare. She argued for a position** — and says so —
+  and he tells her that is *better*, because a thing spent on a person is a bad
+  decision made for a good reason that she would have to defend for life, and a
+  thing spent on a belief is something a creature is allowed to spend four hundred
+  years on. *I am standing at the end of it, and that is my luck and not your
+  judgement.*
+  **And: the elder who declined to answer asked her to read chapter two twice.**
+- **THE NOTES.** Fourteen, numbered, chapter and page, delivered as help, because
+  **a man who hands you a document wants it checked.** Eleven are anatomical or
+  arithmetical and correct and worth nothing — the thirteen inches and the
+  temporomandibular joint and the airway; *cervic* for *cervix* and an injury
+  written as pleasure; chapter nine and a nine-hundred-ryō repair; **five
+  performances in seven hours at forty-one.**
+  Jiraiya keeps four and refuses the rest **on purpose** — *a man in a bathhouse
+  in the Land of Rice does not want a correct figure, he wants a figure that means
+  something* — and Sazare agrees instantly because **it is the same problem as a
+  splint over-specified for a ward that cannot store it.**
+  **Three notes are not anatomical, and one of them changes the book.** Chapter
+  eleven: the woman says the same thing twice and it is written as meaning it
+  more. ***A person who means a thing says it once. Saying it twice is a repair.***
+  Jiraiya writes for forty seconds and **page 109 goes in the next edition.**
+  Plus: chapter two is four apologies and four forgivenesses and *is a procedure*;
+  and **chapter fourteen has written a woman who cannot ask, and nobody notices
+  because everyone is looking at him.**
+  **Uncredited, permanently — and Sazare warns him, on the record, 30/12, that he
+  has no filter and will mention it to entirely the wrong person within a
+  decade.**
+- **THE DEBT.** Eleven days in his coat. ***It is a contract with one clause in it
+  and it runs the other way.*** Never using it is worse — an unused one sits
+  between them for forty years and she forgets inside a year and he does not.
+  Burning it is deciding afterwards that it did not count, **which she said the
+  terms aloud in front of a witness specifically to prevent.**
+  **The mechanism: the corruption is not the paper, it is the *gap*** — between
+  what he asks for and what she would have done anyway. **Close the gap.** Spend
+  it on a thing she would have given for nothing, that he would never have asked
+  for, and the paper is worth nothing the instant it is used.
+  **The source is chapter seven** — nineteen pages, a boat, a market, an argument
+  about the price of a hat, **the only chapter with nothing in it to be wrong**,
+  the corner folded over without deciding to and the only chapter he put no note
+  on.
+  And the entry, in ink: **half of it is a manoeuvre and half of it is the thing
+  he wants, and they do not come apart, and *a thing being useful does not stop it
+  being true*.**
+- **A HOLIDAY (1/1).** He asks in front of Shizune deliberately. She offers him
+  the Kiri claim, the Corps board, **and the correspondence** — and he watches
+  that one land and refuses it: *in four years I would be a man who got out of an
+  arrangement he agreed to in writing, by using a debt, on a woman who could not
+  refuse.*
+  **Three years and not one day that was not about a thing** — an article, a
+  docket, a study, a patient, a council, a report, a fight or a wound, *especially
+  the good ones.* And he would never have asked, in forty years, **in exactly the
+  way it did not occur to him for two years and three months that a chair was a
+  thing a person could have in a room.**
+  ***I have got everything I want. I went looking for a want and I have not got
+  one.***
+  **Shizune fails to convert a noise into a cough**, demands it minuted as
+  disgusting, and then — from the door, without turning round — **takes the day,
+  says she will do the diary, and that she has been waiting three years to.**
+  She picks the place. He asks not to be told, **because if she tells him he will
+  look it up.**
+
+**Open into ch66:** the day out; the attachment decision in the first week; and
+**four mornings a week from the second.**
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
