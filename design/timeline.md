@@ -72,6 +72,7 @@ dated off it.
 | **60** | month 11 the 28th to month 12 the 2nd. Five days. Nine scenes, ~16,000 words. *Love you too*; the blade carried open; two mountains; **the removal**; 0.11 grams; the lamp that went out. POV Tsunade sc1. |
 | **61** | month 12, the 2nd to the 11th. Ten days. Nine scenes, ~19,300 words. The kiss he initiates; the governor; the toads go home; custody; the north store; **the first ordinary article**; exchange three; Tenzō named; **unknown**. |
 | **62** | month 12, the 14th to the 17th. Four days. Nine scenes, ~17,000 words. Moving day; Naruto; Sakura's cover; the books split from the index; **Ōtaki Sue**; the ninth-year frame; **the spar set for the 20th** with an IOU on it. |
+| **63** | month 12, the 16th to the 19th. Four days' training. Eight scenes, ~14,500 words. The mountains' wager; the manual come back broken; the conversion table; range is a price; **placed articles are free**; the scalpel sheet; the eyes alluded to; *believe in me*. POV Tsunade sc5, 6, 8. |
 
 
 ### FIXED — where Tsunade actually lives

@@ -1629,6 +1629,134 @@ intake, so every fragment is feedstock and the ground becomes progressively his.
 
 ---
 
+## C12. CH63 — BELIEVE IN ME — **WRITTEN**, eight scenes, ~14,500 words
+
+16–19/12. Fixed by the writing:
+
+- **THE MOUNTAINS' WAGER.** Proposed by Myōboku 14/12, accepted after considerable
+  discussion; Shikkotsu has never done this in four hundred years. **No currency
+  exists between them**, so Shima invented the stake: **the loser answers three
+  questions, in person, truthfully, at length, at the winner's choosing.**
+  Sazare's read: *they are not betting. They are opening a channel and pretending
+  it is a bet so that nobody has to say we would like to talk to you.* Both sides
+  have arranged to lose nothing either way. The slugs are unanimously on Sazare
+  **for the worst possible reason** — none of them has ever seen a human fight;
+  he is the one they have heard about. Katsuyu was outvoted and told she was
+  being *modern*.
+- **THE MANUAL HAS COME BACK BROKEN.** He wrote *Ask on the day you want to ask.
+  Waiting for a better day is a way of not asking.* It returns via a third elder
+  as **"the day you want to ask is a better day; waiting is a way of asking"** —
+  the *not* gone, the meaning inverted, offered as a thing everybody knows.
+  **The original is on a shelf at Shikkotsu in perfect condition and unconsulted**;
+  the drift happened because Katsuyu read it aloud to eleven of them over four
+  evenings and after that it was theirs. **He refuses to correct it** — eleven
+  creatures have it and it is theirs now, and *fairly sure* is not enough to take
+  a proverb off a four-hundred-year-old. And: *a thing that reproduces cannot be
+  recalled* — he ran the experiment fourteen months before he had the theory.
+- **SLUGS HAVE NO COMBAT TRADITION AND CANNOT BUILD ONE, BECAUSE THEY CANNOT
+  LOSE.** Katsuyu divides; no part of her is the important part; there has never
+  been a stake. **Every fighting art ever built was built by creatures that can be
+  ended.** So the curriculum was never withheld — there was nothing there. And
+  *he has one of him*, which is the only genuinely new thought she has had in a
+  long time.
+- **THE CONVERSION TABLE.** One minute of hold buys ~0.9 cu ft at three-deep
+  (stops a person, stops nothing thrown), or ~0.22 cu ft at eleven-deep (takes a
+  hit), or **about forty of the small ones**. Reinforcement costs roughly four
+  times volume; the small things are nearly free; there is nothing worth having
+  in between. **At six minutes: about five and a half load-bearing walls, or ~240
+  spikes.** He has run his own capacity as a score for eleven weeks and never
+  once known what it was worth.
+- **RANGE IS A PRICE, NOT A LIMIT.** 20 ft ordinary; 25 ft +⅓; 30 ft ×2; 40 ft ×4
+  *and slower*; 55 ft once, badly, for forty seconds of hold; 60 ft nothing and a
+  feeling in the left hand that stopped the experiment. **No cliff — it simply
+  becomes too expensive.**
+- **AND THE CHEAT: PLACED ARTICLES ARE FREE.** Actuating existing crystal costs
+  about a fortieth of making it **and does not rise with distance** — that is the
+  invasion, uncosted for a year because at a bench everything is within reach.
+  ***RANGE IS A PRICE. PLACED ARTICLES ARE NOT.*** Therefore the question is not
+  how far he can reach but **how much of the ground is already his** — and a
+  closed article holds order for six days, and an open one does not stop.
+- **THE SCALPEL SHEET.** He has had chakra scalpels since sixteen and **never
+  once put them in a column with crystal**, because they live in the ward notes
+  under *procedures* next to a thing about sutures. He can name the axillary and
+  the ninety seconds. **Tsunade makes him write it on the sheet under a line:
+  *not to be used*, with the date** — so that the decision is made on a Thursday
+  afternoon in a yard and not in a third of a second in four years' time.
+- **THE FAULT: HE IS WAITING TO BE TOLD WHAT TO MAKE.** Nine walk-ins from nine
+  feet, nine disengagements, nothing built — and he had the answer on six of
+  them. Told what to build, he produces eleven in a row and three are better than
+  anything he could design at a bench. **Told nothing, he does nothing.** It is
+  the *same fault as the blank panel*, it is eleven years old, and it cannot be
+  fixed in three days.
+- **AND THE OBSERVATION KATSUYU HAS NO WORD FOR: nine out of nine, he moved
+  away.** Never once toward. Four of the eleven put something between them and
+  seven stopped her moving; **none of the eleven touched her.** She reports it and
+  cannot classify it. The evasions *came off him the way the close comes off him*
+  — **so they are the same age.**
+- **TSUNADE'S FOUR POSITIONS, none agreeing** (sc5): she believes he will lose;
+  she has arranged for him to lose somewhere safe with a referee; she has decided
+  not to tell him because a man correcting an eleven-year-old reflex in
+  thirty-six hours will do something he does not mean; and she has money on him
+  in public because **she could not say his name in a bet against him.**
+  Kiri, fourth month, seven and a half, out through the eastern lines: **he ran,
+  and it is the first entry, and every entry since is the same shape.**
+- **JIRAIYA DISAGREES WITH HER, AND IT IS THE CHAPTER'S INVERSION** (sc6).
+  Intelligence version: **there is no incident. In any of the four files.** Eleven
+  years, ninety pages, not one line of that boy raising a hand to anybody.
+  Her fear is that he will not fight. **His is that the nine-out-of-nine is the
+  only brake that has ever held** — the docket is not holding and everybody knows
+  it, and what has been holding is a reflex built at seven and a half going out
+  through the eastern lines. He has spent three days on a bathhouse roof unable
+  to decide whether he wants the training to work.
+  **And the part he will not say in the room: if it ever goes, it will not be
+  because somebody came at *him*.** She already has it, from watching him write
+  *not to be used* in four seconds without asking why.
+- **THE ASK.** He knows she thinks he will lose, and says how he knows — the
+  silence since Monday, the folded arms at the end of the yard, the cold lamp,
+  **and a tile on the bathhouse roof that has been out of line since the ninth
+  year and is in line now.** He works out her reason for not telling him,
+  correctly, and agrees with it, and **declines to ask what the thing is** — and
+  tells her he will not work on it, because it is hers.
+  ***I'm not asking you to think I'll win. I'd like you to believe in me
+  anyway.*** Second thing he has ever asked her for, thirty-nine days after the
+  first. **He assembles a release and deliberately does not say it.**
+  Her answer is the joke: she picked him at odds, in public, against her own
+  judgement and forty years of a documented curse, in front of the one man who
+  can read her — *I'd say the ask is answered and I answered it three days before
+  you got round to making it.* He reads the deflection **and takes the content**,
+  and it is exactly what he asked for and he did not know it was available.
+- **SC8, POV Tsunade: the contradiction dissolves.** *Will he win* and *do I
+  believe in him* are answers to two different questions and she has been filing
+  them in the same column for three days. He ruled out the first in advance, in
+  his own sentence, so that she would not have to. **She got what he asked for
+  wrong and he took it anyway.**
+  What she believes: that he will get up, and that by Sunday night there will be
+  four pages and a table and a fault in his own hand with no softening anywhere —
+  because there is not one instance in three years of him failing at something
+  and not coming back with the honest account of it.
+  **And then: she wants him to win, for no useful reason at all** — forty years
+  of betting and never once wanting a card to come in for a reason that was not
+  money.
+
+### THE SAGE MODE ALLUSION — sc4, and the surprise is kept
+
+Eleven-minute hold (longest since 11/11, and it came because he had stopped
+being interested in himself). Katsuyu, at nine inches after nine hours:
+**"Your eyes have gone clear"** — the light going in and coming back without the
+scatter, which is his own vocabulary for a well-ordered article and which she has
+never once used about a person. **And: "You have got my markings"** — from the
+inner corner of each eye, running down about an inch, her shape and her colour,
+never seen on anything that was not a slug.
+
+**He explains it away as vasomotor and laughs at the second half as the first
+joke she has ever made.** She has no framework, says so, and does not raise it
+again. **Neither of them knows a *mode* exists** — Jiraiya told him he is *a
+sage* on 16/11 and nobody has ever mentioned a state you enter.
+
+**The technique is not shown until ch64.**
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
