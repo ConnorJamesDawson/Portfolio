@@ -1610,6 +1610,25 @@ argument about shelving.
 
 ---
 
+## C11. COMBAT — see `design/combat.md`
+
+Sazare's fighting capability is pinned as of 17/12 in its own file. Read it
+before writing any fight. Headlines: **speed is free, volume and density cost,
+the limiter is nature chakra not material**; the four-second course is a bench
+calibration and not a combat speed; twenty-foot range confirmed; medical
+ninjutsu and chakra scalpels available and never classified as weapons; existing
+wood only; jōnin reserves and a genin body.
+
+**Slug sage mode debuts in the spar.** He does not know a *mode* exists — only
+that he is *a sage*. Trigger is **holding**, not being struck. Manifestation is
+partial: **the eyes go clear, with Katsuyu's markings from the inner corner**,
+and nobody can tell what he is looking at.
+
+**Cannibalistic crystal** is the first sage jutsu: the structure is its own
+intake, so every fragment is feedstock and the ground becomes progressively his.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
