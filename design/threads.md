@@ -1362,6 +1362,136 @@ gets rewritten now that it has an object; **and Tenzō.**
 
 ---
 
+## C9. CH61 — UNKNOWN — **WRITTEN**, nine scenes, ~19,300 words
+
+2–11/12. Fixed by the writing:
+
+- **She tells him he did well**, and the sting is that she is the only person in
+  the world who is allowed to have read the page. *You have made the largest
+  finding of the century and it goes in a drawer.* Nobody has ever told him he
+  did well about a **finding** — there has never been anyone who could see it.
+- **He initiates for the first time.** Fifth instance of the signature and the
+  only one that was his own idea. **It is bad and he knows it is bad while it is
+  happening** — he *corrects, twice, mid-way*, which is a bench instinct — and it
+  makes no difference whatever. *None of it is in the execution.*
+- ***Shall we go to bed?*** — he means the flat thing, hears the second meaning
+  arrive about a second later without permission, and cannot account for either.
+  First sentence of his life with two things in it. They sleep holding hands.
+- **THE GOVERNOR (3/12, 06:00).** He wakes spooning her with the ordinary morning
+  situation and produces the whole of chapter four internally, with the citation,
+  and it does not touch the sides. Her answer is not reassurance — **she gives him
+  the differential**: a man of eighteen who *didn't* is a man she'd want examined,
+  and here is the list, and none of it is anything he wants. *She turns the
+  frightening thing into the ordinary one by putting the actual frightening thing
+  next to it.*
+  Then she takes hold of him and gives the one rule: **this does not do your
+  thinking.** Not fidelity — *judgement*. No brake, no observer, and now this.
+  She will take them off him in a corridor and it would take four seconds.
+  **And he thanks her for it**, in earnest, because it is the first control ever
+  fitted to *him* rather than to a piece of paper: it acts before the event, he
+  cannot argue with it and cannot find a distinction inside it. *Governor fitted,
+  2/12*, and nothing else, so that in forty years somebody finds the line and has
+  no idea.
+- **The toads go home after five days.** Kanzaki feeds them and denies having been
+  up the stairs. Fukasaku asks for **a copy of the minute** and gets four good
+  arguments against — and then a fifth he did not expect: **the memory is the
+  strong version, not the weak one.** He carried a man on a wall in the rain for
+  four hundred years and never lost him. **He withdraws the ask himself and has
+  that minuted**, with the reason, so that Myōboku in ninety years knows why he
+  came home empty-handed. Katsuyu's correction: slugs do not keep it in the
+  telling because it is safe — **because a thing that is told requires a second
+  creature, every time, for ever, and a book does not.**
+  Shima's parting shot: *the ones that get people killed are the ones nobody puts
+  a foot on a table about.* Fukasaku's: **there will be a second one, and when you
+  go and get him, come and tell me.**
+- **CUSTODY.** The book stays in her personal keeping, no reference, no archive —
+  failure mode a burglary rather than a requisition. **Access requires all five in
+  person**, which means two toads walking four hundred miles: she has made it
+  structurally unreadable, and Fukasaku withdrawing the copy is what did it.
+  Succession: her → Shizune → Sazare → **nowhere**, *and thereafter it is not to
+  be preserved*, because there are sixty children in a hole and the man who put
+  them there did it **without** the book.
+  **And it does not go in Sazare's own notebooks.** He argues it is a concealment
+  and loses: *it is not concealed, it is placed.* And the thing he actually
+  flags — **fifth intervention in a month, and this one took eleven seconds when
+  the first took two. *I am getting used to it.***
+- **THE NORTH STORE.** Post started 1/12, nobody told him, a clerk mentions it in
+  a corridor as a filing aside after four years on the ward. The old dye-works:
+  thirty by eighteen, north light, stone floor, drain, cart door, copper sink.
+  **The best room he has ever had and there is nobody in it** — and he asked for
+  that, in front of fifteen people, and was right to.
+  **The budget line is three times his estimate**, and a budget is not money, it
+  is a statement of what somebody expects, and he cannot read who or what.
+  **Yagi brings the list**: ~400 articles the second floor has needed in eleven
+  years and could not get, some of them thirty years old, four pages in the hand
+  of a man who died in the ninth year with *please* written at the end. Nobody
+  handed it to him before because he would have tried to do them in his own
+  evenings and it would have killed him by twenty.
+- **THE FIRST ORDINARY ARTICLE (8/12).** Four seconds, light two-thirds, cloud at
+  the junctions — his lifetime standard, unchanged. **The state has settled, not
+  ended.** Which makes the mechanic prospective and not retrospective: his best
+  work is not available on demand, never was, and about a fifth of Yagi's list is
+  only doable at the top of a thirty-per-cent range he cannot reach on purpose.
+  **And then the real wound: he now has an interest.** A version of him has a
+  reason to want things from her that are not about her — not lying, something
+  smaller: managing a person for output and calling it consideration, and **he
+  does not find his own faults.** *It is the twenty-third day, and there is now a
+  thing that woman does for my work.* **He has become a candidate for item four
+  of her own list.**
+  **He decides not to tell her *yet*** — first time in eighteen years he has put
+  *yet* on a finding, and he notes that this time the person standing between him
+  and a procedure was himself.
+- **EXCHANGE THREE (11/12).** The best eleven hundred words on soft-tissue
+  intervals anybody has written, with the author's own uncertainties flagged.
+  **The gift: there is a Shōton user in the Land of Sound**, a woman of about
+  thirty commanding a facility, whose work is combat work and very fine — *and I
+  do not believe she has ever asked why it does not last.* No name in a letter.
+  **He has believed he was the last for eight years and finds out in a
+  subordinate clause from an enemy.**
+  **The ask is not crystal, stated in the first line, which is why he believes
+  it: *I would like the grammar.*** And the tell — **Kabuto has one in the
+  building.** The line about Guren was never about her existing; it was about
+  **what she cannot do.** He is establishing which of the two of them he needs.
+  **The date clears the trial** (written ~30/11) and it does not help, because
+  the second sheet shows him **three months behind on the six-day problem**,
+  derived off published papers and one question about a cohort. Two readings —
+  independent derivation, or a source in the material — and the evidence is
+  identical under both.
+- **TENZŌ NAMED, PRICED, NOT MOVED ON.** One instance with a confound: *senjutsu
+  did it* is what any competent sceptic says, and Jiraiya says he would say it
+  himself and be right to. Tenzō is the only case with no confound. The price:
+  Root, Danzō's desk, and — the one that matters — **asking a man to be evidence
+  for the worst thing that ever happened to him.** Sixty children, he is the one
+  who lived, and the village agreed twenty years ago not to look at him about it.
+  Sazare's terms: **in a room, alone, having been told exactly what it costs, with
+  a month to think, and a no is a no.** *And it has a clock on it now, and I
+  cannot see the face of it.*
+- **THE FIRST LIE.** The truthful answer to Kabuto's ask and the forbidden answer
+  are **the same answer** — there is no grammar, there is a removal — so
+  *I cannot say*, true since he was sixteen, **stopped being true on the 2nd**.
+  He writes it anyway: **a true sentence deployed to produce a false belief**, and
+  logs it in exactly those words. *The reason I do not lie is that I have never
+  once needed to badly enough. And tonight I do.* Plus one added line to make the
+  rest land — and he watches himself do it.
+- **UNKNOWN.** Question six, on the spare Shikkotsu leaf. He cannot write a
+  specification for the instrument because **nobody has ever once stood in front
+  of him without the load already written down** — Yagi, Kanzaki, the board, the
+  study, Ibiki, even Katsuyu's count. Two entities have now asked him to state it
+  himself and he cannot. So he writes **the oldest move he has**: *unknown*, in
+  ink, the first one he has ever put on the *front* of something instead of in
+  the middle. Three hundred and eleven of those in the burial register, being
+  backfilled by a woman of seventy-two in her own evenings.
+  Leaf left unrolled on the shelf, because rolling it up would be putting it away.
+
+**STANDING FROM CH62: the relationship is texture, not subject** — present in
+every chapter, spotlit in none, until something forces it.
+
+**Open into ch62:** Naruto and Sakura; moving day (the fourteen books out of the
+room over the persimmon tree); Yagi's four hundred items; the blade's first
+month sheet due 1/1; **and the clock on Tenzō.**
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He

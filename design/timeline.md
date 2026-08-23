@@ -70,6 +70,7 @@ dated off it.
 | **58** | month 11, the 17th to the 21st. Five days. Nine scenes, ~14,400 words. The exercise breaks; the chain designed; the twelfth Friday paid; **what are we**. POV Tsunade sc9. |
 | **59** | month 11, the 21st to the 27th. Seven days. Eight scenes, ~15,300 words. The declaration; the emotional-state mechanic; the Shikkotsu review; Myōboku's four conditions; the ceiling event; **he moves into the tower**. POV Tsunade sc1. |
 | **60** | month 11 the 28th to month 12 the 2nd. Five days. Nine scenes, ~16,000 words. *Love you too*; the blade carried open; two mountains; **the removal**; 0.11 grams; the lamp that went out. POV Tsunade sc1. |
+| **61** | month 12, the 2nd to the 11th. Ten days. Nine scenes, ~19,300 words. The kiss he initiates; the governor; the toads go home; custody; the north store; **the first ordinary article**; exchange three; Tenzō named; **unknown**. |
 
 
 ### FIXED — where Tsunade actually lives
