@@ -95,6 +95,12 @@ a recorded instruction and release it once, and a conductor would be the
 wrong article for that job. **The six-day degradation problem therefore
 stands, untouched.** Nothing about the sword fixes the ward.
 
+> ⚠ SUPERSEDED 16–20/12 (ch63–64) — see `falsified.md` #1. Six days is
+> starvation of a *closed* article, not decay; open articles draw and do
+> not run out; cannibalistic crystal (20/12) grows. The ward-stone problem
+> was real and has now been solved from a direction this section did not
+> have yet.
+
 **2. Capacity — a continuum.** Every active crystal conducts. **Time
 invested sets the rating.** Two seconds conducts a little; five hours
 conducts a lot. Nothing is off the table and everything has a number.
@@ -212,6 +218,10 @@ cannot stop it.
      chart it, put it on the brass balance.
    - **It does not degrade.** His work loses its order in six days. The rose
      goes on being a rose. The permanence problem, portable, on his bench.
+
+> ⚠ ERA — see `falsified.md` #1. "His work loses its order in six days" was
+> the closed-article era. The comparison did its job: it is where the open
+> article and the cannibalistic crystal came from.
    - **The familiarity is the finding.** Different lattice, same input, and
      it reads as something he already knows.
 4. **He copies it.** Not a probe — a *copy*. He has no notation (ch47 sc2:
@@ -527,6 +537,10 @@ slow; while in it you are deliberate; there is no fast decision.
 
 > **Slug sage mode is a governor.**
 
+> ⚠ STATUS 20/12 (ch64) — entered once, ~90 seconds, eyes only, cannot yet
+> reproduce on demand — see `falsified.md` #5 and `combat.md` §5, §10.
+> Teaching en route via the wager's three questions (ch65 sc5).
+
 The thing Kakashi told him he needs and structurally cannot have — a gap
 between intention and effect — is a **property of the state**. The road does
 not end in power. It ends in the brake.
@@ -547,6 +561,10 @@ will to do it.
 regenerates instead of dying at six days; a splint that grows with a child's
 bone; a blade that repairs its own microfractures. **Infrastructure and
 medicine. Not a combat power.**
+
+> ⚠ FALSIFIED 20/12 (ch64) — see `falsified.md` #11. Its combat debut ended
+> the first fight of his life. It is both. The danger clause below is not
+> falsified — it is now live.
 
 **The danger:** a thing that reproduces **cannot be recalled**. A forest is
 benign because it is a forest. Self-seeding mineral does not compete for

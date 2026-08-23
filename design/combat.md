@@ -35,6 +35,8 @@
 
 **Author-pinned, 17/12 story-time, immediately before the first fight of his
 life.** Everything before this was hypothetical. This file is the reference.
+**Companion: `falsified.md`** — the ledger of every design rule the story
+has killed, with event, date, and chapter. Read both before writing.
 
 ---
 
@@ -223,6 +225,9 @@ seeds, and *a thing that reproduces cannot be recalled.*
 - Note moves, or the hand does anything at all → close, and find her.
 - Governor, eleven clauses, including *if somebody takes it off my body*.
 - The creed: *I am not going to get stronger. Find out how it works.*
+  **(Amendment ordered — `falsified.md` #12. Revised out loud by Jiraiya,
+  a field, a date; scene pending ch66+. Until then, do not write him
+  refusing growth on creed grounds as if the creed were unexamined.)**
 
 
 ## 8. THE STYLE — built by Jiraiya, from the second week of January

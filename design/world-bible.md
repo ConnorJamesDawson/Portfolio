@@ -125,6 +125,11 @@ is what got bloodline clans feared in the first place.
 The MC's arc is butchering his own craft into a weapon. His skill grows and his
 art dies. Power growth must read as loss, never as reward.
 
+> ⚠ AMENDED by author ruling — see `falsified.md` #12. True through Act 4.
+> From Act 5 the story's position is *he needs both*: growth is no longer
+> written as pure loss, and the creed gets revised out loud (Jiraiya, a
+> field, a date — scene pending, ch66+).
+
 ### The lattice, and the note
 
 The copper lattice does two jobs the clan never separated: **shape** (a
@@ -178,6 +183,11 @@ because he is slow, and he is slow because nobody ever taught him. The structure
 is a side effect of a limitation, and his current theory ("slow is quiet") is
 wrong. **His four seconds is a structure limit, not stamina:** under pressure he
 gets one course out, one course is one note, and Kōga's third strike found it.
+
+> ⚠ ERA — state at ch15, long outgrown; pinned 17/12 — see `falsified.md`
+> #3 and `combat.md` §1. The four-second course is a bench calibration.
+> Production is split-second and always was; multi-course at speed is
+> present-day fact. This section stays as the history of how.
 
 **The lattice was named after the wrong thing.** Four hundred years and the clan
 called the copper frame *the lattice* without ever knowing the real lattice is
@@ -357,11 +367,20 @@ Release — he developed **workshop** Crystal Release.
 - **Hopeless at:** speed, clones, armour, anything reactive — everything Guren
   does effortlessly.
 
+> ⚠ PARTLY FALSIFIED — see `falsified.md` #3, #6, #8. "Speed" was wrong
+> (production is split-second); "anything reactive" died 20/12 (ch64).
+> Clones remain the true hard counter.
+
 **He is a fortifier, not a duelist.** He wins fights by having been somewhere
 first and loses every fight he didn't choose. **Assassination is this same
 doctrine pointed at a person**, which is why the trade takes him without
 requiring one new trait — he never becomes fast, brave, or willing to trade
-blows. Progression ladder, costs, and the held-back technique:
+blows.
+
+> ⚠ FALSIFIED 20/12–1/1 (ch64–65) — see `falsified.md` #2. Fortifier
+> *first* survives; the "never" clauses and "loses every fight he didn't
+> choose" do not. Current law: `combat.md` §8 (the four-band style; the
+> sword is the under-five-feet dimension, by design). Progression ladder, costs, and the held-back technique:
 `design/crystal-doctrine.md`. This is a childhood spent at a
 bench instead of a training ground, and it is the honest reason he cannot trade
 blows with Team 7 in Act 4 — a discipline mismatch, not a power-level fudge.

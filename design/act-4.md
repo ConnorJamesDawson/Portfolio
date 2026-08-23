@@ -223,6 +223,9 @@ teacher, not the library** — supervised work is where he actually learns.
   *I don't know what the number is. I know four. I know six.* — and the creed
   that governs the rest of the book: **I am not going to get stronger. Find out
   how it works.**
+  > ⚠ AMENDMENT ORDERED — see `falsified.md` #12. Governs through Act 4 as
+  > written. In Act 5 it is revised out loud — not abandoned — by Jiraiya,
+  > in a field, with a date (scene pending, ch66+).
 - **The trajectory pays off inside the chapter, in minutes rather than
   seconds.** A seed grown off a seed comes up in **fifty-one minutes** instead
   of ninety, and the parent is not consumed because it was never under load. Two

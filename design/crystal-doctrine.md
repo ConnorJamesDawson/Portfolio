@@ -1,5 +1,11 @@
 # Crystal doctrine — the assassin evolution
 
+> ⚠ **ERA DOCUMENT — Acts 2–3.** Accurate as a record of the contract years
+> and of how he got here. Four of its permanent-law statements have since
+> died; each carries a marker below. **Deaths logged in `falsified.md`
+> (#2, #3, #10); current combat law is `combat.md`.** Do not write fights
+> from this file.
+
 **Status:** ruling taken after ch15. This supersedes nothing in the world bible;
 it is the progression ladder that sits under *"He is a fortifier, not a
 duelist"* and explains what a fortifier becomes when he has to kill people for
@@ -9,6 +15,11 @@ money.
 doctrine, it is the fortifier doctrine pointed at a person. He wins by having
 been somewhere first. An assassin is someone who was somewhere first. He never
 becomes fast, never becomes brave, never trades blows, and never needs to.
+
+> ⚠ FALSIFIED 20/12 (ch64) and 22/12–1/1 (ch65) — see `falsified.md` #2.
+> He traded eleven exchanges with a jinchūriki and won; the sword now exists
+> to add a duelling dimension; ANBU-level body plan ordered. Fortifier
+> *first* still stands. "Never" does not.
 
 ---
 
@@ -37,6 +48,12 @@ Defensive. Eleven seconds and leave. Killing tools are disposable and grown; the
 survival tool is a blade, and the long thread — *a blade nobody handed him,
 grown by his own hands, slowly, off-note* — is unaffected and arguably improved,
 because by the time he makes it he will know exactly why it has to be off-note.
+
+> ⚠ SUPERSEDED 18/12–1/1 (ch63–65) — see `falsified.md` #1, #2 and
+> `combat.md` §8. The blade is now carried **open** (no six-day clock, 400+
+> hours proven) and is the under-five-feet band of a designed style: a
+> range-reset, not a last resort. The "demotion" was true of the contract
+> years and is not true now. The long thread paid off exactly as written.
 
 ---
 
@@ -227,7 +244,13 @@ too far. One is in a man who has been buried.
   also the rung that cannot be retrieved, so every throw is a tier-3 disposal and
   a deposit on the clock.
 
-### 6. Growth inside a living body — **held back, possibly forever**
+### 6. Growth inside a living body — ~~held back, possibly forever~~
+
+> ⚠ CROSSED 20/12 (ch64) — see `falsified.md` #10. A live article entered a
+> subject's leg, fed on his chakra, and was stopped only by the maker's
+> close. It is in an incident report written by the Hokage. The held-back
+> line is now **petrification of a person** — the full square — and *that*
+> still holds, possibly forever.
 
 This is the line. It is what the square did *to* him and it is the technique that
 makes him the thing his family died to. If it is ever used it is once, late, at

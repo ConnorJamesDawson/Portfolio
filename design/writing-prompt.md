@@ -6,9 +6,13 @@ For turning the design documents into prose fiction.
 
 ## Target shape
 
-**10,000-word chapters. Multiple POV. Serial length.**
+**Chapters up to a 20,000-word ceiling. Multiple POV. Serial length.**
 
-Eight acts at the density designed, at 10k a chapter, comes to somewhere north of
+> Raised from 10k by author ruling at ch58 planning — a tall ceiling, not a
+> quota. Chapters end where they end; do not pad to reach it and do not
+> compress to duck it.
+
+Eight acts at the density designed comes to somewhere north of
 **400,000 words** — four books' worth. That is a serial rather than a novel in
 the trade sense, which is entirely normal for the medium, but it changes the
 planning:
@@ -26,13 +30,15 @@ planning:
 workshop morning — at around 2,000 words. If the register is wrong, everything
 built on top of it is wasted. Iterate on that one scene until the voice is right.
 
-**2. Never generate a 10k chapter in one pass.** It will sag in the middle and
+**2. Never generate a full chapter in one pass.** It will sag in the middle and
 summarise at the end. Write each chapter as **two or three scene-sized
 commissions of 3,000–4,000 words** and assemble, then do a joining pass for
 transitions and rhythm.
 
 **3. Supply the design documents with every request.** At minimum
-`world-bible.md`, `character.md`, and the act file in question. Continuity across
+`world-bible.md`, `character.md`, the act file in question — and, from Act 5
+on, **`combat.md` (warning block) and `falsified.md`, which override any
+older rule they contradict.** Continuity across
 a fifteen-year story will not survive being remembered rather than read.
 
 **4. Keep a continuity ledger** and paste it in as the story grows. See the list
