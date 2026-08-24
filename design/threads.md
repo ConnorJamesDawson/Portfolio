@@ -2480,6 +2480,113 @@ fuse pile at four and growing a scene at a time; Naruto's rematch
 ~mid-month 2; Saeko's debt standing; the two bells and the gamble kanji
 still hers, unasked.
 
+## C18. CH69 — THE MAKER'S MARK — **WRITTEN**, seven scenes, ~7,000 words
+
+19/1 - 31/1. **The Hime line.** Fixed by the writing:
+
+- **GENESIS, CLINICAL.** Tachibana Rei, chunin, 24 — splint 44-B beaten by
+  chest bindings resumed *against advice, citing operational requirements*.
+  Survey: 61 binding presentations in three years plus the *cause unstated*
+  dark figure; issue unchanged forty years; **no box on the intake form.**
+  The honest dual-motive entry quotes 30/12: half manoeuvre, half true,
+  inseparable. The clipboard named as insulation; the occupied-instrument
+  theory logged as his.
+- **CLEARED AT THE FIELD.** Fukasaku: drawing-for-self-keep is public;
+  storage, release-grading, and the spring stay behind the line — *the
+  mountain has no objection to brassieres.* **Jiraiya: crate-volume draw
+  articles make the blade a rounding error — "you're not compromising the
+  spring's cover, you're manufacturing it. Wholesale. In lace."** (*"The
+  pilot garments will not have lace. Lace is a snag hazard"* — read out at
+  the board.) His condition: **no export deals without him.**
+- **THE DOCKET (Tsunade POV).** Both motives read in four seconds; the
+  theory identified as HER methodology reproduced and aimed back — *never
+  prouder of anything I did not give birth to. The diary said yes; the
+  diary has no idea what it signed.* **THE NAME: Hime.** Rationale one:
+  every woman can say it, rank without clan (*never one family's product —
+  ask Kiri why*). Two: it is what the garment is for. **Three: withheld —
+  "between the fabricator and the name."** Reflex veto (December ruling)
+  dies mid-sentence; approved; *a love letter hidden in my own filing
+  system.* **Structure: he is fabricator only; design authority is a
+  women's board** (Shizune, Sakura, ward matron, roster rep, Tsunade
+  chairing) — *"the users hold the specification... I have never once been
+  thrown by my own chest"* (minuted verbatim). Oversight = ONE form:
+  side effects of prolonged crystal contact.
+- **ATTACHMENT TWELVE — the first returned tease.** Lead-model
+  appointment: term life (citing the paper of 20/12); compensation nil;
+  first of the queue in perpetuity, bespoke gratis (*the account cannot be
+  settled in ryo*); one duty — fitting protocol, citing *incident of the
+  eleventh, one (1) nosebleed, treated on scene*; and notice given: he has
+  identified the responsible researcher, reviewed her methodology back to
+  a certain towel, finds it excellent, **and the teasing now runs both
+  directions — eleven years of patience and a filing system.** Delivered
+  through her own filing system, with a reference number. Neither
+  mentions it at dinner; the silence sits at the table *like a third
+  guest both of them liked.*
+- **THE FITTING.** Theory HOLDS — forty minutes at November-lethal range,
+  working vocabulary as armour — and the better finding outranks it:
+  *she is enjoying this*; shop talk, strap geometry argued like
+  territory; **"not a moment — a workbench: a thing that is ours, that
+  neither of us brought to the other finished."** Minute forty-one: one
+  stretch, one flat line for the minutes, down he goes — eleventh
+  consecutive trial. *The metering was never mine, and I have stopped
+  wanting it to be.* Attachment thirteen commissioned: *"I find I'm a
+  collector."*
+- **SAKURA AND THE INFANTRY (Sakura POV).** Hand up before the briefing
+  ends; *founded on the heavy cavalry, applying from the infantry.*
+  **Built in her sizes** — every band its own load case: *support is a
+  function of movement, not mass, and the wearer most likely to be
+  inverted mid-engagement is the wearer the current issue serves worst.*
+  The corridor circuit; the difference is *nothing* — attention she never
+  knew she was spending comes free. On record: no adverse effects. Off:
+  **"I'm not giving it back... my lawyer is the Hokage, and I do her
+  filing."** Column: *the most egalitarian sentence anybody has ever
+  said about my chest, said in a docket without noticing.* Kurenai
+  volunteers; genin ask about training weights. *He thinks this is a
+  medical pilot. It's an industry by spring, and I will be absolutely
+  unbearable about it.*
+- **FUNCTIONAL LEISURE WEAR.** Pilot: adverse effects none, n=31,
+  **return rate zero of thirty-one** — Shizune invents the *retention*
+  box (100%). **The fame pattern**, 11 logged instances: gratitude
+  (fast, slightly ferocious — *my sister cried and then did
+  handsprings*) then, four seconds later, the requests (halter for
+  mesh, harness band, under-plate, asymmetric grading, *was there a
+  list*). The list: 141 by Friday, doubling; roster ceiling ~400; the
+  capital clothier: any quantity, *does the maker do outerwear* —
+  **"garments that do something, for women who do things — call it
+  functional leisure wear — whoever holds this crystal holds the
+  category."** Two million ryo year one; **the hospital winter deficit
+  funded twice** (framed). The family trade resumed: *the shop is back
+  — it sells load paths, the Hokage chairs its board, its first
+  product is named for her... Kohaku would have run the counter. I am
+  not going to write the rest of that thought tonight.*
+- **THE BRUSH — the maker's-panel thread PAID.** Four evenings off
+  twelve nights of fifty-pass data. Crystal back drains static (his
+  mother's frames sat quiet in spark-dry cold — the first property he
+  ever knew); 41 teeth individually grown, graded rim-to-centre,
+  loupe-finished to the goes-inside-people standard; handle to HER
+  grip (calibration-rig data, noted as undocketed secondary use);
+  hand-heat throughout — *resuming a held hand*. Nothing exists to be
+  admired; *the most Ruri object he has ever made.* **THE MARK: first
+  of his life, article 901** — cut where only the resting thumb falls;
+  his mother's keeper-knot simplified by one stroke, the old grammar
+  for *a child of the house signing work in the family style but
+  their own*. The sword's panel stays *unknown* — *because the sword
+  still is. This one I know.* The giving: handle first, "functional
+  upgrade... that is the whole of the pitch." Her thumb finds it; she
+  goes still; *"and it's on a hairbrush."* The rationale, level: *the
+  mornings are spoken for, and one day the missions will be too...
+  it says it where only you can hear it.* **Shelved beside the blue
+  pinwheel — a curator's motion, the founding of a collection — and
+  she does not go to the window.** The fifty passes go uncounted:
+  *a first time for everything.*
+
+**Open into ch70:** the Hime board standing (export parked under
+Jiraiya's condition; outerwear unanswered); attachment thirteen owed;
+answers two and three owed; the thumb folded; the creed's date unset;
+the fuse pile at four plus the whole project as material Jiraiya now
+possesses; Naruto's rematch ~mid-month 2; the shelf holds a pinwheel
+and a brush.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
@@ -2501,8 +2608,10 @@ still hers, unasked.
   not telling Ino.
 - **Kanzaki's 311 backfills.** *Unknown*, in ink, in her own evenings, at
   seventy-two. **A promise the book owes and must keep.**
-- **The maker's panel.** Blank, on the inside face where only the owner looks.
-  He has made nine hundred articles and never marked one.
+- **The maker's panel.** **PAID (ch69 sc7):** the first mark of his life —
+  his mother's keeper-knot, one stroke simplified — on the heel of her
+  hairbrush, article 901. The sword's panel stays *unknown*, "because the
+  sword still is." 
 - **The governor's stray clause.** *Including if somebody takes it off my
   body*, left in the notebook as an open query.
 - **The fishmonger.** Nobody costed him. Loaded.
