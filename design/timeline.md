@@ -84,6 +84,21 @@ dated off it.
 | **66** | month 1, the 2nd to the 9th. Eight days. Eight scenes, ~14,000 words. Naruto in the yard (*glad*); **the attachment is Tenzō**, effective Mon 6/1; Friday's three clean negatives; **the banked question** (where does an open article keep what it draws); Shizune's true sentences; the ferry law (*through and out*); the hat, 340; **the five-ryō win and the four seconds**; the Tarugi audit; the slab — *we'll wait*; **the IOU completed: PAID IN FULL, the seller confirms she was overpaid**; snow. POV Tsunade sc3, sc8; Tenzō sc4; Shizune sc5. |
 
 
+### FIXED — the standing week (as of ch70–72; check before scheduling ANY scene)
+
+| Slot | Owner |
+|---|---|
+| Mon/Tue/Wed/Fri mornings, six sharp | The field (Jiraiya) |
+| Noons, every training day | **Hers. The through-and-out law: no items at the tray.** |
+| Afternoons | The yard: Hime fabrication + spring research (Tenzō at eight feet) |
+| **Thursdays, entire** | **Hers. No field, no yard, no board, NO ENTRIES.** |
+| Fridays, four o'clock | Katsuyu's session, the quartermaster's yard |
+| Tuesday evenings | **Naruto's apartment (standing, the chair)** |
+| One Sunday a month | The family dinner, the second floor |
+
+**Do not schedule work, reviews, tours, or meetings on a Thursday. Ever.
+This has been violated once (ch72, caught by the author) and corrected.**
+
 ### FIXED — the price scale (established ch66, Tarugi market, 8/1)
 
 Do not re-derive prices; check against these. A street snack runs ~10 ryō,
