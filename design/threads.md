@@ -2223,6 +2223,124 @@ the banked battery question reopens; Tenzō at eight feet with a kept pattern;
 the sake drunk on the ninth; the pinwheel loaded; Naruto's rematch ~mid-month
 2; Saeko's certificates seen and the debt still standing.
 
+## C16. CH67 — THE DEEP END — **WRITTEN**, seven scenes, ~8,500 words
+
+9/1 – 13/1 dawn. **Deliberately light — the interlude chapter.** Fixed by the
+writing:
+
+- **THE SAKE (9/1).** The wager honoured and *resolved, twice, in opposite
+  directions* — both women certain, both with a margin note. He declines to
+  rule, citing a conflict-of-interest clause he wrote.
+- **THE MISSING ROWS (9/1, the audit that drives the chapter).** Two columns:
+  everything large is done and dated — *the left of the page is a list of
+  miracles* — and the small rows are empty on his side: never walked without
+  a destination, never eaten at a stall, **never given a gift he chose**
+  (rose undelivered, hat ran the other way, pinwheel she won), never asked a
+  non-load-bearing question, **never made her laugh on purpose** (nine on the
+  eighth, all accidents). The reframe: *"too fast" is an inventory, not a
+  complaint.* She has been filling her column **unilaterally** for eight
+  weeks — *she is owed courtship, and she would never ask.* Objective:
+  supply the small rows. Literature: one volume, annotated, in his coat —
+  and if she ever finds out where the syllabus came from, *the man who gave
+  it to me is going to need the hospital he is banned from.*
+- **KATSUYU'S FRIDAY (10/1).** The market paid whole from memory (the nines
+  and the levy; the hat at 340 — *"To whom?" / "To her. For me. I am wearing
+  it."*). The courtship declared to one witness: *on the day it goes wrong I
+  want one witness who knew the engineering intent.* Her specification, the
+  chapter's law: **you cannot surprise her with competence — the material
+  she has no defence against is the attempt itself: tried sincerely,
+  slightly wrong, clearly practised.** Plus: *you were not always the only
+  subject in the yard*, and her Shizune impression ("Minuted") gets him to
+  laugh out loud, alone, unbudgeted. The capped question stays capped —
+  *you gave me the market instead of the fuse and I am pleased with the
+  trade.*
+- **CHAPTER TWELVE (10/1 night).** Reading as editor ≠ reading as
+  application: substituting the two actual persons is *a different
+  operation, conducted by entirely different equipment.* Two interruptions,
+  compounding (the capsaicin curve — a cousin's copper, age nine; tolerance
+  is built in graduations, not by eating the hottest thing twice). **THE
+  ENCODED PROTOCOL enters the grey notebook** — *Tolerance study. Subject:
+  self. Stimulus class: cf. II-12… Step one is finding the limit* — plus
+  the honest coda: *the limit has never once been where the protocol thinks
+  it is… proceed anyway.* **Fuse inventory now: (1) the annotated copy,
+  fourteen numbered notes in his hand; (2) the II-12 protocol entry; (3)
+  Jiraiya's filter, on record since 30/12. Detonation parked — chapters
+  away; the pile only grows.**
+- **THE BATH (11/1) — the set piece.** The proposal in the flattest working
+  register; prep like a theatre before a procedure (Tarugi temperature
+  verified twice, raking lamps); **the towel, matter-of-fact, "budge up"**
+  → white noise, eleven words recycling, the four-count at sixty per cent.
+  **She drives the entire first half** — handhold conversation, *"it's
+  going beautifully"* — then locates the limit for him: **the crawl**, the
+  length of the cedar tub, unhurried, eyes on his. Near-syncope, diagnosed
+  by the patient (*vasovagal… professionally offended*), and the line,
+  dead level in the camber register as the nosebleed starts: ***"If you
+  are going to do something that sexy, please warn me. I would rather not
+  pass out in front of you."*** **The Mystical Palm spent on a nosebleed**
+  (*"tell anybody what I just spent it on and I'll deny it under seal"*),
+  and then **the kiss — a paragraph, not punctuation**; his participation:
+  reaction, the shore and the tide; the white noise *retires*. Back online
+  at the halfway mark, exactly as specified. The missing-rows confession
+  delivered in the water — *you decided I was worth the shortfall; I do
+  not intend to be worth the shortfall; this was step one* — verdict:
+  *nicest thing anybody has done for me in years, and I include the
+  holiday.* **THE EXIT:** three counted seconds of honest scholarship →
+  **tactical submersion** → the laugh through eighteen inches of water,
+  past every catalogued denomination — *the true note of a structure, the
+  one it gives when nothing is asked of it.* **THE VOW:** nothing he has
+  ever held, grown, mended or guarded goes ahead of that sound. **THE
+  STUDY AMENDED: the objective is not tolerance, it is the sound — the
+  literature demoted from syllabus to parts catalogue. Continue the
+  scenes.** Counting resumes: ten, eleven, twelve.
+- **HER LOG (sc5, POV Tsunade).** Filed whole as ***he tried to do
+  something nice for me*** — true, so nothing itches; **no source-hunting,
+  no suspicion.** The comedy banked for years (*the finest observational
+  instrument in the Land of Fire… blue-screened*; her caseload: *one (1)
+  nosebleed, romantic, self-inflicted, patient stable; Shizune can never
+  know; Shizune will know by Tuesday*). Owns the crawl: *I regret
+  nothing… that is called assisting a study.* **The looks-proof, her
+  keystone:** two months in the same bed and he still budgets three
+  seconds and pays with his sinuses — *every man who wanted the packaging
+  solved the looking inside a week… he fell for the operating system.*
+  *Nobody has ever audited me for the purpose of owing me more.* **She saw
+  the counting.** Closing line: *Gift received. Ledger uneven in my
+  favour… let him keep trying to fix that forever.*
+- **ROW ONE (12/1).** The squid stall by the east wall — no theatre, no
+  protocol, *structurally free of purpose*; **he pays: the first food he
+  has ever bought her**, eleven ryō, entry one in a three-year-empty
+  column. Context is a henge — nobody knows a Hokage at a squid stall. The
+  boy, the dropped squid, ***"Bollocks."*** — laugh eighteen, in the wild,
+  ruled admissible. The long way home taken on purpose, first of his
+  life. At the door, in her signing register: **"Row one."** She read the
+  column format out of one bath conversation and is carrying it.
+- **SUNDAY.** Tenzō off-clock with roasted chestnuts, the most words in
+  six days: *I was built by people who started from the man they wanted
+  and worked backwards — it makes weapons. Jiraiya-sama starts from the
+  man he's got and works outwards — it makes people who happen to be
+  dangerous. I have never found a file he ruined.* And: **"You'll keep
+  the bench."** The creed read in all four books and NOT revised — but a
+  **pending-amendment note** written under it in book four only: *the
+  author at fifteen built for one occupant; the load case has changed;
+  there is a sound now… first half under review, effective tomorrow.*
+  (Ledger #12's field scene remains Jiraiya's to conduct — this is the
+  survey stake.)
+- **MONDAY DAWN (13/1).** She is awake at the top of the stairs, not
+  pretending otherwise: **"Noon. Every training day. The noons are mine —
+  it's in the diary, and the diary doesn't lie."** And: *don't let the
+  old fool see the counting.* (She saw the counting; he files that she
+  carried it a day and a half and returned it as a parting gift.) The
+  north fields: frost, two wooden swords speared in hard ground,
+  **Fukasaku on a folded cloth with the first answer**. *"First we find
+  out about the hesitation… uncap it after."* The capped question rides
+  to the field.
+
+**Open into ch68:** the first morning — the hesitation, in a field where
+the answer is allowed to be no; Fukasaku's first answer delivered;
+**the battery question uncapped with Jiraiya in the room**; the withheld
+thumb (wood) to be named; the creed revision proper (Jiraiya, the field, a
+date — ledger #12); the noons; the fuse pile growing one scene at a time;
+Naruto's rematch ~mid-month 2; Saeko's debt still standing.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
