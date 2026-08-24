@@ -11,6 +11,15 @@ For turning the design documents into prose fiction.
 > Raised from 10k by author ruling at ch58 planning — a tall ceiling, not a
 > quota. Chapters end where they end; do not pad to reach it and do not
 > compress to duck it.
+>
+> **DENSITY FLOOR — author ruling after ch69.** Chapters 67–69 ran 7–8.5k
+> and brushed over content. The working target is **14k–20k: eight or nine
+> scenes of 1,800–2,600 words.** The failure mode is not short scenes — it
+> is **summary where a scene belongs**. If a beat earns a paragraph of
+> narration, it usually earns a scene; montage and "the week settled into
+> a rhythm" passages are a smell. Dramatize: secondary characters get real
+> scenes, training days happen on the page, meetings are staged not
+> reported, and builds at the bench are sequences, not sentences.
 
 Eight acts at the density designed comes to somewhere north of
 **400,000 words** — four books' worth. That is a serial rather than a novel in
