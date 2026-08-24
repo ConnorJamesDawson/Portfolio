@@ -224,10 +224,15 @@ seeds, and *a thing that reproduces cannot be recalled.*
 - Never a second blade while one is out.
 - Note moves, or the hand does anything at all → close, and find her.
 - Governor, eleven clauses, including *if somebody takes it off my body*.
-- The creed: *I am not going to get stronger. Find out how it works.*
-  **(Amendment ordered — `falsified.md` #12. Revised out loud by Jiraiya,
-  a field, a date; scene pending ch66+. Until then, do not write him
-  refusing growth on creed grounds as if the creed were unexamined.)**
+- The creed — **REVISED 16/3, ch74 sc2, north fields, 07:11, witnessed;
+  see `falsified.md` #12.** ~~*I am not going to get stronger.*~~ Struck.
+  Standing text: ***I am going to be strong enough that nobody standing
+  near me has to be lucky. Acceptance test: anything I hold, I can say who
+  it is for — out loud, to them, on the day they ask. Where I cannot, I
+  say that I cannot, and say when I will be able to, and I am held to the
+  date. Find out how it works.*** Do not write him refusing growth on
+  creed grounds; the clause that did that is dead. **Do write the test
+  catching him** — it is meant to.
 
 
 ## 8. THE STYLE — built by Jiraiya, from the second week of January

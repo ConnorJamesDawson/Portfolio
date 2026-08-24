@@ -3204,6 +3204,290 @@ five undisclosed; Hinata's training; **midsummer: the rematch**; answers
 two and three; the spring project's medical file still sealed for the
 bench.
 
+
+## C23. CH74 — THE SAME MUSCLE — **WRITTEN**, ten scenes, ~25,100 words
+
+Month 3, 16th–20th. **The creed revised; three refusals.** Fixed by the
+writing:
+
+- **THE MORNING AFTER (Mon 16/3, north fields).** Frost out, ground soup
+  until the fourth month. The three findings delivered as findings.
+  Finding one (the touch was purchased — ridge, knuckle, seeded path,
+  four inches of bait, clause eleven) filed by him as *an engineering
+  result*; **Jiraiya rejects the filing**: *you won an exchange against a
+  Sannin by knowing her better than she was defending; there is no
+  discipline where that gets recorded as masonry* — and the standing
+  diagnosis, *you'll hand the credit to a clause, the clause to a dead
+  sealmaker, the sealmaker to your mother, and nobody in the chain is
+  you.* Finding two (footwork held on unsurveyed ground) volunteered
+  before he was asked. **Finding three corrected**: he did not trust the
+  ground, he trusted *the impossibility of the harm* — a condition that
+  cannot be manufactured on a road — so the year is not about ground:
+  ***it's about becoming somebody you'd trust with a stranger.*** Then:
+  **"Say the creed."**
+- **THE DATE (Mon, continuous. POV JIRAIYA).** Opens on Ame — *he had
+  taken the brakes off a boy before… and he is dead* — entered once and
+  never again. The creed read as an article: two sentences, two ages;
+  *find out how it works* is eleven years old, the first was **laid over
+  it at fifteen, on a deck, to shut it**. **IT IS A GOVERNOR. Trigger:
+  CAPACITY** — *not a rule about what I do; a ceiling on what I am able
+  to do at all.*
+  **HIS DEFENCE, the whole square said out loud for the first time:** the
+  hands came up with no decision in them; the spike a hundred and forty
+  seconds early; twenty-two men and a standing order (*if a sentence is
+  interrupted, you carry out the sentence*); four men already on the
+  platform, nine feet closer; uncle, mother, father, **Kohaku, who got
+  both bound hands up**. *The timing was mine and I have never once
+  claimed I did not see it.* Therefore: you cannot put a clause on a
+  decision that does not occur, so govern the only reachable variable —
+  **a hand that cannot reach.**
+  **JIRAIYA'S COUNTER — not "it was a mistake": "It doesn't work, and you
+  wrote the proof."** 20/12: same mechanism, same absent decision, clause
+  in force and perfectly obeyed, and what came out was *a thing that
+  grows*. Capacity arrived anyway. **What stopped the twentieth being the
+  square was THE CLOSE** — eleven years of craft, not weakness. *Same
+  hands, same absence of a decision; the entire difference is the eleven
+  years, and your creed has been calling those eleven years a betrayal.*
+  Sazare's own words for it: ***"Staying small does not make the accident
+  small. It makes the accident UNSKILLED."***
+  **The promise named: Kohaku.** Jiraiya refuses the consolation on
+  principle (*she's not available for comment — that's what makes it a
+  real promise, and why breaking it costs*), and refuses it again in his
+  own notebook, where he privately holds that the fault was the timing
+  and that the family were never walking off that platform — **and does
+  not offer it**: *handing a man absolution he has not asked for is how
+  you lose him.*
+- **FUKASAKU'S SECOND ANSWER (same scene).** Second coat of *how is a
+  sage trained*: **the mind that consents to get out of the way** — not
+  calm (*a calm mind still grips*) but **a mind with nothing left to
+  defend when the flood arrives**, reached one way only: by having
+  settled *what it is for*, out loud, in advance, witnessed. Myōboku's
+  rite: said at nine, again at twenty, again at forty, on a stated day,
+  every time it changes — *an unsettled account is a grip, and a mind
+  that grips is where the world stops moving through and starts
+  collecting.* **His verdict named as a verdict**: an inquiry with a
+  sample of one, no counsel, no witness, finding against himself, served
+  five years without appeal — *that is not what you are for; that is what
+  you decided you must not be allowed to become.* **And he carried it
+  into the flood at seventeen: "you have a hand that by rights ought to
+  be standing on a plinth in a garden on my mountain."** Jiraiya has been
+  running the mountain's rite on him for nine weeks without saying so.
+  **STRUCK 16/3, 07:11, witnessed.** Replacement forbidden that morning
+  (*a thing written the hour it's demanded is a slogan*); **due Friday,
+  six sharp, in his own hand, in all four books, book one brought to read
+  it out of. "Don't write me a creed. Write me a SPECIFICATION."**
+- **THROUGH AND OUT (Mon noon. POV Tsunade).** He honours the noon law
+  with his hands shaking on a bowl rather than spend her twenty minutes.
+  **She suspends her own law — formally, as a minuted amendment, once,
+  without precedent** — because a man who cannot take an unspecified
+  thing can take a specification. *You are not traffic in this room.*
+  Her private accounting: she wanted this (ch57: *five's the one I'd give
+  you — he doesn't want to be strong*), she signed the order twice, **and
+  the bill is a boy who cannot finish a bowl, and it is not overpriced,
+  and she will never tell either of them how much of it she wanted.**
+  Ruling: **do not fix it. Feed him and be there on Friday.**
+  **HIS QUESTION — "What are you for?"** — and **she withholds the true
+  answer** (the vault entry; the sixth face) *because he would take it as
+  a template and write me into the front of four books by Friday.* Gives
+  the usable one instead: a **scope**, not a creed — *making sure this
+  place stops eating the people I can see* — and the clause that unlocks
+  the whole chapter: ***"Don't write down what you ARE. Write what you're
+  FOR — and make it something you can be caught failing at."*** He
+  recognises it instantly as an acceptance test.
+- **THE NO-WARNING CASE (Tue 17/3, the yard. POV Hinata).** Certification
+  with the veins up, permission asked and granted (*nobody else has ever
+  asked me for anything in this yard*). Articles clean — **engineered to
+  be uninteresting to a dōjutsu**, a harder spec than avoiding seal-forms.
+  **THE SWORD UNDER THE EYE: "It has no source."** Incoming, no outgoing,
+  nowhere for the incoming to come from — a small inexhaustible arrival,
+  filling a long time and not full. **She lets the veins go, declines to
+  describe it to anyone, and reports the fact of it inside the hour:
+  *"It is available to me to be curious and I have declined."*** Second
+  thing of his she has held. His finding back: the clan's real
+  inheritance is not the eye, it is a **disposal system** — what a person
+  does with the seen in the eleven seconds after.
+  **THE COMMISSION.** She has found the flaw herself (*you cannot
+  rehearse a surprise*) and, using the clipboard, **orders her own
+  ambush**: in front of him, without warning, at his choosing, inside a
+  fortnight, *specifically not made comfortable*, and minuted as hers so
+  he carries none of it. His counter-terms: **(1) he will not manufacture
+  the encounter — he will only stop preventing it, and discloses that he
+  has been quietly arranging her afternoons around Naruto's weather since
+  the fourth, brokering by omission, stopped as of that sentence;** (2)
+  **the acceptance test is not "did the sentence arrive" but "did the
+  structure stand up afterwards"** — nineteen minutes, the fourth. Her
+  report: *this is the first thing I have ever asked anyone for* — and,
+  entered honestly, *glad*.
+- **THE QUESTION (Tue evening, the apartment).** The chair tipped four
+  hundred times, creaking, bedded in. **Naruto's homework**: four steps in
+  a creased notebook, arrived at in a fortnight from a forty-minute tour
+  — it drinks; it doesn't fill; so it's leaking or keeping; it isn't
+  leaking; **so it's a jar** — and the route he took to it: *a thing that
+  takes stuff in and doesn't let go and never gets full and everyone
+  looks at it and sees a sword. I know what that's like from the inside.*
+  **THE REFUSAL, disclosed before it could be extracted:** there is an
+  answer, he has had it since 14/1, three hold it and two are not human,
+  and he is not giving it — *because the alternative is lying to you, and
+  I cannot, and if I could I would not do it to you specifically.* **The
+  chair goes over.** Naruto's four seconds (*you sound like every
+  grown-up I ever met; I counted, after — it was everybody*), and the one
+  distinction Sazare will make: ***nobody ever told you there was one.***
+  Nine seconds and he arrives: *that's actually the whole thing.* **The
+  undertaking, written in the diary, unconditional and undated**: the
+  circle to rule, the ruling brought to that table in person either way,
+  **especially if it is no**, no lie in the interval. Cost: one chair,
+  repairable; eleven minutes; and the position — *I am now a man who
+  keeps something from Uzumaki Naruto.* **Finding for the Friday: the
+  spring's cover has no expiry, and a cover with no expiry is a house.
+  The circle must rule in advance, not in arrears.** And: **the most
+  dangerous reader of the spring is not a foreign power — it is a
+  sixteen-year-old who has spent his life being the thing nobody
+  explains.**
+- **THE THUMB (Wed 18/3, field then yard).** Unfolded at last (held since
+  27/12, behind the east bathhouse, *and this one you are going to want
+  to be told badly*). **Fifth layer: WOOD** — not a fifth range but a
+  layer running *under* all four: free at twenty feet, the only article
+  he can put past forty, and under five *a root that shifts an inch under
+  a committing foot is worth more than the sword.* Held back three months
+  deliberately: **a boy with the creed in force finds the ceiling and
+  files it under *fine, that's the limit*.** The ceiling, said aloud: he
+  matches finished articles; a tree is grown wood, not made wood; the one
+  time he made it (21:19, 14/10) the reference was on the bench. **"There
+  is exactly one source of made wood on this continent."**
+  **THE AUDIT.** The want written down first so it cannot run the audit
+  from underneath — *and I want it for me… the first thing in my life I
+  have ever wanted for the purpose of being harder to kill, and I was
+  permitted to want it at 07:11 on Monday.* The ask is **not** the ch47
+  question (*I do not ask that man where he got it — that stays shut for
+  life*): it is a **commission**, hand-sized articles, weekly, a year.
+  **It passes his own rule and is still wrong.** Three legs: (1) **it is
+  the shop's shape — output on order, indefinitely, from the one man
+  alive who was manufactured**; (2) he cannot refuse me — the attachment
+  order has no clause running that direction; (3) **the rose was the one
+  free making of his adult life and I was about to convert it into a
+  supply.** *Finding: no.* **Price: the fifth layer, permanently, by his
+  own decision, at about 14:20 on 18/3 — and he found it in four
+  minutes.** *The no is the same muscle as the yes. I understood that as
+  encouragement in January. It is a specification.* Then: he will not let
+  it be a decision made about a man in a room he was not in — *that is
+  also the shop* — and crosses the eight feet.
+- **THE ARTICLE, NOT THE MAN (Wed evening. POV TENZŌ).** *Tenzō had been
+  weighed a great many times and had never once been in the room.*
+  **LEG TWO IS WRONG, and the true version is worse: "I would have said
+  yes because I want to be KEPT."** Nine years in a place that never had
+  to make him do anything because it was the only building with a use for
+  him; *if I am useful they will keep me, and if I am not I am a disposal
+  question, and I watched the disposal questions get answered.* He would
+  have said yes inside two seconds, meant it, been glad, and paid for it
+  out of an account neither of them could audit. Sazare strikes leg two
+  and enters the replacement verbatim in front of him.
+  **THEN HE HOLDS THE DOOR: "Ask me anyway."** Kakashi built him doors
+  for eighteen years (~forty used) — *the thing that has never happened
+  is being the one who DECIDES.* So Sazare asks, at full volume, knowing
+  the yes would be worthless and the no would cost him the layer.
+  **And Tenzō takes twenty seconds that belong to him and says NO** —
+  three reasons, the third being *you'd GET it; a year of fresh articles
+  and you'd be making wood in a field by next spring… and the version of
+  me that wants that is nine years old and lives in a corridor, and I am
+  twenty-seven, and I get to overrule him.* **Closed by him, on his date;
+  reopens only if he raises it.**
+  **THE BUTTON.** Worked off the third hole down on the left and handed
+  over: *you refused the thing that was put in me, so you can have the
+  thing I made.* The gap in the row is deliberate and visible and he
+  declines to say the sentence out loud. Sazare puts it in **the coat,
+  not the shelf.** File: *Interpretation: withheld. Interpretation: I was
+  in the room.*
+- **CHAPTER TWELVE (Thu 19/3, the bath. POV Tsunade).** Sentence executed
+  without notice — and **she chose the date for the opposite of the
+  stated reason**: not grown-back composure, *a week that had taken
+  something off him*, which she will never tell him. The reading in the
+  grading voice; hair *like ink poured out of a broken pot* (fault
+  fifteen); the elbow geometry sketched in December on the back of a
+  fabrication docket. **And then he is FINE.** Seven paragraphs past a
+  place four attempts never reached, and he had not noticed. **The
+  mechanism named: the interference pattern is gone** — the power was
+  never in the prose, it was his own signal coming back off a page, and
+  *nothing in it is as good as Saturday and I do not have to imagine one
+  single line of it, and I am never going to have to again.* Her finding:
+  *I built an execution and he turned it into a receipt.* **The appeal:
+  she takes the book and reads him four pages badly, doing all the voices
+  in the same voice.** **THE COUNT BREAKS** — four in a row round the
+  innkeeper, one of them his, series unrecoverable; first break since 9/1;
+  entered as a finding: *a ledger that cannot survive its own surplus has
+  a design fault, and I have never been so pleased to condemn an
+  instrument.*
+- **CLAUSE FIVE (Thu, after).** The yard reported at the hair; her hands
+  stop on the twenty-second pass. **She undertakes to fix the attachment
+  order** (*there is nothing in it that lets that man say no to YOU*).
+  **The button sewn on** — third down on the left, between his second and
+  fourth, thread cut with her teeth: *in a pocket it's a keepsake; he
+  wore it in the open for eighteen years on the side of himself people
+  look at.* His finding: **he has run the four-wrong-objects read on
+  eleven hundred people and never once on himself, and found a policy
+  where the objects should be. He has one now.**
+  **CLAUSE FIVE, drafted the night of 4/2, written last, sealed six
+  weeks:**
+  ***"The article is not consumable. It is not to be replaced — not on
+  wear, not on failure, not on obsolescence — and no successor article is
+  to be manufactured at any point by any hand. On failure it returns to
+  the fabricator, who repairs it by hand, and the repair is not to be
+  concealed. Where the fabricator is unavailable, the article waits."***
+  His reading: clauses one to four specify the article by the **model**;
+  clause five specifies it by the **maker**, and there is no engineering
+  reason for a word of it — *therefore it was never a garment clause.*
+  Written five weeks and three days before the papers, in the only
+  channel then available, and sealed because in the second month it would
+  have said the unsurvivable thing. His entered line: ***"Received,
+  understood, and reciprocated in every particular by the undersigned,
+  who has no successor either."***
+  **THE TREATY GETS ITS FIRST CONDITION.** He raises the twenty-six
+  hours: *a cover that depends on one person is not a cover, it is a
+  friendship*; the treaty has a **direction** (daylight) and no
+  acceptance test. Her condition, given straight: ***"The day somebody
+  could take this hat off me on a Tuesday, and the lists would still go
+  up on the Wednesday."*** Checkable; she checks it monthly; the answer
+  has been no every time and *slightly less no for about four months, and
+  I decline to say why.* Signed both names, second larger. **He does not
+  ask who she has in mind. He has known since a Tuesday in the old
+  quarter.**
+- **BOOK ONE (Fri 20/3, dawn).** Four books out together for the first
+  time. **Book one is small, cheap, restitched at seventeen, and the hand
+  is terrible** — strokes laid too hard, the pen dragged where a hand
+  that was afraid pushed it. **And it is a COPY**: the original was
+  written at fifteen on a boat and is gone. The four days set out as
+  loads, and the finding: *every one of these is the same object — a
+  thing HELD, and whether the holder can say who it is for.* Three drafts
+  burned; the fourth took under a minute.
+  **THE AMENDMENT, entered in all four books, the struck clause under a
+  single ruled line with *16/3, 07:11, witnessed* in the margin:**
+  ***"I am going to be strong enough that nobody standing near me has to
+  be lucky.***
+  ***Acceptance test: anything I hold, I can say who it is for — out
+  loud, to them, on the day they ask. Where I cannot, I say that I
+  cannot, and say when I will be able to, and I am held to the date.***
+  ***Find out how it works."***
+  Jiraiya reads it twice, aloud the second time, and says **"Right"** and
+  picks up a sword — *"Most men write one they can live inside. You've
+  written one that can catch you"* — and warns he will use it **this
+  year**: *there's a thing in that yard and a boy in this village and
+  about four months.* Fukasaku certifies the rite (*said out loud, before
+  witnesses, on a stated day, entered where it can be found — and they
+  are all exactly that dull, and the dullness is the point*) and adds the
+  standing term: **it will want doing again, and you do not tear the page
+  out.** Close: the button catches the notebook exactly as its maker
+  promised. *It would take four seconds to thin the back. He left it.*
+
+**Open into ch75:** **Hinata's commissioned ambush, live, inside a
+fortnight** (he will not manufacture it, only stop preventing it — and
+the fortnight expires ~31/3); **the circle must rule on Naruto in advance
+— the undertaking is in the diary, unconditional**; the attachment order
+to be rewritten (hers, undated); the treaty's condition now checkable and
+still no; the fifth layer closed by Tenzō's decision and reopening only
+at his word; Saeko's debt and requisition 40-Q3/4 still unanswered at six
+months; midsummer's rematch; **Fukasaku's third answer**; the Byakugan's
+sourceless reading of the sword, held and undescribed; Handa's birthday
+(2/3) unpaid and now in arrears.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to

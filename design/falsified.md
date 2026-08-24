@@ -153,20 +153,46 @@ incident-report, security-problem, *worth-more-than-the-village* version —
 the danger clause (**a thing that reproduces cannot be recalled**) is not
 falsified, it is now live ammunition.
 
-## #12 — THE CREED — amendment ordered, scene pending
+## #12 — THE CREED — **REVISED ON THE PAGE, 16/3 (ch74). CLOSED.**
 
-**The rule:** *I am not going to get stronger. Find out how it works.*
-(act-4, the creed that governs the book; `world-bible.md`: power growth
-must read as loss, never as reward.)
-**Status: NOT falsified by an event — overruled by the author, revision
-scene not yet written.** The ruling: the mantra gets beaten out of him and
-out of the story. He needs both — mentally better AND physically better,
-ANBU-level by Akatsuki. The creed is to be **revised, not abandoned**: out
-loud, with a date, by Jiraiya, in a field (January, ch66+).
-**Rule until the scene exists:** do not write him refusing growth on creed
-grounds as if the creed were still unexamined law, and do not write growth
-as pure loss. The story's position is now *find out how it works — and get
-strong enough to survive owning the answer.*
+**Dead rule:** *I am not going to get stronger.* (act-4, the creed that
+governed the book.)
+**Killed by:** ch74 sc2, the north fields, **16/3 at 07:11, witnessed by
+Jiraiya and Fukasaku**, entered in all four books on 20/3 with the struck
+clause preserved under a single ruled line.
+**What it turned out to be:** not humility and not a philosophy — **a
+governor, trigger condition CAPACITY**, laid at fifteen on a boat over the
+older sentence to shut it. Its author had established at thirteen and a
+half that his hands come up *without a decision in them* (the square: the
+spike a hundred and forty seconds early, the guards' standing order, four
+of his own dead by the timing), and, unable to put a clause on a decision
+that never occurs, governed the only reachable variable — how far the
+hands could reach.
+**Why it dies:** it did not work, and he wrote the proof. 20/12 was the
+same mechanism with the clause in force and perfectly obeyed, and capacity
+arrived anyway. **What stopped the twentieth being the square was the
+close** — eleven years of craft, not weakness. *Staying small does not
+make the accident small. It makes the accident unskilled.*
+**Now true — the standing text, in the front of four books:**
+
+> *I am going to be strong enough that nobody standing near me has to be
+> lucky.*
+>
+> *Acceptance test: anything I hold, I can say who it is for — out loud,
+> to them, on the day they ask. Where I cannot, I say that I cannot, and
+> say when I will be able to, and I am held to the date.*
+>
+> *Find out how it works.*
+
+**Second half untouched** — eleven years old, three of them spent under
+the other one, and it never once needed help.
+**Consequences that bind later chapters:** (1) growth still reads as loss
+— striking it broke a promise to Kohaku, on a date, and Jiraiya explicitly
+refused to absolve him and kept the absolution in his own notebook; (2)
+**the acceptance test is live and is meant to catch him** — Jiraiya said
+so on the day and intends to use it inside the year; (3) Myōboku's rite
+applies: it will want doing again when it changes, out loud, dated,
+witnessed, **and the old page is never torn out**.
 
 ---
 
