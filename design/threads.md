@@ -2972,9 +2972,9 @@ Month 2 the 28th – month 3 the second Tuesday. **Naruto's chapter.** Fixed:
   Sazare's cross-reference: **Sakura's artillery and Naruto's
   sincerity are both delivery systems for care with no other route
   out — loudness as load path; the clipboard principle, inverted, at
-  volume.** The no-warning decision: do not warn Hinata — *Thursday is
+  volume.** The no-warning decision: do not warn Hinata — *Wednesday is
   live load* (innocent; the name not yet known to him).
-- **LIVE LOAD (Thursday, the yard).** Hinata's third consultation
+- **LIVE LOAD (Wednesday, the yard).** Hinata's third consultation
   session (*bridge holding; increase load gradually*) meets the gate
   going wood-on-wood. **The cascade, documented at survey grade:**
   collar-to-hairline wave, four-hertz tremor, eleven words four of

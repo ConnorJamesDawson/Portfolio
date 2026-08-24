@@ -79,11 +79,11 @@ Sazare, arriving into the conversation because the
 manifests gave him standing and the moment was too good to
 audit from range. "He is the only person I have ever
 briefed who asks the question the brief was hiding. Bring
-him Thursday afternoon. The cohort review is Thursday; he
+him Wednesday afternoon. The cohort review is Wednesday; he
 can see the operation working instead of a demonstration
 arranged for him. Demonstrations lie. Operations don't."
 
-"Thursday," said Naruto, delighted, already recovered,
+"Wednesday," said Naruto, delighted, already recovered,
 already somehow the host of the arrangement, "it's a — hang
 on—" and he produced, from his jacket, with enormous
 ceremony, a small and brutally creased notebook, and wrote
@@ -95,7 +95,7 @@ disease achieve its first airborne transmission.
 
 "Sazare put me in a DIARY, Sakura-chan. Like a dentist. I'm
 adapting. It's called professionalism." He pocketed it,
-gravely. "Thursday. The fuss. I'm gonna get it so hard."
+gravely. "Wednesday. The fuss. I'm gonna get it so hard."
 
 *Entry, Tuesday,* wrote the fabricator, that evening. *The
 line has survived its first hostile review. The reviewer
@@ -114,7 +114,7 @@ delivery systems for care that would otherwise have no
 route out. Loudness as load path. The clipboard principle,
 inverted, at volume.*
 
-*Thursday: the cohort review, plus one. The operation will
+*Wednesday: the cohort review, plus one. The operation will
 be observed by the most disruptively honest instrument in
 the Land of Fire.*
 
@@ -122,6 +122,6 @@ the Land of Fire.*
 
 *Second note, appended after consideration: do not warn
 Hinata-sama. The consultation's whole curriculum is formats
-that hold under live load. Thursday is live load.*
+that hold under live load. Wednesday is live load.*
 
 *The training proceeds.*

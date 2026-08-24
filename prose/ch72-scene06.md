@@ -143,4 +143,4 @@ it both?"
 
 "I have been asking that since November," said Sazare,
 "and the current finding is: both is the whole point.
-Goodnight, Naruto. Thursday stands. Bring the notebook."
+Goodnight, Naruto. Midsummer stands. Bring the notebook."

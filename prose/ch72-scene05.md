@@ -5,7 +5,7 @@ eighteen. POV: Sazare. ~1030 words.*
 
 ---
 
-The Thursday cohort review was eleven minutes old when the
+The Wednesday cohort review was eleven minutes old when the
 system failure occurred, and Sazare had the whole event at
 survey grade, from four feet, with a clipboard already in hand,
 which is how the finest documentation of his career came to be
@@ -79,7 +79,7 @@ sign-off in the working register, voice level, hands steady,
 provided one stood between her and the gate so that no orange
 jacket existed in her field of view.
 
-*Entry, Thursday, consultation file, written that evening
+*Entry, Wednesday, consultation file, written that evening
 with the care the finding deserved:*
 
 *The street has a name.*
