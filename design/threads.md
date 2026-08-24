@@ -2920,6 +2920,152 @@ principle heading toward its street); the chapter-twelve sentence
 pending at the court's pleasure; clause five still undisclosed;
 answers two and three; the thumb; the Byakugan-reads-print flag.
 
+## C21. CH72 — THE LARGEST CREDITOR — **WRITTEN**, nine scenes, ~10,400 words
+
+Month 2 the 28th – month 3 the second Tuesday. **Naruto's chapter.** Fixed:
+
+- **FOUR BOWLS (first Naruto POV of the book).** The apartment cleaned
+  three times; the instant cups left visible (*the cups were true*); ONE
+  table, ONE chair — *a chair is a promise: you buy the chair when there
+  is someone the chair is FOR; otherwise it's furniture pretending. The
+  apartment's honest.* The bowl doctrine: people fed you or they didn't —
+  *a bowl put down without being asked is still the most anybody can say
+  to him.* His read of Sazare: *nobody had ever barged in without
+  knocking in the guy's whole life — you could tell by the tiny surprised
+  thing.* The knock-and-lean habit acknowledged as caught from him
+  ("royalties").
+- **PAGE SIXTY-ONE.** The hotpot is the hospital cookbook recipe SAZARE
+  AUDITED two years ago (the egg goes in at the end *because of the
+  trial*). The flow: care disguised as procedure — *he conducts a meal
+  the way Katsuyu conducts a Friday; the standing master of hospitality
+  has one chair and does not know it is a discipline.* **The rematch
+  deferred on the record: midsummer, in the diary, terms per December**
+  (*"if we fight now we re-run December with better cardio"*). Naruto's
+  horror at diaries; his name written into somebody's future on purpose
+  — the expression filed. **The invitation:** first meal cooked for
+  Sazare in a home since he was thirteen; *"there is a chair, and it is
+  for somebody, and I am telling you that the somebody is you."*
+- **NOT MY TABLE (first family dinner, Shizune POV).** Naruto adds
+  himself at one day's notice (the fabricator "informed the diary");
+  arrives at six exactly in the formal jacket, zip done, **carrying the
+  hotpot** — Tsunade makes space for it at the centre with her own
+  hands (*that was the whole night for him, right there, at six-oh-one*).
+  Jiraiya groomed, behaving conspicuously; Fukasaku's four hundred years
+  of table manners; the moths in the pantry (Tonton containing the
+  incident). **The craft flawless — and THE GRENADE:** *"Baa-chan, you
+  should marry somebody like Sazare… obviously not Sazare-Sazare,
+  that'd be weird, you're like a hundred. They should make more."* /
+  **"They should. But the production run was limited. Eat your dinner,
+  brat."** Fukasaku's vintage line (*some vintages are sold before the
+  public ever hears there was a harvest*) + a moth, into the silence —
+  **the toad confirms he knows; four keepers now + one wind chime.**
+  The door exchange: *"invited-invited? Standing?"* / **"The chair is
+  yours. It was yours before you sat in it."** The pot returned FULL
+  (tower rule; debt compounds).
+- **THE FORECOURT.** Naruto calls the line stupid; **Sakura's
+  four-minute demolition** (the sixteen feet demonstrated on herself;
+  Tachibana named; *choosing between two injuries since thirteen*;
+  "apologise ALPHABETICALLY") — and the conversion: *"…Can I see it? I
+  want to be the guy who gets it."* Sazare's finding: *he comes around
+  the argument and joins you behind it.* Naruto now owns a notebook
+  ("Sazare put me in a DIARY, like a dentist. I'm adapting.").
+  Sazare's cross-reference: **Sakura's artillery and Naruto's
+  sincerity are both delivery systems for care with no other route
+  out — loudness as load path; the clipboard principle, inverted, at
+  volume.** The no-warning decision: do not warn Hinata — *Thursday is
+  live load* (innocent; the name not yet known to him).
+- **LIVE LOAD (Thursday, the yard).** Hinata's third consultation
+  session (*bridge holding; increase load gradually*) meets the gate
+  going wood-on-wood. **The cascade, documented at survey grade:**
+  collar-to-hairline wave, four-hertz tremor, eleven words four of
+  them "the," and the six-minute inspection of sealed kilns certified
+  forty minutes earlier. Naruto: *"she goes red a lot — hope she's not
+  coming down with something. Maybe she should see Sakura-chan."*
+  **Sazare's file: THE STREET HAS A NAME — and it is Naruto.** The
+  mirror recognition (*the kilns were her reject table; I have seen
+  this failure mode before. In a mirror. In November.*); the training
+  revision (**the no-warning case is the case that matters — HE is
+  the no-warning case, perpetually, for everybody**); the boundary
+  held: *I am her engineer, not her broker.* Naruto's dangerous
+  question flagged: "if the crystal drinks charge off her hair,
+  what's it doing with it?" — deferred (the boy's nose for
+  load-bearing walls).
+- **THE SPECIFICATION QUESTION (the kettle, after).** Naruto asks how
+  you know; the account answer (*one entry that only ever compounds*).
+  Then the real file, whole, at Naruto pace: the Academy, the
+  punchline years taken as attention, the triangle geometry, **the
+  promise of a lifetime** — and the last page, volunteered: *"she
+  finally looks at me first. There. That's the thing."* **Sazare's
+  three findings:** (1) the promise is the finest thing in the file —
+  *the day you let it become an invoice you have ruined it; a gift
+  with a price hidden in it is not a gift*; (2) **the specification
+  question**: her, as she is, pointed where she points — or the
+  moment at the gate, being chosen at last? *Different articles. One
+  is a love. The other is a wound wearing a love's clothing — and
+  the tell is whether the dream is about HER or about being SEEN.
+  Yours is about being seen.* (3) the credential: **"I have loved
+  once. It has nearly killed me twice — there were medical events;
+  one required intervention — and I would pay it again without
+  auditing the invoice."** Nothing pointed at Hinata. Naruto takes
+  the promise-and-invoice and the audit question into the notebook;
+  *"Nearly killed you twice and you'd pay it again. That's so
+  stupid. That's the least stupid thing I ever heard. How is it
+  both?" / "Both is the whole point."*
+- **THE KILN REPORT (Hinata POV).** The incident in his format
+  (recesses permitted; *the kilns were sealed brick; she inspected
+  it for six minutes*). Findings: the format never deployed — **the
+  bridge must become STANDING, not raised for crossings — lived
+  on**; the trend is real (recovered to full function in nineteen
+  minutes; a year ago the failure ate the day); **he knows now — and
+  she is not afraid**: *to him a held thing is not leverage, it is a
+  trust, and trusts appreciate… he holds mine the way I hold his.*
+  The word "friend," adopted, reviewed quarterly. And the heir's
+  finding: *nobody walks into a Hyūga's walls without knocking — if
+  the door is ever to be found, I will have to open it from the
+  inside. Myself. On purpose. There is no other engineer.*
+- **THE LARGEST CREDITOR.** The upstream audit: every channel of his
+  life runs through her, and she runs through **a twelve-year-old in
+  a gambling town** — *remove one loud boy from Tanzaku and I am the
+  ghost of a trade on a coast somewhere.* **Handa Rokusuke paid as a
+  thread:** the chair commissioned; cedar overruled (*"cedar is what
+  a stonemason thinks a chair is"*) for through-tenoned zelkova; the
+  splint stone loaned to cure the joints; *he tips, I'd stake the
+  shop.* **The delivery:** set at the table where it fits (the
+  room's numbers taken at the hotpot); *"a chair is a promise — this
+  is that chair. Tuesday evenings, standing. You are the someone."*
+  The finding given whole, treaty-safe, level: *"You were twelve.
+  You brought her back. Everything I have descends from that day…
+  I am not able to pay it and I am not going to try. I am going to
+  eat in this apartment on Tuesdays instead."* Naruto, wet-faced,
+  unembarrassed: *"You never know whose whole life you're carrying
+  when you do a thing. You just do the thing."* — and **"Family
+  cooks."** Count at **fifty-six**; entry 56 logged under BOTH
+  columns for the first time (given and received,
+  undeterminable).
+- **UPSTREAM (Tsunade's coda).** Her six-years-late entry: Tanzaku,
+  *done and drinking to stay done*; the twelve-year-old who called
+  her a coward with Nawaki's and Dan's want in his mouth; the bet
+  she won by losing; the necklace (*worst thing I've ever done
+  sober, some nights*) worn like a festival prize. The full chain:
+  the hat → the hospital → the policy → the ward → the second
+  floor → the boy from Kiri. **"Same creditor. The whole family is
+  leveraged to one sixteen-year-old, and he thinks he got invited
+  to dinner as a thank-you for hotpot."** And the vault entry, told
+  to no one: **the principal gets paid the day she hands him the
+  hat — the fifth face believes there will be a sixth, and knows
+  its name, and is keeping the estate for him**: accounts in order,
+  women in decent underwear, walls sound, *tables with enough
+  chairs.* Close: *They never do. That's how it works. You just do
+  the thing.*
+
+**Open into ch73:** the rematch parked at midsummer (in both diaries);
+Tuesday evenings standing (Naruto's); the no-warning case added to
+Hinata's curriculum; Naruto's what's-it-doing-with-it question
+deferred (dangerously good nose); the chapter-twelve sentence and
+clause five still pending at the court's pleasure; answers two and
+three; the thumb; the fuse now includes a village that has noticed
+"the village's favourite thing."
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
@@ -2932,7 +3078,9 @@ answers two and three; the thumb; the Byakugan-reads-print flag.
 - **The *gamble* kanji.** Noticed after two years. Evidence he cannot explain
   away and will never raise.
 - **Chapter six — eleven birthdays.** Ongoing, Handa first. Runs in the
-  background permanently.
+  background permanently. **Handa also paid as craftsman (ch72): the
+  zelkova chair, cedar overruled, seven years of debt and counter-debt
+  settled in exactly that coin.**
 - **Chapter four — the gift.** Reclassified *refused, five times, by me.*
   Partly paid by the crystal rose (ch49), which he did not choose to give and
   did not deliver.
