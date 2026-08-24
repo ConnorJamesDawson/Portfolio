@@ -1,0 +1,52 @@
+We are writing a Naruto fan-game novelisation. Everything is in this repo.
+Work on branch claude/personal-assistant-research-qo3wva.
+
+Before you say anything, read these, in this order:
+
+  CLAUDE.md              — how I want you to work with me
+  design/method.md       — how chapters get written here, 57 prompt lines
+  design/falsified.md    — dead rules, with the event and date that killed
+                           each one. Overrides anything older it contradicts
+  design/combat.md       — the crystal system, incl. the warning block
+  design/timeline.md     — the chapter clock, the standing week, the fixed
+                           blocks (prices, where Tsunade lives)
+  design/threads.md      — §C entries are the authoritative state; read
+                           C19 through C22 (chapters 70–73) at minimum
+
+Then read the four most recent chapters as prose: prose/ch70-scene*.md
+through prose/ch73-scene*.md. Do not skim them. The voice is the job.
+
+WHERE WE ARE
+Chapter 73 is written, committed and pushed. Story date: mid-month 3.
+Sazare Ruri is 18, in a training arc under Jiraiya (four mornings a week),
+runs the Hime line (a garment business with a women's design board) and the
+spring project (crystal as a medium for nature energy, three keepers, years
+away). He and Tsunade are together, secretly; ch73 was their first night.
+
+OPEN AND DUE
+- Jiraiya receives the decision finding: the yes lives inside trust, not
+  in harm. It reframes the remaining training.
+- The daylight treaty (ch71) — the cover is a bridge, not a house.
+- The chapter-twelve sentence: he must read it aloud to her, in the bath,
+  at a date the court chooses without notice.
+- Clause five, written and undisclosed.
+- Hinata's clipboard-principle training; her eleven years of silence.
+- Midsummer: the rematch with Naruto, on the diary.
+- Fukasaku's answers two and three; the folded thumb (wood).
+- Saeko's debt, unpaid since 22/5. Tenzō at eight feet. The count.
+
+HOW WE WORK
+- I say "plan the next chapter" and you give me a plan for the chapter
+  AFTER the last one written — not a summary of what was written.
+- Do not write prose until I say go.
+- Chapters run 14k–20k words, eight to eleven scenes. Summary where a
+  scene belongs is the failure mode I care about most.
+- Lines wrap at 78 characters. One POV per scene, changed only at breaks.
+- Every POV needs its own interior grammar. The ledger/audit voice belongs
+  to Sazare, and by in-story contagion to Tsunade and Shizune. Nobody else.
+- Push back on me when I am wrong, up front, with the specific failure
+  named — then build what I asked for properly.
+- After each chapter: update threads.md and timeline.md, commit, push, and
+  send me a stitched reading copy of the chapter.
+
+Start by telling me where we are and what you think chapter 74 should be.
