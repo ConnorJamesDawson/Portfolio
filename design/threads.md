@@ -3066,6 +3066,144 @@ clause five still pending at the court's pleasure; answers two and
 three; the thumb; the fuse now includes a village that has noticed
 "the village's favourite thing."
 
+## C22. CH73 — THE BASELINE — **WRITTEN**, nine scenes, ~12,100 words
+
+Month 3, 10th–15th. **The deep end.** Fixed by the writing:
+
+- **THE BORDER (his analysis).** Eleven weeks old, never drawn, agreed by
+  nobody out loud. His finding: *the border is the outermost limit of what
+  I have ever been given explicit permission for* — and **he will never
+  cross it, not from restraint but from ARCHITECTURE**: nine hundred
+  articles to somebody's order; the scalpel required instruction by name,
+  out loud, in theatre. *Everything I am is built to be asked.* Therefore
+  **the border can only move from her side** — and she never asks in
+  words, she asks in FORMATS. His private line, unsayable: *Ask me, Hime.
+  I have spent my whole life unable to ask, and the one thing I can
+  always do is answer.*
+- **THE FORMAT.** She delivers it as a document: **combat assessment,
+  informal, unwitnessed, her garden, prize to the victor, each party
+  writes their prize sealed, THE VICTOR OPENS BOTH.** Ears scarlet;
+  exits at a pace. "Bring the sword."
+- **THE HOUSE (Thu, two days early).** Eleven years owned; caretaker
+  dismissed two years back; four rooms, nothing that spoils, a bed made
+  every time she leaves *on the theory a made bed says a room expects
+  somebody back*. **She cleans it herself, airs the bedding, and BUYS A
+  LAMP** for the nightstand because the overhead light is flat and
+  clinical (the Tarugi-slab instinct). **She does not touch the glass** —
+  ruling: *if Saturday goes as I am pretending not to plan it, it gets
+  washed and filled. If not, it stays as it is and I never look at it
+  again.* Her honest register: not frightened of him, frightened of
+  **being wanted again** after decades of competent non-wanting; of
+  being *seen* at fifty-three by the one man who sees everything; and
+  the old quiet superstition — *everyone I ever wanted, I buried.* Said
+  no to it, as at Tarugi. Writes the paper in four seconds once she
+  stops trying to write a demand. Aloud, alone: **"Please win, you
+  idiot."**
+- **TERMS ON THE GROUND.** The garden: 22×14, nine-foot walls, four
+  trees, soft unworked ground, two days' rain — *the most private ground
+  in Konoha, and she hands me the conditions and intends to beat me in
+  them.* Terms: first to three, open hand or flat, nothing to the head,
+  **"I'll be extremely insulted if you hold back one article,"** her
+  fraction undeclared (*the world doesn't publish*). His: the governor
+  live, **clause eleven stated aloud and deliberately exposed** — *if it
+  is going to fail I would rather it failed here than in eleven months
+  on a road.* Nothing today goes in a ledger. And her coaching, which is
+  the real design: *you have never once tried to hit me… Jiraiya says
+  you cannot find the decision cold. The prize is on the step. Find it.*
+  **She has read the training report and built the assessment around
+  what is missing in him.**
+- **THREE TO ONE.** She takes the first touch in four seconds (*she does
+  not accelerate, she ARRIVES*; "watch the shoulders — feet tell you
+  where I've been") and **teaches after every touch** — thirty years of
+  instructor under the office. The footwork holds on unfamiliar ground
+  (finds a root before he sees it). **He stops trying to win exchanges
+  and builds the garden**: a ridge across the fall of the land, a
+  knuckle at the plum root, nine yards of seeded gravel path — pricing
+  her a quarter-second at a time until *the strongest woman alive has
+  to think about her feet* — and she enjoys it: **"There he is. That's
+  the reef. Hello, reef."** The cannibal closes on the path; she reads
+  it in under a third of a second (fastest ever, including its author)
+  and lands on **his ridge**, which takes her weight, *which is why he
+  built it*. **THE TOUCH: he offers his own sword as bait — four
+  inches, a language she has read for forty years — she takes it off
+  his body, CLAUSE ELEVEN FIRES, the article locks, and a quarter-second
+  buys his palm between her shoulder blades.** *"Nobody has touched me
+  in nine years."* He tries to credit the governor; she refuses to let
+  him file the credit elsewhere. Her verdict: eight weeks ago it was
+  four seconds three times running; and — deniable under seal — **"for
+  a half-second I felt the floor of the world move."**
+- **BOTH PAPERS.** Written two days apart in two buildings with no
+  discussion: ***The deep end. / The deep end.*** He does not ask what
+  hers says (terms are terms). Her diagnosis of them both: *you can't
+  take what isn't specified and I can't say what isn't a document —
+  the most watertight mutually-assured silence in the history of two
+  people in love since November.* She requires it in his voice; he
+  pays the toll: *"I want the deep end. With you… so specify it, Hime.
+  I have been standing at the edge of this water for four months
+  waiting to be allowed in."* **"Specified."**
+- **THE NIGHT.** He reads the room in eleven seconds — the empty
+  shelf, no photographs, the made bed, **the week-old lamp on its
+  dustless ring**, the glass — and **chooses not to say any of it**,
+  the one strategic act of his life. What he says instead: *it is a
+  room somebody kept in case. I would like to be the case.* Her hands
+  over his to steady them; **"breathe, love, breathe"** (first time as
+  an address); **she kisses the length of the square's scar, all of
+  it, without comment**; he finds her frightened of being looked at
+  and steadies himself on it — *a woman frightened of being looked at
+  should be told exactly what the looking finds.* **THE BASELINE:
+  four seconds, self-reported in the flat clinical voice.** Her laugh
+  (the bathwater one), *"you COUNTED"*, and the ruling that saves it:
+  **"Attempt one is not charted as a failure. It's charted as a
+  baseline. Day one, first exercise, complete"** — Jiraiya's frost
+  sentence, repurposed, and she says so. Then the clinical advantage
+  of eighteen (the interval), his own January protocol quoted back at
+  him (*graduated exposure, about a book, and every word of it was
+  true*), and **"Try again, fabricator. That's the whole of the
+  science."**
+- **THE UNCOUNTED HOURS.** He learns her; learns *he is allowed to be
+  slow* (**"I'm not surveying, I'm learning"** / *"Learn, then"*) —
+  eleven years of a loupe and an unhurried hand, and **the craft
+  transfers**. She cries once, briefly: nine years of arithmetic
+  publicly falsified. **THE PERMANENT TERM: no entry, ever.** *The
+  material does not survive the instrument… some things you simply
+  get to have been in the room for* (Katsuyu, about a market). *If
+  anybody ever reads this notebook they will find a gap here, and
+  the gap is the entry.*
+- **THE GLASS.** She wakes at nine for the first time since the
+  Second War; *charts closed, all of them.* The hour-after as a
+  place people live in. The garden's damage kept on purpose (**the
+  ridge stays**). He is found holding the glass — reads eleven
+  years off it and **refuses to say it aloud** — and asks: *"May I
+  wash the glass?"* Her correction, unplanned, out loud: **"It's
+  been there since I bought the house."** Washed, filled, set
+  beside the new lamp; the morning goes straight through it. *The
+  house is awake.* Her withheld line, kept to give him later: **the
+  house was kept in case OF HIM.** Exit into the village looking
+  exactly like this: *the most reckless thing I have ever done
+  including three wars* / **"The record will note that I asked for
+  the deep end."**
+- **NEW STUDY.** The January tolerance study formally closed (wrong
+  objective from line one — it was inventory). New: *Subject: us.
+  Baseline 14/3: four seconds — recorded because in forty years I
+  intend to be extremely fond of the person who wrote it. Method:
+  graduated. **The floor is not yet known.*** Plus the field
+  findings for Monday: 3–1 as an engineering result; the footwork
+  credited to Jiraiya unasked; and **THE DECISION FINDING — the
+  room does not contain "decide to do harm," it contains "decide
+  to TAKE," and he could, instantly, because harm to her was
+  impossible. THE YES LIVES INSIDE TRUST.** Therefore the training
+  is not the decision — it is building enough certainty about his
+  own limits that a stranger's ground can be trusted the way he
+  trusted hers. *She always builds the conditions.*
+
+**Open into ch74:** Jiraiya receives the decision finding (his eight-week
+exercise, arrived at); the garden keeps its ridge; the treaty's clock
+ticks on (twenty-six hours unaccounted, held only by Shizune); the
+chapter-twelve sentence still pending at the court's pleasure; clause
+five undisclosed; Hinata's training; **midsummer: the rematch**; answers
+two and three; the spring project's medical file still sealed for the
+bench.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
