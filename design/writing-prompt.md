@@ -12,6 +12,29 @@ For turning the design documents into prose fiction.
 > quota. Chapters end where they end; do not pad to reach it and do not
 > compress to duck it.
 >
+> **POV GRAMMAR RULES — author ruling after ch72. Not retroactive.**
+> The ledger/audit interior grammar (entries, files, registers, "filed
+> under", counts) belongs to **Ruri**, and — by documented contagion —
+> to **Tsunade** (flavoured with clinical charting and gambling idiom)
+> and **Shizune** (whose minuting is native to her job, not copied).
+> **Everyone else gets a unique interior grammar:**
+> - **Naruto:** appetite, motion, food, people-sorted-into-kinds,
+>   accidental profundity; no files, no entries. EXCEPTION, now canon:
+>   **he keeps a little notebook because Ruri made notebooks cool** —
+>   used badly, loved openly, the biggest compliment anybody but
+>   Tsunade has paid him.
+> - **Hinata:** attention and stillness; kata, pressed flowers, weather,
+>   the discipline of watching without taking. Never "filed."
+> - **Jiraiya:** a writer's grammar — drafts, scenes, taxonomies, worldly
+>   shorthand; his notebook predates everybody's.
+> - **Tenzō:** surveillance-report idiom (dateless facts, "compliant",
+>   interpretation withheld) — the shop's grammar, not Ruri's; keep them
+>   distinct.
+> - **Sakura:** the column is hers and predates exposure — medical
+>   precision plus social sharpness plus inner vehemence.
+> - **Katsuyu:** courtesy at four hundred years. Fukasaku: gravel and
+>   geology.
+>
 > **DENSITY FLOOR — author ruling after ch69.** Chapters 67–69 ran 7–8.5k
 > and brushed over content. The working target is **14k–20k: eight or nine
 > scenes of 1,800–2,600 words.** The failure mode is not short scenes — it
