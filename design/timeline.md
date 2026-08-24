@@ -80,6 +80,23 @@ dated off it.
 | **66** | month 1, the 2nd to the 9th. Eight days. Eight scenes, ~14,000 words. Naruto in the yard (*glad*); **the attachment is Tenzō**, effective Mon 6/1; Friday's three clean negatives; **the banked question** (where does an open article keep what it draws); Shizune's true sentences; the ferry law (*through and out*); the hat, 340; **the five-ryō win and the four seconds**; the Tarugi audit; the slab — *we'll wait*; **the IOU completed: PAID IN FULL, the seller confirms she was overpaid**; snow. POV Tsunade sc3, sc8; Tenzō sc4; Shizune sc5. |
 
 
+### FIXED — the price scale (established ch66, Tarugi market, 8/1)
+
+Do not re-derive prices; check against these. A street snack runs ~10 ryō,
+a working garment ~300, a sack of fuel ~200. "Multi-million ryō" therefore
+means serious industry, not pocket money.
+
+| Item | Price |
+|---|---|
+| Charcoal, per sack (winter, firm) | 220 |
+| Felt hat, fair value (asked 900) | 340 |
+| Squid skewer (ch67, east wall) | 11 |
+| Winter pears | 11 each; 120/dozen |
+| Dried gourd, bundle | 40 (marked down from 60) |
+| Cups game, per go | 5 |
+| Lake ferry, per crossing | 3 |
+| Icha Icha ch9 plumbing repair (in-book) | 900 |
+
 ### FIXED — where Tsunade actually lives
 
 **She sleeps at the tower**, four nights in five. Second floor. Ch48 sc1 is the
