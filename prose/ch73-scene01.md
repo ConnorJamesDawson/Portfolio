@@ -7,7 +7,7 @@ age eighteen. POV: Sazare. ~1250 words.*
 
 The border was eleven weeks old and it had never been drawn.
 
-That was the first finding, and he arrived at it on the Tuesday
+That was the first finding, and he arrived at it on the Wednesday
 evening of the second week of the third month, sitting at the
 desk in the upper room with a manuscript audit open in front of
 him and no attention whatsoever available for it.
@@ -178,4 +178,4 @@ hands and his heart going like a hammer on hot iron.
 
 *She built the format.*
 
-*Four days.*
+*Three days.*

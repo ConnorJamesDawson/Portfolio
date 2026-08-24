@@ -3068,7 +3068,7 @@ three; the thumb; the fuse now includes a village that has noticed
 
 ## C22. CH73 — THE BASELINE — **WRITTEN**, nine scenes, ~12,100 words
 
-Month 3, 10th–15th. **The deep end.** Fixed by the writing:
+Month 3, 11th–15th. **The deep end.** Fixed by the writing:
 
 - **THE BORDER (his analysis).** Eleven weeks old, never drawn, agreed by
   nobody out loud. His finding: *the border is the outermost limit of what

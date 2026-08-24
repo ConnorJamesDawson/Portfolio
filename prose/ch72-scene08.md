@@ -88,14 +88,14 @@ one page and he tips, I'd stake the shop — zelkova, through-
 tenoned, and it'll outlive him, and it'll outlive whatever
 fool building he keeps it in. Three weeks."
 
-"Two, if I supply a curing article for the joints."
+"Four days, if I supply a curing article for the joints."
 
 Handa's eyes narrowed with the joy of a man being offered
 sorcery in a currency he respected. "The splint stone? For
 FURNITURE?"
 
 "The line has a materials budget and I chair the line's
-fabrication. It is, for once, entirely my call. Two weeks,
+fabrication. It is, for once, entirely my call. Four days,
 Handa-san. It is wanted for a Tuesday."
 
 ---
