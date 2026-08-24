@@ -2341,6 +2341,145 @@ thumb (wood) to be named; the creed revision proper (Jiraiya, the field, a
 date — ledger #12); the noons; the fuse pile growing one scene at a time;
 Naruto's rematch ~mid-month 2; Saeko's debt still standing.
 
+## C17. CH68 — FIFTY PASSES — **WRITTEN**, seven scenes, ~8,200 words
+
+13/1 – 17/1, week one of the field. Fixed by the writing:
+
+- **DAY ONE — THE NO (13/1).** Terms restated (consent out loud, Fukasaku
+  witnessing, stop works both ways, nothing in the book till the walk home).
+  The first exercise: *hit me — the answer is allowed to be no.* Four and a
+  half minutes (Fukasaku timed it) of good-faith interior survey, six
+  approaches, and the finding delivered in the grading voice: **"I cannot
+  locate the decision."** The motion is available (Sakai's stance holds
+  under fatigue); the component that chooses harm cold is not found;
+  untrained-vs-absent flagged as the whole of his future in the trade. Ch64
+  reconfirmed as side effect, not decision — no lever there to pull.
+  **Jiraiya's reframe: a baseline, not a failure** — the industry answer
+  (drill the choosing down to a twitch) explicitly refused: *you'd be
+  sanding down the best instrument in the village to fix a splinter.* The
+  long way: learn to FIND the decision, hold it, price it like every other
+  price, and choose — **both directions; the no is the same muscle as the
+  yes.** Sazare's taxonomy of his teachers: **Sakai taught leaving, Tōan
+  taught staying, Urushibara taught seeing — Jiraiya teaches deciding.**
+- **JIRAIYA POV (sc2 — first of the book).** His taxonomy of pulled blows;
+  no excuse arrived. Fukasaku: *that is not a boy who cannot fight; that is
+  a boy nobody has ever asked — always the instrument of some other clause,
+  never the subject of the sentence*; and: **"the foundation's poured;
+  you're just walling."** His notes: **DO NOT FIX the no** (a man who can
+  refuse a Sannin in a frozen field on day one has a yes that will hold
+  against anything); the spec is not ANBU muscle — *cannot be flipped
+  inside two feet, cannot be outlasted inside six minutes, cannot be
+  surprised by his own skeleton; anything past that is vanity, mine or
+  hers*; **the creed: sighted, not engaged — "a creed revised in week one
+  is a slogan"; the date comes the morning after he first chooses the yes
+  and holds it, no earlier**; the window target restated (*the sentence is
+  not about him*); and the closing guess — the rule in the book, the real
+  trade, *the one where nobody claps.*
+- **THE OIL PROBLEM (14/1) — the chapter's spine.** Fukasaku's first
+  answer, never before given off the mountain: **you cannot train a sage;
+  you train a body that does not die of nature energy and a mind that
+  consents to get out of the way.** Nature energy *converts* — the garden
+  at Myōboku is not statues; that showing is the first year. Training is
+  graduation, metered from outside, two ways: **the teacher's hand, or the
+  oil** — a medium holding nature energy at a known strength, releasing at
+  a known rate, that cannot be talked into more by a boy in a hurry. *The
+  oil is the syllabus — the opposite of a shortcut; the thing that makes
+  the long road survivable.* **And Shikkotsu has no spring** — why the
+  slugs have trained no one in four hundred years; 20/12 was *a boy
+  falling into the spring.* **THE UNCAPPING:** the question read aloud
+  (blade at 27 days; mass unchanged; order improved; income exceeding
+  upkeep), and the derivation said for the first time: an article that
+  takes in, keeps, and gives back at a rate set in the lattice **is a
+  medium** — *"I grow the only substance on the slug road that could be
+  made into a spring, and the first working prototype has been on my back
+  for a month."* **FUKASAKU'S THREE TERMS:** (1) never said outside the
+  field / the Friday circle — a manufactured-sage artefact; four powers
+  would burn a city for the man who grows one; (2) **years away, and the
+  years are the safety** — his veto on every shortcut, pre-declared; (3)
+  the standard: **not a weapon — a syllabus; "you are the toll somebody
+  already paid; for whoever comes after, on a road shut since the world
+  was young."** Sazare's reframe, in the lane: *not weapons — wells. The
+  invention is the spring, not the battery. My line has always made
+  infrastructure.*
+- **THE NOONS.** Format geological by Tuesday: tray for two, bruise
+  inspection over objections, through-and-out talk. *Best standing
+  appointment of his life, displacing Thursday tea with a dying man* —
+  the succession noted with due seriousness.
+- **THE CHANGING (15/1).** The landing arrangement (seven weeks old,
+  precipitated not made) **retired unilaterally**: "don't stop on my
+  account," and the shirt, mid-room, Tuesday-grade. Minor cardiac beat
+  (*the literature says the heart does not actually stop from this; the
+  literature has not met her*), "Breathe" from inside the shirt — and out
+  of the unsupervised dark, THE QUESTION: ***"Hime, how does that
+  wonderful chest of yours not hurt your back?"*** An actual question.
+  **Her answer, delivered properly, as anatomy:** yes, it should — the
+  load case is real, ordinary women pay a real tax nobody takes seriously
+  (thousands of backs treated); her case: chakra-reinforced paraspinals
+  at a permanent free trickle, fifty years of supported posture, core
+  discipline older than his rank, and *engineering in the underpinnings
+  that is a military secret* — "written answer available on request,
+  diagrams extra." **His finding, the thesis rhyme:** the increments
+  arrive exactly as fast as he survives them — metering from outside,
+  off his own readouts — *Fukasaku described her method this morning,
+  about a different substance entirely.* **She is his oil.**
+- **HER FILING (sc5).** The chest question files clean: *he
+  short-circuited and a question fell out… what falls out of this one is
+  structural concern and the word "wonderful" deployed as a technical
+  term* — he has had a standing file on her thoracic spine since
+  November, like a retaining wall. Case closed, best consult of the
+  month. **THE HAIR ASK DOES NOT FILE:** it *walked* out, working
+  register, nothing underneath she can identify; source assessment
+  returns nothing — *she checked the whole sky*; in fifty-three years
+  the number of men who ever asked to help with her hair: zero. "You
+  may," because her mouth has standards. Two failed headings (a row —
+  wrong; the study — wrong: his hands never shook; it came from the
+  middle, with years on it); **heading three holds: the slab file — the
+  work is the same; the care was never for the dockets.** The fingertip
+  following each pass finally placed: *a jeweller following a polish.*
+  And: *I have the hat, the mountain, and the seal, and the finest thing
+  this village has given me is a jeweller's evening fifty.* She felt the
+  counting. **Standing item in the diary that doesn't lie: whatever he
+  asks for next, the answer is yes.**
+- **FIFTY PASSES (sc6, his side).** II-5 consulted Tuesday night — the
+  hair chapter is *bad workmanship narrated confidently* (wrong angle,
+  raked from the scalp, a knot defeated by masculine firmness);
+  **interruption count: zero — the material does not reach him when the
+  craft is wrong.** The late finding: *I know the right way* — the shop
+  over the water, the bench, the good lamp, the women at closing, pins
+  passed smallest first. **"The eye flatters, the finger audits" is his
+  mother's sentence — he has been quoting her in certification minutes
+  for three years without knowing.** The door to the shop opened **on
+  purpose, in company, an inch** — first time in eleven years — and the
+  provenance handed over mid-brushstroke, unasked, *because he certifies
+  everything he makes and this was made of something.* She asleep by the
+  last four passes, pretending otherwise, *badly — the first thing I
+  have ever known her to do badly.* **The study renamed: it was never
+  tolerance; it was inventory** — hers, and now his. *It would be
+  discourteous to be outgiven. The shop has eleven years of stock.*
+  **Fuse pile now four items** (annotated copy; II-12 protocol; the
+  filter; II-5 entry) — she suspects nothing; detonation stays parked.
+- **THREE KEEPERS (17/1).** The Friday convenes enlarged: Fukasaku on
+  kiln bricks at the stone's altitude, Jiraiya on the reject bin
+  (*thematically correct*). Katsuyu, told everything, in order: **"I was
+  accurate and wrong, which is the combination this yard exists to
+  detect… slugs do not make springs. Fabricators make springs. We have
+  spent four centuries waiting for a teacher, and the road was waiting
+  for a wellwright."** Her veto beneath Fukasaku's, reason said plainly:
+  wrongly hurried, every step of it is the square; *three keepers and a
+  governor and a woman in a tower — approximately sufficient.* Week
+  wrap: bruises eleven, four load-bearing; footwork *improved from
+  insulting to merely embarrassing*; the decision audit moved to
+  fortnightly, declared before witnesses (*the only enforcement
+  mechanism that has ever worked on me*); the count at twenty-two.
+
+**Open into ch69:** mornings continue (answers two and three pending; the
+thumb still folded); the spring project on a years-scale under three
+keepers; the creed's date unset — comes the morning after the first true
+yes; **"whatever he asks for next, the answer is yes" — loaded**; the
+fuse pile at four and growing a scene at a time; Naruto's rematch
+~mid-month 2; Saeko's debt standing; the two bells and the gamble kanji
+still hers, unasked.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
