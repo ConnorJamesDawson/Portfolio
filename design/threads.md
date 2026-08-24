@@ -2627,6 +2627,138 @@ the fuse pile at four plus the whole project as material Jiraiya now
 possesses; Naruto's rematch ~mid-month 2; the shelf holds a pinwheel
 and a brush.
 
+## C19. CH70 — THE FIRST THURSDAY — **WRITTEN**, eleven scenes, ~11,200 words
+
+Month 2, ~5th–19th. **The yearning from the other side.** Fixed by the writing:
+
+- **FULL LOAD.** The day's architecture: field (one-in-forty-two — the body
+  learned the roll before the ledger did, *the first thing learned in the
+  correct order*), colonized noons (items in four of five; *the traffic is
+  winning*, filed with no strength to act), Hime + spring afternoons, hair
+  and sleep. *Structural tired: everything holds; holding is all it does.*
+  Falls asleep writing the entry.
+- **CLAUSE FOUR (the specification session, dramatized).** The procedural
+  vice: she dictates the lower half clause by clause in the board voice to
+  a fabricator required to minute verbatim. Clause two cites
+  *Sazare-18-Tarugi-bath* as independent assessment. Clause three: drape —
+  *"I want it opinionated. I want it to hold views."* Clause four: the
+  seat seam **informs, does not announce** — dissatisfaction minuted in
+  advance; satisfaction notified *through the usual channels, at the usual
+  hour, in the usual detail.* His counter-finding: the acceptance test
+  requires wear trials, plural, with the assessor opining. **Clause five
+  exists, unrevealed: "I wrote it last."** His standing conclusion: *there
+  is no armour — only the pace she sets, never faster than I can bear,
+  never slower than I can grow.*
+- **THE DOSIMETER.** Full-set delivery: two economy-grade copper patches,
+  vocabulary steady — he logs *desensitisation ahead of projection* and is
+  wrong: **a dosimeter that stops registering is not tolerant, it is
+  exhausted; the response was the reading.** She sees it Monday; he sees
+  it days later. *This is why practitioners do not treat themselves.*
+- ***"Have I ever told you you should be the definition of beauty. They
+  should print your—"* — asleep mid-sentence.** Statement fourteen of a
+  collection she keeps in the register nobody reads. ("Print my WHAT. On
+  what document. Taking the question to her grave.")
+- **HER SELF-DIAGNOSIS.** Charted as a case: onset three weeks, timing the
+  brush, reading a diary she wrote herself, *jealous of a supply chain*
+  dedicated to her; first presentation since ~fourteen, an interval of
+  thirty-nine years and two buried men. **The three-clause trap** (her own
+  integrity): the schedule is all muscle, no fat; he chose it and is
+  happy; and using the office opens the gap the IOU taught — *I am not
+  opening one to get my boyfriend back.* **Keystone: the warmth is not
+  gone, it is UNSTAFFED** — no grievance, just a window she is not
+  standing at. *An embarrassment to the profession of grown women.*
+- **SHIZUNE'S INTERVENTION** (day eleven by the file: three board-move
+  requests, the returned tray over tea blend, Tonton relocating from
+  brooding). Offers the mechanical fix first *so the no gets said out
+  loud*; declined correctly. Then: *"There's no form. I checked. Years
+  ago. For someone else."* And the charge: **"You spent two months
+  teaching that boy that wanting things out loud is survivable… yours
+  has been in a sling since before I met you. Your field's two floors
+  down. Ask."**
+- **EIGHT FEET (Tenzō POV).** The pattern file: bench sleeps (4–11 min,
+  unlogged by the subject — *he doesn't know*), the second-floor lamp
+  eleven of eleven, the head that stopped lifting, the market reports
+  stopped. *Assets fail at the account nobody put a sentry on.* His
+  compliant perimeter: the kettle protocol, the migrating crates, warm
+  chestnuts on the worst evening, no conversation. The button's meaning
+  half-given: *you keep the making parts alive or the watching eats you
+  down to the lens.* Friday's closing line: *the account has a sentry
+  now. Kettle protocol remains in force.*
+- **THE FLAT COUNT (Friday, incident opened, Katsuyu witnessing).** The
+  laugh ledger at forty-one, flat eleven days — and he almost skipped
+  the audit. Cross-refs: coda ≤4 sentences nine nights; the study 16
+  days in arrears; noons 4/5; row ledger empty since the brush.
+  Findings: the operator absent from the post (*a watchman making
+  rounds unconscious*); **"I have been embezzled by my own projects"**
+  — three true things funded from the unlisted account, *us*, and she
+  covered the withdrawals in silence, again. Katsuyu's question ("What
+  does she do in the evenings now?") delivers the outside view: **"She
+  waits up."** Her ruling: *the remedy is not guilt, which is a closed
+  article and spends itself holding its own shape. The remedy is
+  engineering. Bring me the drawings.*
+- **VIOLATING THE SPEC (Monday).** The failure report in programme
+  language: the training built her a new window — *a system meeting
+  every clause and failing its purpose is worse than non-compliant; it
+  is wrong with a full set of signatures.* **Jiraiya's reveal: he
+  clocked her twelve days ago and left it in the ground — the real
+  exercise.** *"Eleven days from onset to finding. It took me until
+  fifty to run that audit inside a decade. In a year I want you inside
+  two days."* The remediation: mornings held at four, **Thursdays
+  moved out entire — no entries**; noons re-armoured (the
+  through-and-out law written, board traffic to a Tuesday memo);
+  exhibit three withheld for her. Fukasaku: *"every mountain keeps a
+  day"* — approves it as one married man to another; **nobody corrects
+  him, including Sazare.** Jiraiya's once-only coda: the man who kept
+  every account but that one and spent a short life magnificent at a
+  window of his own. *Keep the habit longer than you keep me.*
+- **THE COLLISION (Tsunade POV).** Her three drafts (committee language
+  rejected with prejudice; *the going rate for asking was set by a boy
+  who paid it shaking*). He arrives an hour early with a folder: **"I
+  have run an audit and I am here to confess a deficit."** Exhibits:
+  the flat count, the arrears, the lamp logged eleven days and never
+  read; the noons law; **Thursdays, all of them, standing**; exhibit
+  three sealed — *we open it at the bench together or not at all*.
+  She stops him, confesses the stolen confession, the tray, the
+  collection — laugh forty-two mid-sentence — and the double payment:
+  *"I miss you"* both directions at the going rate. **His second
+  returned tease: "I costed the lamp oil."** Fourteen statements, six
+  certified, asleep between six and seven. *Chart closed. Patient
+  discharged into the care of a man with a folder.*
+- **THE FIRST THURSDAY.** Empty list at full consciousness (*stalling
+  at altitude… so: in*). **The emboldened trail** — hands leave the
+  shoulders, travel the surveyed line, and rest on the curve *with the
+  deliberate placed weight of a man setting a keystone* — her four
+  seconds of stillness (filed; *I will care later*), then happiness
+  overriding wholesale: "I call it Thursday. All of it." Shizune's
+  tray note: *not minuted*, with a pig drawn on it. **Attachment
+  thirteen: the account report, finding PAID IN FULL — signed with the
+  keeper-knot, the mark's first appearance on paper in four hundred
+  years** — folded and filed against her collarbone, *the loudest
+  minute never taken.*
+- **THE PART OF HER BRAIN (the bath — SECOND-TO-LAST BLOW).** The
+  pattern-matcher surfaces on the memory of the hand: *placed like
+  stonework — where did he learn the move?* The file assembles: the
+  bath proposal out of a clear sky, the hair out of the blue, the
+  fluent teasing, the trail — **"arriving whole, sequenced, escalating
+  in — say it — curriculum order. He has a source. The source has
+  chapters."** She reaches *"somewhere there is a manual with his
+  notes in the margins, and the notes are numbered"* — one
+  thumbnail's width from the truth. **The two true things held at
+  once: the moves have a source, and the man is real under every one
+  of them** (the difference between performing a page and finding in
+  a page the permission). And the deliberate shelving: asking would
+  end the clear sky; **the investigation stays hers, methodology his.
+  "The audit is scheduled. The auditor is patient. God help the
+  source when I find it."** Register's last line: *(One item kept.
+  Pending. Cross-reference: everything.)*
+
+**Open into ch71:** **DETONATION PENDING — the final clue must be cheesy
+(author's note).** Exhibit three to be opened at the bench together (the
+spring's medical file, her name as principal). Clause five undisclosed.
+Thursdays standing; the noons law in force. Naruto's rematch due (six
+weeks from 24/12 ≈ now). Answers two and three; the thumb. The count at
+forty-four and moving.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
