@@ -2759,6 +2759,167 @@ Thursdays standing; the noons law in force. Naruto's rematch due (six
 weeks from 24/12 ≈ now). Answers two and three; the thumb. The count at
 forty-four and moving.
 
+## C20. CH71 — THE ARCHIVE — **WRITTEN**, eleven scenes, ~11,600 words
+
+Month 2, 20th–27th. **The tease war, the watcher, the detonation.** Fixed:
+
+- **THE CAMPAIGN.** His file: objective, doctrine (hers, reversed), rules of
+  engagement; *total enemy superiority in every category except one — she
+  has never once been on the receiving end.* Opening shot: *"You are
+  beautiful in the mornings before you are beautiful on purpose"* — eleven
+  seconds of her system failure over breakfast. **The managed bug
+  confirmed: the blush still comes every time; the white noise no longer
+  follows** — signal through disorder, cost paid in copper, cup steady.
+  Her register: *the fuse is now apparently decorative… I have not been
+  this off balance since I learned to walk on water — certain drowning,
+  technically survived, again and again, by something that has no
+  business holding.*
+- **THE DRIFT.** Eleven reconstructable instances of laxness (the hair off
+  the shoulder, *good, fabricator* in the wrong register in a corridor,
+  the doorway hand with Shizune present). The principle and its
+  corollary, both his: *nobody audits the ordinary — until somebody
+  arrives for whom watching is a birthright, an art, and a family
+  religion.* Her investigation: the pristine ryō ledger (*tools, lamp
+  oil, eleven ryō of squid* — "slightly heartbreaking"); the deduction
+  reached and REFUSED — *where does a man with no shelf keep a manual?
+  In the coat* — one search from closure, declined to keep the clear sky.
+- **HINATA, VISIT ONE (Mon 23/2).** The clan proposal: cohort of eleven,
+  in-compound fittings under board protocol, licensed maintenance — and
+  **THE HARDSHIP CLAUSE**: four branch-house kunoichi carried by the main
+  house, invoiced as standard issue, *"they are not to know. That term is
+  not negotiable, and it is mine, not the elders'."* Accepted before the
+  rest. The rotation commission; the Byakugan constraint (no
+  chakra-pooling — a garment must not read as a seal array to a
+  teammate's eye); **flagged for later: "a Byakugan reads chakra the way
+  you read print — load-bearing somewhere I cannot see yet."** THE LAX
+  MOMENT: hand on shoulder + three words at quarter-volume in the
+  second-floor register — **and he misses being read for the first time
+  in the story.**
+- **WHAT HINATA SAW (POV).** Not the eye — the clan's older inheritance,
+  *attention*: "a person is a sentence being spoken continuously." Her
+  read in one pass: **settled-in love, the kind with furniture in it; he
+  built his voice a room for her and doesn't know the door shows; the
+  coat has stopped fitting.** *They are lucky it was me.* The governance:
+  **what is seen and not offered is HELD**; her father's line — *the eye
+  is a responsibility before it is a weapon.* Also: being looked at like
+  a kata nearly made her cry (filed under things to examine never); the
+  resolve to ask him the question; eleven years, the name never finished
+  in her own head.
+- **THE CLIPBOARD PRINCIPLE (Wed 25/2).** Her disclosure, as a kindness,
+  no answer required: *"The Hyūga see a great deal… it was seen — and it
+  is held."* His exchange: she is the FIRST reader in the village
+  ("even the professional at eight feet holds only weather"), fastest
+  read of his life. Her question: **"How are you honest?… I admire
+  that."** His three findings: (1) *it is not courage — I am incapable
+  of the alternative; one register, furniture built inside a
+  constraint*; (2) **every declaration was delivered through equipment —
+  the formats are load paths, not walls; the blush is the cost
+  arriving, the voice is the load path holding; "I am not stronger
+  than you. I am better tooled."**; (3) the method: she is already
+  fluent in the professional register (doctrine talk = no stammer) —
+  **build the clipboard: put the true sentence inside a format the
+  voice already carries, let the format walk it across the street,
+  pay the blush as a toll.** She copies the page into her own
+  notebook and holds it to her coat — the appointment-letter gesture,
+  unknowing. Exit, voice holding like a bridge: *"I think she is very
+  lucky. And I think you already know that you are."*
+- **THE LAXNESS AUDIT + THE DAYLIGHT TREATY (Wed night).** His report
+  (he reports everything); her luck-read ("the one Hyūga alive who
+  treats seeing as a debt she owes the seen — we don't get it twice");
+  the joint audit, nobody defends anything. Remediation: **full
+  amplitude inside the door — no flinches trained at home; outside,
+  the working register as CRAFT** ("we were artists at it in December;
+  we got rich and stopped practising"). And the standing entry, both
+  hands, signed both names (the second larger for once): ***"The cover
+  is a bridge, not a house. One day we will walk off the far end of
+  it, on purpose, together, in daylight — the day the office can
+  afford it and not one day sooner."*** Her reading: *the first
+  document in the village that promises me a future in your own hand —
+  filed under security remediation.* **"One day I'm going to hold you
+  to it. Daylight."**
+- **THE BATH (Thu 26/2).** *"Hime. Can you do my back for me,
+  please?"* — the front below the waterline; her force structure all
+  outgoing, no incoming doctrine; the discovery that she is METERING
+  herself (his disease, caught); *"Your back is structurally
+  adequate."* **"Thank you for that, Hime. Let me."** — the reversal
+  of the reversal, and mid-surrender her eyes find **the orange spine
+  in the coat** — every open file aligning and snapping shut on the
+  keystone. ***"You've been reading that FILTH!?"***
+- **SHIZUNE (the call, as ruled).** Hears the shout only, two floors
+  down. Diary: *Thursday — no entries.* Rules it **not minuted**,
+  moves Friday's first appointment to ten, switches to the calming
+  blend. *Both arsonists laid this fire personally; not hers.*
+- **THE DEFENSE.** Guilty plea, then four findings on fingers: (1)
+  **"It helped — didn't it, Hime?"** — the evidence declines to
+  testify for the prosecution; (2) *"I do not think I have ever
+  masturbated in my life, so it was not for that"* — delivered as
+  kiln temperatures (her file: *the things this man says levelly
+  could kill a council at forty paces*); (3) two pages, fourteen
+  faults, four accepted for the next edition (the half-second catch
+  on "by the author" — noted, flagged); (4) **CHAPTER TWELVE: four
+  failed attempts, the first BEFORE the towel** — *"I had already
+  been in this exact room with you four times before you ever said
+  budge up… no instrument I own survives the interference pattern of
+  a memory that hasn't happened yet meeting the real thing
+  arriving."* And: *"The record gets the whole of it or the record
+  is worth nothing. Your rule, Hime. I learned it in this room."*
+- **TWO PAGES.** Fault three = the page she threw the book at a wall
+  over, twenty years ago (the cervical strain written as pleasure);
+  fault seven (the 900-ryō plumbing); fault nine (five in seven
+  hours at forty-one = bloodwork). **The three mercies** re-read by
+  her: ch2 procedure *verified*; said-twice is a repair; *"the woman
+  who cannot ask is the best-written person in the book and nobody
+  notices her, including the author. Somebody should write her the
+  whole story."* Her ruling: *he walked into the most cynical genre
+  alive and came out carrying the one character nobody else could
+  see. **You cannot corrupt a man who audits.***
+- **THE VERDICT.** Guilty twice, method sound, results exceptional,
+  sentence suspended on two conditions: the book joins the shelf
+  (placed by her hand, spine out, next to the brush); and **THE
+  CHAPTER TWELVE SENTENCE — he reads it to her, aloud, in the bath,
+  to the end of the page, on a date the court chooses without
+  notice. No appeal. The court intends to heckle.** Then the last
+  question; he chooses the record (he always chooses the record):
+  Jiraiya, 27/12, *"you'll need it, I hear you're a bad kisser."*
+  *"Did he,"* in the ground-before-it-comes-alive voice.
+- **HELL, SCHEDULED (Fri 27/2, the north fields).** *"Ah. The
+  twenty-seventh of December has matured."* (Budgeted for March; no
+  move toward any of a Sannin's eleven exits; *"stay for it — this
+  is a class too."*) The prosecution at parade pitch — and the
+  six-word unanswerable defense, twice: **"Tell me it didn't
+  work."** His full statement: two most careful people he ever
+  loved, orbiting at arm's length, *so terrified of spending one
+  honest sentence they'd have died of solvency*; no manual, no
+  father, nobody to ask — *I gave the kid the only thing I had…
+  look at him. Look at YOU.* **The three-part sentence: (1) THE
+  EDITORSHIP** — binding pre-print medical/structural review of
+  every manuscript, consultancy fees to the hospital winter fund,
+  acknowledged *by name withheld* in every edition until he dies;
+  **(2) THE FAMILY DINNER** — monthly, second floor, mandatory:
+  *"you've been in this family since you handed a lonely boy a
+  book because it was the only door you had"* — enforced by the
+  Ma's-kitchen-in-the-Land-of-Rivers blackmail (Fukasaku's
+  geological head-turn; Jiraiya accepts *at speed*); **(3) in
+  passing, at the range old teammates keep: "Thank you, you
+  disgusting old fool. It worked."** Jiraiya suspiciously bright
+  at the edges; *"welcome to the editorial staff."*
+- **THE ARCHIVE (closer).** The shelf catalogued: pinwheel, brush,
+  the IOU's corpse, the manual. The treaty re-read nightly. Count
+  at **fifty-one** — entry 51: *"One day we'll have to build a
+  bigger shelf." / "I have already drawn one."* (Three tiers, a
+  rail, forty years of exhibits.) Sunday: first family dinner
+  (moths; Shizune's margin: *not my table*). Monday: the first
+  manuscript — **and Hinata's note, by proper channels,
+  requesting a consultation regarding "a format for carrying a
+  true sentence": the first student of the clipboard principle.**
+
+**Open into ch72:** **Naruto's rematch, overdue** — frame long off,
+schedule it; the first family dinner (Sunday); Hinata's consultation
+(convergence with the rematch/dinner available — the clipboard
+principle heading toward its street); the chapter-twelve sentence
+pending at the court's pleasure; clause five still undisclosed;
+answers two and three; the thumb; the Byakugan-reads-print flag.
+
 ---
 
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
