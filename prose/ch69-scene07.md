@@ -1,158 +1,186 @@
-# Chapter 69, Scene 7 — The Maker's Mark
+# Chapter 69, Scene 7 — The Infantry
 
-*Act 5, part A. Konoha, the tower, the second floor. Sazare Ruri,
-age eighteen. POV: Sazare. ~1290 words.*
-
----
-
-The brush took him four evenings, worked at the yard bench after
-the light went, off the best data set he owned: fifty passes a
-night, twelve nights running, logged through a support hand that
-had turned out to remember everything.
-
-It was not a large project. That was, structurally, the point. The
-month had grown large around him — a trademark, a category, a
-waiting list, a board — and the brush was the counterweight he
-built without noticing he was building one: a thing with a
-population of exactly one, that would never see a docket, for
-which there was no queue.
-
-The engineering was honest work all the same, because she would
-know inside three passes if it wasn't.
-
-The static first, because the static was the standing fault in
-the current instrument: her hair banked the winter's charge like
-a stored asset and the boar-bristle paid it back in crackle and
-cling. Crystal drained it. That was not even new engineering —
-it was the first property of the material he had ever known,
-before he knew it was a property, watching his mother's frames
-sit quiet in dry cold that made every other surface in the shop
-spit sparks. The brush-back was one open article, self-keeping,
-drawing its trickle of upkeep from the air like the stones at
-Tarugi, and it bled the charge off her hair as it went so the
-fiftieth pass laid down as smooth as the fifth.
-
-The teeth were the real work: forty-one of them, individually
-grown, graded soft-to-firm from rim to centre the way a good
-comb's never were and every good comb's should have been, each
-tip finished round under the loupe at the standard he had last
-used on articles that went inside people. A tooth that would
-never snag, in hair fine at the temple and heavy at the crown,
-across every combination the twelve nights had mapped. The
-handle took her grip, not his — he had her hand's numbers from
-the calibration rig, which the file would note was exactly the
-sort of secondary use the fitting data was never docketed for —
-and the whole instrument sat at hand-heat, always, the small
-constant warmth of a working article, so that picking it up on
-a January evening would feel less like lifting a tool and more
-like resuming a held hand.
-
-None of it was ornament. He checked twice, at the end, the way
-his mother had checked the trestle grades against the kept-back
-pieces: nothing on the brush existed to be admired. Everything
-on it existed to work. It was, he concluded, the most Ruri
-object he had ever made — the shop's whole doctrine, four
-hundred years of it, in one instrument for one woman — and it
-was that conclusion, arriving on the fourth evening with the
-work complete on the cloth in front of him, that told him what
-the brush still lacked, and what the lack had been costing him
-for nine hundred articles.
+*Act 5, part A. Konoha, the hospital, floor two. Sakura, age
+sixteen. POV: Sakura. ~1460 words.*
 
 ---
 
-The panel on the sword said *unknown*, and said it honestly.
-Nine hundred articles had gone out of his hands unmarked —
-wards, splints, stones, the blade itself — and he had never cut
-a mark because a mark said *mine*, and nothing had ever been
-his: every article of his life had arrived with somebody at the
-front of it holding the specification, and the work had
-belonged to the specification, and the specifications had
-belonged to the village, the Corps, the ward, the file.
+Sakura heard about the pilot on the Friday, from Shizune, in the
+form of a protocol briefing that Shizune delivered with a
+completely straight face, which was how Sakura knew it was going
+to be the best briefing of the winter.
 
-The brush had no specification. Nobody had commissioned it.
-There was no docket, no channel, no name in the front of it but
-the one he chose to cut.
+"A pilot study," said Shizune. "Load-supporting garment articles
+for the active roster. Medical oversight is one form — side
+effects of prolonged crystal contact. Fabricator is Sazare.
+Design authority is a women's board. We need volunteer wearers
+from the roster for the trial cohort."
 
-He cut the mark small, on the underside of the handle's heel,
-where a thumb falls when the grip is the resting grip and
-nowhere else — invisible to every eye, found by exactly one
-hand, exactly where that hand would settle on ten thousand
-evenings. The mark itself he had carried designed and unused
-for eleven years without once admitting what it was: the
-frame-maker's knot his mother cut into her keepers, the pieces
-that never went on the trestle, simplified by one stroke,
-which in the shop's old grammar was how a child of the house
-signed work done in the family style but their own.
+Sakura had her hand up before the sentence ended, which was not a
+thing the briefing format required, and she left it up anyway,
+on principle, until it was acknowledged.
 
-First mark of his life. Nine hundred and first article.
+She had a column for him. She had had a column for him since the
+east stair, updated in a code that was hers alone, and the
+column had absorbed some extraordinary entries in eighteen
+months — the wall at forty feet, the lighthouse, the twentieth
+of December, the day her own name went on a splint protocol —
+and she recognised this one at first sight as a new species.
 
-*Entry: the panel on the sword stays* unknown*, because the
-sword still is. This one I know.*
+*He found the bindings,* she wrote in it, that evening. *Every
+kunoichi in this village has been wearing the same sixteen feet
+of cloth since our grandmothers, and complaining about it only
+to each other, in changing rooms, in the specific voice you use
+for things that will never change — and a boy found it in an
+incident report, because it broke one of his splints, and
+instead of filing it he got ANGRY. One adjective's worth. For
+him that's incandescent.*
 
 ---
 
-He gave it to her that evening the way he had planned not to
-give it — no presentation, no speech; the plans for the small
-rows had a documented failure mode and he had learned it in a
-bathtub — by simply having it in his hand at the appointed
-hour, when she sat down on the end of the bed and reached for
-the old brush, and offering it instead, handle first, the way
-the Corps handed instruments.
+She raised the obvious at the fitting session, because somebody
+was going to and she preferred it be somebody with the standing
+to make it land right.
 
-"Functional upgrade," he said. "The old one loses your fiftieth
-pass to static. This one won't. That is the whole of the
-pitch."
+"I want it on the record," she said, arms folded, while the ward
+matron laid out the prototype range, "that I'm volunteering as —
+let's be honest about the demographics. This project was founded
+on the heavy cavalry. I'm applying from the infantry."
 
-She turned it over once in her hands — he watched her read it,
-the way she read everything now, his methods having proven
-contagious in both directions: the teeth, the grade, the
-warmth, one eyebrow moving at the warmth — and then her thumb
-found the heel of the handle, because her thumb was always
-going to find it, he had built the finding into the geometry,
-and she went still.
+The matron snorted. Shizune wrote *cohort covers full range* in
+the margin without looking up.
 
-She knew what it was. Not the knot — the knot's grammar had
-died with a shop over the water — but what it *was*: a mark,
-on an article, from a man whose file said in four places that
-he had never marked anything, and she sat with her thumb on
-it for a long moment in the lamplight without saying one
-word, which was itself the correct reading of the document.
+And then she tried the prototype.
 
-"It's the first," she said. Not a question.
+They had built one *in her sizes*. That was the first thing —
+not a scaled-down version of somebody else's garment, which was
+the whole forty-year history of the standard issue, but a thing
+engineered from her own numbers, because apparently the
+fabricator had pulled the anonymised fit data and treated every
+band on the roster as its own load case, on the grounds — the
+matron read it off the docket, deadpan — that *support is a
+function of movement, not mass, and the wearer most likely to
+be inverted mid-engagement is the wearer the current issue
+serves worst.*
 
-"It's the first."
+Inverted mid-engagement. He had designed for the backflip. He
+had designed for *her* backflip — for the acrobatic end of the
+roster, the fast small fighters, the ones who spent fights
+upside down and had been strapping themselves flat with cloth
+since the Academy because the alternative was worse.
 
-"And it's on a hairbrush." Her voice was doing something at
-the edges, and she let it, which by the new arithmetic of the
-tower counted as saying it plainly. "Nine hundred articles.
-Wards. That sword. The stones half the village queues for.
-And the maker's mark of the last of the Ruri goes
-on the back of a *hairbrush*."
+She did the trial circuit in the physio corridor — sprint,
+vault, the flips, a full tumbling pass, the matron calling
+items off the protocol like a race steward — and somewhere
+around the third handspring she registered what was different,
+and the difference was *nothing*. Nothing moved that she
+hadn't moved. Nothing pulled, nothing shifted, nothing needed
+one corner of her attention held back to manage it, and she
+had not known, until the attention came free, that she had
+been spending it — every training day, every fight, since she
+was twelve — because it was the water everybody swam in, and
+the form had no box.
 
-"Yes," he said. "The other nine hundred were for
-specifications. This one is for the evenings. The mark is so
-that—" and here the working register, which had carried him
-through a trademark, a board, and a hundred and forty-one
-petitioners, arrived at the sentence it had actually been
-built to carry, and held, level, the way it held everything
-that mattered— "the mornings are spoken for, and one day the
-missions will be too, and there will be evenings when the
-hand holding that is the only one of us in the room. It
-seemed to me the instrument should be able to say who it
-came from. It says it where only you can hear it. That is
-the rationale, and it was never going to be on request."
+She stood in the corridor at the end of the pass with her heart
+rate coming down and did not say any of that out loud.
 
-The lamp burned. The snow, which had been coming and going
-all week, came again, softly, against the dark of the
-window.
+"Well?" said Shizune, pen ready. "For the cohort record."
 
-Tsunade looked at the brush for a while longer. Then she put
-it down on the shelf beside the blue pinwheel — deliberately,
-adjusting it once, a curator's motion, the founding of a
-collection — and did not go to the window at all, and held
-out her hand for him instead.
+"No adverse effects," said Sakura, in her best clinical voice.
 
-"Fifty passes," she said. "Fabricator. And then bed."
+"And off the record?"
 
-The count, that evening, went uncounted. There was a first
-time for everything.
+Sakura looked at the form, and the matron, and the queue of
+ward staff that had somehow formed at the physio corridor door
+during her circuit, none of whom had a scheduled reason to be
+there and all of whom were looking at the prototype table.
+
+"Off the record, I'm not giving it back," she said. "Write
+that up however you need to. I have read the withdrawal
+procedure and I want a lawyer, and my lawyer is the Hokage,
+and I do her filing, so I like my chances."
+
+---
+
+The cohort day proper ran the following Tuesday, and Sakura worked
+it as clinical observer, which gave her the best seat in the
+hospital for watching a fortnight of history happen in a physio
+corridor.
+
+Thirty-one fittings, run by the matron's team behind screens, with
+the fabricator not in the building — his own standing order, the
+matron said, reading it off the docket with visible approval:
+*fittings are conducted by women; the fabricator receives numbers,
+not persons.* The numbers went to the yard by runner and the
+adjusted articles came back the same afternoon, which nobody on
+the corridor could quite believe until they watched it happen
+twice — a strap regraded between lunch and the end of shift, to a
+complaint made at eleven.
+
+She logged the circuit results as they came, and the log turned
+into a document she already knew she would keep a copy of against
+some future argument about what mattered in this village.
+
+Night nurse Okabe, nineteen years of lifting patients: walked the
+circuit, then stood at the end of the corridor with her hands
+pressed flat to her lower back, feeling for the ache that had
+clocked on with her every shift since her twenties, and not
+finding it, and saying nothing at all for long enough that the
+matron went and stood with her.
+
+Two chūnin from the barrier detail, built like the heavy cavalry
+the project was founded on, who did the sprint pair side by side
+and came off the line laughing — actually laughing, the pure
+startled kind — at the sheer novelty of running without bracing
+for it.
+
+Tachibana Rei, discharged that morning, rib cleared, who had by
+common consent the first production article and the last word:
+she did the full course, sprint, vault, tumbling pass, landed the
+last one soft as a cat, stood up straight, and delivered her
+verdict to the corridor in field-report format — "Full depth
+breathing at speed. No compression. No shift. It's over, girls,
+the sixteen feet of cloth is *over*" — and the corridor, which
+held at that point some twenty women who had all made the same
+choice she'd made since they were thirteen, made a sound Sakura
+had never heard indoors in a hospital, and Shizune did not even
+pretend to minute it.
+
+And the queue. The queue was the historical event, if you knew
+how to read it, and Sakura knew exactly how. It formed at the
+physio door mid-morning and by shift-change it was eleven deep —
+ward staff, two jōnin who had heard something at the standby
+room, a records clerk who had processed the docket and drawn her
+own conclusions — none of them with a scheduled reason, all of
+them holding the particular casual posture of women who had
+decided to be passing by. Shizune came down at four, surveyed
+it, opened the standing list on a clipboard without a word of
+ceremony, and the queue converted itself into signatures at a
+rate that made the records clerk, third in line, say, "I've
+never seen an uptake curve do that," and Shizune say, "Nobody
+has. Print your name clearly."
+
+---
+
+*Column entry, Friday,* she wrote that night. *He built for the
+infantry with the same seriousness as the cavalry, because to
+him we were never infantry and cavalry, we were load cases,
+and every load case gets the full method — which is, when you
+sit with it, the single most egalitarian sentence anybody has
+ever said about my chest, and he said it in a DOCKET, in the
+notation, without noticing it was remarkable.*
+
+*Second entry, appended, because the column keeps the whole of
+it: the queue at the physio door was eleven people. Word
+reached the jōnin standby room before I'd finished the
+tumbling pass. Kurenai-sensei has "requested to volunteer for
+the expanded cohort," which is the most senior sentence ever
+attached to an underwear trial, and two of the genin girls
+asked me — me, personally, in the corridor, as if I control
+anything — when there'll be one for training weights.*
+
+*He has no idea what he's started. He thinks this is a medical
+device pilot.*
+
+*It's going to be an industry by spring, and I have early
+access, and I am going to be absolutely unbearable about it.*

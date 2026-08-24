@@ -2480,9 +2480,49 @@ fuse pile at four and growing a scene at a time; Naruto's rematch
 ~mid-month 2; Saeko's debt standing; the two bells and the gamble kanji
 still hers, unasked.
 
-## C18. CH69 — THE MAKER'S MARK — **WRITTEN**, seven scenes, ~7,000 words
+## C18. CH69 — THE MAKER'S MARK — **WRITTEN, then REDONE at full density**:
+eleven scenes, ~12,600 words
 
-19/1 - 31/1. **The Hime line.** Fixed by the writing:
+Month 1 the 19th to month 2 the second week. **The Hime line.** The redo
+added, as scenes rather than summary: **the Tachibana interview** (her
+spec at dictation speed — hold without compression, breathe at full
+depth, anchor off the frame, come off one-handed at the end of an
+eleven-hour day; *"nobody who builds anything ever asked"; "I have been
+choosing between those two injuries since I was thirteen"*); **the board
+convened** (Matron Sonobe, 31 years, *"when I say a seam is wrong—?" /
+"then the seam is wrong"* — first correct answer in eleven committees;
+Akimoto Tsuru's field doctrine — survive a henge, work soaked, fail safe
+to cloth, SILENT below the sensory floor, doable one-handed in the dark
+injured; the mirrored-handedness closure error; colour tabled *because it
+deserves its own hour*); **the four drafts of attachment twelve** (draft
+one sincere = wrong material; the finding: her tease is rigour delivered
+level through the correct channel, and the rigour is the affection —
+watched eleven times, finally reproduced); **the fitting at full
+length** (her palpation technique recognised in the ovals — *"you've
+built my hands into a stone"*; the eleven-minute strap-geometry argument
+producing the graded-transfer answer that belongs to the argument, not
+either arguer); **the cohort day** (fittings by women only, the
+fabricator receives numbers not persons; nurse Okabe's absent ache;
+Tachibana's verdict — *"it's over, girls, the sixteen feet of cloth is
+over"*; the queue converting to signatures); **the Ino scene** (past
+Tenzō in eleven seconds; eleven money-confirmed orders in violet ink;
+the colour thesis — *functional does not have to mean penitential*; and
+THE PROBE: *"it's a dedication name — like there's a specific one"* —
+answered with the load-case truth, and the most dangerous reader in the
+village leaves carrying the cover as branding: *"every woman gets to be
+the Hime"* — noted as *almost* sure she bought it); **the colour hour**
+(Ino's palette with field rationales; grey defeated five to nothing in
+eleven minutes; first run in slate blue, iron red, winter pine); and
+**the brush as a four-evening sequence** (the fault list; *"the stone
+drinks it"* — his mother's answer certified accurate at eighteen; six
+rejected teeth incl. the category no form recognises; and THE
+KEEPER-KNOT'S FULL GRAMMAR: the clan stamp for trestle work, the knot
+for keeper-work not for the world, the knot-simplified-by-one-stroke
+for a child of the house whose hands are ready — uncut for eleven years
+because cutting it alone *would have been the loneliest act on the
+continent*; "It is not for no one now").
+
+Original fixed facts, all standing:
 
 - **GENESIS, CLINICAL.** Tachibana Rei, chunin, 24 — splint 44-B beaten by
   chest bindings resumed *against advice, citing operational requirements*.

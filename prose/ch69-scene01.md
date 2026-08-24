@@ -1,7 +1,7 @@
 # Chapter 69, Scene 1 — Interface Failure
 
 *Act 5, part A. Konoha, the quartermaster's yard. Sazare Ruri, age
-eighteen. POV: Sazare. ~780 words.*
+eighteen. POV: Sazare. ~1340 words.*
 
 ---
 
@@ -61,6 +61,72 @@ water everybody swims in that the intake form does not have a box
 for it.*
 
 *Half the shinobi force. Forty years. No box on the form.*
+
+---
+
+He went up to the ward on the Tuesday, after the field, with the
+querying practitioner's leave and a nurse present, because the
+survey had a hole in it the data could not fill and the hole was
+shaped like a person.
+
+Tachibana Rei turned out to be small, square-built, and entirely
+unembarrassed, sitting up in bed working a grip ring with the
+bored diligence of the recovering professional, and when he
+introduced himself she looked at the Corps card and then at him
+and said, "You're the splint man. Am I in trouble with the
+splint?"
+
+"The splint is in trouble with you. I would like to understand
+why, and the intake notes say *operational requirements*, and I
+have learned that phrase is where the true sentence gets buried."
+
+"Huh," said Tachibana, and put the grip ring down, and looked at
+him for a moment with an assessing frankness he recognised,
+because it was the look the whole roster gave a man before
+deciding how much of the real version he could be trusted to
+hold. The nurse, at the door, did an encouraging thing with her
+eyebrows that was not for him.
+
+"Fine. The real version." Tachibana counted it off the way
+field people counted everything, on fingers. "One: I run
+courier routes, which is eleven hours a day of impact. Without
+the bindings, that's eleven hours of — moving. Pulling. By hour
+four it's pain and by hour eight it's a distraction, and a
+distracted courier on a border road is a dead one, so: I bind.
+Two: bound, I can't breathe past half depth, my shoulder grooves
+are cut through by autumn, and apparently—" she nodded at her
+own ribs, unrepentant— "I turn cracked bones into whatever this
+was. Three, and write this one down, splint man, because your
+form never asks it: I have been choosing between those two
+injuries since I was thirteen years old. Everyone I work with
+makes the same choice. We compare notches. It's not a secret,
+it's just—" she shrugged, and the shrug was the whole survey in
+one motion— "nobody who builds anything ever asked."
+
+He wrote it down. All of it, in her words, at his usual speed,
+and she watched the pen with something arriving in her face by
+degrees.
+
+"You're actually going to do something," she said. "This isn't a
+complaint file."
+
+"The complaint file is the same file," said Sazare. "That has
+been my one professional advantage for three years. What would
+it need to do? Not tolerate. Do. If somebody built it properly.
+Specify it to me as if I could make it, because that is the
+situation."
+
+Tachibana Rei, chūnin, twenty-four, eleven years of two
+injuries, looked at the ceiling of the ward for a long moment,
+and then gave him, fluently, at dictation speed, without one
+wasted word, the most precise product specification he had
+received in his career — hold without compression, breathe at
+full depth, survive a sprint, a tree line, and a fall, anchor
+off the frame not the shoulders, and come off one-handed at the
+end of an eleven-hour day when her arms were done — and at the
+end of it she said, "And if you actually build that, the roster
+will name a training ground after you," and did not know, could
+not have known, that she was underestimating.
 
 ---
 

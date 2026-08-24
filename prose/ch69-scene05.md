@@ -1,126 +1,100 @@
-# Chapter 69, Scene 5 — The Infantry
+# Chapter 69, Scene 5 — Attachment Twelve
 
-*Act 5, part A. Konoha, the hospital, floor two. Sakura, age
-sixteen. POV: Sakura. ~940 words.*
-
----
-
-Sakura heard about the pilot on the Friday, from Shizune, in the
-form of a protocol briefing that Shizune delivered with a
-completely straight face, which was how Sakura knew it was going
-to be the best briefing of the winter.
-
-"A pilot study," said Shizune. "Load-supporting garment articles
-for the active roster. Medical oversight is one form — side
-effects of prolonged crystal contact. Fabricator is Sazare.
-Design authority is a women's board. We need volunteer wearers
-from the roster for the trial cohort."
-
-Sakura had her hand up before the sentence ended, which was not a
-thing the briefing format required, and she left it up anyway,
-on principle, until it was acknowledged.
-
-She had a column for him. She had had a column for him since the
-east stair, updated in a code that was hers alone, and the
-column had absorbed some extraordinary entries in eighteen
-months — the wall at forty feet, the lighthouse, the twentieth
-of December, the day her own name went on a splint protocol —
-and she recognised this one at first sight as a new species.
-
-*He found the bindings,* she wrote in it, that evening. *Every
-kunoichi in this village has been wearing the same sixteen feet
-of cloth since our grandmothers, and complaining about it only
-to each other, in changing rooms, in the specific voice you use
-for things that will never change — and a boy found it in an
-incident report, because it broke one of his splints, and
-instead of filing it he got ANGRY. One adjective's worth. For
-him that's incandescent.*
+*Act 5, part A. Konoha, the tower, the second floor. Sazare Ruri,
+age eighteen. POV: Sazare. ~810 words.*
 
 ---
 
-She raised the obvious at the fitting session, because somebody
-was going to and she preferred it be somebody with the standing
-to make it land right.
+The appointment letter had taken him four drafts, which for one
+page of administrative prose was a personal worst, and the reason
+it had taken four was that the document had a second job, and the
+second job was new to him, and he had built it the way he built
+everything new: to specification, from parts, with the purpose in
+his hand at every step.
 
-"I want it on the record," she said, arms folded, while the ward
-matron laid out the prototype range, "that I'm volunteering as —
-let's be honest about the demographics. This project was founded
-on the heavy cavalry. I'm applying from the infantry."
+Draft one had been sincere, which was the wrong material
+entirely. He read it back and it was a love letter wearing a
+form's clothing, and a love letter was not the commission — she
+had four of those already in deed if not in writing, the bath and
+the squid and the market report and fifty passes a night. The
+commission was retaliation. He filed draft one in the brazier.
 
-The matron snorted. Shizune wrote *cohort covers full range* in
-the margin without looking up.
+Draft two had been funny, and he distrusted it on principle,
+because he had been reliably funny for exactly six weeks and the
+mechanism was still under review. He read it to the empty upper
+room in the working register, and it survived, and then he
+imagined it read in *her* voice, at her desk, and found two
+places where funny curdled into clever, and clever was the
+failure mode — clever was a man showing his work. He kept four
+sentences and burned the rest.
 
-And then she tried the prototype.
+Draft three taught him the actual specification, the way third
+drafts did: the document had to do what *she* did. That was the
+whole finding. Her teasing was never clever and never cruel and
+never off balance — it arrived level, in the ordinary
+administrative weather, deadpan as a filing date, and it was
+devastating precisely because every word of it was true and
+delivered through the correct channel with a straight face. The
+tease was rigour. The rigour was the affection. He had been on
+the receiving end of the method since a towel in December and
+he knew it now from inside, the way he knew her palpation
+technique: watched eleven times, finally reproduced.
 
-They had built one *in her sizes*. That was the first thing —
-not a scaled-down version of somebody else's garment, which was
-the whole forty-year history of the standard issue, but a thing
-engineered from her own numbers, because apparently the
-fabricator had pulled the anonymised fit data and treated every
-band on the roster as its own load case, on the grounds — the
-matron read it off the docket, deadpan — that *support is a
-function of movement, not mass, and the wearer most likely to
-be inverted mid-engagement is the wearer the current issue
-serves worst.*
+Draft four he wrote in nineteen minutes, clean, and knew it the
+way he knew a casting had come off the note true.
 
-Inverted mid-engagement. He had designed for the backflip. He
-had designed for *her* backflip — for the acrobatic end of the
-roster, the fast small fighters, the ones who spent fights
-upside down and had been strapping themselves flat with cloth
-since the Academy because the alternative was worse.
+*APPOINTMENT: LEAD MODEL, PILOT LINE "HIME."*
 
-She did the trial circuit in the physio corridor — sprint,
-vault, the flips, a full tumbling pass, the matron calling
-items off the protocol like a race steward — and somewhere
-around the third handspring she registered what was different,
-and the difference was *nothing*. Nothing moved that she
-hadn't moved. Nothing pulled, nothing shifted, nothing needed
-one corner of her attention held back to manage it, and she
-had not known, until the attention came free, that she had
-been spending it — every training day, every fight, since she
-was twelve — because it was the water everybody swam in, and
-the form had no box.
+*Term: life. The appointee's attention is drawn to the precedent
+of a certain paper dated the twentieth of the twelfth, regarding
+instruments that outlive their occasions.*
 
-She stood in the corridor at the end of the pass with her heart
-rate coming down and did not say any of that out loud.
+*Compensation: nil. The position is, however, first in the queue
+for all new work, in perpetuity, and all bespoke work is
+performed gratis, the fabricator having conducted a review of
+the appointee's account and concluded it cannot be settled in
+ryō.*
 
-"Well?" said Shizune, pen ready. "For the cohort record."
+*Duties: one. The appointee shall, at fittings, adhere to the
+working protocol, it being a matter of documented record —
+incident of the eleventh of this month, one (1) nosebleed,
+treated on scene — that the fabricator's instruments overload
+in the appointee's vicinity, and the fabricator having a
+production schedule to keep.*
 
-"No adverse effects," said Sakura, in her best clinical voice.
+*Note, appended in the interests of the complete record this
+office is known for: the fabricator is aware that the overload
+protocols currently in force in this tower were not, in fact,
+his design. He has identified the responsible researcher. He has
+reviewed her methodology, increment by increment, going back to
+a certain towel. He finds it excellent. He gives notice that,
+effective this appointment, the teasing now runs in both
+directions, and that he has eleven years of patience and a
+filing system.*
 
-"And off the record?"
+*Signed, the fabricator, who is also the man, the two having
+been reliably reported not to come apart.*
 
-Sakura looked at the form, and the matron, and the queue of
-ward staff that had somehow formed at the physio corridor door
-during her circuit, none of whom had a scheduled reason to be
-there and all of whom were looking at the prototype table.
+She had not mentioned it at dinner. He had not mentioned it at
+dinner. This was itself a negotiated settlement, arrived at
+without one word of negotiation: he had watched her decide, over
+the soup, to say nothing — watched the sentence assemble behind
+her eyes, get weighed, and get *banked*, with the visible
+satisfaction of a gambler who has recognised a long game and
+raised — and she had watched him watch the decision, and neither
+had blinked, and the soup had proceeded. The letter sat in her
+folder and the silence about it sat
+at the table between them, enormously comfortable, like a third
+guest both of them liked, and twice he watched her start to smile
+at nothing and decline to explain herself, and he logged both
+instances, and said nothing, because notice had been given and
+the notice was the tease and the tease, for the first time in
+the history of their arrangement, was *his*.
 
-"Off the record, I'm not giving it back," she said. "Write
-that up however you need to. I have read the withdrawal
-procedure and I want a lawyer, and my lawyer is the Hokage,
-and I do her filing, so I like my chances."
-
----
-
-*Column entry, Friday,* she wrote that night. *He built for the
-infantry with the same seriousness as the cavalry, because to
-him we were never infantry and cavalry, we were load cases,
-and every load case gets the full method — which is, when you
-sit with it, the single most egalitarian sentence anybody has
-ever said about my chest, and he said it in a DOCKET, in the
-notation, without noticing it was remarkable.*
-
-*Second entry, appended, because the column keeps the whole of
-it: the queue at the physio door was eleven people. Word
-reached the jōnin standby room before I'd finished the
-tumbling pass. Kurenai-sensei has "requested to volunteer for
-the expanded cohort," which is the most senior sentence ever
-attached to an underwear trial, and two of the genin girls
-asked me — me, personally, in the corridor, as if I control
-anything — when there'll be one for training weights.*
-
-*He has no idea what he's started. He thinks this is a medical
-device pilot.*
-
-*It's going to be an industry by spring, and I have early
-access, and I am going to be absolutely unbearable about it.*
+*Entry: returned fire, first instance. Delivered in writing,
+through her own filing system, with a reference number. Report:
+there is a whole second language here and I have been a
+listener in it for two months and I have just said my first
+sentence out loud, and her face at the door — the half-second
+before the register caught it — is going in the permanent
+collection.*

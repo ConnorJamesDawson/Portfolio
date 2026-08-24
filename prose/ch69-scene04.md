@@ -1,146 +1,162 @@
-# Chapter 69, Scene 4 — Attachment Twelve
+# Chapter 69, Scene 4 — The Specification Holders
 
-*Act 5, part A. Konoha, the tower, the second floor. Sazare Ruri,
-age eighteen. POV: Sazare. ~1080 words.*
-
----
-
-The appointment letter had taken him four drafts, which for one
-page of administrative prose was a personal worst, and the reason
-it had taken four was that the document had a second job, and the
-second job was new to him, and he had built it the way he built
-everything new: to specification, from parts, with the purpose in
-his hand at every step.
-
-*APPOINTMENT: LEAD MODEL, PILOT LINE "HIME."*
-
-*Term: life. The appointee's attention is drawn to the precedent
-of a certain paper dated the twentieth of the twelfth, regarding
-instruments that outlive their occasions.*
-
-*Compensation: nil. The position is, however, first in the queue
-for all new work, in perpetuity, and all bespoke work is
-performed gratis, the fabricator having conducted a review of
-the appointee's account and concluded it cannot be settled in
-ryō.*
-
-*Duties: one. The appointee shall, at fittings, adhere to the
-working protocol, it being a matter of documented record —
-incident of the eleventh of this month, one (1) nosebleed,
-treated on scene — that the fabricator's instruments overload
-in the appointee's vicinity, and the fabricator having a
-production schedule to keep.*
-
-*Note, appended in the interests of the complete record this
-office is known for: the fabricator is aware that the overload
-protocols currently in force in this tower were not, in fact,
-his design. He has identified the responsible researcher. He has
-reviewed her methodology, increment by increment, going back to
-a certain towel. He finds it excellent. He gives notice that,
-effective this appointment, the teasing now runs in both
-directions, and that he has eleven years of patience and a
-filing system.*
-
-*Signed, the fabricator, who is also the man, the two having
-been reliably reported not to come apart.*
-
-She had not mentioned it at dinner. He had not mentioned it at
-dinner. The letter sat in her folder and the silence about it sat
-at the table between them, enormously comfortable, like a third
-guest both of them liked, and twice he watched her start to smile
-at nothing and decline to explain herself, and he logged both
-instances, and said nothing, because notice had been given and
-the notice was the tease and the tease, for the first time in
-the history of their arrangement, was *his*.
-
-*Entry: returned fire, first instance. Delivered in writing,
-through her own filing system, with a reference number. Report:
-there is a whole second language here and I have been a
-listener in it for two months and I have just said my first
-sentence out loud, and her face at the door — the half-second
-before the register caught it — is going in the permanent
-collection.*
+*Act 5, part A. Konoha, the hospital, the board room. Sazare Ruri,
+age eighteen. POV: Sazare. ~1320 words.*
 
 ---
 
-The first fitting ran Thursday evening, upstairs, under the
-working protocol, with the instruments laid out on a cloth: the
-tape, the calipers, the four load-reading articles he had grown
-for the purpose — small flat ovals, warm, each one reporting
-pressure as a change in its own note that he read off his
-fingertips like braille.
+The design board convened for the first time on the Friday, in the
+hospital's small board room, and he attended by summons, with the
+prototypes in a case and his role written into the standing orders
+in his own words: *the fabricator attends to receive specification.*
 
-The theory held.
+Five women at the table. Tsunade in the chair, wearing the office.
+Shizune with the protocol file and three sharpened pens, one of
+which was for show and two of which were for casualties. Sakura,
+youngest by a decade, sitting with the particular straightness of
+somebody who intended to earn the seat in the first hour. The ward
+matron, Sonobe — thirty-one years on the floors, forearms that had
+turned ten thousand patients, a face like a well-kept ledger — and
+beside her the roster's representative, Akimoto Tsuru, jōnin,
+seventeen years of field work, who had arrived early, chosen the
+seat with sightlines on the door and the window, and been visibly
+unable to stop herself checking the room's exits, which he noted
+with fellow-feeling and did not remark on.
 
-That was the finding, and he logged it with the caution of a man
-who had been ambushed by every previous finding in the file: the
-working register, engaged and given a genuine engineering
-problem to stand on, carried him through forty minutes of the
-exact proximity that had been shorting him out since November.
-Measurements taken, called aloud, recorded. Load paths mapped
-across the structure that had broken his vocabulary in December
-— and the vocabulary held, because it was the *working*
-vocabulary: anchor, span, moment, distribution. The clipboard
-was real armour. The occupied instrument ran warm but ran.
+"Standing orders," said Tsunade, without ceremony. "This board
+holds design authority over the line. Entire. The fabricator
+builds what this table specifies, and where fabrication limits
+bite, he states the limit and the table designs around it. He does
+not vote. Objections."
 
-And the second finding, unforecast, worth more than the theory:
+"One question," said Matron Sonobe, in the voice of a woman who
+had sat on eleven hospital committees and watched authority be
+described and then not delivered, "before I invest a winter of
+Fridays. When I say a seam is wrong—" she looked at Sazare, not
+at the chair— "what happens?"
 
-*She is enjoying this.*
+"Then the seam is wrong," said Sazare, "and I re-engineer, and I
+return it to you for re-inspection, and it is wrong until you say
+otherwise. You hold the specification. I hold the tolerances.
+Where those conflict, we will have found something real, and
+finding something real is the best outcome a bench ever
+produces."
 
-Not enduring it, not performing patience with a boy's project.
-Engaged — medic to engineer, fifty years of anatomy meeting
-eleven years of load work at the exact seam where both trades
-had always kept their best material. She talked him through the
-anchor physiology and he talked her through the article grading
-and somewhere in the second twenty minutes it had stopped being
-a fitting and become the best shop talk of his life, the two of
-them arguing amiably about strap geometry with the intensity
-other couples reserved for territory, and he understood, mid-
-argument, with the tape in his teeth, that he had accidentally
-built the thing the small rows had been reaching for all month.
+There was a silence with reassessment in it.
 
-*Not a moment. A workbench. A thing that is ours, that neither
-of us brought to the other finished. The holiday was hers, the
-bath was mine; this we are building at the same bench, and the
-bench does not care that one of us is a Hokage, and I have not
-short-circuited in forty minutes, and I am having, by a
-distance, the most fun available to me in this village.*
+"Thirty-one years," said Sonobe, to the table at large, "and
+that is the first time anybody has answered that question
+correctly on the first attempt. Very well. I'm in, and I brought
+notes." She produced them. They were extensive.
 
-She waited until minute forty-one.
+---
 
-He was closing the session — instruments back on the cloth, last
-figures into the book, the register beginning to stand down —
-and she, still in the calibration rig, stretched exactly once,
-unhurried, complete, a woman easing a long day out of her spine
-in a manner that was fully, medically justifiable and had
-absolutely no business being what it also was, and said, in the
-flat administrative voice, to the ceiling:
+The next two hours were the most useful of his professional life,
+and he filled forty pages, and the forty pages rearranged the
+project twice.
 
-"For the minutes: best fitting I've had in fifty years. The
-fabricator is a professional. His protocols held the whole
-session." A pause, surgical. "*Nearly* the whole session."
+Sonobe's notes were thirty-one years of what the laundry knew and
+the medical record never asked: which garments came down the
+chute bloodstained at the seams, where the wear-lines sat on ten
+thousand washed bindings, what night-shift nurses — who lifted
+patients for twelve hours — improvised under their uniforms, and
+had improvised, matron to matron, hand to hand, for longer than
+the village had existed. "You are not the first engineer on this
+problem," she said, flatly. "You are the first one with a budget.
+The prior art is in the linen room and I can read all of it."
 
-The copper patches arrived on schedule. The vocabulary went. The
-tape measure, abandoned by its department, unspooled to the
-floor with a small administrative clatter, and she watched the
-whole cascade with the satisfaction of a researcher whose own
-study, running since a towel in December, had just confirmed
-its central result for the eleventh consecutive trial.
+Akimoto gave the field spec, and the field spec was a battle
+doctrine. It had to survive a henge and come back true — a
+transformation held forty minutes could not be fighting the
+understructure. It had to work soaked: river crossings, three
+days of rain, sweat inside sealed armour. It had to fail *safe* —
+"if it takes a blade edge, it tears clean and it is cloth again;
+nothing rigid near the ribs, I have seen a chest plate do a
+kunoichi's ribs for the enemy and your crystal will not be the
+second edition." It had to be silent — "no note, no click, no
+hum; I have hidden in trees from sensors, your articles will be
+quieter than my heartbeat or they stay home." And it had to be
+doable one-handed, in the dark, injured, "because everything on
+a shinobi eventually has to be doable one-handed in the dark
+injured, and the day you find out why is a bad day to be
+learning."
 
-"Noted for the file," said Tsunade, warmly, handing him back
-his clipboard. "Occupied instruments overload slower. They do
-still overload. Same time next week, fabricator — and bring
-attachment thirteen, whatever it turns out to be. I find I'm
-a collector."
+He took the silence requirement to the front of the queue on the
+spot — the articles would run closed-quiet, their draw below any
+sensory floor Katsuyu had ever charted for him — and Akimoto
+watched him restructure his own priority table in real time,
+and looked at Tsunade, and said, "Where has this been for
+seventeen years," and Tsunade said, "Growing up," with a face
+that gave away nothing whatsoever, which itself, to one reader
+at the table, gave away everything.
 
-*Entry, Thursday, written at one size for honesty:*
+Sakura held the clinical corner and held it well — contact-wear
+protocols, skin response windows, the one form and its one job —
+and put one design flag on the table that outranked her decade:
+"Sizing can't be a courtesy at the small end. It has to be the
+same engineering. If the infantry gets a scaled-down afterthought
+the line has failed at the exact thing that makes it different."
+The matron's head came round at *infantry*, and something passed
+between the two of them, thirty-one years to sixteen, that he
+recorded as *guild recognition* and did not further parse.
 
-*Theory: partially confirmed, which from this researcher is a
-career best. Forty minutes at ranges that were lethal in
-November. The armour is real. The armour has a scheduled
-failure at whatever minute she decides, because the metering
-was never mine, and I have stopped wanting it to be.*
+"Minuted as a founding principle," said Shizune, and the pen she
+used was the second one.
 
-*Second result stands: we have a bench now. Both of us at it.*
+---
 
-*The study continues.*
+The prototypes came out of the case at the end, and the board did
+to them what boards should do and almost never dared: took them
+apart on the table.
+
+The front closure moved — Sonobe: wrong side for a right-handed
+woman undressing exhausted; he had mirrored his own handedness,
+an error so basic he wrote it down twice for penance. The band
+gained a harness interface at Akimoto's mark — she drew the
+weapon rig on his diagram from memory, the strap runs of four
+standard loadouts, and the drawing was better than the
+quartermaster's issue sheets. The colour question arrived — the
+pilot's grey pronounced "penitential" by the matron — and was
+tabled to a future session by the chair, with the note *not
+because it is trivial; because it deserves its own hour*, which
+he transcribed without comprehending, an act of faith in the
+specification holders that the coming fortnight would repay with
+interest.
+
+"Fabricator," said Tsunade, at the close, formal, the office at
+its full weight. "The table has specified. State your limits."
+
+He looked at the forty pages.
+
+"Three limits. The silence floor costs me a fifth of the support
+budget and I will find it back in the seal work, but the first
+production run will be four per cent heavier at the anchor line
+than the prototype: temporary, disclosed now so nobody discovers
+it as a surprise. Fail-safe shatter I can do — the governor
+already holds a version of the clause; every article in the line
+will inherit it, and I want *that* in the standing orders as
+non-negotiable in my direction: nothing rigid near a rib, ever,
+in any product carrying this mark. And the henge requirement I
+cannot test," he said, plainly, "on myself, for the obvious
+reason. The board will have to own that trial entirely."
+
+"The board accepts," said the chair, and the first meeting of
+the design authority of the Hime line ended at noon exactly, and
+Matron Sonobe, gathering thirty-one years of notes, was heard to
+say to Akimoto on the way out that she had sat on eleven
+committees and this was the first one where anything had ever
+been *built*, and that she intended to die on it.
+
+*Entry: I have spent three years learning to read this village's
+women off walls and columns and intake forms, at range, in
+secret, because asking was never in my kit.*
+
+*Today five of them sat in a room and told me everything, at
+dictation speed, because a table gave them somewhere to put it.*
+
+*The specification was always out there. It was never written
+down because nobody ever built the table.*
+
+*Urushibara said a seal is a relationship between instruction,
+medium, chakra and condition. So is an institution. I am
+apparently learning to compose those now as well.*
