@@ -2706,3 +2706,342 @@ he cannot tell them from targets.
 
 **Nothing about that has to be foreshadowed further. It only has to be
 allowed to happen.**
+
+---
+
+## 18. THE BET, AND THE WRONG SPECIFICATION — AUTHOR
+
+He saw the text, so he **tracks her down** and offers her **a bet**: either
+**he pays her current gambling debt — which would wipe him out — or a
+diagnosis.**
+
+**This is a Tsunade before Naruto.** The blood phobia is intact. She is
+drinking and gambling constantly.
+
+**And this is where *he needs a village, not a medic* arrives.**
+**Tadayoshi asked for a diagnosis, not treatment** — and **Tsunade would
+need a hospital to even begin working out what is wrong with Kimimaro.**
+
+---
+
+## 19. WHAT THE BET DOES — PROPOSED
+
+### He priced it off his own gift, and got it exactly backwards
+
+This is the finding, and it is the best one in the last three messages.
+
+**Diagnosis is his free action.** §2i: he learns a form whole and finds the
+part doing no work. He has never once in his life had to *pay* for a
+diagnosis — he does it in forty seconds, on kata, on tone, on job sheets,
+on people. So when he wrote the terms, he asked for the small thing and
+offered the enormous one, because in his world **naming the fault is cheap
+and fixing it is dear.**
+
+Medicine runs the other way.
+
+> **The man whose entire identity is writing a correct specification wrote
+> the wrong specification, on the only contract that has ever mattered to
+> him, and he got it wrong because he was pricing off the one thing he is
+> world-class at.**
+
+That is §11d — *he cannot teach what is best for anyone but himself* —
+arriving in a form he cannot argue with. It is not that he lacks
+compassion. **It is that every estimate he makes is calibrated to a man who
+is him.**
+
+### The bet, and the Legendary Sucker
+
+She loses. She always loses; that is the joke and the whole tragedy of her,
+because **the one time a run goes her way, somebody dies.**
+
+**PROPOSED, and it is the version I would build:** she wins.
+
+She has not won in years. She wins, and she goes white, and the boy across
+the table has no idea why — he has just lost everything he owns and she is
+the one who looks like she has been told something.
+
+**And she gives him the diagnosis anyway**, out of a superstition she would
+never explain to a stranger, which is the most Tsunade reason available and
+requires nobody to be nice.
+
+*(The alternative — he wins cleanly and she pays a debt badly — is simpler
+and works. It is just less interesting, and it wastes the one piece of
+canon superstition that is load-bearing.)*
+
+### He pays the debt regardless, and not out of kindness
+
+He settles it because **a woman with creditors leaves town**, and he now
+needs her not to. He is not buying goodwill. He is buying her staying put,
+and he would say so if asked.
+
+She will see straight through it, be insulted, and be right — **and it will
+also be the first thing anybody has done for her in a decade**, and both
+of those are true at once, and neither cancels the other.
+
+**And it wipes him out**, which is not a gesture but a material state: §7
+says his kit expires and has to be remade, and remaking costs. **He walks
+into the rest of the book with dying equipment and no money.**
+
+### The blood, and who does the examining
+
+Kimimaro coughs blood. She cannot look at it.
+
+So the examination happens the only way it can:
+
+> **Tsunade directs, and Uzuki is her hands.**
+
+The greatest medic alive, three feet away, talking a half-trained girl
+through a physical she cannot perform herself — *there, no, lower, tell me
+what it feels like, don't tell me what you think it means* — for twenty
+minutes.
+
+Which does four things, and the third one is the reason to build the scene
+this way at all:
+
+1. It puts the phobia on the page as a **working obstacle** rather than a
+   character note.
+2. It is the best twenty minutes of Uzuki's life. Her one claim on the
+   world is *I can heal* (§3b-ii), and she has just been the hands of the
+   best in the world.
+3. **It is teaching**, and it is exactly what Tadayoshi cannot do (§11d) —
+   the destination-setting kind, aimed at what *she* should become. **A
+   drunk in a rented room gives her in twenty minutes the thing he has
+   failed for six years to give her**, and he is standing in the corner
+   watching it happen, unable to help, and he knows precisely what he is
+   looking at because diagnosis is his free action.
+4. It opens the Tsunade→Uzuki line for the rest of the book without a
+   single sentimental sentence.
+
+*(Available, unforced: **Tsunade is Mito Uzumaki's granddaughter.** She may
+clock the hair, and if she does she will not care the way Konoha cares —
+Mito's line is nearly gone, and that is a private arithmetic, not a duty.
+Use once, or not at all.)*
+
+### The answer, and why it forces everything after it
+
+**"You don't need a medic. You need a village."**
+
+She cannot produce a diagnosis in a rented room. She needs a hospital: a
+ward, a laboratory, months, and other people's hands. So the deliverable he
+bought does not exist as a thing that can be handed over — **it exists only
+as an institution**, which is the one object in the world his entire
+philosophy says makes people rot.
+
+> **The answer to his question is the thing he has spent his life proving
+> is a disease.**
+
+---
+
+## 20. WAVE — THE AMNESTY — AUTHOR
+
+**Tadayoshi asks for professional amnesty**, and the difference from book
+one is **the company**.
+
+**Sazare was a mender who meant well. Tadayoshi is a stone-cold killer who
+does not want to work for a village — and Kakashi would read him from a
+mile away.**
+
+**It is Uzuki that tips it.** **She has the same hair Kushina had**, and it
+would be **out of a sense of duty to Kushina to house one of her
+relatives** — even if she arrives with additions.
+
+**He promises to get them to the door and that is it.**
+
+**And where Sazare could not fight, Tadayoshi can** — so there is a
+**demonstration of fighting prowess covered as a spar with Sasuke**, with
+**veiled interest from Kakashi** in what he is bringing along, since he has
+heard rumours of Tadayoshi's exploits, **and an attempt to get Sasuke to
+recognise that he is not as good as he thinks he is.**
+
+---
+
+## 21. THE AMNESTY, AND WHAT HE DOES NOT KNOW HE IS TRADING — PROPOSED
+
+### Placement — it costs nothing and it lands on §12
+
+He arrives at Wave after the bridge (§12: the graves, a week late). **Team 7
+is still there** — canonically they stay until the bridge is finished. So
+the graveyard and the amnesty are the same three days.
+
+> **He came to deliver an argument to a dead man, and instead has to ask a
+> living one for a favour.**
+
+And the reason he is asking at all is §19: Tsunade sent him for a village,
+and the only village that would ever consider a Kiri missing-nin is
+standing on a half-built bridge in a country with no borders.
+
+### The hair is not sentiment — it is containment
+
+Kakashi's duty to Kushina is real and it is the surface of it. Underneath
+is the thing Kakashi cannot say and will not stop thinking:
+
+> **A red-haired Uzumaki girl walking around loose is a living pointer at an
+> S-rank secret.** Anyone who looks at her, then looks at a boy in Konoha,
+> and starts counting, arrives somewhere the village has spent sixteen years
+> keeping people away from.
+
+**He wants her inside, where she can be watched, not outside, where she can
+be looked at.**
+
+That is truer to Kakashi than charity, it gives the decision a reason that
+survives scrutiny, and it produces the irony the whole book is built for:
+
+> **Tadayoshi is admitted to a village on the strength of a secret he does
+> not know he is carrying.** The man whose entire policy is withholding gets
+> in because of information he does not possess, held by somebody else,
+> about the girl he could not teach.
+
+### And the instruction repeats for a third generation
+
+Her grandfather never said why. Her father knew a little and did not
+explain. **And the man who opens the gate knows exactly why and will not
+tell her either.**
+
+*Hide your hair* — handed down twice by love, and now a third time by a
+state, and she still has not been told a reason. It is the same shape as
+his mother's *keep it to yourself* (§2o) landing on the other protagonist,
+from the other direction, at the other end of the book.
+
+### What he is actually offering, in order
+
+He has nothing. He has just paid Tsunade's debts.
+
+1. **Himself**, as an asset — which is what the spar is for, and which he
+   offers because it is the only currency he has ever had.
+2. **Uzuki**, without knowing she is currency, which is the part that
+   actually works.
+3. **The theory** (§17), which is what he will end up spending, and which
+   is the one thing he swore never to give away.
+
+### "To the door and that is it" — the third time he has done this
+
+Name the pattern, because it is his:
+
+| | He tries to | Outcome |
+|---|---|---|
+| After Gatō | put them in a village and leave | refused; **he leaves alone** (§16) |
+| Now | get them to the door and leave | *promised* |
+
+**Twice now, the way this man expresses love is by removing himself**, and
+he has a doctrine that tells him it is correct and a hunter curve (§15) that
+tells him it is arithmetic. This is the third attempt in the making, and it
+is where it should finally fail — not because he changes his mind, but
+because the thing he came for **requires him to stay** (a hospital takes
+months, and they will want the theory, and the theory is in his head).
+
+**The institution he despises will keep him by needing him**, which is the
+one mechanism his ideology has no answer to.
+
+---
+
+## 22. THE SPAR — and this is the spec's first real widening risk
+
+### The flag, up front
+
+**"A demonstration of fighting prowess" is the exact scene that widened book
+one twelve times.** §2m is already pinned: *his ceiling is technique, his
+floor is a child's body; any fight he wins by being stronger is a fight
+written wrong.* A showcase against a genin, in front of an audience,
+witnessed and admired, is a power fantasy with an assessment stapled to it.
+
+The beat is right and it should stay. It just has to be built so that what
+the scene proves is **not** that he is strong.
+
+### Fix 1 — he does not want to do it, and Kakashi engineers it
+
+He is being **assessed**. §2m: the institution's opening move against him at
+nine was administrative relocation with a flattering reason on the form, and
+**every institutional response to him has made him worse** (§2p).
+
+> **He is seventeen, and he is being put back through the exact process that
+> ruined him, by a man deciding whether to let him near children.**
+
+He complies. That is the horrible part. He has wanted a village for eight
+days and he has already started doing what villages want.
+
+### Fix 2 — the tell is the omission, not the display
+
+**He must not use crystal.** He is a Shōton user in a foreign village and
+§2d rules the theory stays private; showing it is the single most dangerous
+thing he could do. So: a wooden sword, hands, footwork, nothing else.
+
+**And he wins anyway.**
+
+Kakashi does not learn what Tadayoshi can do. Kakashi learns that **there is
+something he is not being shown**, which is worse, and which he will not
+mention, and which will sit in a file.
+
+> **The absence is the demonstration.** A man who wins a fight while
+> deliberately withholding the thing he is famous for has told you
+> everything except the one fact.
+
+### Fix 3 — he wins by being boring, and it should read as an interrogation
+
+No flourish. §2i's signature operation, run on a person, in public:
+
+He watches about forty seconds. He finds the part of Sasuke's form that is
+doing no work — one repeating structural fault, a weight commitment, a
+recovery that always goes the same way. **He takes it. Then he takes it
+again. Then again.**
+
+Four exchanges, identical, and Sasuke is being beaten by his own kata.
+
+That is not a fighter. **That is an audit**, and Kakashi has seen men do
+that, and they were all in the same kind of corps. *That* is the veiled
+interest — not admiration. Recognition.
+
+### Fix 4 — the real danger in the scene is the threshold, and it is the
+### best reason to write it at all
+
+§2g rule 2: **it fires on load, not on stakes.** A spar is therefore exactly
+the wrong engagement to be in — Sasuke will not stop, Sasuke will escalate,
+and Sasuke has three days ago nearly died and awakened something and has
+everything to prove.
+
+And §2i's founding incident: **he broke another child's arm in a counter,
+the teachers could not tell whether he meant it, and neither could he.**
+
+> **He is being asked to repeat, at seventeen, in front of witnesses, the
+> event that got him moved out of his class at nine.**
+
+That is the scene. Not a showcase — **a man walking back into the room that
+made him**, holding a thing he has spent seven years measuring and cannot
+predict.
+
+It should come close. He holds — this is not where it fires. But close
+enough that **Kakashi sees it**, and says nothing, and files it. And close
+enough that **Uzuki sees Kakashi see it**, which is a different and more
+dangerous problem.
+
+### Fix 5 — what the scene actually costs
+
+It must not be free. Proposals, any one of which will do:
+
+- He wins and **cannot say the sentence that would make it a lesson.** He
+  can name the fault — he names it instantly, correctly, out loud — and
+  cannot tell the boy what to do about it, because that is teaching (§11d),
+  and a jōnin standing eight feet away watches him hit the wall in public.
+- **Sasuke is humiliated rather than taught**, which was not the intent, and
+  which Kakashi notices was not the intent, and which is worse.
+- **He has to stop himself**, visibly, once, and everybody in the clearing
+  understands what they just watched even though nothing happened.
+
+### THREAD — and this one is worth the whole scene
+
+**The first person to comprehensively out-class Sasuke Uchiha is a man with
+a hunted bloodline, no village, no team, and a doctrine that says
+institutions rot you.**
+
+Three months before a curse mark.
+
+> **Tadayoshi is, by accident, a working proof of everything Sasuke is about
+> to choose** — and the entire arc Tadayoshi is on is the discovery that the
+> proof is wrong.
+
+The book has built its own delivery mechanism for its refuted doctrine, into
+the hands of the one boy in canon who will act on it. Nobody has to plan it.
+It only has to be allowed to happen, and then paid for later.
+
+*(Flag: this is a canon-shattering lever with real force — §4 item 11. It
+should be taken deliberately. But unlike the Gatō question it costs nothing
+to set up now and can be declined later.)*
