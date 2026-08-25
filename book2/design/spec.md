@@ -19,9 +19,80 @@ Nothing here is settled unless it says FIXED.
 - **This Ruri is canon-shattering.** He changes events; he is not slotted
   into the gaps between them.
 
+- **New timeline. Sazare Ruri does not exist.** Tadayoshi is put in his
+  place. Book one's biography does not carry over — no gate at Konoha, no
+  Urushibara, no Tsunade, none of it. The world's furniture stands; the man
+  is replaced.
+
 ---
 
-## 2. What the premise already buys — PROPOSED reading
+## 2. THE POWER — AUTHOR ruling, and this one is structural
+
+- **This Ruri needs hand seals.** Shōton is cast, not willed.
+- **The only seal-less route is Sage Mode, and it is a long way off** —
+  destination, not equipment.
+
+### What this buys — PROPOSED, but I would fight for it
+
+Book one's Shōton had no cast time, no material requirement, no tell, and
+nothing an opponent could interrupt, which is why every fight in seventy-four
+chapters needed the opponent handicapped to function. **Hand seals solve
+that in one move, and they do it with grammar the reader already knows:**
+
+- a **tell** — the sequence can be read, and a good opponent reads it;
+- an **interrupt** — crowd him inside two feet, bind the hands, break one
+  finger, and the article does not exist;
+- a **cast time that scales the wrong way for him** — the bigger the
+  article, the longer he stands still making it;
+- a **resource that is physically fragile and permanently damageable**:
+  his hands. Cold, wet, gloved, broken, bound. In Kiri. In mist.
+
+That is rule 1 and rule 2 of §3 satisfied by a single decision, and it
+restores the book-one design that the ledger spent forty chapters killing:
+**fortifier first, preparation as economy, wins on ground he shaped, loses
+the exchanges he did not choose.**
+
+### The idea I want on the record before anything is built — PROPOSED
+
+**Make the seals the inheritance.**
+
+A dying clan's remaining knowledge is a finite, countable set of sequences,
+taught hand to hand, mother to son. Some of them are already gone — they
+went with the thirty-two people who are no longer in that compound. *There
+were forty of us* becomes something the reader can count in the power
+itself: every dead relative is a technique that no longer exists, and the
+catalogue only ever gets shorter.
+
+It makes the decline tangible, it gives the craft something to be about, and
+it means the protagonist's strength and his grief are the same object.
+
+*(Flag: this is adjacent to book one's notation/sealwork material. Reusing
+the shape is fine; reusing the furniture would be a retread. Worth deciding
+deliberately.)*
+
+### The Sage Mode gate — PROPOSED, needs ruling before ch1
+
+A seal-less mode named in the spec is a promise that gets cashed early the
+first time a chapter is hard. So it gets its terms written now:
+
+**Sage Mode must not remove the seals. It must replace what the seals are
+for.** If the sequence is how he *specifies* an article, then the mode is
+drawing straight off the world without specifying — **faster and cruder, not
+faster and better.** Precision is what he trades away. That way it is a
+genuine exchange rather than a strict upgrade, it cannot be pulled forward as
+a win button, and it stays worth wanting.
+
+### What this costs — flagged once
+
+Hand seals make him slow, and slow protagonists lose fights. That is correct
+and wanted. It means his competence has to come from preparation, position,
+knowing things, and being underestimated — **and the brother carries the
+"wins a fight cleanly" load for the early book.** Scenes get built
+differently. Worth going in with eyes open.
+
+---
+
+## 2b. What the premise already buys — PROPOSED reading
 
 Recording this so the spec knows what it must not throw away.
 
@@ -77,7 +148,10 @@ the same entry.** The ledger gets both columns this time.
 3. **The clan's trade.** Forty people in a compound were doing something.
    Book one's Ruri worked frames and made jewellery; keeping a real craft at
    the centre is the single most portable asset from book one.
-4. **The Shōton spec** — shape, and the three constraints above.
+4. **The Shōton spec** — shape and cost curve. Hand seals settle the two
+   interruptible steps; the *attackable resource* and the expense curve are
+   still open. Also: does book one's Ruri clan history carry (four hundred
+   years, the Hōzuki compound, frames and jewellery), or is it fresh ground?
 5. **Tadayoshi's lack.** The theme is *agency that was never installed*.
    PROPOSED: he is the clan's succession plan. Every decision about him was
    taken before he could speak, by a committee of eight frightened people,
