@@ -858,3 +858,282 @@ themselves comfortable stories."* **Nobody in this book can name it.**
 4. **Chiyo's parcel is unopened.**
 5. **Nobody may ever be told Anzai taught her.**
 6. **The genin team, and the clasp.**
+
+---
+
+### C5 — Chapter 5, "Alive If Possible". Month 4, 7th – month 5, 8th.
+### 9 scenes, 15,480 words. T×7 (83%) · U×2 (17%).
+
+**SUNABA, AND HOW BOOKS WORK**
+
+- **Four hundred and eleven boats.** Nine with a house on the deck, all at
+  the deep end, all too big for an inlet that goes dry. **Thirty-one small
+  ones, none of them it.**
+- **He mapped four routes across the town that do not pass Kanaya's main
+  house** — four storeys, second street back from the middle arm, yard,
+  gate, weighbridge. **He kept to the north arm for eleven days.**
+- **THE HARBOUR OFFICE COLLATES THE COAST.** Six stations send their day
+  books in monthly; one old man copies them into the bound annual volumes;
+  **he has been four years behind for eleven years.**
+- **Asking failed identically to Ōura.** *"Whose account?" … "It's not a
+  thing you look at, son, it's a thing you're IN."*
+- **He read the five columns upside down from four feet** — *day, craft,
+  master, cargo, dues* — and saw ***Ex.*** in a money column.
+  > **The state does not pay dues. You do not invoice yourself.**
+- **AND THERE IS NO DESTINATION COLUMN.** There never was one, at Ōura
+  either, and he read four years of it and did not notice **because he was
+  looking for a name and not for the shape of the page.**
+  > *"A dues book records what came in and never where anything went.
+  > Every book records the thing somebody was paid to record and nothing
+  > else. **Find out what the book was FOR before you look in it.**"*
+
+**THE JOB — 11th to 26th of month 4**
+
+- **Ide** at the counter; **Nunome**, seventy-four, at the end desk.
+  **Nine a week, his dinner, and he slept in the back with the coal.**
+- **Meno's ruling got him the book.** Given a scrap to copy, he ruled it
+  first and **made the fourth column narrow**, and Nunome asked where he
+  learned to rule. *"That's the only thing wrong with your hand. It's too
+  good."*
+- **Fifteen days. Four hundred lines a day, then six hundred.** Faster
+  than Nunome by the eighth day and neither mentioned it.
+- **He did the months in order and refused to look ahead**, because a boy
+  who opens a bound book at a particular month on his first afternoon is a
+  boy somebody remembers.
+
+**THE FINDING — one line, and a negative**
+
+- **Three exemptions on the whole coast in the fourth month.** The twelfth
+  and the nineteenth at Sunaba, **and the third at NEZU.**
+- **Nezu is forty-one miles north.** Nine characters: no master, no cargo,
+  no destination.
+- **And nothing at Sunaba on the 4th or 5th**, so it did not come on.
+  > *"It is a NEGATIVE and negatives are answers… a boat that stops has a
+  > reason… and every one of those is a thing you find out at Nezu."*
+
+**HOW HE WAS FOUND — and it is his own defect**
+
+- **Nunome watched him stop dead on the fourth month for a minute and
+  eleven seconds**, waited three days, and then said so. *"Nobody counts
+  the exemptions."* Then: ***"Who was on it?"*** — Tadayoshi said nothing;
+  Nunome nodded at the answer.
+- ***"I'll not say anything."*** And Tadayoshi's finding, one and a half
+  seconds later: **a question that has been answered once is a question
+  that exists.** *"He has just told me, as a gift, that I am a matter that
+  has been decided."*
+- **BUT THAT IS NOT WHAT FOUND HIM.** Ide, in passing: *month end's
+  Tuesday, I want the staffing on it.* **Everything goes up at month end —
+  tonnage, dues, exemptions, arrivals, and who is in the building and what
+  they are paid.** To Kiri. *"A room."*
+  > **He gave Ide his own name on the eleventh, in a day book, in one
+  > second, without considering it — because he cannot lie and has never
+  > once been able to.**
+  >
+  > *"I came into this room to read a book. And the thing this room
+  > actually does is take what happens on a coast and turn it into lines
+  > and send the lines to a room in Kiri… I walked in and asked for a job
+  > in the one kind of room in this country whose entire purpose is to
+  > write down who is in it."*
+- **He finished the page, ruled the next, squared the volume, put the pen
+  in the tray, did the stove, said goodnight to both of them, and left at
+  eight with about nine ryō.** *He did not take the pen.*
+
+**THE RIVERBED — month 5, the eighth, a day south of Nezu**
+
+- **Forty-one miles took him twelve days** — off the road, parallel,
+  crossing at night. *"I will never know whether it is necessary. That is
+  the whole trade of being on a road."*
+- **The bed: sixty yards wide, fist-sized channel stones down the middle,
+  a shoulder of grit better than the third bar down at Shioiri.** He
+  filled the tin before he thought about it.
+- **FOUR OF THEM, none older than about thirteen, and all the kit was
+  new** — pale webbing, a packing crease still in a flak plate, a pouch on
+  the wrong side. **Spring graduation. Eight weeks in the corps.**
+- **They took both ends of the bed and came in at a walk to fifteen
+  yards.** *"It is the shoulder and the inlet at Shioiri. It is the same
+  arrangement. Somebody teaches it."*
+- **MIYO** (girl, ~13, called it, hand up, palm out) and **HOKUTO**. He
+  never got the other two names. **He had two of four inside eleven
+  seconds.**
+- **The tasking said bring him in.** *"You're not charged with anything and
+  nobody's going to hurt you and you can walk it, it's four days."* She
+  had plainly learned it by heart. **She would not show him the paper.**
+- **The fourth one started forward and Miyo said *wait* and he stopped.**
+  > *"It is not that they are kind… It is that they have been given an
+  > instruction with a word in it, and the word is doing all the work…
+  > They are here to close a hand on something. And you cannot close a
+  > hand and swing it at the same time."*
+- **She asked if she could see what he was carrying. He said yes, and put
+  his hand inside his coat.**
+
+**THE SIX MINUTES**
+
+- **Ram, Boar, Ox, Snake**, low, in the shadow of his own arm, while
+  holding the tin up in his left hand.
+- **FENCES.** Eleven feet of tapered points, tips up, a hand's width
+  apart. **They do not go through anybody. They are not for that.**
+  > **"He's making seals." "He's not on file for — " "I KNOW what's on the
+  > tasking."**
+- **He got into the channel** — the worst footing and the only cover — and
+  laid fences to seaward and behind, so the only clean approach was up
+  fist-sized stones at a walk.
+- **Six minutes and ten seconds, and he did not hurt anybody.** He never
+  once considered throwing anything: *"his whole body understood the trade
+  as PLACEMENT."*
+- **He was down to a third of the tin and had not been counting** — the
+  first time in his life he had failed to count material.
+- **HOKUTO CAME UP THE CHANNEL AT A RUN**, out of six minutes of being
+  made to look stupid in front of somebody he graduated with. **A fence
+  stops a foot that is walking. A foot at a run arrives.** Through the
+  boot, through the foot, a hand's width proud, and his whole weight past
+  it.
+  > **He screamed, and everything ended.**
+- **Miyo came straight through eleven feet of standing points** to get to
+  him. **The rule was off.**
+- **Forty seconds, mostly lost.** The tin taken out of his hand; down on
+  the stones; the shoulder; **a hand on his right wrist from behind.**
+  > **Ram. The left hand made the shape and the right did not come with
+  > it. *Nothing happened.*** Aoyagi's drill, paid: *learn what it costs
+  > to be reached.*
+- **A knee across the shoulder blades. Correctly placed. Not spite.** He
+  could not get air.
+  > *"there is a woman in a room with a bench and I am the only person
+  > alive who knows she is in it, and nobody is going to look for her"*
+- **"Something in him got up."** — **THE SCENE ENDS THERE.** The gap is
+  filled by 1,220 words of Uzuki in Nakadō.
+
+**WHAT CAME OUT — and it is measurable, which is worse**
+
+- **He woke kneeling, right hand closed, thumb going up and back along
+  something.** He pocketed it without looking. **The work came first.**
+- **THE BED WAS FULL OF HIS WORK.** Points everywhere, no fences after the
+  first four, one stand of about two hundred together *"like a thing
+  growing."* **Two courses. Grain in every one.**
+  > *"I put grain in these and I was not there. And that is going to be
+  > the only funny thing in the whole of this."*
+- **THE FOUR, measured:**
+  | | Where | Points | |
+  |---|---|---|---|
+  | **the fourth one** *(no name)* | **four feet from where he woke**, hand still open | **one**, under the jaw | **unresolvable** |
+  | **Hokuto** | **31 yards**, a dragged one-sided track up the shoulder, face down, going away | **nine** | crawling |
+  | **the third one** *(no name)* | **54 yards**, at the landward bank | five | **put his weapon down nine yards back and got another nine** |
+  | **Miyo** | **90 yards, in the middle of the coast road** | three, **one at the back of a knee** | *"You put it there to stop them going."* |
+- **Ninety yards is not four seconds. It is a minute at least.**
+- **THE UNANSWERABLE:** was the fourth one the last act of a fight or the
+  first act of the other thing? **One point says *before*. One point also
+  says *the first of the other thing, before it built to nine*.**
+  > *"And the difference between those two is the difference between the
+  > rest of my life and the rest of my life. And the evidence is my own
+  > hands."*
+- **He did not bury them.** Four graves is eleven hours he has not got and
+  fresh dug ground is a signpost. **The arithmetic was correct, complete,
+  checked twice** — and *somebody will have to go down and shut the doors*
+  came back at him and was not obeyed.
+- **He was sick behind a wall four hundred yards north, on his knees, for
+  a long time.**
+
+**THE CLASP — and this is the instrument, switched on**
+
+- **Corps issue. A bar, a tongue, two lugs, a bevelled face an inch
+  across. Two courses. Grey-blue, no ornament.** He cut the webbing off
+  with the knife and put the strap under a stone without looking at it.
+- **TWO FAULTS, both hers:**
+  1. **The taper is fuller a third of the way down** — *she pushes with
+     the heel of the hand at the start and gets tired of pushing*, which
+     is the exact thing he spends four minutes a day putting into his own.
+  2. **The note sits a sixteenth low**, because she lays the second course
+     a touch short at the finish — *she stops at the size instead of
+     stopping at the piece*, **which Meno used to say to her at the
+     table.**
+  > *"I know that hand better than I know my own because I have been
+  > counterfeiting it since I was eight years old."*
+- **AND SHE HAS NEVER MADE A FITTING.** Not one in twenty-two years. The
+  household makes small jewellery and sells it by weight and grade to a
+  shop. **This is a fastener made to a pattern out of a store with a
+  number on it.**
+  > **"So somebody has put her in front of a bench with a different order
+  > on it."**
+- **The kit was new. Spring issue, ten weeks at the outside.** She was
+  taken five weeks ago. **Therefore: after. She has been at a bench for
+  five weeks.**
+- **FIRST READING OF THE SERIES:** *"The heel of the hand is fuller than
+  it is on the ones in the tin… I am putting that down as a thing I
+  believe and not a thing I know. But I believe it. **She is more tired
+  than she was.**"*
+
+**THE LEDGER — and this is the chapter's last movement**
+
+- **Entry 42, written by feel in the dark, in four lines, in about a
+  minute, and nothing fought him at all.**
+  > *8/5. Coast road south of Nezu. Clasp, corps issue, taken and kept.
+  > Two courses. Heel-fault at a third. Note a sixteenth low. Her hand,
+  > and I will say that in front of anybody. She has never made a fitting.
+  > New issue, ten weeks at the outside. **She is alive and she is working
+  > and she is more tired than she was.***
+- **He wrote nothing about the riverbed.** *(It went in eleven days later,
+  above Nezu, in nine lines, took two hours, and he did not get up
+  afterwards for the rest of that day.)*
+- **THEN HE NUMBERED THE WHOLE LEDGER.** Back to *nineteen went, nobody
+  says the names* and forward through all forty-one, in the dark, in
+  twenty minutes, from memory. **The new one is 42.**
+  > *"He did not, at any point in the twenty minutes, say to himself why
+  > he was doing it… he had no word at all for the thing he was making —
+  > and he went on numbering the pages in the dark, carefully, in order,
+  > **the way you number a thing that is going to be handed to
+  > somebody.**"*
+- **Clasp in the right pocket, on its own. Kongō's drop in the left, with
+  the grease tin.** He sat with a hand flat on the outside of each,
+  *"which is a thing he would go on doing for a very long time without
+  once noticing that he did it."*
+
+**UZUKI — two scenes**
+
+- ***Ask me tomorrow.*** **Sae was never going to come**, and knew it
+  while she was saying it, and has known every day since. **There was no
+  money.** *"I'd have got to Ōgi and I'd have stood in the road at Ōgi,
+  exactly like I said, and it would have been the whole of what I could
+  do, and it would have been worth nothing at all except to me."*
+  > **Why she said it in front of him:** *"That's what you say in front of
+  > a man who's just been told he can let his daughter go… It was for him.
+  > It wasn't for you and it wasn't for me. It was so he could go to
+  > sleep."*
+- **She will not apologise**, and says why: *"then you'd have that instead
+  of this, and in about four years you'd work out I'd said it to get you
+  off the subject… You'll be cross with the true thing, and not with a
+  nice thing I said in a kitchen to get through a Tuesday."*
+- **KIYOSHI'S LAST WORDS, on the morning of the fourth:** *"He asked me
+  what day it was."* Told the fourth, **he said *right*, and went back to
+  sleep.** *(Nine days from the twenty-sixth is the fifth. **He was
+  counting.**)*
+- **The box, read:** in — mill 4, Iwasa 1½, and *H, 100* **with a line
+  under it, so she is not counting it.** Out — eleven things, and **the
+  rent to Kuriya is the biggest thing on the page by four times.** **Tazu
+  is on it twice; he came eleven times.**
+- **There is no carrying and it is not coming back.** *"Nobody in this
+  village is going to put a parcel into the hand of a widow and a girl of
+  ten… It is because a parcel has to arrive."*
+- **They can stay until the autumn.** Kuriya will say nothing till then
+  *"because he was fond of your father and because it looks bad."*
+- **SHIMODA came round on the Tuesday.** Two fields the other side of
+  Iwasa's, and a brick shed. **He would buy the mule.**
+- **Thirty-two days of ninety**, written in a column on the back of the
+  mill's chit and then on a piece of flour bag: **20, 22, 19, 24, 24, 26 …
+  and on the eighth of the fifth month, 31 good.**
+  > *"There is nobody in this village who is going to let a girl of ten
+  > put her hands on them, and the one person who was ever going to is
+  > under the ground behind the shrine."*
+  >
+  > *"Because I'll be fifteen. That's it. That's the whole of it and it's
+  > not much… So: the number. Not what it's for. There isn't anything it's
+  > for. The number."*
+
+**OPEN INTO CHAPTER 6**
+
+1. **Nezu is a day north and he has never got there.**
+2. **Four bodies in a riverbed, unburied, and a boy walking away from
+   them.** *(The curve starts here. He has just written the first
+   specification.)*
+3. **The recruitment.**
+4. **The riverbed entry goes in eleven days later, in nine lines.**
+5. **Shimoda, and the autumn.**
+6. **Nunome will find out.**

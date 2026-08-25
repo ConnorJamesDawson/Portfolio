@@ -104,6 +104,10 @@ somewhere he never named, and **nobody has ever asked what it replaced.**
 | **Chiyo** | sixteen. Has done for Anzai since she was twelve — house, door, messages, fetching. |
 | **the step** | nine inches. Anzai's father put it in and got the levels wrong. Four people have offered a rail. |
 | **the customs post** | Ōura bridge. Unmanned, not disused, and it has a five-column ledger going back four years. |
+| **Nezu** | a small station forty-one miles north of Sunaba. **One exempt entry, third of the fourth month.** |
+| **the harbour office** | north arm, Sunaba. Collates six stations' day books into bound annual volumes. **Ide** at the counter, **Nunome** (74) at the end desk, four years behind. |
+| **the staffing return** | month end, to Kiri. Tonnage, dues, exemptions, arrivals — **and who is in the building and what they are paid.** |
+| **Hokuto, Miyo** | two of the four genin. He never got the other two names. |
 | **Tazu** | old, sixty-ish, a garden of things and a shelf of jars. Not a doctor. Set her wrist at seven and did it well. |
 | **Iwasa's boy** | fourteen, a barrow, no sense. Has the mill now. |
 
