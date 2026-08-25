@@ -92,6 +92,80 @@ differently. Worth going in with eyes open.
 
 ---
 
+## 2c. THE INVERSION — AUTHOR
+
+- **Sazare waited until someone came to him. Tadayoshi does not.**
+- **Crystals as EQUIPMENT first, environment second** — a form of crowd
+  control.
+
+### What this does to the theme — PROPOSED
+
+The carried-over theme was *agency that was never installed*. That does not
+fit a man who initiates, so it has to rhyme rather than repeat, and the
+version I would build is this:
+
+**He acts instead of saying.** He initiates constantly and it is all
+*doing* — and so the true sentence never gets said, not because he cannot
+say it, but because **he keeps making it unnecessary by fixing the problem
+first**. He has never had to ask for anything, because he has always been
+able to go and get it.
+
+And the class of problem that cannot be got by going and getting it is the
+one the premise hands us: **you cannot make people want to survive.** Eight
+people in a compound and some of them have stopped. He can guard them, feed
+them, earn for them, and fight for them, and none of that touches it.
+
+That keeps the disclosure engine — *can this person say a true thing out
+loud and what does it cost* — with an entirely different failure mode. And
+it makes him **actively wrong** in a way Sazare never was. Sazare's failures
+were failures to move; Tadayoshi's will be things he *did*. For a
+canon-shattering protagonist that is the correct shape: a man who changes
+events is a man whose mistakes change events.
+
+### What this does to the fighting — PROPOSED
+
+**Equipment first** means a kit: countable, named, carried, and *persistent
+between chapters*. Items can be lost, broken, taken, spent, given away.
+That is a far better serial engine than book one's articles, which mostly
+existed for one scene and were never seen again. It also front-loads
+objects, which is where this project does its best work.
+
+**Crowd control** is a fighting identity with an honest shape: he does not
+win engagements, he **changes what engagement it is** — obstruct, separate,
+funnel, bind, delay. It is inherently pre-emptive, which is exactly what
+hand seals can afford: you cast before contact, because during contact you
+cannot.
+
+**And it makes the brothers a two-man unit.** Tadayoshi shapes the fight,
+the brother ends it. Their relationship *is* the fighting style, so every
+fight is also a scene about the two of them — and the permanent structural
+weakness writes itself:
+
+> **Alone, he cannot finish anything.** He can control a crowd and not kill
+> one man.
+
+That is a weakness that never needs arguing for, and the whole book is
+available in the question of what happens to a man whose style assumes his
+brother is standing there.
+
+### The constraints that keep this honest — PROPOSED, and mandatory
+
+Equipment-and-control drifts into unstoppable as readily as anything else,
+so the costs go in now:
+
+1. **The kit is finite and has to be carried.** Weight, bulk, where it sits
+   on the body. He cannot have everything.
+2. **Made in advance is made with the time he had** — so what he is carrying
+   today is a *bet on what today would be*. Being wrong about the day is a
+   failure state, and should be one on the page.
+3. **Control fails against one good opponent.** Structurally. Permanently.
+4. **He cannot finish.** He needs the brother, a plan, or luck.
+
+*(Voice note: "crowd control" is a game term. The prose will want the
+clan's own word for it — a trade word, inherited, slightly wrong.)*
+
+---
+
 ## 2b. What the premise already buys — PROPOSED reading
 
 Recording this so the spec knows what it must not throw away.
@@ -161,7 +235,10 @@ the same entry.** The ledger gets both columns this time.
    previous generation's version of him. Book one had no living parent —
    this is entirely new ground.
 7. **POV roster.** Does the brother narrate? (PROPOSED: yes.)
-8. **What "canon-shattering" costs.** Which canon events move, and what the
+8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
+   story and it feeds the theme directly — you cannot make people want to
+   survive. Needs ruling; it changes what the compound feels like.
+9. **What "canon-shattering" costs.** Which canon events move, and what the
    book is prepared to lose by moving them.
 
 ---
