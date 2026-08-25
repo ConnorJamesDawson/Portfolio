@@ -561,7 +561,8 @@ a prop.
 - ~~When does Kimimaro arrive~~ **PROPOSED in §3e: the coup, ~6 pre-P1, at
   nine.**
 - ~~Does Orochimaru learn of it~~ **RULED in §3f: not the name, not until
-  act three. He hunts a ledger entry.**
+  act three. He hunts a ledger entry — and §9 makes it symmetrical: both
+  parties are anonymous by the same trade trick.**
 - ~~Kept or shattered fuse~~ **RULED in §3f: keep the illness, refuse the
   date. Fifteen is what a laboratory does to him; untreated has no number,
   and Uzuki cannot supply one.**
@@ -1743,3 +1744,292 @@ shape twice over here:
 > died, and what was installed in its place.
 
 If an entry cannot name the new constraint, **the old rule stands.**
+
+---
+
+## 8. THE PIPELINE — AUTHOR
+
+### 8a. The boilerplate
+
+**Tadayoshi finds that the courier job he took has scarily similar wording
+to another one.**
+
+He has unknowingly found **Orochimaru's needle-in-a-haystack approach:
+make the postings so generic that the actual trafficking goes through
+unnoticed, without having to spare the manpower to guard it.**
+
+### 8b. The Kimimaro job
+
+**Kimimaro is high-worth, so he does not move that way.** This one is a
+**large shipment out of the village, and the resistance is targeting it.**
+
+**Tadayoshi's job was to get the cargo and go. He finds a child locked
+away.**
+
+**And everybody else remembers the Kaguya assault, and sees another
+monster.**
+
+### 8c. Then there were three — and canon starts to catch up
+
+Tadayoshi has **a line on a shipping magnate who controls the smuggling of
+people to disreputable sources**, and goes to **cut the head off the
+snake**. He runs into **Zabuza**, who takes the job.
+
+**There is a verbal exchange between the two.**
+
+**Haku finds some familiarity with Uzuki**, and Tadayoshi is the one who
+points it out:
+
+> **"How many of her have been through his ports… How many people have to
+> suffer for one man's greed?"**
+
+So **Zabuza takes the contract to nail down Gatō's location** — working it
+**through a contract, through a contact**, patiently and at one remove.
+
+**And Tadayoshi has the subtlety of a bull in a china shop.**
+
+---
+
+## 9. What the pipeline buys — PROPOSED
+
+### The boilerplate is found by his method, not by luck
+
+His signature operation (§2i) is *learn it whole, find the part doing no
+work, remove it*. A posting written to be forgettable is **a document that
+is entirely parts doing no work.**
+
+> **He is constitutionally the one person in the Land of Water who would
+> notice.** Everybody else reads a job sheet for the fee and the date. He
+> reads it the way he reads a kata, and what he finds is that there is no
+> kata in it.
+
+That is the whole discovery arriving out of character rather than out of
+coincidence, which is the difference between a plot and a plot device.
+
+### And the second sheet should be one of his own
+
+**PROPOSED, and I would fight for this one.**
+
+He keeps dockets. He is a man who keeps dockets. So when the wording rings,
+he does not go to a board — **he goes to his own file**, and finds it
+again, earlier, in his own hand, signed off, paid, delivered.
+
+He has already run at least one.
+
+**And he cannot determine how many**, because uncountability is the entire
+design of the thing. Generic wording exists precisely so that the carrier
+does not know what he carried. There is no register, no manifest, no
+description, and every one of the people who could tell him is either dead
+or was never told either.
+
+> **A man who numbers everything, holding a number he cannot obtain.**
+
+That is the best single object this book has been handed, and it does four
+jobs at once:
+
+- It converts the discovery from *there is a trafficking ring* to **I am
+  part of it**, which is a scene rather than an exposition.
+- It gives the creed its real load. *Stay your hand from the blood of the
+  innocent* is written by a man who has already delivered an unknown number
+  of children to a buyer, and it is the first time his ledger has ever
+  failed him at the thing he built it for.
+- It is the second unreadable clock in the book, alongside Kimimaro's
+  (§3f ruling 2). **He is surrounded by quantities he cannot get.**
+- And it is why he goes for the head. Not conscience — **audit failure.**
+  He cannot close the entry, so he goes and removes the thing generating
+  entries. That is exactly how this man solves a problem, and it is why
+  it is going to go wrong.
+
+### The two hunters are invisible for the same reason
+
+This joins §3f ruling 1 into a single mechanism rather than two devices:
+
+| | Hidden by | Cannot be identified because |
+|---|---|---|
+| **Tadayoshi**, to the snake | the monastery's sale book | he killed everyone who could amend the entry |
+| **The snake**, to Tadayoshi | boilerplate postings | the paperwork is built to be unmemorable |
+
+**Two parties hunting each other through documents, both anonymous by the
+same trick**, in a book whose thesis is withholding. Neither of them
+invented the trick; the trade did.
+
+### He is cutting the head off the wrong snake
+
+The author's own phrase is the irony and it should be load-bearing.
+
+**Gatō is not the buyer. Gatō is the ports.** He is freight, warehousing,
+and the ability to move people without being asked questions — the
+*infrastructure*, sold to whoever pays, and the snake is one customer among
+several.
+
+So the investigation converges on Gatō **years before** it converges on
+Orochimaru, and Tadayoshi will call him *the snake* in his own head the
+whole way there, and be wrong, and not find out for a long time.
+
+Which is also the structural permission the book needs: **the Gatō thread
+can fail, or half-succeed, and the pipeline keeps running.** Removing the
+ports does not remove the customer. That is a much better act-two shape
+than a boss fight that closes the question.
+
+### The Kimimaro op — three cruelties, and they are all free
+
+1. **The coup is why the shipment is moving.** A village in internal crisis
+   evacuates its assets, which is how the resistance knows a large
+   consignment exists, and why it is guarded by people whose attention is
+   elsewhere. Canon supplies the date and the disorder; the author supplies
+   the op; nothing has to be invented to join them.
+2. **The cargo is the child.** Tadayoshi's brief was *get the cargo and
+   go.* He does. The op succeeds. **He is not disobeying orders when he
+   takes Kimimaro — he is executing them,** and the argument afterwards
+   cannot be about insubordination, which makes it about what everyone
+   actually objects to.
+3. **"Everybody sees another monster" is the thesis with a second body in
+   it.** Arc one is *becoming the monster everyone already believes he is*
+   — and here he watches his own people do it to a nine-year-old, on the
+   strength of a clan name, over an assault the child was **caged for
+   before it happened.**
+
+**And it is the break.** They will not have Kimimaro. So this is where he
+stops being resistance-adjacent, and it is not a betrayal, and nobody is a
+villain — it is a room full of people who lost family to the Kaguya being
+asked to feed one. **He walks out with two children and no organisation**,
+which is the exact moment §3b-iii's finding switches on: he is now the
+institution, and he built it in an afternoon by refusing to leave a cage
+shut.
+
+### Kimimaro has been caged three times by the time he is nine
+
+By his clan, by the village, and — for the length of one argument — by the
+people who just opened the box. **Tadayoshi is the first person in his life
+who has looked at him and not adjusted.** Not out of compassion: he does
+not have the equipment for compassion. He simply has no category for
+*monster* that would exclude himself, so the classification never runs.
+
+That is a far better basis for the boy's loyalty than gratitude, and it is
+the same shape as Uzuki's without being a repeat of it.
+
+---
+
+## 10. GATŌ AND ZABUZA — PROPOSED, and the exchange specified
+
+### Placement
+
+**Tadayoshi 12–13, ~5–4 pre-P1.** A year or two after the coup, which the
+boilerplate investigation needs anyway and which puts **Haku at ten or
+eleven** — comfortably with Zabuza, who has been a missing-nin outside the
+country since the coup failed.
+
+*(Book one's world-bible records an **accepted canon strain** pushing the
+coup to ~3–4 pre-P1. **That strain was bought to fit Sazare's age ledger
+and it dies with him** — §1. Book two reverts to the databook ~6, which is
+what §3e already assumed. Recorded here so nobody re-derives it.)*
+
+### The subtlety problem, and where it comes from
+
+*Bull in a china shop* is a real characterisation and it needs a cause, or
+it reads as a writer needing friction. The cause is already in the spec and
+it is the best kind — it is the same defect as everything else:
+
+> **Subtlety is a social skill.** It requires modelling what another person
+> will conclude. **He has no social function** (§3b-ii), so he cannot be
+> subtle for precisely the same reason he cannot talk to Uzuki. His
+> bluntness and his loneliness are one fault with two names.
+
+And note the distinction that keeps *assassin* honest: **he is not a subtle
+man, he is a subtle maker.** His articles are invisible — the clan sold the
+stuff as gemstone for four hundred years. He solves the approach problem
+with **equipment**, which works flawlessly until the problem is a person who
+has to be handled rather than got past.
+
+> **Zabuza is the first problem in his life that cannot be fabricated.**
+
+### The exchange — what it is about
+
+Not morality. He has half a creed and no standing to preach.
+
+- **Zabuza's position:** he has just failed a coup in front of a country, he
+  needs money for the next one, and sentiment is what gets men killed. He
+  does not do charity and says so.
+- **Tadayoshi's position:** arithmetic. *How many of her have been through
+  his ports.* He does not know the number — that is the point, he has
+  spent months failing to get it — and he says the shape of the number
+  instead.
+- **The turn is Haku**, and nobody says his name.
+
+### How Haku recognises Uzuki — and it is not a conversation
+
+The wrong version is two damaged children discussing their damage. The
+right version is mechanical, silent, and about ninety seconds long:
+
+> **Haku sees where Uzuki stands.** Not her face, not her hair — her
+> *position*: half a step off Tadayoshi's weak side, angled outward,
+> hands free, between him and the room. Because it is exactly where Haku
+> is standing.
+
+And Tadayoshi is the one who points it out, because pointing at a position
+is an engineering observation and he can make those. He cannot say a
+feeling out loud (§2c). **He can say a load path.**
+
+That is the line to build the scene on: he indicates a place on the floor.
+
+### The part I would build differently, and it is a small change
+
+The author's line has two halves and they do different work:
+
+1. *How many of her have been through his ports* — **a count.** His.
+2. *How many people have to suffer for one man's greed* — **rhetoric**, and
+   this man does not do rhetoric.
+
+**PROPOSED: he says both, and the second one is the one that fails.**
+
+He has prepared the moral line. He thinks it is the strong one. Zabuza has
+heard men say that in bars and says so, and it lands like a stone.
+
+**The count is what works, hours later, and it works because Zabuza was
+standing next to Haku when he heard it.**
+
+> **And Tadayoshi does not know why he won.** He will enter it in the book,
+> and he will enter it wrong, and he will use the wrong lesson on the next
+> person — because the one instrument he has never been able to build is
+> the one that reads a room.
+
+A man who audits everything, drawing the wrong conclusion from the first
+diplomatic success of his life. That is worth a decade of consequences and
+it costs one paragraph to install.
+
+### CANON FLAG — this is §4 item 11 arriving, and here is the bill
+
+**In canon, Zabuza ends up working for Gatō.** So a book in which Zabuza
+helps Tadayoshi kill him deletes the Wave arc, Haku's death, Kubikiribōchō's
+provenance, and the event that makes Naruto and Sasuke what they become. If
+that is the intended shatter, it should be chosen on purpose and priced —
+not arrived at because a scene wanted a corpse.
+
+**PROPOSED resolution, which keeps both the scene and the arc:**
+
+> **Zabuza nails down the location and does not take the head.**
+
+He is a mercenary rebuilding toward a second coup, and **a located Gatō is
+worth more as an employer than as a corpse.** He did the patient version,
+at one remove, through a contact — and the patient version is what let him
+see the value before Tadayoshi did.
+
+Which gives Tadayoshi the lesson the whole sequence exists to teach, and it
+is a poisonous one:
+
+> **The first time in his life he needed a person instead of an article,
+> the person did the job properly and kept the proceeds.**
+
+*Subtlety is a form of betrayal* is exactly the wrong lesson, it is exactly
+the lesson this man would draw, and it hardens the doctrine — *stand alone,
+trust nothing you cannot hold* — one more turn, on evidence.
+
+**And it leaves Gatō alive for canon to use**, with Zabuza carrying a
+location he sold, Haku having stood in a room with Uzuki once, and a Wave
+arc some years out that now has a Ruri fingerprint on it that nobody in
+Konoha will ever be able to read.
+
+*(Author call. The alternative — Gatō dies at twelve and the Wave arc never
+happens — is legitimate and this book has a canon-shattering mandate. But
+it should be taken as a decision with a stated price, and the price is the
+whole of the first arc of the source material.)*
