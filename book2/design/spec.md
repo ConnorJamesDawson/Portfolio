@@ -190,6 +190,107 @@ is competence with no weather in it.
 
 ---
 
+## 2l. THE CHILD — AUTHOR
+
+**He is ten at the warrant.** Reason of record: *Sazare's killing was years
+of habit before the reader arrived, so it never landed.* Starting here means
+**the reader is present for every single one, from the first.**
+
+*(Setting-consistent — book one's world-bible: "Kiri graduates young — Mei
+at 9, Kisame at 10.")*
+
+**Moved up a class once. The form said aptitude.** The real reason was that
+**his class had started to fear him.**
+
+**The inventor faces inward.** Sazare invented infrastructure — splints,
+stones, a road. Tadayoshi asks what crystal can do **for him**.
+
+**He reads.** No socialising, so he reads, and he **reads ahead** —
+**chakra shape theory long before Sazare ever got there.**
+
+---
+
+## 2m. What that fixes, what it needs, and one join — PROPOSED
+
+### The class transfer is the ideology's first lesson
+
+The institution's opening move against him is not punishment. It is
+**administrative relocation with a flattering reason on the form.** He was
+*promoted for being frightening*, and told a kindness about why.
+
+He is ten and he reads people. He will have both versions — the form's and
+the real one — side by side, and no way to make anybody admit the second.
+
+**So the fear predates the crime by a year.** *Becoming the monster everyone
+already believes he is* has a start date, and it is before he has done
+anything at all. And his politics are born in that room: institutions do not
+protect you. **They manage you, and they are polite about it.**
+
+### CONSTRAINT — what "prodigy" is allowed to mean
+
+A ten-year-old who reads shape theory, rebuilds kata and kills a genin team
+is one bad ruling away from being unstoppable at eleven. So, pinned now:
+
+> **His ceiling is technique. His floor is a child's body.**
+
+He learns and modifies faster than anyone alive. He does **not** get to be
+strong. No mass, no reach, no stamina, a small tank, cold hands, and he can
+simply be *picked up and carried*. The genin fight is exactly right on this:
+he takes the first half on precision and loses the second half to four
+bodies. **Any fight he wins by being stronger is a fight written wrong.**
+
+### Reading ahead gives him the map, not the ground
+
+Sazare's understanding was earned across eleven years of touching things.
+Tadayoshi's is **read**. That is not a smarter protagonist; it is a
+differently broken one:
+
+> **A boy who knows more than he understands.**
+
+He has the vocabulary and the theory and almost no calibration, which makes
+him **confidently wrong** in a way Sazare never could be — Sazare only ever
+knew what he had held. Tadayoshi will attempt things the book says should
+work, and they will fail, and the failures are his education. That is an
+*active* failure mode, which is what this protagonist needs.
+
+### THE JOIN — how the tone got fixed, and what it cost
+
+The clan degraded by copying. **He fixed it by reading something that had
+nothing to do with crystal.** Shape theory out of an Academy library,
+applied to the family trade by the one member who was not learning it by
+imitation — because he had no friends and therefore had afternoons.
+
+**The isolation causes the breakthrough.** The thing that makes him lonely
+is the thing that makes him capable.
+
+And then the part that should sit under the whole first arc, unsaid:
+
+> **Fixing the tone made the family more valuable. More valuable is what
+> gets you seized.**
+
+Two causes, and he only knows about one of them for years: the brother made
+it *easy*, and a nine-year-old with a library card made it *worth doing*.
+That is the same shape as Sazare's spike — a child's own initiative kills
+his family — arrived at through **invention rather than violence**, which is
+completely different in feel and much worse to carry.
+
+It also means that when the world calls him a monster, **part of him already
+agrees, for a reason nobody else knows.**
+
+*(Author ruling needed. It does not compete with the brother; it sits under
+him. But it is heavy, and the arrest can stay purely the brother's if you
+would rather.)*
+
+### And a very cheap, very cruel option on the genin team
+
+If the class that feared him graduated shortly after he fled, then the team
+sent to take him alive are **children he sat next to** — survivors of a
+graduation exam his warrant excused him from.
+
+He kills four kids who lived through a room he never had to enter.
+
+---
+
 ## 2j. THE FIRST BLOOD — AUTHOR
 
 **Not expelled. WARRANTED.** The state puts out a warrant for the child.
@@ -613,11 +714,10 @@ the same entry.** The ledger gets both columns this time.
 8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
-9. ~~The Academy afterwards.~~ **SETTLED — a warrant, not an expulsion.**
-   New underneath it: **how old is he at the warrant?** The Academy kata,
-   the arrest, the genin team and the recruitment all sit in one narrow
-   window, and the number decides how monstrous the genin scene reads.
-   Twelve is a different book from fifteen.
+9. ~~How old at the warrant?~~ **SETTLED: ten.** New underneath it:
+   **when did he fix the tone?** If it is eight or nine, it predates the
+   arrest and can be one of its causes (§2m). If it is after, it is only
+   grief with a method attached. Different books.
 10. **Does the brother know about the threshold?** If he does, the arrest is
    also a man removing something he is afraid of, and the betrayal gets a
    second floor.
