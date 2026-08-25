@@ -90,6 +90,15 @@ a widening with paperwork.
 | **Replacement constraint** | **He testifies that Mikage is not his mother** — fathered elsewhere by Tadaharu, raised as hers. Which is colder, harder to retract, and lands the family's worst single beat: **she is in the building, being taken, and does not contradict him, because contradicting him kills him.** And he is claiming descent from a man the state is about to kill as worthless — **he bought his life by proving he was worth nothing.** |
 | **Net** | **Constraint added.** The dead version cost him nothing he could not later disown. This one requires his mother's silence to work, which means **his survival is a thing she gave him**, and he has to live inside that. |
 
+### #9 — THE TONE IS A RELIABLE READING OF HIS MOTHER
+
+| | |
+|---|---|
+| **Killed** | *"Over years, the tone goes flat, and he knows exactly what that means because he is the one who worked out what it meant."* The book's most-used object was a sensor: her condition, transmitted through commerce, to the only man who could read it. |
+| **By** | Author ruling: **Kongō is alive, in the same facility, and outlives her.** |
+| **Replacement constraint** | **The tone is not a sensor. It is correspondence, and correspondence has an author.** From year 2 it is corrupted twice — **lag** (prison crystal circulates for years, so her hand keeps arriving after she is dead) and **forgery** (Kongō lays her courses on purpose, to keep a boy hunting a living mother coming). Neither announces itself. **He catches it as a data anomaly** — the chart stops flattening — and then cannot date the death, because pieces circulate. |
+| **Net** | **Constraint added, and it is the largest in the file.** The instrument he built out of love now **lies to him for a year**, the man forging it is doing it partly as bait, and the same flattening that told him she was dying is what told an accountant to dispose of her. **Two people reading the same chart; one of them is her son and the other one decides.** |
+
 ---
 
 ## Strains bought, with prices

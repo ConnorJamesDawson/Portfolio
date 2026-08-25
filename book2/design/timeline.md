@@ -28,7 +28,7 @@ Wave sits at the front of Part I. Therefore:
 | **8** | **~5** | **He fixes the tone. He shows his mother. He is told to hide it.** And the same year: **the Kaguya aftermath — a boy his own age carried past in a cage.** He does not learn the name. |
 | 9 | ~4 | The broken arm in a counter. The class transfer; the form says aptitude. **The brother is twelve and in the same building**, and comes home to the same house. |
 | **10** | **~3** | **THE WARRANT.** See §2 — the year is built month by month. Genin team, recruitment, contracts, the monastery, **Uzuki**. |
-| **11** | **~2** | The merchant, the boy, **the creed**. **The shipment, and Kimimaro.** The break with the resistance. |
+| **11** | **~2** | The merchant, the boy, **the creed**. **The shipment, and Kimimaro.** The break with the resistance. **MIKAGE DIES, and he does not find out** — Kongō takes over her hand (`falsified.md` #9). |
 | **12** | **~1** | The boilerplate. The ports. **Zabuza and Gatō.** **The village conversation, refused — he leaves.** |
 | **13** | **~0** | Alone, the curve at its worst. **Uzuki sends for him. He returns. Tsunade. Wave. The door.** |
 

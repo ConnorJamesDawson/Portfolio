@@ -402,6 +402,28 @@ to set up and can be declined later.**
 
 ---
 
+## 6b. THE FACILITY — unfinished business carried past the door
+
+The search does not end at Konoha. It gets a second name in it.
+
+> **Two Ruri are in that building. He is hunting one and does not know about
+> the other, and the other one is the reason his information is wrong.**
+
+- **Mikage dies in year 2** and he does not find out, because the tone lags
+  and then is forged (`falsified.md` #9).
+- **Kongō is alive**, has been marking his work for fifty years, has
+  Mikage's whole account of the family, and **wants to be found.**
+- Which makes the extraction target real, dated, and populated — and it
+  means the thing Tadayoshi has been walking toward since he was ten is
+  **still there after the book's current arc ends.**
+
+**And Kongō holds the one fact nobody else can supply**: whether Mikage sat
+still and let Iwao unmother her. She told him. **He decides what to do with
+it**, which makes an old man in a workshop the custodian of the only thing
+that could make Tadayoshi doubt the vow.
+
+---
+
 ## 7. Beyond the door — the shape, not yet the plan
 
 **Wave is personal. The invasion is structural.** The investigation goes

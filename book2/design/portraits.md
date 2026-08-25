@@ -1130,21 +1130,171 @@ out.**
 
 ---
 
-## RURI KONGŌ — the great-uncle, and he is not one of the eight
+## RURI KONGŌ — alive, and he outlives her
 
-**The precedent.** Taken decades ago for military crystal — the event that
-made Mikage's instinct at eight instant and absolute, because *it happened
-to her uncle in front of her.*
+**The precedent, and he is not one of the eight.** Taken decades ago for
+military crystal — the event that made Mikage's instinct instant and
+absolute, because *it happened to her uncle in front of her.*
 
-**Named for adamant, and taken for being the hardest thing they had.**
+**Mid-seventies by year 3. Taken as a young man. He has spent his entire
+adult life in state workshops.**
 
-> **OPEN, and it is a live hook: is he still alive?** The state keeps
-> producers. **If Mikage is kept, he may be kept in the same place** — which
-> would mean Tadayoshi's search for his mother has a second name in it, and
-> that the man whose fate taught her to hide is still holding a chisel
-> somewhere.
+> **He is in the same facility as Mikage, and he outlives her.**
+
+### Fifty years, and he is not broken
+
+**That is the horror.** He is not a wreck. He is **very good at his job and
+he takes pride in it** — he makes beautiful things for people who own him
+and he cannot stop caring whether they are beautiful.
+
+> **A man who has stood alone in the only sense that matters — no village,
+> no family, no freedom — for fifty years. And he is fine. Not free. Fine.**
+
+**Which is the third and worst refutation of the doctrine.** Zabuza and Haku
+show what happens if he keeps them. Tsunade shows what happens if he does
+not. **Kongō shows what self-sufficiency actually looks like at the end of a
+whole life, and it is a competent old man in somebody else's workshop who
+still checks his own edges.**
+
+**And he lies easily.** Fifty years of handing guards exactly the right
+amount of truth.
+
+> **He is the only person in this book who is better at withholding than
+> Tadayoshi.**
+
+### He can do what Tadayoshi worked out — and always could
+
+He was taken *before* the worst of the decline. **He lays more courses than
+Mikage ever managed, and he has done it for fifty years.**
+
+> **Tadayoshi's great achievement at eight was not a discovery. It was a
+> recovery.**
+
+The state did not only take the producers. **It took the knowledge, kept
+it, and used it** — and the family left behind had to reinvent it out of a
+library book, two generations later, by accident, in an afternoon.
+
+**Kiri has been sitting on the fixed tone for fifty years and using it to
+make fittings for soldiers.**
+
+### THE MARK — and he has been signalling into silence since before
+### Tadayoshi was born
+
+A maker cannot write. But he can lay a course out of sequence. He can bend
+a note flat on purpose. **He can put a deliberate, readable fault in a piece
+that only somebody who understands courses would know was intentional.**
+
+**And the clan lost that understanding two generations ago.**
+
+> **So he has been signing his work into a void for fifty years. Not a
+> message to anybody. The act of a man refusing to be only a machine.**
+
+**And when Tadayoshi finally reads one, he is reading something that was
+sent before he was born.**
+
+### Then Mikage arrives, and tells him about her son
+
+She cannot read the mark — she can barely lay two courses. But she can talk,
+and over months she gives him **everything**: the compound, the warrant, the
+tribunal, Iwao, and a boy of eight who fixed the tone and was told to hide
+it.
+
+**Kongō understands immediately what that means. There is somebody alive who
+can hear him.**
+
+So what he puts in the work changes — **from *I am here* to something
+addressed.**
+
+### And when she dies, he takes over her hand
+
+He learns to work *her* way. Flat, thin, two courses, the way a
+low-aptitude woman works — **and keeps producing under her signature.**
+
+Two reasons, and it is both, and he will only ever admit the first:
+
+1. **Mercy**, badly aimed and kindly meant: protecting a boy he has never
+   met from a fact.
+2. **Bait.** A boy hunting a living mother keeps coming. A boy who learns
+   she is dead stops. **He is using a dead woman to arrange his own
+   rescue.**
+
+> **He is a good man in the way fifty years makes people good: entirely, and
+> with an eye on the exit.**
+
+### The last living archive
+
+Meno's register burned. **Kongō has Mikage's account of everything**, given
+over months, in a workshop, by a woman with nothing else to do.
+
+Which makes him the delivery mechanism for the one fact nobody else can
+supply:
+
+> **Whether Mikage sat still and let Iwao unmother her.**
+>
+> **Kongō knows, because she told him. And he decides what to do with it.**
 
 ---
+
+## HOW MIKAGE DIES — and the same chart kills her
+
+Not dramatic. Low aptitude, poor conditions, decades of small work, and a
+facility that keeps producers **only while they produce.**
+
+> **The tone flattens because she is dying. And she is disposed of because
+> the tone flattened.**
+
+**Her decline is legible to the state as well.** They measure output; he
+measures courses; it is the same signal.
+
+> **Two people reading the same chart. One of them is her son. The other one
+> decides.**
+
+**The instrument he built out of love is also the justification.** And it
+lands his own thesis on him with no argument required: *he reads a graph
+about a person, and does not know what to do about it.*
+
+**PROPOSED placement: year 2.** He has been reading her for two years. He
+does not find out.
+
+---
+
+## THE TONE LIES NOW — and this changes the book's main instrument
+
+The series was: *her condition, transmitted through commerce, to the only
+person who can read it.* **It is no longer reliable, and it never announces
+that it has stopped being reliable.**
+
+**Two independent corruptions, and he knows about neither:**
+
+1. **Lag.** Prison-labour crystal circulates for years. Pieces made in year
+   1 are still turning up in year 3. **Her hand keeps appearing after she is
+   gone.** He is reading a lagging indicator of a person.
+2. **Forgery.** Kongō is laying her courses on purpose.
+
+### How he catches it — and it is a data anomaly
+
+Not grief. Not a rumour. **Not because the work is bad.**
+
+> **Because it is too consistent.** A dying woman's tone flattens. This one
+> **stopped flattening.** It plateaued.
+>
+> **The chart went flat in the wrong way.**
+
+The most in-character possible way for a man to learn his mother is dead:
+**he notices that a series stopped behaving like a decline.**
+
+### And then the number he cannot get
+
+**How long has she been dead?**
+
+He will try to date it from the last true piece, and he cannot, because
+pieces circulate and he does not know the lag. **Another unobtainable
+number, in a book full of them** — and this one he built the instrument for
+himself.
+
+*(Placement of the detection is OPEN. After the door is the natural home —
+that is when he first has a hospital, a ledger, and time — but it risks
+overloading act four. Decide deliberately.)*
 
 ## What five deaths have to do to be grief and not arithmetic
 

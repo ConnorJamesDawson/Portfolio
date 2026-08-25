@@ -464,6 +464,10 @@ he is the one who worked out what it meant.
 **Cheap to deploy, endlessly recurring, unbearable. It should be the book's
 most-used object.**
 
+> ⚠ **And from year 2 it lies.** She dies; **Kongō outlives her, in the same
+> facility, and takes over her hand.** The tone is not a sensor — it is
+> correspondence with an author. `portraits.md` and `falsified.md` #9.
+
 ---
 
 ## The people who have already run his experiment

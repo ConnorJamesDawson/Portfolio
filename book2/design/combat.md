@@ -78,6 +78,24 @@ hundred years without knowing, and then does it on purpose.
 - **And it is the reason for the collection order.** The yield improved.
   Somebody in an office noticed.
 
+### The courses are a channel, and it runs both ways
+
+A course laid out of sequence, or a note bent flat on purpose, is **a
+deliberate readable fault** — invisible to anybody who does not understand
+courses, unmistakable to anybody who does.
+
+**Ruri Kongō has been putting one in his work for fifty years** and nobody
+in the clan has been able to read it since before Tadayoshi was born
+(`portraits.md`).
+
+> **So the trade is a medium. Anything a Ruri makes can carry a mark, and
+> the only people who can read it are the people who can make it.**
+
+**Which means the tone can lie.** It is not a sensor; it is
+**correspondence**, and correspondence has an author. See `portraits.md` —
+*the tone lies now* — and `threads.md`, where the series is flagged
+unreliable from year 2.
+
 ---
 
 ## 3. The economy — three tiers, and he has the two that cost
