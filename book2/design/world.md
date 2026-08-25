@@ -123,6 +123,29 @@ it. That is available and does not have to be used.)*
 
 ---
 
+## THE PIPE — how the state sees a household, established ch2
+
+**Bloodline-sourced stock is a controlled category.** Every merchant house
+dealing in it **makes a monthly return** of what it took in and from whom.
+Those returns go up the coast to the returns office at Kirigakure.
+
+> **The state does not ask a household what it produces. It asks the
+> merchant** — *"a household would tell you what it thought you wanted to
+> hear."*
+
+**So the family's own buyer is the pipe**, and Tadaharu has never asked
+what happens at the far end of the counter, and the far end of the counter
+is a form on a fourth floor.
+
+**And the threshold rule:** a household return is pulled when **output
+moves more than a third against an unchanged declared head count.**
+Paragraph nine.
+
+**Presentation:** *every child of a registered bloodline household shall
+be presented for assessment in the year of their eighth birthday.*
+
+---
+
 ## Name register — fixed, so nothing drifts
 
 | Name | Is |
@@ -140,6 +163,7 @@ it. That is available and does not have to be used.)*
 | **Enkai** | the monastery elder |
 | **Sōta** | the boy *(withheld from the page until he returns)* |
 | **Aoyagi** | the Academy instructor. Fifty-ish, decent, tired. |
+| **Sakuma** | returns office, fourth floor, Kirigakure. Keeps a slip with the files-cleared count. **Returns once, much later, and does not remember the file.** |
 | **Ryūta** | eleven. Tadayoshi broke his arm last year. Asked him a good question once and did not finish it. |
 | **Kenji** | Kanaya's man at the Ōura counter — **see the plant above** |
 | **Tazu / Iwasa's boy** | Nakadō |

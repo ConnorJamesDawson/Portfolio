@@ -182,6 +182,7 @@ the location down and keeps the proceeds.
 
 | Ch | Story dates | Scenes | Words | POV | Beats |
 |---|---|---|---|---|---|
+| **2** | month 3, 4th–26th | 9 | 15,230 | T4 (49%) · U4 (41%) · **Sakuma 1 (11%)** | The Ōura road and a signed nomination. Tazu's four things. Kenji puts the glass on. A costed proposal refused in four seconds. **One declared, two hands, approved as recommended.** The case, and the word *confessing*. *I'm not getting better.* The hundred, at four in the morning. |
 | **1** | month 1 – last week of month 2 | 10 | 16,900 | T5 (57%) · U4 (36%) · K1 (8%) | The forgery and the mother who cannot tell it. The argument and Koishi's question. The first inspection. The eighth count. The register and the nineteen. The hundred on account. Four seals. Kayano, three days. The frame, and the sentence he did not say. |
 
 ---
