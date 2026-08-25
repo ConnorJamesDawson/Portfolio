@@ -3490,6 +3490,47 @@ sourceless reading of the sword, held and undescribed; Handa's birthday
 
 ---
 
+## STOPPING POINT — Book set down at ch74, author's ruling
+
+**Status: complete as a journey, not abandoned.** Ch74 is a legitimate last
+page — the creed struck and replaced on a stated day before witnesses, the
+promise to Kohaku broken out loud and paid for, the amendment entered in all
+four books, and the Tsunade arc closed by clause five and the treaty's first
+checkable condition. 74 chapters, 461 scenes, ~808,000 words.
+
+**Where it stands:** month 3, the 20th, Friday. Sazare Ruri, eighteen.
+
+**Live at the stop** (ch75 was planned and not written — see the session
+record): Hinata's commissioned ambush, expiring ~31/3; the undertaking to
+Naruto, unconditional and undated; Saeko's eleven seconds, unpaid since 22/5,
+and requisition 40-Q3/4 unanswered at six months; the attachment order to be
+rewritten; the spring's cover with no expiry; Fukasaku's third answer;
+midsummer's rematch.
+
+**Three structural findings from the ch75 planning pass — the map back in, if
+this is ever picked up:**
+
+1. **`falsified.md` runs twelve for twelve on widenings.** Every rule the
+   story has killed made him *stronger*; not one ever added a constraint. That
+   is where the suspense went. Any re-entry starts with a constraints pass.
+2. **The remaining year is oversubscribed.** Jiraiya's year, the spring on a
+   years-scale, the teaching arc, Saeko, Hinata, the rematch, Kabuto's third
+   exchange, Guren, the reparations claim and the material-participates study
+   cannot all fit in twelve months, and `timeline.md` has never admitted it.
+3. **There is no antagonist and no clock on the page.** Root is quiet, Kabuto
+   is a correspondence, Guren is parked, Akatsuki has never been named in the
+   prose. Every conflict for fifteen chapters has been internal and benign.
+
+**Proposed re-entry, if wanted:** the cheque is already written — ch74 sc10,
+Jiraiya: *"about four months before somebody makes you answer the question in
+a room where you can't pick the furniture."* The climax this book was built
+for is an interrogation, not a fight: a man who cannot lie, who has put in
+writing that he will answer, opposite somebody whose craft is asking. That
+retires the combat problem (his power is irrelevant in that room) and supplies
+both antagonist and clock from material already on the page.
+
+---
+
 ## D. SMALL, PERSONAL — pay quietly, do not build up to
 
 - **Yagi's one pierced ear.** He intends to ask and has not, for a year. He
