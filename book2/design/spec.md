@@ -2029,7 +2029,334 @@ location he sold, Haku having stood in a room with Uzuki once, and a Wave
 arc some years out that now has a Ruri fingerprint on it that nobody in
 Konoha will ever be able to read.
 
-*(Author call. The alternative — Gatō dies at twelve and the Wave arc never
-happens — is legitimate and this book has a canon-shattering mandate. But
-it should be taken as a decision with a stated price, and the price is the
-whole of the first arc of the source material.)*
+*(**RULED — see §11a.** The author has kept Zabuza's canon death, which
+requires Gatō alive at Wave. This resolution is therefore no longer
+optional; it is the shape the ruling entails. The alternative — Gatō dead
+at twelve — is now closed.)*
+
+---
+
+## 11. THE NON-COMBATANTS, AND THE VILLAGE DECISION — AUTHOR
+
+**Zabuza dies as in canon.**
+
+**Uzuki and Kimimaro are next to non-combatants by Tadayoshi's standards.**
+Uzuki can hold a katana and has stances. **Tadayoshi is not about
+teamwork.** He sees **tripping hazards**, and **more bodies that can happen
+to children who depend on him.**
+
+**After dealing with Gatō**, he takes stock of what is happening with
+Zabuza and Haku and decides **Uzuki and Kimimaro should be in a village.**
+
+**His mantra tested and shattered:** he finds that **he cannot help them.**
+He can point out holes in form and attack. **What he cannot do is teach what
+is best for them — only what is best for himself.**
+
+---
+
+## 11a. THE ENTAILMENT — recorded once, because it settles §10's flag
+
+**Zabuza dying at Wave requires Gatō to be alive at Wave**, solvent, and
+looking to hire a missing-nin. So the encounter at twelve–thirteen **cannot
+end with Gatō dead.**
+
+§10's proposed resolution is therefore no longer one option of two. It is
+the shape the author's own ruling requires: **Zabuza nails the location
+down and does not take the head**, because a located Gatō is worth more as
+an employer than as a corpse, and the patient man is the one who saw it
+first.
+
+**§4 item 11 is discharged for this thread.** Canon costs nothing here; the
+Wave arc stands intact with a Ruri fingerprint on its origin that nobody in
+Konoha will ever be able to read.
+
+---
+
+## 11b. He is RIGHT about them, and that is what makes it work — PROPOSED
+
+The temptation is to write the non-combatant ruling as overprotectiveness
+that the book will correct. **Do not.** He is correct, on the mechanics, and
+he can show his working.
+
+### His style makes the ground lethal, and it does not know whose ground it is
+
+He is a **crowd-control** fighter (§2c): obstruct, separate, funnel, bind,
+delay. That is **area denial**, and area denial is indiscriminate by
+definition. His articles occupy the floor. **The floor is the weapon.**
+
+> *Tripping hazards* is not a figure of speech. **It is a description of his
+> own technique**, and two children who cannot read a field they did not lay
+> are two casualties standing in it.
+
+### And the threshold does not check
+
+§2f: past a certain point he stops thinking, and **anything between him and
+the target is in the crossfire, allies included.** §2g rule 3 already says
+he will have built bookkeeping around it — thresholds, counts, warning
+signs, **rules for who is allowed near him and when.**
+
+So there is a **standing rule**, written down, with a number on it. A
+stated distance, a stated condition, entered in the book like everything
+else.
+
+Three things follow and all of them are scenes:
+
+1. **The rule is the household's only law**, and it is a law about how far
+   away from him the people who love him must stand. He wrote it out of
+   care. It reads, to a girl whose pathology is proximity, as a wall.
+2. **Uzuki will break it.** Not from stupidity — from doctrine. Her whole
+   architecture (§3b-iii) is *the one remaining thing is defended
+   absolutely*, and a rule that puts her outside the perimeter is a rule
+   that asks her to stop existing.
+3. **When it goes wrong it is nobody's fault and everybody's**, which is
+   the only kind of catastrophe this book should stage.
+
+### The distinction that keeps him from being a martinet
+
+> **He is right that they are a liability. He is wrong about what to do
+> about it.**
+
+Never let the book refute the first half to get at the second. The
+correction is not *actually they were fine*. The correction is that the
+answer to a liability is not distance — and distance is the only tool he
+owns.
+
+---
+
+## 11c. ZABUZA AND HAKU ARE HIM AND UZUKI, FIVE YEARS ON — PROPOSED
+
+This is why the taking-stock scene works, and it needs no dialogue at all.
+
+A man with no social function, and a child who reorganised her entire
+existence around him and will die for him, and the man cannot give her
+anything except how to be useful to him.
+
+**That is not an analogy. That is the same object, aged.**
+
+He met them at twelve. He sees them again — or hears what became of them —
+and what he is looking at is **an audit of his own household four years
+forward, conducted by somebody else, with the result already in.**
+
+And the result is a boy in a mask on a bridge.
+
+> **He does not decide to put them in a village because villages are good.
+> He decides it because he has just seen the finished article and it is a
+> corpse.**
+
+Which means the ideology does not fall to an argument — §2o and §3b-iii
+both insist on that — it falls to **a worked example.** He is a man who
+believes evidence. Somebody finally gave him some.
+
+---
+
+## 11d. THE SHATTER, STATED MECHANICALLY — PROPOSED
+
+The author's sentence is the thesis of the second arc and it should be
+written down in its exact form:
+
+> **He can point out holes in form and attack. He cannot teach what is best
+> for them — only what is best for himself.**
+
+### It is the same missing organ, for the third time
+
+| Instance | Where | What it needs |
+|---|---|---|
+| **He cannot be subtle** | §10, Zabuza | modelling what another person will conclude |
+| **He cannot talk to her** | §3b-ii, author's ruling | modelling what another person feels |
+| **He cannot teach her** | §11, here | modelling what another person *should become* |
+
+**One fault, three names.** It is not three weaknesses; it is the same hole
+presented in three lights, and the third one is the one that costs a child.
+That is exactly how book one built Sazare's, and it is the technology worth
+carrying over.
+
+### Why teaching is the hardest of the three
+
+Diagnosis is comparison against a standard, and he has the standard: he
+learns a form whole and finds the part doing no work (§2i). Anyone's kata,
+any hole, any opening — **he can see it, instantly, correctly.**
+
+Teaching requires a *destination*, and a destination is a claim about a
+person's future, and the only future he has ever been able to model is his
+own.
+
+> **Everything he knows is calibrated to a body that is his, a defect that
+> is his, and a ceiling that is his.** He can make Uzuki a worse copy of
+> Tadayoshi. He cannot make her a better Uzuki, because he has never once
+> in his life imagined what one would look like.
+
+### And his ideology is now the only thing he has to offer, and he has just
+found out it is only true for him
+
+*A shinobi should stand alone. Needing protection makes people complacent.*
+
+That is advice from a man who had no choice, generalised into a law. **Uzuki
+has a choice**, and Kimimaro is dying, and neither of them is him — and the
+one instruction he has to give is the one he built out of his own wreckage.
+
+§2e already ruled that the ideology is a rationalisation: *he believes
+nobody is safe standing next to him.* **Here is where he finds out it was
+never a philosophy at all, only a description**, and a description is not
+something you can hand a child.
+
+---
+
+## 11e. THE DECISION FAILS, AND IT FAILS IN THE RIGHT DIRECTION — PROPOSED
+
+Do not write the village decision as a decision that gets executed. Write it
+as a decision that **cannot survive contact with the two people it is about**
+— because the reason it cannot is the thing he has just discovered about
+himself.
+
+### Uzuki refuses, and he cannot argue her out of it
+
+He is proposing to put her somewhere he is not. From inside her reasoning
+that is not a kindness, it is **the event her entire architecture exists to
+prevent** — everything that was not defended absolutely is gone (§3b-iii).
+
+And to talk her out of it he would have to model what she needs and speak
+to it. **He has just proved, in the same chapter, that he cannot.**
+
+> **The decision and its impossibility are one scene.** He works out he
+> cannot teach her, and then immediately needs the exact faculty he has just
+> catalogued as missing, and watches himself fail with the finding still wet
+> in the book.
+
+### Kimimaro consents — and that is the trap
+
+Kimimaro would go, if told. He is a boy whose entire life has consisted of
+being **placed** by other people: caged by his clan, imprisoned by the
+village, crated for a buyer, argued over by a resistance.
+
+Which is exactly why he must not be placed again.
+
+> **Tadayoshi is about to do to Kimimaro the precise thing everybody else
+> did to Kimimaro — out of kindness — and Kimimaro will agree to it,
+> because agreeing to placement is the only competence he has.**
+
+**The fourth cage, and this one has a door held open by a man who loves
+him.**
+
+### She is right and he is wrong
+
+§3b-iii's standing rule — *she must be right sometimes, or she is a lecture
+and not a character* — gets its most important instance here, and it should
+be the first one the reader cannot argue with:
+
+**The broken one, the one whose development will never improve, is the one
+who says no.** For possessive reasons, out of a pathology, by a rule she
+wrote for herself — and she is **correct**, and the two of them stay, and
+Kimimaro lives out whatever he has left among people who chose him.
+
+He will never be able to say she was right. He will know.
+
+---
+
+## 12. SHOULD THE TEAM LINK UP WITH ZABUZA BEFORE WAVE? — ANSWERED
+
+### No. And the better scene is on the other side of it.
+
+Reasons, in order of weight:
+
+**1. It costs Zabuza's death, or it costs the character.** Put Tadayoshi on
+that bridge and he has two options. He intervenes — and Zabuza does not die
+the canon death that was just ruled, and Haku's sacrifice and Team 7's
+formation go with it. Or he stands and watches a boy die for a man's
+ambition — and this is the character who walked into a monastery and killed
+everyone in it over one word from a stranger. **Both options cost more than
+the scene is worth**, and the trouble is structural: he cannot be in that
+room and remain either canon-compatible or himself.
+
+**2. The taking-stock beat requires distance, by construction.** §11c only
+works because he is **auditing** Zabuza and Haku from outside. A man
+travelling with them is not observing a worked example, he is inside one,
+and the finding becomes a conversation. **Diagnosis needs a gap.**
+
+**3. It undoes the parting.** The whole load of §10 is that the first time
+he needed a person instead of an article, the person did the job properly
+and kept the proceeds. That is the evidence his doctrine hardens on. A
+reunion four years later dilutes the only professional relationship in the
+book that is supposed to have gone wrong permanently.
+
+**4. His household is supposed to be somewhere else by then.** The village
+decision sits between Gatō and Wave. Whatever comes of it (§11e), the team
+is not roaming with a missing-nin.
+
+**5. Wave is the smaller convergence and it should stay small.** The real
+collision is three months later — see below.
+
+### What to do instead: he arrives late
+
+> **Tadayoshi comes to the graves.**
+
+Two mounds on a cliff, and Kubikiribōchō planted beside one of them, and he
+is a day or a week behind it.
+
+He came to deliver an argument. He has been building it for four years and
+it is the only conversation he has ever prepared: *I put mine in a village.
+Yours is dead on a bridge. I was right and you were wrong.*
+
+**And there is nobody to say it to.**
+
+Everything in that scene is already paid for:
+
+- **The sword he must not take.** Book one's world-bible: *Kubikiribōchō
+  stays beside Zabuza's grave until Suigetsu retrieves it three years
+  later.* So the rule already exists, and here it becomes character —
+  because the vow (§2n) says **a sword of my own design, not one of the
+  seven, because anything worth inheriting by the institution leads to
+  rot.** He is standing in front of one of the seven, unattended, unguarded,
+  and free.
+  **The vow tested with nobody watching, and no one who would ever have
+  known.**
+- **Haku's grave is Uzuki's grave**, in every sense except the one that
+  matters, and Uzuki is standing next to him looking at it, and neither of
+  them says anything, and both of them have done the arithmetic.
+- **The argument he cannot deliver** is the book's engine in one image: the
+  man who cannot say a true thing out loud, finally ready to, one week
+  late, to a mound of earth.
+- And it is **cheap**. No canon moves. Nobody is in a room they should not
+  be in.
+
+### And the real convergence is the invasion, three months later
+
+Wave is personal. **The Chūnin Exams and the Konoha invasion are the
+structural one**, because that is where the thing he has been hunting since
+he was eleven finally has a face.
+
+The four-year investigation goes: **boilerplate → the ports → Gatō → and
+past him, because Gatō was only ever freight** (§9). The customer is
+somewhere on the other side, and the customer walks onto a field in Konoha
+at the end of Part I's first act.
+
+**And the terms are already set by §3f.** Kimimaro is dying and Uzuki
+cannot fix him. Orochimaru is the one man alive who kept a Kimimaro
+running for six years, and he will say so, and he will be telling the
+truth.
+
+> **Act three is a trade offered by the person the whole book has been
+> hunting: a life he cannot save, for a creed he wrote to stop himself.**
+
+*Stay your hand from the blood of the innocent* — held by a man who has
+already been widening *not innocent* for years, being asked to widen it
+once more, for the best reason he will ever be offered.
+
+That is where this book is going, and it is why Wave should stay a
+graveyard.
+
+### The fallback, if you want him at Wave anyway
+
+If the scene is wanted, the way to have it without breaking anything is
+**the mist**.
+
+He arrives during, on the wrong side of the water, and **Kirigakure no
+Jutsu is the one condition his entire method cannot address** — area denial
+requires knowing where the area is. He spends the fight laying a field
+around an empty stretch of bridge, at range, blind, solving a problem that
+is not the problem.
+
+Which is at least the correct failure: **a man whose answer to everything is
+to shape the ground, in the one weather where the ground cannot be found.**
+He hears it end. He never sees it.
+
+I would still take the graves.
