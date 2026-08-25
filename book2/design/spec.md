@@ -17,6 +17,7 @@
 > | `portraits.md` | look, manner, voice, and what changes each year |
 > | `combat.md` | the power, the kit, the threshold, the hunter curve |
 > | `structure.md` | the four acts, the pipeline, every major sequence |
+> | `act-1.md` | chapter structure, POV budget, information plan |
 > | `falsified.md` | every dead rule, two columns |
 > | `threads.md` | per-chapter state *(skeleton — no prose yet)* |
 > | `method-delta.md` | what book two adds to book one's `method.md` |

@@ -15,6 +15,7 @@ New timeline; Sazare Ruri does not exist.
 | **`portraits.md`** | look, manner, voice, and what changes each year | live |
 | **`combat.md`** | the power, the kit, the threshold, the hunter curve | live |
 | **`structure.md`** | the four acts, the pipeline, and every major sequence | live |
+| **`act-1.md`** | chapter structure, POV budget, and the information plan | live |
 | **`falsified.md`** | every rule this project has killed, two columns | live |
 | **`threads.md`** | authoritative per-chapter state | skeleton |
 | **`method-delta.md`** | what book two adds to book one's `method.md` | live |
