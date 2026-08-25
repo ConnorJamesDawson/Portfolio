@@ -92,6 +92,104 @@ differently. Worth going in with eyes open.
 
 ---
 
+## 2d. TRADE, THEORY, IDEOLOGY, CREED — AUTHOR
+
+**Era: exactly the same as book one.** Kirigakure, the bloodline purges, the
+rebellion. The Seven Swordsmen live. Book one's world-bible and dated
+skeleton stand; only Sazare's biography is gone.
+
+**The trade is still crystal.** The mother's aptitude is lower — **she can
+only make small jewellery.** Tadayoshi makes more, and the reason is not
+talent: **he asked why, and fixed the tone.**
+
+**The crystal theory from the Sazare line is retained.**
+
+**Military, not fabricator.** Where Sazare was a maker who was occasionally
+dangerous, this one is a soldier whose trade is making.
+
+**The theory stays private.** Sazare could have shaken the world with what
+he worked out and kept it back out of fear of the consequences. **Tadayoshi
+keeps it back for the military advantage it gives him.**
+
+**Ideology, out of the purge:** cynical about villages. *A shinobi should be
+able to stand on their own. Needing a village's protection makes people
+complacent, and complacent people rot.*
+
+**No courier years.** He becomes an **emotionless assassin with a creed**:
+
+> **"Stay your hand from the blood of the innocent."**
+
+*(Acknowledged lift from Assassin's Creed. The plot's spine is that this
+creed develops as he learns what the world is.)*
+
+**How he pays for it.** Pushed out into the world to earn during the
+rebellion, he has **no creed at all** and takes any contract that keeps him
+alive — until he makes **another him**: a family killed because a merchant
+wanted the house, and a small boy coming back from a relative's to find them.
+
+---
+
+## 2e. What I would build on that — PROPOSED
+
+### The creed has a hole in it, and the hole is the book
+
+*Stay your hand from the blood of the innocent* does not say who is
+innocent. **He does.** It is a limit that hands the wielder the definition,
+which means it can always be satisfied by reclassifying somebody — and the
+man holding it withholds knowledge for advantage and believes institutions
+make people rot. That man will widen *not innocent* by degrees, for good
+reasons, every time.
+
+**So the arc is: a creed that begins as a limit and becomes a permission,
+unless something stops it.** That rhymes with book one — where the creed
+turned out to be a governor with a hidden trigger nobody had read — in
+*shape*, with entirely different content. Which is what "similar theme"
+should mean.
+
+### The ideology contradicts his own body
+
+He believes a shinobi should stand alone. **His fighting style cannot finish
+anything alone** — control shapes an engagement; the brother ends it. His
+whole philosophy is a rationalisation of something that is not true about
+him, and the day he loses the brother is the day the belief and the fact
+collide. That is the engine, and it is free.
+
+### The decline is in the craft, not only the count
+
+PROPOSED: the clan degraded by **transmission failure** — the method was
+copied without being understood, generation on generation, and the tone went
+flat. Forty who could do it became eight who half-can. A boy asked why.
+
+Which makes him better than his mother at the family's only asset, in her
+house, having got there by questioning how she was taught. That is a
+permanent charge in the most important relationship in his childhood, and it
+costs nothing to install.
+
+### The boy is the loaded object
+
+The child who comes back to a dead family is the single most loaded thing in
+the premise, and what Tadayoshi does about him should be **an action that is
+not enough** — money, a placement, killing the merchant. All doing. None of
+it the thing the boy needed. **And the boy remembers, and comes back.**
+That is an antagonist earned in the first act, from the protagonist's own
+purest failure mode.
+
+### Craft warning — "emotionless" is a trap
+
+Written straight it produces a dead narrator, and interiority is this
+project's whole strength. He is not emotionless; he has a **register** — flat
+delivery at a price the reader can see. Book one already built the
+technology for exactly this (the working voice, the cost arriving in copper
+and a steady cup). Reuse the mechanism, not the furniture.
+
+### Withholding must cost, on the page
+
+If he keeps the theory for advantage, the book has to show what that buys and
+what it costs — somebody who could have been saved, and wasn't. Otherwise it
+is competence with no weather in it.
+
+---
+
 ## 2c. THE INVERSION — AUTHOR
 
 - **Sazare waited until someone came to him. Tadayoshi does not.**
@@ -219,9 +317,12 @@ the same entry.** The ledger gets both columns this time.
    elsewhere. This dates everything else.
 2. **Ages and birth order.** Which brother is older, and by how much. This
    decides who protects whom and who is failing whom.
-3. **The clan's trade.** Forty people in a compound were doing something.
-   Book one's Ruri worked frames and made jewellery; keeping a real craft at
-   the centre is the single most portable asset from book one.
+3. ~~The clan's trade.~~ **SETTLED: crystal, and the theory carries.** Still
+   open underneath it: **which** rulings carry. Book one's `falsified.md`
+   mixes *material physics* (what crystal does) with *Sazare's personal
+   capability* (what he could do without seals). Default proposal — the
+   physics carries, the capability rulings do not, because they were his and
+   this Ruri casts.
 4. **The Shōton spec** — shape and cost curve. Hand seals settle the two
    interruptible steps; the *attackable resource* and the expense curve are
    still open. Also: does book one's Ruri clan history carry (four hundred
