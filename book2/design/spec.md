@@ -289,6 +289,12 @@ Canon does not pin that gap.
 
 **That undated gap is the whole opportunity.**
 
+> ⚠ **SUPERSEDED BY §23.** The three-year rule makes Wave fall at
+> **thirteen**, which moves the whole anchor. The table below is retained
+> as the *derivation* — how book one dated the era — but its readings for
+> Tadayoshi are wrong and the coup is **no longer the convergence.**
+> **Read §23 first.**
+
 ### Book one's table, which is the authority here
 
 `world-bible.md` already dates this era, counting back from Part I, and
@@ -315,6 +321,13 @@ already flags that it is databook-derived and approximate:
 | **~6** | **11** | **Zabuza's coup — and Kimimaro, 9, still held.** |
 
 ### THE CONVERGENCE — it is already in the timeline
+
+~~**Zabuza's failed coup at ~6 pre-P1 is the big event.**~~
+**STRUCK — see §23.** The coup was my join, not the author's; the author
+supplied only *a large shipment the resistance targets.* §23 replaces the
+coup with a better cause. What survives below is the reasoning about
+disorder and reachability, which the replacement satisfies just as well.
+The original text:
 
 **Zabuza's failed coup at ~6 pre-P1 is the big event.** It is where the
 threads arrive:
@@ -1483,7 +1496,9 @@ never builds the creed at all.
 §3d: *one calendar, before chapter one.* Here it is. Twelve months, two
 children, both ten, book one's month-numbering convention.
 
-**Year 0 = ~7 pre-P1.** He turns eleven at the end of it.
+**Year 0 = ~3 pre-P1** *(corrected by §23; was ~7)*. He turns eleven at
+the end of it. **The month-by-month structure below is unaffected** — only
+the era anchor moved.
 
 | Mo. | TADAYOSHI | UZUKI |
 |---|---|---|
@@ -1552,7 +1567,7 @@ ledger he keeps, and she is the entry.
 |---|---|
 | Early | Freelance, because the resistance has stopped posting him. **No creed.** Any contract that feeds two. |
 | Mid | **The merchant, the house, and the boy.** The creed is installed — bought, at a price, halfway down. |
-| **~6 pre-P1** | **ZABUZA'S COUP.** The riot. The facility. **Kimimaro, nine, still held.** The team is three. |
+| **~2 pre-P1** | **THE SHIPMENT.** The consignment moves because the buyer has paid. **Kimimaro comes off the delivery run.** The team is three. *(Was the coup — see §23.)* |
 
 **And the two children are two months apart, which is the point.**
 
@@ -1914,15 +1929,17 @@ the same shape as Uzuki's without being a repeat of it.
 
 ### Placement
 
-**Tadayoshi 12–13, ~5–4 pre-P1.** A year or two after the coup, which the
-boilerplate investigation needs anyway and which puts **Haku at ten or
-eleven** — comfortably with Zabuza, who has been a missing-nin outside the
-country since the coup failed.
+**Tadayoshi 12, ~1 pre-P1** *(corrected by §23; was 12–13 at ~5–4)*. One
+year after the shipment, which the boilerplate investigation needs anyway,
+and which puts **Haku at about fourteen** — long since with Zabuza, who has
+been a missing-nin outside the country since his coup failed when Tadayoshi
+was seven.
 
 *(Book one's world-bible records an **accepted canon strain** pushing the
-coup to ~3–4 pre-P1. **That strain was bought to fit Sazare's age ledger
-and it dies with him** — §1. Book two reverts to the databook ~6, which is
-what §3e already assumed. Recorded here so nobody re-derives it.)*
+coup to ~3–4 pre-P1 to fit Sazare's age ledger. **Book two does not need
+that strain and does not buy it** — §23 keeps the coup at the databook ~6,
+where Tadayoshi is seven and it is somebody else's history. Recorded here
+so nobody re-derives it.)*
 
 ### The subtlety problem, and where it comes from
 
@@ -2057,8 +2074,8 @@ is best for them — only what is best for himself.**
 ## 11a. THE ENTAILMENT — recorded once, because it settles §10's flag
 
 **Zabuza dying at Wave requires Gatō to be alive at Wave**, solvent, and
-looking to hire a missing-nin. So the encounter at twelve–thirteen **cannot
-end with Gatō dead.**
+looking to hire a missing-nin. So the encounter at **twelve** **cannot end
+with Gatō dead.**
 
 §10's proposed resolution is therefore no longer one option of two. It is
 the shape the author's own ruling requires: **Zabuza nails the location
@@ -2859,12 +2876,23 @@ recognise that he is not as good as he thinks he is.**
 
 ### Placement — it costs nothing and it lands on §12
 
-He arrives at Wave after the bridge (§12: the graves, a week late). **Team 7
-is still there** — canonically they stay until the bridge is finished. So
-the graveyard and the amnesty are the same three days.
+He arrives at Wave after the bridge (§12: the graves, a week late), **aged
+thirteen** (§23). **Team 7 is still there** — canonically they stay until
+the bridge is finished. So the graveyard and the amnesty are the same three
+days.
 
-> **He came to deliver an argument to a dead man, and instead has to ask a
-> living one for a favour.**
+> **He came to ask a dead man a question, and instead has to ask a living
+> one for a favour.**
+
+*(§12 wrote the graveside scene as an argument he came to deliver —
+*I put mine in a village, yours is dead.* **§23 corrects it.** Under the
+three-year clock he has not placed anybody; they refused, he left, and they
+sent for him. So he does not arrive triumphant. **He arrives with two
+children, no plan, and a hospital he cannot get into — and the one person
+alive who ever kept a child like this is a week dead.** He came for advice,
+from a mercenary, because there is nobody else. Everything else in §12 —
+the blade he must not take, Haku's grave being Uzuki's, the thing he cannot
+say out loud — stands unchanged and is improved by it.)*
 
 And the reason he is asking at all is §19: Tsunade sent him for a village,
 and the only village that would ever consider a Kiri missing-nin is
@@ -3001,8 +3029,9 @@ everything to prove.
 And §2i's founding incident: **he broke another child's arm in a counter,
 the teachers could not tell whether he meant it, and neither could he.**
 
-> **He is being asked to repeat, at seventeen, in front of witnesses, the
-> event that got him moved out of his class at nine.**
+> **He is being asked to repeat, at thirteen, in front of witnesses, the
+> event that got him moved out of his class at nine — four years ago, not
+> a lifetime ago. He is still the boy it happened to.**
 
 That is the scene. Not a showcase — **a man walking back into the room that
 made him**, holding a thing he has spent seven years measuring and cannot
@@ -3045,3 +3074,155 @@ It only has to be allowed to happen, and then paid for later.
 *(Flag: this is a canon-shattering lever with real force — §4 item 11. It
 should be taken deliberately. But unlike the Gatō question it costs nothing
 to set up now and can be declined later.)*
+
+---
+
+## 23. THE COMPRESSION — AUTHOR RULING, and it re-anchors everything
+
+> **He cannot be sixteen. That is the drift that went wrong with Sazare.**
+> **Maximum three years on the road.**
+
+**The ruling is correct and the drift was mine.** §12 and §21 put him at
+Wave at roughly seventeen, derived from an era table rather than from a
+stated constraint — which is precisely how book one arrived at a
+protagonist who had aged out of his own premise. Recomputing from the hard
+anchors instead of from the table.
+
+### The four hard anchors
+
+1. **The warrant is at ten.** (AUTHOR, §2l)
+2. **Uzuki is the same age.** (AUTHOR, §3b-ii)
+3. **Three years on the road, maximum.** (AUTHOR, here)
+4. **Wave is where the road ends** — the amnesty ask. (AUTHOR, §20)
+
+Wave sits at the front of Part I. Therefore:
+
+> ## **Tadayoshi is THIRTEEN at Wave. Born ~13 pre-P1. Warranted at ~3 pre-P1.**
+
+### The clock, rebuilt — and it is four one-year acts
+
+| Age | Pre-P1 | The year |
+|---|---|---|
+| 7 | ~6 | Academy. **Zabuza's coup happens and is nothing to do with him.** The year Kiri came apart; the reason a resistance exists at all. A thing that happened to adults while he was seven. |
+| 8 | ~5 | **He fixes the tone and is told to hide it.** *And the same year, the Kaguya aftermath — a boy his own age carried past in a cage.* |
+| 9 | ~4 | The broken arm. The class transfer. The form says aptitude. |
+| **10** | **~3** | **THE WARRANT.** §6's calendar, month for month, unchanged. Genin team, recruitment, contracts, the monastery, **Uzuki**. |
+| **11** | **~2** | The merchant, the boy, **the creed**. **The shipment, and Kimimaro.** The break with the resistance. |
+| **12** | **~1** | The boilerplate. The ports. **Zabuza and Gatō.** **The village conversation, refused — he leaves.** |
+| **13** | **~0** | Alone, and the curve at its worst. **Uzuki sends for him. He returns. Tsunade. Wave. The door.** |
+
+**Every act is one year and he is a child in all of them.** That is a
+structure the drift cannot get into, because the reader can see the
+difference between ten and thirteen on every page and will hold the book to
+it.
+
+### What this fixes that I had not noticed was broken
+
+**The spar.** §22 was a seventeen-year-old professional out-classing a
+twelve-year-old, which is not a demonstration, it is an adult hitting a
+child, and it would have read badly however it was written. **At thirteen
+against twelve he is a peer** — one year older, same size, no reach
+advantage — and being comprehensively read by a boy your own age is
+genuinely humiliating in a way losing to an adult is not. It also protects
+§2m's floor: *his ceiling is technique, his floor is a child's body.* **At
+thirteen he still has one.**
+
+**The Tsunade scene.** A thirteen-year-old walking into a bar and offering a
+Sannin a wager on a dying friend is a completely different object from a
+grown man doing it. §19's finding — that he priced the contract off his own
+gift — is far more forgivable and far more painful coming from a boy.
+
+**The amnesty.** A thirteen-year-old asking a jōnin for professional
+amnesty, and being read instantly as a killer, is more disturbing than the
+adult version, not less.
+
+**The hunter curve** (§15) gets steeper and better. Three years, not seven.
+The number he keeps revising — *the date at which the curve exceeds me* —
+is now near, computable, and inside the book.
+
+**And the graveside** (§12) improves: see §21's correction. He is not
+arriving with a vindication. He is arriving with nothing.
+
+### What it costs, stated honestly
+
+**1. The coup is no longer available as the Kimimaro extraction.** At ~6
+pre-P1 he is seven years old.
+
+**This is a repair, not a loss** — the coup was my join and the author never
+asked for it. The author's material is *a large shipment out of the village,
+which the resistance targets.* So give the shipment its proper cause:
+
+> **The consignment is moving because the buyer has paid.**
+
+It is the sale. Kimimaro is high-worth (§8b) and he is being **delivered**,
+and Tadayoshi takes him off the run.
+
+Which is strictly better than a riot, because it wires the extraction
+directly into the pipeline (§8–9): he is not stumbling on a cell in a
+disorder, **he is robbing a delivery**, and the buyer at the far end is the
+same buyer as the monastery's. It also sharpens §3f ruling 1 considerably —
+the snake is not investigating a vague loss of stock. **He is investigating
+the disappearance of a specific, expensive, already-purchased acquisition**,
+which is a far better reason to keep looking for four years.
+
+**2. Kimimaro is older than Tadayoshi — by two or three years.**
+
+Canon puts his birth around ~15–16 pre-P1. Against a Tadayoshi born ~13
+pre-P1 that makes him roughly **thirteen at the extraction and fifteen at
+Wave.**
+
+**Recommendation: accept it. Do not move his birth.** Two reasons:
+
+- **It is a better household.** The eldest of the three, physically the most
+  dangerous thing in the building, and the only one who has never made a
+  decision in his life — being decided for by a boy two years younger. That
+  is a nastier and more interesting shape than three children of a size.
+- **It hands the reader a countdown the characters do not have.** §3f ruling
+  2 refuses to give Kimimaro a date. But a reader who knows canon knows he
+  dies at about fifteen — **and he is fifteen when he walks into Konoha.**
+  The book never says it. The reader holds their breath from the moment he
+  is introduced and nobody on the page knows why. That is dramatic irony
+  bought for free, and it is exactly what ruling 2 was reaching for.
+
+*(The alternative — move his birth to ~13 pre-P1 and make them the same age
+— costs a two-to-three-year strain on a databook figure and buys nothing
+this does not already give.)*
+
+**3. The Kaguya assault moves to ~5 pre-P1** so the cage-sighting still
+works (Tadayoshi 8, Kimimaro ~10).
+
+This is a small, cheap strain on a figure book one's own table already
+labels approximate — and **it improves canon plausibility**, since a
+Kimimaro of ten as a combatant in that assault is easier to credit than one
+of five.
+
+**And it buys the single best pairing in the childhood:**
+
+> **The year he fixed the tone and was told to hide it is the same year a
+> boy his own age went past in a cage.**
+>
+> **The instruction and the evidence arrived within months of each other,
+> and he still did not understand what he was being told.**
+
+**4. The Tsunade first contact moves inside the three years.** Say **eleven
+or twelve**, waiting on a payment. So the recognition off the woodcut is
+**two years later, not four** — which is enough, and which is sharper: he
+met her once and did not think about her again until a boy started coughing.
+
+### The rule this installs, and it is a ledger rule
+
+Book one's drift was not one bad decision. It was **seventy chapters of
+small consistent additions, none of which was checked against a stated
+constraint**, because there was no stated constraint to check against.
+
+> **BINDING: the age ledger is an anchor, not an output.** Tadayoshi's age
+> at every fixed event is written down here, and no scene may move it. If a
+> scene needs more time than the ledger has, **the scene is wrong, not the
+> ledger.**
+>
+> **And it goes in `book2/design/falsified.md` with two columns like
+> everything else** (§7): what moved, and what constraint replaced it.
+
+That is the same discipline as the anti-widening rule, applied to the clock
+instead of to the power — and it is being installed because the failure
+already happened once, in this document, two messages ago.
