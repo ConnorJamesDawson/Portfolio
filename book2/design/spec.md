@@ -268,6 +268,112 @@ Red-haired Uzumaki child. **Not village-trained.**
 
 ---
 
+## 3b-ii. THE TEAM, AND WHAT SHE BECOMES — AUTHOR
+
+- **She is the same age as Tadayoshi.**
+- **The contract is annulled — the client is dead when he arrives.** No
+  professional obligation survives the scene.
+- **It starts as a duo. The third is Kimimaro. That is the team.**
+- **She will feel indebted until the day she dies, and her mental
+  development will not improve.** Tadayoshi has no idea how to speak to
+  somebody who has been through that, and does not learn.
+- **She latches on and goes full yandere.** Anybody touching him had better
+  have his permission or lose the hand.
+- **Her reason for living is him. His is to avenge his family.**
+
+> **AUTHOR'S PRINCIPLE:** Tadayoshi has no social function, so the only
+> person who stays is the kind who **latches**.
+
+---
+
+## 3b-iii. What the team does — PROPOSED
+
+### He has founded the exact thing he despises
+
+*Needing a village's protection makes people complacent, and complacent
+people rot.*
+
+By act two he is running a household of three in which **two people have
+organised their entire existence around him**, cannot function without him,
+and will not leave. **He is the village.** He is the institution. He is the
+protection that makes people rot, and he built it by accident out of
+kindness he did not know he was performing.
+
+His philosophy is not refuted by an argument. **It is refuted by two
+children who love him**, and he cannot answer it, because answering it would
+mean conceding the thing his whole life is built on.
+
+### Three last-of-the-line children, each of whom canon would have eaten
+
+Ruri, Uzumaki, Kaguya. Crystal, vitality, bone. **Three harvested
+bloodlines**, and in the canon timeline every one of them is consumed by an
+institution — Kiri takes the Ruri, the snake buys the Uzumaki girl, the
+snake takes Kimimaro when nobody else does.
+
+**Tadayoshi gets there first.** That is the canon-shattering event with real
+downstream teeth: **Kimimaro never goes to Orochimaru**, and everything the
+Sound arc rests on moves.
+
+And the team composition *is* the thesis: an anti-institution made of the
+three people the institutions were coming for.
+
+### Her, written as a person and not as a mode — PROPOSED, and this is the whole risk
+
+*Yandere* is a genre register. Written as a register it produces a
+possessive archetype and the book loses everything it is good at. Written as
+a **person**, it is genuinely disturbing and genuinely moving. The
+difference is exactly one thing: **she can state her reasoning, it is
+internally consistent, and it is wrong in a way she cannot see.**
+
+Her reasoning is already airtight from inside:
+
+> She said **one word** and it saved her. The word was *help*. The mechanism
+> was him. **He is the thing that answers.** Everything else in the world
+> took; he gave.
+
+So the possessiveness is not romantic jealousy — it is **inventory control
+by a survivor**. She has watched every single thing be taken: father,
+mother, home, safety, very nearly her body. **The one remaining thing must
+be defended absolutely, because everything that was not defended absolutely
+is gone.** That is not madness. Given her data, it is *reasonable*, which is
+what makes it frightening.
+
+**So the hand does not come off in rage. It comes off as maintenance** —
+calmly, under a rule she can state and defend, and she will have written the
+rule down.
+
+Which makes her his mirror in method as well as in wound. He audits. She
+audits.
+
+> **She is his philosophy taken to its conclusion, walking around in a
+> person.** He says institutions rot people, stand alone, trust nothing you
+> cannot hold. She heard him, agreed, and built her whole life on it — with
+> him as the single held thing.
+
+He will be horrified by her and unable to say why, because saying why means
+saying his own doctrine is wrong.
+
+### FLAG — a static character over seventy chapters
+
+*Her development will not improve* is a deliberate ruling and a legitimate
+one, but stasis is hard to sustain at length. The fix is not growth.
+
+> **She does not develop. She SCALES.**
+
+At eleven she is clinging. At fifteen she is dangerous. At twenty she is an
+institution of one — running his correspondence, his contracts and his
+household, and the harm she does is *competent, comprehensive and
+administrative*. Same pathology, rising capability, escalating consequences.
+
+**And she must be right sometimes.** Not redeemed — *right*, and right in
+ways that save him, or she is a lecture rather than a character. She has a
+natural one waiting: **she is the only person in his life who has never lied
+to him.** Everyone else has an angle. Her interest is total and declared. In
+a book about withholding, the one person withholding nothing is a genuine
+asset, and he will use her for it before he ever admits it.
+
+---
+
 ## 3c. What the second thread does — PROPOSED
 
 ### It is not two stories. It is one thesis in two registers
@@ -341,15 +447,19 @@ a prop.
 
 ## 3d. OPEN on the second thread
 
-- **Her name.**
-- **Her age at each beat** — she is eight-ish through the sequence; his
-  warrant is at ten. Pin both against one clock before anything is written.
-- **How many threads in total?** Two is a duet. Four is a different book and
-  a much larger commitment. Decide the number before the first chapter,
-  because it sets the chapter-rotation pattern for the whole work.
-- **Does the courier scene complete?** The line implies intent; the text has
-  to decide exactly how far it goes before he arrives, and I would go in
-  with that settled rather than discover it mid-scene.
+- **Her name** — options tabled, awaiting ruling.
+- ~~Age~~ **SETTLED: same as Tadayoshi.** But **the two clocks still need
+  pinning to the month.** Her sequence needs real time in it — a father
+  sickening, a death, a mother remarrying, an abuse escalating, a flight, a
+  monastery holding her while they negotiate — and his needs the warrant,
+  the genin team, the recruitment and enough contracts to be posted a cargo
+  job. Both at ten. It is tight. **One calendar, before chapter one.**
+- ~~Thread count~~ **SETTLED: duo, then Kimimaro.**
+- ~~Does the courier scene complete~~ **SETTLED: no — contract annulled,
+  client dead on arrival.**
+- **NEW: when and how does Kimimaro arrive**, and does Orochimaru know he
+  was taken? A snake who has lost an asset to a child is a different
+  antagonist from one who never knew.
 
 ---
 
