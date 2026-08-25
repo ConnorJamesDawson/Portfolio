@@ -1,0 +1,411 @@
+# Structure
+
+**Parallel lives, own clocks, converging on one event** — explicitly *A Song
+of Ice and Fire* in shape.
+
+---
+
+## 1. Rules for the parallel form
+
+1. **Every thread owns an antagonist and a clock.** A thread without its own
+   opposition becomes a waiting room.
+2. **Threads touch before they converge** — an object, a rumour, a letter, a
+   name overheard. **The circulating crystal is the ready-made device:** her
+   thread can be holding a piece of his mother's work before either of them
+   has heard of the other.
+3. **Cut on rhyme, not on cliffhanger.** Leave a thread on an image the next
+   thread answers.
+4. **The convergence must be caused, not coincidental.** Somebody's decision
+   puts them in the same room.
+
+### It is not two stories. It is one thesis in two registers
+
+*The snake pays well for children like her.* **Kiri harvests the Ruri for
+crystal; the snake buys Uzumaki children.** Her hair and his tone are the
+same object: a bloodline is a commodity, children are the inventory, and the
+instruction in both houses is **hide what you are.**
+
+His thread is what happens when the harvest comes and you become a monster.
+Hers is what happens when it comes and **you are ten and have nothing.**
+
+> He cannot tell his competence from his appetite. **She cannot tell asking
+> for help from causing a slaughter.** Both of them had one true utterance
+> with catastrophic consequences: he fixed the tone at eight and his family
+> were taken; she said *help* and four men died.
+
+---
+
+## 2. The four acts — one year each
+
+### ACT ONE — age 10. *Becoming the monster everyone already believes he is*
+
+Month by month in `timeline.md` §2. The spine:
+
+- **The warrant.** Not expelled — **warranted.** The brother takes the
+  family; the mother is kept because she is productive; the rest are
+  disposed of as not needed.
+- **The genin team.** Freshly graduated, never taken a life, **under
+  instruction to take him alive if possible. He has no such restriction.**
+  *Alive if possible* is a mechanical advantage that reads as moral horror:
+  **the village's own rules of engagement kill its children.** He wins on
+  talent; then the threshold takes him past the end; then the tone on the
+  clasp brings him out. *(`combat.md` §9.)*
+- **The recruitment.** The rebellion does not recruit a victim. It recruits
+  **an asset that has just demonstrated itself** — which sets the loneliness
+  engine for the whole book: **from the first day, the only people who want
+  him are the people who want what he does.**
+- **Contracts**, and he becomes difficult to handle.
+- **The monastery.** A punishment posting. *"Help."* **The client is the
+  elder holding the sale, so he kills his own employer in a state he cannot
+  reconstruct, gets nothing, and comes home with a child instead of a fee.**
+  The rescue is **a debt he is carrying**, not a gift he gave.
+
+**The thing that stops arc one being a justification:** *they made me* is a
+defence, and an arc that proves it produces a book that excuses its
+protagonist. So it is **not a fall — it is a fall with a hand-brake he
+installs himself, halfway down, out of his own pocket, at a cost.**
+
+### ACT TWO — age 11. *The creed, and the team*
+
+- **Freelance.** The resistance has stopped posting him. **No creed.** Any
+  contract that feeds two.
+- **The merchant, the house, and the boy.** A family killed because a
+  merchant wanted the house, and a small boy coming back from a relative's
+  to find them. **What Tadayoshi does about him is an action that is not
+  enough** — money, a placement, killing the merchant. All doing. None of it
+  the thing the boy needed. **And the boy remembers, and comes back.**
+  An antagonist earned in act two out of the protagonist's purest failure
+  mode.
+- **The creed is installed**, at a price.
+
+> **Uzuki is what happens when he takes the child. The boy is what happens
+> when he pays the child.** Same man, same year, same instinct — and the
+> difference is not his intention, which was identical, but which of them
+> **latched.** He will not see that. He will file the second as a failure of
+> method and go looking for a better procedure, **which is how the creed
+> gets written.**
+
+- **And Uzuki is in the house for the second one.** Her opinion of the boy
+  will be jealous, ungenerous, and **correct about the outcome** — she says
+  he is going to come back, and he is, for entirely the wrong reason.
+- **The shipment, and Kimimaro.** See §3.
+- **The break with the resistance.** He walks out with two children and no
+  organisation, **which is the moment he becomes the institution.**
+
+### ACT THREE — age 12. *The pipeline, and the doctrine tested*
+
+- **The boilerplate** (§4). The ports. Gatō.
+- **Zabuza, months earlier, on another job** — because he recognises the
+  eyes.
+- **Gatō and Zabuza.** Zabuza nails the location down **and keeps the
+  proceeds.**
+- **The village conversation.** Refused. *That's a shame. I'm going.*
+
+### ACT FOUR — age 13. *The return, and the door*
+
+- Alone. The curve at its worst.
+- **Uzuki sends for him** — she cannot not tell him.
+- **The return.** He breaks the doctrine, because staying away is
+  indistinguishable from the betrayal that defined his life. **He does not
+  return because he loves them. He returns because he checked, and the
+  arithmetic made him his brother.**
+- **Tsunade** (§5).
+- **Wave** (§6): the graves, the amnesty, the spar, the door.
+
+---
+
+## 3. THE PIPELINE — the investigation that runs three years
+
+### The boilerplate
+
+**The courier job he took has scarily similar wording to another one.** He
+has found **Orochimaru's needle-in-a-haystack approach: make the postings so
+generic that the trafficking goes through unnoticed, without having to spare
+manpower to guard it.**
+
+**And it is found by his method, not by luck.** A posting written to be
+forgettable is **a document that is entirely parts doing no work**, and he
+is constitutionally the one person in the country who reads a job sheet the
+way he reads a kata.
+
+### The second sheet is one of his own
+
+He keeps dockets. When the wording rings he goes to **his own file**, and
+finds it again, earlier, in his own hand, signed off, paid, delivered.
+
+**He has already run at least one. And he cannot determine how many**, because
+uncountability is the entire design — generic wording exists so the carrier
+does not know what he carried, and everybody who could tell him is dead or
+was never told either.
+
+> **A man who numbers everything, holding a number he cannot obtain.**
+
+It converts the discovery from *there is a trafficking ring* to **I am part
+of it**; it gives the creed its real load; and **it is why he goes for the
+head — not conscience, audit failure.** He cannot close the entry, so he
+removes the thing generating entries. Which is exactly how this man solves a
+problem, and exactly why it goes wrong.
+
+### Both hunters are anonymous by the same trick
+
+| | Hidden by | Cannot be identified because |
+|---|---|---|
+| **Tadayoshi**, to the snake | the monastery's sale book | he killed everyone who could amend the entry |
+| **The snake**, to Tadayoshi | boilerplate postings | the paperwork is built to be unmemorable |
+
+Neither invented the trick. **The trade did.**
+
+### Gatō is the wrong snake
+
+**He is the ports, not the buyer** — freight, warehousing, and the ability to
+move people without being asked questions, sold to whoever pays. So the
+investigation reaches Gatō **years before** it reaches Orochimaru, and
+Tadayoshi calls him *the snake* the whole way there and is wrong.
+
+**Which is the structural permission act three needs: removing the
+infrastructure does not remove the customer.**
+
+### RULING — Orochimaru does not learn the name until act four
+
+He knows he is losing inventory; he does not know to whom. **An investigator
+can be wrong, and a wrong hypothesis generates scenes; a hunt generates
+chases.** And the card is too good to spend early:
+
+> The moment the snake learns a **crystal user** took his merchandise,
+> Tadayoshi stops being the thief and becomes the stock.
+
+---
+
+## 4. THE KIMIMARO OP — three cruelties, all free
+
+**The consignment is moving because the buyer has paid.** Kimimaro is
+high-worth, so he does not travel by boilerplate — he is a **delivery**, and
+the resistance is targeting the shipment.
+
+1. **The cargo is the child.** His brief was *get the cargo and go.* He
+   does. **The op succeeds.** He is not disobeying orders when he takes
+   Kimimaro — he is executing them — so the argument afterwards **cannot be
+   about insubordination**, which forces it to be about what everybody
+   actually objects to.
+2. **Everybody else remembers the Kaguya assault and sees another monster.**
+   Arc two's thesis with a second body in it: he watches his own people do
+   it to a child, on the strength of a clan name, over an assault the boy
+   was **caged for before it happened.**
+3. **It is the break**, and nobody is a villain — a room of people who lost
+   family to the Kaguya, being asked to feed one.
+
+**Three last-of-the-line children, each of whom canon would have eaten.**
+Ruri, Uzumaki, Kaguya. Crystal, vitality, bone. In canon every one is
+consumed by an institution. **Tadayoshi gets there first**, and the team
+composition *is* the thesis: an anti-institution made of the three people
+the institutions were coming for.
+
+**And he has founded the exact thing he despises.** By act three he runs a
+household of three in which two people have organised their entire existence
+around him and will not leave. **He is the village.** His philosophy is not
+refuted by an argument — **it is refuted by two children who love him**, and
+he cannot answer it, because answering means conceding the thing his whole
+life is built on.
+
+---
+
+## 5. TSUNADE — the bet, and the wrong specification
+
+He saw the woodcut, so he tracks her down and offers **a bet: he pays her
+gambling debt, which would wipe him out, or a diagnosis.**
+
+**This is a Tsunade before Naruto** — blood phobia intact, drinking,
+gambling.
+
+### He priced it off his own gift and got it backwards
+
+**Diagnosis is his free action.** He has never once had to *pay* for one. So
+he asked for the small thing and offered the enormous one, because in his
+world **naming the fault is cheap and fixing it is dear.** Medicine runs the
+other way.
+
+> **The man whose entire identity is writing a correct specification wrote
+> the wrong specification, on the only contract that has ever mattered to
+> him — and got it wrong because he was pricing off the one thing he is
+> world-class at.**
+
+### The bet, and the Legendary Sucker
+
+**PROPOSED: she wins.** She has not won in years, and the one time a run
+goes her way somebody dies. She goes white; the boy across the table has
+just lost everything he owns and **she** is the one who looks like she has
+been told something. **And she gives him the diagnosis anyway**, out of a
+superstition she would never explain to a stranger.
+
+**He settles the debt regardless, and not out of kindness** — a woman with
+creditors leaves town, and he needs her not to. She will see through it, be
+insulted, and be right; **and it will also be the first thing anybody has
+done for her in a decade.** Both true. **And it wipes him out**, which is a
+material state, not a gesture: he walks into the rest of the book with dying
+equipment and no money.
+
+### Tsunade directs, Uzuki is her hands
+
+Kimimaro coughs blood. She cannot look at it. So the greatest medic alive
+talks a half-trained girl through a physical she cannot perform herself.
+
+- The phobia becomes **a working obstacle**, not a character note.
+- It is **the best twenty minutes of Uzuki's life** — her one claim on the
+  world is *I can heal*, and she has just been the hands of the best there
+  is.
+- **It is teaching** — the destination-setting kind, aimed at what *she*
+  should become. **A drunk in a rented room gives her in twenty minutes what
+  he has failed for three years to give her**, and he is in the corner
+  watching, unable to help, and knows exactly what he is looking at, because
+  diagnosis is his free action.
+
+### The answer
+
+> **"You don't need a medic. You need a village."**
+
+**The deliverable he bought does not exist as a thing that can be handed
+over. It exists only as an institution** — the one object his entire
+philosophy says makes people rot.
+
+---
+
+## 6. WAVE — the graves, the amnesty, the spar
+
+### He arrives late, and that is the ruling
+
+**No link-up with Zabuza before Wave.** Put him on that bridge and he either
+intervenes (and Zabuza does not die the canon death) or watches a child die
+for a man's ambition (and he is not the man who emptied a monastery over one
+word). **He cannot be in that room and stay both canon-compatible and
+himself.** And the taking-stock beat needs distance by construction:
+**diagnosis needs a gap.**
+
+### The graves
+
+Two mounds on a cliff and Kubikiribōchō planted beside one, a week late.
+
+**He came to ask a dead man a question.** He has two children, no plan, and
+a hospital he cannot get into, and the one person alive who ever kept a
+child like this is a week dead. **He came for advice, from a mercenary,
+because there is nobody else.**
+
+- **The sword he must not take.** `world-bible.md` rules it stays beside the
+  grave until Suigetsu retrieves it three years later — and the vow says **a
+  sword of my own design, not one of the seven.** He is standing in front of
+  one of the seven, unattended, unguarded, free. **The vow tested with
+  nobody watching and nobody who would ever have known.**
+- **Haku's grave is Uzuki's grave**, in every sense except the one that
+  matters, and she is standing next to him looking at it, and both of them
+  have done the arithmetic.
+
+### The amnesty — and what he does not know he is trading
+
+**Sazare was a mender who meant well. Tadayoshi is a stone-cold killer who
+does not want to work for a village, and Kakashi reads him from a mile
+away.** So the argument cannot be *I am harmless*.
+
+**It is Uzuki that tips it. She has the same hair Kushina had.** The duty to
+Kushina is the surface. Underneath is **containment**:
+
+> A red-haired Uzumaki girl walking around loose is a living pointer at an
+> S-rank secret. **He wants her inside, where she can be watched, not
+> outside, where she can be looked at.**
+
+> **Tadayoshi is admitted to a village on the strength of a secret he does
+> not know he is carrying.** The man whose entire policy is withholding gets
+> in because of information he does not possess.
+
+**And the instruction repeats for a third generation.** Her grandfather
+never said. Her father knew a little and did not explain. **The man who
+opens the gate knows exactly why and will not tell her either.**
+
+**What he offers, in order:** himself (the spar); Uzuki (without knowing she
+is currency, which is the part that works); **and the theory**, which is
+what he will end up spending.
+
+### *To the door and that is it* — the second time
+
+| | He tries to | Outcome |
+|---|---|---|
+| After Gatō | put them in a village and leave | refused; **he leaves alone** |
+| Now | get them to the door and leave | *promised* |
+
+**Twice now, the way this man expresses love is by removing himself.** This
+is where it should finally fail — not because he changes his mind, but
+because **a hospital takes months, and they will want the theory, and the
+theory is in his head.**
+
+> **The institution he despises will keep him by needing him**, which is the
+> one mechanism his ideology has no answer to.
+
+### The spar — and it is the first real widening risk
+
+**"A demonstration of fighting prowess" is the exact scene that widened book
+one twelve times.** The beat stays. It just must prove something other than
+strength. Five fixes, all mandatory:
+
+1. **He does not want it. Kakashi engineers it.** He is being **assessed** —
+   the same process that ruined him at nine, and **every institutional
+   response to him has made him worse.** He complies, which is the horrible
+   part: he has wanted a village for eight days and has already started
+   doing what villages want.
+2. **No crystal. The tell is the omission.** A wooden sword, hands,
+   footwork. **And he wins anyway.** Kakashi does not learn what he can do;
+   Kakashi learns **there is something he is not being shown**, which is
+   worse, and which goes in a file unmentioned.
+3. **He wins by being boring.** Forty seconds of watching, then he finds the
+   part of Sasuke's form doing no work and takes it. Then again. Then again.
+   **Four identical exchanges and Sasuke is being beaten by his own kata.**
+   That is not a fighter — **it is an audit**, and Kakashi has seen men do
+   that, and they were all in the same kind of corps. The veiled interest is
+   **recognition, not admiration.**
+4. **The real danger is the threshold.** It fires on load, not stakes;
+   Sasuke will not stop; Sasuke three days ago nearly died and awakened
+   something. And the founding incident of Tadayoshi's life is that **he
+   broke a child's arm in a counter and nobody could tell whether he meant
+   it, including him.** He is being asked to repeat, at thirteen, in front
+   of a jōnin deciding whether to let him near children, **the event that
+   got him moved out of his class at nine — four years ago, not a lifetime
+   ago.** He holds. But close enough that **Kakashi sees it**, and close
+   enough that **Uzuki sees Kakashi see it.**
+5. **It must cost.** Cleanest: he wins, names the fault instantly and
+   correctly out loud — **and cannot tell the boy what to do about it**,
+   because that is teaching, and a jōnin eight feet away watches him hit
+   that wall in public.
+
+**The age fixes half of this on its own:** thirteen against twelve is a
+peer, not an adult hitting a child, and `combat.md` §11's floor holds
+because at thirteen he still has a child's body.
+
+### THREAD — the accidental proof
+
+**The first person to comprehensively out-class Sasuke Uchiha is a man with
+a hunted bloodline, no village, no team, and a doctrine that says
+institutions rot you. Three months before a curse mark.**
+
+> **Tadayoshi is, by accident, a working proof of everything Sasuke is about
+> to choose** — and the entire arc Tadayoshi is on is the discovery that the
+> proof is wrong.
+
+The book has built its own delivery mechanism for its own refuted doctrine,
+into the hands of the one boy in canon who will act on it. **It costs nothing
+to set up and can be declined later.**
+
+---
+
+## 7. Beyond the door — the shape, not yet the plan
+
+**Wave is personal. The invasion is structural.** The investigation goes
+boilerplate → ports → Gatō → and past him, and the customer walks onto a
+field in Konoha at the end of Part I's first act.
+
+And the terms are already set: **Kimimaro is dying, Uzuki cannot fix him,
+and Orochimaru is the one man alive who kept a Kimimaro running for years —
+and he will say so, and he will be telling the truth.**
+
+> **A trade offered by the thing the whole book has been hunting: a life he
+> cannot save, for a creed he wrote to stop himself.**
+
+*Stay your hand from the blood of the innocent* — held by a man who has
+already been widening *not innocent* for years, being asked to widen it once
+more, **for the best reason he will ever be offered.**

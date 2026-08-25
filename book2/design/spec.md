@@ -1,8 +1,34 @@
-# Book Two — Tadayoshi Ruri
+# Book Two — Tadayoshi Ruri — ARCHIVE OF RECORD
 
-**Status: spec in progress.** Author-supplied material is marked AUTHOR.
-Anything marked PROPOSED is mine and is not canon until ruled on.
-Nothing here is settled unless it says FIXED.
+> ## ⚠ THIS IS THE SOURCE, NOT THE REFERENCE
+>
+> Every author ruling and every worked-out consequence lives here, **in the
+> order it arrived**, with supersessions marked in place. **Read this to
+> understand *why*.**
+>
+> **To find out *what*, read the working files** — they are derived from
+> this document, linear, and authoritative:
+>
+> | File | Governs |
+> |---|---|
+> | `README.md` | the index, and the three binding rules |
+> | `timeline.md` | **every age and date. Anchor, not output.** |
+> | `character.md` | the cast, and each POV's interior grammar |
+> | `combat.md` | the power, the kit, the threshold, the hunter curve |
+> | `structure.md` | the four acts, the pipeline, every major sequence |
+> | `falsified.md` | every dead rule, two columns |
+> | `threads.md` | per-chapter state *(skeleton — no prose yet)* |
+> | `method-delta.md` | what book two adds to book one's `method.md` |
+>
+> **Where this file and a working file disagree, the working file wins**,
+> because it was written after and with the whole document in view. Sections
+> here carrying a ⚠ SUPERSEDED or a STRUCK heading are kept deliberately:
+> the reasoning that died is part of the record.
+
+**Status: spec in progress. No prose until the author says go.**
+Author-supplied material is marked AUTHOR. Anything marked PROPOSED is mine
+and is not canon until ruled on. Nothing here is settled unless it says
+FIXED.
 
 ---
 
