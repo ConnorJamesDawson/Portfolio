@@ -45,7 +45,7 @@ Both children are ten. Book one's month-numbering convention.
 | 1 | Academy. The transfer is a year old; the broken arm is two. | Her father's cough is already old. Everyone is calling it winter. |
 | 2 | Ordinary. **The last ordinary month of his life** — and the book should make the reader feel that only afterwards. | He stops being able to work. |
 | 3 | **The collection order is signed.** He does not know. Nobody does. | She volunteers for the road. She is the fast one; it is the first decision of her life. |
-| **4** | **THE WARRANT.** The brother. The mother taken, the family disposed of. He goes out of the compound and does not stop. | Four days out, three back, four lost to a medic who is mid-job. **Eleven days. Her father is dead when she gets home.** |
+| **4** | **THE WARRANT.** The brother testifies. **Mikage taken; Tadaharu, Meno, Akagane, Hisui and Koishi killed** — five in one morning, and he is not there for any of it. He goes out of the compound and does not stop. | Four days out, three back, four lost to a medic who is mid-job. **Eleven days. Her father is dead when she gets home.** |
 | **5** | **THE GENIN TEAM.** Four dead. The clasp on the third one. **The tone.** He learns his mother is alive from her work, on a body he made. | The house, the debt, and a civilian widow doing arithmetic in front of a child who cannot read it. |
 | 6 | **THE RECRUITMENT.** They do not want a victim; they want the asset that has just demonstrated itself. | **Her mother remarries.** Ten weeks a widow. |
 | 7 | First contracts. He is worth feeding. | The new house. The first time. |

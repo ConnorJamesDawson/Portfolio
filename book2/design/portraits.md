@@ -895,3 +895,267 @@ before the worst, spoken of by the purity faction as cowards.
 - **Somebody in Konoha**, act four onward, who is neither Kakashi nor a
   Sannin — a ward sister, a quartermaster, a clerk. The village has to be a
   place and not a decision.
+
+---
+
+# THE COMPOUND — the eight
+
+> *There were forty of us once. Now there are eight.*
+
+**Two can make crystal: Mikage and Tadayoshi. The other six cannot.**
+
+And that is the clan's real catastrophe, stated properly:
+
+> **The knowledge and the ability came apart.** The harvest took every high
+> producer for three generations, so the people who remember *how* are no
+> longer the people who can *do it.* **Six people hold the trade. Two people
+> hold the gift. Neither set can teach the other.**
+
+**Which is why a boy of eight had to work it out of a library book**, and
+why, after month four of year 0, **there is nobody left to ask anything.**
+
+---
+
+## The roster
+
+| | | Holds | Fate, month 4 |
+|---|---|---|---|
+| **Ruri Mikage** | mother, 34 | **the gift**, badly | **taken — productive** |
+| **Ruri Tadaharu** | father, 38, married in | **the routes** | killed |
+| **Ruri Iwao** | 13 | nothing, and a sword | **walks out with a new name** |
+| **Ruri Tadayoshi** | 10 | **the gift**, wholly | runs |
+| **Ruri Meno** | great-aunt, 71 | **the register** | killed |
+| **Ruri Akagane** | cousin, 20 | **the frames** | killed |
+| **Ruri Hisui** | cousin, 29 | **the argument to leave** | killed |
+| **Ruri Koishi** | 6 | **untested** | killed |
+
+**Five die in one morning and Tadayoshi is not there for any of it.** He
+reconstructs it afterwards, from what he is told and what he can work out —
+the book's standing method, and here it is applied to his own family.
+
+> **He can name the technique that died with each of them. He never learns
+> what happened to the bodies.**
+
+---
+
+## THE NAMES — and this is the family in four words
+
+The Ruri name their children after stones. **Both parents are in the
+naming, and each son got the wrong one.**
+
+| | Named | For |
+|---|---|---|
+| **Iwao** | 巌, *a crag* | **his mother's line.** She still had hope. |
+| **Tadayoshi** | 忠 — his father's character, no stone in it | **his father.** Three years later she had stopped. |
+
+> **One son named off the clan, one named off the man who married in. She
+> got it exactly backwards, and neither error was foreseeable, and both of
+> them turned out to matter more than anything else she ever did.**
+
+**And Iwao had to give up the stone name to claim different blood.
+Tadayoshi never had one to give up.** The son who abandoned the family
+carried its name; the son who kept faith never did.
+
+---
+
+## RURI TADAHARU — the father
+
+**Married in. Not of the line, no aptitude, and the only adult in that
+compound with an ordinary name.**
+
+### He does the routes
+
+He is the one who travels — buyers, prices, the road, the market towns.
+**Away for weeks at a time**, which is a fact with three uses:
+
+1. It is the trade's outward face, and the reason the mother's work is in
+   circulation at all.
+2. It is where a warm, ordinary parent comes *back* from, which is a rhythm
+   a childhood can be built on.
+3. **He is not there when it matters.**
+
+### The argument in that house
+
+**He thinks the hiding is cowardice**, and says so, and it is the live
+argument Tadayoshi grows up inside: **hide, or don't.**
+
+> **His whole ideology is his father's, absorbed at eight, and he believes
+> he derived it from the purge.**
+
+*A shinobi should stand on his own. Needing protection makes people
+complacent, and complacent people rot.* — **that is Tadaharu's side of an
+argument at a kitchen table**, repeated by a boy who was not old enough to
+hear the rest of it.
+
+**And the unresolvable part: the clan hid for three generations and was
+harvested anyway.** He is not obviously wrong. Nobody in that house ever
+settled it, and the man who might have is killed before his son is old
+enough to ask properly.
+
+### The last person who was pleased about it
+
+He is **away when the tone is fixed.** So the founding instruction —
+*keep it to yourself* — lands unopposed, exactly as ruled, and the argument
+is not in the room.
+
+**He comes home a fortnight later and is told, and he is delighted, and he
+is told to be quiet about it.**
+
+> **The last time anybody in that house was proud of Tadayoshi out loud.**
+
+### He is killed for being married to her
+
+A civilian trader with no blood, disposed of as not needed. **And Iwao's
+testimony is what makes him disposable** — see below.
+
+---
+
+## THE CLAIM — corrected, and it is worse
+
+**Shōton comes down the mother's line.** So *different blood* cannot mean
+*my mother was unfaithful* — that still leaves him her son and still leaves
+him of the line.
+
+> **He has to testify that Mikage is not his mother.**
+
+The story is that Tadaharu fathered him elsewhere and the child was raised
+as hers. **He unmothers himself**, in a room, in writing, and makes his
+father the adulterer in the same sentence.
+
+**And he is claiming descent from a man the state is about to kill as
+worthless.**
+
+> **He bought his life by proving he was worth nothing.**
+
+*(The sword is not payment for blood. It is payment for the service — and a
+purge-era Kiri has an obvious use for a swordsman with no bloodline in him.)*
+
+### And she does not contradict him
+
+**Mikage is in the building.** She is being taken as productive labour. She
+hears her son testify that she is not his mother.
+
+**Contradicting him kills him.**
+
+> **So the last thing Ruri Mikage does as a free woman is sit still and let
+> it stand.**
+
+**Tadayoshi may never learn this**, and if he does, it will be years later,
+and he will read it correctly — as her protecting Iwao — and it will be
+unbearable.
+
+*(Author call on whether he ever finds out. It is heavy, and it is the only
+thing in the book capable of making him doubt the vow.)*
+
+---
+
+## RURI MENO — the great-aunt, and where his voice comes from
+
+**Seventy-one. Hands gone to arthritis**, so she cannot do the work and has
+not for twenty years. **Her entire remaining function is the count.**
+
+### She keeps the register
+
+**The book of the forty.** Names, dates, what happened to each — taken,
+died, or **left**.
+
+- She showed it to Tadayoshi. Of course she did; he was the one who asked.
+- **His ledger habit is hers.** The most characteristic thing about him —
+  the audit voice, the dated findings, the numbered everything — **is a
+  family artefact, and the original burned in month four.**
+- **She is the only person who knows how many of the thirty-two walked
+  out**, and which ones, and where.
+
+> **Guren's name is almost certainly on a page of that book, and he never
+> read it, and it is ash.** The fact that would have unmade his entire
+> self-image was in his own house.
+
+**She dies with the answer to the question his whole life is built on.**
+
+---
+
+## RURI AKAGANE — the frames
+
+**Twenty. The best copper-worker in the family**, and named for a metal
+rather than a stone, which is itself a decline marker: **by his generation
+they had stopped being strict about the convention.**
+
+He makes **the frames** — four hundred years of a clan calling the copper
+housing *the lattice* without knowing the real lattice is inside the stone
+(`combat.md` §2). His work is beautiful and it is the wrong work.
+
+> **Tadayoshi's discovery at eight makes his cousin's life obsolete.**
+
+**And nobody tells him.** Mikage said keep it to yourself, and it was kept,
+and so a young man goes to his death two years later **still making a thing
+that was no longer necessary, for a boy who knew and said nothing.**
+
+**That is the first thing Tadayoshi's withholding ever cost anybody**, and
+it costs it quietly, and it is the pattern for the whole book.
+
+---
+
+## RURI HISUI — the one who wanted to leave
+
+**Twenty-nine. Koishi's mother. She is right and everybody knows she is
+right.**
+
+Two years of arguing to take the family out — and Meno will not go, and the
+old will not go, and the compound is the last thing they have, and **she
+will not go alone.**
+
+> **You cannot make people want to survive.**
+
+That is the class of problem `character.md` says he can never solve by going
+and getting it, **and it is in his own house before he is ten.** He watches
+a competent adult be completely correct and completely unable to move
+anybody, for two years, and then be killed for it.
+
+**And the thing she was arguing for is the thing that is taken first.**
+
+---
+
+## RURI KOISHI — six years old, and untested
+
+**Small stone.** Follows him. Asks him things. Too young for aptitude to
+have shown.
+
+**They disposed of her as not needed and nobody checked.**
+
+> **He will never know whether the line had a third.**
+
+Another unobtainable number in a book full of them — and this one is not
+hidden by anybody's design. **It is just a thing nobody bothered to find
+out.**
+
+---
+
+## RURI KONGŌ — the great-uncle, and he is not one of the eight
+
+**The precedent.** Taken decades ago for military crystal — the event that
+made Mikage's instinct at eight instant and absolute, because *it happened
+to her uncle in front of her.*
+
+**Named for adamant, and taken for being the hardest thing they had.**
+
+> **OPEN, and it is a live hook: is he still alive?** The state keeps
+> producers. **If Mikage is kept, he may be kept in the same place** — which
+> would mean Tadayoshi's search for his mother has a second name in it, and
+> that the man whose fate taught her to hide is still holding a chisel
+> somewhere.
+
+---
+
+## What five deaths have to do to be grief and not arithmetic
+
+1. **Two of them must be in the prose before month four with something to
+   do** — Meno's register and Koishi following him around are the two, and
+   neither needs a scene of its own. They need to be furniture.
+2. **Each death removes a specific capability from the world**, and he
+   knows exactly which. **The catalogue only ever gets shorter.**
+3. **He is not there.** Reconstruction, not witness — the book's standing
+   method, turned on his own family.
+4. **And the compound itself is a character.** Forty people's buildings held
+   by eight. Most of it shut. **He grew up in a place that was mostly
+   empty**, and knew what every empty room used to be, because Meno told
+   him.

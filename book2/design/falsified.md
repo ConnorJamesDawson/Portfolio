@@ -81,6 +81,15 @@ a widening with paperwork.
 | **Replacement constraint** | **Three constraints, replacing one device.** (1) **He is a child at the arrest** — not the architect, a boy handed a document and a choice, which makes him the fourth harvested child in the book and the only one who said yes. The betrayal becomes forgivable, **and Tadayoshi must never be able to accept that it is.** (2) **He signs the statement that creates the warrant**, not the taskings — every hunter team carries a copy of a document in his hand, from the first team, without him holding a rank. (3) **He is what the curve eventually delivers.** *Tadayoshi's own competence summons his brother* — so the vow needs waiting for rather than pursuing, the waiting is caused by his own improvement, and **the clear chance arrives before the sword exists, exactly as the vow was already required to cost.** |
 | **Net** | **Constraint added, three for one.** The version that died gave the protagonist an antagonist he could work toward. This one gives him an antagonist he **summons by improving**, which is the anti-widening rule and the vow's clock in a single machine. |
 
+### #8 — THE BROTHER'S CLAIM IS THAT HIS MOTHER WAS UNFAITHFUL
+
+| | |
+|---|---|
+| **Killed** | *"He buys his life by making his mother an adulteress and himself a bastard."* |
+| **By** | Building the compound roster and checking the inheritance. **Shōton comes down the mother's line** — §1 of the spec: *the mother's line: there were forty of us in the compound once.* An adulterous Mikage still leaves Iwao her son and still leaves him of the line. **The claim did not work.** |
+| **Replacement constraint** | **He testifies that Mikage is not his mother** — fathered elsewhere by Tadaharu, raised as hers. Which is colder, harder to retract, and lands the family's worst single beat: **she is in the building, being taken, and does not contradict him, because contradicting him kills him.** And he is claiming descent from a man the state is about to kill as worthless — **he bought his life by proving he was worth nothing.** |
+| **Net** | **Constraint added.** The dead version cost him nothing he could not later disown. This one requires his mother's silence to work, which means **his survival is a thing she gave him**, and he has to live inside that. |
+
 ---
 
 ## Strains bought, with prices

@@ -330,9 +330,25 @@ is** — and the reader should be able to, which is the whole tension. The
 book is right on both sides and does not resolve it.
 
 **And to be credibly *different blood* he had to put a reason on the
-record.** He buys his life by making his mother an adulteress and himself a
-bastard, in public, in writing. **He does not merely betray the family. He
-rewrites it**, and the rewrite is the part nobody surviving can undo.
+record.** Shōton comes down the mother's line, so the claim cannot be that
+she strayed — that still leaves him hers.
+
+> **He has to testify that Mikage is not his mother.**
+
+Tadaharu fathered him elsewhere; the child was raised as hers. **He
+unmothers himself**, in writing, and makes his father the adulterer in the
+same sentence — **claiming descent from a man the state is about to kill as
+worthless.**
+
+> **He bought his life by proving he was worth nothing.**
+
+**He does not merely betray the family. He rewrites it**, and the rewrite is
+the part nobody surviving can undo.
+
+**And his mother is in the building, being taken, and does not contradict
+him, because contradicting him kills him.** See `portraits.md` — it is the
+only thing in the book capable of making Tadayoshi doubt the vow, and
+whether he ever learns it is an author call.
 
 **The sword is the payment.** A bloodline-clan child could never have been
 handed one of the seven during a purge; the succession is available to him
