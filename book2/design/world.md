@@ -87,6 +87,42 @@ somewhere he never named, and **nobody has ever asked what it replaced.**
 
 ---
 
+## Nakadō and its roads — established in ch1
+
+| | |
+|---|---|
+| **Nakadō** | her village. A carrier's village on a road. |
+| **Ōgi** | eleven miles. Mill, cooper, carter's yard, market. |
+| **Fusano** | the other run. A man there owes for a barrel. |
+| **Kannomori** | the shortcut. Forbidden. |
+| **Kayano** | **three days if the road's dry. There is a medic.** |
+| **Tazu** | old, sixty-ish, a garden of things and a shelf of jars. Not a doctor. Set her wrist at seven and did it well. |
+| **Iwasa's boy** | fourteen, a barrow, no sense. Has the mill now. |
+
+**The slate by the front door** carries the week's jobs in Sae's writing.
+**Eleven in a good week. Four in the second week of month 2.**
+
+---
+
+## THE KENJI PLANT — deliberate, recorded so nobody edits it out
+
+**Kanaya's man at the Ōura counter is called Kenji.** He makes a face at
+pieces he intends to grade down. **Iwao does an impression of him at the
+family table in ch1 and the whole room laughs.**
+
+> **Two years later, in a tribunal, a frightened boy of thirteen has to
+> name a father who does not exist — and reaches for the first plausible
+> name in his head.**
+
+**It is not a coincidence. It is a child's panic producing collateral
+damage**, and it means the identity he lives inside for the rest of his
+life came out of a joke he made at his family's table.
+
+*(And a real man at a real counter presumably has his life taken apart for
+it. That is available and does not have to be used.)*
+
+---
+
 ## Name register — fixed, so nothing drifts
 
 | Name | Is |
@@ -103,4 +139,7 @@ somewhere he never named, and **nobody has ever asked what it replaced.**
 | **Sagara Nagi** | the recurring hunter |
 | **Enkai** | the monastery elder |
 | **Sōta** | the boy *(withheld from the page until he returns)* |
-| **Aoyagi** | the Academy instructor |
+| **Aoyagi** | the Academy instructor. Fifty-ish, decent, tired. |
+| **Ryūta** | eleven. Tadayoshi broke his arm last year. Asked him a good question once and did not finish it. |
+| **Kenji** | Kanaya's man at the Ōura counter — **see the plant above** |
+| **Tazu / Iwasa's boy** | Nakadō |

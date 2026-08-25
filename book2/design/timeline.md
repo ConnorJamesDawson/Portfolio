@@ -178,7 +178,15 @@ the location down and keeps the proceeds.
 
 ---
 
-## 6. Open
+## 6. The chapter clock
+
+| Ch | Story dates | Scenes | Words | POV | Beats |
+|---|---|---|---|---|---|
+| **1** | month 1 – last week of month 2 | 10 | 16,900 | T5 (57%) · U4 (36%) · K1 (8%) | The forgery and the mother who cannot tell it. The argument and Koishi's question. The first inspection. The eighth count. The register and the nineteen. The hundred on account. Four seals. Kayano, three days. The frame, and the sentence he did not say. |
+
+---
+
+## 7. Open
 
 1. ~~The brother's age and birth order.~~ **RULED: older by three.** Open
    underneath it: **his names** (proposed, not ruled) and **whether he knows
