@@ -190,6 +190,105 @@ is competence with no weather in it.
 
 ---
 
+## 2h. THE ARREST, AND ARC ONE — AUTHOR
+
+**The arrest is the inciting event.** The brother takes the family.
+
+- **The mother is taken. Fate unknown.**
+- **The rest of the family is disposed of** as not needed.
+- **The mother is kept because she is productive** — cheap prison labour, a
+  work horse for her crystals.
+
+**Arc one's thesis: becoming the monster everyone already believes he is.**
+
+**He is a combat prodigy.** He takes instruction like a fish to water and
+then **takes it apart for the ineffective pieces**. First shown at the
+Academy: the kata are basic by nature and he improves them to large effect,
+**and the teachers disapprove, because he broke another child's arm in a
+counter.**
+
+---
+
+## 2i. What that buys — PROPOSED
+
+### The purge is extraction, not extermination
+
+They do not want the bloodlines dead. They want them **working**. That is a
+nastier state and a more useful one: it explains why anybody survives, it
+gives the regime a motive that is not only ideology, and it converts the
+premise's danger from *one death from gone* into something worse —
+**one seizure from owned.**
+
+And it sets the trap of arc one, which is the whole engine:
+
+> **The better Tadayoshi gets, the more valuable a lever his mother is.**
+
+Her aptitude is low. She is a poor work horse, kept only while she is worth
+keeping — and there is a better one, and it is her son. They do not need to
+catch him. They need to keep her. Every improvement he makes is an argument
+for her continued usefulness *and* a reason to come for him, and he is a man
+whose entire method is **doing something about it.**
+
+### THE TONE — the object that carries her through the whole book
+
+Prison-labour crystal **goes somewhere**. It is sold, issued, worn, fitted.
+So her work is in circulation, and the one man alive who can read a maker's
+hand off an article is walking around the same country.
+
+**He fixed the tone. He can hear it.**
+
+Which means he can take her medical chart off a brooch in a shop window,
+from a soldier's fittings, from a client's wife — **her condition,
+transmitted through commerce, to the only person in the world who can read
+it**, without ever seeing her. Over years, the tone goes flat, and he knows
+exactly what that means because he is the one who worked out what it meant.
+
+Cheap to deploy, endlessly recurring, and unbearable. It should be the
+book's most-used object.
+
+### The broken arm is the first evidence against himself
+
+The Academy beat sets this world's rule: **effectiveness is read as malice.**
+He improved a kata and hurt a child, and the institution cannot tell the
+difference between a boy who found a better counter and a boy who wanted to
+hurt somebody.
+
+**And in time, neither can he.**
+
+PROPOSED: he keeps that incident. He is a man who asks why — he will have
+gone away and tried to determine whether he meant it, and **failed**. That
+is the seed of the threshold and it is far better than a berserk trope,
+because the question the book is actually asking is not *does he rage* but
+**can he tell his competence from his appetite.**
+
+### The signature operation, and its dark version
+
+*Learn it whole, find the part doing no work, remove it.* Kata, tone,
+sequences — one move across every domain. It is this book's equivalent of
+Sazare reading seals as objects, and it gives the prose its recurring shape.
+
+**And it has a dark version: he does it to people.** Find the part of a
+person doing no work, and remove it. That is how a man like this becomes an
+assassin, and it is how the creed gets widened later — because it will feel,
+from inside, like the same neutral operation it always was.
+
+**That is arc one stated mechanically.** He does not become a monster by
+changing. He becomes one by **applying his method to a new material.**
+
+### The thing that stops it being a justification — flagged once
+
+*They made me* is a defence, and an arc that proves it produces a book that
+excuses its protagonist. The version that works is **partly made and partly
+choosing, with the choosing visible.**
+
+The device is already here: he acquires the creed *while* descending. So
+arc one is not a fall — it is **a fall with a hand-brake he installs
+himself, halfway down**, out of his own pocket, at a cost. That ends the arc
+with him monstrous **and** governed, which is a much better place to start
+arc two than either alone.
+
+---
+
 ## 2f. THE BROTHER, AND THE THRESHOLD — AUTHOR
 
 ### The betrayal
@@ -414,11 +513,13 @@ the same entry.** The ledger gets both columns this time.
 8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
-9. **Is the arrest the inciting event?** *Forty to eight* reads as the slow
-   decline; the brother's arrest then takes the eight, in chapter one, and
-   is why Tadayoshi is out in the world earning. Confirm — and say whether
-   the mother is taken, because if she is, the *one death from gone*
-   premise goes live immediately rather than hanging over the book.
+9. ~~Is the arrest the inciting event?~~ **SETTLED.** New underneath it:
+   **what happens to him at the Academy afterwards?** A bloodline child
+   whose family has just been taken does not stay enrolled. If he is
+   expelled — or if the teachers and the other children turn — then
+   *villages make people complacent* is born in a specific room with
+   specific faces, and the ideology stops being an opinion and becomes a
+   scar with an address.
 10. **Does the brother know about the threshold?** If he does, the arrest is
    also a man removing something he is afraid of, and the betrayal gets a
    second floor.
