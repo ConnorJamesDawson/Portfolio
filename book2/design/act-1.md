@@ -320,9 +320,10 @@ one word and a boy who cannot account for the next four minutes.
 2. **How much Academy is left?** He is warranted at ten and the transfer was
    at nine. Is he still attending in months 1–3, or has the fear already
    pushed him out?
-3. **Uzuki's village and country.** Never fixed. It needs to be far enough
-   from Kiri that they cannot meet before month 12, and close enough that a
-   cargo run reaches it.
+3. ~~Uzuki's village and country.~~ **RULED: inland, Land of Hot Water.**
+   See `world.md`.
 4. **The chapter that establishes the mother.** She has one POV scene and
    perhaps four appearances before it. **Four is not many for a woman who
-   has to carry three years of grief through a shop window.**
+   has to carry three years of grief through a shop window.** *(Ch1 scene 1
+   now carries the heaviest of them — she picks up her son's forgery and
+   takes it for her own work.)*

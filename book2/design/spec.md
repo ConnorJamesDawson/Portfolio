@@ -13,6 +13,7 @@
 > |---|---|
 > | `README.md` | the index, and the three binding rules |
 > | `timeline.md` | **every age and date. Anchor, not output.** |
+> | `world.md` | places, the trade chain, and the name register |
 > | `character.md` | the cast — what each person is **for** |
 > | `portraits.md` | look, manner, voice, and what changes each year |
 > | `combat.md` | the power, the kit, the threshold, the hunter curve |
