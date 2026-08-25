@@ -231,15 +231,67 @@ nobody knows what the thing does unmanaged. Uzuki cannot tell him how long.
 
 ---
 
-## THE BROTHER
+## THE BROTHER — RURI IWAO, now AMAGIRI KENJI
+
+**Older by three years.** Ten and thirteen at the warrant; thirteen and
+sixteen at the door.
 
 **No crystal potential at all. A prodigy with a sword, rumoured for one of
 the seven.**
+
+### The two names
+
+*(Names PROPOSED. The mechanism is the part I would keep.)*
+
+Book one's `world-bible.md`: **the Ruri name their children after stones.**
+
+> **Ruri Iwao — 巌, a crag.** The name a mother gives a first son when she
+> still has hope for the line.
+>
+> **Tadayoshi is not a stone name.** Three years later she had stopped.
+
+**That is the family in two words.** The elder son got the clan's naming
+convention. The younger — the only true crystal user in three generations —
+got an ordinary name, because by then his mother had worked out what being a
+stone gets you.
+
+**And the betrayal inverts it exactly.** The brother with the stone name
+testified he was not blood. The brother with the plain name is the only one
+who is.
+
+**So he had to give the name up.** A stone-name is itself evidence, and a
+man claiming different blood cannot walk around called *crag*. He took the
+name of the man he named as his father — **Amagiri Kenji**, rain and mist,
+a fabricated line, a name that means nothing.
+
+> **He gave up a name that meant crag to become a man who means nothing.**
+
+**Nobody in Kiri knows the old one. Tadayoshi uses no other.** The first
+time somebody who is not Tadayoshi says *Iwao* out loud, that is an event.
+
+### The betrayal — and he was thirteen
 
 **He is the one who arrested the family**, and bought his own life by
 claiming he is **of different blood** — unfalsifiable in the only direction
 that matters, since he has no crystal and that is demonstrable, in a room,
 on demand, to a tribunal that wants exactly that answer.
+
+**And he was a child when he did it.** Three years is not enough distance to
+be the architect. A boy of thirteen does not draft a collection order; **he
+is handed a document and a choice**, and he takes the one where he lives.
+
+> **He is the fourth harvested child in a book about harvested children.
+> Tadayoshi, Uzuki, Kimimaro — and him. The difference is that he said yes.**
+
+**They did not need to cage him. They needed him to sign.** That is what the
+institution does when it finds a bloodline child who is useful in a way that
+is not the bloodline: it does not take him, it **recruits** him, politely,
+with a form, and lets him think it was a decision.
+
+**Which gives the betrayal a floor and must never be allowed to become an
+excuse.** It is forgivable. **Tadayoshi must never be able to accept that it
+is** — and the reader should be able to, which is the whole tension. The
+book is right on both sides and does not resolve it.
 
 **And to be credibly *different blood* he had to put a reason on the
 record.** He buys his life by making his mother an adulteress and himself a
@@ -251,18 +303,76 @@ handed one of the seven during a purge; the succession is available to him
 *because* of the claim. Nobody has to say so. The reader will do the
 arithmetic.
 
-**He signs the tasking.** Rank means he sees the file and selects the teams,
-so the hunter curve arrives every few months **in his handwriting**, and the
-vow stops being a distant errand and becomes a correspondence. *He is being
-written to, in bodies, by the man who sold his mother.*
+### He does not sign the taskings — he is the curve's terminal value
+
+*(Revised: at thirteen he is not a desk officer. The earlier proposal that
+he selects the hunter teams dies with the age ruling. What replaces it is
+better.)*
+
+**Three rungs, and they are the same ladder as `combat.md` §10:**
+
+1. **At thirteen, he signs the statement that creates the warrant.** Every
+   hunter team's briefing packet opens with a document in his hand. His
+   handwriting is on the curve from the first team, without him having to
+   hold a rank. *He is being written to, in bodies, by the man who sold his
+   mother — and the letter was written once, at the start, and every team
+   carries a copy.*
+2. **As he rises he is attached to hunts** — the corps' edge, lent out.
+3. **And then he is what the curve delivers.**
+
+> **The more hunter-nin that fail, the better the ones that come. Follow
+> that to its end and the best one they have is a prodigy swordsman with one
+> of the seven blades.**
+>
+> **Tadayoshi's own competence summons his brother.**
+
+**The vow does not need pursuing. It needs waiting for — and the waiting is
+caused by his own improvement.** Every time he gets better he brings his
+brother closer, and he wants that, and he is not ready, because the sword is
+not built.
+
+**Which pays the vow's required cost automatically** *(`character.md`, the
+vow)*: he gets a clear chance before the sword exists, **the specification
+makes him decline it, and somebody dies of the delay.** The curve will hand
+him his brother at the wrong time, and it will do it because he was good.
+
+**The vow, the clock, and the anti-widening rule are one machine.**
 
 **And he tells the truth exactly once**, in the last act, as a document: a
 signed collection order citing improved yield out of the Ruri compound. It
 is the only true thing he ever says and he uses it as a weapon and it works.
 
-**OPEN: his age, and whether he knows about the threshold.** If he does, the
-arrest is also a man removing something he is afraid of, and the betrayal
-gets a second floor.
+### Does he know about the threshold?
+
+**PROPOSED: yes, and it is part of why he said yes.**
+
+Three years apart means the same school. He was twelve when a nine-year-old
+broke a child's arm in a counter and the teachers could not tell whether he
+meant it. **He was in that building.** He came home to that house.
+
+So the arrest is also **a frightened boy of thirteen removing something he
+is afraid of** — and one of the things he was afraid of was his brother.
+
+That is the second floor `spec.md` §4 item 10 asked for, and it is
+unbearable in the correct direction: **it makes Tadayoshi partly the cause
+of the thing that destroyed his family**, alongside the tone (§3f ruling 3),
+and neither share is small enough to put down.
+
+*(Needs the author's yes. It is heavy, and the arrest works without it.)*
+
+### What three years buys that a large gap would not
+
+I had recommended a large gap — a father-substitute rather than a rival.
+**The ruling is better, and here is why:**
+
+- **He is a child too.** A calculated adult crime is simpler and smaller.
+  A frightened thirteen-year-old given a way out is the version that hurts.
+- **Three years is rival distance.** Same house, same table, same measuring
+  stick, overlapping at the Academy. Close enough to be **compared**, which
+  is the whole childhood: **one brother has the blood and no sword; the
+  other has the sword and no blood.**
+- **The vow becomes a child's vow** — sworn at ten, about a boy of thirteen,
+  and carried by a man it was never sized for.
 
 ---
 

@@ -24,9 +24,9 @@ Wave sits at the front of Part I. Therefore:
 
 | Age | Pre-P1 | The year |
 |---|---|---|
-| 7 | ~6 | Academy. **Zabuza's coup happens and is nothing to do with him** — the year Kiri came apart, and the reason a resistance exists at all. Something that happened to adults while he was seven. |
+| 7 | ~6 | Academy. **Zabuza's coup happens and is nothing to do with him** — the year Kiri came apart, and the reason a resistance exists at all. Something that happened to adults while he was seven. *(The brother is ten, and already better with a sword than anyone will admit.)* |
 | **8** | **~5** | **He fixes the tone. He shows his mother. He is told to hide it.** And the same year: **the Kaguya aftermath — a boy his own age carried past in a cage.** He does not learn the name. |
-| 9 | ~4 | The broken arm in a counter. The class transfer; the form says aptitude. |
+| 9 | ~4 | The broken arm in a counter. The class transfer; the form says aptitude. **The brother is twelve and in the same building**, and comes home to the same house. |
 | **10** | **~3** | **THE WARRANT.** See §2 — the year is built month by month. Genin team, recruitment, contracts, the monastery, **Uzuki**. |
 | **11** | **~2** | The merchant, the boy, **the creed**. **The shipment, and Kimimaro.** The break with the resistance. |
 | **12** | **~1** | The boilerplate. The ports. **Zabuza and Gatō.** **The village conversation, refused — he leaves.** |
@@ -84,16 +84,29 @@ temperature for trying to walk out on her.
 | Haku | 11 | 12 | ~14 | 15 |
 | Zabuza | ~23 | ~24 | ~25 | 26 |
 | Sasuke | 9 | 10 | 11 | 12 |
-| **The brother** | **OPEN** | | | |
+| **The brother** | **13** | 14 | 15 | **16** |
 
 **Kimimaro is two to three years OLDER**, and this is accepted rather than
 strained away — see §5.
 
-**The brother's age is the most urgent open item in the project.** A man
-old enough to be in succession for one of the seven blades when a warrant is
-served on a ten-year-old is a young adult, which makes the gap large, which
-makes him a **father-substitute rather than a rival**. That is a different
-betrayal and a better one. **This file cannot be finished without a ruling.**
+**The brother is older by three years — RULED.** *(Names PROPOSED:*
+**Ruri Iwao**, *birth;* **Amagiri Kenji**, *taken. See* `character.md`.*)*
+
+Consequences, all recorded in `character.md`:
+
+- **He is thirteen at the arrest.** Not the architect — a boy handed a
+  document and a choice. **The fourth harvested child in the book, and the
+  only one who said yes.**
+- **He does not sign the taskings.** At thirteen he is not a desk officer.
+  He signs **the statement that creates the warrant**, so every hunter team
+  carries a copy of a document in his hand — and then **he is what the curve
+  eventually delivers.** *Tadayoshi's own competence summons his brother.*
+- **Rumoured for one of the seven at thirteen, plausibly holding one by
+  sixteen.** Aggressive, and the setting supports it: Kiri graduates at
+  nine and ten, and Zabuza took Kubikiribōchō young.
+- **Three years is rival distance, not parental distance.** Same house,
+  same table, same school. **One brother has the blood and no sword; the
+  other has the sword and no blood.**
 
 ---
 
@@ -167,7 +180,12 @@ the location down and keeps the proceeds.
 
 ## 6. Open
 
-1. **The brother's age and birth order.** Blocking.
-2. Does the Tsunade first contact sit at eleven or twelve?
-3. The month-level calendar for years 1–3. Year 0 is built; the rest is
+1. ~~The brother's age and birth order.~~ **RULED: older by three.** Open
+   underneath it: **his names** (proposed, not ruled) and **whether he knows
+   about the threshold** — `character.md` proposes yes, and it is heavy.
+2. **When does he actually hold one of the seven**, if he does? *Rumoured*
+   at thirteen is enough for the vow. The book needs to decide before the
+   curve delivers him.
+3. Does the Tsunade first contact sit at eleven or twelve?
+4. The month-level calendar for years 1–3. Year 0 is built; the rest is
    ordered but not dated.

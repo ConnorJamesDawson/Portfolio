@@ -72,6 +72,15 @@ a widening with paperwork.
 | **Replacement constraint** | **The databook ~6 is kept.** The coup is somebody else's history and Tadayoshi is seven when it happens. No strain is bought where none is needed. |
 | **Net** | **Neutral — a debt repaid rather than inherited.** Recorded so nobody re-derives it. |
 
+### #7 — THE BROTHER IS A YOUNG ADULT WHO SIGNS THE TASKINGS
+
+| | |
+|---|---|
+| **Killed** | I recommended a large age gap — a brother old enough to be in succession for one of the seven when a warrant is served on a ten-year-old, therefore a **father-substitute rather than a rival** — and built a hunter-curve device on it: *rank means he sees the file and selects the teams, so the curve arrives in his handwriting.* |
+| **By** | Author ruling: **older by three years.** At thirteen he is not a desk officer and not anybody's father. |
+| **Replacement constraint** | **Three constraints, replacing one device.** (1) **He is a child at the arrest** — not the architect, a boy handed a document and a choice, which makes him the fourth harvested child in the book and the only one who said yes. The betrayal becomes forgivable, **and Tadayoshi must never be able to accept that it is.** (2) **He signs the statement that creates the warrant**, not the taskings — every hunter team carries a copy of a document in his hand, from the first team, without him holding a rank. (3) **He is what the curve eventually delivers.** *Tadayoshi's own competence summons his brother* — so the vow needs waiting for rather than pursuing, the waiting is caused by his own improvement, and **the clear chance arrives before the sword exists, exactly as the vow was already required to cost.** |
+| **Net** | **Constraint added, three for one.** The version that died gave the protagonist an antagonist he could work toward. This one gives him an antagonist he **summons by improving**, which is the anti-widening rule and the vow's clock in a single machine. |
+
 ---
 
 ## Strains bought, with prices

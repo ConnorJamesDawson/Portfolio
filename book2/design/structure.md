@@ -43,7 +43,9 @@ Month by month in `timeline.md` §2. The spine:
 
 - **The warrant.** Not expelled — **warranted.** The brother takes the
   family; the mother is kept because she is productive; the rest are
-  disposed of as not needed.
+  disposed of as not needed. **The brother is thirteen** — he does not draft
+  the order, he signs a statement, and the statement is what every hunter
+  team will read in its briefing for the next three years.
 - **The genin team.** Freshly graduated, never taken a life, **under
   instruction to take him alive if possible. He has no such restriction.**
   *Alive if possible* is a mechanical advantage that reads as moral horror:
