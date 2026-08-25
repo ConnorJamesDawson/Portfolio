@@ -190,6 +190,106 @@ is competence with no weather in it.
 
 ---
 
+## 2j. THE FIRST BLOOD — AUTHOR
+
+**Not expelled. WARRANTED.** The state puts out a warrant for the child.
+
+**This is the kick-off for resistance recruitment.**
+
+**A genin team happens on him.** Freshly graduated, never taken a life,
+**under instruction to take him alive if possible.**
+
+**Tadayoshi does not have that restriction.**
+
+He takes the early advantage on **talent**, until they gang up on him — and
+with his back to the wall, **the threshold comes out.**
+
+**Its nature:** no thought in it beyond *rip that fucker's head off*. He
+becomes an unbelievable fighter for reflexes and combat thought, **and it is
+tunnel vision.** Anything between him and the target is in the crossfire,
+allies included.
+
+---
+
+## 2k. What that scene does, and one fault in it — PROPOSED
+
+### The asymmetry is the indictment, and it proves his politics with his own hands
+
+*Alive if possible* is a mechanical advantage that reads as moral horror:
+four trained children pulling their blows against one who is not. **The
+village's own rules of engagement kill its children.** Whoever wrote that
+line on the warrant killed that team, and Tadayoshi is only the instrument.
+
+Which means his ideology is not merely inherited from the purge. **He proves
+it himself, with his hands, at fourteen.** *Needing protection makes people
+complacent and complacent people rot* stops being an opinion about the world
+and becomes a thing he has personally demonstrated — which is the most
+dangerous kind of belief a person can hold, because disagreeing with it now
+means agreeing that he murdered four children for nothing.
+
+### THE FAULT: the flaw debuts with no cost attached
+
+Backs to the wall, outnumbered, rage arrives, rage wins. He has **no allies
+in this fight**, so the stated cost — tunnel vision, crossfire — cannot
+apply. The reader's first lesson about the threshold is therefore
+**rage = victory**, and every later attempt to make it cost will read as the
+author confiscating a toy. This is exactly how book one widened twelve times.
+
+**Fix, and I would fight for this one: the rage does not save him. It
+arrives, and then it does not stop when the fight does.**
+
+He wins the fight *on talent* — he is a prodigy and they are fresh. Then the
+threshold takes him, and it takes him past the end: the one who has dropped
+the weapon, the one crawling, the one calling a teammate's name. And when he
+comes back there are four bodies and **he cannot reconstruct which of them
+he killed while he was still thinking.**
+
+That is the Academy's broken arm again at scale, asking the same question the
+book is actually about — *can he tell his competence from his appetite* — and
+answering it, at fourteen, with four dead children and no way to check.
+
+### What brings him out — PROPOSED, and I think this is the spec's best idea
+
+Something has to stop it, and whatever stops it the first time is
+load-bearing forever. It should be an object, not exhaustion.
+
+**One of the genin is wearing something his mother made.**
+
+Kiri-issue fittings, a clasp, a charm — prison-labour crystal, in circulation
+exactly as it is supposed to be. **And he hears the tone.**
+
+He comes out of the red because he has recognised his mother's hand on the
+body of a child he has just killed.
+
+It wires four threads into one image: the threshold's stop-condition, the
+tone-as-medical-chart, the mother's fate, and the reason he goes into the
+world to earn — **he does not merely survive the arrest. He learns she is
+alive, from her work, on a corpse he made.**
+
+### The recruitment follows from it
+
+The rebellion does not recruit a victim. It recruits **an asset that has just
+demonstrated itself** — a child who killed a genin team. Which sets the
+loneliness engine for the whole arc: from the first day, **the only people
+who want him are the people who want what he does.**
+
+### Craft rule — the book never shows the threshold from inside
+
+The hardest technical problem here is narrating a POV who is not thinking,
+and the answer book one already found is the right one: **the gap is the
+entry.**
+
+Write up to the threshold. Break. Resume after, and let the *reconstruction*
+be the scene — the bodies read as evidence, the sequence inferred from
+wounds, the thing he cannot determine. A man who cannot reconstruct what he
+did is far more frightening than one who narrates it, the reader never gets
+handed the power fantasy, and the discipline will pay for hundreds of
+chapters.
+
+**Standing rule: never from inside. If it is ever broken, that is an event.**
+
+---
+
 ## 2h. THE ARREST, AND ARC ONE — AUTHOR
 
 **The arrest is the inciting event.** The brother takes the family.
@@ -513,13 +613,11 @@ the same entry.** The ledger gets both columns this time.
 8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
-9. ~~Is the arrest the inciting event?~~ **SETTLED.** New underneath it:
-   **what happens to him at the Academy afterwards?** A bloodline child
-   whose family has just been taken does not stay enrolled. If he is
-   expelled — or if the teachers and the other children turn — then
-   *villages make people complacent* is born in a specific room with
-   specific faces, and the ideology stops being an opinion and becomes a
-   scar with an address.
+9. ~~The Academy afterwards.~~ **SETTLED — a warrant, not an expulsion.**
+   New underneath it: **how old is he at the warrant?** The Academy kata,
+   the arrest, the genin team and the recruitment all sit in one narrow
+   window, and the number decides how monstrous the genin scene reads.
+   Twelve is a different book from fifteen.
 10. **Does the brother know about the threshold?** If he does, the arrest is
    also a man removing something he is afraid of, and the betrayal gets a
    second floor.
