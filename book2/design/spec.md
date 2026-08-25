@@ -551,18 +551,20 @@ a prop.
 ## 3d. OPEN on the second thread
 
 - ~~Her name~~ **SETTLED: Uzuki.**
-- ~~Age~~ **SETTLED: same as Tadayoshi.** But **the two clocks still need
-  pinning to the month.** Her sequence needs real time in it — a father
-  sickening, a death, a mother remarrying, an abuse escalating, a flight, a
-  monastery holding her while they negotiate — and his needs the warrant,
-  the genin team, the recruitment and enough contracts to be posted a cargo
-  job. Both at ten. It is tight. **One calendar, before chapter one.**
+- ~~Age~~ **SETTLED: same as Tadayoshi.**
+- ~~The two clocks pinned to the month~~ **BUILT: §6, twelve months, both
+  threads, plus year 1 to the coup.** It is tight and one strain is named
+  and fixed there (the cargo job is a punishment posting, not a promotion).
 - ~~Thread count~~ **SETTLED: duo, then Kimimaro.**
 - ~~Does the courier scene complete~~ **SETTLED: no — contract annulled,
   client dead on arrival.**
 - ~~When does Kimimaro arrive~~ **PROPOSED in §3e: the coup, ~6 pre-P1, at
-  nine.** Awaiting ruling — along with whether Orochimaru learns of it, and
-  whether Kimimaro's canonical six-year fuse is kept or shattered.
+  nine.**
+- ~~Does Orochimaru learn of it~~ **RULED in §3f: not the name, not until
+  act three. He hunts a ledger entry.**
+- ~~Kept or shattered fuse~~ **RULED in §3f: keep the illness, refuse the
+  date. Fifteen is what a laboratory does to him; untreated has no number,
+  and Uzuki cannot supply one.**
 
 ---
 
@@ -1314,21 +1316,30 @@ the same entry.** The ledger gets both columns this time.
 
 ## 4. OPEN — needed next, in priority order
 
-1. **Era.** Purge-era Kiri under the Fourth Mizukage is the obvious read
-   ("dying line", the swords live, bloodline hunting). Confirm or place it
-   elsewhere. This dates everything else.
-2. **Ages and birth order.** Which brother is older, and by how much. This
-   decides who protects whom and who is failing whom.
+1. ~~**Era.**~~ **SETTLED in §2d: identical to book one.** Book one's
+   world-bible and dated skeleton stand; §3e derives the clock from its
+   era table and §6 builds the calendar on it.
+2. **Ages and birth order — now the most urgent open item.** Which brother
+   is older, and by how much. This decides who protects whom and who is
+   failing whom, and §6 cannot be finished without it: **a brother old
+   enough to be in succession for one of the seven blades at the time of a
+   warrant served on a ten-year-old is a young adult**, which makes the
+   gap large, which makes him a father-substitute rather than a rival.
+   That is a different betrayal and a better one. Needs a ruling.
 3. ~~The clan's trade.~~ **SETTLED: crystal, and the theory carries.** Still
    open underneath it: **which** rulings carry. Book one's `falsified.md`
    mixes *material physics* (what crystal does) with *Sazare's personal
    capability* (what he could do without seals). Default proposal — the
    physics carries, the capability rulings do not, because they were his and
    this Ruri casts.
-4. **The Shōton spec** — shape and cost curve. Hand seals settle the two
-   interruptible steps; the *attackable resource* and the expense curve are
-   still open. Also: does book one's Ruri clan history carry (four hundred
-   years, the Hōzuki compound, frames and jewellery), or is it fresh ground?
+4. ~~**The Shōton spec** — shape and cost curve.~~ **BUILT: §7.** Three
+   interruptible steps, three attackable resources, an expiry economy, and
+   the mechanism by which an eight-year-old fixed the tone — all derived
+   from book one's own physics rather than invented. **Still open
+   underneath it:** does book one's Ruri clan history carry (four hundred
+   years, the Hōzuki compound, frames and jewellery), or is it fresh
+   ground? §7 assumes the four hundred years and the frames, because the
+   tone-fix depends on them.
 5. **Tadayoshi's lack.** The theme is *agency that was never installed*.
    PROPOSED: he is the clan's succession plan. Every decision about him was
    taken before he could speak, by a committee of eight frightened people,
@@ -1342,10 +1353,9 @@ the same entry.** The ledger gets both columns this time.
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
 9. ~~When did he fix the tone?~~ **SETTLED: eight, and he showed her.**
-   New underneath it: **did the improved output actually put the family on
-   the list?** §2m proposed it; §2n's harvest now makes it near-inevitable —
-   a clan that starts producing well is a clan worth collecting. Confirm
-   whether he ever finds that out, and when.
+   ~~Did the improved output put the family on the list?~~ **RULED in §3f:
+   yes, partly — two causes, neither sufficient. He learns it late, from
+   the brother, as a document, and never before the creed is installed.**
 10. **Does the brother know about the threshold?** If he does, the arrest is
    also a man removing something he is afraid of, and the betrayal gets a
    second floor.
@@ -1364,3 +1374,372 @@ the same entry.** The ledger gets both columns this time.
 - **A trade at the centre.** Whatever the craft turns out to be, it is the
   source of the interior grammar and of every large true thing the
   protagonist will manage to say out loud.
+
+---
+
+## 3f. THE THREE RULINGS — PROPOSED as calls, not as options
+
+Tabled in §3e. Answering them, with the reasoning, because leaving them
+open shapes the first act by default and a default is a decision nobody
+made.
+
+### RULING 1 — Orochimaru does not learn the name until act three
+
+**He knows he is losing inventory. He does not know to whom.**
+
+An investigator is a better act-two antagonist than an enemy, because an
+investigator can be **wrong**, and a wrong hypothesis walking around the
+book generates scenes. A hunt does not; a hunt generates chases. And there
+is a specific reason to hold the name back beyond pacing:
+
+> The moment the snake learns that a **crystal user** took his merchandise,
+> Tadayoshi stops being the thief and becomes the stock.
+
+That inversion is the act-three turn. It is the single best card in the
+whole Orochimaru thread and it should not be spent to make act one feel
+dangerous — act one already has a warrant on the page.
+
+**And the delay has a mechanism, on the page, for free.** Uzuki was
+inventory with paperwork. Somebody at that monastery kept a book: what was
+being sold, to whose agent, for how much. **Tadayoshi killed everybody who
+could have corrected the entry**, so what reaches the snake is whatever the
+ledger says — a description, a district, an unfinished consignment.
+
+For two years he is hunting a **document**, not a person.
+
+Which rhymes with the brother, hard: this is the second time in the book
+that a piece of paper decides who somebody is, and the second time nobody
+alive can amend it.
+
+### RULING 2 — keep the illness, shatter the date
+
+Canon: a terminal illness, never named, and he is about fifteen when it
+finishes. **Keep the disease. Refuse the number.**
+
+The disease is the most useful thing about him for this book. A harvested
+child whose entire value is his body, whose body is running out, living in
+a household founded on the principle that a man should stand alone — that
+is the thesis with a face on it. Take the illness away and he is a strong
+boy with a sad backstory.
+
+But the canonical fifteen is a **countdown the reader can read**, and a
+readable countdown turns four years of book into a wait.
+
+The way out is already in canon's own logic, and it costs nothing:
+
+> **Fifteen is what happens to a Kimimaro that Orochimaru keeps.** Sustained,
+> studied, medicated, and dead on schedule in a laboratory's care.
+>
+> A Kimimaro taken at nine by a boy with no laboratory and a half-trained
+> medic has **no dated ending at all**, because nobody in the world knows
+> what the thing does when it is not being managed.
+
+So the clock exists and is unreadable. It can be spent at any point in the
+book, it never becomes a calendar, and **Uzuki cannot tell him how long** —
+which is the exact failure the character needs, because she is the one who
+names her own value by being the person who heals.
+
+**And it hands us the household's central instrument, doubled.** The
+mother's decline is already legible to Tadayoshi through the tone. Give
+Uzuki the same apparatus in her own medium: a reading, taken weekly,
+written in a book, and a series that flattens.
+
+> **Two dying people in one house. He can read his and not hers. She can
+> read hers and not his. Each of them is holding a chart the other cannot
+> see, and neither will show it.**
+
+Two flattening series, facing pages, in a book about withholding. That is
+the whole project in one object.
+
+### RULING 3 — yes, he finds out, and the brother tells him
+
+*(This answers §4 item 9 and the §2m author ruling together.)*
+
+**Both causes are real and neither is sufficient.** The collection order
+exists because the compound's yield improved; the brother's claim decided
+**when** it was served and **who walked away from it**. That matters
+mechanically: the brother cannot say *it would have happened anyway*, and
+Tadayoshi cannot say *it was all him*. Both of them are holding a share and
+neither can put it down.
+
+**He learns it late, and he learns it as a document.** Not a confession, not
+a flashback — a signed collection order, dated, citing improved yield out of
+the Ruri compound, produced by the brother in the last act because the
+brother has finally found the one thing he can say that is true.
+
+It is the only true thing he ever says to Tadayoshi, and he uses it as a
+weapon, and it works.
+
+**Hard placement rule: after the creed is installed, never before.** The
+creed is the hand-brake. This fact is precisely the material that argues
+for taking the hand-brake off, and a man who has it before he has the creed
+never builds the creed at all.
+
+---
+
+## 6. THE CALENDAR — PROPOSED, and this was the blocking item
+
+§3d: *one calendar, before chapter one.* Here it is. Twelve months, two
+children, both ten, book one's month-numbering convention.
+
+**Year 0 = ~7 pre-P1.** He turns eleven at the end of it.
+
+| Mo. | TADAYOSHI | UZUKI |
+|---|---|---|
+| 1 | Academy. The transfer is a year old; the broken arm is two. | Her father's cough is already old. Everyone is calling it winter. |
+| 2 | Ordinary. The last ordinary month of his life, and the book should make the reader feel that only afterwards. | He stops being able to work. |
+| 3 | **The collection order is signed.** He does not know. Nobody does. | She volunteers for the road. She is the fast one; it is the first decision of her life. |
+| 4 | **THE WARRANT.** The brother. The mother taken, the family disposed of. He goes out of the compound and does not stop. | Four days out, three back, four lost to a medic who is mid-job. **Eleven days. Her father is dead when she gets home.** |
+| 5 | **THE GENIN TEAM.** Four dead. The clasp on the third one. **The tone.** He learns his mother is alive from her work, on a body he made. | The house, the debt, and a civilian widow doing arithmetic in front of a child who cannot read it. |
+| 6 | **THE RECRUITMENT.** They do not want a victim; they want the asset that has just demonstrated itself. | **Her mother remarries.** Ten weeks a widow. |
+| 7 | First contracts. He is worth feeding. | The new house. The first time. |
+| 8 | Contracts. He is worth paying. | It escalates. A knife under the pillow, and she tells nobody, because there is nobody. |
+| 9 | Contracts, and he is becoming difficult to handle. | **He comes for her, and her mother watches.** The face. The eye. She runs. |
+| 10 | | The road. Hunger. **The monastery takes her in.** Late in the month, **the rain**, and the dye. *The snake pays well for children like her.* |
+| 11 | | Dark, and enough to live on, while somebody negotiates. |
+| 12 | **The cargo job.** | **The courier. "Help."** |
+
+### The two months that carry the parallel
+
+**Month 4 is the cut.** Both children lose the parent who held the secret,
+in the same month, four hundred miles apart — and the two losses are
+opposite. **He loses the woman who taught him to hide. She loses the man who
+made her hide** and never told her why. Available, not mandatory; if it
+reads as too neat, slide her father's death a month and lose nothing.
+
+**Month 5 is the join.** He takes his mother's condition off a corpse's
+fittings in the same weeks that Uzuki is watching her mother price a house.
+Both threads are about a woman's value being calculated by somebody else.
+
+### The one strain, named, with the fix
+
+**Eight months from "child kills four genin" to "trusted with a solo cargo
+job" is fast**, and a reader who counts will feel it.
+
+The fix is to stop reading it as promotion.
+
+> **The cargo job is a punishment posting.** He has been used for killing
+> for six months and he has become expensive to handle — he argues, he
+> modifies orders, he does not report cleanly, and twice now somebody has
+> had to explain a body. So they give him freight. Low value, long walk,
+> out of the way.
+
+Which is better than a promotion in every direction. It means the resistance
+is already tiring of him in month nine of the first year. It means he
+arrives at that monastery **bored, insulted, and resentful** — which is the
+correct temperature for the scene where he tries to walk out on her. And it
+sets the loneliness engine running early: the only people who ever wanted
+him wanted the thing he does, and they have started to find even that
+inconvenient.
+
+### And the client is the elder
+
+§3b-ii: *the contract is annulled, the client is dead when he arrives.*
+Make the client **the man who hired the transport** — the elder holding the
+sale. So he is among the dead in that room.
+
+Which means Tadayoshi killed his own employer in a state he cannot
+reconstruct, gets **nothing** for the job, has to report a failure he cannot
+explain, and comes home with a child instead of a fee.
+
+The rescue is not a gift he gave. **It is a debt he is carrying**, on a
+ledger he keeps, and she is the entry.
+
+### YEAR 1 — age eleven, and arc one closes
+
+| | |
+|---|---|
+| Early | Freelance, because the resistance has stopped posting him. **No creed.** Any contract that feeds two. |
+| Mid | **The merchant, the house, and the boy.** The creed is installed — bought, at a price, halfway down. |
+| **~6 pre-P1** | **ZABUZA'S COUP.** The riot. The facility. **Kimimaro, nine, still held.** The team is three. |
+
+**And the two children are two months apart, which is the point.**
+
+> **Uzuki is what happens when he takes the child. The boy is what happens
+> when he pays the child.**
+
+Same man, same year, same instinct, two outcomes — and the difference is
+not his intention, which was identical, but which of them **latched**. He
+will not see that. He will file the second one as a failure of method and go
+looking for a better procedure, which is how the creed gets written.
+
+**And Uzuki is in the house for the second one.** She will have an opinion
+about the boy. It will be jealous, it will be ungenerous, and it will be
+**correct about the outcome** — she will say he is going to come back, and
+he is, and she is saying it for entirely the wrong reason. First instance of
+the standing rule from §3b-iii: *she must be right sometimes.*
+
+### Arc one is one year, and that is the design
+
+Tenth birthday to eleventh: warrant, first blood, recruitment, the girl, the
+creed, the coup, the team. Everything that will ever define him happens
+inside twelve months.
+
+Book one ran seventy-four chapters and the diagnosis was that it had no
+clock. **This has a clock, it is short, and canon supplies the end date.**
+The density is not a problem to be solved; it is what a warrant does to a
+child, and the reader should finish arc one unable to believe how young he
+still is.
+
+---
+
+## 7. THE SHŌTON SPEC — the economy, which §3 says must exist first
+
+§3: *the power's ceiling, written as costs, before chapter one.* This is
+built out of book one's own physics rather than invented, so the rulings
+that carry are traceable.
+
+### What carries from book one, and what does not
+
+**Carries — the material physics.** Courses and the note; the close and
+starvation; density gradients; recall and the thread; the clan's four
+hundred years of selling the stuff as gemstone.
+
+**Does not carry — anything that was Sazare's capability.** Split-second
+production, sealless casting, the twenty-foot perimeter, jōnin reserves,
+nature chakra as the limiter. All of that was a grown man with a bloodline
+exercised for eleven years and a sage's battery on his back. **This is a
+boy of ten.**
+
+### THE COURSES — and this is how he fixed the tone
+
+Book one's world-bible, on the clan's central error:
+
+> *The lattice was named after the wrong thing. Four hundred years and the
+> clan called the copper frame the lattice without ever knowing the real
+> lattice is inside the stone. The frame's smoothing job evened the feed,
+> which let courses lay down evenly — so the liturgy half-worked for a
+> reason nobody could state.*
+
+**That is the whole discovery, and it is already sitting there.**
+
+A piece is laid in **courses**. One course is one note — a single resonance,
+and a piece with one note can be broken by anyone who finds it. Two courses
+is commercial grade; the frames hum. Enough courses and the piece has no
+single note to give.
+
+The frame's job is to **even the feed** so that courses lay flat. The clan
+does not know that. The clan knows the liturgy.
+
+So: **a boy of eight, with no friends and therefore with afternoons, reads
+chakra shape theory out of an Academy library and works out what the frame
+is doing.** And once you know it is a feed-evening job, you can do it with
+control instead of with copper — better, and without the frame at all.
+
+He does not invent anything. **He finds out what his family has been doing
+for four hundred years without knowing, and then does it on purpose.**
+
+- It is the signature operation (§2i) in its first instance: learn it
+  whole, find the part doing no work, remove it. **The part doing no work
+  is the liturgy. The frame is doing the work, and it can be replaced.**
+- It makes the flat tone **legible as damage**: a harvested clan is a clan
+  laying one course where it used to lay six, and the fingerprint is in
+  every article it has ever sold.
+- It arms the mother's beacon. He can hear course count off a brooch in a
+  shop window, which is her hand, her condition, and her rate of decline,
+  transmitted by commerce to the one person alive who worked out what it
+  means.
+- **And it is the reason for the collection order.** The compound's yield
+  improved. Somebody in an office noticed. See §3f ruling 3.
+
+### THE ECONOMY — three tiers, and he only has the two bad ones
+
+Book one's standing correction: *it was never decay, it is starvation, and
+it only happens to a closed article.*
+
+| Tier | Expires | Taxes him | Available to him |
+|---|---|---|---|
+| **Closed** | **yes** | no | **yes — everything he makes** |
+| **Sustained** | no | **continuously** | **yes — the sword, and it is why the sword is special** |
+| **Open** | no | no | **NO** |
+
+**Opening an article is on the far side of the same gate as Sage Mode.**
+The seals are where specification lives (§2g); an open article is one that
+draws on its own, which is not a thing you can specify — it is a thing you
+do without specifying. He cannot get there from hand seals, and he will not
+know why for years.
+
+Which resolves the whole kit at once:
+
+> **Every article in his kit has a date on it.**
+
+He is a boy who carries expiring equipment and keeps a book of expiry dates,
+and in a bad week he is fighting with stale kit. That pays §2c constraint 2
+(*made in advance is made with the time he had*) with a number instead of a
+principle.
+
+**Lifetime is bought at the moment of making.** A closed article spends
+itself holding its own shape, so **how long it lives is how much he packed
+into it** — a cheap thing for tomorrow, an expensive thing for the
+month, and he has to guess which kind of month it is. Guessing wrong is a
+failure state and belongs on the page.
+
+**And they degrade before they die.** Density falls as it starves, so an
+article is at its best the hour it is made and softens from there. A boy
+checking his kit at dawn and finding the edge gone off something he needs
+today is a scene this book will use forty times.
+
+**The sword is the workaround**, and now it reads properly: a man who cannot
+open an article can only escape the expiry date by **paying forever**. §2p
+already has this as a permanent low tax; the economy explains why he
+accepted it. He is not being stoic. He had two options and both were bills.
+
+> **He can pay now or pay always, and the thing that would let him stop
+> paying is the thing the book is about.**
+
+### THE ATTACKABLE RESOURCE — §3 rule 2, discharged
+
+Three of them, and none needs inventing:
+
+1. **The hands.** Already ruled (§2p). Bare permanently, because armoured
+   hands cannot seal.
+2. **The note.** Anything he made cheap has a note in it, and a note can be
+   found and struck. Kōga's third strike found one in book one. **A good
+   opponent does not break his crystal; they listen to it and then break
+   it.** And the cheaper the article, the louder it is — so his economy and
+   his vulnerability are the same axis. Making it last means making it
+   fragile in a different way, and there is no configuration with neither
+   fault.
+3. **The thread.** Book one: *everything he has ever grown and not recalled
+   still carries a thread of him — a leash that runs both ways.* For a man
+   whose entire policy is withholding, **every article he has ever left
+   behind is a disclosure**, and he has been leaving them behind since he
+   was ten, in bodies, in rooms, in a monastery.
+
+### THE COST CURVE — §3 rule 3, discharged
+
+**The useful applications are the expensive ones**, and here that is
+structural rather than asserted:
+
+- **Crowd control is volume**, and volume is the thing that costs. Book
+  one: *speed is free, volume and density cost.* His fighting identity is
+  the most expensive category of work available to him, and he is ten.
+- **Precision is courses**, and courses are time standing still with his
+  hands up. Good work is slow work, in a place where slow is fatal.
+- So **the good article and the fast article are different articles**, and
+  every fight is him choosing which one he can afford, in advance, wrongly.
+
+### THE RECALL, and when it arrives
+
+Book one ruled it **arrives late**, after the ugly kills have already
+scattered pieces he cannot reach. **Keep that exactly.** It is the correct
+shape twice over here:
+
+- It means his first two years of work are **irretrievable and still
+  attached to him**, which is the thread above with a decade of accumulation
+  behind it.
+- It requires him to be **close** and to **wait** — a slow, kneeling,
+  exposed operation beside a body, which is the single most incriminating
+  posture available and the correct price for an assassin's cleanup.
+- And a botched recall **produces more evidence, not less**. A failure mode
+  that punishes haste is exactly right for a man whose flaw is a state in
+  which he cannot be careful.
+
+### THE STANDING LEDGER RULE — restated because it is the point
+
+> **No rule in this book may be falsified without a replacement constraint
+> named in the same entry.** Book one ran twelve for twelve on widenings.
+> `book2/design/falsified.md` gets two columns from the first line: what
+> died, and what was installed in its place.
+
+If an entry cannot name the new constraint, **the old rule stands.**
