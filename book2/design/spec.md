@@ -190,6 +190,139 @@ is competence with no weather in it.
 
 ---
 
+## 2p. THE SWORD AND THE ARMOUR — AUTHOR
+
+### The sword
+
+- **It cannot be wielded by anyone who is not a crystal user.** The vow's
+  principle, realised as engineering.
+- **From the end of act one until he learns about Guren, that is absolute** —
+  and then it is not.
+- **It begins as a simple half-katana and grows with him.**
+- **It can be changed mid-fight: plunged into the ground, a hand seal held.**
+
+### The armour
+
+- He takes in what he needs from **books and watching**.
+- **In hospital after an Academy fight went too far**, he sees **what plate
+  armour does to a body**.
+- He experiments: **plates first, as a basic exercise** — and later,
+  **reactionary armour**.
+
+---
+
+## 2q. What these do, and the costs they need — PROPOSED
+
+### The reconfiguration is a textbook interruptible step, and it was arrived at independently
+
+*Planted, one hand occupied, holding a seal, in a fight.* That is
+**maximum vulnerability at the exact moment of maximum utility**, which is
+precisely the property book one's Shōton never had and the reason every
+fight in it needed the opponent handicapped.
+
+It also makes every reconfiguration **a decision with a price**: he has to
+buy a second of stillness in a place where stillness kills. Changing the
+sword is therefore a dramatic act, not a convenience — and a reader can see
+the cost without being told it.
+
+### How the blade excludes everybody — PROPOSED
+
+Make it **held, not open**. It is not a finished object that persists; it is
+a **sustained** one, requiring continuous chakra of the right nature simply
+to keep being a sword. Consequences, all of them useful:
+
+- **A permanent low tax, all day, every day.** A man carrying a small
+  ongoing expense and keeping the ledger for it is this project's native
+  material.
+- **When he is spent, the blade goes.** The moment he is most desperate is
+  the moment the weapon is least reliable.
+- **In the threshold he keeps it but cannot change it** — sustain is not
+  specification, and the seal is gone. Consistent with §2g's single law.
+- Anybody else picks it up and holds a lump of stone that is already
+  failing.
+
+### Growth discipline — mandatory
+
+*Grows with him* is a widening unless it is specified. So:
+
+> **It grows in COMPLEXITY, not in lethality. More configurations, not a
+> bigger blade — and every configuration is a TRADE.**
+
+Reach against speed. Edge against mass. Each one excellent and narrow,
+because that is exactly how this man thinks: take it apart, keep the piece
+that works, accept what the piece cannot do.
+
+And the honest consequence: **more options is a harder job.** A man with
+eleven configurations and half a second is worse off than a man with two.
+Growth should raise his ceiling and his error rate together.
+
+### The blade is a growth chart
+
+It starts short because **he is ten** — a child's reach, not a stylistic
+choice — and it lengthens as he does. A boy who measures everything will
+have the length at eleven, at twelve, at thirteen, in a notebook.
+
+**And her tone flattens in the same notebook, on the facing page.** Two
+series, one book: how tall he is getting, and how she is doing.
+
+### Guren is the refutation, not a rival
+
+The clause is absolute only while he is the last one. When Guren exists:
+
+- the sword **is** inheritable after all, and therefore, by his own
+  reasoning, **capable of rot**;
+- the "last of the line" identity his entire ideology rests on is **false**;
+- and the design has a fault its maker did not know about — book one's
+  hidden-trigger shape, done fresh.
+
+She does not need to be an enemy. **She only needs to exist**, and his
+philosophy has a hole in it.
+
+### The armour: protection is a TRANSFER, not a cancellation
+
+*What plate does to a body* — the man alive inside intact skin with his ribs
+gone, because armour does not stop force, it **distributes** it.
+
+That is the principle that will govern all his equipment. **And it is also
+his moral doctrine**: he will protect people by moving the cost somewhere
+else, and believe that is the same as saving them. **His armour theory and
+his ethics are the same error**, and the book can prove it on a body in act
+one and on a person in act four.
+
+Note also the loop: he is in that hospital **because of an Academy fight that
+went too far**, and while he is there he learns the thing that makes him more
+dangerous. As with the class transfer — **every institutional response to him
+makes him worse.**
+
+### THE HANDS — the best constraint in the spec
+
+Crystal is heavy and he is a child, so early plates are minimal and he must
+**choose what to protect**, which is character on a plate: heart or hands.
+
+And he cannot choose the hands. **Armoured hands cannot make seals.**
+
+> **His weapon-hands stay bare. Permanently. By necessity.**
+
+Everybody who fights him twice learns to go for them. It cannot be
+engineered away without giving up the craft, it costs him in every single
+fight for the rest of his life, and it pays the §2d hand-seal ruling in
+full.
+
+### Reactionary armour needs a decision, and decisions can be wrong
+
+Later-stage kit that **responds** must be able to respond *incorrectly* — a
+plate that hardens at the wrong instant is worse than no plate, and it
+drains whether it was right or not.
+
+And the rhyme underneath it, which is the reason it belongs in this book at
+all:
+
+> **Reactive armour acts faster than he can think. So does the threshold.**
+> **His armour and his rage have the same defect, and he built one of them
+> on purpose.**
+
+---
+
 ## 2n. EIGHT, THE HARVEST, AND THE VOW — AUTHOR
 
 ### He fixed the tone at eight — and he showed her
