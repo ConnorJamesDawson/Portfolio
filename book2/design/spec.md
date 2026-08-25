@@ -146,13 +146,13 @@ turned out to be a governor with a hidden trigger nobody had read — in
 *shape*, with entirely different content. Which is what "similar theme"
 should mean.
 
-### The ideology contradicts his own body
+### The ideology is a rationalisation — and now we know of what
 
-He believes a shinobi should stand alone. **His fighting style cannot finish
-anything alone** — control shapes an engagement; the brother ends it. His
-whole philosophy is a rationalisation of something that is not true about
-him, and the day he loses the brother is the day the belief and the fact
-collide. That is the engine, and it is free.
+He believes a shinobi should stand alone. **He believes it because nobody is
+safe standing next to him.** *Needing protection makes people complacent* is
+the philosophy of a man who cannot safely provide it and has decided that
+this is a virtue. He is not wrong about villages. He is wrong about why he
+thinks it.
 
 ### The decline is in the craft, not only the count
 
@@ -187,6 +187,84 @@ and a steady cup). Reuse the mechanism, not the furniture.
 If he keeps the theory for advantage, the book has to show what that buys and
 what it costs — somebody who could have been saved, and wasn't. Otherwise it
 is competence with no weather in it.
+
+---
+
+## 2f. THE BROTHER, AND THE THRESHOLD — AUTHOR
+
+### The betrayal
+
+**The brother is not an ally. He is the one who arrested Tadayoshi's
+family** — and bought his own life by **claiming he is of different blood.**
+
+The claim is unfalsifiable in the only direction that matters: he has no
+crystal potential, and that is demonstrable, in a room, on demand, to a
+tribunal that wants exactly that answer.
+
+**PROPOSED, and I think it is the detail that makes it monstrous:** to be
+credibly *different blood* he has to put a reason on the record. He buys his
+life by making his mother an adulteress and himself a bastard, in public,
+in writing. He does not merely betray the family. **He rewrites it**, and
+the rewrite is the part that cannot be undone by anybody surviving.
+
+**PROPOSED, second order:** a bloodline-clan child could never have been
+handed one of the legendary blades during a purge. So the succession is only
+available to him *because* of the claim. **The sword is the payment.**
+Nobody has to say so; the reader will do the arithmetic.
+
+### The flaw — blood rage
+
+**No close-range deficit.** Instead: **past a certain point he stops
+thinking and fights. Friend and foe alike.**
+
+---
+
+## 2g. What the threshold does — PROPOSED
+
+### The creed and the flaw are the same object
+
+*Stay your hand from the blood of the innocent* is a creed a man cannot
+keep in a state where he is not choosing. **He did not adopt a creed and
+then discover a flaw. He built the creed because of the flaw** — it is a
+governor written by a man who knows there are minutes of his life he does
+not attend. That is why the creed exists, why it is absolute, and why
+widening *not innocent* is so tempting: a wider definition is a smaller
+crime when the state takes him.
+
+### It gives the setting one law instead of three
+
+**The seals are where the specification lives. Anything that bypasses the
+seals bypasses the specification.**
+
+| State | Seals | Precision | Control |
+|---|---|---|---|
+| Working | yes | full | full |
+| **The threshold** | **no** | **crude** | **none** |
+| Sage (far off) | no | crude | **his** |
+
+So the rage does not make him better at his craft — **it strips the craft
+and leaves an animal with equipment.** And Sage Mode stops being a power-up
+and becomes **the cure**: the same seal-less access, chosen. That is worth a
+book of pursuit, it is thematically loaded, and it cannot be cashed early
+without also solving the thing the book is about.
+
+### Discipline — mandatory, or this becomes a win button
+
+A berserk state that wins fights is a power wearing a flaw's clothing, and
+that is precisely how book one widened twelve times. So:
+
+1. **The threshold's outcome is never net-positive.** It costs more than
+   losing the fight would have, every time it fires. If a chapter would be
+   easier because he rages, that chapter is wrong.
+2. **It does not scale with need.** It fires on load, not on stakes — so it
+   arrives in the wrong fights and stays away from the right ones.
+3. **He can measure everything about it except its arrival.** He is a man
+   who asks why and fixes things; he *will* have built bookkeeping around
+   this — thresholds, counts, warning signs, rules for who is allowed near
+   him and when. All of it accurate. None of it predictive. That is where
+   the interiority lives and it is what makes this something other than a
+   trope.
+4. **Somebody he did not want to hurt gets hurt, early, on the page.**
 
 ---
 
@@ -234,13 +312,10 @@ funnel, bind, delay. It is inherently pre-emptive, which is exactly what
 hand seals can afford: you cast before contact, because during contact you
 cannot.
 
-**And it makes the brothers a two-man unit.** Tadayoshi shapes the fight,
-the brother ends it. Their relationship *is* the fighting style, so every
-fight is also a scene about the two of them — and the permanent structural
-weakness writes itself:
-
-> **Alone, he cannot finish anything.** He can control a crowd and not kill
-> one man.
+> ~~**And it makes the brothers a two-man unit.** Alone, he cannot finish
+> anything.~~ **STRUCK — see §2f.** The brother is not an ally; he is the
+> betrayal. And there is no close-range deficit. The permanent weakness is
+> internal instead, and it is worse.
 
 That is a weakness that never needs arguing for, and the whole book is
 available in the question of what happens to a man whose style assumes his
@@ -256,8 +331,8 @@ so the costs go in now:
 2. **Made in advance is made with the time he had** — so what he is carrying
    today is a *bet on what today would be*. Being wrong about the day is a
    failure state, and should be one on the page.
-3. **Control fails against one good opponent.** Structurally. Permanently.
-4. **He cannot finish.** He needs the brother, a plan, or luck.
+3. ~~Control fails against one good opponent.~~ ~~**He cannot finish.**~~
+   **Both struck.** Replaced by the threshold — see §2f.
 
 *(Voice note: "crowd control" is a game term. The prose will want the
 clan's own word for it — a trade word, inherited, slightly wrong.)*
@@ -339,7 +414,15 @@ the same entry.** The ledger gets both columns this time.
 8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
-9. **What "canon-shattering" costs.** Which canon events move, and what the
+9. **Is the arrest the inciting event?** *Forty to eight* reads as the slow
+   decline; the brother's arrest then takes the eight, in chapter one, and
+   is why Tadayoshi is out in the world earning. Confirm — and say whether
+   the mother is taken, because if she is, the *one death from gone*
+   premise goes live immediately rather than hanging over the book.
+10. **Does the brother know about the threshold?** If he does, the arrest is
+   also a man removing something he is afraid of, and the betrayal gets a
+   second floor.
+11. **What "canon-shattering" costs.** Which canon events move, and what the
    book is prepared to lose by moving them.
 
 ---
