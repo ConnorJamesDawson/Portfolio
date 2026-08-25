@@ -2237,18 +2237,14 @@ Which is exactly why he must not be placed again.
 **The fourth cage, and this one has a door held open by a man who loves
 him.**
 
-### She is right and he is wrong
+### ~~She is right and he is wrong~~ — STRUCK, see §16
 
-§3b-iii's standing rule — *she must be right sometimes, or she is a lecture
-and not a character* — gets its most important instance here, and it should
-be the first one the reader cannot argue with:
-
-**The broken one, the one whose development will never improve, is the one
-who says no.** For possessive reasons, out of a pathology, by a rule she
-wrote for herself — and she is **correct**, and the two of them stay, and
-Kimimaro lives out whatever he has left among people who chose him.
-
-He will never be able to say she was right. He will know.
+~~The two of them refuse and stay.~~ **The author has ruled the other way
+and the other way is worse.** They both say no, and **he goes instead.**
+What survives from this section is Kimimaro's consent being the trap and
+the decision-and-its-impossibility being one scene. What dies is the idea
+that the refusal keeps the household together. It does not. It empties
+it.
 
 ---
 
@@ -2360,3 +2356,353 @@ to shape the ground, in the one weather where the ground cannot be found.**
 He hears it end. He never sees it.
 
 I would still take the graves.
+
+---
+
+## 13. LIVED-IN, THE HUNTERS, AND THE RETURN — AUTHOR
+
+**The book should feel lived in.**
+
+- **He meets Tsunade in a bar** while waiting for a client to bring his
+  payment.
+- **He talks to Zabuza months before the Gatō business**, on another job —
+  **because Zabuza recognises the eyes Tadayoshi has.**
+
+**HUNTER-NIN.** Sazare had **one team in the whole of his time as a
+fugitive.** That is not the case here.
+
+> **The more hunter-nin that fail, the better the ones that come.**
+> **That is the clock running in Tadayoshi's head.**
+
+**The village conversation.** He is **trying to be kind under the cover of
+losing the weight he has been dragging.** And when they both say no, **he
+turns around and says: *that's a shame. I'm going.***
+
+**The return.** **Kimimaro is dying. Uzuki can feel it and tells him** —
+**she cannot not say anything to Tadayoshi.** So **Tadayoshi decides to
+break his own rule to protect his family**, because **otherwise he is no
+better than his brother.**
+
+---
+
+## 14. WHAT "LIVED-IN" MEANS AS A RULE — PROPOSED
+
+### The anti-set-piece rule
+
+> **Every canon figure gets a first contact in which nothing happens.**
+
+Waiting on a payment. Sheltering out of rain. Two people at a counter. No
+recognition, no significance, no music. The world is not a set of plot nodes
+with corridors between them; it is **a place where you are killing an hour
+and somebody famous is also killing an hour.**
+
+Book one's diagnosis was that Ruri felt *slotted into gaps between canon
+events*. This is the fix, and it is a better one than writing around canon:
+**stop treating canon as events and start treating it as population.**
+
+### The world is full of people who have already run his experiment
+
+And this is the structural prize, because the two encounters the author has
+named are **not decoration — they are the two answers to his life**, met
+casually, before either matters:
+
+| Met | Is | The answer they are |
+|---|---|---|
+| **Zabuza, with Haku** | a man and the child who reorganised herself around him | **what happens if he keeps them** — §11c, and it ends on a bridge |
+| **Tsunade, in a bar** | a woman who walked away because everyone standing near her died | **what happens if he doesn't** — thirty years on, drunk, in debt, and still the best in the world at the one thing she will not do |
+| **Guren** (§3e) | a Ruri who got out before the worst | **what happens if you leave the compound at all** — and she is alive |
+
+**Three living arguments about his own doctrine, and he meets all three
+doing jobs.** That is what lived-in buys that atmosphere alone does not: it
+makes the texture *load-bearing*.
+
+### Tsunade specifically — and she is the act-three door
+
+She should not know who he is and he should not know who she is. She buys
+him something, or does not; she says one thing to a working child in a bar
+that he files without understanding and carries for years.
+
+**And she is the greatest medical mind alive.**
+
+So when Kimimaro is dying and Uzuki cannot fix him, the door out is a woman
+he already met — **and he recognises her, years late, off a woodcut in a
+medical text he is reading because a boy is coughing.**
+
+That is the whole "lived-in" principle paying a plot debt: *the casual
+encounter was the door, and he walked past it at twelve because he was
+waiting for money.*
+
+### Zabuza recognises the eyes — and it makes §10 work
+
+The Gatō conversation is a stranger persuading a mercenary, which is thin.
+**A prior fixes it.** Months earlier, another job, and Zabuza — a man who
+killed his entire graduating class and therefore knows precisely what it
+looks like when nobody is home behind a face — **speaks to him first.**
+
+Not kindly. Recognition is not sympathy. Something closer to *I know what
+you are, and you don't yet.*
+
+**And it makes Zabuza the only person who ever identified the threshold from
+outside, before Tadayoshi could name it himself.** Which is why the
+arithmetic lands at Gatō: Zabuza is not weighing a stranger's argument. He
+is weighing the argument of a boy he has already filed.
+
+### The texture rule, so this does not become cameo tourism
+
+1. **Nothing happens.** If a first contact advances a plot, it is not a
+   first contact, it is a scene wearing a hat.
+2. **He does not know who they are**, and the book does not tell the reader
+   either. No aside, no narrator's wink. The reader may recognise them.
+   That is between the reader and the reader.
+3. **One per stretch.** Rationed, or the world stops being large and starts
+   being small.
+4. **The payment must be structural, not sentimental.** Tsunade is a door.
+   Zabuza is a prior. Neither is a callback.
+
+---
+
+## 15. THE HUNTER CURVE — the organ book one did not have
+
+This is the most important thing in this message and it should be built
+first, because it is **the antagonist and the clock in one object**, arriving
+from the premise rather than from a design file.
+
+### The function
+
+> **Every hunter he kills is a specification handed to the state.**
+
+§3a already established that reactive armour leaks information — *every time
+it fires it publishes what his system expected*. Extend it to the whole
+career: a team that dies fighting him **dies having produced a report**, in
+wounds, in the field they were found in, in what was tried and did not work.
+Somebody in an office collates it. The next team is briefed off it.
+
+**So the curve is not the state getting angrier. It is the state getting
+better, at a rate he is personally setting.**
+
+That is the anti-widening rule promoted from a power constraint to **a plot
+engine**: his growth *is* the opposition's growth, mechanically, with no
+authorial thumb on the scale. There is no version of this book in which he
+gets stronger and the danger goes down.
+
+### And it is the only external grading he will ever receive
+
+No village, no rank, no exams, no peers, no promotion board.
+
+> **The quality of the people sent to kill him is the only assessment of
+> Tadayoshi Ruri that exists in the world.**
+
+He will keep the file. Of course he will keep the file — names where he has
+them, ranks, equipment, what they tried, how long it took, what it cost.
+And the file is a career record, ascending, and **the only way to learn he
+has improved is to survive somebody better.**
+
+He is pleased by it. That is the part to write, and it should frighten him.
+**Promotion by assassination attempt** is the coldest thing in the spec and
+it is entirely in character for a man who converts everything into a ledger.
+
+### It gives the brother a hand in every chapter without putting him in one
+
+**PROPOSED:** the brother does not come as a hunter — he is a swordsman in
+succession, not a corps operator. **He signs the tasking.**
+
+Rank means he sees the file. He selects the teams. So the escalation curve
+has **his brother's handwriting on it**, arriving every few months, and the
+vow (§2n) stops being a distant errand and becomes a correspondence.
+
+*He is being written to, in bodies, by the man who sold his mother.*
+
+### DISCIPLINE — or this is a shōnen ladder in a fugitive's coat
+
+A rising sequence of harder duels is exactly the widening trap in a new
+costume. So:
+
+1. **Most hunter contact is not a fight.** It is a lodging given up at two
+   in the morning, a client who stops answering, a broker who has been
+   spoken to, a road that is now watched, a cache burned before he can get
+   to it. **The curve is felt as shrinking options, not as bigger fights.**
+2. **The rising quantity is what it costs him, not how hard he hits.** Every
+   escalation should be priced in kit spent, contacts lost, ground given up,
+   and articles he cannot afford to replace (§7 — everything expires).
+3. **Most fights he wins, he loses something.** A cache, a contact, a place
+   he could sleep, the use of a hand for six weeks.
+4. **He can plot the curve and he does**, which means **he can compute the
+   date at which it exceeds him.** That number is the ticking. It is in a
+   book, it is revised after every engagement, and it moves.
+
+### And it is why the children have to go — arithmetic, not fear
+
+This is what the village decision has been missing, and it makes §11b's
+ruling airtight.
+
+He is not being protective. **He has a number.** The curve says the next
+team is better than the last one, forever, and he has estimated when it
+stops being survivable, and the estimate is not far away, and **anybody
+standing next to him on that date dies too.**
+
+> **He is not making a judgement about the children. He is reading a graph
+> about himself.**
+
+Which is exactly how this man reaches a decision, and exactly why the
+decision is delivered so badly.
+
+---
+
+## 16. THE VILLAGE CONVERSATION — AUTHOR's version, and it supersedes §11e
+
+### Cruelty is the only format he can carry, so the kindness goes inside it
+
+Book one's central technology, inverted:
+
+> *Do not walk up to him with a feeling. Walk up to him with a task that
+> contains the feeling.*
+
+Tadayoshi cannot say *I have a number and it says you die with me.* So he
+does what he can do: he says **they are slowing him down**, and offers them
+a village as though it were a disposal.
+
+**He picks cruelty as the carrier because cruelty does not require the
+missing organ.** Kindness would have to be aimed — it needs a model of what
+the other person needs, and §11d says he has never built one. Contempt needs
+nothing. He can deliver it flat, in the working voice, without help.
+
+> **He is being kind in the only register he can pronounce, and the register
+> is indistinguishable from the truth about what he thinks of them.**
+
+And the terrible part: **it is not even a lie.** They *are* tripping
+hazards (§11b). Every word of the cover story is accurate. That is why he
+chose it — he cannot lie well, so he found a true thing that would do the
+job.
+
+### *That's a shame. I'm going.*
+
+They both refuse. And he does not argue, because arguing requires the organ,
+and he has just spent an entire arc discovering he does not have it.
+
+So he says it, and he leaves.
+
+Four words in the flat register carrying the largest load in the book so
+far, and **the whole of the sentence's meaning is in what is not in it.**
+Do not decorate it. Do not follow it with an interior paragraph explaining
+what he felt. Let it be exactly as small as it is on the page, and let the
+next scene be him walking.
+
+### What it does to her, which is the point
+
+She refused to be put somewhere he was not — the one event her entire
+architecture exists to prevent (§3b-iii).
+
+**And then he removed himself anyway.**
+
+> **Everything Uzuki has ever lost was taken. This is the first thing that
+> left.**
+
+That is not a setback for her pathology. **It is the proof of it**, arriving
+from the one person who was supposed to be exempt, and it will harden into
+something that does not soften again. Whatever she becomes at fifteen and at
+twenty (§3b-iii — *she does not develop, she scales*), **this is the day the
+scaling starts.**
+
+### And Kimimaro
+
+He said no. Which is the first refusal of his life.
+
+**A boy whose entire existence has been being placed by other people
+declined a placement** — quietly, without an argument, probably in about
+four words — and the man who taught him it was possible walked out of the
+door on the strength of it.
+
+*(§11e's Kimimaro-consents trap still holds as the thing Tadayoshi
+**intended** and did not get. He came to place him. The boy had learned
+something from him that he never taught on purpose.)*
+
+---
+
+## 17. THE RETURN, AND THE RULE HE BREAKS — AUTHOR ruling, extended
+
+### She cannot withhold, and that is what saves everything
+
+> **The book is about withholding. The one person in it who is incapable of
+> it is the one who brings him back.**
+
+§3c already had this as her defining property — *she is the only person in
+his life who has never lied to him* — and §3b-iii ruled that she must be
+**right** sometimes, and an asset before he admits it. **This is the
+instance that matters.** She does not send for him out of strategy. She
+sends for him because she physically cannot hold a true thing about him and
+not say it, which is the exact defect he has spent his life curing in
+himself.
+
+His entire doctrine says that is a weakness. It is the only reason Kimimaro
+is not going to die alone.
+
+### The rule, and why it is that one
+
+*Otherwise he is no better than his brother* names it precisely.
+
+> **He left his family to keep them alive. His brother left his family to
+> stay alive. From the outside — and to a child — those are the same act.**
+
+The only thing separating them is a reason, held privately, unspoken, inside
+a man who cannot produce it on demand. **Which is worth nothing.** A reason
+nobody can audit is not a reason; §2n's whole vow rests on the principle
+that what cannot be checked is rot.
+
+So the rule he breaks is **the doctrine itself** — *a shinobi should stand
+alone; needing protection makes people complacent* — and he breaks it by
+**coming back**, which is the single act his entire philosophy forbids.
+
+And it is not a change of heart. It is a **finding**: staying away is
+indistinguishable from the betrayal, and he is a man who has spent his life
+insisting that indistinguishable means identical.
+
+> **He does not return because he loves them. He returns because he
+> checked, and the arithmetic made him his brother.**
+
+Which is far colder, entirely in character, and lands harder than warmth
+would.
+
+### PROPOSED — the second rule, and it is the price
+
+Coming back does not save Kimimaro. It only puts him in the room.
+
+Kimimaro is dying, Uzuki has basics, and **the one asset Tadayoshi has never
+spent is the theory** — kept back since §2d for the military advantage it
+gives him, which is the adult version of his mother's *keep it to yourself*
+with the reason swapped out (§2o).
+
+To buy help he has to **give it away**: to a specialist, to a village, to a
+woman in a bar.
+
+**And he has to ask, out loud, from a person.**
+
+Which is §2c's engine arriving at its destination:
+
+> *He acts instead of saying. The true sentence never gets said, because he
+> keeps making it unnecessary by fixing the problem first.*
+>
+> **A disease cannot be got by going and getting it.**
+
+That is the class of problem the premise promised and this is where it
+lands. He cannot fabricate his way out, he cannot walk into a room and take
+it, and there is no article that fixes a boy's lungs. **He has to open his
+mouth and ask a stranger for help**, in a register he does not own, holding
+out the one thing he has never let go of, for a life he cannot save himself.
+
+*(Author call on whether both rules break or only the first. The isolation
+is the one the ruling names; the theory is the one it costs. I would spend
+both, and I would spend them in that order.)*
+
+### And the threshold is now in the house
+
+He has come back, which means the two people who are not allowed inside the
+perimeter are inside it, permanently, by his own decision — and the curve
+(§15) says the next team is better than the last.
+
+**He has broken the distance rule as a consequence of breaking the isolation
+rule**, and §11b's three-part setup is now armed: the household's only law
+is void, the hazard field is where they live, and there is a state in which
+he cannot tell them from targets.
+
+**Nothing about that has to be foreshadowed further. It only has to be
+allowed to happen.**
