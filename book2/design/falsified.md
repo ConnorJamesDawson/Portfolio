@@ -108,6 +108,15 @@ a widening with paperwork.
 | **Replacement constraint** | **The household was a search party and nobody ever called it one.** A search for a living person can have passengers; **an execution cannot.** So the true sentence under *you are slowing me down* is **I no longer have a destination you could share** — and **he does not say it.** The curve is demoted to the supporting reason, which is also the honest one: the number was always true and he never acted on it. **He acts the week the search ends.** |
 | **Net** | **Constraint added.** The dead version let him lose his family to a defensible calculation. This one loses it to **a withheld sentence** — and Uzuki, told a year late, works out in two seconds that **she would have gone.** It is the one thing she was never given the chance to volunteer for, and neither of them can undo it. |
 
+### #11 — KIMIMARO DOES NOT APPEAR IN ACT ONE
+
+| | |
+|---|---|
+| **Killed** | `act-1.md` as first written: *"Not in act one, at all: the creed, **Kimimaro**, Orochimaru…"* Two threads, converging at ch11; he arrives in act two with the shipment. |
+| **By** | Author, pointing out the person missing from the plan. **The book is parallel-lives by design, and act one is the act that establishes the form.** Introducing a third protagonist a quarter of the way in makes him a rescued object rather than a person the reader has been living with — **the exact flaw already flagged and fixed for Uzuki**, walked into for Kimimaro. |
+| **Replacement constraint** | **Three threads from ch1, and his is a cell, which is a waiting room unless it is given opposition.** So: **the antagonist is the man who values him** — he is stock, held pending a buyer, assessed at intervals, **and the illness has started.** That is the same machine that later kills Mikage, running two years early, on a child, in another building. **And he is not passive in it: he works, every day, at being valuable enough not to be discarded, and nobody taught him to.** Formal rules attached — his scenes are **always the shortest in the chapter**, they **never open with a time or a place**, and his grammar is **counted and anchored to nothing** against Tadayoshi's dated ledger. |
+| **Net** | **Constraint added.** The dead version gave act one a cleaner two-hander. This one costs 12% of the page budget, forces the cell to earn its place against the waiting-room rule, and buys the act its best structural move: **ch10 puts two children in boxes, in two countries, waiting for the same buyer, and neither knows the other exists.** |
+
 ---
 
 ## Strains bought, with prices

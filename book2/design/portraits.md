@@ -471,6 +471,37 @@ and *I will* and *may I*.
 - **He answers questions that were not addressed to him** if they were
   audible, because he has no model of a conversation having participants.
 
+### Before the rescue: he is working at being worth keeping
+
+**Two years in a cell before act one opens, and one more to go**, and he is
+not idle in it.
+
+**He is stock, held pending a buyer, and he is assessed at intervals.** So he
+works at it — at being valuable enough not to be discarded — **and nobody
+taught him to. He worked it out.**
+
+> **The one initiative of his life was spent on making himself better
+> property.**
+
+That is the origin of everything: the boy who asks permission to eat, and
+the boy who later asks to be used, and the specification he accepts
+gratefully.
+
+**And he sees what happens to stock that stops being worth it.** Another
+held child fails an inspection. **He never learns the child's name — he
+counts them instead — and then he works harder.**
+
+### Counted, not dated — his interior grammar
+
+**He counts.** Meals, footsteps, the number of times a door opens, days
+since the last inspection. **And he does not know what month it is**, so
+every number he holds is relative and none of them fix to anything.
+
+> **Tadayoshi numbers everything and knows exactly when. Kimimaro counts
+> everything and knows nothing.**
+
+**The first thing Tadayoshi is ever able to give him is a date.**
+
 ### The tic: he mirrors
 
 He has no habits of his own, so **he copies, exactly, without
