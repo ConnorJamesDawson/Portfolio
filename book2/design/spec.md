@@ -268,6 +268,109 @@ Red-haired Uzumaki child. **Not village-trained.**
 
 ---
 
+## 3e. THE CLOCK — derived from book one's world-bible
+
+**Uzuki.** Name settled.
+
+### What canon actually establishes about Kimimaro
+
+Stated plainly, because the confidence is not uniform:
+
+**High confidence.** The Kaguya clan attacked Kirigakure unprovoked and were
+annihilated. Kimimaro alone survived. He had been **caged by his own clan
+before the assault** — they let him out to fight. Afterwards he was
+**imprisoned**, and Orochimaru **collected** him and gave him a purpose he
+had not had. He is around fifteen when he dies in the Retrieval arc, of a
+terminal illness.
+
+**Lower confidence / reconstructed.** The exact year of the assault, his
+exact age at collection, and **how long he sat imprisoned between the two.**
+Canon does not pin that gap.
+
+**That undated gap is the whole opportunity.**
+
+### Book one's table, which is the authority here
+
+`world-bible.md` already dates this era, counting back from Part I, and
+already flags that it is databook-derived and approximate:
+
+| Event | Approx. | Book two reading |
+|---|---|---|
+| Zabuza's academy massacre | ~16 pre-P1 | ends the death-match exam |
+| **MC born** | ~17 pre-P1 | **Tadayoshi born** |
+| **Kimimaro born** | ~15 pre-P1 | **two years younger** |
+| MC enrols | ~10 pre-P1 | Tadayoshi is 7 |
+| **Kaguya assault** | ~8–10 pre-P1 | Tadayoshi ~7–9 |
+| **Zabuza's coup** | **~6 pre-P1** | **Zabuza 20, Kimimaro 9, Tadayoshi ~11** |
+
+### PROPOSED — the sequence, dated
+
+| Pre-P1 | Tadayoshi | Event |
+|---|---|---|
+| ~10 | 7 | Academy. The class transfer; the form says aptitude. |
+| ~9 | 8 | **Fixes the tone. Shows his mother. Told to hide it.** |
+| ~8 | 9 | **The Kaguya assault.** Per act-1 beat 8, he sees the aftermath: *a boy his own age carried past in a cage.* **He does not learn the name.** |
+| ~7 | **10** | **The warrant.** The arrest, the mother taken, the family disposed of. The genin team. The recruitment. |
+| ~7–6 | 10–11 | Contracts. The monastery. **Uzuki.** |
+| **~6** | **11** | **Zabuza's coup — and Kimimaro, 9, still held.** |
+
+### THE CONVERGENCE — it is already in the timeline
+
+**Zabuza's failed coup at ~6 pre-P1 is the big event.** It is where the
+threads arrive:
+
+- Tadayoshi, fugitive, resistance-adjacent, hunting his mother
+- Uzuki, attached, travelling with him
+- **Kimimaro, in a cell, extractable precisely because the village is in
+  disorder**
+- and canon's own escalation into civil war
+
+A failed coup is exactly when a facility holding assets becomes reachable by
+one child with crowd-control crystal. **The extraction does not need a
+contrivance; it needs a riot, and canon supplies one on the correct date.**
+
+### Why Tadayoshi gets there first — and it costs nothing
+
+Kimimaro is not awaiting trial. **He is held, like the mother is held** — a
+bloodline child in the same machine, inventory rather than prisoner. Which
+means Tadayoshi can plausibly encounter him **while looking for her**, and
+the two searches are one search.
+
+**And it makes the team what it should be: three children taken off
+Orochimaru's shopping list.** Uzuki was being sold to him. Kimimaro was
+awaiting collection. By act two the snake has a pattern and a question —
+*who keeps taking my inventory* — which is an antagonist and a clock,
+arriving from material already on the page rather than invented.
+
+**Ruling wanted:** does Orochimaru know, and when? A snake who has lost
+assets to an unknown child is an investigator. One who knows the name is an
+enemy. They are different books.
+
+### Two consequences to settle before writing
+
+1. **Kimimaro joins at nine with a six-year fuse.** Canonically he dies of
+   illness at about fifteen. Either the book keeps that — a team member with
+   a dated ending, which is built-in tragedy and thematically exact for a
+   book about harvested children — or *canon-shattering* changes it. Decide
+   deliberately; do not discover it in act four.
+2. **This is the fix for Uzuki's craft flag.** She needs to want something
+   that is not Tadayoshi. **She wants to save Kimimaro.** She is the medic;
+   he is dying; and she cannot do it. That is her own story, running under
+   the attachment, and it gives her a defeat that is hers alone.
+
+### Guren, corrected upward
+
+`world-bible.md` already rules that **Guren is a Ruri** — family who got out
+before the worst, spoken of by the purity faction as cowards. So she is not
+merely another crystal user who invalidates the sword's clause.
+
+**She is proof that leaving worked**, to a man whose entire identity is
+being the last one and whose politics say institutions rot you. Somebody
+walked away from the compound and is alive, and he is the one standing in
+the wreckage.
+
+---
+
 ## 3b-ii. THE TEAM, AND WHAT SHE BECOMES — AUTHOR
 
 - **She is the same age as Tadayoshi.**
@@ -447,7 +550,7 @@ a prop.
 
 ## 3d. OPEN on the second thread
 
-- **Her name** — options tabled, awaiting ruling.
+- ~~Her name~~ **SETTLED: Uzuki.**
 - ~~Age~~ **SETTLED: same as Tadayoshi.** But **the two clocks still need
   pinning to the month.** Her sequence needs real time in it — a father
   sickening, a death, a mother remarrying, an abuse escalating, a flight, a
@@ -457,9 +560,9 @@ a prop.
 - ~~Thread count~~ **SETTLED: duo, then Kimimaro.**
 - ~~Does the courier scene complete~~ **SETTLED: no — contract annulled,
   client dead on arrival.**
-- **NEW: when and how does Kimimaro arrive**, and does Orochimaru know he
-  was taken? A snake who has lost an asset to a child is a different
-  antagonist from one who never knew.
+- ~~When does Kimimaro arrive~~ **PROPOSED in §3e: the coup, ~6 pre-P1, at
+  nine.** Awaiting ruling — along with whether Orochimaru learns of it, and
+  whether Kimimaro's canonical six-year fuse is kept or shattered.
 
 ---
 
