@@ -13,7 +13,8 @@
 > |---|---|
 > | `README.md` | the index, and the three binding rules |
 > | `timeline.md` | **every age and date. Anchor, not output.** |
-> | `character.md` | the cast, and each POV's interior grammar |
+> | `character.md` | the cast — what each person is **for** |
+> | `portraits.md` | look, manner, voice, and what changes each year |
 > | `combat.md` | the power, the kit, the threshold, the hunter curve |
 > | `structure.md` | the four acts, the pipeline, every major sequence |
 > | `falsified.md` | every dead rule, two columns |

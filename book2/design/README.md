@@ -11,7 +11,8 @@ New timeline; Sazare Ruri does not exist.
 |---|---|---|
 | **`README.md`** | this index, and the three binding rules | live |
 | **`timeline.md`** | **every age and date. Anchor, not output.** | live |
-| **`character.md`** | the cast, and each POV's interior grammar | live |
+| **`character.md`** | the cast — what each person is **for** | live |
+| **`portraits.md`** | look, manner, voice, and what changes each year | live |
 | **`combat.md`** | the power, the kit, the threshold, the hunter curve | live |
 | **`structure.md`** | the four acts, the pipeline, and every major sequence | live |
 | **`falsified.md`** | every rule this project has killed, two columns | live |

@@ -1,6 +1,10 @@
-# Character
+# Character — what each person is FOR
 
 Interior grammar is the job. Every POV gets its own, and no two share one.
+
+**Companion: `portraits.md`** — look, manner, voice, tics, and the year-by-
+year change tables. This file is mechanism; that one is surface. Read both
+before writing anybody.
 
 ---
 
