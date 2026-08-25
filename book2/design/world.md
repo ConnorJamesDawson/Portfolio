@@ -95,7 +95,12 @@ somewhere he never named, and **nobody has ever asked what it replaced.**
 | **Ōgi** | eleven miles. Mill, cooper, carter's yard, market. |
 | **Fusano** | the other run. A man there owes for a barrel. |
 | **Kannomori** | the shortcut. Forbidden. |
-| **Kayano** | **three days if the road's dry. There is a medic.** |
+| **the wood** | two miles through, a mile past the third milestone on the north road. Three men sat on the bank in it and nothing happened. |
+| **Sanzu** | the fork where the slate road parts from the north road |
+| **Ine / Tarō** | slate cart, Sanzu-ward. *You never find out.* |
+| **Kayano** | four days as walked. A bridge with shops on it. |
+| **Anzai** | **the medic.** Bottom of Kanmuri lane, green door that was blue, a step down you go over. Has a girl who runs errands. |
+| **the tannery** | where a pit went in on the Tuesday, and where Anzai has been since |
 | **Tazu** | old, sixty-ish, a garden of things and a shelf of jars. Not a doctor. Set her wrist at seven and did it well. |
 | **Iwasa's boy** | fourteen, a barrow, no sense. Has the mill now. |
 
@@ -162,7 +167,9 @@ be presented for assessment in the year of their eighth birthday.*
 | **Sagara Nagi** | the recurring hunter |
 | **Enkai** | the monastery elder |
 | **Sōta** | the boy *(withheld from the page until he returns)* |
-| **Aoyagi** | the Academy instructor. Fifty-ish, decent, tired. |
+| **Aoyagi** | the Academy instructor. Fifty-ish, decent, tired. **Sent a boy to the ferry with a message that was nothing.** |
+| **Kōsuke** | the second boat at the ferry stair. Long face, no hat. Never knew what the fourth was. |
+| **Take's house** | third from the end on the sixth course. A bed that will not go through the door. |
 | **Sakuma** | returns office, fourth floor, Kirigakure. Keeps a slip with the files-cleared count. **Returns once, much later, and does not remember the file.** |
 | **Ryūta** | eleven. Tadayoshi broke his arm last year. Asked him a good question once and did not finish it. |
 | **Kenji** | Kanaya's man at the Ōura counter — **see the plant above** |
