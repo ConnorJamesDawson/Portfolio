@@ -99,6 +99,15 @@ a widening with paperwork.
 | **Replacement constraint** | **The tone is not a sensor. It is correspondence, and correspondence has an author.** From year 2 it is corrupted twice — **lag** (prison crystal circulates for years, so her hand keeps arriving after she is dead) and **forgery** (Kongō lays her courses on purpose, to keep a boy hunting a living mother coming). Neither announces itself. **He catches it as a data anomaly** — the chart stops flattening — and then cannot date the death, because pieces circulate. |
 | **Net** | **Constraint added, and it is the largest in the file.** The instrument he built out of love now **lies to him for a year**, the man forging it is doing it partly as bait, and the same flattening that told him she was dying is what told an accountant to dispose of her. **Two people reading the same chart; one of them is her son and the other one decides.** |
 
+### #10 — THE VILLAGE DECISION IS DRIVEN BY THE HUNTER CURVE
+
+| | |
+|---|---|
+| **Killed** | *"He is not making a judgement about the children. He is reading a graph about himself."* The separation was motivated by the curve's arithmetic — he has a number, and anybody standing next to him on that date dies too. |
+| **By** | Author ruling: **the detection sits before Wave, and without his mother only his brother ties him to Kiri. That is where the separation happens.** |
+| **Replacement constraint** | **The household was a search party and nobody ever called it one.** A search for a living person can have passengers; **an execution cannot.** So the true sentence under *you are slowing me down* is **I no longer have a destination you could share** — and **he does not say it.** The curve is demoted to the supporting reason, which is also the honest one: the number was always true and he never acted on it. **He acts the week the search ends.** |
+| **Net** | **Constraint added.** The dead version let him lose his family to a defensible calculation. This one loses it to **a withheld sentence** — and Uzuki, told a year late, works out in two seconds that **she would have gone.** It is the one thing she was never given the chance to volunteer for, and neither of them can undo it. |
+
 ---
 
 ## Strains bought, with prices

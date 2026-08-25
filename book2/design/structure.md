@@ -94,14 +94,59 @@ installs himself, halfway down, out of his own pocket, at a cost.**
 - **The break with the resistance.** He walks out with two children and no
   organisation, **which is the moment he becomes the institution.**
 
-### ACT THREE — age 12. *The pipeline, and the doctrine tested*
+### ACT THREE — age 12. *The pipeline, and the end of the search*
 
 - **The boilerplate** (§4). The ports. Gatō.
 - **Zabuza, months earlier, on another job** — because he recognises the
   eyes.
 - **Gatō and Zabuza.** Zabuza nails the location down **and keeps the
   proceeds.**
+- **THE TONE PLATEAUS.** He works out that his mother has been dead for
+  about a year. **He tells nobody.**
 - **The village conversation.** Refused. *That's a shame. I'm going.*
+
+#### The separation has a cause now, and it is not arithmetic
+
+> **Without his mother, only his brother ties him to Kiri.**
+
+The household was never described as a search party and **that is exactly
+what it was.** He was looking for somebody. Two children attached themselves
+to a man walking toward a destination, and the destination has just been
+taken off the map.
+
+**What is left is a vow — and a vow is not a thing you can bring people
+along for.** A search for a living person can have passengers. **An
+execution cannot.**
+
+So when he tells them they are slowing him down, the true sentence
+underneath it is not *you are a liability.* It is:
+
+> **I no longer have a destination you could share.**
+
+**The hunter curve is still true and it is now the supporting reason, not
+the load-bearing one** (`combat.md` §10). He does have a number and the
+number is real. But the number was always true and he never acted on it —
+**he acts the week the search ends**, and that is the honest causation.
+
+#### And it stacks correctly with Zabuza and Haku
+
+Two causes, sequential, both needed:
+
+| | Tells him |
+|---|---|
+| **Zabuza and Haku** (§`character.md`) | **what keeping them produces** — a boy in a mask on a bridge |
+| **The plateau** | **that he no longer has a reason to** |
+
+The worked example gives him the fear. The death gives him the permission.
+
+#### The withheld sentence is what actually costs him
+
+**He does not tell them.** She refuses a village without being told why one
+is being offered.
+
+**And she would have gone** — to Kiri, after his brother, gladly
+(`portraits.md`). It is the one thing she was never given the chance to
+volunteer for, and both of them work that out a year too late.
 
 ### ACT FOUR — age 13. *The return, and the door*
 

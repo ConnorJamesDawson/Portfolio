@@ -454,6 +454,12 @@ a work horse for her crystals. Which sets arc one's engine:
 
 > **The better Tadayoshi gets, the more valuable a lever she is.**
 
+**And she is the household's unstated purpose.** Nobody ever calls it a
+search party. **That is what it is** — two children attached to a man
+walking toward a destination — and when he learns at twelve that the
+destination is gone, the household has no stated reason to exist and he
+cannot supply one. See `structure.md`, act three.
+
 **And her work is in circulation.** Prison-labour crystal is sold, issued,
 worn, fitted — so her hand is on brooches in shop windows, on soldiers'
 fittings, on a client's wife. **He fixed the tone; he can hear it.** He can

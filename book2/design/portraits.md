@@ -1292,9 +1292,91 @@ pieces circulate and he does not know the lag. **Another unobtainable
 number, in a book full of them** — and this one he built the instrument for
 himself.
 
-*(Placement of the detection is OPEN. After the door is the natural home —
-that is when he first has a hospital, a ledger, and time — but it risks
-overloading act four. Decide deliberately.)*
+### PLACEMENT — RULED: age 12, after Gatō, immediately before the village
+### conversation. It is the cause of the separation.
+
+**She has been dead about a year when he finds out. Twelve months of
+reading a dead woman.**
+
+And it arrives second in a pair, in the same weeks:
+
+1. **Zabuza nails the location down and keeps the proceeds.** The first time
+   he needed a person instead of an article, the person did the job properly
+   and took the money.
+2. **The tone lies.**
+
+> **His doctrine is *trust nothing you cannot hold*. He could hold the tone.
+> He could hold it in his hand and read it. And it lied to him for a year.**
+
+**Both blows are betrayals by a channel he trusted**, one made of a man and
+one made of stone, and there is nothing left after them except a person he
+intends to kill.
+
+### Why the forgery fails: he cannot fake getting worse
+
+**Kongō's hand is too steady.**
+
+A dying woman's work declines unevenly — bad weeks, a good day, a slow
+slide. **A craftsman with fifty years of pride cannot make himself decline
+convincingly.** He lays it level, because level is what he is, and he cannot
+help it.
+
+> **The one thing Kongō cannot fake is getting worse.**
+
+Which is why the detection is a plateau and not a drop, and why it is
+character rather than contrivance.
+
+*(The lag gives him his runway: pieces made before her death circulate for
+months, so he has time to learn her hand before a gap would show. The
+forgery is good. It is only ever betrayed by being good.)*
+
+### What he concludes — and the true thing he cannot use
+
+**He gets the first half right: she is dead, and somebody is still stamping
+her work.**
+
+He assumes the mundane explanation — a facility keeping its books straight
+by attributing output to a worker who is no longer there. Bureaucratic
+fraud. He has seen worse on a job sheet.
+
+**And he records the second implication correctly, and cannot make it mean
+anything:**
+
+> *The pieces are still laid. Somebody in that building has the gift.*
+
+The only Ruri he knows of are himself and, later, Guren — and Guren is not
+in a Kiri workshop. **So a true finding sits in his book, dated, in his own
+hand, from when he was twelve, and does nothing for years.**
+
+When he eventually stands in front of Kongō, **the entry is already there.**
+
+---
+
+## AND HE DOES NOT TELL HER
+
+He can withhold. **She cannot.** The two defects put side by side, and this
+is where the book collects on it.
+
+**He goes home and offers them a village and never says why.**
+
+So Uzuki refuses a village **without being told the reason one is being
+offered**. Kimimaro refuses too. And he says *that's a shame, I'm going*, and
+goes.
+
+> **None of it goes the same way if he says one sentence.**
+
+**And when she finds out — in year 3, from him, after Kimimaro — she does
+the arithmetic in about two seconds.**
+
+> **She would have gone.** To Kiri, after his brother, without hesitating,
+> and she would have called it the best day of her life. **It is the one
+> thing she was never given the chance to volunteer for.**
+
+Neither of them can undo it. Neither of them ever mentions it again.
+
+**That is the book's engine landing on its protagonist at full weight:** the
+question was always *can this person say a true thing out loud and what does
+it cost*, and here **not saying it costs him the household.**
 
 ## What five deaths have to do to be grief and not arithmetic
 
