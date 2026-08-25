@@ -165,6 +165,38 @@ wound.
 > thing. He will be horrified by her and unable to say why, because saying
 > why means saying his own doctrine is wrong.
 
+### She was priced twice, and it is the same harvest
+
+**She is a beauty** — see `portraits.md`, including the hard rule that the
+narration never says so.
+
+It makes the trafficking literal rather than thematic. *The snake pays well
+for children like her*, and then, in the same building, *the offer never
+said she had to be pure.* **Two buyers, two valuations, one child**, and the
+second one was not about her bloodline at all.
+
+> **His trade is a bloodline the state harvests. Hers is a body a market
+> harvests. It is the same machine with two price lists**, and she is the
+> only person in the book who was on both.
+
+Which is why being wanted is not flattering to her and never will be. **It
+is the sound of the room she was locked in.**
+
+### She becomes his interface, and that is alarming
+
+The late-book consequence of the beauty, and it earns itself:
+
+**She has social access he will never have.** By fifteen she can get into
+rooms, get answers out of people, and be remembered by exactly the people it
+is useful to be remembered by — and by twenty she is running his
+correspondence and his contracts because she is *good at it*.
+
+> **The man who cannot read a room ends up represented, everywhere, by a
+> woman who reads rooms perfectly and has one loyalty.**
+
+The organ he lacks, supplied at last, by the person least safe to supply it.
+And he will not be able to give it up, because it works.
+
 ### She does not develop. She SCALES.
 
 Her mental development will not improve — author ruling, and stasis over

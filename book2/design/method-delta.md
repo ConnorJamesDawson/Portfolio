@@ -104,14 +104,31 @@ Kata, tone, job sheets, people. **It should be visible in how the sentences
 move**, not just in what he does — the same instinct that finds the dead
 part of a form finds the dead clause in a paragraph.
 
-## 8. THE SERIES MUST BE MAINTAINED
+## 8. THE UNSTATED FACT
+
+**Some facts are conveyed only by their effects, and the narration never
+states them.**
+
+The standing case is Uzuki's beauty: **no POV describes it, ever** — she is
+ten, and then thirteen, and a book that looks at her is a book that cannot
+be read. It arrives through **how rooms change, how prices change, how long
+a man takes to answer**, and through Tadayoshi filing the effect as a
+security finding without ever locating the cause.
+
+**The general rule this instantiates:** where a fact would be cheapened or
+poisoned by narration, give the reader the *behaviour it causes* and let
+them assemble it. **The prose earns more by refusing to say it**, and this
+project's whole method — *prefer the object to the statement* — already
+says so.
+
+## 9. THE SERIES MUST BE MAINTAINED
 
 Four running quantities (`threads.md`): the mother's tone, Kimimaro's
 decline, the hunter curve, the trafficking count. **A series that stops
 being maintained is a series the reader stops believing.** If one has not
 been touched in six chapters, the book has quietly dropped an instrument.
 
-## 9. NO SILENT CAPS
+## 10. NO SILENT CAPS
 
 If a chapter skips something the ledgers say should have happened —
 a hunter contact, a kit expiry, a reading — **say so on the page.** A

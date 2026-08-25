@@ -175,6 +175,104 @@ hide**, because he has costed it. She will do it instantly and gladly, and
 Kakashi's whole decision turns on a girl showing her hair because a boy told
 her to. **Nobody in that scene knows what they are doing.**
 
+### THE THING THE BOOK NEVER SAYS
+
+**She is a beauty.** The Uzumaki equivalent of Hinata — and bound to one
+person **by complete choice.**
+
+> ## ⚠ HARD RULE: the narration never describes it. Not once.
+>
+> **No POV in this book calls her beautiful, or dwells on her face, or
+> catalogues her.** She is ten, and then thirteen, and a book that looks at
+> her is a book that cannot be read.
+>
+> **It is conveyed entirely through other people's behaviour, and through
+> what it costs.** How a room reorients. How a price changes. How long a man
+> takes to answer. What an innkeeper does with a key. **The reader assembles
+> it and the prose never states it.**
+
+### And in his POV it is a logistics problem
+
+This is the best version and it is also the most in-character one.
+
+He can read a kata in forty seconds and **he cannot see the most obvious
+fact about the person standing next to him** — not out of restraint, out of
+the missing organ. What reaches him is the **effect**, never the cause, and
+he files the effect:
+
+> *She cannot be sent for anything alone. Not because she is unsafe —
+> because the errand takes longer and it is remembered.*
+
+**He writes her beauty into a security log without ever once knowing that is
+what he is describing.** And it should be the coldest, most accurate
+paragraph in the chapter.
+
+> **She is beautiful, and it is the one thing about her that has never been
+> mentioned by the person she has organised her life around.**
+
+### It is not an asset. It is a trigger.
+
+She is not flattered. She has never been flattered.
+
+**Being wanted is how she nearly ended** — the monastery priced her twice,
+for the blood and for the rest, and one of the men in that room said so out
+loud. So every approach, every compliment, every man who looks a beat too
+long arrives at her as **the same event, recurring.**
+
+> **A beautiful girl who reacts to being admired the way other people react
+> to being followed.**
+
+Which is what actually arms `character.md`'s *anybody touching him loses the
+hand* — because the far more frequent problem is people touching **her**,
+and her response is not jealousy and not fear. **It is calm, procedural, and
+disproportionate**, under a rule she can state.
+
+### The dye was never protection
+
+Her father hid the blood. **He could only solve one of the two problems, and
+he solved the wrong one** — she was six, and it did not occur to him that
+there would be another.
+
+**The monastery elder saw both at once and priced both.**
+
+So the hair sequence carries more weight than it looked: dyeing it never
+made her un-lookable-at. It only ever hid *which* thing she was worth.
+
+### The Hinata inversion, precisely
+
+| | Hinata | Uzuki |
+|---|---|---|
+| Distance | admires from years away | never more than a few feet |
+| Speech | **cannot say it** | **cannot stop saying it** |
+| Effect on her | makes her braver — she grows **toward** him | makes her narrower — she grows **around** him |
+| His knowledge | oblivious for years, then learns | he knows, and can do nothing with it |
+| Her clan | one that watches everything | one that was hunted to nothing |
+| The declaration | the hardest thing she ever does | the easiest; she has never withheld it |
+
+> **Hinata's love is the thing she cannot say. Uzuki's is the thing she
+> cannot stop saying** — and book one was about a man who could not say a
+> true thing out loud. **This one stands him next to the person who says
+> everything, always, and he still cannot.**
+
+**Hinata has a clan telling her she is not enough. Uzuki has no clan at
+all.** She has one person, which is why the devotion has nowhere to
+distribute and no ceiling.
+
+### "By complete choice" — and the book must hold the line
+
+The reading that ruins her is *trauma-bonded child who cannot help it*. That
+is pity, and pity is not a character.
+
+**She chose. She can state why. She would choose again.** And by fifteen she
+has had every opportunity to leave and has declined all of them, knowingly,
+which is what makes it a choice rather than an imprint.
+
+> **She has re-chosen it several hundred times, and she keeps a record.**
+
+That is `character.md`'s standing rule in its strongest form: **her
+reasoning is internally consistent, she can produce it on demand, and it is
+wrong in a way she cannot see.**
+
 ### Build and hands — the inversion of him
 
 **Uzumaki.** Robust, heals fast, tires slowly. Not small — **by twelve she
@@ -229,7 +327,7 @@ he is gone this is the whole of her on the page.
 | **10** | Underfed, and it shows in the wrists and the hair. Somebody else's coat. | — |
 | **11** | Eating. It shows within two months, and it is the first thing about her that reads as recovery. | **She starts filing her nails**, and it is the first thing she does for herself. |
 | **12** | Taller than him. Competent. Carrying a medical kit she assembled and can inventory from memory. | **The politeness has become procedure**, and procedure is what she does the frightening things inside. |
-| **13** | A young woman who stands in one specific place. | **The hair, shown, at a gate.** |
+| **13** | A young woman who stands in one specific place, and every room she walks into does something. | **The hair, shown, at a gate** — and a jōnin who knew Kushina has to decide what to do about it. |
 
 ---
 
@@ -376,6 +474,7 @@ of a brooch in a shop window and the reader learns her that way too.**
 | **Speech** | he says only what is accurate | **she says everything, immediately** |
 | **Decisions** | he cannot stop making them | **Kimimaro has never made one** |
 | **Ruin** | his hands are cracked open | **his mother's are worn smooth** |
+| **Being seen** | nobody looks at him twice | **every room looks at her, and he is the only one who does not** |
 | **The reading** | he reads his mother off crystal | **she reads Kimimaro off a stopwatch** |
 
 ---
@@ -389,3 +488,5 @@ Before any scene with two or more of them in it:
 2. **Are his gloves on or off?** It is never neutral.
 3. **Has anybody told Kimimaro he may?**
 4. **What does not fit today?** That is where the year is.
+5. **Who in this room has looked at her too long, and has she counted
+   them?** She has. She always has.
