@@ -441,6 +441,43 @@ education.
 
 ---
 
+## 11b. THE PALM — Uzuki's craft, fixed on the page in ch4
+
+**It is not a jutsu.** The named technique takes about six years and
+somebody standing over you for four of them. **What she has is the habit
+underneath it**, and *about one person in nine can do it at all.*
+
+**The four steps, in order:**
+
+1. **Find it. Hold it. Don't spend it.** Getting hold of it is already a
+   push.
+2. **Take something out before you put anything in.** *Hand on. What's
+   different. Where does it hurt. And do those two agree.* **They disagree
+   about half the time**, and that is three quarters of the diagnostic
+   art.
+3. **A thimble out — and STOP.** *Stopping is a separate action and it
+   takes as much as the going does.* Trailing off is not stopping.
+4. **LITTLE. STOP. WAIT. Ninety times.** A twenty-five-minute treatment is
+   ninety separate goes, and **the gaps are where the work is.**
+
+**Constraints, all of them load-bearing:**
+
+- **Hold it on continuously and you cook them and are on the floor in
+  four minutes.**
+- **At about the sixtieth you are certain it is not working and want to
+  push. Pushing undoes the hour.**
+- **You cannot tell during.** Forty seconds after the hands come off.
+- **It buys hours, not cures.** Twenty-five minutes ≈ four and a half
+  hours of relief, then it comes back and you do it again.
+- **It is a stamina problem** — she has *about a thimble* and will have a
+  cup by twenty (`portraits.md`).
+
+> **And it is the eighth count of the third form.** *Late; not at the set,
+> at the going; stop on purpose.* **Her father taught her the hard half of
+> a medic's hands with a wooden sword and neither of them knew.**
+
+---
+
 ## 12. The standing ledger rule
 
 > **No rule in this file may be falsified without a replacement constraint

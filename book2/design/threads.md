@@ -631,3 +631,230 @@ correct and was not the reason.
 4. **Kimimaro is training for a sale he thinks is a job.**
 5. **A grey overcoat, and four months until he works it out.**
 6. **The genin team.**
+
+---
+
+### C4 — Chapter 4, "Eleven Days". Month 3, 30th – month 4, 7th.
+### 10 scenes, 16,860 words. U×7 (74%) · T×3 (26%).
+
+**THE PALM — the method, as taught, and it is now fixed**
+
+- **It is not a jutsu.** *"There is a jutsu. It has a name and it takes
+  about six years… you are not having it."* What she has is **the habit
+  underneath it**, and *"about one person in nine can do it at all."*
+- **Find it. Hold it. Don't spend it.** The getting-hold-of-it is already
+  a push. She started again eleven times and got four breaths on the tenth
+  minute.
+- **Take something out before you put anything in.** Hand on, nothing
+  going anywhere, **and say what is different from the other side.**
+  > ***"Hand on. What's different. Where does it hurt. And do those two
+  > agree."*** *(About three quarters of what a medic does, and it took
+  > ninety seconds.)* **Where it hurts and where the trouble is are in
+  > different places about half the time.**
+- **A thimble out, and stop.** *"Stopping is a thing you do. It's a
+  separate action and it takes as much as the going does, and if you
+  don't learn it now you'll spend your whole life leaking into people."*
+- **LITTLE. STOP. WAIT. Ninety times.** A twenty-five-minute treatment is
+  *"about ninety separate goes… and the gaps in between are where the work
+  is."* **Hold it on somebody for twenty-five minutes and you will cook
+  them and be on the floor in four.**
+- **At about the sixtieth you will be certain it is not working and will
+  want to push.** *"If you push you undo the whole hour."*
+- **You cannot tell during. Forty seconds afterwards, when your hands come
+  off.**
+- **She did two hundred repetitions**, counted aloud in tens; got four in
+  a row at one-eighty; was crying at one-ninety-one and noticed at
+  one-ninety-four. **Then seventy-one goes on Chiyo's shoulder cord.**
+  Chiyo: *"That's the first time I've done that since Tuesday without the
+  elbow going."*
+- **Anzai's assessment: "You've got about a fifth of it."** Ninety a day;
+  properly good by the autumn. **Write down the number and where the hand
+  was, not the feelings** — *"in four months you'll be certain you've got
+  worse, and you won't have."*
+
+**AND SHE ALREADY HAD THE HARD PART**
+
+- **At the tenth minute it went easy and she recognised it: *that's the
+  eighth.*** Anzai, inside ten minutes: ***"Who taught you to hold back?"***
+  — *"My father." "He a medic?" "He's a carrier. He does parcels. He
+  taught me sword forms." "Mm."* **And it went past both of them.**
+- **She works it out on the road, a mile and a half past the Sanzu fork,
+  on the fifth.** *"He taught me the whole of the hard part of it and he
+  did it with a wooden sword on a Sunday and he doesn't know he did."*
+- **She ran, with the cart, for about two miles.**
+
+**KAYANO — fixed**
+
+- **Six nights at the door**, four in it and two beside it. **Thirty-one
+  people over the step since Tuesday, four right down.** She said *mind
+  the step* to everybody in the lane.
+- **Chiyo**, sixteen, has done for Anzai since she was twelve. She told
+  her: ***"Don't be in the door when he comes. Be near the door."***
+- **THE TANNERY, the first: six hours on a wall and two in the nettles.**
+  Twenty-five minutes on a boy's leg buys **four and a half hours.** Three
+  men, four times a day, twenty minutes each. **Four hours of him a day,
+  and he sleeps twice.**
+  > **"An afternoon's four hours. Which is that boy not getting his
+  > night."** She threw out Tazu's whole argument on the Thursday.
+- **HER PITCH, entire:** *"My father's ill and I want you to teach me the
+  palm work for one afternoon so I can do his nights. He's four days from
+  here. I can't pay you and I've got nothing to give you and I'm asking
+  anyway."*
+- **Anzai broke it:** *"Your father has never been on my list… You're not
+  taking anything off me, girl. There's nothing of mine to take… you've
+  dressed it up as a trade because a man in a shed told you it was one,
+  and it is not one."* **She said: "I know. I worked it out on
+  Wednesday."**
+- **THREE CONDITIONS:** do exactly as told and don't ask why until the
+  end; **never tell anybody he taught her** — not her mother, not Tazu,
+  and particularly nobody in Kayano; eat first.
+- **Two till dark on the third. Three and a half hours, not four.**
+- **The answer she got at the end: *"You did the sum."*** **It is not the
+  reason.** The reason — six days in a shed, two lost, no sleep since
+  Tuesday, and needing one thing that week to have been worth doing —
+  **she never learns, and dies believing she earned it in a nettle bank.**
+
+**ANZAI'S WARNING — the load-bearing one**
+
+> *"There is going to come a night… when you put your hands on him and do
+> everything right, every single thing, ninety of them, exactly the way
+> you've been taught, and it will make no difference at all. **And you
+> will decide that it made no difference because you did it wrong.**"*
+>
+> *"It will be that what's in your father cannot be reached by what's in
+> your hands, and it never could be… **A year ago. It would not have
+> worked a year ago either.**"*
+>
+> *"The thing you are frightened of is that you were too late. And I have
+> watched a great many people be too late, and about one in nine of them
+> actually were."*
+
+**He will not name the disease** — *"that is how men in my trade tell
+themselves comfortable stories."* **Nobody in this book can name it.**
+
+**THE STEP**
+
+- **Nine inches.** Anzai's father put it in in the second year of his
+  practice, got the levels wrong, and was too proud to take it up. **Four
+  people have offered a rail.**
+  > *"I go down it about eleven times a day, and every single time, for
+  > nineteen years, my foot has gone down nine inches and expected five,
+  > and I have thought about him… And if I put a rail on it I'll stop."*
+  > — **"That's the worst reason I've ever heard." "It is. Mind the
+  > step."**
+
+**THE ROAD BACK**
+
+- **90 on her own left arm on the 4th: 20 good. 90 on a wall on the 5th:
+  22 good.** Written on the back of the mill's chit under Ine's line.
+- **Ine again at the Sanzu fork** — a slate route, twice a week, thirty
+  years. **Uzuki found the plate in her right shoulder unprompted**, from
+  having watched her for eleven miles in a wood. **Seventy-one goes.**
+  *"Thirty years that's been like that."*
+- **Ine offered eleven ryō. Uzuki refused money and took food.** *"I've
+  only had it a day and I don't know what it's worth yet, and I'd rather
+  not find out by getting it wrong."*
+
+**HOME — the eleventh day**
+
+- **Kiyoshi died on the FOURTH. Buried the FIFTH, morning** — Tazu,
+  Iwasa, and the men from the mill. **She was doing the ninety on a wall
+  on the fourth.** *"I was on a wall."*
+- **She came in the back, talking, and got five sentences in.** Two women
+  at the table with cloth on it — **Iwasa's wife and the woman from the
+  end house.** Neither said anything.
+- **Sae said her name once.** *"Afterwards, for a great many years, Uzuki
+  could not get past the fact that she had understood it from her own
+  name."*
+- **Sae's hair was done and her sleeves were down.**
+- ***"You said if I was eleven days you'd come and get me."*** —
+  **"I know what I said. I have been here for two days. Ask me tomorrow."**
+- **THE HUNDRED CAME BACK ONTO THE TABLE, unspent**, and Uzuki said the
+  whole of it out loud: that it should have been two hundred and forty,
+  that she has known since about the fourth day out, **and that that is
+  why the refusal was four seconds.** Sae: **"Yes."**
+  > *"Why didn't you TELL me?" — **"Because you'd have carried it, and it
+  > wouldn't have got him to Kayano either."***
+- **The thing wrapped in leaves from Chiyo was for Sae and neither of them
+  opened it that day or the next.**
+- **THE RACK.** She put hers back on the bottom peg. **His is still on the
+  top one**, where he put it on a Sunday in the second month and then sat
+  down on the barrow and did not get up.
+  > *"And she stood with her hand still up on the peg and found that she
+  > could not think of one single person in that house who was ever going
+  > to take either of them down again."*
+
+**TADAYOSHI — fixed**
+
+- **Two days without food.** He noticed by missing a flag with a slate by
+  **about an inch**, *"with the professional interest of somebody whose
+  entire trade was where a hand was."*
+- **He took:** the tin (31 pieces, incl. the eleven and one of his
+  mother's); **the OLD frame, from the drawer under the rag**; three flat
+  cakes; the waterskin; **the grease tin, which he went back for and did
+  not cost.**
+- **HE LEFT AKAGANE'S FRAME**, dished side down in the drawer under the
+  rag, **because it is a signature.** *"Anybody who has ever bought Ruri
+  work knows what a Ruri frame looks like. This one does not… If it turns
+  up in a pawnshop in Ōura it is not a frame. It is a signature."*
+  > *"They will think it is a frame. That is the whole of what happens to
+  > nine weeks."*
+- **He went back four hundred yards and twenty-five minutes to shut Take's
+  door.**
+
+**KENJI — the seventh, and the coldest scene in the act**
+
+- **He bolted his own shop in the middle of a Friday morning.**
+- **He counted twelve of the new-frame pieces, not eleven.** *"You've done
+  another one since and you didn't know it."*
+- **He paid FOURTEEN for thirty-one pieces worth nine and a half**, would
+  not discuss it, and **would not be thanked for it.** *"Nine and a half.
+  You said it yourself. Then don't thank me for fourteen."*
+- **THEY CAME TO HIM ON THE SIXTH.** Two of them, about four, bolted the
+  door themselves. Asked: did he know Ruri Mikage; how long; **had he ever
+  been to Shioiri** — *once, fifteen years ago* — **and the year**, which
+  he had to work out standing at his own counter. **Then one more question
+  he will not repeat.**
+- **Tadayoshi got about four fifths of the way down it and could not
+  finish**, because the missing piece is Iwao and he does not know Iwao is
+  alive. **He never gets it from the front.**
+- **Kenji refused to be told:** *"I've had a night of working out what
+  happens to a man who knows things about a household on a list, and I've
+  come out the other end of it and I don't want it."*
+  > ***"I don't know what your family did."*** *"…there's a thing gone
+  > through the whole of that household and taken every last one of them,
+  > and I'll tell you what I know about why. Nothing… I'll be asked about
+  > it for the rest of my life and I will not have an answer."*
+- **He opened the door eighteen inches and looked up and down the street
+  before letting the boy through**, without appearing to notice he was
+  doing it. **The bolt went over forty yards up the road.**
+
+**THE METHOD — and this is the origin of everything**
+
+- **Four attempts to ask people about the boat on the Ōura wharf. He got
+  the word *north*, which he had.** The net-mender stopped helping at
+  *whose boat is it* and *why are you looking for it.*
+  > *"A question is not a thing you hand over. It has a person at both
+  > ends of it… And I cannot fix that. I do not know how that is done."*
+- **The customs post at the Ōura bridge is unmanned, not disused, and it
+  has a LEDGER.** Five columns — *day, craft, master, cargo, dues* — four
+  years back, incomplete, a third of the master column blank or *ditto*.
+  **His boat is not in it and it does not matter.**
+  > **"I have spent four days on a wharf trying to make people tell me
+  > things. And there is a book."**
+- **Entered that night, second column:** ***"Do not ask people. Find where
+  it is written down."***
+  > *"He was ten years, three months and eleven days old… and he had just
+  > invented the method he was going to use for the rest of his life."*
+- **He has fourteen ryō in four places on his body**, minus one and a half
+  for a knife, a blanket and oilcloth. **He is on the Sunaba road**, two
+  days, for the harbour master's book.
+
+**OPEN INTO CHAPTER 5**
+
+1. **Sunaba, and a proper harbour book.**
+2. **Ninety a day, and a night that is going to come.**
+3. **Sae has something she has not said, and *ask me tomorrow*.**
+4. **Chiyo's parcel is unopened.**
+5. **Nobody may ever be told Anzai taught her.**
+6. **The genin team, and the clasp.**

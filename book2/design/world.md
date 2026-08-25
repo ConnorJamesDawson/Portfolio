@@ -101,6 +101,9 @@ somewhere he never named, and **nobody has ever asked what it replaced.**
 | **Kayano** | four days as walked. A bridge with shops on it. |
 | **Anzai** | **the medic.** Bottom of Kanmuri lane, green door that was blue, a step down you go over. Has a girl who runs errands. |
 | **the tannery** | where a pit went in on the Tuesday, and where Anzai has been since |
+| **Chiyo** | sixteen. Has done for Anzai since she was twelve — house, door, messages, fetching. |
+| **the step** | nine inches. Anzai's father put it in and got the levels wrong. Four people have offered a rail. |
+| **the customs post** | Ōura bridge. Unmanned, not disused, and it has a five-column ledger going back four years. |
 | **Tazu** | old, sixty-ish, a garden of things and a shelf of jars. Not a doctor. Set her wrist at seven and did it well. |
 | **Iwasa's boy** | fourteen, a barrow, no sense. Has the mill now. |
 
