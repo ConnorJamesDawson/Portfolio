@@ -190,6 +190,169 @@ is competence with no weather in it.
 
 ---
 
+## 3. STRUCTURE — PARALLEL LIVES — AUTHOR
+
+**The book runs multiple separate storylines that converge on one large
+event.** Explicitly *A Song of Ice and Fire* in shape: distinct lives, own
+clocks, own stakes, arriving together.
+
+### 3a. The counter-doctrine — AUTHOR
+
+**The way to fight Tadayoshi is to bait the wrong reaction.** Feint the
+chest, take the arm. The plate goes where the threat *looked*.
+
+**It is a serious shortfall, and it gets hammered out over fights that shape
+him.**
+
+#### What that gives us — PROPOSED
+
+It makes his best counters **clever rather than strong**, which is the right
+antagonist class for a protagonist whose ceiling is technique and whose
+floor is a child's body. It is learnable, so it spreads: **his equipment has
+an obsolescence curve driven by enemy learning**, and it will always be
+somebody's second fight with him that goes badly for him.
+
+And the finding underneath it, which I think is the best thing in this
+section:
+
+> **Reactive armour leaks information.** Every time it fires it publishes
+> what his system *expected*. A good opponent does not only bait it — they
+> read his priorities off it, one twitch at a time.
+
+**The man whose entire policy is withholding has built a thing that cannot
+stop talking**, strapped it to his body, and taken it into every fight of
+his life.
+
+**Discipline: every fix creates a new exploit.** No revision ever closes the
+problem; each one moves it. That is an engine that runs for a whole book and
+it keeps the anti-widening rule honest by construction.
+
+---
+
+## 3b. THE UZUMAKI GIRL — AUTHOR
+
+Red-haired Uzumaki child. **Not village-trained.**
+
+- She **does not understand why she has to hide her hair.** *Hair is hair.*
+- Her father carries the blood and knows **a little** — not what it means.
+  **Her grandfather never spoke about where he came from; the wound was too
+  bad.**
+- Combat basics handed down grandfather → father → her. She can use a
+  katana. **Chakra-assisted movement.** Basics of medical chakra by the time
+  she and Tadayoshi meet.
+- **A warm start**: a functional family, a village she knows, and one secret
+  she is keeping without being told why.
+
+**The sequence:**
+
+1. Her father sickens. **She volunteers to travel** — she is the fast one.
+2. She reaches the next village, gives the symptoms; **the medic is mid-job**,
+   teaches her **the very basics of Mystic Palm**, and sends her home.
+3. **He is dead before she gets back.**
+4. Her mother is a civilian and has to move on **faster than a child can
+   accept.** The new husband is abusive to the mother. **The warmth is gone.**
+5. He goes for the child **while her mother watches.** She takes the knife
+   from under her pillow, opens his face, **catches the eye**, and runs in
+   the confusion.
+6. She runs until a **monastery** takes her in. **The rain washes the dye
+   out.** An elder knows what red means: ***"The snake pays well for children
+   like her."***
+7. Locked away while they decide. Dark, and just enough to live on.
+8. Brought out to be handed to a courier. One of the men: ***"Even now
+   you're a pretty one… The offer never said she had to be pure."***
+9. **Tadayoshi arrives** — a posted job, cargo from the monastery to a
+   village — and walks into it. She cries and whimpers **"Help."**
+10. **The threshold.** The walls are covered in blood.
+11. She stays. He objects — she will slow him down — **until she says she
+    can heal, which is the one thing he does not have.**
+
+---
+
+## 3c. What the second thread does — PROPOSED
+
+### It is not two stories. It is one thesis in two registers
+
+*The snake pays well for children like her.* **Kiri harvests the Ruri for
+crystal; the snake buys Uzumaki children.** Her hair and his tone are the
+same object: a bloodline is a commodity, children are the inventory, and the
+instruction in both houses is **hide what you are.**
+
+His thread is what happens when the harvest comes for you and you become a
+monster. Hers is what happens when it comes for you and **you are eight and
+have nothing.** Cutting between them adds meaning instead of interrupting,
+which is the only thing that makes a parallel structure survive.
+
+### She said the word — and that is the join
+
+She asked for help and got a massacre, and **she knows which word did it.**
+
+> He cannot tell his competence from his appetite. **She cannot tell asking
+> for help from causing a slaughter.**
+
+They are both people whose one true utterance had catastrophic
+consequences. He fixed the tone at eight and his family were taken. She said
+*help* and four men died.
+
+**And the tragedy sitting under the whole relationship: he will teach her to
+withhold — and she is the one person alive who could have taught him not
+to.** She arrives at eight years old holding *hair is hair*, which is the
+flat refusal of his mother's instruction, without any theory behind it at
+all. She is the refutation of his central policy, and she does not know it.
+
+### CRAFT FLAG — raised once, with the fix, then dropped
+
+The sequence stacks a great deal on a child — dead father, abusive
+stepfather, a mother who watches, an assault, a rescue by the protagonist —
+and it lands with her attaching herself to the man who saved her. The risk
+is real: **she becomes a function of his story instead of a person.**
+
+The fix is not to soften any of it. It is this: **she has to want something
+that is not him, and be right about something he is wrong about.** She
+already has all three levers —
+
+1. **She acts in her own story.** She volunteered for the road. She got the
+   technique. The father died anyway. **She is not passive, she is
+   unlucky** — a completely different thing, and the prose has to keep the
+   distinction visible on every page she is on.
+2. **She names her own value** in the worst hour of her life, to a man
+   walking away, and it works.
+3. **She can heal and he cannot**, permanently, and it is the only thing in
+   the world he needs and cannot make.
+
+**Her spine is that she keeps trying and the world keeps being faster.**
+That is heartbreak with a person in it rather than heartbreak happening to
+a prop.
+
+### Structural rules for the parallel form — PROPOSED
+
+1. **Every thread owns an antagonist and a clock.** A thread without its own
+   opposition becomes a waiting room.
+2. **Threads touch before they converge** — an object, a rumour, a letter, a
+   name overheard. The reader should feel the geometry long before the
+   collision. **The circulating crystal is the ready-made device for this:
+   her thread can be holding a piece of his mother's work before either of
+   them has heard of the other.**
+3. **Cut on rhyme, not on cliffhanger.** Leave a thread on an image the next
+   thread answers.
+4. **The convergence must be caused, not coincidental.** Somebody's decision
+   puts them in the same room.
+
+---
+
+## 3d. OPEN on the second thread
+
+- **Her name.**
+- **Her age at each beat** — she is eight-ish through the sequence; his
+  warrant is at ten. Pin both against one clock before anything is written.
+- **How many threads in total?** Two is a duet. Four is a different book and
+  a much larger commitment. Decide the number before the first chapter,
+  because it sets the chapter-rotation pattern for the whole work.
+- **Does the courier scene complete?** The line implies intent; the text has
+  to decide exactly how far it goes before he arrives, and I would go in
+  with that settled rather than discover it mid-scene.
+
+---
+
 ## 2p. THE SWORD AND THE ARMOUR — AUTHOR
 
 ### The sword
