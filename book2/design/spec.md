@@ -190,6 +190,124 @@ is competence with no weather in it.
 
 ---
 
+## 2n. EIGHT, THE HARVEST, AND THE VOW — AUTHOR
+
+### He fixed the tone at eight — and he showed her
+
+**Before the selfishness set in, he took it to his mother.**
+
+She told him **to keep it to himself.** Not from meanness — from fear that
+he would be **dragged off to make military crystal, like her uncle.**
+
+### Institutionalised degrade
+
+**The decline is a policy, not an accident. The ones who produced were taken
+and controlled.**
+
+### The vow
+
+**He will be the one to kill his brother** — with **a sword of Tadayoshi's
+own design, not one of the seven**, because **anything worth inheriting by
+the institution leads to rot.**
+
+---
+
+## 2o. What these three do — PROPOSED
+
+### The withholding was TAUGHT, by love, and it worked until it didn't
+
+This is the spine of the character and I would build the whole book on it.
+
+**The one time he ever shared anything, he was told to hide it — by the
+person who loved him most, for his own protection, and she was right.**
+
+Two years later they came anyway.
+
+So his adult policy is his mother's instruction **with the reason swapped
+out**:
+
+| | Instruction | Reason |
+|---|---|---|
+| **Her, at eight** | *keep it to yourself* | *or they will take you* |
+| **Him, at eighteen** | *keep it to yourself* | *because it is mine* |
+
+Identical behaviour. The drift from one motive to the other **is the
+corruption**, it takes a decade, and it happened because the protective
+version failed in front of him.
+
+**And it inverts book one's engine exactly.** Sazare had to learn to say a
+true thing out loud. Tadayoshi has to **unlearn silence — against evidence
+that silence was correct.** That is the same theme with the polarity
+reversed, which is what "similar theme, different childhood" should mean.
+
+**PROPOSED, and it matters: she should tell him *partly*.** Enough to
+frighten, not enough to explain — because that is what a frightened parent
+does, and because it leaves a boy who asks *why* holding **a rule with no
+reasoning in it**, given by somebody who loved him. That is the seed of the
+entire ideology: the first unexplained rule of his life came from love, was
+for his own good, and did not save anybody.
+
+### The harvest — this reframes the whole clan
+
+Forty did not become eight by attrition or by bad luck. **The state removed
+every high producer, generation after generation.** The clan has been
+*selected against ability*, administratively, for decades.
+
+Which resolves everything at once:
+
+- **The transmission failure has a cause.** The people who knew were taken
+  before they could teach. Each generation was taught by someone slightly
+  less able than the last, and **that is what the flat tone is** — the
+  fingerprint of a harvest, readable in the work.
+- **The mother's low aptitude is not bad luck. It is what survived.** She is
+  the output of a selection process, which is why her instinct at eight was
+  instant and absolute: she has seen exactly what happens to producers,
+  because it happened to her uncle in front of her.
+- **Being bad at it is a survival trait.** The decline is *adaptive*. Eight
+  people who can barely manage small jewellery are eight people alive.
+
+> **And a boy of eight fixed the tone, which broke the adaptation.**
+
+The bloodline is not dying. **It is being harvested to extinction, slowly,
+on purpose, by an institution that finds it useful** — and the child who
+made it good again made it worth harvesting.
+
+### The vow, and the trap inside it
+
+*A sword of my own design, not one of the seven.* Method, not just target —
+which makes it **a life's work rather than an errand.** He could kill his
+brother next year with a kitchen knife. The specification is the whole
+point, and it means he has made his revenge conditional on **becoming a
+maker good enough to deserve it.** Grief converted into a project: the most
+in-character thing this man could possibly do.
+
+**And the trap, which I think is the deepest thing in the spec:**
+
+If *anything worth inheriting by the institution leads to rot*, then **his
+own sword must not be inheritable either.** He would build that in — an
+article that dies with its maker, on principle, so that it can never become
+what made his brother.
+
+But he is the last crystal user in the line.
+
+> **Followed to its conclusion, his ideology finishes the state's project
+> for it.** The harvest spent forty years reducing the Ruri to nothing, and
+> Tadayoshi's own philosophy ends the line himself, deliberately, and calls
+> it integrity.
+
+He will not see it. Somebody else will have to say it to him, and he will
+have an answer, and the answer will not be good enough.
+
+### Two costs the vow must actually pay
+
+1. **A vow with a specification can be satisfied**, and then it is over. The
+   vow is a clock. Decide early what the book is when it stops.
+2. **He will get a clear chance at the brother before the sword exists**, and
+   the specification will make him decline it, **and somebody will die of
+   that delay.** Otherwise the vow is decoration.
+
+---
+
 ## 2l. THE CHILD — AUTHOR
 
 **He is ten at the warrant.** Reason of record: *Sazare's killing was years
@@ -714,10 +832,11 @@ the same entry.** The ledger gets both columns this time.
 8. **The thirty-two.** Did they die, leave, or both? *Left* is the sharper
    story and it feeds the theme directly — you cannot make people want to
    survive. Needs ruling; it changes what the compound feels like.
-9. ~~How old at the warrant?~~ **SETTLED: ten.** New underneath it:
-   **when did he fix the tone?** If it is eight or nine, it predates the
-   arrest and can be one of its causes (§2m). If it is after, it is only
-   grief with a method attached. Different books.
+9. ~~When did he fix the tone?~~ **SETTLED: eight, and he showed her.**
+   New underneath it: **did the improved output actually put the family on
+   the list?** §2m proposed it; §2n's harvest now makes it near-inevitable —
+   a clan that starts producing well is a clan worth collecting. Confirm
+   whether he ever finds that out, and when.
 10. **Does the brother know about the threshold?** If he does, the arrest is
    also a man removing something he is afraid of, and the betrayal gets a
    second floor.
