@@ -412,7 +412,10 @@ I had recommended a large gap — a father-substitute rather than a rival.
 
 ---
 
-## THE MOTHER
+## THE MOTHER — RURI MIKAGE
+
+**御影 — granite.** Named by a clan that names its children after stones,
+for the most ordinary, most durable and least precious stone there is.
 
 The only other user. Low aptitude — small jewellery, nothing more. **She is
 not unlucky; she is what survived** a harvest that removed every high

@@ -130,6 +130,13 @@ forgettable is **a document that is entirely parts doing no work**, and he
 is constitutionally the one person in the country who reads a job sheet the
 way he reads a kata.
 
+**And it hides for a reason the world supplies for free.** Nobody in the
+rebellion uses a real name — handlers and brokers go by trade names, because
+a real name is a family somebody can visit *(`portraits.md`, the trade-name
+rule)*. **A world where every document is deliberately featureless is a
+world where a featureless document is invisible.** Orochimaru's boilerplate
+is camouflaged by the rebellion's own security culture.
+
 ### The second sheet is one of his own
 
 He keeps dockets. When the wording rings he goes to **his own file**, and

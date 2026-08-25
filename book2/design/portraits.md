@@ -337,6 +337,80 @@ he is gone this is the whole of her on the page.
 they are the reason a room full of people who lost family to the Kaguya
 recognise him in under a second.
 
+### THE PARADOX: the man who saved him took away the only thing that
+### would have made his life bearable
+
+In canon, Orochimaru finds a boy who has never been told what he is for and
+**gives him a purpose**, and Kimimaro's devotion is total and, in its own
+appalling way, joyful. It is the only happiness he ever gets.
+
+**Here the snake never gets him.** He is taken by a boy who is
+constitutionally incapable of telling anyone what they are for
+(`character.md`, the missing organ).
+
+> **Orochimaru would have given him meaning. Tadayoshi gives him a room.**
+
+That is the canon-shatter with real teeth, and it is not a triumph. **His
+arc is not learning to be free.** It is having to build a reason from
+nothing, unassisted, while dying — the hardest thing anybody in this book
+attempts.
+
+**And Uzuki is the wound.** Same man, same rescue, same house. **She found
+her purpose in about four seconds and he cannot find one in three years**,
+and the difference is not gratitude — it is that she was able to *choose an
+object* and he has never chosen anything.
+
+He watches her have a reason. He cannot work out how she got it. **It is
+the only thing he has ever wanted that nobody can hand him**, and it is not
+jealousy in any register the book will name.
+
+### *Tell me what I am for* — and what Tadayoshi does about it
+
+At some point he asks. Formally, having rehearsed it, probably standing.
+**He asks to be used** — permanently, on the record.
+
+And Tadayoshi solves it the way he solves everything: **he drafts a
+specification.** An actual document. Purpose, scope, acceptance criteria,
+review date.
+
+**Kimimaro accepts it gratefully.** It is the best thing anyone has ever
+given him.
+
+**And Uzuki is the one who says it is obscene** — the girl with no filter,
+who has a purpose and knows exactly what it cost her to get one, telling a
+boy who cannot read a room that he has just written a person into a work
+order. **She is right, and she is right for reasons that indict her own
+life, and she does not notice that part.**
+
+### He cannot start. Tadayoshi cannot stop.
+
+> **The inverse of the threshold, in the same house.**
+
+His violence is **appallingly clean.** No rage, no appetite, no
+satisfaction. He is told, he executes exactly, he stops, he waits.
+
+Which makes him simultaneously the safest person on any field and the most
+dangerous — **and it means he will stand still while something happens to
+him if nobody has told him he may respond.** That horror is available from
+the day he arrives and should be spent once, late, and never twice.
+
+### What he is right about — and nobody else can say it
+
+**He is the only person alive who has been the same thing Tadayoshi is.**
+
+Made valuable by an institution. Family destroyed by their own — *his clan
+caged him; Tadayoshi's brother sold him.* **The same story with two
+mechanisms.** So Kimimaro can say things to him that nobody else has
+standing to say, and he says almost nothing, so when he does it lands like
+a dropped plate.
+
+**And he agrees with the doctrine.** *Stand alone* is obviously correct to
+him: every single person who has ever held him has hurt him. He would say
+so, briefly, if asked.
+
+> **He is the doctrine's most sincere adherent and its living refutation,
+> and he asks permission to eat.**
+
 ### Three years in a cell, and a Kaguya body
 
 **Wasted when he comes out** — muscle gone, skin the colour of something
@@ -389,13 +463,44 @@ Almost nothing. When he speaks: **complete sentences, formal, and exactly
 responsive.** He does not volunteer. He does not elaborate. He says *yes*
 and *I will* and *may I*.
 
+- **No contractions, ever.** Not a quirk — he learned speech from adults who
+  were giving instructions.
+- **He uses whatever form of address he was first given and never updates
+  it.** Three years on it is bizarre, and nobody corrects it, and the fact
+  that nobody corrects it is its own small indictment of that household.
+- **He answers questions that were not addressed to him** if they were
+  audible, because he has no model of a conversation having participants.
+
+### The tic: he mirrors
+
+He has no habits of his own, so **he copies, exactly, without
+understanding.**
+
+Within a year he is **testing edges with his thumb** because he watched
+Tadayoshi do it — a gesture that means *is there a note in this* performed
+by a boy who cannot hear a note and does not know that is what it is for.
+
+**He picks up mannerisms the way other people pick up an accent**, and every
+one of them is a small piece of evidence that he is trying.
+
+### The other thing the book does not say
+
+Canon draws him delicate. **He is beautiful too**, in a different register
+from Uzuki, and **the same rule applies: the narration never says so**
+(§`portraits.md`, the hard rule).
+
+It matters for exactly one reason and then it is dropped: **the pipeline
+priced him twice as well.** Two children in that house were merchandise on
+two counts, and neither of them experiences being looked at as anything but
+weather coming in.
+
 ### Year by year
 
 | | Look | What changed |
 |---|---|---|
 | **13** | Wasted, indoor-coloured, in somebody else's clothes. An object that has been moved. | **Taken.** |
-| **14** | Physically restored and completely still. A boy who has learned to ask. | **He asks a question that is not a permission.** |
-| **15** | Tall, healthy to look at, and the number in the book is two thirds of what it was. | **He has said no once and is still working out what that means.** |
+| **14** | Physically restored and completely still. He has begun to mirror. | **He asks a question that is not a permission** — *tell me what I am for* — and is given a document. |
+| **15** | Tall, healthy to look at, and the number in Uzuki's book is two thirds of what it was. | **He has said no once**, and is still working out what that means, and it was the largest thing he has ever done. |
 
 ---
 
@@ -406,6 +511,102 @@ and *I will* and *may I*.
 Same colouring. Same face, three years on. **Anybody who saw them together
 would laugh at *different blood*, and the tribunal did not care**, which is
 the whole indictment in one look.
+
+### THE PARADOX: he is the likeable one, and the reader must like him
+
+That is the entire design. **Every scene he is in, he is charming, warm,
+quick, generous, and easy to be around** — and he sold his family at
+thirteen and has not stopped being charming for a single day since.
+
+**He is genuinely good at being loved. It is the only skill he has. He has
+used it, at full power, exactly once, for something enormous.**
+
+The failure mode is a smug villain who is obviously rotten. **Write him so
+that reading him is a pleasure**, and let the reader notice, some pages
+later, what they enjoyed.
+
+### The project — and it is the same project as his brother's
+
+**He has been waiting for Tadayoshi since the day he signed.**
+
+And what he has done with the intervening years is not hide. It is
+**become worth the trouble**: the sword, the rank, the succession, the
+corps. Because —
+
+> **A brother who kills a nobody has killed a nobody.**
+
+**He is building himself into an adequate target.** Not out of remorse: out
+of a horror of having been a coward, converted into the project of becoming
+somebody it took a swordsman to kill. **The project is about his own
+dignity, not about his brother's satisfaction**, and that is what keeps it
+selfish and true.
+
+> **Two brothers, both converting grief into a specification. Tadayoshi
+> specifies the weapon. Iwao specifies the victim.**
+>
+> **They are doing the same thing, and Tadayoshi's entire self-image is
+> that he is nothing like his brother.**
+
+It also explains the blade without a word of ambition in it. *Rumoured* at
+thirteen; holding one at sixteen. **He is not climbing. He is preparing to
+be killed properly.**
+
+### He never once tries to explain himself
+
+Not out of pride. **An explanation is the only thing he could give, and
+giving it would cost him the only story he can live inside.**
+
+Which is why the collection order in the last act lands the way it does:
+**the single true thing he has ever said that was not calculated to be
+liked**, produced as a weapon, and it works.
+
+### What he is right about, and there is no answer to it
+
+> **Tadayoshi would not have survived that room.**
+
+He cannot lie. Put him in front of a tribunal that wants a particular
+sentence and he says the wrong true thing and dies with the rest of them.
+
+**The family needed somebody who could talk. The only one who could talk
+used it to save himself.** That is unanswerable, Iwao knows it is
+unanswerable, and he will produce it exactly once, and Tadayoshi will have
+nothing.
+
+### The tic: he touches people
+
+Shoulder, arm, the flat of the back. Constantly, easily, and **everybody
+likes it.**
+
+**Tadayoshi flinches from contact.** Same house, opposite habit, and one of
+them learned it from being wanted and the other from being assessed.
+
+**And Iwao will put a hand on his brother's shoulder at some point with
+Uzuki in the room**, and everything that is going to happen in that scene is
+already decided by that sentence.
+
+### And he apologises all day
+
+Easily, warmly, for small things — a chair, a delay, a wrong name — **and he
+means it, in the moment**, which is worse than not meaning it.
+
+> **A man who apologises constantly is a man who has spent three years
+> unable to apologise for the one thing.**
+
+### The object: he kept a stone
+
+The crack in the performance, and he cannot explain it and will not put it
+down.
+
+A piece from the compound — a scrap of his mother's work, or just a pebble
+off the path. **A man of different blood has no reason on earth to own a
+Ruri piece.**
+
+> **He is carrying the evidence that would hang him, and he keeps it on
+> his body.**
+
+*(The book's object grammar: Tadayoshi's dockets, Uzuki's knife, Kimimaro's
+document, Iwao's stone. Each one a person's whole argument, held in the
+hand.)*
 
 ### And he got the body
 
@@ -435,10 +636,10 @@ meaning it at all.
 
 | | Look | What changed |
 |---|---|---|
-| **13** | A boy in borrowed kit, holding an issue blade, at a table with a document on it. | **He signs.** |
-| **14** | Corps kit that does not fit yet. Visibly being kept. | Attached to hunts. |
-| **15** | It fits. | |
-| **16** | A young man with a blade that has a name. | **What the curve delivers.** |
+| **13** | A boy in borrowed kit, holding an issue blade, at a table with a document on it. Everyone in the room likes him. | **He signs.** |
+| **14** | Corps kit that does not fit yet. Visibly being kept, and visibly worth keeping. | Attached to hunts. **He starts apologising to strangers.** |
+| **15** | It fits. He has learned everyone's name in the building. | |
+| **16** | A young man with a blade that has a name, and a stone in a pocket that does not bear looking at. | **What the curve delivers.** |
 
 ---
 
@@ -471,6 +672,9 @@ of a brooch in a shop window and the reader learns her that way too.**
 | **Build** | he stays small and gives the orders | **she outgrows him and does the protecting** |
 | **Blood vs body** | he has the blood and the hands | **his brother has the body and the fluency** |
 | **The organ** | he cannot read a room | **his brother can, and sold him with it** |
+| **Violence** | **he cannot stop** | **Kimimaro cannot start** |
+| **Contact** | he flinches from it | **his brother gives it away all day** |
+| **Purpose** | he assigns them and cannot receive one | **Kimimaro can only receive one and nobody will issue it** |
 | **Speech** | he says only what is accurate | **she says everything, immediately** |
 | **Decisions** | he cannot stop making them | **Kimimaro has never made one** |
 | **Ruin** | his hands are cracked open | **his mother's are worn smooth** |
@@ -490,3 +694,204 @@ Before any scene with two or more of them in it:
 4. **What does not fit today?** That is where the year is.
 5. **Who in this room has looked at her too long, and has she counted
    them?** She has. She always has.
+
+---
+
+# SUPPORTING CAST
+
+**All names PROPOSED.** The people are needed; the labels are swappable.
+
+---
+
+## THE TRADE-NAME RULE — world detail, and it is load-bearing
+
+> **Nobody in the rebellion uses a real name.** Operators, handlers and
+> brokers go by **trade names** — the smith, the ticket, the ferry — because
+> a real name is a family somebody can visit.
+
+Three things fall out of it and all three are free:
+
+1. **Tadayoshi spends three years being posted by people whose names he does
+   not know**, which is the loneliness engine made administrative. There is
+   a moment, late, when he realises he could not tell anybody who Kajiya
+   was.
+2. **It is why the boilerplate hides.** Orochimaru's generic postings are
+   camouflaged **by the rebellion's own security culture** — a world where
+   every document is deliberately featureless is a world where a featureless
+   document is invisible. *(`structure.md` §3.)*
+3. **And it makes naming an act.** In a book where nobody has a name, the
+   people who do — Uzuki, Kimimaro, Iwao — are the ones who cost something.
+
+---
+
+## RURI MIKAGE — the mother
+
+**御影 — granite.** Named, by a clan that names its children after stones,
+for the most ordinary and most durable and least precious stone there is.
+
+**And she is exactly that**: what a harvest selecting against ability leaves
+behind, three generations on. Not unlucky. **Output.**
+
+- **A jeweller's hands, worn smooth at the fingertips.** She can thread a
+  setting and she cannot feel a coin.
+- **She gives instructions without reasons**, which reads as coldness and is
+  not, and which leaves a boy who asks *why* holding the first unexplained
+  rule of his life, given by somebody who loved him.
+- **Three scenes and then she is a tone in a shop window for three years.**
+  Establish her fast, in her hands and in one instruction, and then let her
+  live entirely in her work.
+
+**Her portrait is her hand on an article.** How she sets a stone. How many
+courses she can lay. What the piece sounds like — and, over three years,
+what it stops sounding like.
+
+---
+
+## KAJIYA — the handler
+
+*"The smith."* **Real name never given, and that is the point.**
+
+The one who recruits a ten-year-old the week after he kills a genin team,
+posts him for three years, hands him the punishment cargo job, and is in the
+room when he comes back with a Kaguya.
+
+- **Not cruel. Not warm. Tired, competent, and losing a war.** He does not
+  pretend the arrangement is anything other than what it is — the rebellion
+  needs what this child does, and he says so, which is why Tadayoshi trusts
+  him further than he trusts anybody kind.
+- **He is the one who says the line about Kimimaro**, and it will be
+  reasonable, and he will have lost family to the Kaguya, and he will be
+  the reason the break is nobody's fault.
+- **Voice:** short, practical, no ceremony. He calls him *boy* for a year
+  and then stops, and does not replace it with anything.
+
+> **He is the closest thing to a father in act one, and he is a man
+> spending a child.**
+
+---
+
+## FUDA — the broker
+
+*"The ticket."* A fixer who posts jobs out of a back room and keeps a book.
+
+**He is the one adult who is decent to Tadayoshi without needing anything
+from him** — small kindnesses, honest within the limits of the trade, a cup
+of something, an accurate warning about a client. He likes the boy and it
+is not a scheme.
+
+**His dockets are where the boilerplate is found.** And when Tadayoshi goes
+back through his own file and finds the wording again, it is Fuda's hand on
+the earlier sheet.
+
+> **And then the hunters speak to him** *(`combat.md` §10 discipline 1: a
+> broker who has been spoken to)*.
+>
+> **The one adult who was decent to him is destroyed by proximity** — which
+> proves the doctrine, and hardens it, and is the cruellest thing the book
+> can do with a kind man.
+
+---
+
+## SAGARA NAGI — the hunter, and the curve with a face
+
+**The recurring one, and structurally the most useful person in this list.**
+
+She survives an early encounter and comes back. And back. **Better each
+time**, because every fight she survives is a report she wrote herself.
+
+- **Not malicious. A professional doing a job**, and getting good at it in
+  front of him.
+- **He names her before he knows her name.** A man who keeps a file needs
+  labels, and he has no other system, so she goes in the book as
+  **"the left-hander"** and stays that for two years.
+- **Then he learns her name**, and something is spoiled that he cannot put
+  back — because a designation can be filed and a person cannot.
+
+> **He respects her, and he is teaching her, and he knows he is teaching
+> her, and he cannot stop without losing.**
+
+**She is the hunter curve made legible** — the reader's proxy for a
+statistical fact — and she is the last rung before the brother.
+
+---
+
+## ENKAI — the monastery elder
+
+Clerical, cold, unhurried. He takes in a starving child, feeds her, and
+**prices her within a fortnight** — for the blood and then, separately, for
+the rest.
+
+***"The snake pays well for children like her."***
+
+**He is the client on the cargo docket**, which means Tadayoshi kills his
+own employer inside a state he cannot reconstruct, gets nothing for the job,
+and comes home with a child instead of a fee.
+
+**Two scenes, one line each, and he does more damage than anyone in the
+book.**
+
+---
+
+## SŌTA — the boy
+
+The child who comes back from a relative's to find his family dead because
+a merchant wanted the house.
+
+> **Tadayoshi never asks his name.**
+
+That is the failure in one detail: he pays, he places, he leaves, and **he
+does not ask.** All doing. None of it the thing the boy needed.
+
+**And when he comes back, he has a name, and Tadayoshi does not know it, and
+he knows that.** The name is the weapon.
+
+*(So the book withholds it. Recorded here for the author; the page does not
+get it until the return.)*
+
+---
+
+## AOYAGI — the Academy instructor
+
+One scene, possibly two, and load-bearing out of all proportion.
+
+**He is the one who wrote *aptitude* on the transfer form** when the real
+reason was that a class of nine-year-olds had started to be frightened.
+
+- **He is kind.** That is the whole point. He believed he was being kind,
+  and he was, and it was the institution's opening move against the boy and
+  it was made in good faith.
+- **He is also the one who could not tell** whether a child who improved a
+  kata and broke an arm had meant it — and said so, in a corridor, to
+  another adult, within earshot.
+
+> **The first polite lie of Tadayoshi's life, told to protect him, by a man
+> who liked him.** His entire politics start in that room.
+
+---
+
+## GUREN
+
+Canon. `world-bible.md` already rules **she is a Ruri** — family who left
+before the worst, spoken of by the purity faction as cowards.
+
+**She does not need to be an enemy. She only needs to exist.**
+
+- The sword's clause fails: **it is inheritable after all**, and therefore,
+  by his own reasoning, **capable of rot**.
+- The last-of-the-line identity his entire ideology rests on is **false**.
+- **And she is proof that leaving worked**, to a man whose politics say
+  institutions rot you and whose whole self is being the one who stayed.
+
+---
+
+## Who is still missing
+
+- **The father.** Ruled nowhere. He is not a crystal user and he is disposed
+  of in month 4 of year 0, which means he exists mainly as a hole. **Decide
+  whether he was in the compound at all.**
+- **The other five of the eight.** *Forty of us once, now eight.* Six are
+  taken or killed at the warrant and two of them should have faces before
+  that happens, or the number is arithmetic instead of grief.
+- **Somebody in Konoha**, act four onward, who is neither Kakashi nor a
+  Sannin — a ward sister, a quartermaster, a clerk. The village has to be a
+  place and not a decision.
