@@ -170,6 +170,22 @@ The sequence is the character:
 > arrived with** — *hair is hair* — and she does not experience it as a
 > loss. **That is the corruption starting, small, in the first week.**
 
+### And the thing she will not give up for him — `combat.md` §7b
+
+**Her grandfather's sword, out of Uzushio, with the clan's spiral on the
+tsuba.** He changed his name, his country, and her hair. **He did not
+change the tsuba.**
+
+> **Her grandfather hid the blood and kept the sword. She hides neither.**
+>
+> **The hair she hides on his instruction. The sword she will not hide on
+> anybody's** — and she cannot explain why this one is different, and it
+> is one of about three arguments he has ever lost.
+
+**And she cannot say the clan's name**, because her grandfather took
+*Nozaki* on arrival and never gave the old one to anybody. **She
+broadcasts a family she cannot name.**
+
 And at the gate he **orders her to reveal the thing he ordered her to
 hide**, because he has costed it. She will do it instantly and gladly, and
 Kakashi's whole decision turns on a girl showing her hair because a boy told

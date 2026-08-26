@@ -277,6 +277,26 @@ its place in the architecture.
 > **A posting whose road passes within a day of the village she ran from.
 > She goes back. She knocks politely. And she is cheerful afterwards.**
 
+### ⚠ AND THE ERRAND IS THE SWORD
+
+**She does not travel three days to murder her stepfather.** She goes to
+**collect a family artefact that is hers** — the Uzushio sword above the
+door in the back room (`combat.md` §7b) — **and he opens the door.**
+
+> **The killing is not the errand. It is what happens on the way to the
+> errand.**
+
+**And that is far worse**, because it is a reason she can state, out loud,
+in one sentence, exactly as she states everything: *there is a sword and
+it is mine and I am going to go and get it.* **She would produce it on
+demand and it is true.**
+
+**She leaves with the sword. It is the reason she gives. It is also the
+reason.**
+
+> **And nobody — including her, ever — says out loud that she could have
+> written to ask.**
+
 **Why it belongs in act two and not later:**
 
 - **It has to precede the settled pattern.** By act three she is
@@ -309,7 +329,11 @@ its place in the architecture.
 3. **The alibi he supplies without knowing.** From here on he files her
    diversions as effects — *held eleven minutes, cost nothing* — **and
    the log is the thing that lets her not look at herself.**
-4. **And Sae, alive, in that house, for the rest of the book** —
+4. **The sword, on her hip, from here to the end** (`combat.md` §7b) —
+   **an Uzumaki spiral in public, on a child, in a world that erased the
+   country it came from.** It costs him two towns and he never mentions
+   it.
+5. **And Sae, alive, in that house, for the rest of the book** —
    unaddressed, unpunished, and never seen again unless the author wants
    the worst possible reunion available.
 

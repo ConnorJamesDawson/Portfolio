@@ -257,6 +257,127 @@ exist.**
 
 ---
 
+## 7b. THE OTHER SWORD — Uzuki's, and it is the loudest object in the book
+
+**On the page from ch1 scene 5:** *"There was a real one in the house,
+above the door in the back room, and it had come from her grandfather and
+it was not for her."*
+
+### The contradiction it exists to carry
+
+**Her grandfather came out of Uzushio and changed his name to survive**
+(`world.md`). He gave up the country, the name, and — three generations of
+it — **the colour of his granddaughter's hair.** He never explained any of
+it to anybody.
+
+> **And he kept the sword.**
+>
+> **The one man in this book who erased everything erased everything but
+> one object, and the object is the one that could hang him.**
+
+**Because he could not do it.** That is the whole answer and it does not
+need a better one. **It went above a door in a back room where visitors do
+not go, and it was never used and never sold** — *not in the winter the
+father stopped working, and not against a debt of two hundred and forty,
+and not at four in the morning when a hundred went on account* (ch2).
+
+**Any reader who goes back can find it hanging there while the household
+runs out of money.**
+
+### What it is — and it must not be a superweapon
+
+**An ordinary good sword with an unmistakable provenance.** Its entire
+value is **what it says about the person wearing it**, not what it does.
+
+| | |
+|---|---|
+| **Age** | sixty-odd years. Made in Uzushio **before** |
+| **Quality** | very good and completely plain. Good steel, good geometry, **no ornament at all** |
+| **The mark** | **an Uzumaki spiral, worked into the tsuba.** Not hidden. **The first thing anybody sees** |
+| **Size** | **a grown man's sword.** She is eleven |
+
+### THE TSUBA IS THE WHOLE CHARACTER OF HER GRANDFATHER
+
+**He could have changed it in an afternoon.** A tsuba is a fitting. You
+take it off and you put another one on and nobody alive would know.
+
+**He changed his name, his country, and his granddaughter's hair.**
+
+> **He did not change the tsuba.**
+>
+> **He erased everything he could, and there was exactly one thing he
+> could not, and it was two inches across.**
+
+### She wears it, openly, at eleven — and it is not heroic
+
+> **Her grandfather hid the blood and kept the sword. She hides neither.**
+
+**And it is genuinely reckless in precisely the way that already nearly
+killed her.** The monastery priced her twice in one room and one of the
+prices was the blood. **She knows that. She wears it anyway.**
+
+**She is right about her own case** — she has stopped believing the hiding
+buys anything, and it did not buy her father or her mother or the house —
+**and she is wrong about what it costs**, and the cost lands on somebody
+else (below).
+
+**The asymmetry with the hair is the point** (`portraits.md`'s dye
+sequence): **she gives up her own convictions for him one at a time, and
+does not experience it as loss — and she will not give up this one, for
+anybody, and cannot explain why this one is different.**
+
+> **The hair she hides on his instruction. The sword she will not hide on
+> anybody's.**
+
+### AND SHE CANNOT SAY THE NAME
+
+**Her grandfather took *Nozaki* when he arrived and never gave the old
+one** (`world.md`). Nobody wrote it down. **It is gone.**
+
+> **She carries a sword with her clan's mark on it, in public, and cannot
+> tell you what the clan is called.**
+
+**Which is how she eventually finds out** — somebody who knows swords, or
+knows spirals, tells her what she has been wearing. **That is a scene the
+book will want, and it should be somebody minor, and it should be
+delivered as a pleasantry.**
+
+### The pairing with his — and it is exact
+
+| His | Hers |
+|---|---|
+| **a simple half-katana that grows with him** (§7). **The blade is a growth chart** | **made for a dead man, and she grew into it** |
+| **made to fit** | **too big for two years, and a real hindrance in the first one** |
+| **cannot be wielded by anyone who is not a crystal user** — the vow as engineering | **wielded by the only person left who is entitled to it, and she does not know the entitlement's name** |
+
+> **His weapon grows with him. Hers was finished before she was born and
+> she had to catch up to it.**
+
+**And she refuses to have it shortened.** Repeatedly, to several people,
+including a smith who offers for nothing.
+
+### WHAT IT COSTS — and it costs him, not her
+
+**A sword with that tsuba is not concealable and she will not conceal it.**
+Which is a security problem of the first order, **and it is one of about
+three arguments he has ever lost.**
+
+**He cannot make her stop. So he does the only thing he can do with a fact
+he cannot change: he prices it.**
+
+> *The sword is not concealable and she will not conceal it. Therefore no
+> work in a port where the harbour office collates. Therefore Ōura is out
+> and Sunaba is out.*
+>
+> **She costs him two towns. He pays it, enters it, and never mentions it
+> to her once.**
+
+**Which is the arity constraint arriving through a person** (§10b): **the
+curve is felt as shrinking options, and one of the things shrinking his
+map is somebody he loves refusing to take a fitting off a sword.**
+
+---
+
 ## 8. The armour
 
 He takes it in from **books and watching**. **In hospital after an Academy

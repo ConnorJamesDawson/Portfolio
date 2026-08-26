@@ -189,4 +189,5 @@ be presented for assessment in the year of their eighth birthday.*
 | **Kuriya** | the Nozakis' landlord, Nakadō. Sixty-something, scrupulous, **eleven widows**, a bad knee that is really a hip |
 | **Iwasa's top field** | faces the wrong way, still full of stones after forty years. Four or five hands for nine days a year |
 | **Isaki / Fumi** | Nakadō. Isaki is twelve and fast and gave her the trick; Fumi does not speak to her and is not being unkind |
+| **The sword** | **her grandfather's, out of Uzushio.** Sixty-odd years, very good, completely plain — **and an Uzumaki spiral worked into the tsuba, which he never changed.** Above the door in the back room at Nakadō through every debt the household ever had. **Recovered at Nakadō in act two.** `combat.md` §7b |
 | **Genzō** | the mule — and the man Kiyoshi bought him off, *so that he would remember*. Sold to Shimoda for six on the 14th of month 5 |

@@ -256,6 +256,15 @@ partner.** It is true, it is sufficient, and it is the entry he makes.
 > question**, and he waits four hours where he was told to wait, and does
 > not follow, **because waiting is a thing he can price.**
 
+#### 3b. And what she has come for is a sword
+
+**Not revenge. An errand** — the Uzushio blade above the door in the back
+room (`combat.md` §7b), **which is hers, and which she has been thinking
+about for two years.**
+
+> **She would tell you the reason in one sentence and it would be true.
+> Killing him is what happens on the way to it.**
+
 #### 4. The knock
 
 **Politely. Twice.**
@@ -407,6 +416,14 @@ it. **It is the one thing in her life she does not narrate.**
    > And **it is exactly the organ Tadayoshi lacks** — *he can read a kata
    > in forty seconds and cannot see the most obvious fact about the
    > person standing next to him.*
+
+4. **THE SWORD ITSELF** (`combat.md` §7b). **Her grandfather's, out of
+   Uzushio, with the clan's spiral on the tsuba where anybody can see
+   it.** Recovered at Nakadō — **it is the errand; the killing is what
+   happens on the way to it** — and worn openly from eleven. **Too big
+   for two years and she will not have it shortened.**
+   > **His blade grows with him. Hers was finished before she was born
+   > and she had to catch up to it.**
 
 **RULED OUT: fūinjutsu.** The classic Uzumaki widening, refused, in the
 book's own grammar: **the capability exists and the transmission chain is
