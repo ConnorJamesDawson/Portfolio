@@ -56,7 +56,13 @@ Month by month in `timeline.md` §2. The spine:
   **an asset that has just demonstrated itself** — which sets the loneliness
   engine for the whole book: **from the first day, the only people who want
   him are the people who want what he does.**
-- **Contracts**, and he becomes difficult to handle.
+- **Contracts**, and he becomes difficult to handle. **And the carrying
+  stops** — `combat.md` §10b: **it was a probation.** A losing rebellion
+  works out that a hunted child is an attention sink, and buys years of
+  margin by teaching him to survive being one. **Fieldcraft, sparring
+  against adults who are trying, and exactly one element** — which makes
+  nothing better and only makes things more numerous, and costs him three
+  named things in the same entry.
 - **The monastery.** A punishment posting. *"Help."* **The client is the
   elder holding the sale, so he kills his own employer in a state he cannot
   reconstruct, gets nothing, and comes home with a child instead of a fee.**

@@ -119,6 +119,15 @@ a widening with paperwork.
 
 ---
 
+### #12 — THE THREE YEARS ARE COURIER WORK
+
+| | |
+|---|---|
+| **Killed** | The postings were carrying — six ports, nine inland places, four days to a fortnight, and fences on a road when required (`ch06.md` §3.3). **For three years.** |
+| **By** | Author ruling: **a rebellion holding a child who killed four genin does not spend him as a parcel runner.** Carrying is the probation. Then they train him — fieldcraft, sparring, and **one element** — **because he is a heat sink**, and every team hunting him is a team not hunting a cell. |
+| **Replacement constraint** | **`combat.md` §10b — three, named and mandatory.** (1) He must stand on breakable ground, so ***where he will stand*** goes into the briefings from about the fourth team. (2) Breaking ground is loud, slow, and unavailable in a room, on a boat, or **on a bridge over water — so Wave is fought out of the tin.** (3) More medium means more cheap articles, and cheap articles have a louder note, so **the widening moves him along his own vulnerability axis.** Plus: **the men who train him die**, and the catalogue only ever gets shorter. |
+| **Net** | **Constraint added — and the curve absorbs the gain by construction.** The training exists *because* he will be hunted harder, so the investment and the danger are the same variable. **There is still no version of this book in which he gets stronger and the danger goes down.** |
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

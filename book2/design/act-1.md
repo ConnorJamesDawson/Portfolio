@@ -76,8 +76,8 @@ a month the other thread owns, and the unevenness is the structure working.
 | **4** | 4b | U 75 / T 25 | **Eleven days.** She gets the technique and comes home to a dead father. He is three days into being hunted. |
 | **5** | 5 | T 85 / U 15 | **THE GENIN TEAM.** The threshold. **The clasp, and the tone.** *(No Kimimaro. This chapter runs undiluted.)* |
 | **6** | 5–6 | T 45 / U 40 / **K 15** | **The recruitment.** Her mother's arithmetic. **And an inspection.** Three people being valued in one chapter. |
-| **7** | 6–7 | T 50 / U 50 | **Her mother remarries.** His first contract, whole. **First hunter contact — not a fight.** |
-| **8** | 8 | U 50 / T 35 / **K 15** | **The knife under the pillow.** He becomes difficult to handle. **The other child fails an inspection.** |
+| **7** | 6–7 | T 50 / U 50 | **Her mother remarries.** His first contract, whole — **and it is a probation, not a job.** **First hunter contact — not a fight.** |
+| **8** | 8 | U 50 / T 35 / **K 15** | **The knife under the pillow.** **The investment starts** — and he becomes difficult to handle. **The other child fails an inspection.** |
 | **9** | 9 | U 70 / T 30 | **She opens his face and runs.** **Sagara Nagi survives an encounter** and goes into the book as *the left-hander*. |
 | **10** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar.** He is given freight. **Two children in boxes, waiting for the same buyer.** |
 | **11** | 12 | T 65 / U 25 / **K 10** | **The cargo job. The threshold. *Help.*** And a sale is scheduled. |
@@ -192,6 +192,17 @@ reader needs a fact the protagonist will never have.
 
 What months 7–8 are **actually** about is **Kajiya, Fuda, and a boy becoming
 expensive to handle** — which is people, not jobs.
+
+**And there are not many contracts to montage, because he is not a courier
+for three years.** `combat.md` §10b: **carrying is the probation** —
+months 6–7, one job, and the parcel is the test. **Month 8 is where the
+investment starts**, because a rebellion that is losing has worked out that
+every team hunting him is a team not hunting a cell, **and an untrained
+lightning rod dies in eight months.**
+
+> **The one contract written whole is therefore not a sample of three
+> years. It is the last of its kind**, and the reader should only find
+> that out afterwards.
 
 ### 4. The hunter curve must start as attrition, not as fights
 

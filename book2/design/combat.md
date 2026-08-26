@@ -423,6 +423,121 @@ to him on that date dies too.
 
 ---
 
+## 10b. THE INVESTMENT — why a losing rebellion trains a ten-year-old
+
+> **He is not a courier for three years. Carrying is the probation.**
+
+### The reason is not sentiment and not potential. It is attention budget.
+
+> **Every hunter team assigned to a boy on a coast is a team not assigned
+> to a cell.**
+
+He killed four genin at ten. **He is going to be hunted whatever anybody
+does.** The only question available to the resistance is whether the thing
+being hunted is theirs.
+
+- **An untrained lightning rod dies in about eight months**, and then the
+  state's attention comes straight back.
+- **A trained one goes on drawing for years**, and every year he draws is
+  a year of margin for eleven hundred people who are losing.
+
+> **They are not investing in a weapon. They are buying time with a child,
+> and the way you make the purchase last is to teach him to survive it.**
+
+**And Kajiya said it out loud in ch6 and the reader had no frame to hear
+it with:** *being owed something isn't a skill.* **He was not being cold.
+He was quoting a procurement policy.**
+
+### The three stages
+
+| | When | What it is |
+|---|---|---|
+| **Probation** | months 6–7 | **Carrying.** Can he take an instruction, complete it, and not open the parcel? *(`ch07.md` — the first contract, whole. **The parcel is the test.**)* |
+| **Investment** | month 8 → act two | **Fieldcraft, sparring against adults who are trying, and one element.** |
+| **Return** | act two onward | **He is a standing line in Kiri's tasking budget**, and everybody else is quieter. |
+
+### THE ELEMENT — one, earth, and it is not an attack
+
+> **Ruled: he gets exactly one, and it makes nothing better. It makes
+> things more numerous.**
+>
+> **Ground-breaking as MEDIUM GENERATION.** He can break stone and packed
+> earth into workable grit.
+
+**Why this and not something else:**
+
+1. **It solves his hardest logistical constraint** — the tin. Ch5: a third
+   of it gone in six minutes, and it was the first time in his life he had
+   failed to count material.
+2. **It is thematically exact.** The Ruri buy grit by the sack off a
+   merchant. **A boy who can make his own material is a boy who has stopped
+   needing a household** — and he will not notice that is what happened.
+3. **It is the least escalatory widening available.** It does not make an
+   article better, faster, sharper, longer-lived or cheaper. **Volume is
+   already the expensive category** (§5) and this moves volume only.
+
+### The three replacement constraints — mandatory, per §12
+
+1. **He has to be standing on ground he can break.** So he chooses ground
+   — and **from about the fourth team onward, the briefings say where he
+   will stand.** The curve eats the gain inside one chapter, mechanically,
+   per §10.
+2. **Breaking ground is loud, slow, and a beacon.** Unavailable in a room,
+   on a road he cannot stop on, on a boat — **and on a bridge over water.**
+   > **So the technique is unavailable in the book's largest set piece.
+   > Wave is fought out of the tin.**
+3. **MORE MEDIUM MAKES HIM LOUDER.** More material is more cheap articles,
+   and a cheap article has a loud note (§4.2). *His economy and his
+   vulnerability are the same axis* — **so the widening slides him toward
+   the vulnerable end.** A good opponent does not break his crystal; they
+   listen to it. **He has just made himself easier to listen to.**
+
+> **Net: he can fight longer, in fewer places, against better people,
+> while making more noise.**
+
+### The second thing they give him is not a technique. It is method, and men.
+
+- **Fieldcraft** — breaking contact, using a broker, reading a briefing,
+  leaving a town, **and pricing a job.** *The four things he cannot do*
+  (`character.md`, the missing organ) taught, partially and badly, by
+  people who do them for a living.
+- **Sparring against adults who are trying** — **the only graded
+  instruction he will ever receive that is not an assassination attempt.**
+
+**And the price is built in, and it is the act's own engine:**
+
+> **The men who train him are being spent.** They are a losing rebellion;
+> they die. **He will be able to name what each of them taught him, and
+> the catalogue only ever gets shorter** — `act-1.md` §5.1, the compound's
+> rule, running a second time on a second family, and he will not see the
+> shape until it has happened twice.
+
+### THE BENCHMARK — end of Wave
+
+> **He can make a Jōnin sweat, on combat experience alone.**
+
+**Read *alone* strictly: no power-ups. The curve is the ladder.** The
+element and the fieldcraft are what let him live long enough to accumulate
+the experience. **They are not what makes him dangerous.**
+
+**And he is not stronger than a Jōnin.** Three things produce the sweat
+and not one of them is a power tier:
+
+1. **He is a specialist in a narrow thing no Jōnin has a prepared answer
+   for.** Everything they have trained against moves.
+2. **Three years of assassination attempts is a schooling nobody else in
+   the book has had.** He has been graded, in earnest, by professionals,
+   about a dozen times, and survived every one.
+3. **The cost of being wrong about him is death** — the threshold — and a
+   professional who works that out mid-fight has to commit.
+   > **The sweat is unfamiliarity plus consequence, not power.**
+
+**What would break it:** any version where he wins on force, or where a
+Jōnin is written down to meet him. **He should lose exchanges and still be
+unsurvivable to get wrong.**
+
+---
+
 ## 11. What "prodigy" is allowed to mean
 
 > **His ceiling is technique. His floor is a child's body.**
