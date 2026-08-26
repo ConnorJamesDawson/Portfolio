@@ -75,6 +75,21 @@ believes institutions rot people.
 **The arc: a creed that begins as a limit and becomes a permission, unless
 something stops it.**
 
+### It is written off two data points and he can use neither
+
+| | |
+|---|---|
+| **The monastery**, month 12 of year 0 | **A child lived, and the reason was a door.** No creed, no object, nothing governing him — *she was in a cellar and there was nothing in the room he wanted* (`structure.md`). **He was saved by an accident.** |
+| **The boy**, act two | **He paid, and placed, and left, and did not ask his name** (`portraits.md`). **He did everything correctly and it did not work**, and the boy comes back. |
+
+> **One case he cannot take credit for and one he cannot fault.** And a
+> creed written out of both, **by a man who attends neither**, because he
+> was not there for the first one and did not see what was wrong with the
+> second.
+>
+> **He will not be saved by an accident twice. That is the sentence under
+> it, and it is the only part of it he could defend.**
+
 And it is a governor written by a man who knows there are minutes of his
 life he does not attend — see `combat.md` §the threshold. **He did not adopt
 a creed and then discover a flaw. He built the creed because of the flaw.**

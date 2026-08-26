@@ -68,6 +68,51 @@ Month by month in `timeline.md` §2. The spine:
   reconstruct, gets nothing, and comes home with a child instead of a fee.**
   The rescue is **a debt he is carrying**, not a gift he gave.
 
+> ## ⚠ AND WHY SHE IS ALIVE — because there is no creed yet, and something
+> ## has to answer for it.
+>
+> **`character.md`: the creed is acquired at eleven, after the merchant and
+> the house and the boy.** The monastery is month 12 of year 0. **So there
+> is nothing governing him in that building, and `combat.md` §9 is
+> explicit — *anything between him and the target is in the crossfire,
+> allies included.***
+>
+> **The word does not save her.** §9's rule holds: *what stops it must be
+> an object, not exhaustion*, and at the riverbed it was a note on a
+> clasp. **A word is not an object and does not reach him.**
+>
+> **She says it, through a door, during — and it does nothing.**
+>
+> ### She lives on geometry, and that is the whole of it
+>
+> **She is in a cellar, underground, behind a door, and she is not in the
+> field and not in the way.** *He never goes into that room.*
+>
+> **And the reason he never goes into that room is that there is nothing
+> in it he wants.**
+>
+> ### And then he comes back, does the reconstruction, and finds a door he
+> ### did not open
+>
+> **He opens it. And she says it again.**
+>
+> ***"Help."*** — **twice. Once with no effect, and once heard.** She has
+> been saying it the whole time and is still saying it.
+>
+> ### Which is why the creed exists
+>
+> **The arithmetic comes out at *she lived because she was behind a
+> door*, and he cannot build a life on doors.**
+>
+> **He was saved by an accident and he will not be saved by an accident
+> twice**, and that is the second of the two data points the creed is
+> written off — the other being the boy, in act two, **where he did
+> everything correctly and it did not work.**
+>
+> > **One case where a child lived and the reason was a door. One case
+> > where he paid and placed and left and the child came back an enemy.
+> > And a creed written out of both, by a man who attends neither.**
+
 **The thing that stops arc one being a justification:** *they made me* is a
 defence, and an arc that proves it produces a book that excuses its
 protagonist. So it is **not a fall — it is a fall with a hand-brake he

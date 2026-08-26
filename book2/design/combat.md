@@ -240,6 +240,81 @@ is a thing you do without specifying. He cannot get there from hand seals,
 and he will not know why for years.
 
 > **Every article in his kit has a date on it.**
+>
+> ## ⚠ EXCEPT ONE. See §3b.
+
+## 3b. THE ONE OPEN ARTICLE — and he does not know what he did
+
+> **He made the sword OPEN. By accident. At ten. With one hand.**
+
+§3 says the open tier is on the far side of the same gate as Sage Mode,
+that an open article draws on its own, **that it is not a thing you can
+specify — it is a thing you do without specifying** — and that *he cannot
+get there from hand seals and will not know why for years.*
+
+**All of that stands. He did not get there from hand seals. He got there
+from the other thing, and the other thing is what the file already says it
+is: he did it without specifying.**
+
+### What he intended, and it is the whole of the answer
+
+**Month 10. One hand in a splint, no seals, and everything he has ever
+owned has stopped.** Articles starve. The tin runs out. Hands break. Five
+people were killed in a morning. A coat is on a nail in Hanase.
+
+> **He wanted a thing that would not go when he did.**
+
+**And it worked, and he does not know that is why**, and he will not know
+for years, **and it is the same operation as at eight with one terrible
+difference: at eight he found the part doing no work. This time the part
+doing the work was never in the seals at all.**
+
+### THE FOUR CONSTRAINTS — because the tax is gone and something has to
+### replace it
+
+1. **⚠ HE CANNOT MAKE ANOTHER.** He does not know what he did. **There is
+   one open article in the world and it is the sword**, and if it is
+   taken, or broken past repair, or given away, **there is not another
+   one.** *He has a weapon that cannot be replaced and he uses it every
+   day.*
+2. **⚠ IT NEVER GOES QUIET.** An open article draws on its own — **so it
+   is permanently on.** It does not stop when he sleeps, or is knocked
+   out, or is dead. **He has stopped paying in chakra and started paying
+   in visibility**, which is §4.2's axis exactly: *his economy and his
+   vulnerability are the same axis.* **The one thing he owns that cannot
+   ever be put down is the one thing that is always audible.**
+3. **HE CANNOT EXPLAIN IT**, and he is a boy who cannot leave a question
+   standing. **There is an unexplained object at the centre of his kit
+   for years**, and nobody he can reach knows anything, **and he asks, and
+   gets nothing, and keeps asking.**
+4. **⚠ AND HE DOES NOT CONTROL HIS INTENT IN THE THRESHOLD.**
+   > **If intent is the variable, then the state in which he has intent
+   > and no specification is the state most likely to make more.**
+   >
+   > **So there may be open crystal, drawing on its own, permanent, in
+   > fields he cannot remember — and he would never know.**
+   >
+   > **`ch05.md`, the riverbed, already on the page:** *one stand of about
+   > two hundred together, **like a thing growing.***
+
+### THE RESEARCH ARC — and his first theory is wrong
+
+**He assumes the half seals did it**, because that is what was different
+that day, and it is a reasonable inference and it is false.
+
+| | |
+|---|---|
+| **Year 0–1** | *it was the half seals.* **Tries to make open articles with half seals for about a year and gets nothing.** |
+| **Year 1–2** | *it was the injury, or the material, or the hour.* **Eliminates all three, in writing, with dates.** |
+| **Later** | ***it was what I wanted.*** **Held as a theory he cannot test**, because testing it means wanting something on purpose and he does not know how to do that either. |
+| **Much later** | **Nature chakra**, and the theory turns out to have been right, **and it is the road to Sage Mode**, which §1 already says is worth a book of pursuit. |
+
+> **He is right at ten, wrong for two years about why, and does not get
+> back to being right until somebody hands him a vocabulary.**
+
+---
+
+
 
 - **Lifetime is bought at the moment of making.** A closed article spends
   itself holding its own shape, so how long it lives is how much he packed
@@ -366,42 +441,69 @@ liability is not distance, and distance is the only tool he owns.
   > **Which he cannot do at all in month 10.** One configuration, and no
   > way to change it, **for six weeks.**
 
-### ⚠ THE FIRST ONE IS A HALF-SEAL ARTICLE, and therefore compromised
+### He made it with half seals — and that had nothing to do with it
 
-**He makes it with one hand, which means half seals, which means one
-course** (§1b, §2).
+**He was one-handed, so the seals were half seals** (§1b), **and the
+article that came out was open** (§3b), **and those two facts are
+unrelated and he spends a year assuming they are not.**
 
-- **One course is one note.** **His first sword can be broken by anybody
-  who finds the note**, and he knows that on the day he makes it.
-- **And it is loud** (§4.2), **so the weapon he made to survive being
-  hunted is audible.**
+> **His first theory is that the half seals did it.** It is a reasonable
+> inference off the only thing that was different that day, **and it is
+> wrong**, and he does not find that out by being told. **He finds it out
+> by failing for a year.**
 
-> **His blade is a compromise from birth**, and part of why it *grows with
-> him* is that he spends three years rebuilding it to be less bad.
+### Growth is reconfiguration, and every one of them is a held breath
 
-### And the length is a seal budget, not a height
+**He does not rebuild it to be less bad** — it is not bad. **He extends
+and reconfigures it**, and each time he does, **he does not know whether
+changing an open article closes it**, because he does not know what makes
+it open.
 
-**§7's growth chart gets a second and better reason.** It starts short
-because he is ten — **and because a single-course article that size is at
-the limit of what half seals can specify.**
-
-> **So the blade lengthens as his seal work does, not only as he does.**
+> **The first reconfiguration is the most frightened he has ever been of a
+> thing he owns**, and it survives, **and he writes the count down and
+> keeps writing it down for years** — *how many times it has been changed
+> and is still what it is.*
 >
-> **Two things are being measured on that page: how tall he is getting,
-> and how good his hands are.** *And on the facing page, how his mother
-> is doing.*
+> **He is running a series on the one object he cannot replace.**
+
+### And the length is a growth chart with two lines on it
+
+It starts short because **he is ten** — a child's reach, not a style. And
+it lengthens as he does.
+
+> **Two things measured on that page: how tall he is getting, and how many
+> times the sword has survived being altered.** *And on the facing page,
+> how his mother is doing.*
 
 **The reconfiguration is a textbook interruptible step.** Planted, one hand
 occupied, holding a seal, in a fight — **maximum vulnerability at the exact
 moment of maximum utility.** Changing the sword is a dramatic act with a
 price, not a convenience.
 
-**It is held, not open.** Sustained: continuous chakra of the right nature
-simply to keep being a sword. So there is a **permanent low tax**, all day,
-every day; **when he is spent, the blade goes** — the moment he is most
-desperate is the moment the weapon is least reliable; in the threshold he
-keeps it but **cannot change it**, because sustain is not specification;
-and anybody else picks up a lump of stone that is already failing.
+> ## ⚠ RULED: IT IS OPEN, AND IT DOES NOT DEGRADE. See §3b and
+> ## `falsified.md` #15.
+>
+> **An earlier draft had it sustained — a permanent low tax, and *when he
+> is spent the blade goes*. That is dead.** He made it open at ten, by
+> accident, **and he does not know what he did.**
+
+**It does not degrade and it does not expire.** §3's open tier: *no
+expiry, no tax.* **It draws on its own.**
+
+- **What it needs is REPAIR, not renewal.** A chip is a chip, **and a chip
+  costs chakra to close** — so there is a maintenance ritual and a morning
+  where he sits with it, **and the ritual is mending, not feeding.**
+- **In the threshold he keeps it but cannot change it**, because changing
+  it takes a seal and **sustain is not specification** — and neither is
+  open.
+- **And anybody else picks up a live sword they cannot use**, which is a
+  different problem from a failing one and a worse one: **it does not stop
+  being a sword when it is out of his hand, or when he is unconscious, or
+  when he is dead.**
+
+**The four costs that replace the tax are in §3b** — *he cannot make
+another; it never goes quiet; he cannot explain it; and he does not
+control his intent in the threshold.*
 
 ### Growth discipline — mandatory
 
@@ -720,6 +822,17 @@ wearing something his mother made — Kiri-issue fittings, prison-labour
 crystal, in circulation exactly as it is supposed to be. **And he hears the
 tone.** He comes out of the red because he has recognised his mother's hand
 on the body of a child he has just killed.
+
+### What stops it is an object — and at the monastery nothing does
+
+**Ch5's clasp is the model: a note, on a body, reaching him below
+language.** *An object, not exhaustion.*
+
+> **At the monastery there is no object and no creed, and Uzuki lives on
+> geometry** — a cellar, a door, and nothing in the room he wanted.
+> `structure.md`, act one. **The word she says does nothing at the time,
+> and he hears it again afterwards through a door he did not open, and
+> that is the difference between the two.**
 
 ### The standing rule
 
