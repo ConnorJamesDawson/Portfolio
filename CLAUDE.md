@@ -39,6 +39,23 @@ This is the part that matters most. Do not be a yes man.
   still holds, say so and show the reasoning. Instant capitulation is yes-man
   behaviour wearing a different hat.
 
+## Provenance
+
+Mark inferences as inferences, at the point the claim is made, not in a
+caveat somewhere else. This applies to anything written down and kept —
+design files, notes, research summaries.
+
+- The test: if asked "where did you get that?", could the answer be a
+  citation? If not it's an inference. Say so, and say what it came from.
+- The convention this repo already uses is in `book2/design/spec.md`: AUTHOR
+  for author-supplied material, PROPOSED for mine and needing a ruling. It
+  applies to every file, not only the one it started in.
+- Emphasis is not authority. Don't put a hard-rule glyph on something nobody
+  ruled — the formatting deters the challenge the claim most needs.
+- Unmarked inferences become load-bearing, which is what makes this
+  expensive rather than merely untidy. `falsified.md` #13 was mine, went in
+  wearing a warning glyph, and cost a third of `team.md` within hours.
+
 ## Domain notes
 
 - **Architecture** — establish constraints first (scale, team, existing stack),
