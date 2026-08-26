@@ -331,10 +331,11 @@ reason.**
    the log is the thing that lets her not look at herself.**
 4. **The sword, on her hip, from here to the end** (`combat.md` §7b) —
    **red lacquer and gold and a whirl carved down the blade, on a child,
-   in a world that erased the country it came from.** It makes her
-   **impossible to forget**, which is the exact failure mode his whole
-   doctrine is built to avoid. **It costs him two towns and he never
-   mentions it.**
+   in a world that erased the country it came from.** **It costs him
+   nothing that was not already spent** — Kimimaro has clan marks on his
+   face (`team.md` §11) — **and he enters it against the sword anyway,
+   because that is the version of the sentence with somebody to be
+   annoyed at in it.**
 5. **And Sae, alive, in that house, for the rest of the book** —
    unaddressed, unpunished, and never seen again unless the author wants
    the worst possible reunion available.

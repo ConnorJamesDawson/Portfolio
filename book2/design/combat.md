@@ -408,37 +408,51 @@ delivered as a pleasantry.**
 **And she refuses to have it shortened.** Repeatedly, to several people,
 including a smith who offers for nothing.
 
-### WHAT IT COSTS — and it costs him, not her
+### WHAT IT COSTS — nothing, and that is why he loses the argument
 
-**A red-lacquered, gold-mounted, whirl-carved sword is not concealable and
-she will not conceal it.** Which is a security problem of the first order,
-**and it is one of about three arguments he has ever lost.**
+**The obvious ruling is that a red-lacquered, gold-mounted, whirl-carved
+sword destroys his anonymity. It is wrong, and it is wrong for a reason
+that matters:**
 
-**And the real cost is not that she is identifiable as Uzumaki. It is that
-she is IDENTIFIABLE.**
+> ## ⚠ THE DOCTRINE WAS ALREADY DEAD. He killed it himself, in a cell,
+> ## before she ever got the sword back.
 
-> **She is a walking description.** *A girl with a red sword* survives four
-> days and a market — **which is precisely the mechanism that drafted his
-> own specification at Nezu** (ch6 scene 1).
+**Kimimaro has white hair, green eyes, and two red marks above the brows**
+(`portraits.md`) — *the reason a room full of people who lost family to
+the Kaguya recognise him in under a second.* **They are on his face.**
+There is no hat, no hood, no dye and no discipline that removes them, and
+he is not memorable in the ordinary way — **he generates hostility on
+sight, from adults, in the country they work in.**
+
+**So the sword adds nothing.** And she says so, and she is right, and she
+beats him with his own instrument:
+
+> ***"Name a town we can go into that we couldn't go into before I had
+> it."***
 >
-> **He threw an armful of cut rushes into the first ditch inside a town
-> because a boy carrying something is a boy people remember.**
+> **He cannot.** There isn't one.
 >
-> **And then he acquired a person who is permanently carrying something.**
+> **He loses the argument to a correct sum, which is the only way he is
+> capable of losing one.**
 
-**He cannot make her stop. So he does the only thing he can do with a fact
-he cannot change: he prices it.**
+### AND HE ENTERS IT AGAINST THE SWORD ANYWAY
 
-> *The sword is not concealable and she will not conceal it. Therefore no
-> work in a port where the harbour office collates. Therefore Ōura is out
-> and Sunaba is out.*
->
-> **She costs him two towns. He pays it, enters it, and never mentions it
-> to her once.**
+**Towns lost this year: four. Cause: the sword.**
 
-**Which is the arity constraint arriving through a person** (§10b): **the
-curve is felt as shrinking options, and one of the things shrinking his
-map is somebody he loves refusing to take a fitting off a sword.**
+**It is not a lie — the number is right — and the attribution is wrong,
+and he is the most careful person alive about causes.**
+
+> **He cannot be angry with a boy for his own face.** He can be annoyed
+> with a fitting. **So the cause column gets the sword, because that is
+> the version of the sentence with somebody to be annoyed at in it.**
+
+**He notices, later, on a re-read.** And leaves it.
+
+> **Which is the second false thing he permits to stand, and it is the
+> same move as the first.** *Boyfriend*, and *cause: the sword.* **Both
+> left uncorrected because correcting either would require him to say out
+> loud what somebody is to him.**
+
 
 ---
 

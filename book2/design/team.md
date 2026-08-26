@@ -433,9 +433,10 @@ it. **It is the one thing in her life she does not narrate.**
    > **His blade grows with him. Hers was finished before she was born
    > and she had to catch up to it.**
    >
-   > **And its danger is entirely social.** It cuts like any other good
-   > sixty-year-old sword. **What it does is make her impossible to
-   > forget.**
+   > **And it costs nothing that was not already spent** (§11):
+   > **Kimimaro has clan marks on his face.** She wins that argument with
+   > a correct sum — *name a town we can go into that we couldn't go into
+   > before I had it* — **and he cannot.**
 
 **RULED OUT: fūinjutsu.** The classic Uzumaki widening, refused, in the
 book's own grammar: **the capability exists and the transmission chain is
@@ -809,3 +810,104 @@ declined **all** of them, knowingly.
 > **A Stockholm case does not get out and go back. She does. Repeatedly.
 > And every declining is a fresh act, which is why there is a record of
 > them.**
+
+---
+
+## 11. THE DOCTRINE IS DEAD, AND UZUKI RUNS WHAT REPLACES IT
+
+### 11.1 It did not degrade. It ceased.
+
+**Everything he does through act one is one method: be unrememberable.**
+Cut rushes into the first ditch inside a town, because *a boy carrying an
+armful of anything is a boy somebody remembers* (ch6 scene 1). Four routes
+across Sunaba that do not pass the main house. Towns entered at the two
+hours when a child is unremarkable.
+
+> **That is a doctrine for one person, alone, who looks like nothing.**
+
+**The day he has two children it is not weakened. It is over.** There is
+no version of *unrememberable* available to a group containing **a boy
+with clan marks on his face** and **a girl with a red sword**, and no
+amount of discipline recovers it.
+
+> **He did not lose his anonymity to her sword. He spent it, on purpose,
+> in a cell, and the sword was already free by the time she picked it
+> up.**
+
+### 11.2 THE REAL COST — the description is now correct
+
+**Ch6, the market at Nezu:** five versions of the riverbed, and *not one
+of them had a boy in it.* **Five, or six. A grown man. A big fellow.**
+
+> *"That is the best thing that could have happened to me and I cannot
+> manage to be glad of it… it is going to last exactly as long as it
+> takes somebody with a rule to finish measuring that ground."*
+
+**The wrong description was protective and it had a date on it.**
+
+> **There is no wrong description available any more.**
+>
+> **Three children — a white-haired boy, a red-haired girl with a red
+> sword, and the one in the middle who does the ground — is a description
+> that is accurate, memorable, unique in the world, and free to anybody
+> who sees them once.**
+
+**They are not famous. Nobody knows their names.** `portraits.md`'s
+trade-name rule holds — he is *Kui* on a docket and nothing else.
+**They are describable, which is worse, because a description does not
+need a name to be briefed off.**
+
+**And it steepens the curve for a reason that has nothing to do with his
+competence.** `combat.md` §10 — *the state getting better at a rate he is
+personally setting.* **Every sighting is a data point, and three people
+who cannot be un-seen generate a great many of them.**
+
+> **Taking the children in is the single largest steepening of the curve
+> in the book. It is not a fight. He did it on purpose, having costed
+> it.**
+>
+> **Which sharpens §10's rule rather than contradicting it:** *he is
+> reading a graph about himself* — **and they are two of the inputs, and
+> he never says that part out loud to either of them.**
+
+### 11.3 What replaces it — and he cannot do any of it
+
+**If you cannot be un-noticed, you control what is noticed.** A legend: be
+seen, consistently, as the wrong thing. Merchant's guards. A sick boy
+going to a temple. A family.
+
+**And he is constitutionally incapable of running one.** `character.md`,
+the missing organ, first light: **he cannot be subtle.** He cannot lie —
+never has been able to — and the most he has ever managed is **withholding
+an answer while standing still** (ch6 scene 9). **A legend is a
+performance and he has no access to performance at all.**
+
+> **She does.**
+>
+> **She lies effortlessly. She enjoys it. She is quick, warm, plausible,
+> and completely without scruple about it**, and she can hold a story with
+> a stranger for an hour and get the stranger to supply half of it.
+
+**So Uzuki runs the cover.** Not as a favour — **as her job**, from about
+eleven, permanently.
+
+| | |
+|---|---|
+| **She decides what they are today**, and tells the other two, and they do it | **He hates it and uses it**, and cannot say either of those things |
+| **It is the same faculty as the diversion** (§4.3) — get looked at, on purpose, in the right direction | **and the same faculty as *boyfriend*: a claim asserted so cheerfully and so often that people stop testing it** |
+| **Kimimaro executes his part exactly and stops** | **and asks permission before departing from it** |
+
+> **The girl who cannot stop saying things is the household's only liar,
+> and the boy who cannot lie is dependent on her for it.**
+
+### 11.4 And the second consequence: they travel apart
+
+**A group that cannot be un-seen splits.** Which is also arity (§10b's
+constraint), and which he would do anyway.
+
+> **Which is why the other two are so often alone together** — and **the
+> working pair of §6.1 is built out of the very fact that made the
+> household visible.**
+>
+> **His security answer to being conspicuous is the thing that assembles
+> the unit he is not in.**
