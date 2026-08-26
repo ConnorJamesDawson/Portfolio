@@ -350,7 +350,7 @@ he is gone this is the whole of her on the page.
 
 - **No format at all.** Where he says *noted*, she says the thing she feels,
   immediately, and it is alarming.
-- **And she is polite.** A civilian mother and three weeks of a monastery
+- **And she is polite.** A civilian mother and two months of a monastery
   left her with manners that sit strangely on top of what she is saying.
   *"Please don't touch him."* Said properly. Then the hand.
 - **She never lies to him.** Not as a virtue — as an incapacity
@@ -893,8 +893,10 @@ the rest.
 ***"The snake pays well for children like her."***
 
 **He is the client on the cargo docket**, which means Tadayoshi kills his
-own employer inside a state he cannot reconstruct, gets nothing for the job,
-and comes home with a child instead of a fee.
+own employer **on purpose, in a state he can account for entirely**, gets
+nothing for the job, and comes home with a child instead of a fee.
+`falsified.md` #16: **the version where he blacks out is dead**, and this
+one costs him the excuse.
 
 **Two scenes, one line each, and he does more damage than anyone in the
 book.**

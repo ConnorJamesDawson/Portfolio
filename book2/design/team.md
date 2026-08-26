@@ -678,6 +678,13 @@ arrangement on its stated terms.**
 > **It is the first thing they have in common and neither of them ever
 > notices.**
 
+**And this only works because he was awake for it** (`falsified.md` #16).
+**A boy who blacked out cannot state terms**, and the terms are the whole
+transaction: *he got her to a door, told her it was a debt, and said so
+plainly.* **He can describe every minute of that building**, which is why
+the arrangement has stated terms at all — **and it is also why he cannot
+put it down.**
+
 **The page must be genuinely unromantic here**, because the reader needs
 to see the ledger entry this started as before they watch it become
 something else.

@@ -51,9 +51,9 @@ Both children are ten. Book one's month-numbering convention.
 | 7 | First contracts. He is worth feeding. | The new house. The first time. |
 | 8 | Contracts. He is worth paying. | It escalates. A knife under the pillow, and she tells nobody, because there is nobody. |
 | 9 | Contracts, and he is becoming difficult to handle. | **He comes for her, and her mother watches.** The face. The eye. She runs. |
-| 10 | | The road. Hunger. **The monastery takes her in.** Late in the month, **the rain**, and the dye. *The snake pays well for children like her.* |
-| 11 | | Dark, and enough to live on, while somebody negotiates. |
-| **12** | **The cargo job** — a punishment posting, not a promotion. | **The courier. "Help."** |
+| 10 | **Half seals, proved on the 18th — and a blade, because sustain needs no seal.** The hand is six weeks no good. | The road. Hunger. **The monastery takes her in.** Late in the month, **the rain**, and the dye. *The snake pays well for children like her.* |
+| 11 | **The hand comes back and the work does not change back.** Carrying — *drift, not a decision, and nobody revisits it.* **Kajiya has not been seen since 2/8.** | Dark, and enough to live on, while somebody negotiates. **Eight or nine weeks of it, and the page she stops needing goes to Kimimaro.** |
+| **12** | **⚠ THE SECOND THRESHOLD EVENT**, early, on a job, and somebody has to write it up. **Then the cargo job** — a punishment posting, not a promotion, and *this* one is a decision. | **The courier. "Help."** |
 
 **Month 4 is the cut.** Both lose the parent who held the secret, in the
 same month, four hundred miles apart, and the losses are opposite: **he
@@ -71,6 +71,19 @@ threads are a woman's value being calculated by somebody else.
 not report cleanly, and twice somebody has had to explain a body. He arrives
 at that monastery bored, insulted and resentful, which is the right
 temperature for trying to walk out on her.
+
+**And in month 12 it stops being a temperament problem and becomes a file.**
+`structure.md`, act one: **the second threshold event of his life happens
+early in the twelfth month, on somebody else's job**, and three weeks later
+he is holding a docket for a mountain temple four hundred miles off. **A
+losing rebellion does not discipline an asset it cannot replace. It sends
+him somewhere.**
+
+> **This is why the design can afford *"Help."* at all.** Her hold runs
+> eight or nine weeks; his event lands inside it and is over before he
+> travels; **so he walks into the Kadono-dera awake, and what he does
+> there he does on purpose.** See `falsified.md` #16 — the version where
+> he blacks out and she survives on the floor plan is dead.
 
 ---
 

@@ -79,16 +79,22 @@ something stops it.**
 
 | | |
 |---|---|
-| **The monastery**, month 12 of year 0 | **A child lived, and the reason was a door.** No creed, no object, nothing governing him — *she was in a cellar and there was nothing in the room he wanted* (`structure.md`). **He was saved by an accident.** |
+| **The gap**, month 12 of year 0 | **An event on a job that he cannot reconstruct — and three weeks later he is standing in a room with a child in it.** The two facts have nothing to do with each other. **They did not overlap, and he knows they did not, and he cannot stop putting them side by side.** |
 | **The boy**, act two | **He paid, and placed, and left, and did not ask his name** (`portraits.md`). **He did everything correctly and it did not work**, and the boy comes back. |
 
-> **One case he cannot take credit for and one he cannot fault.** And a
-> creed written out of both, **by a man who attends neither**, because he
-> was not there for the first one and did not see what was wrong with the
-> second.
+> **One thing that did not happen and one that did.** And a creed written
+> out of both, **by a man who attends neither** — he was not present for
+> the first in any sense that would let him describe it, and he did not
+> see what was wrong with the second.
 >
-> **He will not be saved by an accident twice. That is the sentence under
-> it, and it is the only part of it he could defend.**
+> ### And the first one is a near miss he invented
+>
+> **Nobody was in the crossfire. The calendar simply came out the right
+> way round, and he noticed that it might not have.** He is legislating
+> against a thing that never occurred, off a state he has no account of,
+> **and that is either the most careful thing he has ever done or the
+> beginning of the reclassification problem above.** *The book should not
+> settle which.*
 
 And it is a governor written by a man who knows there are minutes of his
 life he does not attend — see `combat.md` §the threshold. **He did not adopt

@@ -823,16 +823,27 @@ crystal, in circulation exactly as it is supposed to be. **And he hears the
 tone.** He comes out of the red because he has recognised his mother's hand
 on the body of a child he has just killed.
 
-### What stops it is an object — and at the monastery nothing does
+### What stops it is an object — and there is no event at the monastery
 
 **Ch5's clasp is the model: a note, on a body, reaching him below
-language.** *An object, not exhaustion.*
+language.** *An object, not exhaustion.* **A word is not an object and does
+not reach him**, which is why the design does not let *"Help."* do this
+work.
 
-> **At the monastery there is no object and no creed, and Uzuki lives on
-> geometry** — a cellar, a door, and nothing in the room he wanted.
-> `structure.md`, act one. **The word she says does nothing at the time,
-> and he hears it again afterwards through a door he did not open, and
-> that is the difference between the two.**
+> **So the monastery is not a threshold event.** `structure.md`, act one:
+> **she is held for eight or nine weeks, and the second threshold event of
+> his life lands inside that gap, on his own work, four hundred miles from
+> her** — and it is the reason the rebellion puts him on a cargo docket.
+> **He walks into that building awake.** The book gets the uncontrolled
+> event and the rescue in that order, with the second caused by the first,
+> **and never has to put a child in a room with him while he is not
+> there.**
+
+> ⚠ **RULING OPEN, ch11: what object brings him out of the month-12
+> event.** §9 requires one and it cannot be exhaustion. **The candidate is
+> §3b's** — *he does not control his intent in the threshold, and an open
+> article never goes quiet* — **so the thing that reaches him is his own
+> blade still drawing when he has stopped.** Not written in until ruled.
 
 ### The standing rule
 

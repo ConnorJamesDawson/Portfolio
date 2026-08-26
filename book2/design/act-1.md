@@ -79,8 +79,8 @@ a month the other thread owns, and the unevenness is the structure working.
 | **7** | 6–7 | T 50 / U 50 | **Her mother remarries.** His first contract, whole — **and it is a probation, not a job.** **First hunter contact — not a fight.** |
 | **8** | 8 | U 50 / T 35 / **K 15** | **The knife under the pillow.** **The investment starts** — and he becomes difficult to handle. **The other child fails an inspection.** |
 | **9** | 9 | U 70 / T 30 | **She opens his face and runs.** **Sagara Nagi survives an encounter** and goes into the book as *the left-hander*. |
-| **10** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar.** He is given freight. **Two children in boxes, waiting for the same buyer.** |
-| **11** | 12 | T 65 / U 25 / **K 10** | **The cargo job. The threshold. *Help.*** And a sale is scheduled. |
+| **10** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar** — *and she is in it for eight or nine weeks.* He is given freight. **Two children in boxes, waiting for the same buyer** — and the page she stops needing is where Kimimaro picks up. |
+| **11** | 12 | T 65 / U 25 / **K 10** | **⚠ THE THRESHOLD — early, on somebody else's job.** **Then the cargo docket, and he arrives awake.** ***Help.*** And a sale is scheduled. |
 
 **The cuts are on rhyme, per `structure.md` §1.3:**
 
@@ -249,6 +249,27 @@ eat and later asks to be used.
 **In ch8, the other held child fails an inspection**, and Kimimaro sees what
 happens to stock that stops being worth keeping. **And then he works
 harder.** He never learns that child's name. He counts them instead.
+
+### 5b. And the weeks he grows on are weeks Uzuki loses
+
+**⚠ RULING.** `structure.md`, act one: **Uzuki is priced on 10/28 against a
+buyer's date of *not before the eleventh*, so she is held eight or nine
+weeks.** Nothing happens to her in them. **That is the point of her** — a
+child in a root cellar with a bowl and a bell has no events, and writing her
+events would be writing a different girl.
+
+**So the page she stops needing goes to him**, and that is the only place in
+act one his thread can grow without the structure doing him a favour:
+
+| | |
+|---|---|
+| **Ch10, scene 10 → 11** | **The joint.** She goes into a cellar with a date in her head; he has been in one for two years and has just worked out that his bowl is a decision. **The act's designed cut, and it is a handover.** |
+| **Ch10, K weight** | **15%, two scenes** — level with ch6 and ch8, and the highest in the act. It is not a rise in his page count. **It is a rise in what the page is doing**, because he is the only one of the three whose thread is moving. |
+| **Ch11** | **Holds at ~10%.** The chapter carries two Tadayoshi events and cannot take more. *His real compounding is act two.* |
+
+> **The reader should not notice the transfer.** Two children in boxes, in
+> two countries, for the same customer — **and one of them stops being the
+> subject and starts being the frame.**
 
 ### 5a. His interior grammar: counted, not dated
 

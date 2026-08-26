@@ -63,13 +63,14 @@ Month by month in `timeline.md` §2. The spine:
   against adults who are trying, and exactly one element** — which makes
   nothing better and only makes things more numerous, and costs him three
   named things in the same entry.
-- **The monastery.** A punishment posting. *"Help."* **The client is the
-  elder holding the sale, so he kills his own employer in a state he cannot
-  reconstruct, gets nothing, and comes home with a child instead of a fee.**
-  The rescue is **a debt he is carrying**, not a gift he gave.
+- **The monastery.** A punishment posting, and it is a posting because
+  three weeks earlier there was an incident. *"Help."* **The client is the
+  elder holding the sale, so he kills his own employer — awake, knowing
+  what he is doing — gets nothing, and comes home with a child instead of
+  a fee.** The rescue is **a debt he is carrying**, not a gift he gave,
+  **and there is no state he can blame it on.**
 
-> ## ⚠ AND WHY SHE IS ALIVE — because there is no creed yet, and something
-> ## has to answer for it.
+> ## ⚠ AND WHY SHE IS ALIVE — and it is a matter of timing, not of luck.
 >
 > **`character.md`: the creed is acquired at eleven, after the merchant and
 > the house and the boy.** The monastery is month 12 of year 0. **So there
@@ -77,41 +78,51 @@ Month by month in `timeline.md` §2. The spine:
 > explicit — *anything between him and the target is in the crossfire,
 > allies included.***
 >
-> **The word does not save her.** §9's rule holds: *what stops it must be
-> an object, not exhaustion*, and at the riverbed it was a note on a
-> clasp. **A word is not an object and does not reach him.**
+> ### The answer is that she is held for two months, and he spends them.
 >
-> **She says it, through a door, during — and it does nothing.**
+> **She is not sold in the week she is priced.** Enkai prices her on the
+> 28th of the tenth month and the buyer's date is *not before the eleventh*
+> — **so she is in that cellar for eight or nine weeks**, and the whole of
+> ch10 and the front of ch11 happen inside her waiting.
 >
-> ### She lives on geometry, and that is the whole of it
+> **And the threshold event lands inside that hold, on his own work, four
+> hundred miles from her** — *early in the twelfth month, three weeks
+> before the docket takes him north-east.* It is the second of his life,
+> it is on a job, it is the reason a losing rebellion decides a difficult
+> boy should be somewhere else for a while — **and the cargo docket is
+> what somebody else's *somewhere else* looks like.**
 >
-> **She is in a cellar, underground, behind a door, and she is not in the
-> field and not in the way.** *He never goes into that room.*
+> **Note the distinction the design already makes.** *Freight* is drift:
+> he could not seal, so they used him for carrying, and nobody revisited
+> it (`ch10.md` §3.3). ***The cargo job* is a posting** — chosen, for him,
+> after an incident. **The first is nobody's decision and the second is
+> somebody's**, and he cannot tell them apart from where he stands.
 >
-> **And the reason he never goes into that room is that there is nothing
-> in it he wants.**
+> ### So when he walks into the Kadono-dera he is not in that state
 >
-> ### And then he comes back, does the reconstruction, and finds a door he
-> ### did not open
+> **and he is not in it because he was in it three weeks ago and somebody
+> had to write it up.** The book gets its uncontrolled event and its
+> rescue, in that order, with the second caused by the first, **and it
+> never has to put a child in a room with him while he is not there.**
 >
-> **He opens it. And she says it again.**
+> ### Which makes the monastery a decision, and that is worse for him
 >
-> ***"Help."*** — **twice. Once with no effect, and once heard.** She has
-> been saying it the whole time and is still saying it.
+> **He kills his own employer knowing what he is doing.** He is not
+> excused by the state he is in, because he is not in it. He walks out on
+> a paid job, gets nothing, and comes home with a child — *awake, on
+> purpose, and with no account of it he can stand behind afterwards.*
 >
-> ### Which is why the creed exists
+> > **The rescue was never going to be a good deed.** The version where he
+> > blacks out and she happens to survive is the version where he can tell
+> > himself anything. **This one he has to carry.**
 >
-> **The arithmetic comes out at *she lived because she was behind a
-> door*, and he cannot build a life on doors.**
+> ### And the hold has a second job
 >
-> **He was saved by an accident and he will not be saved by an accident
-> twice**, and that is the second of the two data points the creed is
-> written off — the other being the boy, in act two, **where he did
-> everything correctly and it did not work.**
->
-> > **One case where a child lived and the reason was a door. One case
-> > where he paid and placed and left and the child came back an enemy.
-> > And a creed written out of both, by a man who attends neither.**
+> **The time she loses is where Kimimaro's thread picks up.** Nothing
+> happens to her for eight weeks — that is the point of her — so the page
+> she stops needing goes to a boy in a cell who has been in one for two
+> years, **which is the only place in act one his thread can grow without
+> being a favour the structure does him.**
 
 **The thing that stops arc one being a justification:** *they made me* is a
 defence, and an arc that proves it produces a book that excuses its
