@@ -183,6 +183,11 @@ be presented for assessment in the year of their eighth birthday.*
 | **Tazu / Iwasa's boy** | Nakadō |
 | **Nezu** | port, forty-one miles north of Sunaba. A river mouth behind a half-mile gravel bar; the state stone quay is on the north side. Market on the landward flat, Tuesdays and Fridays |
 | **Sakabe** | town between Nezu and the riverbed. **The yard behind the bell house** — wall on three sides, hedge on the fourth, a handcart with no wheel. Road shut both ends from the 12th; open on the 28th |
+| **Ōtoma** | where the training happens. A hay barn on the hill; a rope-walk with a room over it; **a cut bank on the road north — clay over rotten shale, the best ground in Ōtoma for breaking** |
+| **Hōki** | *the broom.* Fifty-ish, bad knee he does not favour, hands broken once and set well. **Asks questions and does not answer them**, and never looks at Tadayoshi's hands. Teaches fieldcraft and the element. **Has done this with somebody before and does not finish the sentence** |
+| **Yatate** | *the inkstand.* Forty-five, ink on the side of the hand. **Writes the briefing sheets** off slips from other people, and one of his sources gives him the day he heard a thing instead of the day it happened |
+| **Kanō / Yasu / Nagatsuka** | names off Yatate's sheets. **Yasu is in two places forty miles apart on consecutive days and nobody knows why** |
+| **the one with the bad ear** | one of Yatate's, sixteen or seventeen, **top of the left ear off in a straight line**, stood with one foot turned out. Went to the ford at Ide-no-shō on 27/8 instead of Tadayoshi. **Did not come back, and there is no report** |
 | **Fukae** | inland market town, four days from Sakabe. **The Kiribata** — inn, front room, six tables; the wife is all right, the husband is the problem and is not about before four. Fuda's back room is through the passage; **mind the step, it is not where you think it is** |
 | **Ōtsuka** | **Fuda's working name at Fukae.** A clerk for fourteen years before this, which is why every docket he writes ends *no return required* |
 | **Hanase** | four days east of Fukae. **The yard behind the smithy** (Torii, fifty-ish, bad chest) and a lodging on the east side, a sixteenth for a floor |

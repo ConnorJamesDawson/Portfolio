@@ -2339,3 +2339,639 @@ funeral to Genzō the man.
 8. **Nunome will find out** *(open from C5, still unclosed)*.
 9. **Kimimaro's count is running, in bowls, and has been for a month
    off-page.**
+
+---
+
+### C8 — Chapter 8, "The Right Answer". Month 8, the 2nd – the 29th.
+### 11 scenes, 18,480 words. U×5 (47%) · T×4 (38%) · K×2 (15%).
+
+**THE CARRYING WAS AN EXAM — 8/2, a hay barn above Ōtoma**
+
+- **The summons came as a docket with the parcel line missing:** *2nd of
+  the 8th. Ōtoma. The barn on the hill, any time after dark.* ***No
+  parcel.***
+  > *"He has told me in two words rather than leave me working it out for
+  > three days. That is the third time he has done that, and I have not
+  > once seen him do it."*
+- **Kajiya, on the good end of a bale, able to see both doorways and
+  framed in neither.** *"He has not got worse and he has not got better
+  and he has not got any older."*
+- **FOUR JOBS: Fukae, Hanase, and two in the seventh month — Nunobiki
+  and back. He opened none of them.** Asked how near he came, he gave the
+  right answer: **he learned the knot on a milestone outside Sakabe on
+  the second of the sixth month, in about four minutes.**
+- ***"You've been on trial since the first of the sixth month. That's
+  what carrying is. It isn't a job, it's an exam, and everybody starts
+  on it and most of them are still on it a year later and don't know."***
+  - ***"You thought it was a job." — "Yes." — "Good. That's the point of
+    it."***
+  - **The distinction, and it is given as a warning:** *"Somebody was
+    checking. That's not the same as watching and don't confuse them,
+    it'll get you killed. Nobody stood behind you on a road for nine
+    days. Somebody at the far end had a look at a knot."*
+- **⚠ ONE OF THE FOUR HAD NOTHING IN IT.** Rags, about the weight of a
+  book, tied and waxed and sealed like the rest. **Hanase.** *A man took
+  it off him and said thank you and put it under a bench and it is still
+  there.*
+  - **Nine days of walking, a sixteenth for a floor, a coat on a nail,
+    and the whole of the second book — for rags.**
+  - **And it was not a bad feeling**, because he got there in eleven
+    seconds:
+    > *"The parcel was not the product… Somebody wanted to know what a
+    > boy of ten does over four days when there is nobody behind him, and
+    > the only way to find that out is to send him four days with
+    > something, and the something has to be real enough that he does not
+    > know it is not."*
+    >
+    > **Nothing I did was wasted. It was all of it the point.**
+    >
+    > *(And the coat went on the same road either way, because the man at
+    > two in the morning was not there about a parcel.)*
+
+**THE HEAT SINK, SAID OUT LOUD — and he is pleased**
+
+- **Kajiya says the worst thing at the front, as he did in the yard**, and
+  Tadayoshi notices that he has now done it twice and that both times it
+  is what made him believe the rest.
+- ***"Every team they've got looking at you is a team that isn't looking
+  at somebody else. That's the whole of it and there isn't another one
+  underneath."***
+  - **Eight weeks from riverbed to a man asking a keeper for ages, and
+    that date is on a sheet.** *"Eight weeks is very fast."*
+  - ***"An untrained one lasts about eight months. Then he's dead in a
+    ditch and we've got nothing and they've got their attention back. A
+    trained one goes on drawing for years."***
+  - ***"In about four years somebody will tell you it was because we
+    thought you were special, and they'll believe it, and it will be a
+    lie. It's because you're a thing they can't stop looking at."***
+- **AND HE IS PLEASED, AND IT IS PLAYED WITHOUT COMMENT.**
+  > *"He has taken a boy of ten and put him against eleven hundred people
+  > and a number of years and worked out what the trade is, and he has
+  > done the whole sum out loud in front of me, including the part where I
+  > am a thing being spent, and he has not put one single word on it to
+  > make it go down easier. It is correct. I have checked it."*
+  >
+  > **Nobody has ever told me what I am for.**
+  >
+  > *"My mother gave me instructions and never once gave me a reason. Meno
+  > told me what a thing was. Aoyagi told me where to stand… That is the
+  > first honest thing anybody has said to me about myself since the fifth
+  > of the fourth month."*
+- **The carrying stops in one line with no ceremony.** *"You'll not carry
+  another parcel for me as long as you live."*
+- **And Kajiya's last word, from the doorway, which he does not stand
+  in:** *"The four days weren't wasted. But you worked that out on the
+  bale, and you worked it out in about ten seconds, and you were pleased
+  with yourself for it."* **And Tadayoshi has no idea what was said to
+  him.**
+
+**HŌKI — 8/9 to 8/20**
+
+- **About fifty, a bad knee he does not favour, hands broken once and set
+  well.** *"He is not kind and he is not unkind. It is that neither of
+  them is present."* **And he has never once looked at Tadayoshi's hands,
+  and everybody looks at his hands.**
+- **THE METHOD:** ***Hōki asks questions and does not answer them.***
+  *"He found out on the ninth, in about a minute, that I cannot leave a
+  question standing, and he has been using it ever since and has not made
+  one remark about it."*
+  - **The lane. *What did you leave?*** Tadayoshi gave **nine** in order.
+    **"Three more," said Hōki, and went indoors.**
+  - **He got them on the fourth day, eating:** *it was a dead end and he
+    did not know it was; he looked at the shut window on the left and not
+    the one on the right, which says which side he thinks a thing is on;
+    and he came back at the same speed, which is a thing you have to make
+    yourself do, and making yourself walk the same shows.*
+- **ELEVEN DAYS AND NOT ONE TECHNIQUE.** Breaking contact; reading a
+  docket for what it does not say (*"the thing I have been doing to
+  registers for two years and had never once thought to do to a sheet
+  about myself"*); leaving a town, **which is not the same as getting out
+  of one**; talking to a broker, **which Hōki says he will never do and
+  should therefore never do — the first time anybody has told him not to
+  fix something**; and pricing a job, four days on it, still bad.
+
+**THE ELEMENT — 8/20, a cut bank of clay over rotten shale**
+
+- **Six seals, done slowly four times first. Both hands flat on the
+  ground. About two seconds with the hands down and nothing happening.
+  Then a square yard of bank comes apart into four inches of grit**, with
+  a long low crack he felt in the arches of his feet.
+- **Tadayoshi had it on the fifth attempt** — three seconds, a third of
+  the yield, grain uneven from too much in the near edge — **and none of
+  it mattered, because the thing had happened.**
+  > *"I do not have to buy it. Four hundred years of my family and every
+  > grain of it came off a merchant, by the sack, at a fortieth a tin, and
+  > my father walked it up a hill on his back. **And it is in the ground.
+  > It has been in the ground the entire time.**"*
+- **A square yard is about four tins.**
+- **⚠ AND THEN THE PRICE, IN FIVE WORDS:** ***"So now you need ground you
+  can break."***
+  - *"Which means I need to know what is under the ground before I stand
+    on it… and I have been picking ground on cover and footing since the
+    fourth month and I did not decide to do that either. **It is not a
+    decision, it is a preference, and a preference is a thing you cannot
+    see in yourself.**"*
+  - **And Hōki had walked them forty minutes to that bank, chosen in
+    about nine seconds off the map in his head.**
+  > **In about a year somebody is going to write down where I stand.**
+  >
+  > ***"So the better I get at this the smaller the number of places I
+  > can fight in." — "Yes. Get up, you've got about eleven of those in
+  > you today and you've done four."***
+- **THE FIRST HOLE ANYBODY ELSE HAS EVER FOUND**, and he had no word for
+  what that felt like until he was about nineteen:
+  > *"Nobody in the whole of my life has taken a thing I had already
+  > worked out and found the flaw in it… He has just told me it was not
+  > any good, in five words, about a thing I got right five minutes ago.
+  > **And he did not enjoy it.**"*
+- **⚠ PLANTED:** *"The last one I did this with used to sit there like
+  that as well."* **There is not any more of the sentence.**
+
+**CORRECT, IN A ROOM — 8/21, above the rope-walk**
+
+- **Six people and he was the only one sitting down**, which he did not
+  understand until afterwards. **Kajiya. Hōki, by the door, not leaning
+  on anything. A woman of about thirty who did not look at him once. Two
+  men. And Yatate**, forty-five, ink on the side of his hand, who wrote
+  the sheets.
+- **THE FINDING:** *Yasu at the house at Kamiya on the 4th of month 9;
+  Yasu at Nagatsuka on the 5th; forty miles, which is two days grown and
+  not being careful.*
+  > ***"Yasu can't be in both of those… So it's either a date, or there's
+  > two of him, or he's telling one of you something that isn't true."***
+- **He said it at the volume of a boy reading out a figure, into a
+  room.** *And it went across the whole of it like a dropped plate.*
+- **He was right.** Yatate found it in four seconds — *"I've had them a
+  fortnight apart and put them on two different sheets… Kanō gives me the
+  day he heard a thing and not the day the thing happened"* — **and the
+  woman said *"and if it isn't a date"* and nobody answered her.** Kajiya
+  moved the job three days and ended the meeting.
+- **NOBODY SAID ONE WORD TO HIM.** *"Not thank you, and not well done, and
+  not shut up, and not you were wrong, which would at least have been an
+  answer."*
+- **He could see the room change and could not read it** — *"exactly like
+  reading a hand you know and not being able to say the word."*
+- **AND THE REASON, from Hōki on the corner:**
+  > *"You weren't wrong. **You were right in a room.** There's four people
+  > in there who have known Yasu two and a half years and one of them has
+  > stayed in his house. And a boy of ten who's been here twelve days has
+  > just put it on the table that he might be selling them, in about nine
+  > words, at supper."*
+  >
+  > ***"But he might be." — "Yes." — "So somebody had to—" — "Yes. That's
+  > why nobody told you to shut up."***
+- ***"I don't understand," said Tadayoshi***, which he had said out loud
+  perhaps four times in his life. — ***"I know. That's the other thing
+  about you, and I've not worked out yet whether it can be got at."***
+- **Entered as an anomaly:** *A finding can be correct and be a bad thing
+  to have said, and I have no way at all of telling in advance which kind
+  I am holding. Under review.* **And a line underneath: *And if I had it
+  again tomorrow I would say it again.***
+  > **He did have it again, eleven days later, on the first of the ninth
+  > month, about a different sheet, in a different room — and that time
+  > somebody did tell him to shut up.**
+
+**THE REFUSAL — 8/25 to 8/29**
+
+- **The sheet:** *27th. Ide-no-shō. Two on the road from the east, one at
+  the ford. You are at the ford.* ***In on the 26th by the Hanase road.***
+- **Hōki gave him the other side properly, in three parts, and all three
+  are correct:**
+  1. **Five weeks and three days.** *"Nobody stands on a road for five
+     weeks. He came and he looked and he didn't find you and he went
+     where he was sent next, because he's got a list and you're on it and
+     you're not the whole of it."*
+  2. **The road is the job.** One road off that hill; round is two days;
+     two days makes it the 28th and there is nobody at Ide-no-shō on the
+     28th.
+  3. **⚠ *"You've got one line in that book of yours."*** *"That's not
+     wrong — that's what a file is for. **But a file with one line in it
+     will tell you anything you want, because there's nothing in it to
+     argue with.**"*
+- **And Tadayoshi is also right**, and there is no page both can go on:
+  > *"There is not a right answer. There is a thing that is more likely
+  > and a thing that is worse if it happens, and they are not the same
+  > thing, and nobody can put them on the same page."*
+- ***"That's your call and I'm not going to make it for you." … "Then say
+  it once and don't say it again, because a man who keeps giving you
+  reasons is a man who wants somebody to argue him out of it."***
+- **Nothing happened afterwards.** No argument, nobody cross, the sheet
+  gone off the bench by evening. **He spent the 26th and 27th breaking
+  eleven yards of bank into grit and got it to 2¼ seconds on good ground
+  and 3 on bad. He slept well on both nights, which he noticed afterwards
+  and could not do anything about.**
+
+**THE ONE WITH THE BAD EAR — 8/29**
+
+- ***"Ide-no-shō went."*** Then: **one of Yatate's, sixteen or seventeen.**
+- **Tadayoshi's entire record of him**, produced instantly and never
+  added to: *seen twice — Ōtoma bottom end on the 11th going the other
+  way with his hands in his sleeves, and outside the rope-walk on the
+  21st, where he laughed at something and it was the laugh of somebody
+  who has not got the joke and is joining in. **Top of the left ear gone
+  in a straight line, and the edge is clean, so it is a knife and not
+  frost.** He stood with one foot turned out.*
+- ***"He's not come back."*** Since the 27th. **A sheet has been through
+  and it does not have him on it.**
+- **⚠ AND HE DOES NOT GET TO KNOW WHETHER HE WAS RIGHT:**
+  > ***"Was it the road?" — "I don't know. Nobody knows. Nobody's going to
+  > know. He was at a ford on his own on the twenty-seventh and there is
+  > not one person on this earth who can tell you what happened at it.
+  > That's what not coming back is. It isn't a story with an end on it.
+  > It's a sheet with a name off it."***
+- **HE COULD NOT DECIDE WHICH BOOK IT WENT IN**, and sat with both open
+  on his knees in the dark.
+  - **Not the hunter file** — *"the hunter book is for things that came
+    for me and this did not come for me… the only column I could fill in
+    is the last one and I have got no right to it."*
+  - **Not a finding either** — *"a finding is a thing you know."*
+- **So it went in the ledger, in four lines, and he ruled the last one in
+  two halves with a stroke between them and left the right side blank** —
+  **the same rule as the seventh line of the riverbed entry** (19/5,
+  above Nezu), **Meno's rule for a column whose total is not known.**
+  > *29/8. Ide-no-shō, the ford, the 27th. I refused the Hanase road on
+  > the 25th and I would refuse it again on the same evidence.*
+  >
+  > *They sent one of Yatate's… He has not come back and there is no
+  > report and there is not going to be one.*
+  >
+  > *I never found out what he was called and I am not going to, because
+  > nobody in this trade has a name. /*
+  >
+  > **Being right did not remove the job. It only removed me from it.**
+- ***"And I would do it again. And that is not the same as it being all
+  right, and I have got nowhere to put the difference."***
+- **In the morning he broke another eleven yards and got it to 2⅛.**
+
+**UZUKI — FOUR MARKS AND NO RULE, 8/8**
+
+- **Marks at 20/7, 29/7, 3/8, 6/8.** *(Fifth on 10/8, see below.)*
+- **She ran eleven questions and wrote the answer even when it was no**,
+  the way her father did the mill chits. **Nine no's and two `?`.**
+  - **Day of week:** the 20th Tuesday and the 29th Friday, **two for
+    four, which is what you get putting four marks anywhere in a week.**
+  - **Drink:** none near any of them. **Money and market:** Ōgi goes the
+    4th and the 18th; the 6th is two days after the 4th. *market?*
+  - **Her mother:** *"the two I do know are both her being all right."*
+  - **Herself:** in the house all four, in bed by nine all four,
+    perhaps forty words spoken on the sixth. **"It isn't me"** — *and she
+    was surprised by how much of a relief that was, and immediately
+    ashamed of the relief, and put both down.*
+- **THE FINDING:** **everything that correlates is on the outside of the
+  house** — a price at Ōgi, a hinge on a shed, weather in somebody
+  else's field.
+  > **The thing that decides it isn't in the house, so nobody in the
+  > house can do anything about it.**
+  >
+  > *"I've been looking for a rule so that I could manage it… If it was
+  > drink I could water it. If it was money I could earn. If it was Mother
+  > I could tell her. **Four marks and no rule is a thing you can only
+  > wait for.**"*
+- **AND THE GAPS.** *"There was one more sum on that bag and I was not
+  going to be a person who leaves a sum."* **Nine. Five. Three.**
+  Extrapolated: *two, then one or two, then every day.* **Checked twice,
+  both directions, and right.**
+  > *"So it's right, and it's getting closer, and I can put a number on
+  > how much closer it's getting, and I have got no idea at all why."*
+  > **(The hunter curve, in a girl's hand, on a flour bag. Neither of
+  > them knows the other exists.)**
+- **THE USEFUL BIT, four seconds, at the end:** *"Everything on this bag
+  is about me. The ninety is me. The money is me. The days is me. And the
+  fourth one is her. **There is not one single thing on this bag about
+  him.**"* **She starts keeping it in her head, with the other list, that
+  evening — including the nothing days,** *because a column with only bad
+  days in it isn't a column, it's a grievance.*
+
+**FOUR FOR FOUR — 8/10 to 8/22**
+
+- **Fifth mark on the 10th. Gaps now nine, five, three, four.** *"It's
+  about a week and a half of my life left before it's every other day."*
+- **THE COVER: the sacks.** Forty of them in the shed, eleven split, and
+  nobody has done them in two years because it takes four hours and saves
+  a sixteenth. **She brought nine into the kitchen on the eleventh.**
+  Eleven words and the cover was built.
+  - **And he was pleased**, and told Ine's brother at the water that *the
+    girl had done the sacks.* **Her mother said *that's good of you,
+    love*, and meant it**, and Uzuki said nothing back at all, *because
+    there was nothing she could have said that would not have been either
+    a lie or the truth.*
+- **Seven till half ten, nine sacks a night going down to four when her
+  hands went. She was there, and awake, and visible, and that was the
+  whole of the mechanism.**
+- **11th, 12th, 13th, 14th: nothing.** ***Four for four. I'm the
+  reason.*** *"That's all it takes. Somebody being in the room."*
+- **AND THEN, eight seconds from sleep:** *"If sitting up stops it, then
+  going to bed doesn't."* **She got up and went back to the stool until
+  one in the morning.**
+- **THE PRICE, and she had costed it in hours and it did not come out of
+  hours.** Sack-mending is four hundred needle-passes an evening through
+  folded hemp — **the exact muscles the palm is.** The eighteenth went
+  badly and both of them knew it.
+  - ***"You're grey. What are you doing at night?" — "Sacks."*** **Which
+    came out completely smoothly and was completely true and was in every
+    way that mattered a lie, and she noticed none of those three things
+    at the time.** *(⚠ `team.md` §11 — the household's only liar,
+    established here, unremarked.)*
+  - **Kuriya: *do six, and come Thursday as well, and I'll pay you the
+    same — I'd rather have three-quarters of you three times than half of
+    you twice.*** *"He's giving me a night off and the night off is the
+    thing I can't take."*
+- **19th, 20th, 21st: nothing. Eleven nights.**
+- **⚠ THE 22nd. She went to bed at nine and it was a DECISION**, made
+  standing in the kitchen at ten to nine with a sack in her hands: *"One
+  night. It's eleven days. It was nine, five, three, four and then eleven,
+  and it doesn't go from eleven to one."*
+- **It happened that night.** She came up out of sleep into the after
+  part. **She did not get up.**
+- **THE ARITHMETIC AFTERWARDS, and it is the worst of her life:** *tenth
+  to the twenty-second is **twelve**. Nine, five, three, four, twelve.*
+  > ***I bent it. I bent it by nine days.***
+  >
+  > **I am in it. I am one of the things that decides how often it
+  > happens, and I found that out by sitting on a stool.**
+  >
+  > *"And it means the eleven nights weren't me being good. They were me
+  > finding out what the price is. And I have got to pay it every night
+  > for the rest of my life, and I am ten, and I lasted eleven."*
+
+**THE SIXTIETH — 8/23, Kuriya's kitchen**
+
+- **The knee is better.** The heat is off the inside edge; *that's the
+  Thursdays; it works.* **And the hip is exactly the same and will be in
+  the ninth and the tenth.** *"I am putting hours into a knee that is
+  being broken every day by a hip."* — ***"It's a thing. It's not a thing
+  I can do anything about."***
+- **Twenty-five minutes in the one room in Nakadō where nobody is going
+  to say anything** — an arrangement she built herself in month 7 by
+  telling him talking made her lose it, *which was true, and because he
+  was a man who was extremely glad to be given a rule about not talking.*
+- **THREE REASONS, worked out inside the count:**
+  1. **She would have to say how she knows** — *a chair, a bucket, and a
+     woman putting wood down.* *"I am certain because I have lived four
+     feet from that woman for ten years. **And that is not evidence. That
+     is me.**"*
+  2. **He would have to do something**, and a decent careful man goes and
+     has a quiet word.
+     > **So telling anybody makes it worse for her tonight, and I would
+     > be the one who did it, and I would have done it by trying to
+     > help.**
+  3. **She is being paid.** *"Half a ryō a month and three afternoons and
+     one person in this village who talks to me like I'm a person… I am
+     ten and I have got exactly two things, and one of them I cannot help
+     and the other one I am not going to burn on trying."*
+- **⚠ THE FOURTH, WHICH SHE DID NOT PUT IN THE LIST.** At the sixtieth
+  her mouth got as far as taking a breath, **and she did not push.**
+  > *"That is the exact same motion. He taught me to want to push and not
+  > push, and to stop on purpose and not trail off, and I have just used
+  > it on my own mouth. **He taught me a thing for putting into people
+  > and I have turned it round and used it to hold something in.**"*
+- **AND HE HELD THE DOOR OPEN**, having plainly worked out a way of asking
+  that cost her nothing to refuse: ***"Is it just the sacks?" — "Yes."***
+  **He nodded once and did not ask again that year.**
+- **THEN SHE ASKED THE OTHER THING**, and thought about it for four
+  months afterwards: *what would it take for you to let a house to
+  somebody?*
+  > **"Money, every month, on the day, and the day matters more than the
+  > money. And a name on a paper, and the name has to be somebody I can go
+  > and stand in front of."** — *"So a woman on her own can't." —* **"A
+  > woman on her own can if she's got a trade and people know it. Ine's
+  > sister holds one at Ōgi and she's been on her own eleven years. **It's
+  > not the woman. It's the trade.**"**
+  >
+  > *"How long does it take for people to know?" — "Years." — "Why?" —
+  > "**No reason**," said Uzuki, and it came out perfectly smoothly.*
+  >
+  > **1,646.**
+
+**PUTTING HIM BACK — 8/26, morning**
+
+- **Nine seconds, at half six, coming out of her own room with her hair
+  not done. And she ran the same test she ran on the sixteenth.**
+  > **"There is nothing behind me but a wall."** *The line off that table
+  > goes through where she stood and into a wall three feet the other
+  > side. **Same test. Same person. Same time of day. And it fails.**"*
+- **She reached for the list and there was nothing there**, because she
+  had struck it herself on 16/7 *deliberately, as an act*, and said
+  *there*, and gone to sleep pleased.
+- **AND SHE COULD NOT PUT HIM BACK, and the reason is not pride:**
+  > **If he goes back on, the sixteenth was wrong. And if the sixteenth
+  > was wrong then she has spent six weeks in a house with somebody she
+  > had already got right** — the lane, the yard on the eighth, the
+  > fields, the sacks — *"being pleased with myself for being fair about
+  > it."*
+- **SO SHE RECITED THE WHOLE LIST, from age seven, in about four
+  minutes.** Eleven people in three years: *the man in the fish at Ōgi
+  (six, a made number); the one on the Ōgi road with the cart, twice;
+  **Tazu, four, the worst there is** — and her mother made sure she was
+  never alone with him during her father's illness and never said one
+  word about it, and Uzuki did not work that out until the fourth month;
+  the one at the shrine at harvest; **the two men in the wood on 27/3**;
+  the one at Kayano with the dog; **Ine's brother, two, twice**; the
+  tanner's man; him.*
+- **⚠ AND THE THING THAT WENT IN LIKE COLD WATER:**
+  > **"I have never been wrong. Not once, in three years and eleven
+  > people."** *Nothing ever happened — which is not proof — because she
+  > never went near any of them and her mother and father made sure of it.
+  > **The list has never been tested.***
+  >
+  > **"And the only time I ever took anybody off it was the only one who
+  > lives in this house."**
+- **AND SHE STILL DID NOT PUT HIM ON**, clear-eyed about why, and it was
+  not doubt about the nine seconds:
+  > *"It's the only thing in me that has worked, every time, since I was
+  > seven, and it has worked because I have never argued with it, and the
+  > one time I argued with it I was wrong. **If I put him back on now
+  > then that is what the list is: a thing I argue with. And then it's not
+  > a list, it's an opinion.**"*
+  >
+  > *"I have already proved I'll take him off again if the barley turns
+  > out well, and I would rather have nothing than have a thing I know
+  > I'll do that to."*
+- **There is no column on the bag for nine seconds and a wall.** *"A
+  thing you know and can't write down and can't put on a list is a thing
+  that sits in you all night, and I have had two months of that."*
+  > ***It has to go somewhere I can look at it.***
+  >
+  > **She got up and went out to the kitchen.**
+
+**THE KNIFE, AND THE COLUMN THAT STOPS — 8/26, night**
+
+- **Four knives, and she costed all four before she opened the drawer.**
+  The big one and the bread one are gone by breakfast. **The little
+  split-handled one out of the jar is wanted nine times a day** — *"and
+  the morning I forgot would be the morning it mattered."*
+- **THE PIG KNIFE.** Seven inches, in the back of the drawer under a
+  cloth, oiled, leather over the point — **the only thing in that kitchen
+  anybody looks after** — **and it does not come out until the eleventh
+  month.**
+  > **"So it's ten weeks. And I have just given myself ten weeks. I did
+  > not sit down and decide that. I worked out which knife would not be
+  > missed and the answer to that question is a date."**
+  >
+  > **Two numbers now — 1,643 and about seventy — and they are not about
+  > the same thing and do not fit inside each other.**
+- **She could not finish the sentence.** *In case he —* / *If he ever —*
+  **twice, and both times it goes as far as him and stops.**
+  > *"Because I don't know which one of us it's for."* — **noted for about
+  > a second and a half and put down without examining, the way she put
+  > down the thing in the yard at the wedding.**
+  >
+  > *"A thing you have got and cannot say what for is exactly the sort of
+  > thing Dad would have taken off me. He'd have said: what's it for. And
+  > I'd have said I don't know. And he'd have said: then you haven't got
+  > it, you're just carrying it." — **"I'm carrying it."***
+- **AND THE THING SHE ACTUALLY CAME OUT FOR, which is not a knife:**
+  > **It is the nine seconds, made into a thing, so that it is not in her
+  > any more** — *"and it will be exactly as true tomorrow as it was this
+  > morning, and nobody can say it was a wall and a bucket, because there
+  > is a knife under my bed and I put it there."*
+  >
+  > **Under the mat, at the top, where her hand goes when she lies on her
+  > right side. She lay down on it and it was uncomfortable and she left
+  > it.**
+- **⚠ AND THEN THE NINETY STOPPED.**
+  - **Both palms flat on the brick. *Little. Stop. Wait. One.* And nothing
+    happened.**
+  - **Not faint and not slow.** *"There was nothing there at all, in the
+    place where the thing was, the way a step that is not there is not a
+    shallow step."* **She warmed her hands and held longer than she had
+    ever held for a first one.**
+  - **She was not frightened, and noticed that she was not, and could not
+    account for it.**
+  - **Her explanation, and it is the true one and it does not help:** *"It
+    was there four hours ago. It's there when there's somebody in front
+    of me. **Anzai never gave me a wall — he gave me a man's leg and a cup
+    of water, and I made the wall up myself because there was nobody in
+    the house to do it on.** So it's the wall, and I'll do it tomorrow."*
+  - **She counted the forty seconds out of habit. There was nothing to
+    check.**
+  - **A hundred and fifteen nights of numbers on that bag** — 20, 22, 19,
+    24, 24, 26 … *31 good* … 29, 28, 29 —
+    > **She put the pen down without deciding anything**, and would have
+    > said, if asked, that she was going to do it in the morning.
+    >
+    > **⚠ THE COLUMN STOPS HERE, ON 26/8, AND NOTHING IN THIS BOOK EVER
+    > REMARKS ON IT AGAIN.**
+- **Last line:** she lay on her right side with a knife under the mat that
+  she could feel through the matting, **and reached out with the other
+  hand and put it flat on the wall. It was cold, and it was brick, and
+  there was nothing behind it.**
+
+**KIMIMARO — THE GAP WAS SIX**
+
+- **He knows the passage by gaps** and never decided to learn it. *Mine.
+  Six, and then that one. Then a long one I cannot hold. Then two together
+  that are almost the same.* **And a nine, and the nine stopped a long
+  time ago and the number of days since is gone.**
+- **TWO SEQUENCES, side by side, both already on the page:**
+  - **First:** *the man with the wood → nine days → warm food → more in
+    the bowl → the blanket, folded → washed, by two who were not the
+    keeper.*
+  - **Second:** *the room with the lamp → ten days and nothing → the
+    blanket taken, folded, going out → cold food on the eleventh → less
+    in it.*
+  - ***"And then thirty-eight days of nothing at all. The second row does
+    not have an end on it yet."***
+- **AN INSPECTION FROM INSIDE A ROOM IS: more feet.** *"The passage
+  carries two people every day and on that day it carried four, and four
+  people walk differently from two — not louder, rougher, because two
+  people walk in step after a while and four never do."* **And one of them
+  stops in the passage while the others go in.** He counted the inside of
+  it to about five hundred, in two goes.
+- **THEN IT RAN.** The bowl going in twice instead of three times; the
+  bucket not coming out; on the fourth day of it somebody stopping at the
+  six-door and not going in; on the seventh the bowl once; on the ninth
+  and tenth he lost the gaps because the keeper was quick that week.
+  **On the eleventh, the six-door did not open.**
+- **He knew on the second day of twice.** *"I knew before it happened and
+  I got it right and there was nothing at all I could do with it."*
+- **He stopped counting the days since at nine, on purpose, and knew why:
+  *because a number you keep is a number that is going to get big.***
+- **AND HE LAID THEM AGAINST EACH OTHER:** *his was eleven days from the
+  twice to the door. **Mine is thirty-eight and counting.***
+  > *"So it isn't the same. Or it is the same and it is slower… and
+  > slower is the whole of what I have got."*
+  >
+  > **He had a shape for what was going to happen to him and he had built
+  > it out of a door he had never seen, four along a passage, from the
+  > gaps between other people's bowls.**
+- **He never found out anything about that child** — not boy or girl, not
+  age, not whether they had ever counted *his* door. **One thing, for the
+  rest of his life: *the gap was six.*** **He said it once, out loud,
+  which was the first time he had said anything out loud alone in two
+  years, and it did not sound like anything, and he did not do it again.**
+- **Bowl one hundred and eighty-three.**
+
+**SLOWLY, AND WORSE**
+
+- **⚠ THE CONTROL HAS BEEN OUT OF HIS RIGHT HAND SINCE THE NIGHT HE
+  STARTED.** An inch and a half between the middle knuckles. **It caught
+  on the blanket while there was a blanket, on the mat, on the inside of
+  the bowl about twice a week** — *he learned to eat with the hand
+  turned* — **and it has gone through the skin three times and grown a
+  hard shine where he knocked it on the wall. He kept it.** *"It is not
+  for anything except being the other one."*
+- **The left one came back at a hundred and seventy-eight**, and he
+  marked that as **a made number and not a counted one**, because at 160
+  it was still growing and at 190 it was not. **And three bowls is a day
+  only when they give three, and they have not always given three.**
+- **He put off comparing them for about nine days and knew he was putting
+  it off and could not work out why a person puts a thing off.**
+- **BACKS OF THE HANDS TOGETHER, thumbs along both at once, four times:**
+  - **The left one is about a fingernail shorter, and shorter every
+    time.**
+  - **And it is not straight** — it goes out to the side with a turn near
+    the top, **and there is a place on it where it changes**, and the
+    right one is smooth the whole way.
+- **THE ANSWER:** *"a hundred and seventy-eight bowls, and worse."*
+  > **"The one that has not been broken is the good one. So it is the
+  > breaking."**
+  >
+  > *"He came from somewhere and his shoes were quiet… and the one he did
+  > not write after was that one. And I have got it now and it is: slowly,
+  > and worse. **That is not a good thing to be.**"*
+  >
+  > **He had never been in a position to be disappointing to anybody**,
+  > because nobody had ever wanted anything off him except that he hold
+  > still. **This was new and he had no shape for it at all.**
+- **HE DID NOT DECIDE TO LIE.** *"The thought was not available to him. He
+  had heard perhaps two hundred sentences in two years and none of them
+  had ever been a false one he could identify, and the machinery for
+  making one was not in him."*
+- **HE DECIDED TO MAKE THE NUMBER BETTER.**
+  > *"It might get better. I know it got worse once. Once is one. And if I
+  > do it again and it comes back at a hundred and sixty then it gets
+  > better, and if it comes back at two hundred then it does not, and
+  > either way **when he asks me I will have a number instead of I don't
+  > know**."*
+  >
+  > **Nobody had told him that a thing gets better if you do it a great
+  > many times. He had no word for practising and had never watched
+  > anybody do it. He worked it out from a hand.**
+- **He put one out of the same place — thicker skin now, and a ridge under
+  it that was not there in the sixth month — and broke it off. It hurt
+  more than the first and second times and he had expected that and it was
+  not information.**
+- **He put the piece on the mat beside the first one, so that when there
+  is a third he can put all three in a line and look at them together.**
+- **Second count starts on the last line: *One.***
+
+**OPEN INTO CHAPTER 9**
+
+1. **HE COMES FOR HER, AND HER MOTHER WATCHES.** `act-1.md` — **month 9
+   is the turn**, and two chapters of listening are what make it land.
+   **She opens his face and runs.**
+2. **The knife is under the mat and she has given herself until the
+   eleventh month.**
+3. **The interval is nine, five, three, four, twelve** — and the twelve
+   was her, and she has stopped.
+4. **The list is empty and she will not use it, and the one person she
+   ever took off it is in the house.**
+5. **SAGARA NAGI** — she survives, and goes into the file as **the
+   left-hander**, and **the file gets its second line.**
+6. **He has stopped refusing things** *(unstated; it is the consequence of
+   29/8 and the book should never say so)*.
+7. **Hōki is alive at the end of this chapter**, and *the last one I did
+   this with* has no more of the sentence on it.
+8. **The second count is running.**
+9. **Nunome** and **the bed at Hanase**, both still open.
