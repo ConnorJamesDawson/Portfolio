@@ -181,3 +181,12 @@ be presented for assessment in the year of their eighth birthday.*
 | **Ryūta** | eleven. Tadayoshi broke his arm last year. Asked him a good question once and did not finish it. |
 | **Kenji** | Kanaya's man at the Ōura counter — **see the plant above** |
 | **Tazu / Iwasa's boy** | Nakadō |
+| **Nezu** | port, forty-one miles north of Sunaba. A river mouth behind a half-mile gravel bar; the state stone quay is on the north side. Market on the landward flat, Tuesdays and Fridays |
+| **Sakabe** | town between Nezu and the riverbed. **The yard behind the bell house** — wall on three sides, hedge on the fourth, a handcart with no wheel. Road shut both ends from the 12th; open on the 28th |
+| **Kihara** | chandler and victualler, third yard up from the crane, north quay, Nezu. Sixty-ish. **Paid on a warrant on the 3rd of month 4 and still owed** |
+| **STORES — SECOND OFFICE** | the warrant office that pays for state movements. Seven-figure number, clerk's hand, and **a countersign of six strokes in a square with the corners cut** — not the harbour, not the navy. Seen twice in nine years on that coast; the other time three years before |
+| **Kui** (杭, *the stake*) | **Tadayoshi's trade name**, written by Kajiya on the first docket, month 6, the 1st. Built out of four minutes of fences and nothing about the ninety yards |
+| **Kuriya** | the Nozakis' landlord, Nakadō. Sixty-something, scrupulous, **eleven widows**, a bad knee that is really a hip |
+| **Iwasa's top field** | faces the wrong way, still full of stones after forty years. Four or five hands for nine days a year |
+| **Isaki / Fumi** | Nakadō. Isaki is twelve and fast and gave her the trick; Fumi does not speak to her and is not being unkind |
+| **Genzō** | the mule — and the man Kiyoshi bought him off, *so that he would remember*. Sold to Shimoda for six on the 14th of month 5 |
