@@ -456,50 +456,104 @@ He was quoting a procurement policy.**
 | **Investment** | month 8 → act two | **Fieldcraft, sparring against adults who are trying, and one element.** |
 | **Return** | act two onward | **He is a standing line in Kiri's tasking budget**, and everybody else is quieter. |
 
-### THE ELEMENT — one, earth, and it is not an attack
+### THE ARSENAL — they give him everything they have, and it does not help
 
-> **Ruled: he gets exactly one, and it makes nothing better. It makes
-> things more numerous.**
+**If the point of the investment is to keep the heat sink drawing for as
+long as possible, withholding is irrational.** Nobody rations the one
+asset that works.
+
+> **They teach him whatever the eleven hundred happen to contain.**
+> Fieldcraft, sparring, elemental training, techniques. **No budget, no
+> gating, nobody saving anything for later.**
+
+**The one worth naming, because it changes the craft:** **ground-breaking
+as medium generation** — he can break stone and packed earth into workable
+grit. It solves the tin (ch5: a third gone in six minutes) and it is
+thematically exact, because **the Ruri buy grit by the sack off a
+merchant, and a boy who can make his own material has stopped needing a
+household**, and he will not notice that is what happened.
+
+**Everything else stays unnamed on the page and appears when used.** Not
+a power rule — a craft one. **This book's kit grammar is articles with
+dates on them, not a technique list**, and an itemised arsenal invites the
+reader to track an inventory instead of a cost.
+
+---
+
+### THE CONSTRAINT — and it is not power. He is one object.
+
+> **His limit is not how much he can do. It is that he can only be in one
+> place doing it.**
+
+**He can delegate a task. He cannot lead**, and it is not arrogance — it
+is a fear he can state:
+
+> **If he switches off at the wrong moment, the people standing near him
+> die.** And he cannot predict when. §9 discipline 3: *he can measure
+> everything about it except its arrival.*
+
+So he does the only thing available to a boy who can neither rely on
+anybody nor risk anybody: **he gets better, so that he will not need
+anybody.**
+
+> **Every technique he is given confirms the creed.** The resistance is
+> not only spending a child — **it is feeding a delusion, cheaply**,
+> because a boy who believes he needs nobody is a boy who will stand on a
+> road alone. **Nobody planned that.** It is what a losing organisation
+> does with a self-sufficient asset.
+
+**AND THE WALL:**
+
+> **A dozen hunter-nin is not a harder fight. It is twelve fights.**
 >
-> **Ground-breaking as MEDIUM GENERATION.** He can break stone and packed
-> earth into workable grit.
+> **No technique in the world makes him two places.** The only thing that
+> solves arity is people, **and people are the one thing he will not
+> take.**
 
-**Why this and not something else:**
+### The four costs, and every one of them rises WITH him
 
-1. **It solves his hardest logistical constraint** — the tin. Ch5: a third
-   of it gone in six minutes, and it was the first time in his life he had
-   failed to count material.
-2. **It is thematically exact.** The Ruri buy grit by the sack off a
-   merchant. **A boy who can make his own material is a boy who has stopped
-   needing a household** — and he will not notice that is what happened.
-3. **It is the least escalatory widening available.** It does not make an
-   article better, faster, sharper, longer-lived or cheaper. **Volume is
-   already the expensive category** (§5) and this moves volume only.
+1. **ARITY DOES NOT MOVE.** Everything he learns makes him better at one
+   place at a time, and one is the number that is killing him.
+2. **THE FIELD HAS NO JUDGEMENT.** More reach is more unattended lethal
+   ground, and **a fence does not know who walked into it.** §6:
+   *tripping hazards is not a figure of speech — it is a description of
+   his own technique.* **So every increase in his power increases the
+   number of innocents his own work can kill**, and the creed is not
+   paranoia about the threshold. **It is arithmetic about a field.**
+3. **THE THRESHOLD SCALES WITH HIM.** It spends whatever he has got. At
+   ten it made four corpses in a riverbed. At thirteen, with everything
+   they gave him and ground he can break, **what he cannot account for
+   afterwards is larger every single year.** §9 discipline 1 — *the
+   outcome is never net-positive* — **with the outcome growing.**
+4. **MORE MEDIUM MAKES HIM LOUDER.** More material is more cheap
+   articles, and a cheap article has a loud note (§4.2). *His economy and
+   his vulnerability are the same axis*, and getting stronger moves him
+   along it. **A good opponent does not break his crystal; they listen to
+   it.**
 
-### The three replacement constraints — mandatory, per §12
+> **Net: better every year, in one place, on ground that kills anybody,
+> with a blackout that gets bigger, while becoming easier to hear.**
 
-1. **He has to be standing on ground he can break.** So he chooses ground
-   — and **from about the fourth team onward, the briefings say where he
-   will stand.** The curve eats the gain inside one chapter, mechanically,
-   per §10.
-2. **Breaking ground is loud, slow, and a beacon.** Unavailable in a room,
-   on a road he cannot stop on, on a boat — **and on a bridge over water.**
-   > **So the technique is unavailable in the book's largest set piece.
-   > Wave is fought out of the tin.**
-3. **MORE MEDIUM MAKES HIM LOUDER.** More material is more cheap articles,
-   and a cheap article has a loud note (§4.2). *His economy and his
-   vulnerability are the same axis* — **so the widening slides him toward
-   the vulnerable end.** A good opponent does not break his crystal; they
-   listen to it. **He has just made himself easier to listen to.**
+### What this does to the curve — discipline 1 promoted to the win condition
 
-> **Net: he can fight longer, in fewer places, against better people,
-> while making more noise.**
+§10 discipline 1 said *the curve is felt as shrinking options, not bigger
+fights.* **That is no longer flavour. It is how he is beaten.**
 
-### The second thing they give him is not a technique. It is method, and men.
+> **The state does not need a hunter who can out-fight him. It needs four
+> teams with four different objectives on the same day** — the broker, the
+> client, the lodging, and him — **and he cannot cover four.**
+
+**Which is what Sagara Nagi eventually works out**, and it is why she is
+the last rung before the brother:
+
+> **She does not get better at fighting him. She gets better at not having
+> to.**
+
+### The second gift is not a technique. It is method, and men.
 
 - **Fieldcraft** — breaking contact, using a broker, reading a briefing,
   leaving a town, **and pricing a job.** *The four things he cannot do*
-  (`character.md`, the missing organ) taught, partially and badly, by
+  (`character.md`, the missing organ), taught partially and badly by
   people who do them for a living.
 - **Sparring against adults who are trying** — **the only graded
   instruction he will ever receive that is not an assassination attempt.**
@@ -509,32 +563,42 @@ He was quoting a procurement policy.**
 > **The men who train him are being spent.** They are a losing rebellion;
 > they die. **He will be able to name what each of them taught him, and
 > the catalogue only ever gets shorter** — `act-1.md` §5.1, the compound's
-> rule, running a second time on a second family, and he will not see the
-> shape until it has happened twice.
+> rule, running a second time on a second family, **and he will not see
+> the shape until it has happened twice.**
 
 ### THE BENCHMARK — end of Wave
 
 > **He can make a Jōnin sweat, on combat experience alone.**
 
-**Read *alone* strictly: no power-ups. The curve is the ladder.** The
-element and the fieldcraft are what let him live long enough to accumulate
-the experience. **They are not what makes him dangerous.**
+**Read *alone* strictly: no power-ups. The curve is the ladder.** What
+they gave him is what lets him live long enough to accumulate the
+experience. **It is not what makes him dangerous.**
 
-**And he is not stronger than a Jōnin.** Three things produce the sweat
-and not one of them is a power tier:
+**And he is not stronger than a Jōnin.** Three things make one sweat and
+not one is a power tier:
 
-1. **He is a specialist in a narrow thing no Jōnin has a prepared answer
-   for.** Everything they have trained against moves.
+1. **A narrow specialism nobody has a prepared answer for.** Everything
+   they have trained against moves.
 2. **Three years of assassination attempts is a schooling nobody else in
-   the book has had.** He has been graded, in earnest, by professionals,
-   about a dozen times, and survived every one.
+   this book has had.** Graded, in earnest, by professionals, about a
+   dozen times, and he survived all of them.
 3. **The cost of being wrong about him is death** — the threshold — and a
    professional who works that out mid-fight has to commit.
    > **The sweat is unfamiliarity plus consequence, not power.**
 
-**What would break it:** any version where he wins on force, or where a
-Jōnin is written down to meet him. **He should lose exchanges and still be
-unsurvivable to get wrong.**
+**AND IT IS EXACTLY AS USEFUL AS IT SOUNDS, WHICH IS TO SAY: IT IS ONE
+JŌNIN.**
+
+> At Wave he is on **a bridge over water — ground he cannot break** — with
+> people on it he has made himself responsible for.
+>
+> **The problem is not Zabuza's strength.** The problem is that **there
+> are things to protect and he is one object**, and every single thing the
+> resistance taught him is a thing he does in one place.
+
+**What would break the benchmark:** any version where he wins on force, or
+where a Jōnin is written down to meet him. **He should lose exchanges and
+still be unsurvivable to get wrong.**
 
 ---
 
