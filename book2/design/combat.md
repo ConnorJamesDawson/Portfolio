@@ -27,8 +27,14 @@ seals bypasses the specification.**
 | State | Seals | Precision | Control |
 |---|---|---|---|
 | Working | yes | full | full |
+| **Half seals** *(§1b)* | **half** | **one course** | **full** |
 | **The threshold** | **no** | **crude** | **none** |
 | Sage (far off) | no | crude | **his** |
+
+**Note where the half-seal row sits.** It trades **precision** and keeps
+**control**, which is what makes it a craft and not a collapse. The
+threshold and Sage both drop control or specification entirely; this drops
+neither. **It is the same axis, one step along.**
 
 So the rage does not make him better at his craft — **it strips the craft
 and leaves an animal with equipment.** And **Sage Mode is not a power-up. It
@@ -40,6 +46,102 @@ about.
 FOR.** If the sequence is how he specifies an article, the mode draws
 straight off the world without specifying — **faster and cruder, not faster
 and better.** Precision is what he trades away.
+
+---
+
+## 1b. HALF SEALS — and he was always going to get there
+
+> **He took a hand sign out of a substitution technique at eight.** Seal
+> reduction is not a thing he learns. **It is the thing he is.**
+
+### The correction, and it is the third of its kind
+
+**A first draft of this had him plateau at "about a fifth" on one-handed
+work and never improve.** That was a cap wearing a constraint's clothes —
+the same error as the one-element ruling and the *she is not a fighter*
+ruling — **and it is refused for the same reason: `falsified.md`'s rule is
+no cap without a named replacement constraint, and a cap is the lazy
+version of one.**
+
+**The boy solves it. He was always going to solve it.**
+
+- **He has known the hands are the weakness since he was eight**, and
+  Aoyagi told him, and §4 has it as attackable resource number one.
+- **Nagi confirmed it in ninety seconds and then broke the hand**
+  (`ch09.md`), which is the most expensive demonstration anybody could
+  have arranged.
+- **And she gave him six weeks with nothing to do.** *He has known this
+  was the problem for two years and has never once had six free weeks.*
+  > **She broke his hand and handed him the answer to his worst
+  > weakness.** *He is the syllabus, and so is she.*
+
+### The mechanism is his own signature operation, run on himself
+
+§2: *the part doing no work is the liturgy.* At eight he asked that about
+a copper frame. **At ten, with one hand, he asks it about his own four
+seals.**
+
+> ***Which of these four is load-bearing?***
+
+**And the answer is that they are not four steps of one thing.**
+
+| | The seals that specify | Hands needed |
+|---|---|---|
+| **Shape, place, and how far** | **the article** | **one** |
+| **The second course** | **the quality** | **two** |
+
+> **The two-hand requirement lives in the course-specifying seals.**
+>
+> **So one-handed work and single-course work are the same discovery**, and
+> he does not learn a technique — **he decomposes a sequence**, exactly as
+> he did at eight, and finds the half that was never about the shape.
+
+**Which obeys §1 rather than breaking it:** *the seals are where the
+specification lives, and anything that bypasses the seals bypasses the
+specification.* **He drops half the specification on purpose and knows
+precisely which half.**
+
+### THE COSTS — named, permanent, and already in this file
+
+1. **ONE COURSE IS ONE NOTE** (§2). *A piece with one note can be broken
+   by anyone who finds it.* **Half-seal work is breakable by anybody who
+   can hear.**
+2. **AND IT IS LOUD.** §4.2: *the cheaper the article the louder it is —
+   his economy and his vulnerability are the same axis.* **A good opponent
+   does not break his crystal; they listen to it.** *(And the one opponent
+   who already stops in the open to look at his work is the one who broke
+   the hand.)*
+3. **AND IT STARVES EARLY.** §3: a closed article spends itself holding
+   its own shape, and **lifetime is bought at the moment of making.** Half
+   the specification is half the packing. **Half-seal articles have short
+   dates and he cannot always remember which are which.**
+4. **⚠ AND THE THRESHOLD DOES NOT CHOOSE.** §10b: *it spends whatever
+   he has got.* **He does not pick the mode when he is not
+   there.**
+   > **So after a threshold event the field is a mixture**, some two-course
+   > and some one, **and the one-course work is loud and starts failing
+   > first, and he laid none of it knowingly and cannot tell by looking.**
+5. **The hands rule survives, halved** (§4.1). **One bare hand instead of
+   two is a smaller target, not no target**, and it *cannot* be engineered
+   away past that without giving up the craft entirely, **because the
+   shape seals still exist and still have to be made by a hand.**
+
+> **Net: faster, redundant, survivable one-handed — and louder, shorter
+> lived, and breakable by the one category of opponent that gets better
+> at him every year.**
+
+### The curve, and it is years not weeks
+
+| When | Where he is |
+|---|---|
+| **Month 10** *(six weeks, one hand)* | **The decomposition.** He gets the insight in days, because he has been carrying the question for two years. **Proving it is ugly, about a third reliable, and the failure mode is a half-made article, which is worse than none.** |
+| **Months 11–12** | **Usable and not trusted.** He can do it and will not, because the note frightens him and he is right. |
+| **Act two, age 11** | **A mode.** Entered in the book with its own numbers, its own dates, and its own column. |
+| **By the door, age 13** | **The thing nobody has a prepared answer for** — `§10b`'s benchmark, and **the actual mechanical reason a Jōnin has to commit.** |
+
+> **It is not that he ends up fighting one-handed. It is that nobody can
+> ever again assume that binding one hand stops him**, and every
+> engagement anybody has ever briefed off says that it does.
 
 ---
 
@@ -136,6 +238,11 @@ and he will not know why for years.
 1. **The hands.** Bare permanently, because armoured hands cannot seal.
    Everybody who fights him twice learns to go for them. It cannot be
    engineered away without giving up the craft.
+   > **HALVED FROM MONTH 10, NOT REMOVED** (§1b). **Half seals need one
+   > bare hand instead of two**, and he pays for it in course, note and
+   > lifetime. **The shape seals still exist and still need a hand**, so
+   > the resource is smaller and has not gone, **and everybody's briefing
+   > still says that binding one hand stops him.**
 2. **The note.** Anything made cheap has a note in it, and a note can be
    found and struck. **A good opponent does not break his crystal; they
    listen to it, and then break it.** The cheaper the article the louder it
@@ -786,7 +893,10 @@ experience. **It is not what makes him dangerous.**
 not one is a power tier:
 
 1. **A narrow specialism nobody has a prepared answer for.** Everything
-   they have trained against moves.
+   they have trained against moves. **And the specific thing they have no
+   answer for is §1b**: every briefing in Kiri says that binding one hand
+   ends him, and it has said so for three years, **and it stopped being
+   true in the tenth month of the first one.**
 2. **Three years of assassination attempts is a schooling nobody else in
    this book has had.** Graded, in earnest, by professionals, about a
    dozen times, and he survived all of them.
