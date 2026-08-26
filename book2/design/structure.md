@@ -269,6 +269,52 @@ life is built on.
 
 ---
 
+## 4b. NAKADŌ — the loop closed, and where Uzuki's sadism comes from
+
+**Act two, late. She is eleven.** Full sequence in `team.md` §4.3; this is
+its place in the architecture.
+
+> **A posting whose road passes within a day of the village she ran from.
+> She goes back. She knocks politely. And she is cheerful afterwards.**
+
+**Why it belongs in act two and not later:**
+
+- **It has to precede the settled pattern.** By act three she is
+  routinely *going to cause a scene*, and that framing is a cover story
+  built over this. **The reader must see the thing before they see the
+  alibi.**
+- **It has to follow Kimimaro.** She needs a year of competence behind
+  her, and she needs somebody at home she is already issuing orders to,
+  **so that going alone is a choice and not the only option.**
+- **And it has to be well clear of Wave**, where the reader must already
+  understand what she is when she volunteers to be the noise.
+
+### The three inversions, and they are the reason the scene exists
+
+| Act one | Act two, Nakadō |
+|---|---|
+| **He comes for her, and her mother watches** (ch9) | **She comes for him, and her mother watches.** Same posture, and the second time the thing being watched is her daughter |
+| **Sae lies to her once, about a chair** (ch7) — *and Uzuki loses the only instrument she had for reading her mother* | **Uzuki says nothing to Shimoda at all.** Not one word, start to finish. **All the words are saved for her mother** |
+| **She is spared nothing by a brick wall and does the ninety, ninety separate times not getting up** (ch7) | **She gets up.** Two years late, at the wrong door, on the wrong person, **and it works, and that is the tragedy** |
+
+### What it hands the rest of the book
+
+1. **A sadist with a wound underneath her**, rather than a taste that
+   arrived from nowhere. `portraits.md`'s rule holds: *she chose, she can
+   state why, she would choose again.*
+2. **Tadayoshi's kindness as a delivery mechanism.** He offers the detour
+   because a distracted partner is expensive, **and there is a second
+   reason he has no word for and does not write down**, and the offer
+   kills a man. **He never finds out what he did.**
+3. **The alibi he supplies without knowing.** From here on he files her
+   diversions as effects — *held eleven minutes, cost nothing* — **and
+   the log is the thing that lets her not look at herself.**
+4. **And Sae, alive, in that house, for the rest of the book** —
+   unaddressed, unpunished, and never seen again unless the author wants
+   the worst possible reunion available.
+
+---
+
 ## 5. TSUNADE — the bet, and the wrong specification
 
 He saw the woodcut, so he tracks her down and offers **a bet: he pays her

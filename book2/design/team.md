@@ -211,49 +211,176 @@ whether this is a real constraint:
 > her, because saying it would require telling her what she is worth,
 > **and he cannot price anything.**
 
-### 4.3 THE SADISM — and the mechanism is what matters
+### 4.3 THE SADISM — and it starts at Nakadō, unrouted
 
-> **Her enjoyment is routed through his.**
+> ## ⚠ SUPERSEDES the first draft of this section, which had her
+> ## developing a taste for it *through* service. It is the other way
+> ## round. **She finds it first, on her own account, with no cover story
+> ## at all, and builds the service framing over the top afterwards.**
 
-**He does not enjoy violence.** What he enjoys is **the thing completed
-correctly** — the arithmetic coming out, the mission fulfilled, the entry
-that does not fight him. That is the whole of his pleasure and it is
-bookkeeping.
+**Act two, late. She is eleven.** A year with them; Kimimaro out; and a
+posting whose road passes within a day of Nakadō.
 
-**So hers is derived, and it is derived into the one job that is left
-over:**
+#### 1. He notices the effect and never the cause
 
+**She looks the same way eleven times in two days and does not say why** —
+which for her is unprecedented, because **she says everything, always.**
+
+He does not know what is at that bearing. **He has the count.** That is
+all he ever has.
+
+#### 2. The offer, and it is him being as kind as he is capable of being
+
+> ***"You've looked that way eleven times since Tuesday. Is there a
+> road?"***
+>
+> And then the cover, manufactured so that it costs her nothing to
+> accept: ***"I could do with a rest."***
+
+**The reason he writes down is that a detour is cheaper than a distracted
+partner.** It is true, it is sufficient, and it is the entry he makes.
+
+> **There is a second reason. He has no word for it and does not write
+> it.**
+>
+> **This is the whole of his kindness in one line, and it delivers a man
+> to his death.**
+
+#### 3. The only permission she asks
+
+> ***"If I do something, will you wait?"*** — ***"Yes."***
+
+**And he does not ask what**, because asking what is not a thing he does.
+
+> **The entire atrocity is authorised by a boy who declined to ask a
+> question**, and he waits four hours where he was told to wait, and does
+> not follow, **because waiting is a thing he can price.**
+
+#### 4. The knock
+
+**Politely. Twice.**
+
+> **She is not a burglar and she is not a monster. She is a daughter
+> coming home, and the knock asserts it.**
+
+**Shimoda opens it himself and gets about a second and a half.**
+
+#### 5. She does not say one word to him. Not at any point.
+
+**All the words are saved for her mother. He gets none.**
+
+> **He is not worth speaking to, and that is the insult under everything
+> else that happens to him.**
+
+#### 6. It is not a fight
+
+**A trained eleven-year-old and a farmer with two fields and a brick
+shed.** There is no exchange, no reversal, and no danger to her at any
+point.
+
+> **It is one-sided, and it is long, and the length is the point.**
+
+#### 7. ⚠ THE DIAL — and it should be set deliberately
+
+**She has the hands. She knows exactly where everything is.** *Find it,
+hold it, take something out before you put anything in* — **a person who
+can diagnose can also unmake**, and she has known that since she was ten.
+
+> **So she can keep him conscious. And she stops, in the middle, to fix
+> something, so that it can go on.**
+
+**That is the medical craft turned all the way over**, and it is the
+difference between *she killed him* and **she is now a person who does
+that.** *Recommended, and it is the author's call, and it should be made
+on purpose rather than arrived at.*
+
+#### 8. Her mother watches and does nothing
+
+> **The exact inversion of ch9.** *He comes for her, and her mother
+> watches.*
+>
+> **The same posture, twice — and the second time, the thing being
+> watched is her daughter.**
+
+**And her mother's first reaction is not joy. It is fear, and it is not
+fear *for* her.**
+
+#### 9. Sae lives — and that is the punishment
+
+**Uzuki does nothing to her at all.** Does not touch her, does not accuse
+her, does not raise her voice.
+
+> **She is left alive, in her own house, with the body, and the last
+> thing her daughter does is offer to introduce her to somebody.**
+>
+> **There is nothing else available that is worse.**
+
+#### 10. The line
+
+**Blood down her face.**
+
+> ***"Hello mother. Long time no see."***
+>
+> And then, brightly: ***"I have a boyfriend! Would you like to meet
+> him?"***
+
+**It is a little girl's word and that is exactly why it is the right
+one.** She is showing her mother **the daughter she should have got** — a
+girl of eleven who gets to have a boyfriend and announce it — **while
+standing in blood.**
+
+**And it is not true in any sense Tadayoshi would recognise.** He is
+sitting on a wall a mile away with no idea. `portraits.md`: *the
+declaration is the easiest thing; she has never withheld it.* **She says
+it anyway, because the person it is aimed at is not him.**
+
+#### 11. ⚠ HOW IT MUST LAND, or it becomes a revenge quip
+
+> **The line is not the last thing on the page.**
+>
+> **Sae does not answer. And Uzuki waits** — genuinely waits, standing
+> there, **because she genuinely asked** — and that wait is the worst
+> thing in the sequence.
+
+**And she is cheerful afterwards.** Not cold, not shaking, not hollow.
+**Cheerful**, the whole way back down the road, **and the book does not
+comment.**
+
+**She tells him everything on the walk, immediately, in detail, because
+she cannot not.** *And he files it.*
+
+#### 12. And THEN the routing starts
+
+**A girl who simply enjoys that is a girl who has to look at herself.**
+
+> **So she builds a frame, and the frame is him.** He does not enjoy
+> violence — what he enjoys is **the thing completed correctly**, the
+> arithmetic coming out, the entry that does not fight him. **So she
+> takes the job left over:**
+>
 > ***You go and do it. I'm going to go and cause a scene.***
 
-**She is the noise.** Drawing attention off him is the most useful thing
-she can be, it is the thing he needs and cannot do while working, **and
-somewhere around thirteen she finds out that she likes it.**
+**Drawing attention off him is genuinely the most useful thing she can
+be**, and it is genuinely what he needs, **and it is also an alibi**, and
+both of those are true at once and she does not distinguish them.
 
-**AND SHE DOES NOT EXPERIENCE IT AS HER OWN APPETITE. She experiences it
-as service.**
+> **She learned to enjoy hurting people at Nakadō, at eleven, with nobody
+> watching but her mother. Everything after that is paperwork.**
 
-That is the same corruption `portraits.md` already names, escalated:
-*the first thing she ever gives up for him is the one conviction she
-arrived with — and she does not experience it as a loss.* **Here she gives
-up a moral limit and experiences it as usefulness.**
-
-> **She learned to enjoy hurting people by routing it through somebody
-> who does not.**
-
-**AND HE CANNOT SEE IT.** Of course he cannot. **He files the effect and
-never the cause** (`portraits.md`, and it is the same machinery as her
-beauty):
+**AND HE SUPPLIES THE ALIBI WITHOUT KNOWING HE IS SUPPLYING IT**, because
+he files the effect and never the cause — the same machinery as her
+beauty (`portraits.md`):
 
 > *Diversion held eleven minutes. Two down, one walking. Cost: nothing.
 > Do not send her for anything where the object is to be quiet.*
 >
 > **He writes her sadism into a mission log without once knowing that is
-> what he is describing**, exactly as he writes her beauty into a security
-> log. **It should be the coldest paragraph in the chapter.**
+> what he is describing. It should be the coldest paragraph in the
+> chapter.**
 
-**THE COST, and it is hers alone:** at some point she works out that **she
-is only able to be this because he does not look.** Nobody tells her. She
-never says it. **It is the one thing in her life she does not narrate.**
+**HER PRIVATE COST:** at some point she works out that **she is only able
+to be this because he does not look.** Nobody tells her. She never says
+it. **It is the one thing in her life she does not narrate.**
 
 ### 4.4 What makes it work — three instruments, all already in the files
 
@@ -446,6 +573,10 @@ it.**
 
 ## 9. WHERE IT PAYS
 
+- **Nakadō** (§4.3, `structure.md` §4b). **The origin, and it is his own
+  kindness that opens the door**: he offers a detour because a distracted
+  partner is expensive, she asks him to wait, **and he does not ask what
+  for.**
 - **Wave.** He is on a bridge over water — **ground he cannot break** —
   with two people on it he made himself responsible for. `combat.md`
   §10b: *the problem is not Zabuza's strength; it is that there are
