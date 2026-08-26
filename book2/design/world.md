@@ -183,6 +183,10 @@ be presented for assessment in the year of their eighth birthday.*
 | **Tazu / Iwasa's boy** | Nakadō |
 | **Nezu** | port, forty-one miles north of Sunaba. A river mouth behind a half-mile gravel bar; the state stone quay is on the north side. Market on the landward flat, Tuesdays and Fridays |
 | **Sakabe** | town between Nezu and the riverbed. **The yard behind the bell house** — wall on three sides, hedge on the fourth, a handcart with no wheel. Road shut both ends from the 12th; open on the 28th |
+| **Fukae** | inland market town, four days from Sakabe. **The Kiribata** — inn, front room, six tables; the wife is all right, the husband is the problem and is not about before four. Fuda's back room is through the passage; **mind the step, it is not where you think it is** |
+| **Ōtsuka** | **Fuda's working name at Fukae.** A clerk for fourteen years before this, which is why every docket he writes ends *no return required* |
+| **Hanase** | four days east of Fukae. **The yard behind the smithy** (Torii, fifty-ish, bad chest) and a lodging on the east side, a sixteenth for a floor |
+| **Torii** | Hanase. Offered the bed. Was refused twice and offended |
 | **Kihara** | chandler and victualler, third yard up from the crane, north quay, Nezu. Sixty-ish. **Paid on a warrant on the 3rd of month 4 and still owed** |
 | **STORES — SECOND OFFICE** | the warrant office that pays for state movements. Seven-figure number, clerk's hand, and **a countersign of six strokes in a square with the corners cut** — not the harbour, not the navy. Seen twice in nine years on that coast; the other time three years before |
 | **Kui** (杭, *the stake*) | **Tadayoshi's trade name**, written by Kajiya on the first docket, month 6, the 1st. Built out of four minutes of fences and nothing about the ninety yards |

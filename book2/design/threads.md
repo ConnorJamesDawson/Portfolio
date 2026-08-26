@@ -1783,3 +1783,559 @@ funeral to Genzō the man.
 7. **Kimimaro's count is running, in bowls, toward a number nobody is
    going to ask him for.**
 8. **Uzuki's clock: 1,703 and falling.**
+
+---
+
+### C7 — Chapter 7, "What It Cost". Month 6, 2nd – month 7, 21st.
+### 10 scenes, 18,070 words. T×5 (52%) · U×5 (48%). No Kimimaro.
+
+**THE DOCKET, AND THE ROAD — 6/2 to 6/11, Sakabe to Fukae**
+
+- **Four lines in Fuda's hand:** *12th. Fukae. The Kiribata, front room,
+  before noon. Ask for Ōtsuka. He will ask you what the weather was at
+  Sakabe. You will say: hard going on the Monday.* **And *No return
+  required*.**
+- **He noticed the fourth line on the second morning** — *the first three
+  are a man telling a boy where to go; the fourth one is out of a book* —
+  **and could get no further with it, and let it go.** *"It was the only
+  question he raised in nine days and did not finish… it did not go in
+  the book, because a thing you have decided is dull does not get an
+  entry."*
+- **THE PARCEL. He learned the knot in about four minutes** — followed
+  the standing part round until he had the whole of it and **could have
+  put it back exactly as it was** — **and then did not open it.**
+- **The reason, built over a mile, in four steps:**
+  1. **Gain**: a thing he cannot act on and cannot stop knowing.
+  2. **Cost**: *a boy who opens things does not get given things, and
+     being given things is the entire arrangement.*
+  3. **The real one:** *"He never told me what is in it and he did not
+     say he wasn't going to. It is not about trust."*
+     > **He is not keeping it from me. He is keeping it off me.** *So
+     > that when somebody takes the boy on the road, the thing is not in
+     > a head that can be opened.*
+  4. **And then a fourth arrived with no working in it: *I do not want
+     to know.*** Entered as ***11/6. Anomaly. A preference, arrived at
+     without arithmetic. Under review.***
+- **THE METHOD, at full length** — ridge side, parallel, down only where
+  the country forces it. **Eleven road crossings in nine days, every one
+  at a walk, in daylight, in the open.**
+  > **Careful is a way of being seen.**
+- **Three towns, each entered once**, at the hour after first light or
+  the hour before dark. **Food bought once per town** — *the second look
+  is where the questions live.*
+- **Byres cost a morning** (a byre belongs to somebody and somebody comes
+  at first light). **He took them three times anyway** and entered the
+  trade.
+- **Two turnips out of a clamp, entered as theft, with the value**, to be
+  paid later if it ever can be. **Eggs found and not taken, because eggs
+  get missed.**
+- **Set out with four ryō and a bit; arrived with three and a half.**
+- **Nine words spoken to anybody in nine days**, and he rehearsed a
+  four-step handover **eleven times**, and worked out why:
+  > *"The walking is mine… And a front room is four people I have never
+  > met, in a building, with something in it I have to say out loud. I
+  > have got no way of counting that at all."*
+
+**THE FRONT ROOM — 6/12, the Kiribata**
+
+- **In at ten**, back to the wall, hands on the table. **Four people. One
+  big one three tables down in a coat better than the room, who looked
+  for a second and a half.**
+- **The innkeeper's wife.** *"You want something, love?" — "No."* **Wrong
+  instantly**: *no* answers the surface of the question and refuses the
+  bottom of it. Then *waiting*, then ***"Waiting for who?"***
+- **The one word that ends it is the one word he was told not to say.**
+  *Ask for Ōtsuka* — in a room, out loud, in front of two carters.
+- **He went through every true sentence he had in under a second and a
+  half** and every one opened a second question he could not answer.
+  > **Every true thing I have got opens another question and I have not
+  > got an answer to any of the second ones.**
+- **HE TRIED TO LIE. For the first time in his life.** *"He got as far as
+  an opening sound — a breath, and the front of a word — and then there
+  was nothing behind it at all. Not a refusal. Not a scruple. **Nothing
+  came.** There is not a mechanism."*
+- **Three seconds of silence, and it was the loudest thing in the room.**
+  ***"Whose are you?"*** — louder, and **not unkind, which was the worst
+  part**: she was doing what a person does about a child in a building at
+  ten in the morning who will not say whose he is. **And she was right
+  to.**
+- **He costed the chain: two more asks, the girl sent, a man with a rank,
+  a room with a book, a boy of about ten written down and sent up at
+  month end.** *"Eight seconds. Maybe ten. And I can see the whole of it
+  and there is not one single thing I can do about any of it, because
+  everything I can do is a thing you do to ground and this is a room."*
+- **The thought he was ashamed of for four years:** *"I want a wall behind
+  me and forty yards of open in front and I want somebody to try to hit
+  me, because I would know exactly what to do."*
+
+**FUDA, AND THE THING HE COULD NOT SEE BEING DONE**
+
+- ***"—and I said to his mother, I said, he doesn't want the mill, and did
+  she listen?"***
+  > **He did not start. He was already in the middle of it.** *Halfway
+  > through a sentence, at volume, to nobody* — **so the room turned
+  > round to find a conversation it had missed the beginning of.**
+- **He came past the innkeeper's wife and turned as he came**, putting
+  his back three-quarters to her; **a hand on the shoulder took a good
+  deal of coat with it and moved the boy a foot left and towards the
+  wall.**
+- ***"What was the weather?"* — buried inside the mill. *"Hard going on
+  the Monday."* Nobody heard it.**
+- **Forty seconds before Tadayoshi knew the parcel was gone**, and he did
+  not look down or put a hand to it, **which he had learned from
+  nobody.** *A folded coat on the bench that had not been there four
+  minutes before.*
+- **And then the fear, and it was worse than the riverbed:**
+  > *"He turned a room… It is not that it stopped. It is that they have
+  > all got a different morning now… He made himself the boring one… I
+  > have spent five months learning how not to be looked at. He did the
+  > opposite of the whole of it, in about eleven seconds, and it worked
+  > better."*
+  >
+  > **And I did not see it happening. That is the part. I was in it and I
+  > did not see it happening.**
+
+**THE BACK ROOM — the hand, the fee, the warning**
+
+- **Shelves of paper, tied and hung in fans, sorted by month and then by
+  destination** — and he read the system off the wall from the door
+  without reading a word.
+- **HE IDENTIFIED FUDA BY HIS HANDWRITING IN ELEVEN SECONDS.** A degree
+  and a half of slope that does not vary; ruled off at the left with the
+  edge of the sheet and no rule; **and the foot on *the twelfth* that
+  comes back under itself.**
+  > *"So there is a man who writes and a man who hands over and a boy who
+  > walks. Three. Not two."* **Which means the man in the yard did not
+  > decide where he went either.**
+- **Asked directly how he had done it, Fuda answered a different question
+  and gave away something better:** *"She's all right, that one. It's the
+  husband that's the problem, and he's not in it before about four, so
+  morning's fine and afternoon isn't."*
+  > **He did it again, in a room with two people in it, and Tadayoshi was
+  > looking straight at him and still could not see where it happened.**
+- **Barley tea. Nobody asked him a single question** — not where from,
+  not whose, not why a boy of ten is on that route. *"So it is a rule and
+  not a kindness. — It is a rule. And it is a kindness, and both of those
+  are true, and I do not have to pick."*
+- **THE FEE: two and a half, counted out loud on the table.** Ten days at
+  a quarter. *"Ten men's days for nine days of walking on a road I would
+  have walked anyway. And that is either a great deal or it is nothing."*
+- ***"Don't get clever about that. Sleeping in ditches is cheap until it
+  costs you a week. Buy a coat."***
+- **THE SECOND DOCKET:** *2nd of the 7th. Hanase. The yard behind the
+  smithy, after dark. Ask for Torii.* ***You will be offered a bed.***
+  *No return required.*
+  - **Tadayoshi: "There's a line in this that isn't an instruction."** —
+    ***"That's right. You will be. Don't take it."*** **And nothing
+    else.**
+  - **His reading:** *"It is important enough to break his own hand for
+    and not important enough to explain… Or it is not that he will not
+    explain it. It is that he does not want it said out loud in a room."*
+- **⚠ AND THE PLANT IS DEFUSED, INNOCENTLY AND COMPLETELY.** Asked what
+  *no return required* means: *"It means I'm not expecting anything back
+  off him… It's on all of them. Every one I've written for eleven
+  years."* **And why it is written like a form: *"Because I was a clerk.
+  Fourteen years, and you never get it out of your hands."***
+  > **Tadayoshi files it as house style and is satisfied, and he is
+  > right, and it is still the thing.**
+
+**THE MONEY — 6/13 to 6/14, Fukae**
+
+- **He made a list and invented every price on it**, and noticed he had
+  invented them, and left them there.
+- **THE GRIT WENT PERFECTLY.** Four grades in four bins; he knew at nine
+  seconds and made them wet it anyway. **A fortieth a tin — because it
+  has been a fortieth a tin since before he was born and he knows it the
+  way you know your own name.** The mason threw in a scoop and gave him
+  the Ōgi and Hanase prices unasked.
+- **THE COAT: he checked the seams, the cuffs, and the oil under the arm
+  for four minutes, and then paid one and a half without a flicker.**
+  **Worth three-quarters.**
+- **The woman stood with the money in her hand, opened her mouth, did not
+  say it — and gave him mittens with a hole in the thumb.** *He entered
+  them as: **Free. She gave me these for nothing.***
+- **Boots 1, blanket ¼, oil, a tin at a sixteenth. Down to about three.**
+- **Fuda, on the fourteenth, in a doorway with a broom: *"What'd you give
+  for it?" — "One and a half." — "Ah."*** **And went back to the broom.**
+  Then, unprompted: *three-quarters, maybe seven-eighths; she'll have
+  given about a half.*
+- **AND NOBODY CHEATED HIM:** *"If she says no, give me three-quarters,
+  she's a woman who asks double, out loud, in her own street. So she gave
+  you a pair of mittens instead."*
+- **THE DEFECT, NAMED:** *"I thought a price was a price… My family sold
+  by weight and grade to a shop and the shop had a book, so I have never
+  once in my life been in a room where a number was a thing somebody had
+  DECIDED."* **The longest thing he had said out loud in eight weeks.**
+- **THE RULE, given for nothing:** ***Ask what three people paid before
+  you pay anybody. Not what it's worth — nobody knows what anything's
+  worth. Three, because two can be wrong the same way. And if the number
+  moves overnight it was never a number.***
+- **ENTRY 47 — and it is the first in the book that is not about his
+  mother.** He counted back to be sure and it took a minute and a half:
+  **forty-six entries, and every one a boat, a book, a hand, a piece of
+  crystal, or a question about where she is.**
+  > **Forty-seven is about a coat.** *He numbered it, and lay down in the
+  > coat he had paid double for, which was warm, and which fit, and which
+  > was still the best thing he owned.*
+
+**HANASE — 7/2 and 7/3. FIRST HUNTER CONTACT, and no enemy on the page.**
+
+- **The job took eleven minutes and there is nothing to say about it.**
+- **He refused the bed twice, with no reason he could give**, and Torii
+  was offended and said *suit yourself.*
+  > *"And now I am a boy who would not take a bed, and he will remember
+  > me for that, and I have made myself memorable by doing the thing I
+  > was told to do to stop being memorable."*
+- **A sixteenth for a place on a floor** — resented, and then vindicated
+  when it rained at eleven. **The coat went on a nail on the back of the
+  door with everybody else's, and it was wet.**
+- **TWO IN THE MORNING.** Not loud, not a fight, no hurry in it. **The
+  keeper's voice and one other, through a board floor.** Shapes, not
+  words.
+  - **A question, and the answer is a number.** *He has asked how many
+    are in the house.*
+  - **Then a second question, and the answer is longer and has several
+    numbers in it.**
+  > **You ask ages when you have got a description and you have not got a
+  > name.** *"There is one description of me anywhere in this country and
+  > it is a boy of about ten."*
+- **He was on his feet before the answer was finished**, out of a window
+  in four seconds, seven feet into a water-butt yard, skin off the
+  forearm, and did not stop for eleven miles.
+- **THE COAT, AND THE ARITHMETIC, DONE ON THE LEDGE IN UNDER FOUR
+  SECONDS:** six seconds to cross a room with four men on the floor; four
+  pounds of wet oiled canvas over a wall with eleven miles to do; **and
+  it is the single most identifying object he owns and he paid extra for
+  it.**
+  > **In that room it says a boy went out of a window. On me it says
+  > which boy.**
+  >
+  > **The arithmetic was correct and complete and he never once found a
+  > fault in it.**
+- **AND HE MINDED FAR MORE THAN HE COULD ACCOUNT FOR**, and put it down
+  as it was, because information about yourself is the most expensive
+  kind:
+  > *"It is the first thing I have ever owned that I chose. The frame was
+  > made for me. The knife was Meno's. The tin came off a bench. **The
+  > clasp came off a body.** I stood in a street and looked at a rail and
+  > picked it… and it is on a nail in Hanase."*
+
+**THE SECOND BOOK — opened 3/7, in a plantation, in the rain**
+
+- **He did not write it in the ledger.** He got out **eleven sheets of
+  the harbour office's spoiled ruling paper that Nunome let him take
+  because it was going on the fire** *(month 4, unremarked until now)*.
+- **He ruled five columns and made the fourth narrow, because that is how
+  it is done** — and headed four of them, and **got to the end of the
+  line with a column and nothing to put over it**, and worked out what it
+  was for.
+  > ***What it cost.***
+- **ENTRY ONE, and three of the five are a line:**
+  > *2–3/7. Hanase. Lodging, east side.*
+  > *Who: —*
+  > *What they tried: —. He asked the keeper how many were in the house
+  > and their ages. He did not come up the stair. I do not know whether
+  > he was ever going to.*
+  > *How long: —*
+  > ***What it cost: one coat.***
+- ***"That is the first one. And there is going to be a second one."***
+  **Folded and carried inside his shirt on the other side from the
+  ledger.** He went on east in the rain without a coat.
+
+**UZUKI — THE WEDDING, 6/29**
+
+- **Nine people, counting the priest and counting her.** Iwasa and his
+  wife, Ine, Kuriya, **Fumi** *(who walked forty minutes and has still
+  never spoken to her)*, Tazu, the priest, him, her. ***Dad would have
+  had forty.***
+- **Shimoda's yard, not the shrine.** Two planks on trestles under
+  Iwasa's wife's cloth. **Her mother wore the grey and not anything new,
+  and Uzuki said nothing about it in either direction.**
+- **THE COUNT RAN ON ITS OWN, as it has since she was seven.** **Tazu:
+  four seconds, and it is the third time this year.** Iwasa's wife: a
+  long look that is not that. Priest, Kuriya, Ine, Fumi: no.
+  - **And she started on *him* and stopped it before it finished, and
+    noticed that she had, and did not examine it.**
+- **HER ACTION — timed for four days and delivered at the loudest point
+  of the afternoon: *"Are we still going to Dad's?"***
+  - **He put his cup down first.** ***"Every month. Same as you've been
+    doing… And I'll come if you want me to and I'll not come if you
+    don't. And you can change your mind about that as often as you like
+    and you don't have to tell me which way round it is this month. You
+    can just say at the gate."***
+  - **She built it as a public test and knew both halves on Tuesday.**
+    > **You cannot put a thing on the record and then only keep the half
+    > you wanted.** *"Eight people watched a man be decent to me about my
+    > father's grave, and every single one of them is going to remember
+    > it, and every single one of them is right."*
+- **⚠ THE COUNTING HANDS.** For ten weeks Sae has sat at the box doing a
+  thing with her hands — *left one flat, right one on top, right one out
+  to the pen and the left one staying* — **and at the wedding she has not
+  done it for about an hour.**
+  > *"My mother has not been frightened for about an hour, and I am
+  > watching it happen, and I do not know what to do with it at all."*
+  >
+  > **And what she could not finish at ten, and could at twelve:** *"I am
+  > furious, because it turns out that a roof and a man with two fields
+  > buys it, and that means it was always buyable, and my father could
+  > not buy it, and he worked until he could not stand up."*
+- **Sae, at the wall, offering evidence:** *"He's put the top of the door
+  open for that animal every morning since the fourteenth. He gets up to
+  do it. It's not on his way anywhere."*
+
+**THE BRICK HOUSE — 7/2**
+
+- **Three hours and a cart and a bit.** *"Fifteen years of two people and
+  then me, and it's three hours."* **She carried the box herself and put
+  it on the new table before anything else went anywhere.**
+- **⚠ SHIMODA CARRIED THE SWORD.** Took it down off the two pegs with
+  both hands, looked at the red of it for a second, **and carried it up
+  the lane in front of the whole village like a rolled mat.** *(`combat.md`
+  §7b.)*
+  - **She said nothing**, which she never does, **and worked out why an
+    hour later sweeping a floor:** *"Asking about it is saying it's mine.
+    And it isn't. The one thing anybody ever said to me about it was that
+    it was not for me."*
+  - **He hung it above the door of the new back room on two nails he put
+    in himself, that evening, unasked.** *Same place. Different door.*
+    **She did not go in and look at it.**
+- **Brick. Four rooms. A roof that does nothing when it rains** — which
+  she had to sit up on the fourth night to find out. **A proper range.
+  Oil in a jar with no line under it.**
+- **HER OWN ROOM**, for the first time in her life, and **she was
+  delighted**, and **her mother said it twice** — *she's got her own room
+  now* — in a voice Uzuki had not heard about anything for a year.
+- **⚠ AND BRICK DOES NOT DO WHAT WATTLE DOES.** In the old house they all
+  slept in one room. **On the first night she could hear her mother and
+  Shimoda through the wall — not words, the shape** — **listened out of
+  straightforward nosiness for about a minute, felt slightly ashamed, and
+  went to sleep.**
+- **THE FLOUR BAG — and there is no stone by the step.** Four candidates
+  found in an hour: under the mat *(first place anybody looks)*; the
+  loose thatch over the shed door *(very good)*; behind the beam in the
+  back room *(better — you would have to know)*; **and a proud brick at
+  the bottom of her own wall.**
+  - **She rejected the two good ones**, and then caught what she had
+    actually been optimising for, and went hot:
+    > ***"How long does it take to get it in the dark."***
+    >
+    > *"Why is that the question… I have been going round this house for
+    > an hour asking how fast can I get to it and I did not notice I was
+    > doing it."*
+    >
+    > **A hiding place you cannot get to in the dark in a hurry is a
+    > hiding place for somebody who is going to be here.**
+  - **She timed it eleven times from the door and got it to two and a
+    half.** Plus about four for the stiff window catch. **Seven from the
+    mat.** *"I'm not doing anything. I'm being sensible. Everybody should
+    know where their things are."*
+  - **She wrote none of that down anywhere.**
+
+**THE GOOD WEEKS — 7/3 to 7/19, and they are genuinely good**
+
+- **Meat twice in a fortnight.** The roof. Oil on a shelf with no line
+  under it. **The mule's head over the top of the door at six and again
+  at seven.**
+- **THE PRESSURE CAME OFF AND TOOK HER PURPOSE WITH IT.** Iwasa's nine
+  days were done on the 28th; there is nothing until the thinning. Kuriya
+  went on paying at month end and **the half a ryō went into a left column
+  that no longer needed it.**
+  > *"Three months I have been trying to make a number and the number is
+  > made and nobody needs it. So what am I for."* **She put it down and
+  > went in.**
+- **HER MOTHER LAUGHED ON THE EIGHTH** and Uzuki stood in the yard with
+  her hand on the mule for four minutes **so that she would not walk into
+  the middle of it**, on purpose, and would not think about why.
+- **The fields, on the eleventh.** He answered the whole of it at the
+  length it took and **did not put a voice on for a child**: which field
+  is better and why, four years of muck against two, what he got the last
+  three years and why the difference is mostly weather and partly him.
+  **And the ditch his father put in the wrong place, known wrong for
+  eleven years, never moved because moving it is nine days to save a day
+  and a half a year.**
+  > ***"So it stays wrong." — "It stays wrong. That's most of farming."***
+- **SHE DECIDED SHE WAS ALLOWED TO LIKE HIM**, and reasoned it out
+  standing in a lane, and got to the bottom of it: *"my mother's stopped
+  doing the thing with her hands. And that's the real one, and it means I
+  like him for what he's done to her and not for anything he's done to
+  me."* **Then: *Dad would say get on with it.* And she got on with it.**
+
+**⚠ THE SIXTEENTH — SIX SECONDS, AND SHE TAKES HIM OFF THE LIST**
+
+- **She came in from the water with the bucket, sleeves up, hair wet at
+  the front. He looked up the way anybody looks up when a door goes.**
+  **And then he did not stop.**
+  > **Six.** *Tazu is four and Tazu is the worst there is.*
+- **Four seconds later: *"Is that the good bucket or the one that
+  leaks,"* and he got up and went out to the shed. That was the whole of
+  it.**
+- **THAT NIGHT SHE PUT IT ON TRIAL PROPERLY AND ACQUITTED HIM.**
+  - **For:** the door is behind her and the line off that table goes
+    through where she stood; he had been at a notched stick for an hour;
+    **he looked away before she did**; the bucket.
+  - **Against:** eleven weeks; a fortieth given straight in his own yard;
+    six for the mule when he could have said eight; the top of the door
+    every morning; *you can change your mind at the gate*; **her mother's
+    hands**; a ditch his father got wrong.
+  > **It's a habit. It isn't evidence.** *"And a girl who puts her
+  > mother's husband on that list is a girl who has decided to be unhappy
+  > in a house that is finally all right."*
+- **SO SHE TOOK HIM OFF.** Deliberately, as an act, lying on her back on
+  the night of the sixteenth — **and felt grown-up and fair and like
+  somebody who could look at a thing properly, and went to sleep pleased
+  with herself.**
+  > **She had had that list since she was seven. She had never once, in
+  > three years, taken anybody off it.**
+
+**⚠ THE TWENTIETH — THROUGH A BRICK WALL**
+
+- **A completely ordinary day**, gone over four hundred times afterwards
+  for the part that was not, and there was not one. **Barley that turned
+  out well. Kuriya at three (Tuesdays and Fridays). Somebody said
+  something about a gate. Goodnight, both ways.**
+- **She did the ninety at the wall and got to about fifty and stopped**,
+  because it was going badly, and lay listening to the shape of them
+  through the brick, **which she had stopped noticing a fortnight ago the
+  way you stop noticing a stream.**
+- **THEN IT WENT TO ONE VOICE.** *"She noticed it the way you notice a
+  clock stopping: not the sound, the absence of the other half of it."*
+  **His went on and hers did not come. Low and level. No up and down,
+  because going up and down is what two people do.**
+- **THE CHAIR WENT OVER. And somebody stood it back up.** The grate, the
+  three-inch scrape, the knock of the legs coming down.
+  > **You don't pick a chair up in the middle of an argument. You pick a
+  > chair up when the thing that knocked it over is finished.**
+  >
+  > *(She carried that one detail for thirty years and could produce it
+  > in one second at any moment.)*
+- **Two more sounds and she never got a word for either, at ten or
+  later, and did not make one up.** *One was short and had nothing in it
+  and was not a word. The other one was not a sound a piece of furniture
+  makes.*
+- ***"I don't know what it is. — Yes I do. — I don't know what it's
+  called. — I know what it is."***
+- **AND THEN IT STOPPED**, and that is the piece of information that
+  settled it:
+  > **An argument doesn't stop. An argument runs down.** *"Mum and Dad
+  > had about nine of them a year and I know exactly what one sounds like
+  > from four feet away because I grew up four feet away."* **That stopped
+  > like a door.**
+- **SHE DID NOT GO IN. She could not make her hands come off the brick,
+  and knew she could not.** So:
+  > ***"I'll go at ninety."***
+- **THE WORST NINETY SHE EVER DID, AND SHE DID IT CORRECTLY.** *Little.
+  Stop. Wait.* — **and she knew at the time, and at nineteen, and at
+  thirty-four, that every gap was a door and she was walking past one
+  every three seconds.**
+  - **At about forty it went quiet properly** — water, a pot, somebody
+    putting something on a shelf. *"So she's all right. — That's not
+    relief. Don't you dare call that relief. That is you being let off."*
+  - **At sixty she wanted to push, and this time the thing she was
+    certain of was not about her hands** — *it didn't happen, a chair went
+    over and somebody picked it up* — **and she did not push.**
+  - **Ninety. Then forty seconds, because you cannot tell during. And
+    then she listened.**
+  > **There was nothing to listen to.**
+- ***"It's ninety and I'm not going, and I knew at about six that I
+  wasn't going, and I did the other eighty-four anyway."***
+- **Last line: she reached out without deciding to and put one hand flat
+  on the brick and left it there.**
+
+**⚠ THE MORNING — 7/21. And Sae lies to her, once, about a chair.**
+
+- **Her mother was doing the fire and she was fine.** Sleeves down, at
+  half past five, exactly as every morning. **The chair was standing four
+  square under the window. Not one object in that kitchen was in a
+  different place.**
+- **Uzuki said it before she had two steps into the room**, because she
+  had promised herself at one in the morning she would say it before she
+  could build a reason not to.
+  > ***"I heard the chair."*** — ***"That was me. I caught it with the
+  > bucket coming past."*** **Said to the fire, without stopping.**
+- **SHE HAD IT IN UNDER A SECOND, AND THE TELL IS THE REASON:**
+  > *"You gave me a reason. You never do that. You give reasons for the
+  > TRUE things… Nobody asked you how the chair went over. I said I heard
+  > the chair. That is not a question."*
+  >
+  > **"You are the one thing in this house I can read."**
+- ***"Mum. Did he—" — "Uzuki."*** **The closing one. Used four hundred
+  times in ten years at the end of a finished thing — and never once, in
+  her life, on a lie.** Then, turning round and looking straight at her
+  with nothing wrong with her face: ***"There's bread."***
+- **She examined her mother thoroughly and without shame and found
+  nothing.** Face, neck, hands. **Sleeves down — and sleeves are always
+  down at half five, so the sleeves are not information.** *"I want them
+  to be information and they are not."*
+- **⚠ AND SHE HAS THE INSTRUMENT.** *Hand on. What's different. Where does
+  it hurt. And do those two agree.* — **"I could put my hands on her and
+  I would know in about forty seconds. Not guess. Know."**
+- **SO SHE WENT AND DID IT** — crossed the kitchen and took her mother's
+  hands off her, exactly as she had on the 27th of month 6.
+  > **HER MOTHER MOVED THEM.** Not violently and not fast: **she turned,
+  > put the kindling down on the shelf, and used the turn to take her
+  > hands out of it**, and a person in the doorway would have seen a woman
+  > putting down a bit of wood.
+  >
+  > *"She has never once in my life moved her hands away from me."*
+  >
+  > ***Then I know.***
+- **THE FOUR REASONS SHE SAYS NOTHING TO ANYBODY ELSE**, done in order on
+  the step in the cold:
+  1. **There is nobody.** Nine witnesses to a decent man, and Ine would
+     be kind and then uncomfortable and then tell her mother, **because
+     that is exactly what a kind person does.**
+  2. **The hundred is spent** — it is a house and a range and meat twice
+     in a fortnight and a room with a door on it.
+  3. **The rent is his**, and Kuriya has eleven widows and does not move
+     things and said so at his own gate, **and the old house will be let
+     by now.**
+  4. **AND THE ONE THAT CLOSES IT** — *"I'm not doing it for you. If I say
+     it's for you then you owe me."*
+     > **"So there's no debt. She made sure of that on purpose, because
+     > she thought it was the kindest thing she had left, and it probably
+     > was. And it means that this morning I have got nothing to spend.**
+     >
+     > **And the other one I could have used, she used up before six
+     > o'clock this morning on a bucket."**
+
+**THE FLOUR BAG — and the two records open on the same night**
+
+- **Ninety: twenty-nine, and it had been a bad one, and she wrote it
+  anyway.** Money: nothing, because Kuriya pays at month end.
+- **Third column: 1,679 → 1,678.**
+  > *"Twenty-fourth of the sixth month I wrote seventeen hundred and four
+  > and I took one off and it was a PLAN… It went down in the same hand
+  > as everything else and it was not the same object at all, and she
+  > could not have told anybody what had changed about it."*
+- **SHE RULED A FOURTH COLUMN WITH THE EDGE OF HER THUMBNAIL**, the way
+  her father ruled a chit when there was no rule in the house.
+  - **She held the pen over the heading for about four seconds** —
+    *everything on this bag has got a thing at the top of it* —
+    **and then moved it down past where a heading would have gone, left
+    that part empty, and put one mark in the column and nothing else.**
+- **Then the brick, from the door, in about two and a half.**
+
+**OPEN INTO CHAPTER 8**
+
+1. **THE CARRYING STOPS.** `combat.md` §10b — he is hunted in month 7,
+   eight weeks after a riverbed, before he has finished two postings.
+   **That is fast, and it settles whether a ten-year-old is worth
+   teaching.** Fieldcraft, sparring against adults who are trying, and
+   the element — **each with its cost named in the same breath, and the
+   men who teach him are being spent.**
+2. **It escalates, and it is still Sae.** Month 9 is when it turns on
+   Uzuki. **The two months of listening are what make *her mother
+   watches* land.**
+3. **The knife under the pillow** — and it goes under **because of the
+   fourth column**, not instead of it.
+4. **She has lost the ability to read her mother**, four seconds into the
+   first morning, over a chair.
+5. **The empty ninety is still running** — twenty-nine on the worst night
+   of her life. *(The column dies later; see `ch07.md` §3.4's cost note
+   — it has not died yet.)*
+6. **The hunter file has one line in it and a column he had to invent.**
+7. **Fuda's warning was obeyed and never explained**, and the bed at
+   Hanase is still an unopened door.
+8. **Nunome will find out** *(open from C5, still unclosed)*.
+9. **Kimimaro's count is running, in bowls, and has been for a month
+   off-page.**
