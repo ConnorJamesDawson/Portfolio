@@ -1357,18 +1357,16 @@ good at everything else.**
   the book should never let him find the version where he does not have
   to choose.
 
-### ⚠ AND HIS INABILITY TO TEACH CAPS NOBODY BUT HIM
+### AND WHAT HE CANNOT PASS ON CAPS NOBODY BUT HIM — see §11d
 
-> **He cannot teach one-handed sealing. That is not a statement about
-> whether Uzuki can learn it.** *She would need somebody else to teach
-> her — and there are other people in the world.*
+> **He cannot hand anybody his own sealing. That says nothing about
+> whether Uzuki can learn it** — *she would need somebody else to teach
+> her, and there are other people in the world.*
 
-**So everything those two ever learn, they learn from somebody who is not
-him.** No rule stops them. **Only he does, and only for himself.**
-
-> **He watches both of them get better for three years and supplied none
-> of it.** *The cost of the missing organ is his, and it is loneliness,
-> not their ceiling.*
+**§11d carries the full model, and it corrects a generalisation of mine:**
+the barrier is **jutsu**, it is a transmission problem rather than a
+defect, **and he teaches them a great deal** — all of it negative. *What
+fails, what kills people, what he has watched people try on him.*
 
 ### WHAT SHE ACTUALLY MAKES — AUTHOR
 
@@ -1382,15 +1380,52 @@ him.** No rule stops them. **Only he does, and only for himself.**
 > is not a healer who also fights. **She is the noise, and the noise now
 > has a supply chain.**
 
-> ## ⚠ OPEN RULING — does a storage seal stop the clock?
+> ## ⚠ RULED — storage does not stop the clock.
 >
-> **§3: every closed article is dated and starves.** If a scroll suspends
-> that, **half his economy is gone** and the dates stop meaning anything.
-> *Canon is not clear and I am not deciding it.* **Options:** it stops the
-> clock (a large widening and it needs its own price); **it does not**,
-> and storage buys bulk and weight only while his kit rots on schedule; or
-> **she does not know which**, and finds out expensively, once, on
-> something that mattered. **Needed before ch11.**
+> **AUTHOR RULING. Storage is bulk and weight, and nothing else.** §3
+> stands entire: **a closed article is dated and starves inside a scroll
+> exactly as it starves in a pocket.**
+
+**And they find it out by testing**, which is the right way for it to
+arrive, because it is his method and her hand in one experiment: **she
+seals a dozen, he dates them, and they open them on a schedule.** *The
+good news is a wagonload in a satchel. The bad news is on the fourth
+opening.*
+
+> **What it buys is still enormous, and it moves the constraint rather
+> than removing it.** He stops choosing what to carry — §10c's hoard
+> becomes portable, **so diversification stops costing him load** — and
+> what replaces weight is the thing that was underneath it all along.
+> **Dates.** *He can now carry everything he owns, and half of it is
+> dead.*
+
+### ⚠ AND THERE IS A SEAL THAT WOULD FIX IT, AND IT IS YEARS AWAY
+
+> **AUTHOR: a seal that takes in nature chakra, so a stored article
+> maintains itself.**
+
+**It is the right prize and it has to be late, for three reasons:**
+
+1. **It is the sword's accident made deliberate.** §3b — *an open article
+   draws on its own, never goes quiet, and he has no idea what he did
+   apart from the intent.* **A nature-intake seal is that property,
+   externalised, on paper, and repeatable.**
+2. **So it is the road to the theory.** §1 already prices nature chakra at
+   a book of pursuit. **This is the first hard evidence he ever gets that
+   intent was the variable** — *and it arrives from a direction he was not
+   looking in, on a page written by somebody who was not looking at all.*
+3. **⚠ SHE WRITES IT AND WILL NOT UNDERSTAND IT.** *He has the theory and
+   not the hand. She has the hand and has never once asked why anything
+   works.* **It is the one thing neither of them can do alone**, built by
+   two people each missing exactly what the other has, **over years** —
+   and it is the closest thing to a marriage the book contains.
+
+**Its prices, and they are steep enough to keep it honest:** **it is open,
+so it never goes quiet** and a maintenance store is a permanent beacon
+(§4.2's axis, moved onto his cache instead of his person); **the test is
+time**, so every iteration costs months and cannot be hurried; and **she
+cannot debug what she cannot read**, so the failures are silent and show
+up only as opened scrolls full of dust.
 
 ### THE PRICES — four, per §12 and `method-delta.md` §1a
 
@@ -1444,6 +1479,66 @@ composition. Tadayoshi has no teacher and spends his on staying alive.**
 - **And the specialists.** Somewhere in act two he loses an exchange to
   somebody who has done one thing for twenty years, **and the reason is
   in his own ledger** — §10c, in his hand, with dates on it.
+
+---
+
+## 11d. WHAT HE CAN TEACH — and it is a great deal
+
+> **AUTHOR RULING, correcting a generalisation of mine.** The author's
+> line was always the narrow one: **he can point out holes in form and
+> attack; what he cannot teach is what is best for *them*, only for
+> himself** (`spec.md` §11d). **I widened it to *he cannot teach* and
+> built rules on top of that** (`falsified.md` #19).
+
+### The barrier is jutsu, and it is transmission, not incapacity
+
+**At the start he has no idea how to teach anything**, and his way of
+thinking is not theirs. **With techniques there is a real wall and it is
+made of two things:**
+
+1. **He takes styles apart, so what he has is not a style.** It is an
+   **amalgam** — pieces of other people's, kept because they worked,
+   with no through-line, no order and no name. ***The hardest thing in
+   the world to hand to somebody.***
+2. **He learnt it by disassembly**, which is a method and not a syllabus.
+   *He can tell you which piece is doing the work. He cannot tell you
+   what to practise on Tuesday.*
+
+> **That is a difficulty, and difficulties yield to time and effort.**
+> `method-delta.md` §1a — **it is not a door**, and by the end of three
+> years he should be visibly less bad at it.
+
+### AND HE IS ALREADY EXCELLENT AT THREE THINGS
+
+| | Because | Which is worth |
+|---|---|---|
+| **How not to die to him** | **he has watched people try for years and fail, and he keeps the file** (§10) | the most valuable curriculum available to two people who will stand on ground he has laid |
+| **Where a form is wrong** | forty seconds, four words | **criticism, and he is superb at it, and it is the half everybody skips** |
+| **What he would do instead** | **shown, not explained** | **the amalgam transmits by demonstration when it will not transmit by instruction** |
+
+### AND HE IS THE BEST TRAINING PARTNER EITHER OF THEM WILL EVER HAVE
+
+**A live opponent who does not want them dead, will not stop early, and
+can hold ground indefinitely.** For **a swordswoman built entirely on
+timing** and **a boy who can only act on an instruction**, that is worth
+more than a teacher and neither of them will ever say so.
+
+> **He gives them the negative knowledge, entire, and generously, and it
+> is the only generous thing he does without being asked.** *What fails.
+> What kills people. What has been tried on him and did not work.*
+>
+> **What he cannot give is the positive — what to become** — because that
+> requires saying what a person is *for.* **He teaches them how not to
+> die and cannot tell them what to live as**, and those are him at his
+> most useful and his most absent, in the same hour, on the same ground.
+
+### The correction to the record
+
+> **`falsified.md` #18 closed on *everything those two ever learn, they
+> learn from somebody who is not him.* That is wrong** and it was wrong
+> when it was written. **He teaches them constantly.** *He cannot teach
+> them the one thing nobody ever taught him either*, which is a smaller
+> claim and a better one.
 
 ---
 

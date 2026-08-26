@@ -204,6 +204,16 @@ a widening with paperwork.
 > was manufacturing prohibitions**, because it asked for a replacement and
 > did not say it had to be a cost. *It says so now.*
 
+### #19 — HE CANNOT TEACH *(mine — a generalisation of an author line)*
+
+| | |
+|---|---|
+| **Killed** | *He cannot teach*, flat, propagated into `team.md` §3.4 and §7.4 and `combat.md` §11c, and used to justify **Kimimaro standing unused in a house for two years** and **#18's closing line that everything those two ever learn, they learn from somebody who is not him.** |
+| **By** | **Author ruling.** *"You make it sound like Tadayoshi cannot learn? Of course there's going to be a barrier FOR JUTSU — fighting he can criticise and show what he would do. But because he takes styles apart his style is an amalgamation of different styles, which is the hardest thing to teach. None of that means he cannot teach them to dodge him. He's seen what other people have done and failed with, so he'll tell them that. Then for both of them he can be a training dummy."* |
+| **Whose rule it was** | **Mine, and the source line was already in the file and already narrower.** `spec.md` §11d, from the author, months ago: ***he can point out holes in form and attack; what he cannot teach is what is best for them, only for himself.*** **I dropped four words — *what is best for them* — and the claim became a wall.** *The most expensive kind of error in this project is not an invention. It is a quotation with the qualifier removed.* |
+| **Replacement constraint** | **`combat.md` §11d — a transmission problem with a named cause.** The barrier is **jutsu**, and it is made of two things: **his style is not a style, it is an amalgam** assembled out of other people's, with no through-line and no name — *the hardest thing in the world to hand to somebody* — and **he learnt it by disassembly, which is a method and not a syllabus**: he can name the piece doing the work and cannot say what to practise on Tuesday. **And it yields to time and effort**, so by the end of three years he should be visibly less bad at it. |
+| **Net** | **Constraint kept, wall removed, and he gained a virtue.** He is **excellent** at three things — *how not to die to him*, off years of watching people fail and a file full of it; *where a form is wrong*, in forty seconds and four words; and *what he would do instead*, **shown**, because the amalgam transmits by demonstration when it will not transmit by instruction. **And he is the best training partner either of them will ever have**: a live opponent who does not want them dead, will not stop early, and can hold ground indefinitely. **What he gives is negative knowledge, entire and generous** — what fails, what kills people, what has been tried on him. **What he cannot give is what to become**, because that needs saying what a person is *for.* *He teaches them how not to die and cannot tell them what to live as.* |
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

@@ -160,11 +160,14 @@ fire.**
 > whatever to generate one. Told *hold this door*, he holds that door
 > while the building burns down behind him and does it perfectly.
 
-**And Tadayoshi cannot issue one.** Not "will not" — **cannot**.
-`character.md`, the missing organ, third light: **he cannot teach.** He
-can name a fault in a form in four words. He cannot say *what to do*,
-because that requires knowing what the other person is **for**, and he has
-never once been able to tell anybody that.
+**And Tadayoshi does not issue one**, and the reason is narrower than it
+looks (`falsified.md` #19, `combat.md` §11d). **He can name a fault in a
+form in four words, show what he would do instead, and teach either of
+them how not to die to him** — he has watched people try for years and he
+keeps the file. **What he cannot say is *what to do next*, because that
+requires knowing what the other person is *for*,** and an instruction to
+Kimimaro is exactly that. *He can correct him all day. He cannot start
+him.*
 
 > **Kimimaro is perfectly usable — by anybody except him.**
 >
@@ -648,9 +651,12 @@ near — has the one disposition in the world that cannot supply it.
    other place and who has decided her own survival is not worth
    spending on. **Sending her solves arity and costs her**, and he has
    done that sum and will not sign it.
-4. **He cannot teach, and cannot lead.** Kimimaro needs an instruction he
-   cannot issue; Uzuki needs a place to stand that he cannot specify
-   without specifying what she is *for*.
+4. **He cannot say what anybody is for, and cannot lead.** *Not that he
+   cannot teach — he teaches both of them constantly, and it is all
+   negative* (`combat.md` §11d). **Kimimaro needs a start he cannot
+   issue; Uzuki needs a place to stand that he cannot specify without
+   specifying what she is *for*.** *He is generous with what fails and
+   silent on what to become.*
 
 > **He is right about the first three and wrong about the fourth**, and
 > the book must never refute the first three in order to get at the

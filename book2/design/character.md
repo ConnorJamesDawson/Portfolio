@@ -24,7 +24,7 @@ This is the character. Everything else is a consequence.
 |---|---|---|
 | **He cannot be subtle** | Zabuza, the Gatō approach | modelling what a person will conclude |
 | **He cannot talk to her** | Uzuki, six years, daily | modelling what a person feels |
-| **He cannot teach** | the village decision | modelling what a person *should become* |
+| **He cannot say what a person should become** | the village decision | modelling what a person *should become* — **and note the qualifier, which is load-bearing** (`falsified.md` #19). *He teaches them constantly: how not to die to him, where a form is wrong, what he would do instead. He is generous with what fails and silent on what to be.* |
 | **He cannot price** | the bet with Tsunade | every estimate calibrated to a man who is him |
 
 **It is not four weaknesses. It is one hole in four lights**, and the third

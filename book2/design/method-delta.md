@@ -61,6 +61,46 @@ is his: he watches them improve and supplied none of it.
 > (*he is locked out of composition*). **Both were walls, written to
 > satisfy §1, an hour after the rules they replaced died.**
 
+### 1b. ⚠ AND POWER IS AN OPPOSITION PROBLEM, NOT A PROTAGONIST PROBLEM
+
+> **AUTHOR RULING.** *"Overpowered characters come from no properly scaled
+> enemies, and there is no shortage of powerful characters."*
+
+**Book one's failure was diagnosed right and treated wrong.** Twelve rules
+died and the protagonist widened twelve times — true, and §1 exists
+because of it. **But the remedy was aimed at him**, and it should have been
+aimed at the other side of the field.
+
+> **Nobody is overpowered in isolation.** A character is overpowered
+> **relative to what is sent at them**, and this is a setting with an
+> enormous roster of people who would win.
+
+**And the book already owns the correct instrument. It is §10.** *Every
+hunter he kills is a specification handed to the state; the state gets
+better at a rate he is personally setting.* **That is anti-widening as a
+plot engine, and it caps nothing.**
+
+| | Is | Does |
+|---|---|---|
+| **`combat.md` §10, the curve** | **the primary instrument** | stops a widening *mattering* |
+| **§1, replacement constraints** | **the backstop** | catches a widening after it has happened |
+
+**So the order of questions changes.** When he gains something, the first
+question is no longer *what does this cost him.* It is:
+
+> **Who is sent now — and are they better in kind, or merely more
+> numerous?**
+
+**Both are legitimate** — §10b's arity says a dozen is twelve fights, not
+one hard one — **but it has to be one of them, chosen, and on the page.**
+*An unanswered gain is the actual error. A capped character is just a
+smaller book.*
+
+**The failure mode to watch is not strength.** It is **opposition that
+escalates in scale instead of in competence**, which is how a series stops
+making sense. *The state does not need a god. It needs a better briefing
+and more bodies, and both are already specified.*
+
 ## 2. THE AGE ANCHOR
 
 > **The age ledger is an anchor, not an output.** If a scene needs more time

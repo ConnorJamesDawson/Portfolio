@@ -671,3 +671,52 @@ and he will say so, and he will be telling the truth.**
 *Stay your hand from the blood of the innocent* — held by a man who has
 already been widening *not innocent* for years, being asked to widen it once
 more, **for the best reason he will ever be offered.**
+
+---
+
+## 7b. ⚠ THE OTO ARC — where *canon-shattering* gets paid
+
+> **AUTHOR RULING. Tadayoshi eventually kills Sasuke, while Sasuke is
+> training with Orochimaru. The Oto spy arc, realised in this book.**
+
+**This is the promise from the first session collected in full** — *this
+Ruri is going to be canon-shattering* — **on the one character canon
+protects most.**
+
+**And it is where the book's own thesis finally closes.** The arc has been
+*becoming the monster everybody already believes he is* since the warrant
+at ten. **Killing the last Uchiha is the point at which the belief and the
+man agree**, and there is no version of it anybody forgives — *including
+the reader, which is the point.* Whatever the amnesty bought at Wave, it
+does not survive this.
+
+### AND THE ARC ENDS ON THE EYES
+
+> **Tsunade is shown that Tadayoshi has taken Sasuke's eyes.**
+
+**⚠ RULING NEEDED — who shows her**, because the two readings build
+different books and the phrasing carries both:
+
+| | | |
+|---|---|---|
+| **Tadayoshi himself** | he brings them, or the fact of them, to the Hokage | **a confession, and it reads as the creed's last failure.** He did the arithmetic, decided, and came to report it — *like an entry.* The man whose whole moral architecture is accurate records, filing the worst one |
+| **The brother** | a Ruri who has made a career of handing his own family to institutions | **the betrayal completing its circle.** He sold the family at ten and sells the survivor at the end, **and the second time he is telling the truth** |
+
+*Both are strong and I am not choosing. The line was "Ruri showing Tsunade
+that Tadayoshi has taken Sasuke's eyes", which reads as two people and may
+simply be the surname.*
+
+### WHY HE TOOK THEM — PROPOSED, needs ruling
+
+**Not to use.** He has no way to implant them, no use for a doujutsu, and
+`combat.md` §10c would price a stolen capability at one fight anyway.
+
+> **The available reading is denial.** *Orochimaru wants a vessel, and the
+> eyes are what the vessel was worth.* **So taking them is the operation
+> he has run on everything since he was eight** — *find the piece that is
+> doing the work, and remove it* — **performed on a boy.**
+>
+> **Which would make the most monstrous act in the book an act of
+> engineering**, done for a correct reason, by a man who could show you
+> the working. *That is either the best version of this or the one that
+> lets him off, and the book has to know which.*
