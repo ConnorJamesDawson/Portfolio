@@ -1202,6 +1202,26 @@ writes it down**, and after that it is briefed against.
    thing to be described. **He cannot get off the curve — he can only stay
    ahead of it by a margin that shrinks every time he spends something.**
 
+### ⚠ AND THE LAST NEW THING IS AN ORGAN — see `structure.md` §7b
+
+**AUTHOR: the implanted Sharingan.** *He takes Sasuke's eyes and Uzuki
+puts them in, because with them he does not need a village.*
+
+> **It is §10c taken to its end and then past it.** Every new thing is
+> worth one fight — **and the eye is worth every fight, because it is not
+> a thing he built, it is a thing he became.**
+
+**Which is exactly why it is dangerous to the book and not to the plot.**
+*He is a man whose method is patient disassembly.* **The eye does the
+disassembly for him, instantly, without the understanding**, and the price
+is not chakra: **it is the ledger.** *The entries get shorter. He stops
+needing to work things out. Nobody remarks on it.* See §7b — **shown,
+never stated.**
+
+**And it trades a tax for a permanence**, which is the sword's bargain
+(§3b) made a second time, in his face, **and he does not understand it the
+second time either.**
+
 ### ⚠ AND THE THRESHOLD SPENDS THE WHOLE HOARD AT ONCE
 
 **§10b constraint 3: *it spends whatever he has got*, and he does not

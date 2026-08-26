@@ -676,47 +676,117 @@ more, **for the best reason he will ever be offered.**
 
 ## 7b. ⚠ THE OTO ARC — where *canon-shattering* gets paid
 
-> **AUTHOR RULING. Tadayoshi eventually kills Sasuke, while Sasuke is
-> training with Orochimaru. The Oto spy arc, realised in this book.**
-
-**This is the promise from the first session collected in full** — *this
-Ruri is going to be canon-shattering* — **on the one character canon
-protects most.**
-
-**And it is where the book's own thesis finally closes.** The arc has been
-*becoming the monster everybody already believes he is* since the warrant
-at ten. **Killing the last Uchiha is the point at which the belief and the
-man agree**, and there is no version of it anybody forgives — *including
-the reader, which is the point.* Whatever the amnesty bought at Wave, it
-does not survive this.
-
-### AND THE ARC ENDS ON THE EYES
-
-> **Tsunade is shown that Tadayoshi has taken Sasuke's eyes.**
-
-**⚠ RULING NEEDED — who shows her**, because the two readings build
-different books and the phrasing carries both:
-
-| | | |
-|---|---|---|
-| **Tadayoshi himself** | he brings them, or the fact of them, to the Hokage | **a confession, and it reads as the creed's last failure.** He did the arithmetic, decided, and came to report it — *like an entry.* The man whose whole moral architecture is accurate records, filing the worst one |
-| **The brother** | a Ruri who has made a career of handing his own family to institutions | **the betrayal completing its circle.** He sold the family at ten and sells the survivor at the end, **and the second time he is telling the truth** |
-
-*Both are strong and I am not choosing. The line was "Ruri showing Tsunade
-that Tadayoshi has taken Sasuke's eyes", which reads as two people and may
-simply be the surname.*
-
-### WHY HE TOOK THEM — PROPOSED, needs ruling
-
-**Not to use.** He has no way to implant them, no use for a doujutsu, and
-`combat.md` §10c would price a stolen capability at one fight anyway.
-
-> **The available reading is denial.** *Orochimaru wants a vessel, and the
-> eyes are what the vessel was worth.* **So taking them is the operation
-> he has run on everything since he was eight** — *find the piece that is
-> doing the work, and remove it* — **performed on a boy.**
+> **AUTHOR RULING. Tadayoshi kills Sasuke while Sasuke is training with
+> Orochimaru — the Oto spy arc, realised. He takes the eyes, and Uzuki
+> implants them. He shows Tsunade himself. And the big bad becomes Itachi,
+> when Itachi finds out.**
 >
-> **Which would make the most monstrous act in the book an act of
-> engineering**, done for a correct reason, by a man who could show you
-> the working. *That is either the best version of this or the one that
-> lets him off, and the book has to know which.*
+> *Akatsuki is for a later session. This records the shape.*
+
+### The motive, and it is not a fall — it is the doctrine, executed
+
+**AUTHOR: *he wants to be strong enough to survive; with the eyes he does
+not need a village any more.***
+
+**And that has been the man's position since he was ten.** `spec.md`:
+*ninja should be able to stand on their own; needing a village's
+protection makes people complacent, and complacent people rot.*
+
+> **`combat.md` §10b is what beat him.** He is one object; a dozen
+> hunter-nin is twelve fights; the only thing that solves arity is people,
+> and people are the one thing he will not take. **So he hands the
+> children to a village — because he cannot be in twelve places.**
+>
+> **And then he goes and takes the thing that means he never has to hand
+> anybody to anybody again.**
+
+**It is not a villain turn. It is the arithmetic, coming out.** He wrote
+*stand alone* at ten, lost to arity at thirteen, and at whatever age this
+lands he finds the answer, **and it is in a boy's head.**
+
+### THE SCENE — and Tsunade is the right recipient for a reason already
+### in the file
+
+**§5: the bet, and the wrong specification.** *He asked for a diagnosis
+and she gave him one: **he needs a village, not a medic.***
+
+> **So he comes back and shows her.** Not a confession. **An answer.**
+> *You told me the answer was a village. I did the arithmetic. Here.*
+>
+> **He shows his working, because he has shown his working about
+> everything since he was eight**, and he does not understand that this is
+> the one time it damns him. **On his own terms it is a correct result,
+> reported to the person who set the problem.**
+
+### ⚠ THE PRICE MUST BE THE METHOD — PROPOSED, and it is the whole risk
+
+**The Sharingan copies. Tadayoshi's entire identity is that he takes
+things apart slowly and finds the piece doing no work.** *The eye does
+that for him, instantly, without the understanding.*
+
+> **So the danger is not that it makes him strong. It is that it eats the
+> character** — the man whose method was patience gets an organ that skips
+> the patience, **and starts winning fights with borrowed forms he never
+> disassembled.**
+
+**Which is the price, and it should be shown and never stated:** *the
+ledger thins.* **The book's instrument panel is his book — dated findings,
+series maintained for years — and after the implant the entries get
+shorter.** He stops needing to work things out. *Nobody remarks on it. The
+reader notices because the file was a character.*
+
+**And canon supplies the physical cost without anything being invented:**
+a non-Uchiha wearing implanted Sharingan does not switch it off, and it
+drains him permanently. **He has traded a chakra tax for the eyes** —
+*which is precisely the trade he made with the sword in §3b and did not
+understand then either.*
+
+### UZUKI DOES THE PROCEDURE — and it is the loudest thing in her arc
+
+**AUTHOR.** *Not him. Her hands.*
+
+- **He has a written household rule with a stated distance in it**
+  (`combat.md` §9), *his only law, about how far away the people who love
+  him must stand.* **And he lets her closer than anyone has ever been,
+  with a knife, to his face.** *The rule dies on an operating table and
+  neither of them mentions it.*
+- **She would say yes immediately**, which is the horror — `team.md`
+  §10.6's guardrail gets its hardest test here: *she has run the audit and
+  declined to let the mechanism cast the vote.* **Does it hold?**
+  > **⚠ PROPOSED, and the two readings make different books.** *She does
+  > it because he asked, and asks one question first, and the question is
+  > practical* — **or she is delighted**, because it is the most
+  > spectacular thing he has ever let her do, and §4.3's sadism has
+  > somewhere new to go. **Needs ruling.**
+- **And it is beyond her.** `combat.md` §11b: *little, stop, wait, ninety
+  times; **you cannot tell during**; it buys hours, not cures.* **Ocular
+  implant is not on that ladder.** *So: does it work cleanly, work badly —
+  months half-blind, and he does not complain, which is worse — or does
+  she carry it afterwards?* **PROPOSED. Needs ruling.**
+
+### ITACHI, AND THE RHYME IS FREE
+
+**Somebody killed Sasuke and is wearing his eyes.** *Itachi murdered his
+own clan, spared his brother, and arranged his entire remaining life
+around that brother's hatred.* **This does not annoy Itachi. It voids
+him** — **the most motivated antagonist available in the setting, and the
+book did not have to build him.**
+
+> **And the two brothers rhyme in opposite directions.**
+>
+> | | | |
+> |---|---|---|
+> | **Itachi** | **killed his clan and spared his brother** | and is coming for the man who killed that brother |
+> | **The brother** | **sold his clan and spared himself** | and Tadayoshi has sworn since he was ten to kill him |
+>
+> **Two dying men and a boy wearing a dead brother's eyes**, and every
+> single one of them is a brother problem.
+
+### ⚠ OPEN — timing, and it is a real structural question
+
+**Sasuke reaches Orochimaru at the end of Part I, at thirteen — the same
+age Tadayoshi is at Wave.** So this is **after the door**, and `act-1.md`'s
+four acts of one year each do not obviously contain it. *Is the Oto arc
+the back of act four, or is it the next book?* **Not deciding it. But it
+changes what act four is for, so it wants an answer before act three is
+planned.**
