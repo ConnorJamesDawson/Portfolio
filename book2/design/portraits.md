@@ -172,9 +172,13 @@ The sequence is the character:
 
 ### And the thing she will not give up for him — `combat.md` §7b
 
-**Her grandfather's sword, out of Uzushio, with the clan's spiral on the
-tsuba.** He changed his name, his country, and her hair. **He did not
-change the tsuba.**
+**Her grandfather's sword, out of Uzushio** — **red lacquer, gold, a
+pierced whirl for a tsuba, and running tide carved down the blade.** He
+changed his name, his country, and her hair. **He kept that.**
+
+> **And the scabbard is the colour of her real hair. She dyes her head to
+> hide it and carries the colour on her hip, and nobody in this book ever
+> says so.**
 
 > **Her grandfather hid the blood and kept the sword. She hides neither.**
 >

@@ -262,6 +262,13 @@ partner.** It is true, it is sufficient, and it is the entry he makes.
 room (`combat.md` §7b), **which is hers, and which she has been thinking
 about for two years.**
 
+**And not as property.** She saw her grandfather take it down once, when
+she was small. **It is the only time she ever saw him look like a person
+from somewhere**, and she was too young to know what she was looking at.
+
+> **She has no clan, no name, no village and no parent she can use. The
+> sword is the whole of the estate.**
+
 > **She would tell you the reason in one sentence and it would be true.
 > Killing him is what happens on the way to it.**
 
@@ -418,12 +425,17 @@ it. **It is the one thing in her life she does not narrate.**
    > person standing next to him.*
 
 4. **THE SWORD ITSELF** (`combat.md` §7b). **Her grandfather's, out of
-   Uzushio, with the clan's spiral on the tsuba where anybody can see
-   it.** Recovered at Nakadō — **it is the errand; the killing is what
-   happens on the way to it** — and worn openly from eleven. **Too big
-   for two years and she will not have it shortened.**
+   Uzushio — red lacquer, gold, a pierced whirl for a tsuba, and running
+   tide carved the length of the blade.** Recovered at Nakadō — **it is
+   the errand; the killing is what happens on the way to it** — and worn
+   openly from eleven. **Too big for two years and she will not have it
+   shortened.**
    > **His blade grows with him. Hers was finished before she was born
    > and she had to catch up to it.**
+   >
+   > **And its danger is entirely social.** It cuts like any other good
+   > sixty-year-old sword. **What it does is make her impossible to
+   > forget.**
 
 **RULED OUT: fūinjutsu.** The classic Uzumaki widening, refused, in the
 book's own grammar: **the capability exists and the transmission chain is

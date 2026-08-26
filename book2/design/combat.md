@@ -284,29 +284,81 @@ and not at four in the morning when a hundred went on account* (ch2).
 **Any reader who goes back can find it hanging there while the household
 runs out of money.**
 
-### What it is — and it must not be a superweapon
+### What it is — and it is not a superweapon, it is a spectacle
 
-**An ordinary good sword with an unmistakable provenance.** Its entire
-value is **what it says about the person wearing it**, not what it does.
+> **The Uzumaki were never ones to be muted.** Bright red hair, a spiral
+> on everything they ever made, and a village named after the water that
+> was supposed to keep the world out. **They did not do understated.**
+
+**An ordinary good sword in an extraordinary dress.** It cuts about as
+well as any other well-made sixty-year-old blade. **Its entire danger is
+social.**
 
 | | |
 |---|---|
 | **Age** | sixty-odd years. Made in Uzushio **before** |
-| **Quality** | very good and completely plain. Good steel, good geometry, **no ornament at all** |
-| **The mark** | **an Uzumaki spiral, worked into the tsuba.** Not hidden. **The first thing anybody sees** |
-| **Size** | **a grown man's sword.** She is eleven |
+| **Blade** | very good, and **carved** — see below |
+| **Saya** | **red lacquer.** Not dark red. **Red** |
+| **Fittings** | **brass and gold**, and the wear on them is honest |
+| **Tsuba** | **pierced ironwork — a whirl, open, unmistakable** |
+| **Size** | a grown man's sword. **She is eleven** |
 
-### THE TSUBA IS THE WHOLE CHARACTER OF HER GRANDFATHER
+### THE CARVING — and it is what he kept it for
 
-**He could have changed it in an afternoon.** A tsuba is a fitting. You
-take it off and you put another one on and nobody alive would know.
+**A horimono the length of the blade on one side: water.** Not a crest,
+not a stylisation, **not a badge** — **a channel of running tide with the
+whirl turning in the middle of it**, cut by somebody who had stood and
+watched it.
 
-**He changed his name, his country, and his granddaughter's hair.**
-
-> **He did not change the tsuba.**
+> **The whirlpools were home and they were also the wall.** They were what
+> made Uzushio unreachable, **and then one day they did not.**
 >
-> **He erased everything he could, and there was exactly one thing he
-> could not, and it was two inches across.**
+> **He fled with an engraving of the thing that was supposed to have made
+> fleeing unnecessary.**
+
+**And on the reverse, characters. Not a jutsu and not a prayer.**
+
+> **It is the name of the island.**
+>
+> **And she cannot read it.** It is an Uzushio hand, she was never taught,
+> **and the one man who could have read it to her never did.**
+
+**She has been wearing the word on her hip for years and does not know
+that is what it says** — the same mechanism as *she broadcasts a clan she
+cannot name*, made physical and worse.
+
+> **Which upgrades the recognition scene.** The minor character who
+> eventually tells her does not just identify the spiral. **They read the
+> blade to her**, out loud, as a pleasantry, and go back to what they were
+> doing.
+
+### THE RED — and it costs nothing to plant
+
+**The scabbard is the colour of her real hair.**
+
+> **She dyes her head to hide it and carries the colour on her hip.**
+>
+> **Nobody says this. Not one character, not one line of narration, ever.**
+
+### And the grandfather kept THIS, above a door, in inland Hot Water
+
+**Not a two-inch fitting. A red-lacquered, gold-mounted, whirl-carved
+Uzushio sword**, in a farmhouse, in a country four days from the sea.
+
+> **You could not design a worse object to keep. And he kept it, and he
+> put it up where he could see it**, in the room visitors do not go into,
+> **and looked at it.**
+
+**Uzuki saw him take it down once.** She was small. **It is the only time
+she ever saw her grandfather look like a person from somewhere**, and she
+was too young to know what she was looking at, **and she has been carrying
+that memory around unexamined ever since.**
+
+> **Which is what she actually goes back for.** Not property.
+>
+> **It is the only object in the world that is evidence the Nozakis were
+> ever anything**, and she has no clan, no name, no village and no parent
+> she can use. **The sword is the whole of the estate.**
 
 ### She wears it, openly, at eleven — and it is not heroic
 
@@ -358,9 +410,21 @@ including a smith who offers for nothing.
 
 ### WHAT IT COSTS — and it costs him, not her
 
-**A sword with that tsuba is not concealable and she will not conceal it.**
-Which is a security problem of the first order, **and it is one of about
-three arguments he has ever lost.**
+**A red-lacquered, gold-mounted, whirl-carved sword is not concealable and
+she will not conceal it.** Which is a security problem of the first order,
+**and it is one of about three arguments he has ever lost.**
+
+**And the real cost is not that she is identifiable as Uzumaki. It is that
+she is IDENTIFIABLE.**
+
+> **She is a walking description.** *A girl with a red sword* survives four
+> days and a market — **which is precisely the mechanism that drafted his
+> own specification at Nezu** (ch6 scene 1).
+>
+> **He threw an armful of cut rushes into the first ditch inside a town
+> because a boy carrying something is a boy people remember.**
+>
+> **And then he acquired a person who is permanently carrying something.**
 
 **He cannot make her stop. So he does the only thing he can do with a fact
 he cannot change: he prices it.**
