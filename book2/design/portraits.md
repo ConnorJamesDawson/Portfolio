@@ -268,6 +268,14 @@ made her un-lookable-at. It only ever hid *which* thing she was worth.
 all.** She has one person, which is why the devotion has nowhere to
 distribute and no ceiling.
 
+### The four stages of it are in `team.md` §10
+
+**Necessity → the descent → the moniker → he stops correcting it.** It is
+Stockholm, the book should not be coy about that, **and the mechanism is
+not the verdict**: what ruins her is narration that treats the bond as
+involuntary and therefore excusable. **What does not ruin her is a girl
+who can name the mechanism accurately and endorses the result anyway.**
+
 ### "By complete choice" — and the book must hold the line
 
 The reading that ruins her is *trauma-bonded child who cannot help it*. That

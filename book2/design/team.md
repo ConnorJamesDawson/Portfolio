@@ -602,3 +602,181 @@ it.**
   > **The organ he is missing arrives in the house on the day she does,
   > and it takes three years and a dying boy for him to be made to use
   > it.**
+
+---
+
+## 10. THE ATTACHMENT — Uzuki and Tadayoshi, in four stages
+
+> **The standing rule it has to survive** (`portraits.md`): *the reading
+> that ruins her is trauma-bonded child who cannot help it. That is pity,
+> and pity is not a character. She chose. She can state why. She would
+> choose again.*
+
+### 10.0 The reconciliation, and it is the whole design
+
+**It is Stockholm. That is the mechanism and the book should not be coy
+about it.**
+
+**And it does not ruin her, because the mechanism is not the verdict.**
+
+> **What ruins a character is narration that treats the bond as
+> involuntary and therefore excusable** — *poor thing, she can't help it.*
+>
+> **What does not ruin her is a girl who knows exactly what happened to
+> her, can name it, and endorses the result anyway.**
+
+**She keeps a record of re-choosing** (`portraits.md`). **You do not audit
+a thing you are not worried about.** The record exists *because* she knows
+the choosing is suspect, and she keeps making it, and that is the
+difference between a person and an imprint.
+
+---
+
+### 10.1 NECESSITY — the first weeks, and there is no warmth in it at all
+
+**Exactly what it looks like:**
+
+> *"I can't stay here. I can't go home. He looks capable."*
+
+**That is the whole of it and she would say so out loud**, because she says
+everything. **No gratitude, no awe, no rescue-glow.** He got her to a door
+and told her it was a debt and said so plainly, **and she took the
+arrangement on its stated terms.**
+
+> **She chose him the way he chooses everything: she did a valuation.**
+>
+> **It is the first thing they have in common and neither of them ever
+> notices.**
+
+**The page must be genuinely unromantic here**, because the reader needs
+to see the ledger entry this started as before they watch it become
+something else.
+
+---
+
+### 10.2 THE DESCENT — and the drug is not affection
+
+**He is not affectionate. He is not warm. He is barely conversational.**
+
+**What he is, is the only object in her life that has ever behaved the
+same way twice.**
+
+| Everyone before him | Him |
+|---|---|
+| **Her father** dyed her hair for years and never said why, and died | **said he would get her to the door, and got her to the door** |
+| **Her mother** said *ask me tomorrow*, and was never going to come | **has not once said a thing he then did not do** |
+| **Shimoda** was decent for eleven weeks | **is the same on the worst day as the best one** |
+| **The monastery** priced her twice in one room | **prices everything out loud, including her, and shows the working** |
+
+> **Reliability is the drug. Not love — predictability.**
+>
+> **She attaches to him for exactly the reason he keeps a ledger. They are
+> both people who need the world to be recordable. He gets it from a book.
+> She gets it from a person.**
+
+**And the descent is a narrowing** (`portraits.md`: *it makes her
+narrower — she grows around him*):
+
+- **She stops having preferences of her own and does not notice.** The
+  dye — *hair is hair* — given up in the first week and **not experienced
+  as a loss.**
+- **Every value she holds gradually routes through one person.**
+- **And the tell is not that she says so.** She says everything. **The
+  tell is what stops appearing:** her own reasons.
+
+---
+
+### 10.3 THE MONIKER — *boyfriend*, and why that word
+
+**In use by eleven** (it is the word she uses at Nakadō, §4.3).
+
+**Three things are true at once and she does not separate them:**
+
+1. **It is the only slot in the language the right size.** She has no
+   vocabulary for what he is; nobody does. **She is a girl of eleven, and
+   *boyfriend* is what a girl of eleven has.**
+2. **It is a claim that she is a normal person with a normal life** — a
+   lie she tells the world and herself, **in one word, cheerfully, at
+   volume.**
+3. **It is a flag planted on him**, publicly, repeatedly, to strangers, in
+   front of clients and brokers and marks. **And nobody can take it down,
+   because the one person who could will not.**
+
+---
+
+### 10.4 HIS SIDE — he stops maintaining the objection, and that is the
+### most he ever gives her
+
+> **He is annoyed by it at first. He corrects it. And then he stops
+> correcting it, to keep her happy.**
+
+**Read what that costs him, because it is enormous:**
+
+- **He cannot lie. He has never once been able to** (C5; held through ch6
+  and ch7). **And here he lets a false statement stand, repeatedly, in
+  public, indefinitely** — because correcting it takes something off her.
+  > **It is the first thing in his life he ever allows to be untrue**, and
+  > he does it by omission, which is the technique he learned in a yard
+  > at Sakabe and has been refining ever since. **Silence is a thing you
+  > can do to somebody.**
+- **It is the closest he comes to affection in the whole book**, and it
+  takes the form of **declining to correct the record** — from the boy
+  whose entire moral architecture is accurate entries.
+- **And it is not only kindness. It is also cheaper.** Correcting her
+  properly would mean a conversation about what she *is* to him, **and he
+  cannot have that conversation**, because it requires telling somebody
+  what they are for.
+
+> **He does not consent to it. He stops maintaining the objection. She
+> counts that as a yes. He knows she counts it as a yes. And he lets that
+> stand as well.**
+
+**And it compounds.** Every year he does not correct it the claim gets
+older and truer by tenure, **until by fifteen it is simply a fact three
+countries operate on — and he built it entirely out of silence.**
+
+---
+
+### 10.5 DOES HE LOVE HER — and the answer is in the missing organ
+
+`portraits.md` is already explicit: **he knows, and can do nothing with
+it.** *She is beautiful, and it is the one thing about her that has never
+been mentioned by the person she has organised her life around.*
+
+**So it is not that he does not feel it. It is that feeling it produces no
+action he is capable of taking**, because every available action requires
+him to say what she is for.
+
+> **And that is the same silence Kimimaro is standing in.**
+>
+> **Kimimaro waits for the specification. Uzuki writes her own and dares
+> him to strike it out. And he does not.**
+>
+> **Two children in one house, both waiting on the same sentence from the
+> same boy, and only one of them thinks to just say it themselves.**
+
+---
+
+### 10.6 THE GUARDRAIL — she gives the account, once, late, in full
+
+**Somebody asks, or accuses. And she does not get defensive and does not
+soften it:**
+
+> *"I know what this is. I was ten and I had nothing and he was the thing
+> that was standing there. If it had been somebody else in that room I'd
+> have gone with them instead. I know that. I've thought about it a great
+> deal more than you have."*
+>
+> **"And it was him. So."**
+
+**That is the version that is not pity.** She has run the audit, found the
+mechanism, named it accurately, **and declined to let the mechanism cast
+the vote.**
+
+**And the structural proof, which the book must actually stage:** she has
+had chances to leave, and `portraits.md` requires that by fifteen she has
+declined **all** of them, knowingly.
+
+> **A Stockholm case does not get out and go back. She does. Repeatedly.
+> And every declining is a fresh act, which is why there is a record of
+> them.**

@@ -315,6 +315,57 @@ its place in the architecture.
 
 ---
 
+## 4c. THE TEA — and it is the only comedy in the book
+
+**Act three. A return visit to Nakadō, on purpose, with the boys, for
+tea.**
+
+> **Three of the most damaged people alive, making a social call, badly,
+> in a house where the husband died on the floor.**
+
+**The rule for the scene: play the horror completely straight and let the
+surface be an ordinary afternoon.** Nobody in the room acknowledges
+anything. **The comedy is real, the reader laughs, and then hears
+themselves.**
+
+### The four engines, and each is a standing character trait doing its job
+
+| | Doing |
+|---|---|
+| **Tadayoshi** | **cannot be subtle** (`character.md`, first light). Asked what he does, **he tells her.** At length. Accurately. Asked how they met, **he tells her that too**, in order, with dates |
+| **Kimimaro** | **asks permission to sit down.** And to drink. And to leave the table. **Immaculately, alarmingly polite**, and nobody explains why, and Sae keeps saying *of course you can, love* |
+| **Uzuki** | **is having the best afternoon of her life** and it is not a performance |
+| **Sae** | **is pouring tea for the person who killed her husband on that floor**, and is being a good hostess about it, **because there is nothing else she knows how to be** |
+
+### The beat the scene exists for
+
+**Sae asks about their families.** A perfectly ordinary question. **The
+only ordinary question there is.**
+
+> **And the table does the arithmetic.**
+>
+> Tadayoshi's mother: taken at ten, dead at twelve, **and he does not know
+> it.** Kimimaro: **caged by his own clan and sold**, and cannot supply a
+> single name. **And Uzuki has a mother, in this room, holding a pot.**
+
+**And Uzuki says: *"Mother. Don't."***
+
+**Not to protect them. Because she has done this arithmetic before and
+knows exactly how it comes out.**
+
+> **She is the only one of the three with a parent left, and the parent is
+> the one who watched.**
+
+### Where it sits
+
+- **After Nakadō has settled** (§4b) — the reader must already know
+  precisely what she is, or the comedy is unearned.
+- **Before Wave**, as the last breather the book gets.
+- **And it is the only scene in four acts where all three of them are in a
+  room with nothing to do.** Spend it once.
+
+---
+
 ## 5. TSUNADE — the bet, and the wrong specification
 
 He saw the woodcut, so he tracks her down and offers **a bet: he pays her
