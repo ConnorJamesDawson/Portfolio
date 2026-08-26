@@ -1295,6 +1295,120 @@ underneath it**, and *about one person in nine can do it at all.*
 
 ---
 
+## 11c. SEALS — she writes, he breaks
+
+> **AUTHOR RULING.** *Fūinjutsu is in the book, split down the middle.
+> Uzuki writes them. Tadayoshi breaks them.* **Supersedes team.md §4.4's
+> rule-out, which was mine and was mis-marked as RULED** (`falsified.md`
+> #17).
+
+### The split is not a balance. It is one defect, seen from both sides.
+
+| | Sees | Misses | Therefore |
+|---|---|---|---|
+| **Uzuki** | **the forest** | **the trees** | she can hold a whole intention and fix it on a surface — **and cannot tell you which stroke is carrying it** |
+| **Tadayoshi** | **the trees** | **the forest** | he finds the stroke doing the work in under a minute — **and cannot tell you what the seal was for** |
+
+### Why writing is her half, and it is not a gift
+
+**A seal is a statement of purpose, fixed on a surface. You cannot write
+one without knowing what the thing is for.**
+
+**And that is the organ he has not got.** `character.md`: he cannot say
+what anything is *for* — it is why he cannot teach, why Kimimaro stands
+in a house unused, and why he answers *tell me what I am for* with a
+specification instead of an answer.
+
+> **So the one discipline in the world that is pure specification is the
+> one he is constitutionally locked out of.** Not underpowered for it.
+> **Locked out.** It is the same wound, wearing a technique.
+
+### Why breaking is his, and book one already wrote the sentence
+
+`design/combat.md`: ***making is composition; breaking is finding where
+the man who made it got tired.***
+
+**It is the signature operation, pointed at somebody else's work.** At
+eight he ran *which of these four is doing no work* on his own seal
+sequence. A stranger's array is the same question with a stranger's hand
+on it. **He does not need to know what it is for. He needs to know which
+part is load-bearing, which is the only question he has ever asked about
+anything.**
+
+> ## ⚠ AND HE CANNOT PREDICT WHAT BREAKING IT DOES.
+>
+> **He finds the stroke, and cuts it, and does not know what was being
+> held.** The missing organ has been a sadness for ten chapters. **Here
+> it is a hazard**: he disarms things and cannot tell you what he
+> disarmed, and the book should make him right and sorry in the same
+> scene.
+
+### THE REPLACEMENT CONSTRAINTS — four, per §12
+
+**A whole discipline just arrived. It does not arrive free.**
+
+1. **A SEAL IS WRITTEN, AND SHE IS THE ONE WHO CHARGES.** Writing needs
+   time, a surface and stillness. **She arrives in the middle of a fight
+   and makes it about her** (`team.md` §4.1). *Her best capability is the
+   one she has no time to use.* So everything she fields is **prepared in
+   advance** — §10c's hoarding doctrine, handed to the one person in the
+   book constitutionally incapable of holding anything back.
+2. **NOBODY TO CHECK AGAINST.** Her clan was hunted to nothing, there is
+   nobody alive to teach her, and **asking anybody broadcasts what she
+   is.** So there is no verification: **she cannot know a seal is right
+   until it fires.** *He runs dated series with controls. She runs trials
+   with no control group, and the trial is the deployment.*
+3. **⚠ A SEAL IS A SIGNATURE, AND HERS SAYS UZUMAKI.** §4.3 — every
+   article left behind is a disclosure — **and a written seal is worse,
+   because it is on a surface and it stays.** Every one she leaves is
+   evidence an Uzumaki is alive. **The curve has been his clock for the
+   whole book; this is the first time it points at her.** *And she will
+   not care. She wears the sword openly; signing her work is the same
+   decision, made again.*
+4. **HIS HALF IS A CUT, AND IT NEVER BECOMES COMPOSITION.** He cannot
+   make a seal, repair one, improve one, or build on one — **so the
+   store-and-battery road book one ran on is shut, and Sage Mode stays
+   where §1 put it.**
+   > **THE LINE THAT MUST HOLD.** *Sazare was taught for years by a named
+   > instructor and his ceiling was composition. Tadayoshi has nobody,
+   > will never be taught, and his ceiling is a cut.* **He builds
+   > nothing. If that slips he is Sazare with a sword, and the book is
+   > over.**
+
+### WHERE SHE LEARNT IT — PROPOSED, needs ruling
+
+**The transmission chain was the reason for the old rule-out and it still
+has to be answered.** The available answer is already ruled and sitting
+above a door in Nakadō:
+
+> **Her grandfather could not teach and could not say the name, and he
+> kept one object out of Uzushio** — ornate, red lacquer and gold,
+> **running tide carved the length of the blade** (§7b).
+>
+> **If the carving is script as ornament**, then the thing she has worn
+> openly since eleven is the only surviving Uzumaki text she owns, **and
+> she learns to write by copying a decoration nobody ever told her was
+> writing.**
+
+*Marked PROPOSED. It is clean, and it is exactly the kind of clean that
+`falsified.md` #16 was written about, so it wants a ruling and not a
+nod.*
+
+### WHERE IT PAYS
+
+- **The bouncing.** She writes something; **he takes it apart, because he
+  cannot not** — and it is the first thing she has made that is not about
+  him. He can name the fault in four words and **cannot say what to do
+  instead**, which is the teaching problem arriving in the one place she
+  would actually have listened.
+- **He breaks one in the field and something he did not expect stops
+  working**, and somebody pays for it.
+- **`team.md` §7 gets a fifth reason it never assembles around him** —
+  **she now holds a capability he cannot possess**, and he grades her on
+  an axis that cannot see it (§2).
+
+---
+
 ## 12. The standing ledger rule
 
 > **No rule in this file may be falsified without a replacement constraint

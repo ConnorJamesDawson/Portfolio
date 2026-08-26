@@ -30,10 +30,13 @@
 > | **4.4.3** | **Diagnosis used offensively** — she reads a field by what is being protected | her capability on every field she is on |
 > | **5** | **The ranking table** | every fight in the book is graded against it |
 >
-> **And one is worse than PROPOSED, because it is mis-marked:** §4.4's
-> ***RULED OUT: fūinjutsu*** **uses the ruling register for a decision
-> nobody made but me.** It is the largest refusal in the file — the
-> classic Uzumaki widening — and it is sitting there looking settled.
+> **And one was worse than PROPOSED, because it was mis-marked — now
+> RESOLVED.** §4.4's ***RULED OUT: fūinjutsu*** used the ruling register
+> for a decision nobody made but me. **The sweep surfaced it and the
+> author killed it the same day:** *she writes them, he breaks them.*
+> `combat.md` §11c, `falsified.md` #17. **The sweep's first catch, and it
+> caught a refusal rather than an addition** — which is the half nobody
+> looks for.
 
 ---
 
@@ -479,14 +482,32 @@ it. **It is the one thing in her life she does not narrate.**
    > a correct sum — *name a town we can go into that we couldn't go into
    > before I had it* — **and he cannot.**
 
-**PROPOSED — RULE OUT fūinjutsu.** *Was written as RULED. It was not; it
-is mine, and it is the biggest refusal in the file.* The classic Uzumaki
-widening, refused, in the book's own grammar: **the capability exists and
-the transmission chain is broken.** Her clan was hunted to nothing, there
-is nobody alive to teach her, **and her father could hide the blood and
-could not pass anything on.** *A loss, not a gift* — beside Kongō's mark,
-the household's degraded output, and a boy who has to build a reason from
-nothing.
+5. **FŪINJUTSU — AUTHOR RULING, and it supersedes the rule-out that stood
+   here.** *That rule was mine, mis-marked as RULED, and killed the day
+   the sweep found it* (`falsified.md` #17). **She writes them. Tadayoshi
+   breaks them.** Full mechanism and its four replacement constraints:
+   `combat.md` §11c.
+   > **It is the same defect from both sides.** *She sees the forest and
+   > not the trees, so she can hold a whole intention and fix it on a
+   > surface, and cannot say which stroke carries it. He sees the trees
+   > and not the forest, so he finds the load-bearing stroke in under a
+   > minute and cannot say what the seal was for.*
+   >
+   > **A seal is a statement of purpose, and he cannot say what anything
+   > is for.** The one discipline that is pure specification is the one he
+   > is locked out of — **not underpowered for, locked out** — and it is
+   > the missing organ wearing a technique.
+
+   **What it costs her**, in one line each: **she is the one who charges,
+   and writing needs stillness**, so everything she fields is prepared in
+   advance; **there is nobody alive to check her work**, so she cannot
+   know a seal is right until it fires; and **a seal is a signature that
+   says Uzumaki**, left on a surface, which points the hunter curve at
+   her for the first time in the book — *and she will not care, because
+   she already wears the sword.*
+
+   > **And it hands §7 a fifth reason.** She holds a capability he cannot
+   > possess, **and he grades her on an axis that cannot see it** (§2).
 
 ### 4.5 THE PRICE — and it comes out of the medical hands
 
@@ -618,6 +639,14 @@ near — has the one disposition in the world that cannot supply it.
 > the book must never refute the first three in order to get at the
 > fourth (`combat.md` §6). **The answer to a liability is not distance —
 > and distance is the only tool he owns.**
+
+5. **AND SHE HOLDS A CAPABILITY HE CANNOT POSSESS.** `combat.md` §11c —
+   **she writes seals and he can only break them**, because writing is
+   specification and he cannot say what anything is for. **It is the
+   first thing in the book one of them can do and he cannot**, and §2's
+   axis cannot see it, so he does not grade it at all. *He does not know
+   he has been outclassed, in the one direction that would have helped
+   him.*
 
 > ## ⚠ AND THE FOURTH IS THE ONE THAT IS ALREADY SOLVED AND HE DOES NOT
 > ## KNOW IT.

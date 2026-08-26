@@ -172,6 +172,23 @@ a widening with paperwork.
 > the calendar was already written: `timeline.md` had her in that cellar
 > for two months before any of this was drafted.
 
+### #17 — RULED OUT: FŪINJUTSU *(mine, and mis-marked as a ruling)*
+
+| | |
+|---|---|
+| **Killed** | `team.md` §4.4: ***RULED OUT: fūinjutsu.** The classic Uzumaki widening, refused, in the book's own grammar: the capability exists and the transmission chain is broken. Her clan was hunted to nothing, there is nobody alive to teach her, and her father could hide the blood and could not pass anything on.* |
+| **By** | **Author ruling, and the provenance sweep is what surfaced it.** *"We have both fūinjutsu sides here. Uzuki can write them and Tadayoshi can break them — the two different sides of the coin bouncing off each other, one misses the trees for the forest, the other the opposite."* |
+| **Whose rule it was** | **Mine, and worse than #13, because it was written as RULED.** #13 at least wore a warning glyph, which is only *emphasis* misapplied. This one used the register reserved for the author's decisions, so nothing in the file could tell you it was open. **The sweep's first catch — and it caught a refusal, not an addition.** A rule that takes something away reads as discipline, so nobody audits it. |
+| **Replacement constraint** | **Four, `combat.md` §11c.** (1) **A seal is written and she is the one who charges** — writing needs time, a surface and stillness, so *her best capability is the one she has no time to use*, and everything she fields is prepared in advance: §10c's hoarding doctrine handed to the one person incapable of holding anything back. (2) **Nobody to check against** — no teacher, and asking broadcasts what she is, **so she cannot know a seal is right until it fires**; he runs dated series with controls, she runs trials where the trial is the deployment. (3) **A seal is a signature and hers says Uzumaki** — §4.3's thread, but on a surface, and it stays. **Every one she leaves is evidence an Uzumaki is alive**, which points the hunter curve at her for the first time in the book, *and she will not care, because she already wears the sword.* (4) **His half never becomes composition** — he cannot make, repair or improve one, **so the store-and-battery road book one ran on is shut** and Sage Mode stays priced at a book of pursuit. |
+| **Net** | **Constraint added, and the pair got its friction.** The dead rule removed a discipline. This one splits it along the fault line that already runs through both of them: **a seal is a statement of purpose, and he cannot say what anything is for**, so the one discipline that is pure specification is the one he is locked out of — *not underpowered for, locked out* — and it is the missing organ wearing a technique. **And breaking is now a hazard as well as a skill**: he finds the load-bearing stroke and cuts it and does not know what was being held. |
+
+> **THE LINE THAT MUST HOLD, and it is a book-one line.** *Making is
+> composition; breaking is finding where the man who made it got tired.*
+> **Sazare was taught for years by a named instructor and his ceiling was
+> composition. Tadayoshi has nobody, will never be taught, and his
+> ceiling is a cut.** He builds nothing. **If that slips he is Sazare
+> with a sword**, and the reason book two exists goes with it.
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's
