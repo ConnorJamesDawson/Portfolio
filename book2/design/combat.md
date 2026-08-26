@@ -510,6 +510,11 @@ anybody.**
 > solves arity is people, **and people are the one thing he will not
 > take.**
 
+**And the people exist.** `team.md` — **Uzuki reads people and he cannot;
+Kimimaro closes and he cannot; he holds ground and neither of them can.**
+Between them they cover every gap each of them has, **and the three
+reasons the unit never assembles are all facts about him.**
+
 ### The four costs, and every one of them rises WITH him
 
 1. **ARITY DOES NOT MOVE.** Everything he learns makes him better at one

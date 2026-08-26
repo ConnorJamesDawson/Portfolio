@@ -15,6 +15,7 @@ New timeline; Sazare Ruri does not exist.
 | **`character.md`** | the cast — what each person is **for** | live |
 | **`portraits.md`** | look, manner, voice, and what changes each year | live |
 | **`combat.md`** | the power, the kit, the threshold, the hunter curve | live |
+| **`team.md`** | **what the other two are for**, and why the unit never assembles | live |
 | **`structure.md`** | the four acts, the pipeline, and every major sequence | live |
 | **`act-1.md`** | chapter structure, POV budget, and the information plan | live |
 | **`falsified.md`** | every rule this project has killed, two columns | live |
