@@ -482,32 +482,49 @@ it. **It is the one thing in her life she does not narrate.**
    > a correct sum — *name a town we can go into that we couldn't go into
    > before I had it* — **and he cannot.**
 
-5. **FŪINJUTSU — AUTHOR RULING, and it supersedes the rule-out that stood
-   here.** *That rule was mine, mis-marked as RULED, and killed the day
-   the sweep found it* (`falsified.md` #17). **She writes them. Tadayoshi
-   breaks them.** Full mechanism and its four replacement constraints:
+5. **FŪINJUTSU — AUTHOR RULING, in two passes.** *The rule-out that stood
+   here was mine and mis-marked as RULED* (`falsified.md` #17). *The wall
+   I put up in its place — **he is locked out of composition** — lasted
+   an hour and went the same way* (#18). **She writes them. He breaks
+   them. And the difference is hours, not hands.** Full mechanism:
    `combat.md` §11c.
-   > **It is the same defect from both sides.** *She sees the forest and
-   > not the trees, so she can hold a whole intention and fix it on a
-   > surface, and cannot say which stroke carries it. He sees the trees
-   > and not the forest, so he finds the load-bearing stroke in under a
-   > minute and cannot say what the seal was for.*
+   > **Why hers is cheap.** Uzumaki: fish to water, the grammar simply
+   > makes sense to her, **learnt off books** — which he has too. *It was
+   > never access.*
    >
-   > **A seal is a statement of purpose, and he cannot say what anything
-   > is for.** The one discipline that is pure specification is the one he
-   > is locked out of — **not underpowered for, locked out** — and it is
-   > the missing organ wearing a technique.
+   > **Why his is unspent.** He graded it against the curve and was
+   > right: sealing is slow, wants a teacher he has not got, and pays
+   > late; **faster and stronger pays next week.** So he learns the amount
+   > that serves breaking and stops — **a queue, not a door**, re-made
+   > every year, reversible. *And he knows perfectly well what a storage
+   > seal is made of.*
 
-   **What it costs her**, in one line each: **she is the one who charges,
-   and writing needs stillness**, so everything she fields is prepared in
-   advance; **there is nobody alive to check her work**, so she cannot
-   know a seal is right until it fires; and **a seal is a signature that
-   says Uzumaki**, left on a surface, which points the hunter curve at
-   her for the first time in the book — *and she will not care, because
-   she already wears the sword.*
+   **WHAT SHE MAKES: storage, explosive tags, flash.** *Grenades and
+   maximum disruption* — so **§12's *I'm going to go and cause a scene*
+   stops being a temperament and becomes an inventory.** Her support role
+   and her scene-causing turn out to be the same equipment.
 
-   > **And it hands §7 a fifth reason.** She holds a capability he cannot
-   > possess, **and he grades her on an axis that cannot see it** (§2).
+   **The prices**, one line each: **she is the one who charges and writing
+   needs stillness**, so everything is prepared in advance — and she runs
+   out mid-fight, because she spends them the way she spends everything;
+   **a book will not tell her she is wrong**, so there is no correction,
+   only outcomes; **a seal is a signature that says Uzumaki**, and it
+   stays on the surface; and **every hour on paper is an hour off the
+   palm**, while she is holding a dying boy together ninety times a day.
+
+   > ## ⚠ AND HIS DEFECT CAPS NOBODY BUT HIM
+   >
+   > **He cannot teach one-handed sealing. That says nothing about
+   > whether she can learn it** — *she would need somebody else to teach
+   > her, and there are other people in the world.*
+   >
+   > **So everything these two ever learn, they learn from somebody who
+   > is not him.** He watches both of them improve for three years and
+   > supplied none of it. **The cost is his, and it is loneliness, not
+   > their ceiling.**
+
+   > **And §7 gains a fifth reason** — she holds a capability he has not
+   > got, **and §2's axis cannot see it**, so he never grades it at all.
 
 ### 4.5 THE PRICE — and it comes out of the medical hands
 
@@ -640,13 +657,13 @@ near — has the one disposition in the world that cannot supply it.
 > fourth (`combat.md` §6). **The answer to a liability is not distance —
 > and distance is the only tool he owns.**
 
-5. **AND SHE HOLDS A CAPABILITY HE CANNOT POSSESS.** `combat.md` §11c —
-   **she writes seals and he can only break them**, because writing is
-   specification and he cannot say what anything is for. **It is the
-   first thing in the book one of them can do and he cannot**, and §2's
-   axis cannot see it, so he does not grade it at all. *He does not know
-   he has been outclassed, in the one direction that would have helped
-   him.*
+5. **AND SHE HOLDS A CAPABILITY HE HAS NOT GOT.** `combat.md` §11c —
+   **she writes seals; he learnt the amount that serves breaking and
+   spent the rest of the hours on staying alive.** *He could have it. He
+   graded it against the curve and it lost.* **And §2's axis cannot see
+   what she has**, so he does not grade it at all — *outclassed in the
+   one direction that would have helped him, and unaware of it because
+   his instrument does not measure that.*
 
 > ## ⚠ AND THE FOURTH IS THE ONE THAT IS ALREADY SOLVED AND HE DOES NOT
 > ## KNOW IT.

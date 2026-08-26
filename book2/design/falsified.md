@@ -189,6 +189,21 @@ a widening with paperwork.
 > ceiling is a cut.** He builds nothing. **If that slips he is Sazare
 > with a sword**, and the reason book two exists goes with it.
 
+### #18 — HE IS LOCKED OUT OF COMPOSITION *(mine, and it lasted an hour)*
+
+| | |
+|---|---|
+| **Killed** | `combat.md` §11c, written the same day as #17: *a seal is a statement of purpose and he cannot say what anything is for, so the one discipline that is pure specification is the one he is **locked out of — not underpowered for, locked out.*** Plus a fourth constraint — *his half never becomes composition; he cannot make, repair or improve one* — and a guardrail reading *if that slips he is Sazare with a sword and the book is over.* |
+| **By** | **Author ruling.** *"Keep away from the NEVER WILL BE ABLE, DOOR SHUT. There are only so many hours in the day, and only so far you can go with a discipline before the other disciplines start to degrade. Plus it's lazy writing — he's doing A so he can't do B, that's not how real life works."* And the counter-example that settled it: ***"Because Tadayoshi cannot teach one-handed seals, Uzuki cannot learn it? Absolutely not. She'd just need someone to teach her."*** |
+| **Whose rule it was** | **Mine, and it is the fifth of the same kind** — #13, #14, #16, #17, #18. **But the shape is now identified and it is not carelessness, it is §1.** The anti-widening rule demands a replacement constraint and never said *what sort*, **so every falsification produced a prohibition**, because a wall is the cheapest thing to write that satisfies the requirement and nothing can contradict it. *#16 was a wall. #17's replacement was a wall. Both were written within an hour of the rules they replaced.* |
+| **Replacement constraint** | **The clock, and it is a price rather than a door** (`method-delta.md` §1a). **He can learn it. He graded it against the curve and it lost** — sealing is slow, wants a teacher he has not got, and pays late; faster and stronger pays next week. **So he learns the amount that serves breaking and stops**, and re-makes that decision every year, and could reverse it. **And he knows what a storage seal is made of** — reading and writing are different hours. Then the bill for §10c: ***a jack of all trades is a master of none***, so **he is a master of one thing and merely good at the rest, and specialists beat him at their own thing on the page.** *Narrow and he gets specified; wide and he is out-classed in every exchange; there is no correct answer and he picks one every year.* |
+| **Net** | **Constraint added, and a door that was shut is now open at a price.** The dead rule ended the question. This one keeps it live for the length of the book — **he could go and learn it at any point, and the reason he does not is a queue**, which is a decision a reader can argue with. **And his defect stops capping other people:** *he cannot teach* is a fact about him, **not a ceiling on Uzuki or Kimimaro**, who would simply need somebody else — **so everything those two ever learn, they learn from somebody who is not him**, and he supplied none of it, for three years. *The cost of the missing organ is his, and it is loneliness.* |
+
+> **THE ENTRY THAT MATTERS IS §1a, NOT THIS ONE.** Five rules of mine in
+> one week, and four of them were walls. **The rule meant to stop widening
+> was manufacturing prohibitions**, because it asked for a replacement and
+> did not say it had to be a cost. *It says so now.*
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

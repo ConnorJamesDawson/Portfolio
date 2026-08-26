@@ -27,6 +27,40 @@ it lives in `falsified.md` as two columns.
 protagonist turned out to be able to do something new, **that chapter is
 wrong.**
 
+### 1a. ⚠ AND THE REPLACEMENT MUST BE A PRICE, NOT A WALL
+
+**AUTHOR RULING, after the fifth entry of the same kind.** The rule above
+demands a replacement and never said what sort, **so it kept producing
+prohibitions** — *he can never, the door is shut, it is not available to
+him* — because a wall is the cheapest thing to write that satisfies the
+requirement and nothing can contradict it.
+
+| | | |
+|---|---|---|
+| **A wall** | *he cannot ever do X* | ends the question. Prevents scenes. **Reads as discipline and is laziness** |
+| **A price** | *he can, and here is what it costs him every time* | keeps the question open. **Generates scenes** |
+
+> **The author's test, verbatim: *he's doing A so he can't do B — that's
+> not how real life works.*** **There are only so many hours in the day,
+> and only so far you can go in one discipline before the others start to
+> degrade.** *A jack of all trades is a master of none.*
+
+**So the honest constraint is almost always the clock.** Not capability —
+**allocation.** Everyone in this book can learn anything; what they cannot
+do is learn everything, and what they spend their hours on is a decision
+they re-make and could reverse. **Write the budget, not the barrier.**
+
+**And a limit on one character is not a limit on anybody else.** *He
+cannot teach* is a fact about him. **It does not cap what the people
+around him can learn** — they would simply need somebody else to teach
+them, **and there are other people in the world.** The cost of his defect
+is his: he watches them improve and supplied none of it.
+
+> **Two dead rules this could have prevented**, both in the same week:
+> `falsified.md` #16 (*she lives because she is behind a door*) and #18
+> (*he is locked out of composition*). **Both were walls, written to
+> satisfy §1, an hour after the rules they replaced died.**
+
 ## 2. THE AGE ANCHOR
 
 > **The age ledger is an anchor, not an output.** If a scene needs more time

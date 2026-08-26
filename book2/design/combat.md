@@ -1297,102 +1297,136 @@ underneath it**, and *about one person in nine can do it at all.*
 
 ## 11c. SEALS — she writes, he breaks
 
-> **AUTHOR RULING.** *Fūinjutsu is in the book, split down the middle.
-> Uzuki writes them. Tadayoshi breaks them.* **Supersedes team.md §4.4's
-> rule-out, which was mine and was mis-marked as RULED** (`falsified.md`
-> #17).
+> **AUTHOR RULING, in two passes.** *Fūinjutsu is in the book, split down
+> the middle. Uzuki writes them. Tadayoshi breaks them.* **Supersedes
+> `team.md` §4.4's rule-out, which was mine and mis-marked as RULED**
+> (`falsified.md` #17) — **and the wall this section put up in its place,
+> which lasted an hour** (#18). *The split is a budget, not a barrier.*
 
 ### The split is not a balance. It is one defect, seen from both sides.
 
 | | Sees | Misses | Therefore |
 |---|---|---|---|
-| **Uzuki** | **the forest** | **the trees** | she can hold a whole intention and fix it on a surface — **and cannot tell you which stroke is carrying it** |
-| **Tadayoshi** | **the trees** | **the forest** | he finds the stroke doing the work in under a minute — **and cannot tell you what the seal was for** |
+| **Uzuki** | **the forest** | **the trees** | she holds a whole intention and fixes it to a surface — **and could not tell you which stroke is carrying it, because she has never had to ask** |
+| **Tadayoshi** | **the trees** | **the forest** | he finds the stroke doing the work in under a minute — **and reads for load-bearing, never for purpose**, so he can tell you what a seal *is* and will not have thought about what it was *wanted for* |
 
-### Why writing is her half, and it is not a gift
+> **Neither is an incapacity. Both are a habit of attention**, thirty
+> years deep in her clan's blood and ten years deep in his book, **and a
+> habit is a thing a person can be caught out by and can change.**
 
-**A seal is a statement of purpose, fixed on a surface. You cannot write
-one without knowing what the thing is for.**
+### THE CONSTRAINT IS THE CLOCK, NOT THE CAPABILITY
 
-**And that is the organ he has not got.** `character.md`: he cannot say
-what anything is *for* — it is why he cannot teach, why Kimimaro stands
-in a house unused, and why he answers *tell me what I am for* with a
-specification instead of an answer.
+> **Nobody in this book is locked out of anything.** *There are only so
+> many hours in the day, and a discipline gives ground the moment you stop
+> feeding it.* `method-delta.md` §1a — **write the budget, not the
+> barrier.**
 
-> **So the one discipline in the world that is pure specification is the
-> one he is constitutionally locked out of.** Not underpowered for it.
-> **Locked out.** It is the same wound, wearing a technique.
+**Why she has it: Uzumaki, and it costs her a fraction of what it costs
+anybody else.** Fish to water — the grammar simply makes sense to her, and
+**she learnt it off books**, which are available to him too (`spec.md`: he
+reads ahead, and has since the academy). *The difference is aptitude and
+hours. It was never access.*
 
-### Why breaking is his, and book one already wrote the sentence
+**Why he has not: he triaged it against the curve, and he was right to.**
+§10 — the state gets better at a rate he sets — so every hour is graded
+against **what kills me next month.** Sealing is slow to learn, wants a
+teacher he does not have, and pays late. **Faster and stronger pays next
+week.** So he learns exactly the amount of sealing that serves breaking,
+and stops.
 
-`design/combat.md`: ***making is composition; breaking is finding where
-the man who made it got tired.***
+> **He re-makes that decision every year and could reverse it.** *It is a
+> queue, not a door.* **And he knows perfectly well what a storage seal is
+> made of** — he can tell you which stroke does the work and where the
+> maker got tired, because that is the signature operation and it is cheap
+> for him. **Writing one that holds is the ten thousand hours he spent on
+> something else.**
 
-**It is the signature operation, pointed at somebody else's work.** At
-eight he ran *which of these four is doing no work* on his own seal
-sequence. A stranger's array is the same question with a stranger's hand
-on it. **He does not need to know what it is for. He needs to know which
-part is load-bearing, which is the only question he has ever asked about
-anything.**
+### ⚠ THE BILL FOR §10c IS DEPTH — a jack of all trades masters none
 
-> ## ⚠ AND HE CANNOT PREDICT WHAT BREAKING IT DOES.
+**§10c says diversify or be overcome. This is what it costs.** Half seals,
+the blade, throwables, the armour, an element, and enough sealing to cut
+one — **and he is a master of exactly one thing, his own craft, and merely
+good at everything else.**
+
+- **People who went deep beat him at their own thing.** A real
+  swordsman out-swords him. **It should happen on the page, more than
+  once, and he should not get it back by being clever.**
+- **And it is a dilemma, not a flaw.** *Narrow and he gets specified*
+  (§10). *Wide and he is out-classed in every individual exchange.*
+  **There is no correct answer and he has to pick one every year**, and
+  the book should never let him find the version where he does not have
+  to choose.
+
+### ⚠ AND HIS INABILITY TO TEACH CAPS NOBODY BUT HIM
+
+> **He cannot teach one-handed sealing. That is not a statement about
+> whether Uzuki can learn it.** *She would need somebody else to teach
+> her — and there are other people in the world.*
+
+**So everything those two ever learn, they learn from somebody who is not
+him.** No rule stops them. **Only he does, and only for himself.**
+
+> **He watches both of them get better for three years and supplied none
+> of it.** *The cost of the missing organ is his, and it is loneliness,
+> not their ceiling.*
+
+### WHAT SHE ACTUALLY MAKES — AUTHOR
+
+| | | Which is |
+|---|---|---|
+| **Storage** | the logistics of three people who cannot keep a house, a cache or an address | the only quiet one on the list |
+| **Explosive tags** | **grenades.** Maximum disruption | ***"You go and do it. I'm going to go and cause a scene"*** (`team.md` §12) — **now literal, and now supplied** |
+| **Flash** | breaking contact, and getting out | what a group with no ground and no numbers actually needs |
+
+> **Her support role and her scene-causing are the same equipment.** She
+> is not a healer who also fights. **She is the noise, and the noise now
+> has a supply chain.**
+
+> ## ⚠ OPEN RULING — does a storage seal stop the clock?
 >
-> **He finds the stroke, and cuts it, and does not know what was being
-> held.** The missing organ has been a sadness for ten chapters. **Here
-> it is a hazard**: he disarms things and cannot tell you what he
-> disarmed, and the book should make him right and sorry in the same
-> scene.
+> **§3: every closed article is dated and starves.** If a scroll suspends
+> that, **half his economy is gone** and the dates stop meaning anything.
+> *Canon is not clear and I am not deciding it.* **Options:** it stops the
+> clock (a large widening and it needs its own price); **it does not**,
+> and storage buys bulk and weight only while his kit rots on schedule; or
+> **she does not know which**, and finds out expensively, once, on
+> something that mattered. **Needed before ch11.**
 
-### THE REPLACEMENT CONSTRAINTS — four, per §12
-
-**A whole discipline just arrived. It does not arrive free.**
+### THE PRICES — four, per §12 and `method-delta.md` §1a
 
 1. **A SEAL IS WRITTEN, AND SHE IS THE ONE WHO CHARGES.** Writing needs
-   time, a surface and stillness. **She arrives in the middle of a fight
-   and makes it about her** (`team.md` §4.1). *Her best capability is the
-   one she has no time to use.* So everything she fields is **prepared in
-   advance** — §10c's hoarding doctrine, handed to the one person in the
-   book constitutionally incapable of holding anything back.
-2. **NOBODY TO CHECK AGAINST.** Her clan was hunted to nothing, there is
-   nobody alive to teach her, and **asking anybody broadcasts what she
-   is.** So there is no verification: **she cannot know a seal is right
-   until it fires.** *He runs dated series with controls. She runs trials
-   with no control group, and the trial is the deployment.*
+   time, a surface and stillness; **she arrives in the middle of a fight
+   and makes it about her.** So everything she fields is **prepared in
+   advance** — §10c's hoarding doctrine handed to the one person
+   constitutionally incapable of holding anything back, **and she runs
+   out mid-fight, on the page, because she spent them the way she spends
+   everything.**
+2. **A BOOK WILL NOT TELL HER SHE IS WRONG.** No teacher, and asking
+   broadcasts what she is. **So there is no correction, only outcomes**:
+   she cannot know a seal is right until it fires. *He runs dated series
+   with controls. Her trial is the deployment.*
 3. **⚠ A SEAL IS A SIGNATURE, AND HERS SAYS UZUMAKI.** §4.3 — every
    article left behind is a disclosure — **and a written seal is worse,
    because it is on a surface and it stays.** Every one she leaves is
-   evidence an Uzumaki is alive. **The curve has been his clock for the
-   whole book; this is the first time it points at her.** *And she will
-   not care. She wears the sword openly; signing her work is the same
-   decision, made again.*
-4. **HIS HALF IS A CUT, AND IT NEVER BECOMES COMPOSITION.** He cannot
-   make a seal, repair one, improve one, or build on one — **so the
-   store-and-battery road book one ran on is shut, and Sage Mode stays
-   where §1 put it.**
-   > **THE LINE THAT MUST HOLD.** *Sazare was taught for years by a named
-   > instructor and his ceiling was composition. Tadayoshi has nobody,
-   > will never be taught, and his ceiling is a cut.* **He builds
-   > nothing. If that slips he is Sazare with a sword, and the book is
-   > over.**
+   evidence an Uzumaki is alive. **The curve has been his clock all book;
+   this is the first time it points at her.** *And she will not care. She
+   already wears the sword.*
+4. **AND DEPTH COSTS HER TOO.** Every hour on paper is an hour off the
+   sword and off the palm — **and she is the one holding a dying boy
+   together ninety times a day.** *The hours she spends learning to blow
+   a door are hours not spent on the thing that is actually killing him*,
+   and nobody will ever be able to prove which way that sum came out.
 
-### WHERE SHE LEARNT IT — PROPOSED, needs ruling
+### The Sazare guardrail, restated without the wall
 
-**The transmission chain was the reason for the old rule-out and it still
-has to be answered.** The available answer is already ruled and sitting
-above a door in Nakadō:
+**Sazare was taught for years by a named instructor and spent his hours on
+composition. Tadayoshi has no teacher and spends his on staying alive.**
 
-> **Her grandfather could not teach and could not say the name, and he
-> kept one object out of Uzushio** — ornate, red lacquer and gold,
-> **running tide carved the length of the blade** (§7b).
->
-> **If the carving is script as ornament**, then the thing she has worn
-> openly since eleven is the only surviving Uzumaki text she owns, **and
-> she learns to write by copying a decoration nobody ever told her was
-> writing.**
-
-*Marked PROPOSED. It is clean, and it is exactly the kind of clean that
-`falsified.md` #16 was written about, so it wants a ruling and not a
-nod.*
+> **Same disposition, different budget.** *If he ever gets a teacher and a
+> quiet year he would compose* — **and that would be an event with a
+> price, not an impossibility.** The distinction is where the hours went,
+> which is a fact about their lives. **It was never a fact about their
+> hands.**
 
 ### WHERE IT PAYS
 
@@ -1404,8 +1438,12 @@ nod.*
 - **He breaks one in the field and something he did not expect stops
   working**, and somebody pays for it.
 - **`team.md` §7 gets a fifth reason it never assembles around him** —
-  **she now holds a capability he cannot possess**, and he grades her on
-  an axis that cannot see it (§2).
+  **she holds a capability he graded and declined**, and he measures her
+  on an axis that cannot see it (§2). *He is not out-matched. He is
+  out-allocated, by a girl who never did the sum.*
+- **And the specialists.** Somewhere in act two he loses an exchange to
+  somebody who has done one thing for twenty years, **and the reason is
+  in his own ledger** — §10c, in his hand, with dates on it.
 
 ---
 
