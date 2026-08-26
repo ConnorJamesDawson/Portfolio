@@ -130,6 +130,29 @@ precisely which half.**
 > lived, and breakable by the one category of opponent that gets better
 > at him every year.**
 
+### THE FAILURE RATE — and it is a series, like everything else
+
+**He does not plateau. He practises, and he counts, and the number comes
+down**, and it is in the book with a date beside every revision.
+
+| | |
+|---|---|
+| **Month 10** | **fails about one in three** |
+| **Most failures** | **duds.** Nothing forms. **He has spent the seal time for nothing, which in a fight is the whole of it** |
+| **⚠ And about one in nine failures** | **sets on the caster.** §1: *the seals are where the specification lives.* **Drop half and the specification is ambiguous, and an ambiguous specification forms where the specification WAS — which is at the hand** |
+
+> **So about one use in twenty-seven puts material on the hand he invented
+> this to protect.**
+>
+> **He computes that inside a day of proving it works**, and it is the
+> reason he will not use it, **and it is a better reason than being
+> frightened and he is frightened as well.**
+
+**The number comes down with repetition and it never reaches zero**, and
+by act two he has it to two figures and revises it after every session,
+**and the day it is low enough to spend is a decision he makes on a page
+and not in a fight.**
+
 ### The curve, and it is years not weeks
 
 | When | Where he is |
@@ -317,11 +340,56 @@ liability is not distance, and distance is the only tool he owns.
 
 ## 7. The sword
 
+> ## ⚠ ORIGIN: it is an injury workaround that became permanent.
+>
+> **Month 10, one hand in a splint, no seals** (`ch09.md`, the Aku bank).
+> And the mechanical reason it is the answer is already in this section:
+>
+> **THE SWORD IS SUSTAINED, NOT SEALED.** *Held, not open — continuous
+> chakra of the right nature simply to keep being a sword.* **So it is
+> the only thing he owns that does not need a hand to keep existing**,
+> and a boy who cannot seal can still sustain.
+>
+> **And it is a half-katana because a half-katana is a one-handed
+> weapon.** That is the whole of the reason and it is not a stylistic
+> choice.
+>
+> **Everything in this book that became permanent started as a stopgap** —
+> the ledger, the trade name, the clasp in a pocket. **This is the
+> weapon.**
+
 - **It cannot be wielded by anyone who is not a crystal user.** The vow's
   principle, realised as engineering. Absolute from the end of act one
   **until he learns about Guren** — and then it is not.
 - **A simple half-katana that grows with him.**
 - **Changeable mid-fight: plunged into the ground, a hand seal held.**
+  > **Which he cannot do at all in month 10.** One configuration, and no
+  > way to change it, **for six weeks.**
+
+### ⚠ THE FIRST ONE IS A HALF-SEAL ARTICLE, and therefore compromised
+
+**He makes it with one hand, which means half seals, which means one
+course** (§1b, §2).
+
+- **One course is one note.** **His first sword can be broken by anybody
+  who finds the note**, and he knows that on the day he makes it.
+- **And it is loud** (§4.2), **so the weapon he made to survive being
+  hunted is audible.**
+
+> **His blade is a compromise from birth**, and part of why it *grows with
+> him* is that he spends three years rebuilding it to be less bad.
+
+### And the length is a seal budget, not a height
+
+**§7's growth chart gets a second and better reason.** It starts short
+because he is ten — **and because a single-course article that size is at
+the limit of what half seals can specify.**
+
+> **So the blade lengthens as his seal work does, not only as he does.**
+>
+> **Two things are being measured on that page: how tall he is getting,
+> and how good his hands are.** *And on the facing page, how his mother
+> is doing.*
 
 **The reconfiguration is a textbook interruptible step.** Planted, one hand
 occupied, holding a seal, in a fight — **maximum vulnerability at the exact
@@ -719,6 +787,12 @@ should frighten him. **Promotion by assassination attempt.**
    which it exceeds him.** That number is the ticking. It is in a book, it
    is revised after every engagement, and it moves.
 
+### The counter-move is §10c, and it is not getting stronger
+
+> **Getting better at the same thing steepens the curve.** The only answer
+> that does not is **being different, on a schedule** — and novelty is a
+> consumable, and **every new thing is worth one fight.** See §10c.
+
 ### And it is why the children have to go — arithmetic, not fear
 
 He is not being protective. **He has a number**, and anybody standing next
@@ -917,6 +991,89 @@ JŌNIN.**
 **What would break the benchmark:** any version where he wins on force, or
 where a Jōnin is written down to meet him. **He should lose exchanges and
 still be unsurvivable to get wrong.**
+
+---
+
+## 10c. DIVERSIFY OR BE OVERCOME — and novelty is a consumable
+
+> **The counter-move to the curve, and the only one that does not steepen
+> it.**
+
+### Where it comes from, and it is a sentence somebody said to him
+
+`ch09.md`, 18/9, Hōki, about four minutes on a bank:
+
+> ***"Then there's four minutes of you on a sheet in Kiri by the end of
+> the month, and it'll be right, because she was there."***
+
+**He gets the doctrine out of that inside the tenth month**, with the
+working shown, because he does not hold a thing he has not worked:
+
+1. **I get better; they send better.** §10 — *the state getting better at
+   a rate I am personally setting.*
+2. **So getting better at the same thing is a losing strategy**, because
+   the thing they are grading me on is the thing I keep doing.
+3. **The only thing that is not on the sheet is a thing I have not done
+   yet.**
+4. **Therefore what I need is not to be better. It is to be different, on
+   a schedule.**
+
+### AND THE COST IS IN THE SAME FINDING
+
+> ***Every new thing is worth one fight. After that it is on a sheet.***
+
+**Novelty is a consumable.** The first use of a capability is the only use
+worth what it cost to build, **because the first person who survives it
+writes it down**, and after that it is briefed against.
+
+**Three things fall out of it and all three are load-bearing:**
+
+1. **HE HOARDS.** He builds capabilities and does not spend them, for
+   months, sometimes years. **Half seals exist in month 10 and he does not
+   use them.**
+2. **Which means he fights every fight with less than he has, on purpose,
+   for three years.** *A man holding a card back is a man playing a worse
+   hand, deliberately, every single time, and he can produce the reason on
+   demand.*
+3. **AND DIVERSIFICATION FEEDS THE FILE TOO.** Every new thing is a new
+   thing to be described. **He cannot get off the curve — he can only stay
+   ahead of it by a margin that shrinks every time he spends something.**
+
+### ⚠ AND THE THRESHOLD SPENDS THE WHOLE HOARD AT ONCE
+
+**§10b constraint 3: *it spends whatever he has got*, and he does not
+choose the mode.**
+
+> **He spends three years saving things for the right moment, and the only
+> thing that ever spends them is the state he does not control.**
+>
+> **One threshold event, in front of anybody who lives, burns everything
+> he has been holding — and he was not there for it, and cannot tell
+> afterwards what he used.**
+
+**Which is why the reconstruction scenes are not only about the bodies.**
+*He is also counting what he has just lost the value of.*
+
+### What diversification actually looks like, month 10 onward
+
+**All three of these are the same answer to the same question — *what can
+I do with one hand?* — and they arrive in the same six weeks.**
+
+| | |
+|---|---|
+| **Half seals** *(§1b)* | **the mode.** One course, loud, short-dated, one in three fails |
+| **The blade** *(§7)* | **sustained, not sealed** — the only thing he owns that does not need a hand to keep existing |
+| **Throwables** *(§6)* | **made in advance, carried, dated** — because an article made yesterday needs no hand today |
+
+**And the throwables carry §6's constraint 2 permanently:** *made in
+advance is made with the time he had — what he carries today is a bet on
+what today would be, and being wrong about the day is a failure state.*
+
+- **They have dates and they degrade before they die** (§3).
+- **Which gives him a maintenance schedule, and therefore a morning
+  ritual, and therefore a rhythm his life did not have** — *and a boy
+  checking his kit at dawn and finding the edge gone off something he
+  needs today is a scene this book will use forty times.*
 
 ---
 
