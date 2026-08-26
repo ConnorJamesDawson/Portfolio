@@ -210,6 +210,16 @@ paragraph in the chapter.
 > **She is beautiful, and it is the one thing about her that has never been
 > mentioned by the person she has organised her life around.**
 
+### ⚠ And see `team.md` §4 — the fighter, and the sadism
+
+**She is a glass cannon**: katana, straight in, no guard, no disengage,
+**because she has given up caring** — a valuation, not a death wish. And
+**her enjoyment is routed through his**: he enjoys the mission completed,
+so hers is *you go and do it, I'm going to go and cause a scene.*
+**She learned to enjoy hurting people by routing it through somebody who
+does not**, and she experiences it as service, and he files the effect and
+never the cause.
+
 ### It is not an asset. It is a trigger.
 
 She is not flattered. She has never been flattered.

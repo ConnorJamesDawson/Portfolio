@@ -510,10 +510,14 @@ anybody.**
 > solves arity is people, **and people are the one thing he will not
 > take.**
 
-**And the people exist.** `team.md` — **Uzuki reads people and he cannot;
-Kimimaro closes and he cannot; he holds ground and neither of them can.**
-Between them they cover every gap each of them has, **and the three
-reasons the unit never assembles are all facts about him.**
+**And the people exist, and they already work.** `team.md` — **Kimimaro
+is a devastating fighter with no tactical sense who can only act on an
+instruction, and Uzuki cannot stop telling people things.** She issues,
+he executes, it functions from the first day. **The unit assembles. It
+just does not assemble around Tadayoshi**, who goes off and does the job
+alone while behind him the two people he has graded as next to
+non-combatants operate perfectly together. **The four reasons he is not
+in it are all facts about him.**
 
 ### The four costs, and every one of them rises WITH him
 
