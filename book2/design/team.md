@@ -7,6 +7,34 @@
 > Sits under `combat.md` §10b (arity), `character.md` (the missing
 > organ), and `portraits.md` (the two portraits).
 
+> ## PROVENANCE — swept after ch10. `spec.md` §0 for the three classes.
+>
+> **Most of this file is AUTHOR.** The glass cannon, the katana and the
+> refusal to guard, the sadism and its origin at Nakadō, the ranking of
+> Kimimaro as *a dangerous fighter with no tactical sense*, **Uzuki
+> telling him what to do**, the attachment running necessity → Stockholm
+> → *boyfriend*, the grandfather's sword, and the anonymity doctrine
+> dying on Kimimaro's face — **all ruled, and quotable.**
+>
+> **These are PROPOSED. None was ruled, none is on the page, and every
+> one of them constrains writing that has not happened yet:**
+>
+> | § | The claim | What it decides |
+> |---|---|---|
+> | **2** | **The axis is self-sufficiency** — *can you hold ground alone, indefinitely* | how he grades every person in the book, for three years |
+> | **3.1** | **Kimimaro is the strongest of the three by a distance**, and his body comes back **in four months** | every fight he is in, and the shape of act two's recovery |
+> | **3.2** | **Every article costs him days** — the bone use accelerates the illness | whether his fighting is suicide, and whether anyone may say so |
+> | **3.3** | **He is the only person alive who can stand inside Tadayoshi's field and live** | the resolution the whole book is withholding |
+> | **4.2** | **The floor: not a death wish, a refusal to spend on not dying** | whether she is tragic or merely reckless |
+> | **4.4.2** | **Nobody else could run ninety a day on a dying boy for three years** | act three's entire sustain |
+> | **4.4.3** | **Diagnosis used offensively** — she reads a field by what is being protected | her capability on every field she is on |
+> | **5** | **The ranking table** | every fight in the book is graded against it |
+>
+> **And one is worse than PROPOSED, because it is mis-marked:** §4.4's
+> ***RULED OUT: fūinjutsu*** **uses the ruling register for a decision
+> nobody made but me.** It is the largest refusal in the file — the
+> classic Uzumaki widening — and it is sitting there looking settled.
+
 ---
 
 ## 1. THE THESIS
@@ -50,6 +78,9 @@ are next to non-combatants.*
 **He is not being cruel and he is not being wrong on his own terms.** He
 grades one thing, because it is the only thing he has ever had to be:
 
+> **PROPOSED — the axis is mine.** *The author's line is that he assesses
+> them as next to non-combatants; this is my account of why.*
+>
 > **Can you hold a piece of ground on your own, indefinitely, against
 > people who are trying to kill you?**
 
@@ -66,8 +97,10 @@ and it measures **self-sufficiency**, not capability.
 
 ### 3.1 What he actually is
 
-**Straight, with no hedging: at full health he is the strongest of the
-three by a distance, and he is never at full health again after the cell.**
+**PROPOSED — the ranking and the four months are both mine.** *The author
+ruled him a dangerous fighter with no tactical sense; by a distance is my
+addition.* **At full health he is the strongest of the three by a
+distance, and he is never at full health again after the cell.**
 Three years indoors, wasted, and **the illness has already started**
 (`act-1.md` §5). Body back in four months; **manner never.**
 
@@ -88,9 +121,12 @@ Three years indoors, wasted, and **the illness has already started**
 
 > **Tadayoshi spends material. Kimimaro spends himself.**
 >
-> **And he is dying, so every article costs him days.** Nobody has told
-> him that. **He started taking pieces off himself at twelve to have an
-> answer ready for a man who was never coming back** (`ch06.md` scene 8),
+> **PROPOSED: and he is dying, so every article costs him days.** *Not
+> canon, not authorial — an inference, and a heavy one: it makes every
+> fight he is in a withdrawal.* **Nobody has told him that.**
+>
+> **He started taking pieces off himself at twelve to have an answer ready
+> for a man who was never coming back** (`ch06.md` scene 8),
 > and he has never stopped.
 
 ### 3.3 The two properties that make him the only usable body on a field
@@ -100,7 +136,8 @@ Three years indoors, wasted, and **the illness has already started**
    no initiative, no drift. `portraits.md`: *appallingly clean — no rage,
    no appetite, no satisfaction. He is told, he executes exactly, he
    stops, he waits.*
-2. **Which means he is the only person alive who can stand inside
+2. **PROPOSED, and it is the best idea in this file, which is exactly why
+   it needs ruling: he is the only person alive who can stand inside
    Tadayoshi's own area denial and not die in it**, because the thing
    that kills people in that field is **moving in a way nobody
    specified.**
@@ -174,11 +211,13 @@ about her.**
 
 ### 4.2 WHERE IT COMES FROM — and it is a valuation, not a death wish
 
-> ## ⚠ THE FLOOR, and it is not optional
+> ## PROPOSED — THE FLOOR. *Mine, not ruled. See the provenance block.*
 >
 > **She is not trying to die. She is refusing to spend anything on not
-> dying.** Those are different things and the difference is the whole of
-> her dignity.
+> dying.** *The author's word was that she has given up caring; this is a
+> reading built on top of it, and it is a kinder one. It may be too
+> kind.* **Those are different things and the difference is the whole of
+> her dignity.**
 
 `portraits.md`: *the reading that ruins her is trauma-bonded child who
 cannot help it. That is pity, and pity is not a character.* **The same
@@ -412,9 +451,11 @@ it. **It is the one thing in her life she does not narrate.**
    thimble at ten and a cup by twenty.* **She can go very hard for a
    short time and the window widens every year.** An Uzumaki with a
    thimble is a person standing on a well with a teaspoon; the arc is the
-   rope getting longer. **And nobody else alive could run ninety a day on
-   a dying boy for three years.**
-3. **DIAGNOSIS, USED OFFENSIVELY.** §11b step 2 — *hand on, what's
+   rope getting longer. **PROPOSED: and nobody else alive could run ninety
+   a day on a dying boy for three years** — *act three rests on it.*
+3. **DIAGNOSIS, USED OFFENSIVELY — PROPOSED.** *The palm is on the page
+   from ch4; turning it into a targeting instrument is not, and it is a
+   real combat capability.* §11b step 2 — *hand on, what's
    different, where does it hurt, and do those two agree; they disagree
    about half the time.* **On a field that is: which leg is taking
    weight, what is being protected, what is a feint and what is a
@@ -438,12 +479,14 @@ it. **It is the one thing in her life she does not narrate.**
    > a correct sum — *name a town we can go into that we couldn't go into
    > before I had it* — **and he cannot.**
 
-**RULED OUT: fūinjutsu.** The classic Uzumaki widening, refused, in the
-book's own grammar: **the capability exists and the transmission chain is
-broken.** Her clan was hunted to nothing, there is nobody alive to teach
-her, **and her father could hide the blood and could not pass anything
-on.** *A loss, not a gift* — beside Kongō's mark, the household's degraded
-output, and a boy who has to build a reason from nothing.
+**PROPOSED — RULE OUT fūinjutsu.** *Was written as RULED. It was not; it
+is mine, and it is the biggest refusal in the file.* The classic Uzumaki
+widening, refused, in the book's own grammar: **the capability exists and
+the transmission chain is broken.** Her clan was hunted to nothing, there
+is nobody alive to teach her, **and her father could hide the blood and
+could not pass anything on.** *A loss, not a gift* — beside Kongō's mark,
+the household's degraded output, and a boy who has to build a reason from
+nothing.
 
 ### 4.5 THE PRICE — and it comes out of the medical hands
 
@@ -468,7 +511,10 @@ thing entirely.**
 
 ---
 
-## 5. THE RANKING, straight
+## 5. THE RANKING, straight — **PROPOSED, in full**
+
+*Nothing here was ruled and nothing is on the page. Every fight in the
+book gets graded against this table, so it is the one to rule first.*
 
 | | | |
 |---|---|---|

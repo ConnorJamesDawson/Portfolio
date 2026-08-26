@@ -9,6 +9,34 @@
 > needed the opponent handicapped to function. **Hand seals fix that in one
 > move**, with grammar the reader already knows.
 
+> ## PROVENANCE — swept after ch10. `spec.md` §0 for the three classes.
+>
+> **This file came out of the sweep in better shape than expected**, and
+> the reason is worth recording: **most of the mechanism is inherited or
+> ruled, not invented.** The courses and the note are book one —
+> `design/crystal-doctrine.md` §1b, *one course is one note; the note is
+> what kills the piece* — and the author's instruction was to keep the
+> Sazare line's crystal theory. **The thread is book one.** The seals, the
+> sword's growth and mid-fight reconfiguration, the plate-to-reactive
+> armour arc, the threshold and its tunnel vision, the hunter curve, the
+> arsenal, the half seals with a failure rate, the blade and the
+> throwables, and *it is open and does not degrade* — **all AUTHOR.**
+> **§11b's palm is PAGE**, fixed in ch4 prose and read and accepted.
+>
+> **These are PROPOSED — mine, unruled, not on the page:**
+>
+> | § | The claim | What it decides |
+> |---|---|---|
+> | **9** | ***What stops it must be an object, not exhaustion*** | **rule this first.** It decided the whole monastery restructure, and ch11 cannot be written without it |
+> | **9** | **It fires on load, not on stakes** | which chapters may contain a threshold event at all |
+> | **9** | **The written household rule, with a stated distance in it** | the catastrophe act three is built on |
+> | **4.1** | **The hands must be bare** | near-forced from *he needs hand seals* plus *he wears plate*, but nobody ruled it |
+>
+> **And one header lies.** §4 is titled *three, none invented* — the note
+> and the thread are book one, **the hands rule is mine**, and the title
+> says otherwise. *That is the failure in miniature: a claim about
+> provenance, made confidently, that was never checked.*
+
 ---
 
 ## 1. What the seals buy
@@ -331,7 +359,10 @@ that day, and it is a reasonable inference and it is false.
 
 ---
 
-## 4. The attackable resources — three, none invented
+## 4. The attackable resources — two inherited, one mine
+
+*Was titled "none invented." The note and the thread are book one; **the
+hands rule is PROPOSED** — near-forced, never ruled.*
 
 1. **The hands.** Bare permanently, because armoured hands cannot seal.
    Everybody who fights him twice learns to go for them. It cannot be
@@ -799,8 +830,10 @@ is in the crossfire, allies included.
 1. **The outcome is never net-positive.** It costs more than losing the
    fight would have, every time it fires. **If a chapter would be easier
    because he rages, that chapter is wrong.**
-2. **It does not scale with need.** It fires on **load**, not on stakes — so
-   it arrives in the wrong fights and stays away from the right ones.
+2. **It does not scale with need — PROPOSED.** It fires on **load**, not
+   on stakes, so it arrives in the wrong fights and stays away from the
+   right ones. *Mine, and it governs which chapters may contain an event
+   at all.*
 3. **He can measure everything about it except its arrival.** He will have
    built bookkeeping — thresholds, counts, warning signs, **rules for who is
    allowed near him and when.** All accurate. None predictive.
@@ -817,7 +850,10 @@ weapon, the one crawling, the one calling a teammate's name. And when he
 comes back there are four bodies and **he cannot reconstruct which of them
 he killed while he was still thinking.**
 
-**What stops it must be an object, not exhaustion.** One of the genin is
+**PROPOSED — and it is the one to rule first. What stops it must be an
+object, not exhaustion.** *Mine. It decided the monastery restructure
+(`falsified.md` #16) and ch11 cannot be written until it is ruled or
+replaced.* One of the genin is
 wearing something his mother made — Kiri-issue fittings, prison-labour
 crystal, in circulation exactly as it is supposed to be. **And he hears the
 tone.** He comes out of the red because he has recognised his mother's hand
@@ -854,10 +890,13 @@ work.
 
 ### And there is a written household rule
 
-He has bookkeeping, so there is a **stated distance**, entered in the book
-like everything else. It is the household's only law and it is a law about
-how far away from him the people who love him must stand. He wrote it out of
-care. **Uzuki will break it — not from stupidity, from doctrine.**
+**PROPOSED.** He has bookkeeping, so there is a **stated distance**,
+entered in the book like everything else. *Mine — and act three's
+catastrophe is built on it, so it should be ruled before act two closes.*
+
+It is the household's only law and it is a law about how far away from him
+the people who love him must stand. He wrote it out of care. **Uzuki will
+break it — not from stupidity, from doctrine.**
 
 When it goes wrong it is nobody's fault and everybody's, which is the only
 kind of catastrophe this book should stage.

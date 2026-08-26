@@ -33,6 +33,23 @@ Author-supplied material is marked AUTHOR. Anything marked PROPOSED is mine
 and is not canon until ruled on. Nothing here is settled unless it says
 FIXED.
 
+**Three classes, not two — added after the ch10 sweep.** The convention
+above was written for this file and then lapsed in every file made after
+it, which is how three invented rules reached `falsified.md` in one week.
+It applies everywhere, and it needs a third class, because most of what
+governs the book now was neither ruled nor invented:
+
+| | Means | Weight |
+|---|---|---|
+| **AUTHOR** | the author ruled it, in a message or a correction | canon |
+| **PAGE** | established in prose the author read and accepted | canon in practice — it is published, and changing it costs a rewrite |
+| **PROPOSED** | mine, never ruled, never on the page | **not canon.** May be built on, may not be defended |
+
+**The test is not *is it good*, it is *where did it come from*.** A
+PROPOSED claim can be the best idea in the file and still be PROPOSED.
+**And emphasis is not authority** — a hard-rule glyph on an unruled claim
+is the failure, not the fix.
+
 ---
 
 ## 1. Premise — AUTHOR

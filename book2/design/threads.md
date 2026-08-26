@@ -6,6 +6,20 @@ This file is the state of record once writing begins. Book one's discipline:
 after every chapter, the fixed facts of that chapter are entered here, and
 **this file wins** over memory, over the spec, and over any earlier draft.
 
+> ## PROVENANCE — swept after ch10, and this file is exempt.
+>
+> **Everything in the C entries is PAGE** (`spec.md` §0). It is not
+> design and not inference: it is a transcription of what is on a page
+> the author has read and accepted, much of it quoted verbatim. **There
+> is nothing here to mark**, and a sweep that marked it would be marking
+> the book itself.
+>
+> **The one place to watch is *open loops*** — a loop is a question, and
+> a question that gets answered in a later entry without the author
+> ruling on it is an inference entering through the back door. **If an
+> entry closes a loop the author never closed, that entry is PROPOSED
+> and says so.**
+
 ---
 
 ## How an entry is made
