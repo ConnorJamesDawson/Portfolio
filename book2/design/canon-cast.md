@@ -60,6 +60,87 @@ invalidated four chapters. It does not.**
 
 ---
 
+## 1. THE SIX RULES, and the first one does all the work
+
+### 1.1 ⚠ THEY DO NOT KNOW WHO ANYBODY IS
+
+**Tadayoshi is a warranted eleven-year-old out of a Kiri compound whose
+education stopped at ten.** *He has not heard of the Sannin. He does not
+know what a red cloud means. He could not name the Five Kage.*
+
+> **So canon figures arrive unnamed, and the reader does the
+> recognising.** **That is free dramatic irony and it costs the scene
+> nothing** — *and it is the book's own engine, because what he does with
+> a stranger is read them off their work.*
+>
+> **He does not get a name. He gets a stance, a kit, a pair of hands, and
+> a price.** *And the reader gets a name and cannot tell him.*
+
+### 1.2 The scene is about the protagonists or it does not happen
+
+**A canon figure may be a mirror, an obstacle, a price, or a piece of
+information. Never a guest star.** *If the scene would be diminished by
+replacing them with an unnamed stranger, it is fan service and it comes
+out.*
+
+### 1.3 No plot debt
+
+**A fleeting encounter must not require the person to come back.** *If it
+pays off, it pays off books later and by implication, and the book
+survives the payoff never arriving.*
+
+### 1.4 Canon is not bent to fit
+
+**If a person's age or location does not work in this era, they do not
+appear.** *There is no version of this where the timeline is adjusted for
+a cameo.*
+
+### 1.5 Sparingly, and mostly as description
+
+**At most one per chapter, and most of them are two lines in passing** —
+*a figure on a road, a name overheard in a kitchen, a coat with a pattern
+on it.* **The rate at which this gets tiresome is much lower than it
+feels while writing.**
+
+### 1.6 ⚠ FIRST IMPRESSIONS GO IN EARLY, AND THEY CARRY A HANDLE — AUTHOR
+
+> **AUTHOR:** *"You have a large cast to go through. Have the first
+> impressions in now, and it's better to reference later on. 'I remember
+> you from xxx.' 'You were that girl at xxx.'"*
+
+**So every fleeting encounter must leave ONE concrete, unusual, checkable
+detail that either party could name years later.** *Not a feeling. An
+object, a place, a time, or a wound.*
+
+> ***"I remember you"* is nothing.** ***"You were the one at the ford with
+> your boots off"* is everything.**
+
+**⚠ AND THE HANDLE WORKS IN BOTH DIRECTIONS, WHICH IS THE PRICE.** *If
+they can be named, he can be named,* **and every person who can one day
+say *you were that boy at the ford* is a person who can be asked.**
+
+> **So the cameo budget and the hunter curve are the same budget**
+> (`combat.md` §10). **A sprinkled cast is not free texture — it is a
+> distribution of handles on a warranted child**, *and the book should let
+> him work that out about a year after he starts collecting them.*
+
+**Which makes the rule easy to hold:** *if an encounter is not worth a
+line on the sheets, it is not worth writing.*
+
+---
+
+## 2. THE BEST USE IS THE ONE THE BOOK ALREADY RUNS ON
+
+**`method-delta.md` §8 — the unstated fact, delivered as behaviour.**
+
+| He sees | The reader sees | And the gap is |
+|---|---|---|
+| **two men on a road in the same coat, and the tall one carries a wrapped thing that is not a sword shape** | **Itachi and Kisame** | *the size of the world, and he does not know it yet* |
+| **a man travelling alone who is hunted by his own village and is years further into it than he is** | **Utakata** | ⚠ **what this becomes** |
+| **a hunter at four hundred yards with something wrong about the right eye** | **Ao** | *a man who will one day decide whether he comes home* |
+
+---
+
 ## 3. THE ROSTER — CHECKED
 
 ### 3.1 ⚠ MEI TERUMĪ — not a cameo
@@ -211,8 +292,15 @@ in a cage by his own clan.*
 part-way through it.* **I have not verified whether that combination
 closes, and it is load-bearing for the end of the series.**
 
-> **Flagged, not resolved** — *act four's business, and it wants the same
-> treatment this file just got before anybody writes it.*
+> **✅ PARTLY RULED, AUTHOR: the amnesty is Hiruzen's**, *not Tsunade's* —
+> **so `structure.md` §6's Wave timing closes**, and the two beats are
+> separate things at separate times: *a Hokage grants the amnesty;
+> Tsunade's bet* (§5) *is its own scene on its own clock.*
+>
+> **STILL OPEN, and the author is deciding:** ***whether Uzuki and Naruto
+> end up in a room and find out together what an Uzumaki is.*** *TBD —
+> and §3.5's finding is the material for it, because the clan was
+> destroyed for the sealing and both of them have been told nothing.*
 
 ## 4. NOT IN ACT TWO — carried from `act-2.md` §7
 
