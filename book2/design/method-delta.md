@@ -307,6 +307,83 @@ injury and a demotion, and then I wrote design justifying both.
 them is wrong**, because the parallel form exists to put unlike things
 beside each other and stops paying the moment they rhyme.
 
+### 2i. ⚠ VIOLENCE — an 18+ book, written like a 12
+
+> **AUTHOR:** *"It needs to get more graphic. Uzuki is a sadist and
+> Tadayoshi is a brutalist, Kimimaro has bones growing out of his skin.
+> The descriptions of the violence need detail… considering this is an
+> 18+ novel, you skim over violence."*
+
+**The diagnosis, and it is not squeamishness — it is a misapplied
+register.** *`method.md`'s **close on the smallest true image** and
+**prefer the object to the statement** were built for grief, debt and a
+kitchen.* **Run over combat they become cutting away**, and the worst
+instance is a whole paragraph explaining that there was nothing to
+describe:
+
+> ~~*Tadayoshi killed him. There is nothing to say about it… it took no
+> time at all and there was nothing in it.*~~ **That is an evasion in
+> restraint's coat.**
+
+### The model, from the author's own sample
+
+> *"The knife went through the jugular of the old man first, and whilst he
+> was gasping on his blood Tadayoshi moved onto his next target, despite
+> the blood on his boots."*
+
+**Four things are doing work in that sentence and all four are the rule:**
+
+| | |
+|---|---|
+| **1. Name the anatomy** | *jugular*, not *throat*. **The specific noun is the difference between a wound and a gesture** |
+| **2. Dying takes time** | *gasping on his blood* — **the man is still dying after the sentence has moved on.** A death is a duration, not an event |
+| **3. The POV leaves before it finishes** | **the reader stays with the dying man and Tadayoshi does not**, and that gap is the characterisation |
+| **4. Indifference is staged, never stated** | *despite the blood on his boots.* **Never write that he felt nothing** |
+
+### ⚠ AND THE THREE OF THEM HAVE THREE DIFFERENT VIOLENCES
+
+**Same rule as interior grammar** (`act-1.md`): *one POV per scene, and
+each POV has its own.* **Violence is not exempt and has been written as
+though it were.**
+
+| | The register | And the horror is |
+|---|---|---|
+| **Tadayoshi — brutalist** | **efficient, anatomical, and he does not watch.** Work, done at a rate | **the consequence outlasts his attention.** He is four feet away doing the next one while this one is still going |
+| **Uzuki — sadist** | **the exact inverse: slow, personal, and she stays.** The camera does not leave | **the duration is the point, and she is enjoying it**, and `team.md` §4.3 says the book must not soften that |
+| **Kimimaro — body horror** | **it is done to himself first.** Bone through the back of a hand, a ridge under the skin, a hard shine where he has knocked it on a wall | **he reports it like weather**, and the flatness is what makes it unbearable |
+
+> **The Kimimaro register already exists and is closest to right** —
+> `ch08.md` scene 7, the piece that has gone through the skin three times.
+> **Use it as the calibration for the other two.**
+
+### What does NOT change
+
+1. **The abuse material stays as ruled.** *Sae, the trafficking, the
+   second valuation* — **not depicted, heard through a wall, conveyed by
+   what gets written down.** *That is an author ruling and a craft choice,
+   not a squeamishness, and **more graphic** does not reach it.*
+2. **No relish in the narration.** *Detail is not the same as savour.*
+   **Uzuki may enjoy it. The prose may not.**
+3. **And it still has to cost.** `combat.md` §9 discipline 1 — *if a
+   chapter is easier because of violence, that chapter is wrong.*
+
+### ⚠ OPEN RULING — and it is the biggest one this note raises
+
+**`combat.md` §9: *the book never shows the threshold from inside.***
+*That rule is mine* (`falsified.md` watch list, item 3). **It means the
+most violent events in the book — the riverbed, the monastery, every
+berserk — are permanently written as aftermath.**
+
+> **Which is now in direct tension with the note above.** *The monastery
+> has monks dead and walls covered in blood, and under §9 the reader gets
+> a reconstruction of it the following morning.*
+>
+> **Three options, and it is an author call:** *keep §9 and accept the
+> biggest violence is always aftermath; break it once, at the monastery,
+> and make that the event the watch list says it would be; or kill it —
+> in which case the replacement constraint has to be named in the same
+> entry.*
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be
