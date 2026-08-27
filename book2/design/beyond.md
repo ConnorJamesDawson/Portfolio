@@ -431,10 +431,12 @@ free choice:**
 > sincerely** — *because she says everything* — **and she will be
 > correct.**
 
-**⚠ DEVICE BUDGET.** *This is the third reader-only causal link in the
-design* — **Kimimaro's countdown (a person), Oto's acceleration (a place),
-this (a claim)** — **and they escalate, which is why three is fine.** *A
-fourth needs an argument, or the book has a tic instead of a technique.*
+**⚠ THE DEVICE, AND THE TEST IS ESCALATION RATHER THAN COUNT.** *This is
+the third reader-only causal link* — **Kimimaro's countdown (a person),
+Oto's acceleration (a place), this (a claim)** — **and each is larger in
+kind than the last, which is what makes it a technique.** *Repetition that
+escalates is evolution. Repetition that is flat is a tic.* **A fourth is
+welcome on the same terms and on no others.**
 
 ### 4.12 ⚠ WHAT HINATA BECOMES — AUTHOR, and the reference is exact
 
@@ -519,6 +521,38 @@ customer.**
 beyond what the consequence needs; **and it must not explain anything the
 protagonists could have found out.** *All it gives the reader is the
 causal link. All it gives the plot is Oto, early.*
+
+---
+
+### 4.13 ⚠ AND WHAT SHE IS *FOR* — AUTHOR, and it is a fourth hole filled
+
+> **AUTHOR: what was once three has become four. There will be doors
+> Hinata can open, because she will have been trained in diplomacy.
+> Tadayoshi would say the wrong thing at the wrong time; Uzuki would do
+> much the same for different reasons; Kimimaro would just stand there.**
+
+**Full capability model: `team.md` §12.** *The short version, and it
+matters here because it is what makes the acquisition correct:*
+
+- **Three people who cannot be sent to ask for anything.** *He offends by
+  accuracy; she offends by candour; Kimimaro cannot act unbidden and a
+  conversation is a sequence of unspecified actions.* **The gap has been
+  there since the household formed and had no shape until somebody stood
+  in it.**
+- **And Hinata was trained for exactly this from before she could
+  walk** — **so Uzuki taught her nothing. She removed the thing that was
+  in the way**, which is her method entire.
+- **⚠ AND UZUKI WAS RIGHT AGAIN.** *She took a person because the person
+  would be useful, and the person is useful, irreplaceably.* **That is
+  §4.8's problem restated and sharpened: the method keeps producing
+  correct results, and there is still nobody who can say what is wrong
+  with it.**
+
+> **The one thing that changes the house rather than adding to it**
+> (`team.md` §12.3): **nobody in it can lie** — *Uzuki as an incapacity,
+> Tadayoshi never once in his life, Kimimaro answers what he is asked* —
+> **and they have just acquired somebody trained from birth in the polite
+> form of it, and acquired her for her manners.**
 
 ---
 

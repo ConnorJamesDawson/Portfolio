@@ -56,6 +56,11 @@ arity is people, and people are the one thing he will not take.*
 | **Uzuki** | **the noise, and the tactician** | he cannot read people, and he cannot draw fire off himself while doing anything else |
 | **Kimimaro** | **the close-range monster with no plan** | he is pre-emptive; *you cast before contact, because during contact you cannot* |
 | **Tadayoshi** | **the ground** | neither of them can do anything with a field |
+| **Hinata**, from the Konoha book | **the door** | **not one of the three can be in a room with somebody who has to be persuaded.** §12 |
+
+> **AUTHOR: what was once three has become four.** *Not a bolt-on — an
+> evolution*, and §12 is the capability. **`beyond.md` is where she is
+> acquired; this is what she is for.**
 
 > ## ⚠ AND THE UNIT DOES ASSEMBLE. IT JUST DOES NOT ASSEMBLE AROUND HIM.
 >
@@ -1030,3 +1035,94 @@ constraint), and which he would do anyway.
 >
 > **His security answer to being conspicuous is the thing that assembles
 > the unit he is not in.**
+
+
+---
+
+## 12. ⚠ THE FOURTH — Hinata, and she is a door
+
+> **AUTHOR: there will be doors Hinata can open, because she has been
+> trained in diplomacy. Tadayoshi would say the wrong thing at the wrong
+> time. Uzuki would do much the same for different reasons. Kimimaro
+> would just stand there. Another hole in the group filled.**
+
+**Acquired in `beyond.md` §4. This is the capability, and it is the first
+one the household has ever had that does not involve hurting anybody.**
+
+### 12.1 Why the room defeats all three of them, and for three reasons
+
+| | Fails because | And it is already on the page |
+|---|---|---|
+| **Tadayoshi** | **he says the correct thing, to the wrong person, at the wrong volume** | `ch08.md`: *he is not difficult because he is defiant. He is difficult because he is right* — **and correctness is not what a room wants** |
+| **Uzuki** | **she says everything, immediately, with no format at all** | `act-1.md`, her interior grammar. **He offends by accuracy; she offends by candour**, and the door shuts the same either way |
+| **Kimimaro** | **he stands there** | §3.4 — he cannot act without an instruction, **and a conversation is a sequence of unspecified actions.** *A room is the one environment where his defect is total* |
+
+> **Three people who cannot be sent to ask for anything.** *That has been
+> true since the household formed and nobody ever named it as a gap,
+> because the gap never had a shape until somebody stood in it.*
+
+### 12.2 What she has, and Uzuki did not teach her any of it
+
+**She is a clan heiress and has been trained since she could walk**:
+formal register, deference, indirection, **and the ability to say no
+without saying no.**
+
+> ## ⚠ AND THAT IS THE WHOLE JOKE ON HIASHI.
+>
+> **The thing he trained into her and considered her to have failed at is
+> the single most valuable asset the household owns.** *She never lacked
+> the training. She lacked the nerve to use it.*
+>
+> **So Uzuki taught her nothing.** *She removed the thing that was in the
+> way* — **which is her method entire, and it is the same one she ran on
+> Tadayoshi: she did not persuade him to accept the word. She kept saying
+> it until he stopped objecting.**
+
+**AND UZUKI WAS RIGHT.** *She acquired a person because the person would
+be useful, and the person is useful, in a way none of the other three can
+substitute for.* **That is the thread's real problem** (`beyond.md` §4.8):
+**the method keeps producing correct results.**
+
+### 12.3 ⚠ THE PRICES — three, and one of them changes the household
+
+1. **THE DOOR-OPENER IS THE ONE WHO IS SEEN.** §10 — *every appearance is
+   a specification handed to somebody.* **In a house with a hunted man in
+   it, the person who does the talking is the person who gets
+   remembered.** *The safest job in the unit produces the most exposure,
+   and she is the only member with a face people are pleased to see.*
+2. **AND SHE HAS TO LEAVE BEFORE THE USEFUL PART STARTS.** *A
+   door-opener is worthless the moment the door is kicked in.* **So she
+   is the one who is walked out of the room** — **Tadayoshi's stated
+   distance rule** (`combat.md` §9) **arriving, for the first time, on
+   somebody who has never been in a fight and did not agree to it.**
+3. **⚠ AND SHE IS THE HOUSEHOLD'S FIRST COMPETENT LIAR.**
+   > **Nobody in that house can lie.** *Uzuki cannot — an incapacity, not
+   > a virtue* (`portraits.md`). *Tadayoshi cannot and never has* (C5).
+   > *Kimimaro answers what he is asked.*
+   >
+   > **And they have just acquired somebody trained from birth in the
+   > polite version of it**, and acquired her **for her manners**, which
+   > is the same faculty wearing a hat.
+   >
+   > **PROPOSED, and it is the largest consequence in this section:
+   > Hinata is the only person alive who could deceive Uzuki** — **which
+   > makes her a second candidate for *who catches her*** (`beyond.md`
+   > §4.12), *and a better-armed one than Kimimaro.* **Needs ruling.**
+
+### 12.4 AND SHE IS THE FIRST PERSON HE CAN ACCEPT
+
+**§7's four reasons the unit never assembles around him are all one
+reason: *anyone useful to him has to be near him, and near him is where
+people die.***
+
+> **Hinata's function is to not be there.** *Her work happens in rooms he
+> is not in, before the part that kills people.*
+>
+> **So the unit finally has one member the arity problem does not
+> touch** — **and he can accept her without endangering her**, and it
+> costs him nothing, and he will not notice that it is the first time.
+>
+> **AND UZUKI FOUND HER.** *He could not have. He grades on §2's axis and
+> that axis cannot see a person who never holds ground.* **She solved a
+> problem he had never articulated, using a faculty he does not possess,
+> and he will file it as a fact about the household.**
