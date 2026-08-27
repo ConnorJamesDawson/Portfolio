@@ -56,15 +56,43 @@ Month by month in `timeline.md` §2. The spine:
   **an asset that has just demonstrated itself** — which sets the loneliness
   engine for the whole book: **from the first day, the only people who want
   him are the people who want what he does.**
-- **Contracts**, and he becomes difficult to handle. **And the carrying
-  stops** — `combat.md` §10b: **it was a probation.** A losing rebellion
+- **⚠ CONTRACTS ARE THE JOB, AND THEY ARE WHY HE MATTERS — AUTHOR.**
+  > **He is put on solo work to take the pressure off other operatives**,
+  > which means **high-profile jobs** — including **working with
+  > influential clients so they back the resistance instead of selling it
+  > out.**
+  >
+  > **So he graduates from postal to contracts, and contracts are his
+  > bread and butter, and he spends months learning what he does.**
+  > *Odd jobs are the initiation and nothing more.*
+  >
+  > **AND THE STAKES ARE COMMERCIAL BEFORE THEY ARE MORAL.** *A losing
+  > rebellion sells reliability.* **What a client buys is that the thing
+  > gets done and nothing else happens** — which is the standard he will
+  > fail, twice, and the second time ends him there.
+- **And he becomes difficult to handle** — `combat.md` §10b: **it was a
+  probation.** A losing rebellion
   works out that a hunted child is an attention sink, and buys years of
   margin by teaching him to survive being one. **Fieldcraft, sparring
   against adults who are trying, and exactly one element** — which makes
   nothing better and only makes things more numerous, and costs him three
   named things in the same entry.
-- **The monastery.** A punishment posting, and it is a posting because
-  three weeks earlier there was an incident. *"Help."* **The client is the
+- **⚠ THE MONASTERY IS STRIKE ONE, AND THE OFFENCE IS COMMERCIAL —
+  AUTHOR.**
+  > ***Somebody from the resistance has murdered a couple of monks, which
+  > is not good for contract confidence, so he cannot stay.***
+  >
+  > **Not a moral judgement and not a disciplinary one.** *Nobody accuses
+  > him of anything.* **It is that the product has stopped being
+  > reliable**, and reliability is the only thing a losing rebellion has
+  > to sell.
+  >
+  > **And the Kimimaro incident is the final straw** (act two): *Tadayoshi
+  > and a Kaguya together are too much heat for that section of the
+  > resistance* — **so the team goes out into the world, which is act
+  > two.**
+- **The monastery job itself is a demotion**, and it is a demotion because
+  a contractor is being sent to carry boxes. *"Help."* **The client is the
   elder holding the sale, so he kills his own employer — awake, knowing
   what he is doing — gets nothing, and comes home with a child instead of
   a fee.** The rescue is **a debt he is carrying**, not a gift he gave,

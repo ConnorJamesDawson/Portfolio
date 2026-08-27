@@ -288,6 +288,25 @@ under **act one**. Both were correct and neither pointed at the other, and
 a mechanism is what you build when you cannot see the whole record at
 once.*
 
+### 2h. ⚠ PARALLEL THREADS DO NOT SHARE A TEMPO
+
+**A parallel-lives book runs several clocks at once, and they are not the
+same clock.** *`falsified.md` #24: Uzuki's act-one arc is **being held
+still** — a road, a cellar, a bowl that is always the same amount — and
+Tadayoshi's is supposed to be **acceleration.*** **I let hers set the
+chapter tempo and pulled his down to match**, and the instruments were an
+injury and a demotion, and then I wrote design justifying both.
+
+> **The tell is that the protagonist's thread acquires reasons to stand
+> still.** *An injury, a posting, a probation, a wait.* **One is
+> consequence. Three in a row is a tempo problem wearing consequence's
+> coat.**
+
+**The check, per chapter:** *what is each thread's verb this month?*
+**If two threads have the same verb — waiting, holding, enduring — one of
+them is wrong**, because the parallel form exists to put unlike things
+beside each other and stops paying the moment they rhyme.
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

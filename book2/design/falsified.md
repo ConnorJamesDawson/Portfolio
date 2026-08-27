@@ -277,6 +277,22 @@ a widening with paperwork.
 > the author had specified in the first session and I had filed under a
 > different heading.** `method-delta.md` §2g.
 
+### #24 — A COURIER FROM MONTH 9 TO MONTH 12 *(mine, two chapters)*
+
+| | |
+|---|---|
+| **Killed** | Everything that put him on freight after the ninth month: `ch11.md` §3.3 (*the work he is given is carrying; nobody decided it; the hand came back and nobody revisited it*), the month-11 anomaly, the whole framing of ch12's docket as *more of the same*, **and 36,550 words of prose across two chapters.** |
+| **By** | **Author ruling.** *"What about **takes ANY jobs** do you not understand… I want this story dark and you seem to be shying away from it. He gets odd jobs as initiation then he moves to assassination… he graduates from postal to Contracts, and that is his bread and butter."* And: ***"put the chapters in the shredder and plan from 10 again."*** |
+| **Whose rule it was** | **Mine, and the measurement is the indictment: in twelve chapters of act one, Tadayoshi took money for killing nobody.** *Not once.* He identified a man by his handwriting, was overcharged for a coat, audited a briefing and was right, **refused** a job, fought a hunter-nin who found him, broke his hand, was idle for six weeks, and carried boxes for four months. **The author's session-one material calls him an emotionless assassin who takes any contract that keeps him fed and does not spend years as a courier.** |
+| **Why it happened** | **Uzuki's clock set the tempo.** *Her arc is being held still — a road, a cellar, a bowl that is always the same amount.* **His is supposed to be acceleration.** I pulled his down to match hers and the instruments I used were **an injury and a demotion**, then wrote design justifying both. *`method-delta.md` §2h.* |
+| **Replacement constraint** | **Contracts are the job and the stakes are commercial before they are moral** (`structure.md`, act one). **He is put on solo work to take pressure off other operatives** — high-profile jobs, and clients who must be kept sweet so they back the rebellion instead of selling it. **So the product is not a dead man: it is *the thing gets done and nothing else happens*** — the standard he fails twice. **The monastery is strike one and the offence is *contract confidence*, not morality**, and nobody accuses him of anything. **The Kaguya is the final straw**, and then act two is village to village with hunters behind them. |
+| **Net** | **Two chapters shredded, three replanned, and the act got its spine back.** *Odd jobs as initiation stands — ch7, 8 and 9 are correct and untouched.* **The fault was that the graduation never happened.** And the demotion finally lands: **sending a contractor to carry boxes is an insult; sending a porter to carry boxes is Tuesday.** |
+
+> **AND IT TOOK THE CREED WITH IT.** *#23 moved the creed into act one for
+> the monastery's sake; this entry gives it something to be made of* —
+> **three months of paid killing, and a boy on a step, and a family he
+> made himself.**
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

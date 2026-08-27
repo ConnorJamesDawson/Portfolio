@@ -79,9 +79,9 @@ a month the other thread owns, and the unevenness is the structure working.
 | **7** | 6–7 | T 50 / U 50 | **Her mother remarries.** His first contract, whole — **and it is a probation, not a job.** **First hunter contact — not a fight.** |
 | **8** | 8 | U 50 / T 35 / **K 15** | **The knife under the pillow.** **The investment starts** — and he becomes difficult to handle. **The other child fails an inspection.** |
 | **9** | 9 | U 70 / T 30 | **She opens his face and runs.** **Sagara Nagi survives an encounter** and goes into the book as *the left-hander*. |
-| **10** | 9–10 | ⚠ **T 70 / U 20 / K 10** | **THE MERCHANT, THE HOUSE, AND THE BOY.** *A contract that makes another orphan, and a boy on a step who has just come back from a relative's.* **AND THE CREED IS WRITTEN** — *stay your hand from the blood of the innocent* — **in his own book, in month 9, by a boy of ten.** |
-| **11** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar** — *and she is in it for eight or nine weeks.* He is given freight. **Two children in boxes, waiting for the same buyer** — and the page she stops needing is where Kimimaro picks up. |
-| **12** | 12 | T 65 / U 25 / **K 10** | **⚠ THE THRESHOLD — early, on somebody else's job.** **Then the cargo docket, and he arrives awake.** ***Help.*** And a sale is scheduled. |
+| **10** | 9–10 | ⚠ **T 60 / U 30 / K 10** | **GRADUATION. Postal to contracts.** *He is moved onto solo work to take pressure off other operatives — which means high-profile jobs and clients who have to be kept.* **The first contract that is a killing, and he is good at it.** *And bad at the client.* Uzuki reaches the Kadono-dera |
+| **11** | 10–11 | ⚠ **T 55 / U 35 / K 10** | **THE TRADE — months of learning what he does.** *Contracts, plural, with bodies in them.* **THE MERCHANT, THE HOUSE AND THE BOY**, and *he made them* — **and the creed is written.** The rain, the dye, and Uzuki priced twice in one room |
+| **12** | 12 | ⚠ **T 60 / U 30 / K 10** | **THE MONASTERY. STRIKE ONE.** *A posted cargo job — a demotion, because sending a contractor to carry boxes is the insult.* **He does not knock.** *The line, **Help**, the threshold, the walls, monks dead.* **And the creed holds, once, and he cannot say why** |
 
 **The cuts are on rhyme, per `structure.md` §1.3:**
 
