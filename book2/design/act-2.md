@@ -369,7 +369,8 @@ shinobi go over treetops has to answer the question.*
 upstairs because nobody has ever told him anything** (ch12), **and he has
 a number that is going to run out inside this act and is wrong.**
 
-### 6.1 ⚠ He does not know how to want things, and this is the act where he is asked to
+### 6.1 ⚠ He does not know how to want things
+*And this is the act where he is asked to.*
 
 **Two years of a bowl arriving.** *He has never chosen anything, and when
 they buy him boots and ask which pair, the question has no purchase* —
