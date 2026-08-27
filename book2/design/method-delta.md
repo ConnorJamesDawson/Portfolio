@@ -387,6 +387,53 @@ full, at whatever register that character owns.**
 > reader has seen what he did. He has not.* **That gap is worth more than
 > the mystery ever was.**
 
+### 2l. ⚠ NOT EVERY CHAPTER IS A PLOT CHAPTER — AUTHOR
+
+> **AUTHOR:** *"The thing I want to have is substance. There should be
+> chapters where the characters don't advance the plot very much — have
+> another courier mission where he talks to Uzuki and have her thoughts on
+> things."*
+
+**Act one has twelve chapters and eleven of them move the spine**, and the
+twelfth moves two. *That is relentless, and relentless is not the same as
+good.* **It is the opposite failure to the one `method.md` guards against
+— that rule is *no summary where a scene belongs*, and I have been
+obeying it by making sure every scene is load-bearing, which is a
+different thing and a worse one.**
+
+### The rule
+
+> **At least one chapter in three spends its length on the life rather
+> than the plot.**
+
+### And a quiet chapter is not a chapter where nothing happens
+
+**Things happen. They just do not change what happens next.** *A mule is
+bought and haggled over. An argument is had and nobody wins it. Somebody
+says a flat thing that lands like a dropped plate. Two people find out
+something about each other that costs nothing, settles nothing, and is the
+reason the reader is here at all.*
+
+> **THE DIAGNOSTIC.** *If you can summarise the chapter's events in one
+> sentence and lose nothing, it was filler.* **If summarising it loses the
+> reader's relationship with a person, it was substance.**
+
+### What it costs, named
+
+**Plot velocity, and take the hit.** *A book that arrives at its endings
+faster is not a book anybody misses when it is over*, and the whole of
+this project's method — *prefer the object to the statement*, *the
+lived-in rule*, *cruelty is the carrier* — **only works if there is enough
+ordinary life on the page for an object to sit in.**
+
+### The instruments already exist
+
+**§2k** *(everything they own was got for a smaller person)* **is the
+material for these chapters. §2d** *(one-off POVs)* **is available in
+them. And the interior-grammar rule is what makes two people talking on a
+road worth two thousand words** — *he prices, she reads, and they are
+looking at the same road.*
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's

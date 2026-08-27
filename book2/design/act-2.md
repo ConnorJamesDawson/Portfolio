@@ -122,6 +122,55 @@ different and worse, and it must be named before drafting.**
 
 ---
 
+## 2c. ⚠ MOVEMENT — AUTHOR, and it is a real hole in the design
+
+> **AUTHOR:** *"There really isn't a time scale as you have everyone walk
+> everywhere. What about running? Or buying a mule? Or even a horse?"*
+
+**Correct, and it is my omission.** *Eleven chapters of act one move at
+about eleven miles a day and the book never says why, and a setting whose
+shinobi go over treetops has to answer the question.*
+
+### The four modes, and each is a decision with a price
+
+| | Rate | What it costs |
+|---|---|---|
+| **Walking** | *~11 mi loaded, ~20 light* | **nothing, and that is the whole of its value** |
+| **⚠ Running** | *3–4×* | **chakra — his economy is his vulnerability (`combat.md` §4.2) — and worse: a figure moving fast is a report.** *A boy walking is invisible* |
+| **A mule** | *no faster, and it carries eight loads* | ~6,000 for a sound young one *(costed off ch6)*, **feed, water, and it cannot go where a person can** |
+| **A horse** | *fast on a road and useless off one* | **expensive, hungry, and it is a description.** *Three children and a horse is a thing people tell hunters about* |
+
+> ### ⚠ SO HE CAN RUN AND DOES NOT, AND THE REASON IS TRADECRAFT
+>
+> **Not incapacity — a rule, costed, in the operational column.** *Speed
+> buys days and spends cover, and cover is the only thing keeping a
+> warranted child alive.*
+>
+> **And the exception is when the clock beats the cover.** *Something has
+> to be somewhere in three days and it is a nine-day road, so he runs, and
+> pays, and is seen* — **and the seeing turns up on the hunter sheets a
+> month later.** *One decision, one price, and the reader can watch the
+> invoice arrive.*
+
+### The mule is the act's best object and it is not about transport
+
+- **⚠ SHE HAGGLES FOR IT**, *because she has stood in a yard at Shimoda's
+  holding a halter while a man priced a mule out loud, item by item,
+  fairly* (ch6) — **so she is the only person in this book who knows what
+  that speech sounds like from the inside, and she can hear when a man is
+  lying because she has heard the true version.**
+- **He cannot buy anything for himself and she can buy anything for
+  anybody**, *which is §4.7's coat thread with the polarity reversed.*
+- **⚠ AND KIMIMARO ASKS FOR IT TO HAVE A NAME.** *See §6.* **Her father's
+  mule was Genzō, after the man he bought it off** (ch6) — *and she is
+  going to have to hear a name given to an animal she has already watched
+  a household lose.*
+- **And by late act two the mule is how Kimimaro travels**, *because a boy
+  whose hands are going cannot carry a pack.* **The thing they bought for
+  the kit ends up carrying the boy, and nobody says so.**
+
+---
+
 ## 3. WHAT ACT ONE HANDS OVER — updated after the shred
 
 | | |
@@ -195,11 +244,20 @@ different and worse, and it must be named before drafting.**
    > he cannot take it, and takes it. **Kimimaro is the one who says the
    > thing out loud first**, because he is the clear eye and it lands like
    > a dropped plate (§1).
-8. **⚠ AND THE BREAK TAKES THE MONEY — PROPOSED.** *He ends act one with
-   about eighteen thousand ryō split four ways in Ōtoma.* **He walks out
-   with what is on him**, which is why act two's negotiation is real and
-   why the first self-got job is a disaster. *One line, never argued
-   about.*
+8. **✅ HE KEEPS THE MONEY — AUTHOR, overruling my *the break takes it*.**
+   *He ends act one with about eighteen thousand ryō and he still has it.*
+   > **Which forces a better cause for the first-job disaster**, and the
+   > better cause was already on the page: **he is not bad at negotiating
+   > because he is desperate. He is bad at it because he cannot be in a
+   > room** (`ch10.md` §1). *Desperation would have excused him. Having
+   > money and still losing the room does not.*
+   >
+   > **⚠ AND HE KITS HER OUT IMMEDIATELY — AUTHOR:** *"mismatched shoes
+   > doesn't help a travel companion."* **Boots that are a pair, a pack
+   > that fits a child, a blanket, and a knife she is allowed to carry
+   > where people can see it.** *He does the whole of it in an afternoon
+   > without a second's difficulty and does not replace one item of his
+   > own* — **§4.7, and it should be flat and unremarked the first time.**
 9. **⚠ AND THE SWORD TURNS OUT NOT TO BE A SWORD — AUTHOR.**
    `combat.md` §3b: **never quiet is not the same as ringing**, and the
    ring is chakra through it — *more through it, higher the tone and
@@ -212,7 +270,61 @@ different and worse, and it must be named before drafting.**
    > unexplained object in his kit comes from the person he is supposed to
    > be teaching** — *and it is `method-delta.md` §2k on his side of the
    > book: knowledge can be wrong, and his is.*
-10. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
+11. **⚠ THE AMBUSH, AND SHE STABS ONE OF THEM — AUTHOR.**
+    > **The arity problem made visible** (`combat.md` §10b): *he is one
+    > object, and the tactic against one object is to circle it.* **So the
+    > scene is not a fight he is losing. It is a fight that is taking too
+    > long, which is the same thing with hunters.**
+    >
+    > **She is not counted, and that is why it works.** *Nobody circles a
+    > child with a pack.* **She gets to be behind somebody**, with the pig
+    > knife she has had since the eighth month and oiled in the ninth,
+    > *which is what made it hers.*
+    >
+    > **⚠ AND THE FIRST ONE IS NOT SADISTIC.** *It is clumsy and low and
+    > it works* — **the back of the leg, because it is what she can reach
+    > and because she is not trying to kill him, she is trying to make him
+    > stop working**, which is the palm's own instinct running backwards.
+    > **Tadayoshi finishes him.**
+    >
+    > **The horror is in the afternoon, not the minute.** *Her stab killed
+    > nobody. It made a fight one shorter.* **And she wants it to have been
+    > more than that, and cannot say so, and that wanting is where §2i's
+    > register first shows.**
+    >
+    > **And he enters it.** *A column for her, operational and exact,
+    > saying nothing whatever about her being brave* — **and she reads it
+    > twelve times.**
+12. **⚠ SHE SEES THE CONTRACTS, AND HER ROLE IS THE ROOM — AUTHOR.**
+    > **His defect has been named and unsolved since ch10:** *superb at
+    > execution, cannot be put in front of a client.* **She is the
+    > solution and she is eleven.**
+    >
+    > **How she finds it: she reads the fees and does what she does, which
+    > is look for the part that is not doing any work.** *Anazawa 3,600.
+    > Sakabe 2,900. Nunobiki 4,100 for four days of somebody else's
+    > waiting. Kadoya delighted at 3,600. Terasaka 14,000.*
+    >
+    > **⚠ AND SHE GETS IT IN ABOUT FOUR MINUTES: he prices the man, and
+    > the money is in the buyer.** *He has been costing the work and not
+    > the client for seven months, and Kadoya was **pleased**, and pleased
+    > means underpriced.*
+    >
+    > **Which is the coat defect in commercial form:** *he cannot value a
+    > thing he is inside of.* **She has never once been inside anything.**
+    >
+    > **⚠ AND THE THING NOBODY SAYS OUT LOUD:** *the girl who was priced
+    > twice in one room becomes the person who does the pricing.* **She is
+    > very good at it. She likes it.** *That is where the sadism arc
+    > actually starts running in act two — through commerce, not through
+    > violence — and Nakadō is the other half of it.*
+13. **⚠ AND AT LEAST ONE CHAPTER IN THREE IS A SUBSTANCE CHAPTER —
+    AUTHOR** (`method-delta.md` §2l). *A courier run where the only thing
+    that happens is that two children talk on a road for nine days.*
+    **Ch14 and ch19 are the two obvious slots and ch14 should be the
+    first one**, *because the reader needs to know these two before the
+    op takes the household apart.*
+14. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
    — AUTHOR** (`method-delta.md` §2k). *Clothes bought, weapons haggled
    over, cooking on a fire, and knowledge turning out wrong.* **Act two is
    three years on a road and is the largest montage risk in the series;
@@ -251,7 +363,88 @@ different and worse, and it must be named before drafting.**
 
 ---
 
-## 6. NOT IN ACT TWO
+## 6. ⚠ KIMIMARO — five ideas, PROPOSED, and the author asked for them
+
+**He is thirteen. He is the clear eye (§1). He has no model of anybody
+upstairs because nobody has ever told him anything** (ch12), **and he has
+a number that is going to run out inside this act and is wrong.**
+
+### 6.1 ⚠ He does not know how to want things, and this is the act where he is asked to
+
+**Two years of a bowl arriving.** *He has never chosen anything, and when
+they buy him boots and ask which pair, the question has no purchase* —
+**not shyness; it does not connect to anything.**
+
+> **So the first thing he ever asks for is a book-level event and it
+> should be tiny.**
+>
+> **⚠ HE ASKS FOR THE MULE TO HAVE A NAME.** *He has spent two years
+> measuring a thing and never naming it, and he has just worked out that
+> naming is a thing people do and he has never done it.*
+>
+> **And Uzuki has to stand there while a name is given to an animal**, and
+> her father's mule was **Genzō, after the man he bought it off**, and she
+> watched a man price it out loud with the halter in her hand. *She does
+> not say any of that. She names it.*
+
+### 6.2 ⚠ The bones become tools, and the household does not notice
+
+**He has four pieces on a mat in ch12 and has been measuring millet with
+one of them.** *In act two they get used: a pick, a marker, a shim, a
+thing to get a lid off.* **Nobody in that household finds it strange,
+because it happened by degrees and it is useful.**
+
+> **And then somebody outside sees it**, once, and their face does the
+> whole job — **and that is how the book tells three children what they
+> have become without any of them saying it.** *`method-delta.md` §8: the
+> unstated fact, delivered as behaviour.*
+
+### 6.3 ⚠ TADAYOSHI AUDITS HIS ARITHMETIC, AND FINDS THE ERROR
+
+**At some point he says the number out loud, flat, the way he says
+everything.** *Nine hundred and three.* **Neither of the others knows what
+to do with it.** *Uzuki tries to check it against his body and cannot, yet
+(`combat.md` §11b).*
+
+> **And Tadayoshi does the one thing he is better at than anybody, which
+> is ask to see the working.**
+>
+> **⚠ HE AUDITS A DYING BOY'S SUMS AND FINDS THE FAULT** — *three points,
+> a half and then a quarter, and Kimimaro chose the pessimistic branch and
+> extrapolated linearly off a decelerating series and knew he was doing
+> the wrong thing and had nothing else* (`ch11.md` §10 note 9).
+>
+> **It is the kindest thing he does in the entire book and it reads as
+> cold**, *because he says it the way he says everything: **your second
+> gap is not your first gap, so you have not got a line, you have got a
+> guess and it is the worst available one.***
+>
+> **And the result is not hope. It is that the date becomes *unknown*** —
+> **which is worse in one direction and better in another, and neither of
+> them says anything about it.**
+
+### 6.4 He reports, and the reporting is what makes the other two wrong
+
+**Uzuki reads people in order to price them. Tadayoshi does not read
+people at all.** *Kimimaro states what he saw without interpreting it,
+because interpretation requires a theory about people and he has never
+been given one.*
+
+> **So the household engine is: the other two have built a theory, and he
+> says one flat sentence, and the theory dies.** *`team.md` §6.2 already
+> has it — when he speaks it lands like a dropped plate — and this is the
+> mechanism under it.*
+
+### 6.5 ⚠ And he sets the speed, which makes §2b's clock physical
+
+**By the back third his hands are going and a boy whose hands are going
+cannot carry a pack**, *so the mule carries him, and the household's rate
+of travel becomes a function of one boy's body.* **Every mile they do is
+priced in him and everybody knows it and nobody has said so.**
+
+---
+
+## 7. NOT IN ACT TWO
 
 **Orochimaru under any name until the op. Gatō. Guren. The word for the
 threshold. The eyes, the Sharingan, and anything from the Konoha book.**
