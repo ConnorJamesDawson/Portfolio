@@ -73,6 +73,55 @@ one carries a different function:
 
 ---
 
+## 2b. ⚠ THE PACING INSTRUMENT — act two has three clocks and they are
+## already on the page
+
+**The act-one failure was diagnosed in `method-delta.md` §2h:** *I let the
+static thread set the chapter tempo and pulled the moving one down to
+match, with an injury and a demotion.* **Act two's version of that trap is
+different and worse, and it must be named before drafting.**
+
+> **Act one had an external clock the whole way** — a warrant year, a
+> buyer's date, a monastery in month 12. **Act two's spine after the break
+> is *village to village, jobs for money, hunters behind*, and there is
+> nothing in that sentence that ends.** *Chapters 18–21 are four chapters
+> of road, and four chapters of road with no date on them is a montage
+> with chapter numbers.*
+
+### It does not need a new device. Three counters already exist and all
+### three belong to characters
+
+| Clock | Whose | Expires |
+|---|---|---|
+| **The hunter curve** | **his** — `combat.md` §10: *he can plot the curve and he does, so he can compute the date at which it exceeds him* | **he names a date, and the act runs at it** |
+| **⚠ Nine hundred and three bowls** | **Kimimaro's**, got in ch11 off three points | **≈ 301 days at three a day — so it runs out in month 10 of this year** |
+| **1,795 days** | **hers**, and it is not a deadline | **a metronome** — *it moves every day and it is the only thing in her that does* |
+
+> ### ⚠ AND THE SECOND ONE LANDS IN CH21, WHICH IS WHERE THE CURVE ARRIVES
+>
+> **Two clocks expire in the same month and neither character knows about
+> the other's.** *The reader has been able to do the arithmetic since ch11
+> and has had ten chapters to dread it.*
+>
+> **And his number is wrong** (`ch11.md` §10 — three points, not
+> collinear, and he took the pessimistic branch). **So the date passes and
+> he is still alive, and he cannot tell whether he was wrong the good way
+> or whether it is simply late** — *and the one person who could tell him
+> is in the same house and has diagnosis well ahead of the rest of her
+> craft* (`combat.md` §11b) **and cannot reach it yet.**
+
+### The three standing rules that do the rest
+
+1. **The work sets the tempo, not the household.** *Act one's error was a
+   static thread setting it; act two's would be a static **setting**.*
+   **Jobs have dates. Rooms do not.**
+2. **`method-delta.md` §2k is the road's anti-montage instrument.** *You
+   cannot summarise a year if the reader has to watch the boots go.*
+3. **§10, no silent caps.** *If a chapter skips a hunter contact or a
+   kit expiry, say so on the page.*
+
+---
+
 ## 3. WHAT ACT ONE HANDS OVER — updated after the shred
 
 | | |
@@ -117,7 +166,41 @@ one carries a different function:
    > acts instead of saying, so a spoken vow is out of character and that
    > is the point of it.* **Ruling wanted on the placement, not on the
    > fact.**
-7. **⚠ AND THE SWORD TURNS OUT NOT TO BE A SWORD — AUTHOR.**
+7. **⚠ THE COAT — AUTHOR, and it is act two's object.**
+   > **AUTHOR:** *"The ironic bit is that Tadayoshi cannot buy himself
+   > anything, but he readily bought another child a coat."*
+
+   **It is already four chapters deep on the page**: the coat at Fukae
+   bought at nearly double without arguing (ch7); left on a nail at Hanase
+   and entered as ***what it cost: one coat*** (ch7); the 1,400 one he
+   priced twice and put back on the rail because *it is not the coat*
+   (ch11); four days of sleet in a cut because of that (ch12); **and then
+   a hundred and fifty off a child's coat in four minutes, because he did
+   not want it** (ch12).
+   > **The mechanism is on the page and the meaning is not, and the
+   > meaning is the act's argument:** *he does not think he is a person who
+   > gets things. He is an instrument that acquires what the work needs* —
+   > **and a household of three is now work.**
+   >
+   > **⚠ SO HE KITS THEM OUT AND WEARS THE SIXTH MONTH.** *Coats, boots, a
+   > blade mended, a roof, food — and by month six of act two two children
+   > are better equipped than he is and he has not noticed.*
+   >
+   > **AND IT IS THE SAME DEFECT AS THE REBELLION'S.** *A losing rebellion
+   > spends its children and will not spend on itself, and he has just
+   > reproduced it inside a household of three* — **which is how *he is the
+   > village* stops being a metaphor.**
+   >
+   > **PROPOSED close: Uzuki buys him one, out of money she earned**, and
+   > he cannot take it, and takes it. **Kimimaro is the one who says the
+   > thing out loud first**, because he is the clear eye and it lands like
+   > a dropped plate (§1).
+8. **⚠ AND THE BREAK TAKES THE MONEY — PROPOSED.** *He ends act one with
+   about eighteen thousand ryō split four ways in Ōtoma.* **He walks out
+   with what is on him**, which is why act two's negotiation is real and
+   why the first self-got job is a disaster. *One line, never argued
+   about.*
+9. **⚠ AND THE SWORD TURNS OUT NOT TO BE A SWORD — AUTHOR.**
    `combat.md` §3b: **never quiet is not the same as ringing**, and the
    ring is chakra through it — *more through it, higher the tone and
    brighter the light.* **He has never once done it deliberately, because
@@ -129,7 +212,7 @@ one carries a different function:
    > unexplained object in his kit comes from the person he is supposed to
    > be teaching** — *and it is `method-delta.md` §2k on his side of the
    > book: knowledge can be wrong, and his is.*
-8. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
+10. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
    — AUTHOR** (`method-delta.md` §2k). *Clothes bought, weapons haggled
    over, cooking on a fire, and knowledge turning out wrong.* **Act two is
    three years on a road and is the largest montage risk in the series;
