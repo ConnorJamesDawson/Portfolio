@@ -493,9 +493,15 @@ across three countries and is where it gets fixed.**
 - **The test, and it is the whole of §5 of that file:** *cover the name
   and read the scene.* **If it still works it stays. If it only worked
   because of who it was, it was never a scene.**
-- **⚠ AND EVERY DATE IN THAT FILE IS UNCHECKED** — *training data, not a
-  citation* — **and nothing in its roster goes on the page until it has
-  been checked.** *Same class of error as the currency.*
+- **✅ CHECKED, 27/8/2026**, and it produced four corrections. **Two
+  matter:** *Yagura is alive and Mizukage for the whole of this book and
+  the next — he dies in the Part I/II timeskip — so **the rebellion does
+  not win**, and the Bloody Mist is the standing condition of the series.*
+  **And Mei is about twenty-six here, not nineteen**, and does not become
+  Mizukage until after Part I. *Two more: **Ao is a Kiri hunter-nin with a
+  stolen Byakugan**, so he belongs on the sheets and not in a cameo slot;
+  and Kiri's kill-your-classmate graduation was already discontinued
+  before Tadayoshi's Academy years, **so act one is clean**.*
 
 ---
 
