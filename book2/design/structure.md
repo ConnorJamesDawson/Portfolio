@@ -782,11 +782,63 @@ book did not have to build him.**
 > **Two dying men and a boy wearing a dead brother's eyes**, and every
 > single one of them is a brother problem.
 
-### ⚠ OPEN — timing, and it is a real structural question
+### THE TRANSPLANT — and Ao is the canon precedent, checked
 
-**Sasuke reaches Orochimaru at the end of Part I, at thirteen — the same
-age Tadayoshi is at Wave.** So this is **after the door**, and `act-1.md`'s
-four acts of one year each do not obviously contain it. *Is the Oto arc
-the back of act four, or is it the next book?* **Not deciding it. But it
-changes what act four is for, so it wants an answer before act three is
-planned.**
+> **AUTHOR: Uzuki learns to transplant properly while they are in Oto**,
+> which is why his eyes work the way Kakashi's do not.
+
+**Checked against canon rather than assumed, and it holds — with one
+correction to the reasoning:**
+
+| | | |
+|---|---|---|
+| **Kakashi** | **cannot deactivate. Permanent drain, kept under a headband** | **canon's stated reason is that he is not an Uchiha and lacks compatible DNA** — *not that Rin did it in the field* |
+| **Danzō** | **also cannot deactivate**, despite Orochimaru's science and Hashirama grafts | so *surgical grade alone* is not the variable either |
+| **Ao** | **CAN activate and deactivate at will** — the only known implanted Byakugan | **and canon never says why he can and Kakashi cannot** |
+
+> ## ⚠ AND THAT UNEXPLAINED GAP IS THE OPENING.
+>
+> **Two transplanted dōjutsu, two non-clan hosts, opposite outcomes, no
+> stated reason.** *That is precisely the shape this protagonist exists to
+> attack — find the piece nobody can account for.*
+
+**The version that keeps canon whole rather than overwriting it:** *the
+incompatibility is real — and making foreign tissue accept a foreign part
+is exactly what Oto's science is for.* **Orochimaru's entire career is
+that problem.** So Uzuki learning there does not contradict *he is not an
+Uchiha*; **it addresses it.** Kakashi got a field graft with no
+compatibility work at all. **Ao is the proof it can be done properly.**
+
+> **AND IT CLOSES HER LOOP.** *The compatibility science she learns is the
+> science of the man who was going to buy her at ten.* **She was cargo for
+> that facility.** She goes back and takes its knowledge — **which is
+> Nakadō's structure a second time**, and neither she nor the book should
+> say so.
+
+**PROPOSED, and it needs pricing:** if a proper transplant is what buys
+control, **what does maintaining it cost, and who pays.** *The palm's own
+rule (`combat.md` §11b) is that **it buys hours, not cures** — so the
+reading available is that she maintains it, indefinitely, **which makes
+his independence a thing he depends on her for.*** **That is either the
+best irony in the book or too neat. Needs ruling.**
+
+### TIMING — RULED, with one age corrected
+
+> **AUTHOR: next book, during the Shippūden timeskip.**
+
+**And the age arithmetic has to come off the anchor, not the other way
+round** (`method-delta.md` §2, and `spec.md` §23 is an AUTHOR ruling: *ten
+at the warrant, three years maximum on the road, thirteen at the door*).
+
+- **Canon Sasuke is 12 at Land of Waves. Tadayoshi is 13.** *So he is
+  Sasuke + 1, permanently, and that gap cannot move without moving the
+  warrant.*
+- **AUTHOR proposed Tadayoshi 16/17.** Holding the anchor, **that puts
+  Sasuke at 15/16, not 14/15** — late timeskip into early Shippūden.
+- **Which still works**, because canon Sasuke remains under Orochimaru
+  until he absorbs him at about sixteen. **The window is real and the
+  anchor survives.**
+
+> **Recorded as the one-year correction, not a ruling of mine.** *If the
+> author wants Sasuke at 14/15 instead, then Tadayoshi is 15/16 and the
+> anchor still holds — what cannot happen is both numbers at once.*

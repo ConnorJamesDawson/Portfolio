@@ -222,6 +222,7 @@ world-bible, priced in advance. Full reasoning in `timeline.md` §5.
 | Strain | Price | Bought for |
 |---|---|---|
 | **Kaguya assault moved to ~5 pre-P1** | small, on a figure book one already labels approximate | the cage-sighting lands at **eight — the same year as the tone.** *The instruction and the evidence arrived within months, and he still did not understand what he was being told.* Also improves canon plausibility: Kimimaro at ten as a combatant beats Kimimaro at five. |
+| **A proper transplant buys dōjutsu control** | **small, and it fills a hole rather than overwriting one.** Canon's stated reason for Kakashi is non-Uchiha DNA, and Danzō could not deactivate either despite Orochimaru's science — **but Ao can, and canon never says why.** The strain is only that this book answers it: *compatibility work is what Oto's science is, and Kakashi's was a field graft with none.* **Priced at: the eyes are never free of the facility that made them possible** | **the Oto arc** (`structure.md` §7b) — and it closes Uzuki's loop, because the science she learns is the science of the man who was going to buy her at ten |
 | **Kimimaro two to three years older** | none — accepted rather than strained away | a better household (the eldest, the most dangerous, the only one who has never made a decision, decided for by a boy two years younger) **and a countdown the reader has and the characters do not** — he is fifteen when he walks into Konoha, and the book never says it. |
 
 ---
