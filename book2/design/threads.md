@@ -4728,3 +4728,353 @@ clerk.* **Some of it comes back attached to different causes.**
 8. **The ford on 21/10 is still the only thing missing from the sheets**,
    *and now he can prove it.*
 9. **Kajiya, and the tone, unread since the eighth month.**
+
+---
+
+### C13 — Chapter 13, "A Place To Put Her". Year 1, month 1.
+### 10 scenes, 16,530 words. T×5 (50%) · U×3 (31%) · K×2 (20%).
+### ⚠ ACT TWO OPENS.
+
+**TADAYOSHI — fixed**
+
+- **He notices her feet on the second day of the year** — *the left shoe a
+  size and a half too big since the ninth of the tenth month, the rag out
+  of it since the rain on the twenty-fifth, and a place on the outside
+  edge where it has been taking her weight for eleven weeks.* ***And I
+  have not looked.***
+- **Four things in an afternoon for 1,140** — *boots 320 (and he takes 60
+  off a man in six minutes without appearing to want them), a pack at 200,
+  a blanket at 300 he makes her hold against herself, and a knife at 220
+  **worn where people can see it***. **His reasoning on the knife: a
+  hidden knife is worth more to a girl alone and less to a girl with him,
+  because a visible knife is a decision most people will decline to
+  make.**
+- **⚠ AND HE REPLACES NOTHING OF HIS OWN, AND IS STILL WEARING THE COAT**
+  — *no moment of the thing that happened to him in a doorway on 29/10,
+  and he does not notice the difference.*
+- **The hat, 90.** *She asks for a brim that goes all the way round; he
+  says **right**, buys one, and does not ask what it is for.* **It did not
+  occur to him to ask.**
+- **The fourth column, 3/1:** ***Open: get her to a door*** — *thirteen
+  days old and untouched* — **and he dates it and writes** ***Find one.
+  Properly.***
+
+**THE FEES — and he gets it right and then gets it wrong**
+
+- **Kurihama, 9/1, 900.** *Sagawa, first floor, one window, a stair a man
+  of sixty had been going up at the same time for eleven years. Setting 25
+  min; in through the window at 1:10; the base of the skull with the man
+  on his side; his right hand closed on the bedding and Tadayoshi held the
+  head down until the hand stopped meaning anything.* **Under a minute, no
+  word, and the second column empty.**
+- **Sakabe, 11/1, 1,100. Also nothing in the second column.**
+- **⚠ THEN HE DOES BOTH SERIES ON A WALL ABOVE THE SAKABE WHARF.**
+  > *Fees: 3,600 — 2,900 — 4,100 — [14,000] — 2,200 — 4,800 — 900 —
+  > 1,100.* **Mean of the first five, 3,520. Mean of the last two, 1,000.**
+  >
+  > *Gaps: 6, 7, 11, 4, 10 — and then **63**.* **Twelve of those are the
+  > mountain and nine the road down, so forty-two days in Ōtoma with
+  > nothing on the boards.**
+- **⚠ AND HE GETS THE FINDING EXACTLY RIGHT:** ***two things moved at once
+  and in the same direction and they are not the same thing and they have
+  got one cause.*** **A thin market gives fewer jobs at the same price, not
+  the same number at a third of it.**
+- ***"The fees have gone. Is that the market or is it me?"*** — ***"It's
+  the twelfth month." — "It's the first month." — "Same thing."***
+- **⚠ AND NOTHING HAS NO EDGE ON IT.** ***If he had lied I would have him.
+  A lie has an edge on it.*** *And asking a third time tells a man who
+  will not answer that it matters.* **So he stops, correctly** — **and
+  then picks one of three true reasons and is wrong.**
+  > *Fees low + gaps long = 21 days away over the turn. Expect recovery in
+  > the 2nd month.* — **with the *made and not counted* mark beside it,
+  > the second time he has ever put it on a sentence.**
+
+**⚠ THE DOOR — 12th to 17th**
+
+- **The list is possible for one reason and he hates it:** *in the
+  eleventh month he had four days and a boy who had seen his face, and
+  asking would have told a valley what he did.* ***So it was never that
+  there was nothing. It was that I could not look.*** **The eleventh month
+  failed on cover, not on the world.**
+- **Four candidates, in order.**
+  - **A religious house that takes children** — *a hall, a long building,
+    a third of an acre cut into a slope, nine or ten people in the long
+    building who are not the four men who run it, and a store at the north
+    end.* **He watches it from a bank for a morning and does not go in,
+    and the entry is** ***Same shape. Not going*** — *and he knows it is
+    not an argument and leaves it standing with no case under it.*
+  - **A family at Nunobiki** — ***named the price before he asked her age.
+    No.*** *What he is buying is a payment, and the girl is what he has to
+    have in the house to go on getting it.*
+  - **An indenture at a dyer's in Ōgi**, *real, seven years, a trade at the
+    end* — **and he nearly takes it and does not:** ***seven years is not a
+    door*** — *and, underneath:* ***I am not signing a paper that says a
+    length of time about her.***
+  - **⚠ SEN, A ROPE-WALK AT HAZAKI**, *widow of five years, a boy of nine
+    and a girl of thirteen, wanted hands since the eighth month.* **And
+    the order of her four questions is what decides it:** *hands, age,
+    strength, quality — and money fifth.*
+- **Two days at four hundred yards.** *The boy does a fifth of the work
+  and is not made to do more; the woman fixes the girl's mistakes without
+  saying; they eat the same thing on the same plates outside at noon;*
+  **and on the second afternoon the boy sat down for twenty minutes and
+  nobody came over** — *the one thing that cannot be arranged in advance.*
+- **And three people in the town, asked his own question from the sixth
+  month — not *what is she like* but *what does she pay*.** *She pays on
+  the day. The last girl cried when she went home, volunteered unasked.
+  And she is hard about the work and her husband was a nicer man and a
+  worse one to work for* — **which is a person telling the truth about
+  somebody they like, and he writes that one down twice.**
+- **⚠ HE LOOKS FOR THE FAULT FOR AN HOUR BECAUSE HE DOES NOT TRUST A THING
+  HE CANNOT FIND THE FAULT IN, AND THERE IS NOT ONE.**
+- **8,000 paid against 6,000 asked**, *and he finds the honest reason:*
+  ***the extra is not for her. It is so that I can stop looking.***
+- ***"There's a woman here wants hands. It's a year. It's paid."*** —
+  ***"All right."***
+- **⚠ AND IN NINE DAYS, FOUR CANDIDATES AND EIGHT THOUSAND RYŌ HE NEVER
+  ONCE ASKED HER.** *He notices six days later on a road.* **It had not
+  been on any list, because a list is a set of things that occur to you.**
+
+**⚠ SIX MILES — 18th to 24th**
+
+- **He comes out of Hazaki and finds out he does not know where he is
+  going**, *and it is the first time in nine months there is nothing at
+  the end of a road.* **Three days of kit, a mill he has no business
+  looking at, and eighteen thousand ryō on a wall.**
+- **She catches him on the 22nd and he knows for eleven minutes before he
+  looks.** *Forty yards. Hat, pack, boots.*
+- **Four options and no fourth thing** — *sending her back buys eight days
+  and the same fifth morning; a different door is the same answer; and
+  asking her produces an answer he cannot act on.* **And the last time
+  there was no fourth thing he went north.**
+- **⚠ SO HE STOPS AT NOON, PUTS HALF THE FOOD ON THE STONE BESIDE HIM, AND
+  DOES NOT LOOK BACK DOWN THE ROAD.** *Four minutes. She sits on the other
+  end and eats it. Neither says a word.*
+- **Six miles, and one exchange, about coppicing** — ***"That one's been
+  cut." — "Twice. There's a second line under the first one."*** — **the
+  first thing either has said to the other that was not work, an
+  instruction or a road, and neither notices.**
+- **He does not strike the line out.** *The whole reason he keeps the book
+  is that nobody reads it but him.*
+  > *24/1. Door found at Hazaki. Verified 2 days at 400 yds + 3 in the
+  > town. Paid 8,000 against 6,000 asked.*
+  >
+  > *Correct on every column I have got. Would do it again with the same
+  > information.*
+  >
+  > ***Entry not closed. The door was not the problem.***
+- **⚠ AND ONE LINE UNDER HER NAME**, *on a page that has had nothing on it
+  since 29/12 and still has no heading:*
+  > ***Will not stay where she is put.***
+
+**⚠ THE KANŌ FORD — 26/1, and the first canon impression**
+
+- **A man standing eight yards out on the upstream side of the bar, in the
+  first month, doing nothing**, *where you would stand if you wanted to
+  hold that ford alone — twenty yards of open water in front, both roads
+  visible, a slope behind.* **Four seconds to find it and he was already
+  in it.**
+- **Eleven minutes and he moves his head twice, both at the start, neither
+  for Tadayoshi.**
+- **⚠ *Something wrong about the right one. Cannot say what.*** *At four
+  hundred yards he has no business seeing it and he sees it, and it stays
+  in the sheets in that form for six years.*
+- **He goes round. Three hours, five miles, the last two on an open
+  shoulder in daylight.** *No debate in it:* ***a man standing in a river
+  in the first month is a man who does not feel the first month, and there
+  is nothing at the end of that sum.*** **And he is looking for anybody,
+  which is worse than looking for one person.**
+- **⚠ AND SHE HAS THE READING HE COULD NOT GET.** ***"He wasn't cold."***
+  *Dried above the water line and not below, so an hour; and standing
+  straight.* **She does the shape of a person in cold water in the road
+  for a second and a half** — *shoulders up, elbows in, chin down* —
+  ***"He was stood like a man in a doorway. For an hour. In the first
+  month."*** — ***"Why didn't you say?" — "You were working."***
+- **The third line on the sheets**, *and the last two of it are:*
+  > *Something wrong about the right one. Cannot say what.*
+  >
+  > ***And he was not cold. That is hers and I did not have it.***
+- **Three entries and not one name in the first column.**
+- **⚠ AND THE PRICE HE DOES NOT SEE.** *His own rule, eighth month, after
+  an afternoon with Hōki:* ***a boy walking is nobody. Walk.*** **True for
+  nine months and four hundred miles, and it stopped being true at twenty
+  past eleven on 17/12.** *Two children on a road are two children on a
+  road, and there is exactly one of that in this country.*
+
+**UZUKI — fixed**
+
+- **She has her shoes off in under two seconds and is thinking about it
+  before he turns round.** ***That is the fifteenth of the twelfth
+  month*** — *open, please; hands, both, at the right height without being
+  shown the height; nobody had to tell her anything twice.*
+- **⚠ AND THE FINDING SHE CANNOT GET RID OF:** ***what I have got is a
+  thing that happens to me before I decide anything… and I have not got a
+  way to tell the difference from inside.*** *It was worth a bowl three
+  times a day for forty-five days and she will not pretend she wishes she
+  did not have it.* ***I just would like to know where the edge of it
+  is.***
+- **⚠ AND NOBODY SAID WHAT IT COST.** *Four purchases, prices said to the
+  men, not one of them said to her, and the book open four feet away with
+  no hand over it.* **So it is not concealment. It did not come up.**
+- **The list of everything she has ever been given, and what was written
+  on the back of each one:** *the coat at the Kadono-dera (a number, and a
+  second column); the bowl (the thing on the paper still being worth what
+  it says); the mat and two blankets and a lamp (so she would keep); a
+  house with Kuriya putting a figure on the pans in it; a halter to hold.*
+  ***And I have just been given four things and there is nothing on the
+  back.*** **And she does not like it, and makes herself notice that she
+  does not.**
+- **The hat, with four answers prepared and none of them needed.** *Sixty-
+  eight days since the rain, about five inches, seven by the second
+  month* — **and a man somewhere with a measurement on a piece of paper he
+  took with his own hand.** *Third time a question has not arrived.*
+- **1,518, in her head, still no charcoal.**
+
+**THE INN, AND THE DOCKET**
+
+- **Two days in a room she was told to stay in**, *and she stays in it,*
+  **and by the third day arrives somewhere she has not been since the
+  fourth month:** ***I am bored.*** *And underneath it:* ***a person who
+  is bored is a person who is not being used for anything, and I told him
+  in a hall with six dead men in it that I would be worth having.***
+- **⚠ AND SHE IS BY THE DOOR FROM ABOUT TEN ON THE SECOND NIGHT AND CANNOT
+  FIND WHERE SHE PUT HERSELF THERE.** ***Because in the eleventh month the
+  door was the thing… and this one is not locked and I have got a knife
+  and I can walk out of it and I am sitting next to it in the dark.***
+  **He comes in at four, stops for half a second, and says nothing, and
+  she watches him not ask.**
+- **⚠ *"Who paid for it?" — "I don't know."*** *Twice out of nine — Kadoya
+  because he was in the room, and the ground because he was told.* **And
+  everything she knows about anything she got from watching who wanted
+  it.**
+- ***"You should have asked for more." — "How much more?" — "Four
+  thousand."*** *Made and not counted, and she knows it while she is
+  saying it.* **And he does not tell her she is wrong** — ***"The fee is
+  for who the man was." — "Is that a rule?" — "It's the only one I've
+  got." — "It's wrong."*** — **and he says nothing, and she finds out five
+  months later that he took it away to work on.**
+
+**⚠ INSIDE THE DOOR — 17th to 21st, and it is good**
+
+- **A bed with a frame; Nao, thirteen, who talks for forty minutes and
+  falls asleep mid-sentence about a cat; food twice on the same plates;
+  hemp, and the first blisters of her life that are not from a bucket.**
+- **Sen explains everything once and expects you to have it**, *and gives
+  her the far end of the walk on the second morning, which is the end you
+  give somebody when you have stopped watching them.*
+- **She reads Sen in a day and a half and it is easy.** ***I am worth a
+  pair of hands to her, and that is what she is getting, and there is
+  nothing underneath it. This is the best place I have ever been and it is
+  the only one where I knew the number on the first day.***
+- **⚠ AND ON THE FOURTH MORNING SHE STOPS DEAD IN A YARD WITH BOTH ARMS
+  FULL**, *because she is going fast on purpose.* ***Eight trips instead of
+  eleven. Four ranks under the eave. Fifteen days, fast, on purpose, so
+  that they would want to keep me. And it did not come off the number.***
+- **She is not frightened and has not been once in four days**, *so the
+  fear is not what is driving it* — **and the answer, which takes the rest
+  of the day:** ***because I am still doing the sums about somebody. And
+  it is not her.***
+- **The five doors and their five numbers** — *her mother's house, and it
+  changed in the seventh month and she felt it change; Shimoda's yard;
+  nine days at the almshouse and nothing till the tenth month of next
+  year; the Kadono-dera, for the blood and a second thing; and Hazaki, a
+  pair of hands at six thousand for the year.*
+- **⚠ AND THEN THE SIXTH, AND TWO HOURS OF GETTING NOWHERE.** ***I have
+  gone over the whole of thirty-six days twice and I cannot find what I am
+  for… and there is a person walking about with mine and I cannot read
+  it.***
+- **She goes on the fifth morning in four minutes, because everything she
+  owns is hers and fits.** *Nao asleep with one arm off the bed.* **She
+  waits to feel worse than she does and does not, and puts that down
+  properly rather than walk away from it** — ***I am sorry about her and it
+  is small*** — **and stops three seconds at the gate and Sen does not
+  turn round.**
+- **⚠ AND THE COLDEST THING SHE HAS EVER THOUGHT, AND IT IS ACCURATE, AND
+  SHE IS ELEVEN:** ***he is not going to ask me why I have come back… so I
+  am not going back to tell him anything. I am going back to watch him for
+  longer.*** *She did the bowl in four days off a chip in the rim.*
+
+**KIMIMARO — fixed**
+
+- **The door opens between bowls and he knows off the light under it**,
+  *which has done the same thing two thousand times and never broken in
+  the middle.* **He gets up, and there is no mechanism in him for
+  producing a second option.**
+- **He picks the four pieces up before he goes** — *the only thing that
+  morning that is his, done fast, without deciding* — **and puts them
+  inside his shirt at the waist, and nobody says anything, and he does not
+  know whether they did not see or did not care.**
+- **Eleven steps up, and light in a passage that is not lamp light, and he
+  stops for four seconds and nobody makes him move.**
+- **⚠ AND THE FIRST THING HE DOES OUTSIDE IS LOOK FOR THE WALL.** *All the
+  way round, on the spot.* **There is not one, and above all of it there
+  is nothing to hit** — *and the sentence has nowhere to go.*
+- **⚠ SO HE COUNTS, BECAUSE IT IS THE ONLY INSTRUMENT HE OWNS AND HE PUTS
+  IT ON THE LARGEST THING HE HAS EVER SEEN.** *He has bowls, which are how
+  long, and thumbs, which are how long a thing is in his hand, and neither
+  is a distance.* **So he makes a unit: the yard is one, the shape is four
+  thumbs against a hundred, and it is** ***twenty-five yards, where a yard
+  is the yard*** — **wrong by a factor he will not find out for two years,
+  got in under three minutes with a thumb, and he is pleased and has no
+  word for that either.**
+- **Fourteen people counted, and one of them smaller than him and
+  outside.** ***It stopped looking at me when it looked at him.***
+- **One bowl at the end of the day from a different arm.** *The amount is
+  holding. The times have gone.* ***The amount is a thing about the
+  person. The times were a thing about the building.*** **He files it as
+  an anomaly and is wrong about that for nine days.**
+
+**⚠ AND THE INSTRUMENT BREAKS**
+
+- **The bowls come — he is careful about that, because a hungry person
+  will tell himself the food has stopped when it has only moved** — *and
+  they come at no time at all.* ***In the room the man had a round to do
+  and I was on it. Here I am a thing somebody remembers. And a thing
+  somebody remembers is not a clock.***
+- **⚠ SO THE NUMBER SURVIVES IN A UNIT THAT HAS STOPPED EXISTING.** *Nine
+  hundred and three, seven times at a half each, ninety-five done and
+  thirty-four to go, and he does not know how many days ninety-five bowls
+  is any more.*
+- **No despair, and it is not a virtue** — *despair requires a picture of a
+  future being taken away and he has one number and no calendar.* **What he
+  has is the flat unpleasantness of an instrument broken in the hand,
+  which he has felt once before, in the sixth month.**
+- **Three replacements, all failing for a stated reason.** *The light is
+  the hour hand and he has lost the other one. The noise is people and is
+  not regular, and he is counting it in order to make a clock —* ***that
+  is a thing that eats itself.*** *And sleep cannot be done, because* ***you
+  cannot measure a thing from inside it.***
+- **So he measures the room, four times over, in two days.** *Eleven paces
+  by seven; the floor drops a thumb toward a drain in the north corner;
+  the door one and a half paces from the east corner, opening inward,
+  hinge away from the drain; a gap high on the west wall about four thumbs
+  by eleven; the ceiling a foot above his hand, got by throwing a piece of
+  the floor at it and listening, nine goes.* ***I have got the exact size
+  of a room and I do not know what day it is*** — **and the nearest thing
+  to a joke that has ever happened in his head, unrecognised.**
+- **⚠ AND SOMEBODY SPEAKS TO HIM.** ***"Cold enough for you?"*** *He takes
+  it as a question because it has the shape of one, spends two days
+  building a true and checked answer — he can see his breath and could not
+  in the room, his hands are worse in the morning and better by the
+  middle, and cold does not seem to be in the growth rate — and carries it
+  for eleven days.* **Nobody asks him again.** *It was the first thing he
+  had ever prepared to say to another human being.*
+
+**OPEN INTO CHAPTER 14**
+
+1. **A household of two that neither of them agreed to**, and two open
+   entries about each other that neither knows about.
+2. **8,000 in Hazaki, spent, with no child in it**, and *Will not stay
+   where she is put* under a name on a page with no heading.
+3. **The fees are down and the gaps are long and he has decided it is the
+   turn of the year**, with the *made and not counted* mark beside it.
+4. **A third line on the sheets, three entries, no names** — *and a man
+   who did not turn his head and did not feel the first month.*
+5. **⚠ Two children on a road are not nobody**, *and only the reader knows
+   it.*
+6. **She has said *it's wrong* about the only rule he has**, and he has
+   taken it away to work on.
+7. **Kimimaro has nine hundred and three in bowls, and no bowls.**
+8. **⚠ CH14 IS THE SUBSTANCE CHAPTER** *(`method-delta.md` §2l)* — **a
+   courier run, nine days, two children on a road, and the plot does not
+   move.**
