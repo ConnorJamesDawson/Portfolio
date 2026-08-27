@@ -382,10 +382,34 @@ version where it never gets turned around.
 | **The Asuma ammunition** | **AUTHOR: Uzuki hands it to her** — the worse answer. *She reads people, she cannot not say what she sees*, **and she gave a shy girl a weapon to use on the one adult who was reaching her** |
 | **The narration** | **follows from the POV and needs no separate rule.** Uzuki's interior is warm because *she* is warm. **The cold belongs to the reader and arrives late** |
 
-**STILL OPEN: Naruto.** *Does he ever find out, and does the book give him
-a reaction?* **Not needed yet — and §2c says the interval gets written
-before the beat**, so it must not be answered at the moment it is first
-required.
+### 4.10 ⚠ NARUTO — RULED, and the question was empty
+
+> **AUTHOR: he would not really care. He is still after Sakura until
+> after the Pain arc.**
+
+**So there is nothing for him to find out and nobody to notice.** *At the
+time this happens, Hinata's love is factually unrequited* — **and that is
+precisely why Uzuki's argument cannot be answered.** She is not taking
+something Hinata has. **She is taking a hope**, and every observable fact
+in the world supports her reading of it.
+
+> **Which makes the canon bill much smaller than it was priced at**
+> (`falsified.md`, strains table, corrected). *Nothing is disturbed at the
+> moment of disturbance.* **A thread nobody is pulling.**
+
+> ## ⚠ AND THE COST IS DELAYED AND UNFALSIFIABLE — PROPOSED
+>
+> **Canon's Naruto does turn toward her, after Pain.** *So if the Konoha
+> book runs before that, Uzuki is right on every piece of evidence
+> available at the time* — **and the evidence changes afterwards.**
+>
+> **The thing she was correct about stops being true.** *And nobody can
+> ever call it a wrong, because at the time it was a fair reading of the
+> facts,* **which is the only kind of harm this book is interested in.**
+>
+> **PROPOSED — it depends on where the Konoha book sits relative to Pain,
+> and that is not ruled.** *Needs a decision before the thread is drafted,
+> because it decides whether the thread has a floor under it or not.*
 
 ---
 

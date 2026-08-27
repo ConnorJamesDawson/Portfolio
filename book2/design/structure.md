@@ -835,6 +835,56 @@ for**, and he would not notice for years because he files effects and
 never causes.* **That is either the best irony in the book or too neat.
 Needs ruling.**
 
+### ⚠ THE EYES ARE AN ABSOLUTE SECRET — AUTHOR
+
+> **AUTHOR: they stay an absolute secret until they do not have to be.**
+
+**And note the criterion, because it is not remorse.** *`character.md`:
+he withholds for advantage, and it was taught to him by his mother.*
+**He does not confess the eyes. He stops bothering to hide them, at the
+point where hiding stops paying** — **an operational decision that
+everybody else in the room will read as a confession.**
+
+**⚠ PROPOSED — what makes hiding stop paying.** *He is out of reach; or
+the secret is already out; or he no longer needs Konoha's goodwill.*
+**Needs ruling, because it decides whether the Tsunade scene is a choice
+or a cornering.**
+
+> ## ⚠ AND THE SECRET AND THE CAPABILITY ARE IN DIRECT TENSION
+>
+> **`combat.md` §10c: novelty is worth one fight. After that it is on a
+> sheet.** *The eyes are the ultimate one-use card* — **the first person
+> who survives seeing them writes it down**, and it is not a technique
+> that can be mistaken for anything else.
+>
+> **So he takes the eyes to survive and then cannot spend them without
+> ending the secret**, and hoards them, **which is §10c at maximum on the
+> one thing he can never rebuild.**
+>
+> **PROPOSED, and derived rather than invented:** *a man who suddenly
+> covers one eye is a man with something under it.* **Concealment is
+> itself a specification handed to the hunters** (§10), so **there is no
+> configuration where the eyes are free.**
+
+### ⚠ AND HE TELLS NARUTO TO HIS FACE — AUTHOR
+
+> **AUTHOR: Naruto would not care about Hinata — he is after Sakura until
+> after Pain. About Sasuke, most definitely. And Tadayoshi is the one who
+> tells him, to his face.**
+
+**Which is the same instinct as the Tsunade scene and it is not courage.**
+*He cannot lie, he has never been able to, and he reports.* **He would
+consider not saying it a form of withholding he has no advantage from**,
+and he would be right, and it would not occur to him that walking up to a
+boy to tell him you killed his best friend is a thing a person might
+choose not to do.
+
+**⚠ OPEN — ordering, and it changes the shape.** *Telling Naruto about the
+kill and revealing the eyes are two separate acts.* **If they are
+separate, Naruto learns about the eyes later, from somebody else** — which
+is unbearable and is probably better. **If they are one scene, he is
+standing there when the Hokage finds out.** *Not deciding it.*
+
 ### TIMING — RULED, with one age corrected
 
 > **AUTHOR: next book, during the Shippūden timeskip.**
