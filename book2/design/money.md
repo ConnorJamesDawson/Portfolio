@@ -59,7 +59,7 @@ without being told.
 
 ---
 
-## 4. ⚠ THE ONE FIGURE THAT IS NOT MINE TO SET
+## 4. ✅ THE DROP — RULED
 
 **What is a two-course drop worth?**
 
@@ -68,7 +68,7 @@ worth to Kiri, and what Tadayoshi's craft earns him for three books.* **It
 is the most load-bearing number in the world-bible and it should be
 ruled rather than derived.**
 
-**PROPOSED, worked from the household:**
+**Worked from the household, and now ruled:**
 
 - **Eight people at the compound, on degraded output** (`spec.md`), poor
   but not starving. **Subsistence for eight ≈ 12,000 ryō a month.**
@@ -83,9 +83,9 @@ ruled rather than derived.**
 > do. **That is the Ruri position, in one line, and it is why the tin
 > matters.**
 
-**⚠ NEEDS RULING.** *If the drop is worth more, the family were
-comfortable and the decline is steeper. If less, they were already at the
-edge before the warrant.*
+> **AUTHOR RULING: 60–70 a drop is fine.** *Two-course, 60–70 ryō.
+> One-course, 15–20.* **Fixed. It is now the figure the tin, Mikage's
+> prison output and Tadayoshi's own earnings are all derived from.**
 
 ---
 

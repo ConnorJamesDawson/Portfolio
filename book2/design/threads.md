@@ -3941,4 +3941,417 @@ counting is five days behind her in a brick house** |
 6. **Nobody at the Kadono-dera knows about her hands, and Tokuji kept the
    condition.**
 7. **The fourth piece is coming back and there is no result yet.**
+### C11 — Chapter 11, "What It Was For". Month 12, the 2nd to the 17th.
+### 11 scenes, 17,820 words. T×7 (68%) · U×3 (24%) · K×1 (7%). END OF ACT ONE.
+
+**THE EVENT — 3/12, below Ide's mill**
+
+- **It was not his job.** *Ono, about forty, eleven runs, had stopped
+  looking at it. Sada, about twenty-two, had been on it twice.* **He was
+  the carry.**
+- **Four costs, and one of them was his:** the pickup three hours late
+  (*a boat two hours late is a different situation*); **the barn above
+  Kamado watched — a horse in the lower field that had not moved** — which
+  cost the Yatabe cut and two and a half miles and **took the barn and the
+  road under it off the map for good, making twelve**; **his own water,
+  finished before the last climb**, against four things Hōki taught him in
+  the tenth month; and **two hours bought by being right at the Nunobiki
+  fork**, early and quietly and to the man who could act on it.
+- **Twenty-eight and a half hours awake.** *He had not read the ground
+  since the fork.* **Two hours is not a lapse. Two hours is a habit
+  stopping.**
+- **Six at noon on the open stretch, and not hunter-nin** — *they came in
+  a line and one shouted before he was in range, and six is what you bring
+  for two men and a boy.* **So somebody sold the run, and the boat was not
+  late, it was waiting.**
+- **⚠ HE WAS WINNING WHEN IT BROKE.** *Two down at four minutes, one of
+  Ono's at ten, three left and two backing, Ono fine, Sada cut and up.*
+  **There was no moment. There is supposed to be a moment.** A seventh out
+  of the east scrub at nine feet, **the seal came apart in the right hand
+  — the hand that does not close all the way** — and he went over
+  backwards across the crate.
+
+**THE RECONSTRUCTION — and the object is an absence**
+
+- **The light had moved eleven feet up the far bank. Between two and three
+  hours, written as two and a half and marked an estimate.**
+- **Eight.** *Four his from before the eleven minutes; two in the same
+  stands with no way to date them (**a fence does not have a clock on
+  it**); one Ono's; one on the road with his throat open and no crystal
+  near him.*
+- **SADA IS IN THE MIDDLE STAND**, which went in at two minutes, which
+  Sada was told about and had gone round twice.
+  > **Nobody goes into a fence they have been told about. They go into it
+  > when the thing behind them is worse than the fence.** *And he does not
+  > know what was behind him and there is nobody left to ask.*
+- **⚠ ONO WAS KILLED WITH HANDS, AND IT CANNOT BE RESOLVED.** *Either one
+  of the six did it and he then killed that one — the man on the road with
+  the open throat — or he did it and then killed that one, and there is
+  nothing on that ground that separates them.* **He went over it four more
+  times across two days.**
+- **He nearly had a discriminator and it died well:** *anything laid after
+  would not have been specified, so anything that does not ring went in
+  after.* **He tapped every stand on that road with his thumbnail, one
+  after another, with eight people on the ground around him. Every stand
+  rang.** *So either nothing after — or it is not on this road.*
+- **⚠ THE STAND ON THE BANK.** *Thirty-odd yards up the east side, past
+  the man who had gone up it, in a place he had no reason to be.* **About
+  the size of a dog. A base, a middle, eleven or twelve arms at angles
+  that were nearly the same and were not. Seated into the ground the way a
+  tree is seated. Warm at the base and not at the ends.**
+  > **AND IT DOES NOT RING.** *Base, flat, and the thin end of an arm the
+  > thickness of a finger — a dead knock, like knocking on a beam.*
+  >
+  > ***That is the second one. And the first one is on my hip, and I wrote
+  > down that it was the thickness, and this has arms on it the thickness
+  > of my finger.***
+- **He broke a piece off the end of an arm** — *it came away more easily
+  than it should have, about the length of his thumb* — **and carried it
+  inside his coat with nothing round it and no word for what it was.**
+- **⚠ THE FIRST QUESTION MARK IN THE BOOK:** ***Did that stop me?*** *He
+  does not know that is what stopped him; he inferred it from where the
+  stand was and where he was.* **He looked at the question mark for a
+  while and did not take it off.**
+- **Nothing is written from inside. The whole of it is reconstruction and
+  could be wrong.**
+
+**THE WRITE-UP — 4/12 to 6/12, Ōtoma**
+
+- **He walked the crate back and thought about leaving it six times.** *A
+  boy who comes back with it has said the only thing about the job that
+  can be established by looking.*
+- **Hōki got a chair and took it from the boat. Two hours forty.** *He
+  left nothing out, and that was the mistake, and he did not find out for
+  a fortnight.*
+- ***"And I cannot resolve Ono."*** **Given flat, unprompted, with both
+  readings side by side and no preference marked.** *He expected to feel
+  something at the end of it and did not.*
+- **HŌKI ASKED TWO AND STOPPED VISIBLY SHORT OF THE THIRD.** *(1) Was the
+  boat late or waiting — **waiting**. (2) Where were the two stands when
+  the crate went down — **not where I was**.* Then: *"Where were Ono and
+  Sada?" — "That's a third one." — "It is," said Hōki, and stopped.*
+  > **Two readings and he closed neither:** *do not answer that in front
+  > of anybody*, or *that is the question they will ask about you and I am
+  > not the one who is going to ask it.*
+- **⚠ NOBODY USED A WORD, BECAUSE THERE IS NOT ONE.** *He heard the shape
+  four times in three days, twice from people who did not know he was
+  next door:* ***a boy who came back on his own*** — **said in the tone
+  you use for a nuisance to arrange around, which told him it had happened
+  before and there was a way of handling it that needed no word.**
+  > ***They are not frightened of me. They are working out where to put
+  > me.***
+- **HIS NAME CAME OFF THE ROSTER BOARD.** *Not moved. Not blank. Off.*
+  **He asked nobody, which is the only thing that month he was later
+  pleased with.**
+- **Two throwables had gone soft and were four days past date** — *he had
+  missed the morning of the second, the first miss since 20/10* — **and he
+  entered it under the wrong heading and did not move it.**
+
+**THE DOCKET — 8/12**
+
+- ***Kadono-dera. Four days NE of Ōgi. Two crates, sealed, weights on the
+  receipt. Collect and return. No return required.***
+- **⚠ THE HAND.** *He knows it and cannot place it — the r comes off the
+  top and goes below the line, four times out of four.* **Not Ōtsuka, not
+  the standard hand, not one of the four off the eastern sheets.** *He
+  asked for the box and was refused, in a tone that said do not ask
+  twice.* **Entered: *I do not know why I cannot have the box.***
+- **He argued the dating in the yard, in front of two people** — *nine
+  days out for a nine-day journey one way* — **and Ōtsuka changed it to
+  eighteen in six seconds without arguing.**
+  > **Which is worse, and he got it on the road on the tenth:** *he did
+  > not care what the number was, so the number was not the point of the
+  > docket* — **and the fastest way to make a boy who is correct go away
+  > is to give him the thing he is correct about.**
+  >
+  > ***So knowing it is not enough. Knowing it is not a method. I have
+  > known it for a fortnight and I did it again on the eighth.***
+- **He packed everything and had spent none of it.** *The blade, drawn
+  eleven times alone and never in front of anybody; eleven throwables,
+  never thrown; half seals, forty-nine days old, never used on anybody
+  trying to kill him.*
+  > **And the hole in the doctrine, written in the same book:** ***on the
+  > third I spent something. I do not know what I spent. There is a piece
+  > of it in my coat.*** **So the hoard is what is left over after
+  > whatever that was helps itself.**
+- **HŌKI, in the yard, unprompted:** ***"That thing you brought back off
+  the bank. Don't show it to anybody." — "Why?" — "Because I don't know
+  what it is, and neither do you, and you're the only one of us that's got
+  one."***
+
+**THE ROAD — 9/12 to 13/12**
+
+- **Three towns off the route** — *Nunobiki (a man at the north gate),
+  Sakabe, and Fukae, which is the bridge, which is eleven miles* — **and
+  it cost thirty-four hours.**
+  > **It is not that they are close.** *Nobody has been within four days
+  > of him since the fifth month.* **It is that he pays, in hours, every
+  > week, in advance, for a thing that has not happened — and the payment
+  > goes up every time he is seen anywhere and never comes back down.**
+- **The hand: four hours, four and a half, five, before rain.** *A series,
+  underlined, unfinished.*
+- **Half seals: eleven more goes, nine held, two duds. Two in eleven.**
+  *Written beside the two hundred and nine with both sample sizes:* **a
+  number off eleven goes is an opinion with a decimal point on it** — *and
+  he noted that he wanted it to be the better number, which is a reason to
+  distrust it and not a reason to throw it away.*
+- **⚠ BORED, INSULTED AND RESENTFUL, for five days, with nowhere to put
+  it** — *and he could see the whole mechanism from outside:* **not a
+  judgement, because a judgement has a reason you can argue with.** *Being
+  put down somewhere.* **He wrote it in three words with the date and
+  underneath it: *this is the condition in which people do stupid things.***
+- **The piece from the bank: nine days and unchanged. No dulling, no dust
+  at the break.** *Two things now — one made wanting something, one made
+  not being there — and nobody to ask.*
+
+**THE KADONO-DERA — 16/12 and 17/12**
+
+- **Tokuji: *"Have you eaten?" — "I'm here for two crates." — "That's not
+  what I asked you."*** *He ate on the step at a quarter past eleven and
+  was not asked his name and nobody looked at his hands.*
+- **The job was nine minutes and every second of it was correct:** *same
+  seal on both, right-handed rope finished the same way (one person, one
+  time), chalk matching chalk and chalk matching paper, and the near crate
+  lifted four inches to check the weight was where the weight said.*
+- **⚠ HE WAS GOING TO LEAVE.** *He took the offered bed and was going at
+  first light. Nothing was going to happen at the Kadono-dera at all.*
+- **⚠ WHAT STOPPED HIM WAS BOOKKEEPING, at four in the afternoon, dating
+  his own half of the receipt: 411 and 406.** **Eight hundred and
+  seventeen pounds. Four days to Ōgi, nine to Ōtoma, one man.**
+  > *Ten loads. Ninety days of walking, or nine men, or a cart — and it is
+  > not a cart road; there are stone steps at the turn.*
+  >
+  > **So the docket is not wrong about the days. The docket is wrong about
+  > the job.** *He ruled out incompetence three ways: the chalk matched
+  > the paper (two errors in two media); the seals and rope were one
+  > person's work; and three trips is fifty-four days, not eighteen.*
+  >
+  > **He concluded nothing.** *He got as far as **the sheet describes a
+  > job that cannot be done and was written in a hand I have seen**, and
+  > the only operational line under it:* **tomorrow I have to have a
+  > conversation with the man who signed the receipt, and I would rather
+  > have it having looked at the building first.**
+- **Ways out, not ways in** (Hōki, tenth month): hall two doors and a
+  shuttered west window; long building three doors, nine or ten people and
+  a child; kitchen and store one door; wood store, four ranks under the
+  eave, **stacked in an order that had been thought about, better than it
+  needed to be.**
+- **⚠ AND FOUR STONE STEPS AT THE NORTH END WITH A DOOR AT THE BOTTOM.**
+  *He counted the ways out — one — and stood four seconds longer than the
+  count needed.* ***There is no earth on the steps. They are swept.
+  Somebody goes up and down these four times a day.*** **He went to bed
+  and did not go back out.**
+
+**THE MORNING — 17/12**
+
+- **He raised the weights correctly, at the right volume, to the right
+  man.** *"The crates go in the spring. There's a cart comes up from Ōgi
+  when the pass takes one."* — *"Then why have I signed for them?"* —
+  ***"Because you're the courier, and the courier signs."***
+- **⚠ ENKAI EXPLAINED, AND THERE WAS NO CRUELTY IN IT ANYWHERE.** *A cart
+  is watched and a man is not. The twelfth month is best because the roads
+  are empty and nobody is counting. A boy is better than a man because two
+  people on a road in winter are a father and a child and nobody has ever
+  asked a father anything. The buyer's man walked four days on the
+  fifteenth to confirm the item was as described. Priced on 28/10 and held
+  since, and holding costs.*
+  > ***He is doing what I do. The road, the cover, what the weather buys,
+  > what the waiting costs. I have got four pages of that in my coat.***
+- **TOKUJI, LOUDLY, FROM THE DOORWAY** — *the only raised voice in that
+  building in nine weeks:* ***"She's been down there since the second of
+  the eleventh."*** **Enkai: *"Get them out of the long building."*** —
+  eleven minutes, quietly, and believed, because that is what people do
+  when the man who has fed them for a fortnight tells them to go and stand
+  by the wood store.
+- **The offer, with no pressure in it:** *take the consignment and be paid
+  what the sheet says, or decline and he writes to the man who sent you
+  and it costs him nine weeks.* **And the last thing he said was true:**
+  ***"There's no third thing. You'd have done the same arithmetic."***
+- **⚠ AND THERE IS NO SENTENCE BETWEEN THAT AND THE FLOOR.**
+  > **Two seconds. No blade, no seal.** *He was sixty and clerical and had
+  > never been required to be anything else.* **The table went over once,
+  > sideways, with the book on it.**
+  >
+  > **HE WAS PRESENT FOR ALL OF IT** and can give the account entire, then
+  > and at eleven and at fifteen and at nineteen. ***And he does not have
+  > a reason for the last two seconds***, and he has four hundred pages of
+  > reasons for everything else.
+
+**THE STEPS, AND THE UNDERTAKING**
+
+- **The bolt was on the outside, and it was a bolt and not a lock, and it
+  went back easily because it goes back four times a day.**
+- **She was on the fourth step with both hands flat on the inside of the
+  door.** *He never described her to anybody; asked at fourteen, he said
+  **she had her hands on the door** and did not add to it.*
+- ***"Was that you?" — "Yes."*** *The first true thing between them, and
+  it is an admission.*
+- **⚠ HE DID NOT DECIDE.** *He stood at the top of four steps waiting for
+  the finding that had never once failed to arrive — a workshop at eight,
+  a riverbed at ten, a bank above Aku in the ninth month — and it did not
+  come, and he went on standing there.*
+  > ***He did not save her. He failed to go.***
+- **She came up on her own.** *He did not put a hand out; she did not ask
+  for one.* **Sacking with four columns, about three hundred and ninety in
+  a bag, two shoes that did not match.** *"Where have they gone?" — "The
+  wood store." — "All of them?" — "I think so." — "Right."* **Everything
+  at once, in order, and the questions in the order she needs them and not
+  the order they happened.**
+- **THE TERMS, on the road below the beds, at about noon:** ***"I'll get
+  you to a door. There's a place four days south of Ōgi that takes people.
+  I'll get you to it and that's what this is. It isn't anything else."***
+  — *"All right."* **Neither of them ever renegotiated it, which is the
+  only reason it worked.**
+
+**⚠ THE FALSE ENTRY — and it is the first of his life**
+
+- **Four miles down the mountain, at a fire, with her asleep on the other
+  side of it.** *Eight accurate lines, unsoftened, including **no fee**,
+  **client deceased**, and **the consignment was the item**.*
+- **And then a line that had to have a reason beside it, because a line
+  without one is not an entry, it is a complaint, and he does not keep
+  complaints:**
+  > ***Undertaking given. Get her to the door at Kasagi. Cost: nothing.
+  > Reason: the client is dead and the job is void and she was the job.***
+- **Not one part of the reason is true, and he knew it while he was
+  writing it, and wrote it anyway.** *He has never been able to lie out
+  loud, to anybody, and stopped minding at about nine.*
+  > **The first thing he ever wrote down that he knew was false, and he
+  > did it because the alternative was four minutes with an empty column.**
+- **He kept the receipt** — *signed, dated, marked, for eight hundred and
+  seventeen pounds going down in the spring on a cart, for a client on the
+  floor of a hall four miles above him* — **and did not know why, and did
+  not write that down either.**
+
+**UZUKI — the cellar, 1/12 to 17/12**
+
+- **The building filled from the second: nine by the sixth, and she was
+  under all of it.** *"How many now?" — "Six." — "Is it the winter ones?"
+  — "It's the twelfth month."* **The sentence that was the best news of
+  her life in the tenth month.**
+- **She chose a reading on the seventh, knowing she was choosing, with no
+  new information** — ***nobody came, so it fell through*** — **and she
+  was wrong, and wrong because of the two readings she took the one she
+  was in.**
+- **THE CHARCOAL RAN OUT ON THE NINTH** and there was nothing in the room
+  to mark with. *She worked out what to keep: the ninety is dead, the
+  money has not moved, the fourth column has one line and it has gone
+  past.* **The third column is the only one that changes — so it goes in
+  her head, which she did for a fortnight on the road and hated.**
+- **She started counting the building instead** and by the fourteenth
+  could have drawn the long building from underneath: **nine, four north
+  and five south, and the two on the south corner are together and one of
+  them is a child.**
+  > **And the child undid her**, because the child arrived in the ordinary
+  > way and is upstairs. ***It was not what she had done. It was what she
+  > had on her head*** — *she was useful for fifteen days and it did not
+  > come off the number.*
+- **THE INSPECTION, 15/12.** *A younger man, four days' walk that
+  morning, a coat dried on him, no satchel, coat not taken off.* **He
+  opened the book on a page that already had writing on it, and looked
+  and then looked at the page and not the other way round** — ***so he is
+  not the one who is buying; somebody has a paper written on 28/10 and he
+  has come to see whether it is still true.***
+  > **Teeth, hands, hair, in that order.** *Teeth: one thing written.
+  > **Hands: nothing written**, because six weeks on a mat have taken the
+  > wood off them and better is what he wants and better is not a change.
+  > Hair: he measured it against his own hand, thumb to finger, and wrote
+  > **two**.*
+  >
+  > ***I have been getting more expensive on a mat. It went up while I was
+  > asleep and it goes up tomorrow.***
+- **⚠ AND SHE HELPED HIM.** *Open, please, and she opened. Hands at the
+  right height without being shown the height. Two fingers turning, and
+  she turned, and waited, and turned back — and nobody had to tell her
+  anything twice in eleven minutes.*
+  > **A hundred and twenty-nine bowls in forty-three days, the same amount
+  > every time, never once missed.** ***So there is a way to be that keeps
+  > the bowl coming, and I have been learning it since the second of the
+  > eleventh month without being taught it.***
+  >
+  > ***I am better at this than I was.*** **And it is not because I am
+  > braver. It is because I have had practice.**
+  >
+  > **And after he went out the bowl came at the ordinary time** — *which
+  > means the bowl was never about her being all right; it is about the
+  > thing on the paper still being worth what it says.*
+
+**THE MORNING, from underneath — 17/12**
+
+- **⚠ THE BOWL DID NOT COME.** *First time in a hundred and thirty-two
+  bowls across forty-four days.* **The door was locked.**
+- **She reconstructed it off the building:** *somebody came back in and
+  went along the north end fast, and in nine weeks nobody has gone along
+  the north end fast.* **Then voices — fewer people making more sound.
+  Then a raised voice, which she had never heard in that building. Then a
+  lot of feet going out at the south end. Then two people not moving.
+  Then nothing.**
+- **⚠ AND THE NOTHING WAS THE WORST PART.** *There has not been one hour
+  of quiet in the daytime since the second.* **The building had been the
+  only clock she had left, and the building stopped**, and she could not
+  even get the two readings to be opposite, because she had one end of it
+  and no middle and no other end.
+- **SIX WEEKS OF ONE RULE, never said in words:** ***do not make them come
+  down here*** — *the best outcome available in a root cellar is that
+  nobody thinks about you, and she had been very good at it* — **and the
+  rule had been for a building with people in it.**
+- **She did not decide.** *A thing came up out of the middle of her that
+  had been down there since 17/9 and used the only word it had.*
+  > ***"Help."*** **Once. Not loudly. Not a shout and not a scream, and
+  > she heard how small it was in a stairwell with a door at the top of
+  > it, and did not say it again.**
+- ***Nobody knows where I am. Not one person in the world.*** **Written
+  under a bridge at Ōgi in the ninth month, never put on the bag, still
+  true, and true for eighty-eight days.**
+- **Then something went over above her, once, and not again** — **and she
+  understood, entirely and far too late, that she had spent six weeks
+  getting extremely good at not being thought about and had undone the
+  whole of it with one word**, *and had no way of knowing whether that was
+  the best or the worst thing she had ever done.*
+
+**KIMIMARO — the fifth**
+
+- **Two came in; one was the light step that comes about every eleven
+  bowls.** *The looking took as long as it always takes. No questions.*
+- **They talked above him for a minute and a half about a road that was
+  better than it had been, and a pass that would take a horse now, and
+  somebody who was slow and had been slow before, and that the crates were
+  the crates.** Then: ***"The fifth, then." — "The fifth."***
+- **⚠ HE DOES NOT KNOW WHAT THE FIFTH IS THE FIFTH OF.** *He has never
+  known what month it is. Three counts and none of them attached to a
+  name.* **So he cannot count to it — and that is where it turns:**
+  ***if I cannot count to it, then it is going to arrive on its own. And
+  it is going to arrive.***
+  > **Two people stood in his room and said a thing about a day, and
+  > neither was talking to him, so he could not have been lied to.**
+  > ***Somebody has decided something.***
+- **⚠ AND THE RELIEF WENT THROUGH THE WHOLE OF HIM.** *It took the ache
+  out of his back and he stood up in the dark, which he had not done in
+  months.* **He has no idea what a sale is — he has heard the word perhaps
+  twice and it went past with the weather.**
+  > **He was twelve years old and the best news of his life was that he
+  > had been entered on a list.**
+- **He restarted the count he had stopped on purpose at nine**, knowing
+  exactly why he had stopped it. ***One. And it is not my number. It is
+  theirs. I am just counting along it.*** *Then: Two.*
+- **HE HAS NO DATE HE CAN FIND. She had one and it was wrong.** *Neither
+  will know the other existed until they are in the same house.*
+
+**OPEN LOOPS INTO ACT TWO**
+
+1. **Ono, unresolved, permanently.** *And Sada knew where the stand was.*
+2. **The thing on the bank, and a piece of it in his coat.** *No note, no
+   theory, a question mark in the book, and Hōki telling him to show it to
+   nobody.*
+3. **The hand on the docket**, unplaced, and the box he was refused.
+4. **A ledger with a false entry in it**, and he knows it is there.
+5. **A dead client, no fee, a signed receipt he did not throw away, and no
+   report made.**
+6. **A door at Kasagi, four days south of Ōgi**, and an undertaking to get
+   her to it.
+7. **Kimimaro is counting along somebody else's number toward the fifth.**
+8. **Kajiya has not been seen since 2/8.**
+9. **Anomaly four**, which he did not expect to close, and did not.
+
+
 
