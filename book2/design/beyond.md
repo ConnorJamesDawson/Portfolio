@@ -300,48 +300,141 @@ lines:**
    *the exact register Uzuki uses about Tadayoshi.* **She has not only
    taken the argument. She has taken the grammar of belonging.**
 
-### 4.7 ⚠ WHAT IT COSTS — and Uzuki does not pay it
+### 4.7 ⚠ TADAYOSHI'S PART IN IT — which is none, and he is pleased
 
-**Per §1a, the gain gets a price. This one lands on other people.**
+> **AUTHOR: it is Uzuki's project, not his. He does what he did with her
+> at the start — accepts it without complications. He sees she has
+> somebody other than him and is happy for her. He is a bit weirded out
+> that his *girlfriend* went out and found him another one.**
+>
+> ***Which is what normal people would kill for, and he has no clue what
+> to do with it.***
 
-1. **⚠ TADAYOSHI DOES NOT WANT HER.** *The entire acquisition is built on
-   a valuation of what he needs* — **and he cannot accept a person,
-   because accepting one means saying what they are for** (`combat.md`
-   §11d). **He files it and does nothing.**
-   > **So it succeeds completely and lands on a man with no use for it**,
-   > and now there are **two** girls organised around somebody who cannot
-   > reciprocate. **`team.md` §7, run once more, with a recruit.**
-2. **HINATA IS NOT KIMIMARO.** *She can think.* **The instrument Uzuki
-   gave her — question the premise, follow it wherever it goes — works in
-   both directions**, and there is no version where it does not
-   eventually get turned around.
-3. **AND NOTHING IS TAKEN FROM UZUKI AT ALL.** *She is happier, more
-   capable, better connected and better regarded than at any point in her
-   life.* **That is the honest and horrible shape of it: the thread's
-   price is paid entirely by people who did not choose it.**
+**And there is a hard practical reason he stays out of it**, which is not
+squeamishness: **if it ever came out that HE did anything to a Hyūga
+heiress, he would be hunted like no tomorrow.** *He holds an amnesty, not
+a citizenship.* **It is revocable, he knows it, and anything he touches
+politically ends him** — a standing constraint for the whole Konoha book,
+**and it is a situation rather than a limit on the man.**
 
-### 4.8 OPEN — and these are narrower now
+> ## ⚠ AND HE RECIPROCATES. IT JUST DOES NOT LOOK LIKE ANYTHING.
+>
+> **`team.md` §10.4 had this right and it got contradicted twice**
+> (`falsified.md` #22): *he stops correcting the word **to keep her
+> happy**, and it is the closest he comes to affection in the book.*
+>
+> **Acceptance is his currency.** *He does not say things. He stops
+> objecting* — **and from the boy whose entire moral architecture is
+> accurate entries, declining to correct the record is the largest thing
+> he owns.**
+>
+> **AUTHOR: *their relationship falls into the reality by Tadayoshi's
+> acceptance.*** *It is not a thing he fails to say. It is a thing he
+> does, repeatedly, at cost* — **and she reads it correctly, because she
+> is the only person alive who has spent six years learning how.**
+>
+> **So it is real, and legible to exactly two people**, one of whom will
+> not say so and the other of whom says everything.
 
-1. **⚠ POV.** *Whose head are these scenes in?* **In Uzuki's, the reader
-   gets her sincerity, which is the most damning thing available. In
-   Hinata's, the reader gets relief and gratitude, which is worse.**
-   **Either way it makes Hinata a fourth thread**, which the current
-   book's three-POV rule does not have room for and the Konoha book might.
-2. **⚠ AND THE NARRATION HAS TO BE WARM.** *This book's register is cold
-   and files things.* **If these scenes are narrated at the usual
-   temperature the reader smells it in chapter one and spends the book
-   waiting** — **so they have to be warm on the page and cold only in
-   retrospect**, and that is a real departure from `method.md` that wants
-   deciding rather than discovering.
-3. **⚠ NARUTO.** *Does he ever find out, and does the book give him a
-   reaction?* **Not needed yet. But §2c says the interval gets written
-   before the beat**, so it should not be answered at the moment it is
-   first required.
-4. **⚠ THE CANON BILL.** *This peels canon's endgame pairing.* **It wants
-   pricing in `falsified.md`'s strains table before a word of it is
-   drafted**, not after.
+**And the comedy is load-bearing rather than decoration.** `structure.md`
+§4c made the tea the only comedy in the book; **this is the second
+register and it is the same joke.** *A boy is handed the thing men
+fantasise about and finds it, principally, an administrative question.*
+**He is glad she has a friend. He does not object to the rest. He files
+it** — and the reader has to sit with the fact that his silence here is
+generosity **and** the reason nobody stops any of it.
 
-## 5. CARRIED FORWARD, ALREADY RULED
+### 4.8 ⚠ WHAT IT COSTS — and the only cost is invisible from inside
+
+**Per §1a the gain gets a price, and the honest accounting is stranger
+than a tragedy: nobody is harmed in any way anybody can point at.**
+
+| | |
+|---|---|
+| **Uzuki** | **nothing.** Happier, more capable, better regarded — and she has a sister |
+| **Hinata** | **better by every measurable standard.** Braver, clearer, allied, and her father approves. *What she has lost is the ability to know what she would have chosen* |
+| **Tadayoshi** | **nothing. He is pleased for her** |
+| **Naruto** | **something he never knew he had** |
+
+> **The reader does that arithmetic and nobody in the book does.** *That
+> is the correct distribution, and the book must not do it for them.*
+
+> ## ⚠ AND THE REAL PRICE IS THAT IT WORKED
+>
+> **She built the method in a cellar to stay alive.** *She has now used it
+> electively, on a friend, for a good reason — and it succeeded
+> completely, and nothing bad happened.*
+>
+> **So there is no argument left against doing it again. The price of the
+> win is the win**, and it is the straight line to a girl who will one day
+> cut a boy's eyes out because the sum came out in favour.
+
+**HINATA IS NOT KIMIMARO**, which is the one live threat to it: *she can
+think*, **and the instrument Uzuki handed her — question the premise,
+follow it wherever it goes — runs in both directions**, and there is no
+version where it never gets turned around.
+
+### 4.9 RULED — these were open a day ago
+
+| | |
+|---|---|
+| **POV** | **AUTHOR: Uzuki's.** *The reader gets her sincerity, which is the most damning thing available* — **she is not scheming on the page. She is helping, in detail, and she is right about the facts** |
+| **The Asuma ammunition** | **AUTHOR: Uzuki hands it to her** — the worse answer. *She reads people, she cannot not say what she sees*, **and she gave a shy girl a weapon to use on the one adult who was reaching her** |
+| **The narration** | **follows from the POV and needs no separate rule.** Uzuki's interior is warm because *she* is warm. **The cold belongs to the reader and arrives late** |
+
+**STILL OPEN: Naruto.** *Does he ever find out, and does the book give him
+a reaction?* **Not needed yet — and §2c says the interval gets written
+before the beat**, so it must not be answered at the moment it is first
+required.
+
+---
+
+## 5. ⚠ THE THREE-POV DISCIPLINE IS NOT A CEILING
+
+> **AUTHOR: the story can have more than three POVs.**
+
+**And the current book already does** — `act-1.md`: *Mikage, one scene,
+once*, plus Sakuma in ch2. **The rule was never three. It was three
+threads plus one-offs**, and the one-off has a job:
+
+> **An antagonist POV, once, where it converts something a protagonist did
+> into a consequence he will meet later.** *Not colour. Causation.*
+
+### 5.1 THE SNAKE'S CHAPTER — AUTHOR
+
+> **AUTHOR: before Oto, a chapter of Orochimaru *displeased* at the loss
+> of two new toys — so he accelerates building the Oto village and stops
+> having to hide so much.**
+
+**It is the hunter curve pointed at the one antagonist the curve does not
+cover** (`combat.md` §10): *every hunter he kills is a specification
+handed to the state.* **Here: every child he takes back is a reason for
+the snake to stop hiding.**
+
+| | |
+|---|---|
+| **What Tadayoshi did** | took a girl out of a monastery sale and a boy out of a shipment |
+| **What it cost the snake** | **two acquisitions — and the discovery that the quiet pipeline is not quiet** |
+| **What the snake does** | ***stops using other people's buildings.*** Builds his own, faster, and openly enough that hiding stops being the constraint |
+
+> **So the place they walk into two books later is a place their own
+> rescues built** — **and nobody in the book ever learns it.** *The reader
+> holds it alone*, which is the device `structure.md` already runs for
+> Kimimaro's countdown.
+
+**The register is the word *toys*.** *Inventory, spoken from the top of the
+supply chain* — **the pricing thesis one level above Enkai**: `team.md`
+§4.2, *everybody in this book puts a number on somebody*, **said by the
+customer.**
+
+**Discipline, or it becomes a habit:** **one scene, once**; no interiority
+beyond what the consequence needs; **and it must not explain anything the
+protagonists could have found out.** *All it gives the reader is the
+causal link. All it gives the plot is Oto, early.*
+
+---
+
+## 6. CARRIED FORWARD, ALREADY RULED
 
 - **`structure.md` §7b — the Oto arc**, the eyes, Uzuki's transplant
   training, Itachi, and the age anchor. **Next book but one.**

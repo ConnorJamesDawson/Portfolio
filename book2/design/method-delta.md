@@ -176,6 +176,28 @@ write the word **cannot** about somebody, I have collapsed an interval.*
 **Nobody in this book cannot. They have not yet, or they will not, or it
 would cost them something** — §1a.
 
+### 2d. ONE-OFF POVs ARE AVAILABLE, AND THEY HAVE A JOB
+
+> **AUTHOR: the story can have more than three POVs.**
+
+**The rule was never three.** `act-1.md` already runs *Mikage, one scene,
+once* and Sakuma in ch2. **It is three threads plus one-offs**, and the
+one-off earns its place one way:
+
+> **An antagonist POV, once, that converts something a protagonist did
+> into a consequence he will meet later.** *Not colour. Causation.*
+
+**Discipline, or it becomes a habit:** **one scene, once**; no interiority
+past what the consequence needs; **and it must never explain anything the
+protagonists could have found out themselves.** *What it gives the reader
+is a causal link the characters will never have* — the same device
+`structure.md` uses for Kimimaro's countdown.
+
+**The worked example is `beyond.md` §5.1:** *Orochimaru, displeased at the
+loss of two acquisitions, stops using other people's buildings and builds
+Oto faster.* **So the place they walk into two books later is a place
+their own rescues built, and nobody in the book ever learns it.**
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

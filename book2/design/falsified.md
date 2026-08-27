@@ -251,6 +251,16 @@ a widening with paperwork.
 > entries, one mechanism.** *The fix is procedural and it is in §2c: write
 > the gap before the beat.*
 
+### #22 — HE CANNOT RECIPROCATE *(mine, and the file already disagreed)*
+
+| | |
+|---|---|
+| **Killed** | `team.md` §10.5: *it is not that he does not feel it, it is that **feeling it produces no action he is capable of taking***, carried into `beyond.md` §4 as *two girls organised around somebody who cannot reciprocate.* |
+| **By** | **Author ruling.** *"'Can't reciprocate' is a harsh tone. He can, but in his own way. Like never correcting Uzuki — he's doing that to be kind to her. **Their relationship falls into the reality by Tadayoshi's acceptance.**"* |
+| **Whose rule it was** | **Mine, and §10.4 of the same file already said the opposite** — *he stops correcting the word **to keep her happy**, and it is the closest he comes to affection in the whole book.* **So the file held both, and the wrong one got quoted forward.** *And it is `method-delta.md` §2c's own tell — **cannot**, written about a person, one commit after the rule that names that word as the symptom.* |
+| **Replacement constraint** | **Acceptance is his currency, and it costs him.** *He does not say things; he stops objecting* — **and from a boy whose entire moral architecture is accurate entries, declining to correct the record is the largest thing he owns.** He cannot lie and never has (C5), **and here he lets a false statement stand, repeatedly, in public, for years, because correcting it would take something off her.** The constraint that remains is narrow and true: **every other available action would require him to say what she is *for*, and that one does not** — so he has exactly one move and he makes it constantly. |
+| **Net** | **Constraint kept, coldness removed, and the relationship became real.** *The dead rule made her attachment one-directional and therefore pitiable* — which `portraits.md` names as the reading that ruins her. **This one makes it a relationship conducted in a currency only two people can read**, and **she reads it correctly**, because she is the only person alive who has spent six years learning how. *One of them will not say it; the other says everything; and it is legible to nobody else at all.* |
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

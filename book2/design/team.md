@@ -878,9 +878,23 @@ countries operate on — and he built it entirely out of silence.**
 it.** *She is beautiful, and it is the one thing about her that has never
 been mentioned by the person she has organised her life around.*
 
-**So it is not that he does not feel it. It is that feeling it produces no
-action he is capable of taking**, because every available action requires
-him to say what she is for.
+**So it is not that he does not feel it, and it is not that it produces
+nothing** (`falsified.md` #22 — *the version of this sentence that said
+**no action he is capable of taking** was wrong, and §10.4 above already
+had the answer*).
+
+> **It produces exactly one action, and he takes it, and he takes it for
+> years: he stops objecting.** *Every other available action would
+> require him to say what she is **for**, and that one does not.*
+>
+> **Acceptance is the whole of his vocabulary for this** — and from a boy
+> whose moral architecture is accurate entries, **declining to correct the
+> record is the largest thing he has to give.**
+>
+> **And she reads it correctly**, because she is the only person alive who
+> has spent six years learning how. ***The relationship falls into reality
+> on his acceptance*** — **and it is legible to exactly two people**, one
+> of whom will not say it and the other of whom says everything.
 
 > **And that is the same silence Kimimaro is standing in.**
 >
