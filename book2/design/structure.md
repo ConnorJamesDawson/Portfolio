@@ -157,52 +157,64 @@ Month by month in `timeline.md` §2. The spine:
   offered and he accepted**, not a gift he gave — *and he cannot account
   for four minutes of it, and the reader can, because they watched.*
 
-> ## ⚠ AND WHY SHE IS ALIVE — and it is a matter of timing, not of luck.
+> ## ⚠ AND WHY SHE IS ALIVE — and it is the creed, once, and nobody sees it
 >
-> **`character.md`: the creed is acquired at TEN, in month 9 of year 0,
-> after the merchant and the house and the boy** — **in act one, in
-> ch10** (`falsified.md` #23). The monastery is month 12 of year 0. **So there
-> is nothing governing him in that building, and `combat.md` §9 is
-> explicit — *anything between him and the target is in the crossfire,
-> allies included.***
+> **The creed is written on 22/11 of year 0** — *`ch11.md`, month 11, after
+> the merchant and the house and the boy* (`falsified.md` #23). **The
+> monastery is month 12. So it is twenty-five days old when he walks into
+> that hall, and it has never been tested.**
 >
-> ### The answer is that she is held for two months, and he spends them.
+> **Step 7 of the staging above is the test, and it passes.** *He looks
+> over her and does nothing,* **in the middle of a state in which
+> `combat.md` §9 says *anything between him and the target is in the
+> crossfire, allies included*** — *and fifteen other people in that
+> building demonstrate that the rule is real by dying inside it.*
+>
+> ### ⚠ AND HE HAD ALREADY REFUSED TO APPLY IT, CONSCIOUSLY, THAT MORNING
+>
+> **He agreed to carry her** (`ch12.md` §1). *He wrote **not the ones who
+> did not choose** about a boy he might have killed, and has read it ever
+> since as a rule about killing, and carrying is not killing.* **So the
+> first widening happens on a technicality, in its author's own head,
+> twenty-five days after he wrote **no exceptions**.**
+>
+> > **The governor does not work when he is choosing. It works when he is
+> > not there.** *Which is `spec.md` §2g arriving whole — a rule written
+> > by a man who knows there are minutes of his life he does not attend —
+> > and it is the engine of the next three books.*
+>
+> ### The hold is why he arrives awake, and that is what it was always for
 >
 > **She is not sold in the week she is priced.** Enkai prices her on the
 > 28th of the tenth month and the buyer's date is *not before the eleventh*
 > — **so she is in that cellar for eight or nine weeks**, and the whole of
-> ch11 and the front of ch12 happen inside her waiting.
+> ch11 and the front of ch12 happen inside her waiting. *(`falsified.md`
+> #16. The hold was never a survival mechanism; it is a calendar.)*
 >
-> **And the threshold event lands inside that hold, on his own work, four
-> hundred miles from her** — *early in the twelfth month, three weeks
-> before the docket takes him north-east.* It is the second of his life,
-> it is on a job, it is the reason a losing rebellion decides a difficult
-> boy should be somewhere else for a while — **and the cargo docket is
-> what somebody else's *somewhere else* looks like.**
+> **And the posting that takes him there is insubordination, not an
+> incident** — *`falsified.md` #25: a survivor left on ground a client had
+> paid for, an order refused with nothing after the no, and a boy priced
+> rather than punished.* **The version where a threshold event three weeks
+> earlier explains the docket is dead.**
 >
-> **Note the distinction the design already makes.** *Freight* is drift:
-> he could not seal, so they used him for carrying, and nobody revisited
-> it (`ch11.md` §3.3). ***The cargo job* is a posting** — chosen, for him,
-> after an incident. **The first is nobody's decision and the second is
-> somebody's**, and he cannot tell them apart from where he stands.
+> **Note the distinction the design still makes.** *Freight* is drift: he
+> could not seal, so they used him for carrying, and nobody revisited it.
+> ***The cargo job* is a posting** — chosen, for him, after an invoice.
+> **The first is nobody's decision and the second is somebody's**, and he
+> cannot tell them apart from where he stands.
 >
-> ### So when he walks into the Kadono-dera he is not in that state
+> ### Which makes the morning a decision, and that is what he has to carry
 >
-> **and he is not in it because he was in it three weeks ago and somebody
-> had to write it up.** The book gets its uncontrolled event and its
-> rescue, in that order, with the second caused by the first, **and it
-> never has to put a child in a room with him while he is not there.**
->
-> ### Which makes the monastery a decision, and that is worse for him
->
-> **He kills his own employer knowing what he is doing.** He is not
-> excused by the state he is in, because he is not in it. He walks out on
-> a paid job, gets nothing, and comes home with a child — *awake, on
-> purpose, and with no account of it he can stand behind afterwards.*
+> **He is not excused by the state he is in during the four minutes**,
+> because the decision was made four hours earlier, in a hall, awake, with
+> the whole of it explained to him in order. **He agreed to it, walked out
+> on it, killed his own employer, got nothing, failed to report, and came
+> home with a child.**
 >
 > > **The rescue was never going to be a good deed.** The version where he
 > > blacks out and she happens to survive is the version where he can tell
-> > himself anything. **This one he has to carry.**
+> > himself anything. **This one he has to carry** — *and what he cannot
+> > tell himself is not that he killed them. It is that he said yes.*
 >
 > ### And the hold has a second job
 >

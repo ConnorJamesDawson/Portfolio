@@ -328,20 +328,28 @@ faster. That is heartbreak with a person in it.
 
 ## 6. Where act one ends, and what it hands to act two
 
-**Ch11 closes on the monastery**, and the act's last page is a girl saying
-one word and a boy who cannot account for the next four minutes.
+**Ch12 closes on the monastery**, and the act's last page is a boy asking
+a girl her name and writing it at the top of a page with no heading —
+**which is the one thing he did not do in the eleventh month, and neither
+of them knows that.**
 
 **Delivered to act two:**
 
 0. **A third child, still in a box, with a sale scheduled** — and act two
-   opens with him being moved.
-1. **A household of two**, formed by accident, on a debt he is carrying.
+   opens with him being moved. *Counting toward a number that is wrong.*
+1. **A household of two**, formed by accident, **on a debt she offered and
+   he accepted.**
 2. **A dead client, no fee, and a failure to report.**
 3. **The tone** — established as an instrument, trusted completely.
-4. **A vow**, sworn at ten, about a boy of thirteen.
+4. **A vow**, sworn at ten, about a boy of thirteen. *(⚠ Not on the page
+   anywhere in twelve chapters — `ch12.md` §10, ruling wanted.)*
 5. **A curve**, three towns wide and rising.
-6. **And no creed.** He ends act one with nothing governing him at all,
-   which is the correct place for act two to start.
+6. **⚠ AND A CREED THAT HAS BEEN TESTED ONCE AND WIDENED ONCE, IN THE SAME
+   WEEK.** *It held at the monastery, in the four minutes he cannot
+   account for, and nobody in the building saw it work — **and that same
+   morning he had already refused to apply it, awake, on a technicality.***
+   **He ends act one governed by a rule that only works when he is not
+   there**, which is the correct place for act two to start.
 
 ---
 
