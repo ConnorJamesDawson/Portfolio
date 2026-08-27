@@ -232,6 +232,25 @@ a widening with paperwork.
 > N.*** `method-delta.md` §2b, and it is the second data point for the
 > research brief.
 
+### #21 — NOBODY CURES KIMIMARO *(mine, and written inside #20)*
+
+| | |
+|---|---|
+| **Killed** | `combat.md` §11b, in the replacement constraint for #20: *Kimimaro's illness is beyond medicine and stays beyond it —* ***canon agrees; nobody cures him.*** |
+| **By** | **Author ruling.** *"Kimi would get confined to the hospital for research into his disease, **he will be cured**, but it puts him out of action for a bit."* |
+| **Whose rule it was** | **Mine — and I wrote it in the entry logging that I keep doing this.** *#20's own text names the failure and the next paragraph commits it.* **New mechanism, worth naming: a door shut with a citation.** *Appealing to canon feels like sourcing rather than inventing — but this is a series whose stated premise is shattering canon, so "canon says no" is the weakest argument available in it, not the strongest.* |
+| **Replacement constraint** | **The cure is institutional, and it costs him and refutes Tadayoshi** (`beyond.md` §2.2). ***She*** **still cannot fix him** — that half was always true and is the tragedy — **but a hospital and a research programme can**, which is **Tsunade's diagnosis coming true**: *he needs a village, not a medic.* **And the ward is the cage again**: a boy whose whole life has been rooms is put in a room for his own good, says yes immediately because he was told to, and cannot tell the difference. **It puts him out of action for a stretch**, and PROPOSED: *the research wants samples, and his samples are bone.* |
+| **Net** | **Constraint kept, door opened, and the book's argument closes on it.** *Needing a village's protection makes people complacent, and complacent people rot* — **said at ten, disproved at fourteen, on the one person he would have paid anything for.** **Uzuki gave him three years of hands and could not reach it; the place he despises cures him. And he will not change his mind — he will file it**, which is what makes the eyes, two books later, **a decision he had the evidence to avoid.** |
+
+> **AND THE PATTERN NOW HAS ITS ROOT** (`method-delta.md` §2c). The author
+> named it: ***"we're both at fault for not following a thread to
+> completion, so when I forecast events you assume the story has moved on
+> to match."*** **A forecast names a state at time T, and the reflex is to
+> collapse the interval to make T reachable** — freeze the palm, date the
+> creed late, shut the composition door, cite canon on the cure. **Five
+> entries, one mechanism.** *The fix is procedural and it is in §2c: write
+> the gap before the beat.*
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's

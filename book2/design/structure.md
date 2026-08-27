@@ -657,6 +657,10 @@ that could make Tadayoshi doubt the vow.
 
 ## 7. Beyond the door — the shape, not yet the plan
 
+> **The Konoha book has its own file now: `beyond.md`.** Postings,
+> Uzuki as the centre, the Hinata thread, and the cure. **§7b below is the
+> Oto arc, which is the book after that.**
+
 **Wave is personal. The invasion is structural.** The investigation goes
 boilerplate → ports → Gatō → and past him, and the customer walks onto a
 field in Konoha at the end of Part I's first act.

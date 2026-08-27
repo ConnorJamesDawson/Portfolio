@@ -139,6 +139,43 @@ three, the line is evidence of a starting point, not a limit.**
 > tracks rules. Nothing tracks state**, which is exactly the gap the
 > research brief was written to close (`book2/research/`).
 
+### 2c. ⚠ WHEN A FORECAST ARRIVES, WRITE THE GAP BEFORE THE BEAT
+
+> **AUTHOR, naming the mechanism:** *"We're both at fault for not
+> following a thread to completion, so when I forecast events you assume
+> the story has moved on to match."*
+
+**A forecast names a state at time T.** *Uzuki works in the hospital.
+Kimimaro is cured. He has the eyes.* **And the reflex is to accept T and
+quietly adjust everything before it until T is reachable** — freeze a
+capability, date an acquisition to the scene that shows it best, shut a
+door, appeal to canon. ***That is collapsing the interval***, and it is
+where every entry from `falsified.md` #13 to #20 came from.
+
+**THE RULE. When a forecast arrives, the first thing written is not the
+beat. It is three columns:**
+
+| | |
+|---|---|
+| **What must be true at T** | the forecast, stated plainly |
+| **What is true now** | off the ledgers, with the date on it (§2b) |
+| **What happens in between** | ***and this is the book*** |
+
+**The beat goes in last, and it goes in unaltered.** *If the third column
+cannot be filled, the answer is not to adjust the first two. It is to say
+so.*
+
+> **The interval is where the book lives.** *A forecast is a destination.
+> The chapters are the road.* **Anything that makes the destination
+> reachable by shortening the road has spent the book to save the
+> summary** — which is `method.md`'s oldest rule wearing a different coat:
+> **summary where a scene belongs.**
+
+**And the tell is specific, so it can be caught:** *if a forecast makes me
+write the word **cannot** about somebody, I have collapsed an interval.*
+**Nobody in this book cannot. They have not yet, or they will not, or it
+would cost them something** — §1a.
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

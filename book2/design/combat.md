@@ -1343,14 +1343,23 @@ ten.**
 1. ***You cannot tell during*** **stops being a limit of the technique and
    becomes a fact about her.** By twenty she can read anybody alive.
    **She still does not turn it on herself, and by then that is a choice.**
-2. **⚠ THE ONE SHE CANNOT FIX IS THE ONE SHE WANTS TO.** *Kimimaro's
-   illness is beyond medicine and stays beyond it* — **canon agrees;
-   nobody cures him.**
+2. **⚠ THE ONE SHE CANNOT FIX IS THE ONE SHE WANTS TO — and note which
+   half of that is true** (`falsified.md` #21). ***She*** **cannot fix
+   him.** *That is not the same as his being unfixable, and the version
+   of this that said **canon agrees, nobody cures him** was a door shut
+   with a citation, in a series whose premise is shattering canon.*
    > **So the curve makes the tragedy larger, not smaller.** *A novice
    > failing is expected. **A master failing is a tragedy.*** **She becomes
-   > good enough that everybody else she touches lives, and he dies
-   > anyway**, and she has the skill to know exactly how far short she is,
-   > every day, for years.
+   > good enough that everybody else she touches lives, and she still
+   > cannot reach him**, and she has the skill to know exactly how far
+   > short she is, every day, for years.
+   >
+   > **AND THE INSTITUTION CAN.** `beyond.md`: **a hospital and a research
+   > programme cure him**, which is Tsunade's diagnosis coming true — *he
+   > needs a village, not a medic* — **and it is the refutation of
+   > Tadayoshi's entire creed, delivered on the one person he would have
+   > paid anything for.** *Uzuki gave him three years of hands. The place
+   > he despises gave him a cure.*
 3. **Stamina still bounds throughput**, at every level. **A cup is more
    hours. It is still hours**, and that is arithmetic rather than a
    ceiling.
