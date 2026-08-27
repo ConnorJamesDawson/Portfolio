@@ -311,6 +311,34 @@ doing the work was never in the seals at all.**
    in visibility**, which is §4.2's axis exactly: *his economy and his
    vulnerability are the same axis.* **The one thing he owns that cannot
    ever be put down is the one thing that is always audible.**
+   > ### ⚠ BUT NEVER QUIET IS NOT THE SAME AS RINGING — AUTHOR
+   >
+   > **AUTHOR:** *"The lack of a ring is down to a lack of chakra through
+   > it… the more chakra through it, the higher the tone and the brighter
+   > the light."*
+   >
+   > **So it is a dial, not a switch, and it is the same physics as §2's
+   > courses**: *what runs through a lattice is legible as tone.* **What
+   > the open draw buys is the floor — a constant, low, barely-there note
+   > that never stops.** *Everything above the floor has to be fed.*
+   >
+   > | Through it | Tone | Light |
+   > |---|---|---|
+   > | **nothing but its own draw** | **the floor.** *Under most rooms* | none to speak of |
+   > | a little, on purpose | audible across a yard | visible in the dark |
+   > | **uncontrolled intent** | ⚠ **as high and as loud as it goes** | **bright enough to read a face by** |
+   >
+   > **⚠ AND HE HAS NEVER ONCE PUT ANYTHING THROUGH IT DELIBERATELY** —
+   > **AUTHOR: *it is not something he would even think to do unless
+   > prompted; right now he is just focused on work.*** *It cuts. That is
+   > what a sword is for.* **So the loudest property of the only
+   > unexplained object he owns is one he has never tested, because
+   > testing it was never on a docket.**
+   >
+   > **Which is `method-delta.md` §2k on his side of the book:** *he is
+   > wrong about a thing he owns, and the correction has to be prompted by
+   > somebody who asks questions he does not ask.* **That is Uzuki, and it
+   > is act two** (`act-2.md` §3).
 3. **HE CANNOT EXPLAIN IT**, and he is a boy who cannot leave a question
    standing. **There is an unexplained object at the centre of his kit
    for years**, and nobody he can reach knows anything, **and he asks, and
@@ -879,11 +907,36 @@ work.
 > happened**, and Uzuki standing in that hall is exactly the witness that
 > refusal needed.
 
-> ⚠ **RULING OPEN, ch11: what object brings him out of the month-12
-> event.** §9 requires one and it cannot be exhaustion. **The candidate is
-> §3b's** — *he does not control his intent in the threshold, and an open
-> article never goes quiet* — **so the thing that reaches him is his own
-> blade still drawing when he has stopped.** Not written in until ruled.
+> ## ✅ RULED, ch12: THE OBJECT IS THE BLADE'S OWN TONE, FALLING.
+>
+> §9 requires an object and it cannot be exhaustion. **It is §3b's, and
+> the author's tone ruling is what makes it work.**
+>
+> **In the threshold he does not control his intent, so the sword gets
+> everything**, and it goes as high and as bright as it goes, *and it
+> climbs the whole way through the hall and she sees it and hears it and
+> does not know what either is.*
+>
+> **And when the last man is down the intent goes, and the tone comes
+> down with it.**
+>
+> > ### ⚠ AND A FALLING TONE IS THE ONE SOUND IN THE WORLD HE CANNOT
+> > ### IGNORE.
+> >
+> > **He has spent two years reading a crystal for exactly this** — *the
+> > tone on his mother's piece, on the facing page of the sword's own
+> > series, checked and dated, and the whole question is whether it is
+> > coming down* (§2, `threads.md`). **Ch5's clasp reached him because it
+> > was her work. This reaches him because it is her signal**, made by his
+> > own hand, out of his own weapon, on the worst morning of his life.
+> >
+> > **He does not work any of that out.** *He cannot account for the four
+> > minutes and he cannot account for the coming out of them either.*
+> > **The reader has both halves and neither child has one.**
+>
+> **Written from her POV, per the amended rule below** — *she hears a note
+> come down and a light go out of a room and has no idea what she has just
+> watched, and that is exactly right.*
 
 ### The standing rule — amended
 

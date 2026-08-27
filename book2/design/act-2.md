@@ -83,7 +83,7 @@ one carries a different function:
 | **A debt** | **a girl on a road and an undertaking to get her to a door** |
 | **A boy of about seven** | alive somewhere, and Tadayoshi did not ask his name. **He comes back** |
 | **A third child** | still in a box, **with a sale scheduled**, counting along somebody else's number |
-| **The unexplained** | *a blade that does not ring, and whatever else month 12 leaves* |
+| **The unexplained** | *nine crates he never opened — and **a blade that came down off a note nobody in the building could read*** |
 
 ---
 
@@ -105,7 +105,31 @@ one carries a different function:
    practise**, and this is the year he first notices and does nothing.
 5. **And Uzuki's two curves run** — the palm (§11b) and the seals (§11c)
    — **on a road, with no teacher, and a permanent patient.**
-6. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
+6. **⚠ THE VOW GETS SWORN HERE — AUTHOR.** *`act-1.md` §6 had it as a
+   thing sworn at ten and handed over; it is not on the page anywhere in
+   twelve chapters, and the author has ruled it into act two.* **So it is
+   sworn at eleven, about a brother who is fourteen**, and it is act two's
+   to place.
+   > **PROPOSED placement: after the break** (ch17–18). *A man swears
+   > things when he has nothing and no organisation, and until the break
+   > he has both.* **And it should cost him something to say out loud in
+   > front of two children who did not ask** — *`method-delta.md` §5, he
+   > acts instead of saying, so a spoken vow is out of character and that
+   > is the point of it.* **Ruling wanted on the placement, not on the
+   > fact.**
+7. **⚠ AND THE SWORD TURNS OUT NOT TO BE A SWORD — AUTHOR.**
+   `combat.md` §3b: **never quiet is not the same as ringing**, and the
+   ring is chakra through it — *more through it, higher the tone and
+   brighter the light.* **He has never once done it deliberately, because
+   it cuts, and that is what a sword is for, and testing it was never on a
+   docket.**
+   > **Uzuki is the prompt**, because she is the one who asks questions he
+   > does not ask, and because she watched it do the whole scale in a hall
+   > in the twelfth month and he did not. **So the correction to the only
+   > unexplained object in his kit comes from the person he is supposed to
+   > be teaching** — *and it is `method-delta.md` §2k on his side of the
+   > book: knowledge can be wrong, and his is.*
+8. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
    — AUTHOR** (`method-delta.md` §2k). *Clothes bought, weapons haggled
    over, cooking on a fire, and knowledge turning out wrong.* **Act two is
    three years on a road and is the largest montage risk in the series;

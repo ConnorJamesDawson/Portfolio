@@ -341,8 +341,10 @@ of them knows that.**
    he accepted.**
 2. **A dead client, no fee, and a failure to report.**
 3. **The tone** — established as an instrument, trusted completely.
-4. **A vow**, sworn at ten, about a boy of thirteen. *(⚠ Not on the page
-   anywhere in twelve chapters — `ch12.md` §10, ruling wanted.)*
+4. ~~**A vow**, sworn at ten, about a boy of thirteen.~~ **✅ RULED,
+   AUTHOR: it moves to act two.** *It was never on the page in twelve
+   chapters, and act one has no room and no cause for it.* See
+   `act-2.md` §4.6.
 5. **A curve**, three towns wide and rising.
 6. **⚠ AND A CREED THAT HAS BEEN TESTED ONCE AND WIDENED ONCE, IN THE SAME
    WEEK.** *It held at the monastery, in the four minutes he cannot
