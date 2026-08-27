@@ -208,47 +208,138 @@ to.**
 2. **A true question.** ***"Have you told him?"*** — asked kindly, and
    accurately, and it lands like a dropped plate.
 3. **The escalation, still true.** ***If you have never said it, is it
-   real?*** *A person who has organised her entire life around saying it
-   is asking in good faith, out of her own experience, and it is the most
+   real?*** *A person who has organised her whole life around saying it is
+   asking in good faith, out of her own experience, and it is the most
    destabilising thing anybody has ever said to Hinata.*
 4. **AUTHOR: *"You'd make a great sister-wife!"*** — **said brightly,
    sincerely, as a compliment**, and it is the first moment Hinata
-   understands that this has been going somewhere.
+   understands this has been going somewhere.
 
-> ## ⚠ AND IT IS THE MONASTERY, RUN BY THE CHILD WHO SURVIVED IT
+### 4.4 ⚠ THE ARGUMENT THAT DOES IT — AUTHOR, and it is not a lie either
+
+> **AUTHOR: it works. Hinata stops believing she loved him. She decides
+> her love was misplaced.**
+
+**And the reason it works is that the comparison is accurate.**
+
+| | |
+|---|---|
+| **Hinata** | **loved a boy who never once considered her** |
+| **Uzuki** | **had a boy save her, and change for her** |
+
+> ***That is love. What Hinata has is pining*** — **AUTHOR** — *pining for
+> attention from the most confident person she had ever seen.*
+
+**Nobody can refute it, because it is not false.** *Naruto genuinely did
+not notice, for years.* **Put coldly, a shy girl fixating on a loud boy
+who never looks at her is a description that fits**, and Uzuki is the only
+person in Hinata's life cold enough to say it and warm enough to be
+believed while she does.
+
+> **This is the whole reason the thread is not a corruption arc.** *Uzuki
+> does not deceive her into anything.* **She hands her a frame that fits
+> the facts better than the one she had** — **and the frame is Uzuki's own
+> pathology, and it is load-bearing, and it holds.**
+
+### 4.5 ⚠ AND IT MAKES HER BETTER, WHICH IS THE TRAP
+
+> **AUTHOR: Uzuki shatters Hinata's shyness. Everyone around her notices —
+> under cover of *Uzuki being a great influence.***
+
+**A corruption that made her worse would be visible and reversible.** *This
+one makes her braver, clearer, more capable and happier*, on the page,
+measurably, **so nobody has grounds to stop it and nobody wants to.**
+
+- **Sisters first, and genuinely** — **AUTHOR**: *before anything about a
+  relationship is said, they simply act like sisters*, **and that is not a
+  pretext and should never be written as one.**
+- **And it is the first thing Uzuki has ever had that is hers.** *The
+  hospital was assigned. Hinata she chose.* **Which is exactly why the
+  reader should like it for a long time.**
+
+> ## ⚠ AND HIASHI SPONSORS IT
 >
-> **Uzuki was priced twice in one room by a man who valued her for what
-> somebody else would pay** (`portraits.md`, Enkai). **She is now doing
-> the arithmetic on a girl in a corridor, for what Tadayoshi would get out
-> of her.**
+> **AUTHOR: he would love that his daughter is great friends with the
+> Uzumaki heiress. *A dying clan cannot be picky about heirs and
+> heiresses.***
 >
-> **She does not notice. She would be appalled if it were put to her.**
-> *And it would have to be put to her by somebody, out loud, and the book
-> should make the reader wait a long time for that.*
->
-> **Nakadō closed the violence loop. This closes the pricing one.**
+> **So an adult with authority approves a transaction involving a child
+> because the numbers look good.** *That is the third time in this design:
+> **Enkai priced her; she prices Hinata; Hiashi prices the alliance.***
+> **`team.md` §4.2 already said everybody in this book puts a number on
+> somebody. Here the reader gets three in one room and the book never
+> says so.**
 
-### 4.4 AND SHE TELLS HIM EVERYTHING, IMMEDIATELY, AND HE FILES IT
+### 4.6 ⚠ KURENAI — the detector, and it is a tool going dead in her hand
 
-**`team.md` §12's machinery, unchanged:** *he writes her sadism into a
-mission log without once knowing that is what he is doing.* **Here he
-does it to a recruitment.** *Hyūga girl, useful, working on it* — **entered
-under a date, in a book, by a man who cannot price anything.**
+> **AUTHOR: she notices when her teasing about Naruto stops working.**
 
-### 4.5 THE OPEN QUESTIONS — and they decide what kind of book it is
+**And that is the right person for the right reason.** *Kurenai is the one
+adult who engaged with the crush affectionately.* **The teasing is her
+instrument** — how she reaches Hinata at all — **so she does not observe a
+symptom. She notices that something in her hand has stopped registering**,
+which is how anybody actually finds out that a person has changed.
 
-1. **⚠ DOES IT WORK?** *AUTHOR said **starts** the indoctrination.*
-   **Whether Hinata bends, resists, or bends and then comes back is the
-   spine of the whole thread and nobody has ruled it.**
-2. **⚠ NARUTO.** *Canon's endgame is Hinata and Naruto.* **Peeling her is
-   a canon-shatter with a bill** — and it wants pricing in
-   `falsified.md`'s strains table **before** it is written, not after.
-3. **⚠ WHO CATCHES HER.** **Somebody has to see what Uzuki is doing and
-   name it** — and it cannot be Tadayoshi, who files effects and never
-   causes. *Kimimaro has standing (`team.md` §6.2) and says almost
-   nothing, which is why it lands when he does.*
+**The reply, and the meaning is what matters, not the words** (AUTHOR):
 
----
+> *Did you wait years for Asuma, unable to speak to him? No? Then he
+> clearly does not care, and neither should I.* **"I have Uzuki now."**
+
+**Read what is happening in it, because it is the whole thread in four
+lines:**
+
+1. **It is a question, then a conclusion drawn from the answer.** *That is
+   Uzuki's method exactly.* **Hinata is not repeating anything. She is
+   reasoning in somebody else's grammar**, which is how you show
+   indoctrination without ever using the word.
+2. **It uses the sensei's own private life as evidence** — *and where the
+   ammunition came from is a live question.* **Hinata has a Byakugan and
+   could have seen it. Or Uzuki, who reads people, handed it to her.**
+   ⚠ PROPOSED, needs ruling — *and the second is much worse.*
+3. **The tell is the verb.** ***"I have Uzuki now."*** **Possessive** —
+   *the exact register Uzuki uses about Tadayoshi.* **She has not only
+   taken the argument. She has taken the grammar of belonging.**
+
+### 4.7 ⚠ WHAT IT COSTS — and Uzuki does not pay it
+
+**Per §1a, the gain gets a price. This one lands on other people.**
+
+1. **⚠ TADAYOSHI DOES NOT WANT HER.** *The entire acquisition is built on
+   a valuation of what he needs* — **and he cannot accept a person,
+   because accepting one means saying what they are for** (`combat.md`
+   §11d). **He files it and does nothing.**
+   > **So it succeeds completely and lands on a man with no use for it**,
+   > and now there are **two** girls organised around somebody who cannot
+   > reciprocate. **`team.md` §7, run once more, with a recruit.**
+2. **HINATA IS NOT KIMIMARO.** *She can think.* **The instrument Uzuki
+   gave her — question the premise, follow it wherever it goes — works in
+   both directions**, and there is no version where it does not
+   eventually get turned around.
+3. **AND NOTHING IS TAKEN FROM UZUKI AT ALL.** *She is happier, more
+   capable, better connected and better regarded than at any point in her
+   life.* **That is the honest and horrible shape of it: the thread's
+   price is paid entirely by people who did not choose it.**
+
+### 4.8 OPEN — and these are narrower now
+
+1. **⚠ POV.** *Whose head are these scenes in?* **In Uzuki's, the reader
+   gets her sincerity, which is the most damning thing available. In
+   Hinata's, the reader gets relief and gratitude, which is worse.**
+   **Either way it makes Hinata a fourth thread**, which the current
+   book's three-POV rule does not have room for and the Konoha book might.
+2. **⚠ AND THE NARRATION HAS TO BE WARM.** *This book's register is cold
+   and files things.* **If these scenes are narrated at the usual
+   temperature the reader smells it in chapter one and spends the book
+   waiting** — **so they have to be warm on the page and cold only in
+   retrospect**, and that is a real departure from `method.md` that wants
+   deciding rather than discovering.
+3. **⚠ NARUTO.** *Does he ever find out, and does the book give him a
+   reaction?* **Not needed yet. But §2c says the interval gets written
+   before the beat**, so it should not be answered at the moment it is
+   first required.
+4. **⚠ THE CANON BILL.** *This peels canon's endgame pairing.* **It wants
+   pricing in `falsified.md`'s strains table before a word of it is
+   drafted**, not after.
 
 ## 5. CARRIED FORWARD, ALREADY RULED
 
