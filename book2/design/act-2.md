@@ -1,119 +1,138 @@
-# Act two — age 11. *The creed, and the team*
+# Act two — age 11. *The road, and the three of them*
 
-> **Skeleton, not a plan.** Assembled from what is already ruled in
-> `structure.md` §2, §4, §4b, §4c, `character.md`, `team.md` and
-> `falsified.md`. **Nothing here is new** except the chapter counts and the
-> weighting, which are marked. Chapter plans get written one at a time, on
-> request, the way act one's were.
+> **Skeleton, not a plan.** Rewritten after act one's back third was
+> shredded (`falsified.md` #24) — **the previous version had the creed and
+> the boy as act two's hinge and both have moved into act one.**
 
 | | |
 |---|---|
 | **Story year** | **year 1.** Months 1–12. Tadayoshi and Uzuki 11; Kimimaro 13 |
-| **Chapters** | **PROPOSED: 11**, as act one. *Act one ran 11 for ~190k words* |
-| **Opens** | ⚠ **with Kimimaro being moved** — `act-1.md` §6, item 0 |
-| **Closes** | **a household of three, and no organisation** |
+| **Chapters** | **PROPOSED: 11** |
+| **Opens** | **on thin ice.** *The monastery was strike one and the offence was commercial* |
+| **Closes** | **three of them on a road, working, with hunters behind** |
 
 ---
 
-## 1. THE SPINE — `structure.md` §2, verbatim in substance
+## 1. ⚠ THE THREE POVs ARE THREE ASPECTS OF ONE LIFE — AUTHOR
 
-1. **Freelance.** The resistance has stopped posting him. **No creed.**
-   *Any contract that feeds two.*
-2. **The merchant, the house, and the boy.** *Money, a placement, killing
-   the merchant* — **all doing, none of it the thing the boy needed** —
-   and the boy remembers and comes back.
-3. **The shipment, and Kimimaro** (§4). **He executes his orders exactly
-   and it is the break**, because the argument cannot be about
-   insubordination and is therefore about the thing everybody actually
-   objects to.
-4. **Nakadō** (§4b). *Late in the year. She is eleven.* **Where the sadism
-   stops being survival.**
-5. **The creed is installed, at a price** — *"stay your hand from the
-   blood of the innocent"*, written off two data points he can use
-   neither of (`character.md`).
-6. **The break with the resistance.** *He walks out with two children and
-   no organisation*, **which is the moment he becomes the institution.**
+**The threads converge. The POVs do not.** *They stop being three people
+in three countries and become three faces of the same household*, and each
+one carries a different function:
 
-> **The act's argument, and it is one sentence:** ***Uzuki is what happens
-> when he takes the child; the boy is what happens when he pays the
-> child*** — **same man, same year, same instinct, and the difference is
-> not his intention.** He will file the second as a failure of method and
-> go looking for a better procedure. **That is how the creed gets
-> written.**
+| | Is | And the function is |
+|---|---|---|
+| **Tadayoshi** | **doing jobs** | **the work.** What is taken, what it pays, what it costs, who is watching |
+| **Uzuki** | **learning, and coming on the jobs** | **becoming.** The only thread with a curve in it — `combat.md` §11b and §11c both run here |
+| **Kimimaro** | **being Kimimaro** | ⚠ **seeing** |
+
+> ## ⚠ AND THE THIRD ONE IS THE STRUCTURAL FIND
+>
+> **He is the only member of that household who is not organised around
+> Tadayoshi.** *Uzuki is organised around him. Tadayoshi is organised
+> around the work. Kimimaro is organised around nothing, because nobody
+> has ever told him what to be organised around.*
+>
+> **Which makes him the only clear eye in the building** — and it is why
+> `team.md` §6.2 already says he is the one with standing and that when he
+> speaks it lands like a dropped plate.
+>
+> **And it solves the problem the last skeleton flagged as hardest.** *A
+> boy who cannot generate an instruction is impossible to sustain as a
+> doing-POV.* **He is not a doing-POV. He is in the room, and he does not
+> want anything, and that is the whole of his value.**
 
 ---
 
-## 2. THE CHAPTER SHAPE — PROPOSED
+## 2. THE SPINE — AUTHOR
 
-**Held from act one:** *14k–20k words, 8–11 scenes, one POV per scene, no
-montage, chapters end on the smallest true image.*
+1. **Thin ice.** *The monastery is strike one and everybody knows it,
+   and nobody says it, because the offence was **contract confidence** and
+   you do not put that in writing.* **Contracts keep coming and the good
+   ones stop.**
+2. **⚠ THE KIMIMARO OP IS THE FINAL STRAW.** *His brief is get the cargo
+   and go; he does exactly that; the cargo is a child* (`structure.md`
+   §4). **He is not disobeying orders — he is executing them — so the
+   argument cannot be about insubordination.**
+3. ***Tadayoshi and a Kaguya together are too much heat for that section
+   of the resistance.*** **So the break is not a betrayal on either side.
+   It is arithmetic**, and the rebellion's arithmetic is correct.
+4. **⚠ AND THEN THE ROAD, which is most of the act:** *village to village,
+   jobs for money, hunters behind them.* **Three of them, no
+   organisation, no sheets, no handler, and every job negotiated by
+   people who cannot negotiate.**
+5. **Nakadō, late** (`structure.md` §4b, `team.md` §4.3) — **she asks him
+   to wait and he does not ask what for.**
+6. **And the tea** (`structure.md` §4c) — **the only comedy in the book.**
+
+> **The act's argument, and it is the thing act one set up:** *he founded
+> the exact institution he despises.* **By the end of it he runs a
+> household of three in which two people have organised their entire
+> existence around him and will not leave** — **he is the village** — and
+> his philosophy is not refuted by an argument but **by two children who
+> love him.**
+
+---
+
+## 3. WHAT ACT ONE HANDS OVER — updated after the shred
+
+| | |
+|---|---|
+| **The creed** | **exists, is one month old, and has been tested once** — *at the monastery, where it held and he cannot say why* |
+| **The trade** | **contracts, and he is fast at them** — three months of paid work behind him and the numbers to prove he is improving |
+| **Strike one** | **spent.** *Monks dead, and the offence is commercial* |
+| **A debt** | **a girl on a road and an undertaking to get her to a door** |
+| **A boy of about seven** | alive somewhere, and Tadayoshi did not ask his name. **He comes back** |
+| **A third child** | still in a box, **with a sale scheduled**, counting along somebody else's number |
+| **The unexplained** | *a blade that does not ring, and whatever else month 12 leaves* |
+
+---
+
+## 4. WHAT MUST CHANGE, OR IT IS ACT ONE AGAIN
+
+1. **⚠ THE PARALLEL FORM STOPS DOING THE WORK.** *Act one's engine was
+   three lives that never touch.* **From the break onward they are in the
+   same room**, so the engine becomes **friction inside a household** —
+   and `method-delta.md` §2h applies harder, not less: **three people in
+   one house still need three different verbs.**
+2. **The money changes shape.** *No handler, no sheets, no fee schedule.*
+   **They negotiate**, badly, and `money.md`'s ladder is now something
+   they argue about in front of clients.
+3. **The hunter file stops being two lines** (`combat.md` §10) — **and
+   the curve starts costing them in money and towns rather than in
+   silence.**
+4. **He teaches, badly** (`combat.md` §11d). *Uzuki is in the house and
+   asks.* **He can name a fault in four words and cannot say what to
+   practise**, and this is the year he first notices and does nothing.
+5. **And Uzuki's two curves run** — the palm (§11b) and the seals (§11c)
+   — **on a road, with no teacher, and a permanent patient.**
+
+---
+
+## 5. THE CHAPTER SHAPE — PROPOSED
 
 | Ch | Months | Weight | |
 |---|---|---|---|
-| **12** | 1 | **K 40 / T 35 / U 25** | ⚠ **KIMIMARO IS MOVED.** *His first scenes outside a room in two years*, and the act opens on the one thread that has never had a chapter of its own |
-| **13** | 1–2 | T 50 / U 35 / K 15 | **A household of two, learning.** *The debt on its stated terms* — and the first contract that has to feed both |
-| **14** | 2–3 | T 55 / U 45 | **Freelance, and no creed.** *Any contract that feeds two*, and the reader watches him take one he should not |
-| **15** | 4 | ⚠ **T 70 / U 30** | **THE MERCHANT, THE HOUSE, AND THE BOY.** *The act's hinge* |
-| **16** | 4–5 | T 45 / U 40 / K 15 | **What he does about the boy** — money, a placement, and he does not ask his name. **Uzuki says he will come back** |
-| **17** | 6–7 | T 50 / K 30 / U 20 | **The shipment briefing.** *He has unknowingly found the boilerplate* — `structure.md` §3 |
-| **18** | 7 | ⚠ **T 45 / K 35 / U 20** | **THE OP.** *Get the cargo and go.* **He does. The cargo is a child** |
-| **19** | 7–8 | T 40 / U 30 / K 30 | **The room, and nobody is a villain.** *People who lost family to the Kaguya, asked to feed one.* **The break** |
-| **20** | 9–10 | U 45 / T 35 / K 20 | **Three in a house and no organisation.** *The tea* (§4c) — **the only comedy in the book** |
-| **21** | 11 | ⚠ **U 60 / T 25 / K 15** | **NAKADŌ.** *She asks him to wait, and he does not ask what for* |
-| **22** | 12 | T 55 / U 25 / K 20 | **The creed, written.** *And a boy of about seven, somewhere, who remembers a face* |
+| **13** | 1 | T 45 / U 30 / K 25 | **Thin ice.** *The good contracts stop and nobody explains why.* **And a girl who was going to a door is still in the house** |
+| **14** | 2 | T 40 / U 40 / K 20 | **She comes on one.** *The first time, and she is not ready, and she is useful anyway* |
+| **15** | 3 | T 50 / K 30 / U 20 | **The shipment briefing.** *He has unknowingly found the boilerplate* |
+| **16** | 3 | ⚠ **T 45 / K 35 / U 20** | **THE OP.** *Get the cargo and go. He does* |
+| **17** | 4 | T 35 / K 35 / U 30 | **The room, and nobody is a villain.** **THE BREAK** |
+| **18** | 5 | U 40 / T 35 / K 25 | **The road, and no organisation.** *The first job they get for themselves, and it is a disaster of negotiation* |
+| **19** | 6–7 | T 40 / U 35 / K 25 | **They get good at it.** And **the tea** |
+| **20** | 8–9 | U 40 / K 35 / T 25 | **Kimimaro on a field, twice** — *and Uzuki tells him what to do and it works and neither of them names it* |
+| **21** | 10 | T 45 / U 30 / K 25 | **The curve arrives properly.** *Towns, money, and a team that is now on a sheet* |
+| **22** | 11 | ⚠ **U 60 / T 25 / K 15** | **NAKADŌ.** *She asks him to wait and he does not ask what for* |
+| **23** | 12 | T 40 / U 30 / K 30 | **A household of three, and he is the village** |
 
-> **⚠ THE ONE-OFF POV SLOT** (`method-delta.md` §2d): **act two has one
-> available and it is not yet allocated.** *The candidate is the merchant,
-> before §15, in the register the snake's chapter uses later — a man doing
-> arithmetic about a house.* **Not ruled.**
-
----
-
-## 3. WHAT MUST CHANGE FROM ACT ONE, OR IT IS THE SAME BOOK
-
-1. **The threads converge, so the parallel form stops doing the work.**
-   *Act one's engine was three lives that never touch.* **Act two has two
-   of them in the same room from chapter 13**, and the engine has to
-   become **friction inside a household** rather than distance between
-   three.
-2. **⚠ AND KIMIMARO GETS A THREAD FOR THE FIRST TIME.** *`act-1.md` §5b:
-   his growth was bought with the weeks Uzuki lost.* **Here he has to
-   carry 20–35% of four chapters**, and a boy who cannot generate an
-   instruction is the hardest POV in the book to sustain. `team.md` §3.4.
-3. **The hunter file stops being two lines.** *`combat.md` §10 — the curve
-   is felt as shrinking options*, and act two is where the options start
-   costing him money rather than days.
-4. **He starts teaching, badly** (`combat.md` §11d). *Uzuki is in the
-   house and asks.* **He can say where a form is wrong in four words and
-   cannot say what to practise**, and this is the year he first notices
-   that and does nothing about it.
-5. **And the palm curve runs** (`combat.md` §11b): *by the end of act two
-   she has a permanent patient*, **which is the beginning of the most
-   intensive clinical practice anybody in this book gets.**
+> **⚠ THE ONE-OFF POV SLOT** (`method-delta.md` §2d) is unallocated.
+> *Candidate: the section of the resistance doing the arithmetic that ends
+> him — one scene, once, in which nobody is angry.*
 
 ---
 
-## 4. CARRIED IN FROM ACT ONE — the eight open items
+## 6. NOT IN ACT TWO
 
-**`ch12.md` §8**, and each needs a chapter to land in:
-
-| | Lands |
-|---|---|
-| **A third child in a box, sale scheduled** | **ch12, immediately** |
-| **A household of two on a debt he is carrying** | ch13 |
-| **A dead client, no fee, a failure to report** | **ch12–13** — *it is why the posting stops* |
-| **The tone, trusted completely** | throughout; **and it is how he reads Kimimaro wrong** |
-| **A vow sworn at ten about a boy of thirteen** | held; **the brother does not appear in act two** |
-| **⚠ An open article he did not mean to make** | **ch14 onward** — *the research arc, and his first theory is wrong for a year* |
-| **A ledger with a false entry in it** | **unresolved on purpose.** *It should still be there in act four* |
-| **A kit spent on nothing** | **ch15** — the merchant is the first time he spends any of it |
-| **Hōki, who did not ask the third question** | **ch12 or ch19** |
-
----
-
-## 5. NOT IN ACT TWO
-
-**Orochimaru under any name. Gatō. Guren. The word for the threshold.
-The word *Kaguya* attached to the boy — until §19, where it is the whole
-argument.** *The creed does not exist until ch22 and nothing may act as
-though it does.*
+**Orochimaru under any name until the op. Gatō. Guren. The word for the
+threshold. The eyes, the Sharingan, and anything from the Konoha book.**
+*And the boy does not come back in act two unless it is ruled — he is act
+three's antagonist and he is being kept.*
