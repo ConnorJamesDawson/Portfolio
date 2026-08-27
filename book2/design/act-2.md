@@ -465,9 +465,37 @@ buying him the next thing, and she works that out before he does.**
 | **22** | 11 | ⚠ **U 60 / T 25 / K 15** | **NAKADŌ.** *She asks him to wait and he does not ask what for* |
 | **23** | 12 | T 40 / U 30 / K 30 | **A household of three, and he is the village** |
 
-> **⚠ THE ONE-OFF POV SLOT** (`method-delta.md` §2d) is unallocated.
-> *Candidate: the section of the resistance doing the arithmetic that ends
-> him — one scene, once, in which nobody is angry.*
+> **⚠ THE ONE-OFF POV SLOT** (`method-delta.md` §2d) — *the section of the
+> resistance doing the arithmetic that ends him, one scene, once, in which
+> nobody is angry.*
+>
+> **PROPOSED: it is Mei Terumī's** (`canon-cast.md` §3.1). *She leads the
+> faction he has worked for since the sixth month of year 0; the
+> arithmetic is hers; **and she is right**, which is the point of the
+> scene.* **He never learns her name.**
+
+---
+
+## 5b. ⚠ THE CANON CAST — AUTHOR, and it has its own file
+
+> **AUTHOR:** *"There's no mention of side characters — you have an entire
+> anime to choose from. Sprinkle them through the act."*
+
+**`canon-cast.md`.** *Twelve chapters of act one contain not one canon
+figure and the world reads smaller for it.* **Act two is a year on a road
+across three countries and is where it gets fixed.**
+
+- **⚠ THE RULE THAT DOES ALL THE WORK: they do not know who anybody is.**
+  *His education stopped at ten in a Kiri compound.* **So canon figures
+  arrive unnamed and the reader does the recognising** — *he gets a
+  stance, a kit, a pair of hands and a price; the reader gets a name and
+  cannot tell him.*
+- **The test, and it is the whole of §5 of that file:** *cover the name
+  and read the scene.* **If it still works it stays. If it only worked
+  because of who it was, it was never a scene.**
+- **⚠ AND EVERY DATE IN THAT FILE IS UNCHECKED** — *training data, not a
+  citation* — **and nothing in its roster goes on the page until it has
+  been checked.** *Same class of error as the currency.*
 
 ---
 
