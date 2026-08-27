@@ -1,0 +1,1434 @@
+{
+ "atoms": [
+  {
+   "id": "craft/fixed-tone",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age 8) — he can even the feed with control instead of the copper frame, so a piece can carry more courses than the family grade",
+   "why_it_matters": "Any scene where he makes, reads or hears work; the whole tone series and the collection order rest on it."
+  },
+  {
+   "id": "craft/forge-mikage-hand",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age 8), practised daily — he can counterfeit his mother's flat, thin, two-course hand, including her tiredness",
+   "why_it_matters": "Why he can read the clasp at Y0M5; why he is fooled by a forgery at twelve — he was the first person to do the trick."
+  },
+  {
+   "id": "craft/four-seals",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M1 — the sequence is four, not five, held about a second and a quarter (dog is a bracing seal, it is part of the hand)",
+   "why_it_matters": "Cast time, tell and interrupt; every fight is timed against it and a bad hand costs the article."
+  },
+  {
+   "id": "craft/fences",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "held from Y0M5 — tapered points, tips up, a hand's width apart: obstruct, separate, funnel",
+   "why_it_matters": "His fighting identity, and its limit: a fence stops a walking foot and a foot at a run arrives."
+  },
+  {
+   "id": "craft/ground-breaking",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (20th) — stone and packed earth broken into workable grit; a square yard is about four tins",
+   "why_it_matters": "He stops needing a merchant for medium — and now needs ground he can break, which narrows where he can fight."
+  },
+  {
+   "id": "craft/half-seals",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 — one-handed, single-course work, found by decomposing his own sequence; fails about one in three",
+   "why_it_matters": "The thing no Kiri briefing has an answer for at Wave; loud, short-dated, and one use in twenty-seven sets on his hand."
+  },
+  {
+   "id": "craft/throwables",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 — articles made in advance, carried and dated, because yesterday's article needs no hand today",
+   "why_it_matters": "The dawn kit check; what he carries is a bet on what today would be and being wrong is a failure state."
+  },
+  {
+   "id": "craft/blade-reconfiguration",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "from Y0M12 — he can change the blade's configuration by planting it and holding a seal; NOT available for the six weeks from Y0M10",
+   "why_it_matters": "An interruptible step at maximum vulnerability; and he does not know whether changing an open article closes it."
+  },
+  {
+   "id": "craft/recall",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "act two onward, undated — he can take his own articles back, close, kneeling, slow",
+   "why_it_matters": "Cleanup scenes; a botched recall produces more evidence, not less, and he cannot do it at all with a broken hand."
+  },
+  {
+   "id": "skill/fieldcraft",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 — breaking contact, leaving a town, reading a briefing for what it does not say, using a broker, pricing a job",
+   "why_it_matters": "Method and men rather than techniques, taught partially and badly by people who are being spent."
+  },
+  {
+   "id": "skill/road-discipline",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 — ridge-side and parallel, towns entered at the two unremarkable hours, food bought once per town",
+   "why_it_matters": "The competence the front room takes away from him; establish it before a woman asking whose he is nearly ends the job."
+  },
+  {
+   "id": "skill/withholding",
+   "category": "skill",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — he discovers that not answering is available; he still cannot state a falsehood",
+   "why_it_matters": "Silence is a thing you can do to somebody; the fall's first step, and the technique he refines for the rest of his life."
+  },
+  {
+   "id": "know/no-lie-mechanism",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (12th) — he tried to lie for the first time and there was nothing behind the opening sound",
+   "why_it_matters": "He can never talk his way out of a room; the tribunal his brother survived would have killed him."
+  },
+  {
+   "id": "kit/tin",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — his mother's grit tin off the bench, thirty-one pieces in it when he leaves",
+   "why_it_matters": "The object he holds up at the riverbed; a third of it goes in six minutes and he fails to count it."
+  },
+  {
+   "id": "kit/old-frame",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — the superseded copper frame out of the drawer under the rag",
+   "why_it_matters": "He left Akagane's new one behind because a Ruri frame is a signature; nine weeks of a dead man's work stays in a drawer."
+  },
+  {
+   "id": "kit/grease-tin",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — his mother's, gone back for and not costed; she did his knuckles with it in Y0M3",
+   "why_it_matters": "The only object in the kit chosen for a reason he cannot write down."
+  },
+  {
+   "id": "kit/kongo-drop",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 (5th) — the plain drop out of the burnt papers, with the note a third of the way up, that he can tell is wrong and cannot tell is deliberate",
+   "why_it_matters": "Carried for years, checked through his coat without noticing; he is holding it when he stands in front of the man who made it."
+  },
+  {
+   "id": "kit/register-corner",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 (5th) — a burnt corner of Meno's register with a ruled line and part of one character",
+   "why_it_matters": "All that survives of the book of the forty, and of the nineteen who went."
+  },
+  {
+   "id": "kit/clasp",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (8th) — corps-issue fastener taken off a dead genin, with his mother's hand in it",
+   "why_it_matters": "The object that ends the first threshold and the first reading of the tone series."
+  },
+  {
+   "id": "kit/coat",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (20th), LOST Y0M7 (3rd) — bought at nearly double, the first thing he ever chose for himself",
+   "why_it_matters": "Left wet on a nail at Hanase; the first entry in the column he had to invent."
+  },
+  {
+   "id": "kit/mittens",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 — a pair with a hole in the thumb, given out of guilt, entered as Free",
+   "why_it_matters": "A gift he cannot price, in a chapter about being unable to price anything."
+  },
+  {
+   "id": "kit/papers",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — route, a place to sleep at each end, and papers, from the handler",
+   "why_it_matters": "He can now be inside towns — and be described in them."
+  },
+  {
+   "id": "kit/blade",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 — a short half-katana made one-handed; it came out OPEN, does not degrade, cannot be replaced, and never goes quiet",
+   "why_it_matters": "The irreplaceable object at the centre of the kit, a beacon he cannot switch off, and a question he cannot answer for years."
+  },
+  {
+   "id": "kit/gloves",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y1M? — bought for the cold; inside a week he works out he cannot seal in them",
+   "why_it_matters": "Gloves on means he has made a safety assessment. He is wrong about it exactly once, and that is a scene."
+  },
+  {
+   "id": "kit/plates",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y2M? — mismatched plate under the coat, three makers, none of them good, all of them him",
+   "why_it_matters": "Protection as transfer; reactive armour that publishes what he expected every time it fires."
+  },
+  {
+   "id": "standing/wiped-out",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — he settles Tsunade's gambling debt and walks out with no money and dying equipment",
+   "why_it_matters": "A material state and not a gesture; everything after that is done broke, with articles going off."
+  },
+  {
+   "id": "book/ledger",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M1 — a discarded Kanaya day-book with a narrow fourth column ruled down it, Meno's way; numbered whole in Y0M5",
+   "why_it_matters": "The audit voice as an object; the book is a report being compiled for a woman at a bench."
+  },
+  {
+   "id": "book/hunter-file",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M7 (3rd) — a second book, five columns, four headed and one invented on the spot: what it cost",
+   "why_it_matters": "The curve made into an object. Entry one has no enemy in it at all."
+  },
+  {
+   "id": "book/tone-series",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (8th) onward — dated readings of his mother's hand off circulating crystal",
+   "why_it_matters": "The book's most-used instrument; corrupted by lag and forgery from Y2 and it never announces that it has stopped being true."
+  },
+  {
+   "id": "book/own-dockets",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — he agreed to keep nothing on paper and kept everything, and never wrote down that he had decided to",
+   "why_it_matters": "Load-bearing: without it there is no file to search at twelve and no needle in the haystack."
+  },
+  {
+   "id": "book/towns-list",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 — every place where somebody alive could describe him, with dates; eleven of them",
+   "why_it_matters": "A description does not expire; the curve felt as shrinking options he can hold in his hand."
+  },
+  {
+   "id": "book/half-seal-rate",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 onward — one in three fails, one in nine of those sets on the caster, revised after every session",
+   "why_it_matters": "A capability carried with a number on it, and the day it is low enough to spend is a decision made on a page."
+  },
+  {
+   "id": "book/blade-chart",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 onward — the blade's length and the count of how many times it has been altered and survived",
+   "why_it_matters": "Two series on facing pages: how tall he is getting and how his mother is doing."
+  },
+  {
+   "id": "book/kit-dates",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 onward — every carried article has a date, so there is a maintenance schedule and a morning ritual",
+   "why_it_matters": "A boy checking his kit at dawn and finding the edge gone off something he needs today."
+  },
+  {
+   "id": "book/curve-date",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "act two onward, undated — the computed date at which the hunter curve exceeds him, revised after every engagement",
+   "why_it_matters": "The ticking. Anybody standing next to him on that date dies too, and that is arithmetic, not fear."
+  },
+  {
+   "id": "book/distance-rule",
+   "category": "possession",
+   "holder": "Tadayoshi",
+   "gloss": "act two onward, undated — the household's only written law: a stated distance nobody may come inside",
+   "why_it_matters": "He wrote it out of care; Uzuki breaks it from doctrine, and it is void the day he comes back."
+  },
+  {
+   "id": "know/armour-transfer",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age ~9, in hospital after a fight went too far) — protection distributes force, it does not cancel it",
+   "why_it_matters": "His engineering and his ethics are the same error, and the book can prove it on a body and then on a person."
+  },
+  {
+   "id": "know/hands-are-the-weakness",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age 8, told by Aoyagi) — armoured hands cannot seal, so the hands stay bare permanently",
+   "why_it_matters": "He carries the question for two years and it is Y0M10 that finally answers it."
+  },
+  {
+   "id": "know/family-taken",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — eleven men, twenty minutes, no shouting, a boat north at twenty past five, and no bodies anywhere",
+   "why_it_matters": "Reconstruction is the book's method and it is run first on his own house; he never learns what happened to them."
+  },
+  {
+   "id": "know/find-the-book",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 (7th) — do not ask people, find where it is written down",
+   "why_it_matters": "The method he uses for the rest of his life, invented at ten years three months and eleven days."
+  },
+  {
+   "id": "know/what-a-book-is-for",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — every book records the thing somebody was paid to record and nothing else; state movements go in as exempt",
+   "why_it_matters": "Why the search can always find the money and never the room."
+  },
+  {
+   "id": "know/nezu-exemption",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4 — three exemptions on the whole coast that month, one of them at Nezu on the third, with no master and no cargo",
+   "why_it_matters": "The single thread out of the harbour office and the reason he goes north."
+  },
+  {
+   "id": "know/mother-alive",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (8th) — her hand on a fitting she has never made in her life, on new issue, so she is at a bench somewhere else",
+   "why_it_matters": "The ledger starts working again because there is somebody to hand it to."
+  },
+  {
+   "id": "know/boat-arithmetic",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (16th) — eleven days of water for nine, a crew of six, marked unchecked; the radius is an arc and not a place",
+   "why_it_matters": "Three more ate than sail her, so two other people were taken that week and he will never know their names."
+  },
+  {
+   "id": "know/stores-second-office",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (16th) — the warrant stamp and a six-stroke countersign in a cut square, copied whole; seen twice in nine years on that coast",
+   "why_it_matters": "An accounting authority is not an address; he has a place he cannot use for years."
+  },
+  {
+   "id": "know/report-through-a-market",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (12th) — a fight nobody survives still files a report; it takes four days and comes out through a market",
+   "why_it_matters": "He is the whole of the record and does not get to be it, and he cannot correct one word of it."
+  },
+  {
+   "id": "know/heat-sink",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (2nd) — he is being spent as an attention sink, the sum is done out loud in front of him, and he is pleased",
+   "why_it_matters": "Nobody has ever told him what he is for; it settles the investment and it should be played without comment."
+  },
+  {
+   "id": "know/aoyagi-errand",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 — about four months late he works out what the message that was nothing was actually for",
+   "why_it_matters": "Discovery in arrears, and by then Aoyagi is a person he cannot go back to."
+  },
+  {
+   "id": "know/being-right-is-not-a-lever",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (29th) — being right did not remove the job, it only removed him from it",
+   "why_it_matters": "Drives the rest of the act: it is why he stops refusing and therefore why he is on the cargo posting."
+  },
+  {
+   "id": "know/i-am-the-syllabus",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M9 (18th) — the hunter who broke off is coming back, and everything she knows she got off him",
+   "why_it_matters": "The curve understood from inside, at ten, and he is pleased by his own grading and should be frightened by that."
+  },
+  {
+   "id": "know/where-i-stand",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (20th), proved Y0M9 (17th) — his choice of ground is a preference, and preferences get written down by other people",
+   "why_it_matters": "Twenty-eight days, not a year; the better he gets the fewer places he can fight."
+  },
+  {
+   "id": "know/no-wrong-description",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M9 (18th) — four minutes of him will be on a sheet in Kiri by month end and it will be right, because she was there",
+   "why_it_matters": "The protective wrong description had a date on it and the date has now passed."
+  },
+  {
+   "id": "know/brother-alive",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M? (after Y0M5; the vow follows it) — Iwao testified, walked out, and is alive under a name that is not his",
+   "why_it_matters": "Not available in ch1–5: he gets four fifths of it at Kenji's counter and cannot finish it. The vow cannot be sworn before this."
+  },
+  {
+   "id": "know/boilerplate",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y2M? — the postings are written to be forgettable, and an earlier sheet with the same wording is one of his own",
+   "why_it_matters": "Converts there is a ring into I am part of it, and gives the creed its real load."
+  },
+  {
+   "id": "know/mother-dead",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y2M? (after Gatō, before the village conversation) — the chart stopped flattening, so she has been dead about a year",
+   "why_it_matters": "He tells nobody, and the withheld sentence costs him the household."
+  },
+  {
+   "id": "know/someone-there-has-the-gift",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y2M? — a true finding, dated, in his own hand: the pieces are still laid, so somebody in that building can lay them",
+   "why_it_matters": "The entry is already written when he finally stands in front of Kongō, and it does nothing for years."
+  },
+  {
+   "id": "know/guren-exists",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "undated — there is another Ruri, who left before the worst, and lived",
+   "why_it_matters": "The sword's exclusivity clause fails and the last-of-the-line identity his ideology rests on is false."
+  },
+  {
+   "id": "know/kimimaro-dying",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — Uzuki sends for him because she cannot hold a true thing about him and not say it",
+   "why_it_matters": "It is the reason he breaks the doctrine and comes back; the organ he lacks arrives by post."
+  },
+  {
+   "id": "know/collection-order",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — a signed order citing improved yield out of the Ruri compound, produced by his brother",
+   "why_it_matters": "The only true thing Iwao ever says to him, used as a weapon, and it works. Placement rule: after the creed, never before."
+  },
+  {
+   "id": "know/mikage-silence",
+   "category": "knowledge",
+   "holder": "Tadayoshi",
+   "gloss": "undated, author call — that his mother sat still in the tribunal and let Iwao unmother her",
+   "why_it_matters": "The only thing in the book capable of making him doubt the vow; Kongō is the delivery mechanism."
+  },
+  {
+   "id": "bind/hide-the-gift",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age 8) — nobody sees this, not your father, not Meno, nobody; reason given entire: because of my uncle",
+   "why_it_matters": "The first unexplained rule of his life, given by somebody who loved him, and it is what turned a collection into a raid."
+  },
+  {
+   "id": "bind/stand-alone",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 (age 8) — needing a village's protection makes people complacent, and complacent people rot",
+   "why_it_matters": "It is his father's half of a kitchen argument, absorbed at eight, and he believes he derived it from the purge."
+  },
+  {
+   "id": "bind/no-paper",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — the handler's condition: nothing written, not a name, not a place, not a date",
+   "why_it_matters": "Agreed out loud and broken the same night; the first dishonest thing he ever does, to the first man who told him the truth."
+  },
+  {
+   "id": "bind/never-open-the-parcel",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (4th) — reasoned out over a mile in four steps, ending in a preference arrived at without arithmetic",
+   "why_it_matters": "The first moral position nobody gave him — and the parcel was the exam, and one of the four was rags."
+  },
+  {
+   "id": "bind/ask-three-prices",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (20th) — ask what three people paid before you pay anybody; three, because two can be wrong the same way",
+   "why_it_matters": "The only correction ever made to the one light of the missing organ he can be taught around."
+  },
+  {
+   "id": "bind/take-your-work-with-you",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M5 (20th) — the handler's instruction, and he cannot comply with it",
+   "why_it_matters": "Eleven stands are left standing on the Aku bank because he had no hands, and he knew he was doing it while he did it."
+  },
+  {
+   "id": "bind/every-new-thing-one-fight",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M10 — novelty is a consumable; getting better at the same thing steepens the curve",
+   "why_it_matters": "He hoards. He fights every fight with less than he has, on purpose, for three years, and can produce the reason on demand."
+  },
+  {
+   "id": "bind/vow",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M? (sworn at ten) — he will kill his brother with a sword of his own design, not one of the seven",
+   "why_it_matters": "A vow with a specification can be satisfied, so it is a clock — and it will make him decline a clear chance and somebody dies of the delay."
+  },
+  {
+   "id": "bind/creed",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "Y1M? (at eleven, after the merchant, the house and the boy) — stay your hand from the blood of the innocent",
+   "why_it_matters": "It does not say who is innocent, he does. He ends act one with nothing governing him at all, which is the point."
+  },
+  {
+   "id": "bind/theory-stays-private",
+   "category": "rule-or-belief",
+   "holder": "Tadayoshi",
+   "gloss": "held from pre-Y0; marked to break in act three as the price of Kimimaro's diagnosis",
+   "why_it_matters": "The adult version of keep it to yourself with the reason swapped out; the replacement constraint must be named before it breaks."
+  },
+  {
+   "id": "mark/stopped-refusing",
+   "category": "trait",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M9 (4th) — he runs the same cross-reference, gets the same answer, and says right",
+   "why_it_matters": "Rendered as a blank in a ledger. There is no scene of him deciding, and the reader has to supply the twenty-ninth."
+  },
+  {
+   "id": "mark/lets-one-thing-stand",
+   "category": "trait",
+   "holder": "Tadayoshi",
+   "gloss": "Y1M? — he stops correcting boyfriend; later he files cause: the sword and leaves it on a re-read",
+   "why_it_matters": "The first two false things he ever permits, both built out of silence, both because correcting them means saying what somebody is to him."
+  },
+  {
+   "id": "mark/threshold-bookkeeping",
+   "category": "trait",
+   "holder": "Tadayoshi",
+   "gloss": "act two onward, undated — counts, warning signs, thresholds, and rules about who may stand where",
+   "why_it_matters": "All accurate, none predictive; the hands going still is a poor tell and he has written down that it is a poor tell."
+  },
+  {
+   "id": "body/right-hand",
+   "category": "injury-or-condition",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M9 (17th) — two or three bones across the back of the right hand: six weeks splinted and six more of it being no good",
+   "why_it_matters": "No seals for six weeks. It is the state he is in when the cargo posting comes, and it is what forces the half seals and the blade."
+  },
+  {
+   "id": "body/weather-hand",
+   "category": "injury-or-condition",
+   "holder": "Tadayoshi",
+   "gloss": "from Y0M11, fading over about a year — a thing across the back that tells him when it is going to rain",
+   "why_it_matters": "The first seal after six weeks takes him four goes and he tells nobody."
+  },
+  {
+   "id": "body/hands-chapping",
+   "category": "injury-or-condition",
+   "holder": "Tadayoshi",
+   "gloss": "Y1M? — the first cracks that do not close, in a country where nothing dries",
+   "why_it_matters": "The hands get worse every year and that is how the book counts time."
+  },
+  {
+   "id": "body/hands-not-healing",
+   "category": "injury-or-condition",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — they have stopped healing between jobs",
+   "why_it_matters": "The anchor image's last change, and the only announcement the book gives that a year has passed."
+  },
+  {
+   "id": "body/outgrown",
+   "category": "injury-or-condition",
+   "holder": "Tadayoshi",
+   "gloss": "Y2M? — two inches taller, and the coat is the same coat",
+   "why_it_matters": "Change is tracked and never narrated: what does not fit today is where the year is."
+  },
+  {
+   "id": "standing/undeclared",
+   "category": "institutional-fact",
+   "holder": "Tadayoshi",
+   "gloss": "pre-Y0 — his assessment column is empty; he was never presented in the year of his eighth birthday",
+   "why_it_matters": "The crime is the concealment and not the gift; if they had declared him the rest of them would have lived."
+  },
+  {
+   "id": "standing/on-a-form",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M4–Y0M5 — a ten-year-old struck from a household: constables, a name at the ports, and nothing actually hunting him",
+   "why_it_matters": "He behaves for a month as though pursued by people who are not looking, and cannot tell the difference."
+  },
+  {
+   "id": "standing/hunted",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "from Y0M5 — he has handed the state its first specification; first contact lands Y0M7 (3rd)",
+   "why_it_matters": "There is no version of this book in which he gets stronger and the danger goes down."
+  },
+  {
+   "id": "standing/kui",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — 杭, the stake: a trade name written by his handler out of four minutes of fences and nothing about the ninety yards",
+   "why_it_matters": "He did not choose it and will not correct it, and it is on every docket for three years."
+  },
+  {
+   "id": "standing/probation",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6–M7 — carrying, which is an exam and not a job, and he thinks it is a job",
+   "why_it_matters": "The one contract written whole is the last of its kind, and the reader should only work that out afterwards."
+  },
+  {
+   "id": "standing/investment",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (2nd) — the carrying stops; fieldcraft, sparring against adults who are trying, and whatever the eleven hundred happen to contain",
+   "why_it_matters": "They are not investing in a weapon, they are buying time with a child, and every technique confirms the creed."
+  },
+  {
+   "id": "standing/difficult",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (21st) onward — he is right, out loud, in rooms that cannot afford to be corrected",
+   "why_it_matters": "Not defiance. Nobody thanks him, something in the room closes, and he does it again eleven days later."
+  },
+  {
+   "id": "standing/freight",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M11 — moved back onto carrying by nobody's decision, and saying so correctly is what makes it permanent",
+   "why_it_matters": "The punishment posting that reaches the monastery; he arrives bored, insulted and resentful."
+  },
+  {
+   "id": "standing/institution-of-his-own",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y1M? — he walks out with two children and no organisation",
+   "why_it_matters": "He has founded the exact thing he despises, and his philosophy is refuted by two children who will not leave."
+  },
+  {
+   "id": "standing/amnesty",
+   "category": "position-or-standing",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — admitted at the door on the strength of a secret he does not know he is carrying",
+   "why_it_matters": "The institution keeps him by needing him, which is the one mechanism his ideology has no answer to."
+  },
+  {
+   "id": "bond/kajiya",
+   "category": "relationship",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (1st) — the handler: not cruel, not warm, and he says out loud exactly what the arrangement is",
+   "why_it_matters": "The closest thing to a father in act one, and a man spending a child; trusted further than anybody kind."
+  },
+  {
+   "id": "bond/kajiya-gone",
+   "category": "relationship",
+   "holder": "Tadayoshi",
+   "gloss": "from Y0M8 (2nd) — the handler stops coming, there is nobody to ask, and he never finds out anything at all",
+   "why_it_matters": "The trade-name rule biting: he could not tell anybody who Kajiya was."
+  },
+  {
+   "id": "bond/fuda",
+   "category": "relationship",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 (12th) — the broker who is decent to him for nothing, identified by his handwriting in eleven seconds",
+   "why_it_matters": "His dockets are where the boilerplate lives; the hunters get to him later and it proves the doctrine."
+  },
+  {
+   "id": "bond/hoki",
+   "category": "relationship",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M8 (9th) — the teacher who asks questions and does not answer them, and never once looks at his hands",
+   "why_it_matters": "The first person ever to find the hole in something Tadayoshi had already got right — and he did not enjoy doing it."
+  },
+  {
+   "id": "bond/nagi-designation",
+   "category": "relationship",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M9 (18th) — she goes into the file as the left-hander, because he has no other system for naming people, and stays that about two years",
+   "why_it_matters": "A designation can be filed and a person cannot; when he learns her name something is spoiled he cannot put back."
+  },
+  {
+   "id": "debt/uzuki",
+   "category": "obligation",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M12 — the rescue is a debt he is carrying and he says so plainly, on stated terms",
+   "why_it_matters": "There is no warmth in the founding of that household and the page must be genuinely unromantic about it."
+  },
+  {
+   "id": "debt/turnips",
+   "category": "obligation",
+   "holder": "Tadayoshi",
+   "gloss": "Y0M6 — two turnips out of a clamp, entered as theft with the value, to be paid later if it ever can be",
+   "why_it_matters": "The smallest live obligation in the book, and it lives in a ledger. Uzuki independently keeps the same one."
+  },
+  {
+   "id": "debt/tsunade",
+   "category": "obligation",
+   "holder": "Tadayoshi",
+   "gloss": "Y3M? — he settles her gambling debt after losing the bet, because a woman with creditors leaves town",
+   "why_it_matters": "She sees through it, is insulted, and is right — and it is also the first thing anybody has done for her in a decade."
+  },
+  {
+   "id": "skill/forms",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "pre-Y0 — nine forms numbered to fourteen, grandfather to father to her, with no lineage attached to them",
+   "why_it_matters": "A technique without a lineage, exactly as she has a hair colour without a reason; nobody will explain either."
+  },
+  {
+   "id": "skill/eighth-count",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "Y0M1 (on the eighteenth try) — late; not at the set, at the going; stop on purpose",
+   "why_it_matters": "Her father taught her the hard half of a medic's hands with a wooden sword and neither of them knew."
+  },
+  {
+   "id": "skill/palm",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 (3rd, three and a half hours) — find it, hold it, take something out first, a thimble and stop; little, stop, wait, ninety times",
+   "why_it_matters": "Buys hours and not cures; she cannot tell during; it is the household's only medicine for three years."
+  },
+  {
+   "id": "skill/diagnosis",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 — hand on, what is different, where does it hurt, and do those two agree; they disagree about half the time",
+   "why_it_matters": "Exactly the organ Tadayoshi lacks — and on a field she uses it to pick, not to support."
+  },
+  {
+   "id": "skill/empty-ninety",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 to Y0M8 (26th), then GONE — she can run the exercise on a wall, on her own arm, on nobody",
+   "why_it_matters": "115 nights of numbers and then nothing, unremarked by any character or line of narration; from here it only works on a person."
+  },
+  {
+   "id": "skill/can-lie",
+   "category": "trait",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (11th) — Sacks: perfectly smooth, entirely true, and in every way that mattered a lie",
+   "why_it_matters": "The household's only liar; from about eleven she runs the cover for all three of them."
+  },
+  {
+   "id": "skill/glass-cannon",
+   "category": "skill",
+   "holder": "Uzuki",
+   "gloss": "act two onward — katana, straight in, no guard, no disengage, and no plan for afterwards",
+   "why_it_matters": "A valuation and not a death wish, and it makes his arity problem worse: not she cannot, but she will."
+  },
+  {
+   "id": "kit/pig-knife",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (26th) — seven inches, taken because it is not wanted until the eleventh month, which gives her ten weeks",
+   "why_it_matters": "The knife is the thing that worked; she never replaces it and refuses a made blade, which is his vow's specification in miniature."
+  },
+  {
+   "id": "kit/knife-is-mine",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (9th) — she oils it, and a thing you look after is a thing you are going to have for a while",
+   "why_it_matters": "The moment carrying becomes owning, four minutes with a rag and a pot put back the way it was."
+  },
+  {
+   "id": "kit/flour-bag",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y0M5 to Y0M9 — four columns: the ninety, the money, the days to fifteen, and a fourth with no heading",
+   "why_it_matters": "Two of the four columns die during act one and nobody ever remarks on it."
+  },
+  {
+   "id": "kit/sacking-bag",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y0M10 — a new bag on sacking; only the third column carries forward (1,620, 1,584, 1,559)",
+   "why_it_matters": "The one thing that has not stopped, kept through hunger, a monastery and a cellar."
+  },
+  {
+   "id": "kit/half-ryo",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (17th) — about half a ryō in a twist of cloth, and it is the whole of the estate",
+   "why_it_matters": "It is not for food; it is for the first month at a door, because a girl with nothing is asking and a girl with half a ryō can pay."
+  },
+  {
+   "id": "kit/shoes",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "lost Y0M9 (17th) — none at all for the road; regained Y0M10, off a heap, wrong size, for a twentieth",
+   "why_it_matters": "Two miles on stone barefoot, and then a genuinely enormous day."
+  },
+  {
+   "id": "kit/uzushio-sword",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y1M? (recovered at Nakadō) — her grandfather's: red lacquer, brass and gold, a pierced whirl, running tide carved down the blade",
+   "why_it_matters": "Worn openly from eleven, too big for two years, and she will not have it shortened for anybody."
+  },
+  {
+   "id": "kit/medical-kit",
+   "category": "possession",
+   "holder": "Uzuki",
+   "gloss": "Y2M? — assembled by her, and she can inventory it from memory",
+   "why_it_matters": "The first competence that is visibly and entirely hers."
+  },
+  {
+   "id": "body/dyed-hair",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "dyed pre-Y0; last dye Y0M9 (11th); taken out by rain Y0M10 (26th); re-dyed on his instruction Y1M?; shown at a gate Y3M?",
+   "why_it_matters": "The sequence is the character, and what matters at each step is who decided."
+  },
+  {
+   "id": "body/feet",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (17th–20th) — four cuts across the ball of both, a place off the outside edge behind the little toe, and filthy",
+   "why_it_matters": "The feet are the whole of the first three days on the road; water at a beck makes it worse and nobody told her."
+  },
+  {
+   "id": "body/hunger",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (24th) into Y0M10 — about a fifth of a ryō in five days, hungry from the middle of the second",
+   "why_it_matters": "The most difficult sustained thing she did that year and nobody ever knew about it."
+  },
+  {
+   "id": "body/thimble",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "pre-Y0, rising — about a thimble of chakra at ten, and a cup by twenty",
+   "why_it_matters": "Fuel and window: nobody else alive could run ninety a day on a dying boy for three years."
+  },
+  {
+   "id": "body/taller",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "Y2M? — taller than him, and stays taller",
+   "why_it_matters": "The one doing the protecting is the bigger one and the one being protected gives the orders."
+  },
+  {
+   "id": "body/borrowed",
+   "category": "injury-or-condition",
+   "holder": "Uzuki",
+   "gloss": "act two onward — everything she survives is borrowed and comes back on a delay she will not track",
+   "why_it_matters": "You cannot tell during, and she does not stop: the glass cannon's honest price."
+  },
+  {
+   "id": "know/medic-three-days",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M1 — there is a medic at Kayano, three days if the road is dry, and the number after that is money",
+   "why_it_matters": "The engine of her thread: the obstacle is not ignorance, it is a sum."
+  },
+  {
+   "id": "know/what-an-afternoon-buys",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M3 — the nights, the edge, the muscle panicking; not the thing, not in an afternoon and not in ten years",
+   "why_it_matters": "She goes in with a question and comes out with a schedule; it is what makes volunteering character and not plot."
+  },
+  {
+   "id": "know/the-hundred",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 (about the fourth day out) — there is a hundred where two hundred and forty should be, which is why the refusal took four seconds",
+   "why_it_matters": "She brings it home unspent and puts it on the table, and it is the worst object in the room."
+  },
+  {
+   "id": "know/mother-was-never-coming",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M5 — ask me tomorrow, and then the honest answer, which is worse than a lie",
+   "why_it_matters": "Sae refuses to apologise and says exactly why, and she is right, and it costs both of them."
+  },
+  {
+   "id": "know/it-isnt-the-hands",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M6 (4th) — the ceiling is not her craft, it is that she is ten; and the rate collapses the moment the work is regular",
+   "why_it_matters": "A saleable skill with no market, and not one of the reasons changes inside the time available."
+  },
+  {
+   "id": "know/shimoda",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M6 (27th) — the H in her mother's book is a name, and the sale closes in one stroke of a pen while she watches",
+   "why_it_matters": "He is not a monster, he is the arithmetic — and her mother is the one who did it, and nobody did it to her."
+  },
+  {
+   "id": "know/what-it-is",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M7 (20th) — through a brick wall: voices, then not voices, a chair going over, and somebody standing it back up",
+   "why_it_matters": "I do not know what it is called. I know what it is. And an argument runs down; that stopped like a door."
+  },
+  {
+   "id": "know/mother-lies",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M7 (21st) — one sentence about a chair, with a reason attached to it, and a pair of hands moved out of hers",
+   "why_it_matters": "She loses the one instrument she owns four seconds into the first morning, and it was the thing she was going to use for two months."
+  },
+  {
+   "id": "know/no-rule",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (8th) — eleven questions tested, nine noes: everything that correlates is on the outside of the house",
+   "why_it_matters": "A rule is a thing you can manage; four marks and no rule is a thing you can only wait for."
+  },
+  {
+   "id": "know/i-bent-it",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (22nd) — eleven nights on a stool moved the interval from four days to twelve, so she is one of the variables",
+   "why_it_matters": "Every night she goes to bed is a decision with arithmetic under it, and she is ten and she lasted eleven."
+  },
+  {
+   "id": "know/not-a-deterrent",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (6th) — they go into their own room and shut the door with her four feet away: I was not a reason, I was a nuisance",
+   "why_it_matters": "It takes the whole of the eighth month's finding off her and leaves her with a knife under a mat."
+  },
+  {
+   "id": "know/list-untested",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (26th) — eleven people in three years and nothing ever happened, because she was never near any of them",
+   "why_it_matters": "I have never been wrong is not evidence — and she still will not reinstate the only man she ever took off."
+  },
+  {
+   "id": "know/nobody-knows-where-i-am",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (24th) — there is nowhere she is written down, and nobody will ever say her name to anybody for any reason",
+   "why_it_matters": "It is the worst thing that has ever happened to her and the safest she has ever been, and they are the same fact."
+  },
+  {
+   "id": "know/the-word-worked",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y0M12 — she said one word and it saved her, and the mechanism was him",
+   "why_it_matters": "The founding reasoning of her whole life: everything else took, he gave, and he is the thing that answers."
+  },
+  {
+   "id": "know/shimoda-lived",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y1M? — she does not know for two years whether she killed him; she finds out when a door opens at Nakadō",
+   "why_it_matters": "When she knocks she does not know who is going to open it, and it is one of the reasons she goes back."
+  },
+  {
+   "id": "know/kimimaro-decline",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y1M? onward — she times how long he can hold an extension before it fails, weekly, in a book, and the number goes down",
+   "why_it_matters": "The mirror of the tone series: two dying people in one house, and each of them can read only one chart."
+  },
+  {
+   "id": "know/own-clan-name",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "undated — somebody who knows swords reads the reverse of the blade to her out loud, as a pleasantry",
+   "why_it_matters": "She has been wearing the word on her hip for years and broadcasting a family she could not name."
+  },
+  {
+   "id": "know/why-he-left",
+   "category": "knowledge",
+   "holder": "Uzuki",
+   "gloss": "Y3M? — his mother had been dead a year when he offered them a village, and he never said so",
+   "why_it_matters": "She does the arithmetic in two seconds: she would have gone, and it is the one thing she was never given the chance to volunteer for."
+  },
+  {
+   "id": "bind/hair-is-hair",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "held from pre-Y0, given up Y0M12/Y1M1 on his instruction, and not experienced as a loss",
+   "why_it_matters": "She is the refutation of his central policy and she surrenders it in the first week; the corruption starting, small."
+  },
+  {
+   "id": "bind/never-tell-about-the-hands",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 — Anzai's condition: nobody, ever, not her mother, not Tazu, and particularly nobody in Kayano",
+   "why_it_matters": "It is also the rule that guarantees she cannot earn from the one valuable thing she has."
+  },
+  {
+   "id": "bind/the-list",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "pre-Y0 (since seven) — she counts who has looked at her too long, and there is a list, and it has never been wrong",
+   "why_it_matters": "Y0M7 (16th) she takes one man off it, deliberately, on good reasoning, and that is what she cannot forgive herself for."
+  },
+  {
+   "id": "bind/never-overrule-the-count",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "Y0M8 (26th) — she will not put him back on, because a list you argue with is not a list, it is an opinion",
+   "why_it_matters": "She would rather have nothing than have a thing she knows she will do that to; it produces the girl who keeps a record."
+  },
+  {
+   "id": "bind/spend-yourself",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "act two onward — conserving herself buys nothing she wants and spending herself buys the thing she wants",
+   "why_it_matters": "Statable, internally consistent, and wrong in a way she cannot see; it is a valuation, not a death wish."
+  },
+  {
+   "id": "bind/the-hand-rule",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "act two onward — anybody who touches him loses the hand: calm, procedural, disproportionate, and written down",
+   "why_it_matters": "Not rage and not jealousy. Maintenance, under a rule she can produce on demand."
+  },
+  {
+   "id": "bind/boyfriend",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "Y1M? — the word, in use at eleven, at volume, to strangers, and he stops correcting it",
+   "why_it_matters": "A flag planted on him publicly that nobody can take down, and by tenure it becomes a fact three countries operate on."
+  },
+  {
+   "id": "bind/record-of-rechoosing",
+   "category": "rule-or-belief",
+   "holder": "Uzuki",
+   "gloss": "Y1M? onward — she keeps a record of every time she has chosen him again",
+   "why_it_matters": "You do not audit a thing you are not worried about; it is the difference between a person and an imprint."
+  },
+  {
+   "id": "standing/unregistered",
+   "category": "institutional-fact",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (17th) to Y0M12 — nobody in Nakadō writes her down, and she never gave Kiku a name",
+   "why_it_matters": "There is no register anywhere in the world with her in it for a year, and if she stopped nobody would come."
+  },
+  {
+   "id": "standing/for-sale",
+   "category": "position-or-standing",
+   "holder": "Uzuki",
+   "gloss": "Y0M10 (28th) — priced twice in one room, for the blood and then separately for the rest, with a date: not before the eleventh month",
+   "why_it_matters": "She has a date, unlike the boy in the other cell, and it arrives and nothing happens on it."
+  },
+  {
+   "id": "standing/runs-the-cover",
+   "category": "position-or-standing",
+   "holder": "Uzuki",
+   "gloss": "Y1M? onward — she decides what the three of them are today, and tells the other two, and they do it",
+   "why_it_matters": "The boy who cannot lie is dependent on her for it, and can say neither that he hates it nor that he uses it."
+  },
+  {
+   "id": "bond/kuriya",
+   "category": "relationship",
+   "holder": "Uzuki",
+   "gloss": "Y0M6 (4th) to Y0M9 (14th) — the one man in the village who does not talk; half a ryō a month, twice a week, in daylight",
+   "why_it_matters": "He hands her the name and street she runs to, three days before she runs, and never knows he did it."
+  },
+  {
+   "id": "bond/anzai",
+   "category": "relationship",
+   "holder": "Uzuki",
+   "gloss": "Y0M4 (3rd) — he finds the hole in her trade in four seconds and teaches her anyway, for reasons of his own",
+   "why_it_matters": "She gets it as charity having intended to sell it, and dies believing she earned it in a nettle bank."
+  },
+  {
+   "id": "bond/kimimaro",
+   "category": "relationship",
+   "holder": "Uzuki",
+   "gloss": "Y1M? — she tells him what to do, out loud, immediately, and he does it exactly, and neither of them names it",
+   "why_it_matters": "The unit that actually works — and it works in the room Tadayoshi has left."
+  },
+  {
+   "id": "debt/kuriya-unpaid",
+   "category": "obligation",
+   "holder": "Uzuki",
+   "gloss": "Y0M9 (14th) — about half a ryō owing to her and never paid, because he pays at month end and it was the fourteenth",
+   "why_it_matters": "She leaves owing nothing and owed something, and there is nobody to ask."
+  },
+  {
+   "id": "standing/stock",
+   "category": "position-or-standing",
+   "holder": "Kimimaro",
+   "gloss": "pre-Y0 onward — not a prisoner: stock, held pending a buyer, and assessed at intervals",
+   "why_it_matters": "The antagonist of his thread is the man who values him; it is the same machine that later kills Mikage."
+  },
+  {
+   "id": "standing/sold",
+   "category": "position-or-standing",
+   "holder": "Kimimaro",
+   "gloss": "Y0M12 — a sale is scheduled; he becomes a delivery rather than a boilerplate posting",
+   "why_it_matters": "The consignment moves because the buyer has paid, which is what makes the extraction a robbery with a named victim."
+  },
+  {
+   "id": "standing/extracted",
+   "category": "position-or-standing",
+   "holder": "Kimimaro",
+   "gloss": "Y1M? — taken by a boy executing his orders exactly, and then argued over in a room by people who lost family to the Kaguya",
+   "why_it_matters": "The op succeeds, so the argument cannot be about insubordination and has to be about what everybody actually objects to."
+  },
+  {
+   "id": "skill/put-one-out-elsewhere",
+   "category": "skill",
+   "holder": "Kimimaro",
+   "gloss": "Y0M6 — he asks may I, is told he may, and puts one out of the back of his left hand",
+   "why_it_matters": "The first permission of his life granted in a sentence, and the first thing he ever did in that building that was his."
+  },
+  {
+   "id": "mark/practising",
+   "category": "trait",
+   "holder": "Kimimaro",
+   "gloss": "Y0M8 — he works out, untaught, that a thing might get better if you do it a great many times, and starts a second count",
+   "why_it_matters": "The one initiative of his life, spent on making himself better property, running for the second time."
+  },
+  {
+   "id": "mark/mirrors",
+   "category": "trait",
+   "holder": "Kimimaro",
+   "gloss": "Y2M? — he copies mannerisms exactly and without understanding: testing edges with his thumb for a note he cannot hear",
+   "why_it_matters": "Every borrowed gesture is a piece of evidence that he is trying, and nobody in that household remarks on it."
+  },
+  {
+   "id": "body/control-bone",
+   "category": "injury-or-condition",
+   "holder": "Kimimaro",
+   "gloss": "Y0M6 onward — an unbroken bone out of the back of his right hand, kept as the comparison; it catches on everything",
+   "why_it_matters": "He learned to eat with the hand turned and kept it: it is not for anything except being the other one."
+  },
+  {
+   "id": "body/illness",
+   "category": "injury-or-condition",
+   "holder": "Kimimaro",
+   "gloss": "pre-Y0, already started — nobody in the book can name it, and unmanaged by a laboratory it has no date at all",
+   "why_it_matters": "Uzuki cannot tell him how long; the reader who knows canon has a countdown the characters do not."
+  },
+  {
+   "id": "body/wasted",
+   "category": "injury-or-condition",
+   "holder": "Kimimaro",
+   "gloss": "Y1M? — three years indoors: muscle gone, cannot walk far; the body comes back in four months and the manner never does",
+   "why_it_matters": "The strongest fighter in the book arrives running at something under half, and nobody knows the denominator."
+  },
+  {
+   "id": "know/gap-was-six",
+   "category": "knowledge",
+   "holder": "Kimimaro",
+   "gloss": "Y0M8 — the door four along the passage stopped, and he had been counting its gap against his own for two years",
+   "why_it_matters": "He has a timetable for his own disposal and he built it by listening; he never learns anything else about that child."
+  },
+  {
+   "id": "know/slowly-and-worse",
+   "category": "knowledge",
+   "holder": "Kimimaro",
+   "gloss": "Y0M8 — a hundred and seventy-eight bowls, and the new one comes back shorter and not the same shape",
+   "why_it_matters": "He is a poorer thing than the buyer hoped for, the evidence is his own hands, and he worked it out himself."
+  },
+  {
+   "id": "know/enough-to-live-on",
+   "category": "knowledge",
+   "holder": "Kimimaro",
+   "gloss": "Y0M11 — the amount in the bowl is always the same amount, so somebody decided it, and nobody has changed it in two years",
+   "why_it_matters": "He is not waiting for a buyer. He is waiting for somebody to think about him. And he has no date at all."
+  },
+  {
+   "id": "know/a-date",
+   "category": "knowledge",
+   "holder": "Kimimaro",
+   "gloss": "Y1M? — the first thing Tadayoshi is ever able to give him is a date",
+   "why_it_matters": "He counts everything and knows nothing; every number he holds is relative and none of them fix to anything."
+  },
+  {
+   "id": "kit/specification",
+   "category": "possession",
+   "holder": "Kimimaro",
+   "gloss": "Y2M? — purpose, scope, acceptance criteria and a review date, in a document, because he asked to be used",
+   "why_it_matters": "The best thing anybody has ever given him; Uzuki says it is obscene and she is right for reasons that indict her own life."
+  },
+  {
+   "id": "mark/said-no",
+   "category": "trait",
+   "holder": "Kimimaro",
+   "gloss": "Y2M? (the village conversation) — the first refusal of his life, quietly, in about four words",
+   "why_it_matters": "A boy who has only ever been placed declines a placement, and the man who taught him it was possible leaves on the strength of it."
+  },
+  {
+   "id": "standing/nomination",
+   "category": "position-or-standing",
+   "holder": "Iwao",
+   "gloss": "Y0M3 — a signed nomination for the winter trial, carried inside his shirt",
+   "why_it_matters": "He is already worth something to the corps before the tribunal ever sits."
+  },
+  {
+   "id": "standing/amagiri-kenji",
+   "category": "position-or-standing",
+   "holder": "Iwao",
+   "gloss": "Y0M4 — released and struck from the household, living inside a fabricated line named off a joke he made at his family's table",
+   "why_it_matters": "He gave up a name that meant crag to become a man who means nothing; the first time anybody but Tadayoshi says Iwao is an event."
+  },
+  {
+   "id": "know/unmothered-her",
+   "category": "knowledge",
+   "holder": "Iwao",
+   "gloss": "Y0M4 — he testified that Mikage is not his mother, and she took four seconds and did not contradict him",
+   "why_it_matters": "His survival is a thing she gave him, and he has to live inside that, and he never once tries to explain himself."
+  },
+  {
+   "id": "state/the-statement",
+   "category": "institutional-fact",
+   "holder": "Kiri / the hunter corps",
+   "gloss": "Y0M4 — the signed statement that creates the warrant; every hunter team's packet opens with a document in his hand",
+   "why_it_matters": "His handwriting is on the curve from the first team without him holding a rank; the letter was written once and every team carries a copy."
+  },
+  {
+   "id": "kit/the-stone",
+   "category": "possession",
+   "holder": "Iwao",
+   "gloss": "Y0M4 onward — a piece off the compound kept on his body, which a man of different blood has no reason to own",
+   "why_it_matters": "He is carrying the evidence that would hang him, and he cannot explain it and will not put it down."
+  },
+  {
+   "id": "standing/attached-to-hunts",
+   "category": "position-or-standing",
+   "holder": "Iwao",
+   "gloss": "Y1M? — the corps' edge, lent out to hunts",
+   "why_it_matters": "Rung two of three; rung three is being what the curve eventually delivers."
+  },
+  {
+   "id": "kit/seven-sword",
+   "category": "possession",
+   "holder": "Iwao",
+   "gloss": "Y3M? — rumoured for one of the seven at thirteen, plausibly holding one by sixteen",
+   "why_it_matters": "The succession is available to him because of the claim; nobody has to say so and the reader does the arithmetic."
+  },
+  {
+   "id": "bind/never-explain",
+   "category": "rule-or-belief",
+   "holder": "Iwao",
+   "gloss": "Y0M4 onward — he never once attempts to explain himself, and it is not pride",
+   "why_it_matters": "An explanation is the only thing he could give, and giving it costs him the only story he can live inside."
+  },
+  {
+   "id": "mark/apologises",
+   "category": "trait",
+   "holder": "Iwao",
+   "gloss": "Y1M? — he apologises easily and warmly to strangers for small things, and means it in the moment",
+   "why_it_matters": "A man who apologises all day is a man who has spent years unable to apologise for the one thing."
+  },
+  {
+   "id": "body/the-height",
+   "category": "injury-or-condition",
+   "holder": "Iwao",
+   "gloss": "Y3M? — three years and a sword; by sixteen he is a young man where his brother is still a boy",
+   "why_it_matters": "The one without the blood got the body; the one with the blood got the hands."
+  },
+  {
+   "id": "bind/adequate-target",
+   "category": "rule-or-belief",
+   "holder": "Iwao",
+   "gloss": "Y0M4 onward — he is building himself into somebody it would take a swordsman to kill",
+   "why_it_matters": "A brother who kills a nobody has killed a nobody; both brothers convert grief into a specification."
+  },
+  {
+   "id": "standing/retained",
+   "category": "position-or-standing",
+   "holder": "Mikage",
+   "gloss": "Y0M4 — retained, productive; handed a tray of grit in a room with a bench inside a day",
+   "why_it_matters": "The tone series begins in the last scene the reader ever gets from inside her."
+  },
+  {
+   "id": "know/counted-seven",
+   "category": "knowledge",
+   "holder": "Mikage",
+   "gloss": "Y0M4 — she stopped at the turn by the rock, looked back up the hill and counted, and got seven",
+   "why_it_matters": "She knows one of them is not on that boat, and neither of them ever gets to say anything about it."
+  },
+  {
+   "id": "know/where-the-name-came-from",
+   "category": "knowledge",
+   "holder": "Mikage",
+   "gloss": "Y0M4 — she alone knows Kenji came out of an impression at her own table that made the whole room laugh",
+   "why_it_matters": "The only person alive who will ever know that, and she is taken within the hour."
+  },
+  {
+   "id": "debt/the-silence",
+   "category": "obligation",
+   "holder": "Mikage",
+   "gloss": "Y0M4 — asked directly, she took four seconds and said nothing, and a clerk recorded the silence as assent",
+   "why_it_matters": "Those four seconds are the rest of her life, and the fact is available to nobody but Kongō."
+  },
+  {
+   "id": "know/her-son-fixed-the-tone",
+   "category": "knowledge",
+   "holder": "Mikage, then Kongō",
+   "gloss": "pre-Y0 for her; passed to Kongō over months in Y1M?/Y2M? along with the compound, the warrant, the tribunal and Iwao",
+   "why_it_matters": "It is what tells Kongō there is somebody alive who can read what he has been laying for fifty years."
+  },
+  {
+   "id": "body/decline",
+   "category": "injury-or-condition",
+   "holder": "Mikage",
+   "gloss": "Y1 to Y2 — the tone flattens because she is dying, and she is disposed of because the tone flattened",
+   "why_it_matters": "Two people reading the same chart: one of them is her son and the other one decides."
+  },
+  {
+   "id": "mark/the-mark",
+   "category": "trait",
+   "holder": "Kongō",
+   "gloss": "pre-Y0, for fifty years — a course laid out of sequence, a note bent flat on purpose: a deliberate readable fault",
+   "why_it_matters": "He has been signing his work into a void since before Tadayoshi was born; the piece in Meno's box is one and it burns."
+  },
+  {
+   "id": "skill/forge-mikage-hand",
+   "category": "skill",
+   "holder": "Kongō",
+   "gloss": "Y2M? — after she dies he learns to work her way, flat and thin and two courses, and keeps producing under her signature",
+   "why_it_matters": "Mercy badly aimed, and bait; and the one thing he cannot fake is getting worse, which is how it is caught."
+  },
+  {
+   "id": "know/the-whole-account",
+   "category": "knowledge",
+   "holder": "Kongō",
+   "gloss": "Y2M? onward — the last living archive of the Ruri, given to him over months by a woman with nothing else to do",
+   "why_it_matters": "He holds the one fact nobody else can supply, and he decides what to do with it."
+  },
+  {
+   "id": "kit/mikage-comb",
+   "category": "possession",
+   "holder": "Mikage / the compound",
+   "gloss": "Y0M3 — Iwao's gift, on the table through the tribunal chapter, squared up on a shelf and left behind",
+   "why_it_matters": "She looks at it and puts it down and never once uses it; it is face down beside her cup when he reads the house."
+  },
+  {
+   "id": "know/go-for-the-hands",
+   "category": "knowledge",
+   "holder": "Sagara Nagi",
+   "gloss": "Y0M9 (17th) — worked out in about ninety seconds off nothing but watching, and while she was winning",
+   "why_it_matters": "Everybody else takes two fights to learn it and there is no sheet in the country with it on."
+  },
+  {
+   "id": "know/where-he-stands",
+   "category": "knowledge",
+   "holder": "Sagara Nagi",
+   "gloss": "Y0M9 (17th) — she stops at forty yards to look at the square yard of gravel he opened, for about three seconds, and does not look back at him",
+   "why_it_matters": "Not at him. At the ground. Hōki said a year; it was twenty-eight days."
+  },
+  {
+   "id": "standing/the-one-who-left",
+   "category": "position-or-standing",
+   "holder": "Sagara Nagi",
+   "gloss": "Y0M9 (18th) — the only person who has ever broken off, on purpose, with the exchange going her way",
+   "why_it_matters": "Which is why she gets sent back: the next one is her, and the one after that, and she knows four minutes more each time."
+  },
+  {
+   "id": "know/four-teams-one-day",
+   "category": "knowledge",
+   "holder": "Sagara Nagi",
+   "gloss": "undated, late — she stops trying to out-fight him and starts giving him four objectives on the same day",
+   "why_it_matters": "The broker, the client, the lodging and him, and he cannot cover four; it is how he is actually beaten."
+  },
+  {
+   "id": "know/read-the-riverbed",
+   "category": "knowledge",
+   "holder": "Kajiya",
+   "gloss": "Y0M5 (15th) — he went down and read the bed and came out with a different set of numbers",
+   "why_it_matters": "The recruitment is not luck: it is the trail the reader has already watched being laid."
+  },
+  {
+   "id": "skill/turn-a-room",
+   "category": "skill",
+   "holder": "Fuda",
+   "gloss": "Y0M6 (12th) — he arrives already in the middle of a sentence and the room's whole attention goes somewhere else",
+   "why_it_matters": "The one thing Tadayoshi cannot take apart, performed twice in front of him, and it frightens him more than the riverbed."
+  },
+  {
+   "id": "standing/spoken-to",
+   "category": "position-or-standing",
+   "holder": "Fuda",
+   "gloss": "undated — the hunters get to the one adult who was decent to him for nothing",
+   "why_it_matters": "Proves the doctrine, hardens it, and is the cruellest thing the book can do with a kind man."
+  },
+  {
+   "id": "state/aoyagi-note",
+   "category": "institutional-fact",
+   "holder": "the Academy / Kiri",
+   "gloss": "Y0M1 — a note goes onto his record, and a note moved him out of his class last year",
+   "why_it_matters": "The institution's opening move, made in good faith, by a man who liked him."
+  },
+  {
+   "id": "state/collection-order",
+   "category": "institutional-fact",
+   "holder": "the returns office, Kirigakure",
+   "gloss": "Y0M3 — one declared practitioner, two hands in the work, output up two thirds; approved as recommended, with a date and a schedule",
+   "why_it_matters": "Nobody in that scene does anything wrong and it kills five people; he reads it in the last act and understands the word undeclared."
+  },
+  {
+   "id": "state/alive-if-possible",
+   "category": "institutional-fact",
+   "holder": "Kiri",
+   "gloss": "Y0M5 — the tasking: a ten-year-old, non-combatant, no training on file, take him alive if possible",
+   "why_it_matters": "Every word accurate, and the restriction is his whole advantage for six minutes; the village's own rules of engagement kill its children."
+  },
+  {
+   "id": "state/first-specification",
+   "category": "institutional-fact",
+   "holder": "Kiri",
+   "gloss": "Y0M5 — a fight nobody survived, read off the ground and collated: fences, ninety yards, points facing the same way, grain in all of them",
+   "why_it_matters": "The curve's first datum, and he set it himself; a dead one is a page and his work is a book."
+  },
+  {
+   "id": "state/nagi-report",
+   "category": "institutional-fact",
+   "holder": "Kiri",
+   "gloss": "Y0M9 — four minutes of him on a sheet by the end of the month, and it will be right, because she was there",
+   "why_it_matters": "There is no wrong description available any more, and the wrong description was the thing keeping him alive."
+  },
+  {
+   "id": "state/one-hand-ends-him",
+   "category": "institutional-fact",
+   "holder": "Kiri briefings",
+   "gloss": "true from Y0M5, FALSE from Y0M10, and the briefings go on saying it for three years",
+   "why_it_matters": "The specific thing no Jōnin has a prepared answer for at Wave — unfamiliarity plus consequence, not power."
+  },
+  {
+   "id": "state/kenji-investigated",
+   "category": "institutional-fact",
+   "holder": "Ōura / Kanaya's counter",
+   "gloss": "Y0M4 (6th) — a real man of forty-five is asked whether he fathered a child on a Ruri woman thirteen years ago",
+   "why_it_matters": "He will be asked about it for the rest of his life and will never have an answer; a child's panic producing collateral damage."
+  },
+  {
+   "id": "state/sale-book",
+   "category": "institutional-fact",
+   "holder": "the pipeline / the monastery",
+   "gloss": "Y0M12 — the sale book is the only record of who took the merchandise, and everybody who could amend the entry is dead",
+   "why_it_matters": "Both hunters are anonymous by the same trick and neither of them invented it; the trade did."
+  },
+  {
+   "id": "state/three-children",
+   "category": "institutional-fact",
+   "holder": "the world",
+   "gloss": "Y1M? onward — a white-haired boy, a red-haired girl with a red sword, and the one in the middle who does the ground",
+   "why_it_matters": "Accurate, memorable, unique and free to anybody who sees them once; the single largest steepening of the curve in the book."
+  },
+  {
+   "id": "state/uzumaki-secret",
+   "category": "institutional-fact",
+   "holder": "Konoha / Kakashi",
+   "gloss": "Y3M? — the man who opens the gate knows exactly why the hair had to be hidden, and will not tell her either",
+   "why_it_matters": "Tadayoshi is admitted on the strength of a secret he does not know he is carrying; the instruction repeats for a third generation."
+  },
+  {
+   "id": "state/graves-at-wave",
+   "category": "institutional-fact",
+   "holder": "Wave",
+   "gloss": "Y3M? — two mounds on a cliff and one of the seven blades planted beside one, unattended, a week late",
+   "why_it_matters": "The vow tested with nobody watching and nobody who would ever have known."
+  }
+ ],
+ "method_notes": "METHOD\n\nRead all thirteen files in full, in the README's stated reading order and then again against the chapter files: README, timeline, world, character, portraits, combat, team, structure, act-1, falsified, method-delta, _method-book1, threads (all nine C-entries), and spec.md skimmed by heading with six sections read in full (§3f rulings, §16, §17, and the §4/§23 open items) to catch anything the derived files do not carry.\n\nWHAT COUNTS AS AN ATOM. Applied the stated test literally: could a scene be wrong because this character does not have this yet? Anything true from birth or true of the world was excluded and the exclusions are listed at the foot of the vocabulary file — the threshold itself, his inability to lie, the missing organ, Uzumaki robustness, Shikotsumyaku, Kimimaro's clan marks, the presentation requirement, paragraph nine's third-of-output rule, the trade-name culture, the clan colouring, and the fact that the note lives where the courses end. Where a permanent incapacity produced a dated *discovery*, the discovery is the atom (know/no-lie-mechanism, Y0M6 12th; know/hands-are-the-weakness, pre-Y0).\n\nNAMESPACES chosen to fit what the files actually contain rather than any prior scheme: kit/ (carried objects), book/ (the records he keeps, which behave like possessions and are the book's real instrument panel), craft/ (Shōton), skill/ (everything else), know/, bind/ (rules and beliefs), debt/ (obligations), bond/, body/, mark/ (acquired traits), standing/, state/ (institutional facts). The split between kit/ and book/ earns itself: threads.md maintains the ledgers as first-class objects with dates and column counts, and a scene can be wrong because a column does not exist yet (the hunter file's fifth column is invented on 3/7; the flour bag's fourth has no heading).\n\nDATING. Year 0 is built month by month in timeline.md §2 and the nine chapter files and nine threads entries give day-level dates for most of it, so act-one atoms carry months and often days. Years 1–3 are ordered and not dated (timeline.md §7 item 4 names this as open), so those atoms are written YnM? exactly as instructed. Where the design pins nothing at all — the Nakadō sword recovery beyond \"act two, late\", the Guren discovery, Nagi's four-teams doctrine, Fuda being got at, recall's arrival — the entry says \"undated\" and does not invent a year. Pre-Y0 is used for the ages 7–9 material that timeline.md §1 dates by age, because act one references it constantly and flashback or reconstruction scenes would need it.\n\nATOMS THAT ARE LOST. The design is unusually full of capabilities and objects that stop. I have kept them as atoms and marked the end date on the same row, because a scene set after the end can be as wrong as one set before the start: kit/coat (bought 20/6, gone 3/7), skill/empty-ninety (dies 26/8 and no character ever remarks on it), bind/hair-is-hair (surrendered in the first week with him), bind/the-list (emptied 16/7 and deliberately never refilled), kit/shoes, book/distance-rule (void from the return), and state/one-hand-ends-him, which is true, then false, and never re-issued — which is the whole mechanical basis of the Wave benchmark.\n\nDELIBERATE COVERAGE CHOICES. Worked the whole cast rather than the three POVs: Iwao, Mikage, Kongō, Nagi, Kajiya, Fuda, Aoyagi and the offices all hold atoms, because per structure.md the threads touch through objects and institutions, and several of the most load-bearing items are institutional facts nobody on the page holds (the statement that creates the warrant, the collection order, the sale book, the briefings that say binding one hand ends him). Act one is covered at day resolution; acts two to four are covered wherever structure.md, character.md, portraits.md, team.md and falsified.md specify them, and thin exactly where the design is thin.\n\nWHAT I DID NOT DO. I have not resolved any open ruling. The month of know/brother-alive, whether Tadayoshi ever learns know/mikage-silence, and whether the Tsunade first contact is at eleven or twelve are flagged in place and left open. Nothing here moves a date in timeline.md; where a date would have had to be invented to make an atom tidy, the atom is left loose instead.",
+ "effort": "Read 13 of 13 files. Twelve in full — README (85 lines), _method-book1 (143), method-delta (135), timeline (207), world (205), character (521), portraits (1,462), combat (1,253), team (913), structure (662), act-1 (340), falsified (187), ch01–ch10 (4,343 lines across ten files), and threads.md in full (3,587 lines, all nine per-chapter entries). The thirteenth, spec.md (3,257 lines, 148KB, the archive of record), I read by heading index plus six sections in full rather than end to end — README says explicitly that it is the source and not the reference, and every ruling I sampled from it was already carried into the derived files, usually verbatim. That is the one honest gap in coverage: if a ruling exists only in spec.md and was never promoted, I would have missed it.\n\nRoughly 17,650 lines, about 600KB. Around 30 tool calls, nearly all chunked reads; call it two to two and a half hours of work at a human pace. No file outside the design directory was opened; the Portfolio repo was never touched.\n\nWHAT WAS HARD, honestly:\n\n1. Deciding what is not an atom. The threshold was the worst case — it fires on the page in Y0M5 and again in Y0M12, which reads like an acquisition, but combat.md §9 and falsified.md #1 make it a permanent internal fault, and portraits.md ties it back to a broken arm at nine. I excluded it and kept the dated things around it (the bookkeeping, the debut, the tell). Same judgement on his inability to lie and on the missing organ. I could be wrong about the threshold and it is the single call in here most worth a second opinion.\n\n2. Duplication across files at different resolutions. The same fact appears in combat.md as a rule, in ch10.md as a plan, and in threads.md as a fixed fact with a day on it, and the three do not always agree in wording. I took threads.md as authoritative where it exists (it says so itself), the chapter file next, and the design file last — which is how, for example, the half-seal failure numbers and the Aku bank timings got their precision.\n\n3. Month notation against a design that is only half dated. Year 0 is built to the day; years 1–3 are ordered and not dated, and timeline.md §7 flags that as open. There was constant pressure to write Y1M4 for things like the creed or the Nakadō sequence because the *sequence* is clear. I held the line and used Y1M? or \"undated\" throughout; about thirty atoms are looser than I would like and all of them are loose because the files are.\n\n4. Volume discipline. threads.md alone is 200KB of extremely specific state — every column of a flour bag, every ryō, every count of bowls. The temptation was either to atomise every number (unusable) or to abstract to \"she keeps a record\" (useless to the next two steps). I resolved it by making the *record* the atom and putting the load-bearing numbers in the gloss, so a later step can check a scene against the column that exists and the value it should hold.\n\n5. Two atoms I nearly missed and went back for: body/control-bone (Kimimaro's unbroken comparison bone, out of his right hand since Y0M6, catching on the blanket and the bowl — it is in one bullet of C8 and nowhere else, and a scene at any point in acts one to four could be wrong about it), and state/one-hand-ends-him, which is not stated as a possession by anybody but is the whole mechanical basis of the Wave benchmark and is exactly the kind of thing a continuity check needs a name for.\n\nCount: 190 atoms, no duplicate ids (checked), written to the out/vocabulary.md path as a grouped, readable table with the notation rules and the exclusions stated at the top and bottom."
+}

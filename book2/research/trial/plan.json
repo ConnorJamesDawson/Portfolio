@@ -1,0 +1,470 @@
+{
+ "chapters": [
+  {
+   "chapter": "Chapter 10 — \"Enough To Live On\" (month 10, 1st – month 11, end; 11 scenes; U6/T3/K2)",
+   "scenes": [
+    {
+     "n": "1",
+     "pov": "U",
+     "month": "Y0M10",
+     "requires": [
+      "kit/half-ryo",
+      "body/hunger",
+      "body/feet",
+      "standing/unregistered",
+      "know/nobody-knows-where-i-am",
+      "bind/the-list",
+      "body/dyed-hair",
+      "kit/pig-knife"
+     ],
+     "grants": [
+      "kit/shoes"
+     ],
+     "one_line": "The almshouse takes people until the tenth month and it is the tenth month; two days of hunger written whole and the rest in numbers; shoes off a heap for a twentieth.",
+     "reasoning": "Working back from the outcome — she is still on the road and not in a cell. kit/half-ryo is what makes the five-week hole an arithmetic problem at all; with money she reaches the Kanaya and there is no monastery. body/hunger began on 9/24, so it is a condition she arrives with, not one the scene starts. body/feet and the missing shoes are why nine days cover so little ground. standing/unregistered and know/nobody-knows-where-i-am make the refusal administrative rather than cruel — there is no name to put on a list and nobody to vouch. bind/the-list is how a ten-year-old survives a market town alone and is never off duty. And the one nobody would write down: body/dyed-hair. She can be refused a bed like anybody else. Red, she is not refused, she is bought, and scenes 3 through 8 do not exist."
+    },
+    {
+     "n": "2",
+     "pov": "T",
+     "month": "Y0M10",
+     "requires": [
+      "body/right-hand",
+      "know/hands-are-the-weakness",
+      "craft/four-seals",
+      "craft/fixed-tone",
+      "craft/ground-breaking",
+      "bond/hoki",
+      "standing/investment",
+      "know/i-am-the-syllabus",
+      "know/no-wrong-description",
+      "standing/hunted"
+     ],
+     "grants": [
+      "craft/half-seals",
+      "book/half-seal-rate",
+      "kit/blade",
+      "book/blade-chart",
+      "craft/throwables",
+      "book/kit-dates",
+      "bind/every-new-thing-one-fight"
+     ],
+     "one_line": "Which of these four is load-bearing? — the decomposition, the numbers, the blade, the throwables, and a doctrine that says he will spend none of it.",
+     "reasoning": "A boy solves in three weeks a problem he has had for two years, so the plan must say why now. body/right-hand is the enabling injury — falsified.md #14 is explicit that Nagi handed him six free weeks and he has never had six free weeks. know/hands-are-the-weakness (Aoyagi, age eight) is why this question and not another. craft/fixed-tone is the precedent for the method: the signature operation was first run on a copper frame at eight, and without it the decomposition is a lucky idea rather than the thing he is. craft/four-seals is the object decomposed. craft/ground-breaking is the requirement nobody would list — a blade plus a stock of dated throwables is far more material than a tin holds, and ch5 priced a tin at a third gone in six minutes; he can build three hedges only because since the eighth month he makes his own grit. bond/hoki and standing/investment put him somewhere with a man keeping him working. The closing doctrine is derived from Hōki's sentence of 18/9, so know/i-am-the-syllabus and know/no-wrong-description must already be in the book or the last beat has no premises. Deliberately absent: craft/blade-reconfiguration, barred for six weeks from Y0M10."
+    },
+    {
+     "n": "3",
+     "pov": "U",
+     "month": "Y0M10",
+     "requires": [
+      "body/hunger",
+      "kit/shoes",
+      "body/feet",
+      "body/dyed-hair",
+      "standing/unregistered",
+      "know/nobody-knows-where-i-am",
+      "bind/the-list",
+      "bind/never-tell-about-the-hands"
+     ],
+     "grants": [
+      "standing/monastery-inmate"
+     ],
+     "one_line": "The Kadono-dera takes her in in the ordinary way and feeds her, and she cries about it once out of sight and is furious.",
+     "reasoning": "The scene must end with the reader relieved, so the hunger has to be at its worst on arrival — body/hunger four days further on. kit/shoes is what makes four days north-east of Ōgi survivable, and body/feet is why they still cost her; remove the shoes from scene 1 and she never reaches this building. body/dyed-hair decides the chapter's whole shape: she is taken in without ceremony because there is nothing remarkable about her, and the same men do something else entirely sixteen days later. bind/never-tell-about-the-hands is in force from the door — Anzai's condition is nobody, ever — so the one thing that might have made her worth keeping as herself is withheld at exactly the moment it would have worked. bind/the-list is how she scores Tokuji; she is not trusting, she is assessing. The grant is a gap: the vocabulary has no atom for living at the monastery and eight scenes stand on it."
+    },
+    {
+     "n": "4",
+     "pov": "K",
+     "month": "Y0M10",
+     "requires": [
+      "standing/stock",
+      "body/illness",
+      "skill/put-one-out-elsewhere",
+      "body/control-bone",
+      "mark/practising",
+      "know/slowly-and-worse",
+      "know/gap-was-six",
+      "know/counts-anchored-to-nothing"
+     ],
+     "grants": [
+      "know/decline-is-measurable"
+     ],
+     "one_line": "Three pieces in a line, each shorter than the last, so he changes the experiment.",
+     "reasoning": "He cannot supply a time or a place, so the month is a plan-level fact and never appears on the page. The scene ends with a child running a controlled experiment, which needs the apparatus already assembled: skill/put-one-out-elsewhere produces the specimens, body/control-bone is the unbroken comparison kept since the sixth month (without it the line has no baseline and means nothing), and mark/practising is the second count running since the eighth month, without which there are not three pieces to lay out. know/slowly-and-worse is the prior finding this confirms in a second medium — he already suspects, which is why he lines them up rather than noticing by accident. know/gap-was-six is what decides which way he jumps: a boy who has heard a door four along the passage stop does not answer a bad result by stopping, he answers it by testing harder. body/illness is what the line is actually measuring and he has no name for it."
+    },
+    {
+     "n": "5",
+     "pov": "U",
+     "month": "Y0M10",
+     "requires": [
+      "standing/monastery-inmate",
+      "skill/palm",
+      "skill/diagnosis",
+      "body/thimble",
+      "bind/never-tell-about-the-hands",
+      "know/it-isnt-the-hands"
+     ],
+     "grants": [
+      "kit/sacking-bag"
+     ],
+     "one_line": "The good weeks, and they are good; Tokuji's back, twice, in the dark; a new bag on sacking.",
+     "reasoning": "Twice, in the dark is the shape of the scene and every part of it is a constraint rather than a mood. skill/palm and skill/diagnosis are the capability. body/thimble is why it is twice and not nightly — a ten-year-old has a thimble of chakra — and know/it-isnt-the-hands (4th of the sixth month: the ceiling is that she is ten, and the rate collapses the moment the work is regular) is the finding that makes her ration herself before anyone else does. bind/never-tell-about-the-hands is what the scene's cruelty runs on: the condition is that nobody is told, which is Anzai's rule surviving four hundred miles and eight months, and it is why the one genuinely valuable thing about her never reaches the ledger three scenes later. kit/flour-bag has ended and skill/empty-ninety has been gone since 26/8, so neither is available and the new bag carries forward one column."
+    },
+    {
+     "n": "6",
+     "pov": "T",
+     "month": "Y0M10",
+     "requires": [
+      "body/right-hand",
+      "book/own-dockets",
+      "bind/no-paper",
+      "book/hunter-file",
+      "skill/fieldcraft",
+      "standing/hunted",
+      "know/no-wrong-description",
+      "know/where-i-stand",
+      "bond/fuda"
+     ],
+     "grants": [
+      "book/towns-list"
+     ],
+     "one_line": "Every docket he has ever been given, eleven towns, and a description does not expire — and Fuda's first sheet passes through his hands unremarked.",
+     "reasoning": "The finding is available only to somebody who kept the paper, so book/own-dockets is load-bearing and bind/no-paper is what makes keeping it an act rather than an accident — he agreed to keep nothing, kept everything, and never wrote down that he had decided to. body/right-hand is why a boy is doing clerical work in the last week of the tenth month. The finding generalises two things he already holds: know/no-wrong-description (the sheet in Kiri will be right) makes a description a permanent object rather than a rumour, and know/where-i-stand (a preference gets written down by other people) is the same discovery about ground, made 20/8 and proved 17/9. Without both, eleven towns is a list and not a curve. bond/fuda is required for the plant: he identified the man off his handwriting in eleven seconds in the sixth month, so the sheet passes without friction. A boy who did not know the hand would stop and look at it."
+    },
+    {
+     "n": "7",
+     "pov": "U",
+     "month": "Y0M10",
+     "requires": [
+      "standing/monastery-inmate",
+      "body/dyed-hair",
+      "bind/hair-is-hair",
+      "know/cannot-name-the-family"
+     ],
+     "grants": [
+      "body/dyed-hair"
+     ],
+     "one_line": "Two days of rain and forty hours of wood; \"How long has your family had that?\", and she cannot answer it.",
+     "reasoning": "She is out in the whole of the second day because she is the one who does the wood, which is scene 5's good weeks cashed as a liability — the thing that made her wanted is the thing that puts her in forty hours of rain. bind/hair-is-hair produces her inaction, which is what the scene is actually about: she knows before anybody else and does nothing, and the reason is not despair but that she has never held the conviction that this matters — her father dyed it for six years and never said why. A girl who had been told why goes down the mountain that night. The question lands because of an absence the vocabulary cannot express: her grandfather took Nozaki on arrival and never gave the old name, so the first person ever to ask about her family is a man doing an inventory. body/dyed-hair appears in both lines because the atom covers a sequence of opposite states; the scene requires the dye and grants its removal."
+    },
+    {
+     "n": "8",
+     "pov": "U",
+     "month": "Y0M10",
+     "requires": [
+      "standing/monastery-inmate",
+      "body/dyed-hair",
+      "know/heard-a-mule-priced",
+      "know/shimoda",
+      "bind/the-list",
+      "bind/never-tell-about-the-hands",
+      "know/nobody-knows-where-i-am"
+     ],
+     "grants": [
+      "standing/for-sale"
+     ],
+     "one_line": "Item by item, out loud, in front of her — and she knows the speech, because she has held a halter in a yard. Not before the eleventh month.",
+     "reasoning": "The instrument is recognition and recognition needs a prior. She has stood in a yard while a man valued a mule aloud, fairly, item by item, and she has watched the same man close a sale on a house in one stroke of a pen — so the form arrives before the content, which is the only way this can be written without a word of description. Both priors are named; only one has an atom. bind/never-tell-about-the-hands is required or the scene is merely bad rather than tragic: she is in a room where men are pricing the two things she did not choose, and the one thing she built and can prove is under a promise made to a stranger in the fourth month. She does not offer it, and nobody in that building ever learns it exists. know/nobody-knows-where-i-am is what makes the arrangement cheap for them and legible to her. bind/the-list runs throughout and the visitor never lands on it, because he looks at her exactly as long as an item takes."
+    },
+    {
+     "n": "9",
+     "pov": "T",
+     "month": "Y0M11",
+     "requires": [
+      "body/right-hand",
+      "craft/four-seals",
+      "standing/investment",
+      "standing/difficult",
+      "mark/stopped-refusing",
+      "know/being-right-is-not-a-lever",
+      "bond/kajiya",
+      "book/ledger"
+     ],
+     "grants": [
+      "body/weather-hand",
+      "standing/freight",
+      "bond/kajiya-gone"
+     ],
+     "one_line": "The hand comes back wrong and the work does not change back; he says so, correctly, and that makes it permanent; and Kajiya has stopped coming.",
+     "reasoning": "Four goes to make the first seal means nothing unless the sequence was automatic before, so craft/four-seals is required as a baseline rather than as a capability. standing/investment is required for the demotion to be a demotion — freight is only a punishment if there was something else, and the something else started on 2/8. The permanence is character: standing/difficult makes a correct objection expensive, and know/being-right-is-not-a-lever is the finding he already has and acts against anyway, which is the point. mark/stopped-refusing gives the shape of his compliance — he objects and then goes, and has since 4/9. bond/kajiya is required or the absence is nothing; you cannot notice a man has stopped coming unless there was an arrangement. The grant of bond/kajiya-gone is worth flagging: the vocabulary dates it from 2/8, which is when the man stopped, but nobody stops coming on a date — it becomes true when the counting reaches a number he cannot explain, and that is here."
+    },
+    {
+     "n": "10",
+     "pov": "U",
+     "month": "Y0M11",
+     "requires": [
+      "standing/for-sale",
+      "standing/monastery-inmate",
+      "kit/sacking-bag",
+      "kit/shoes",
+      "kit/half-ryo",
+      "body/dyed-hair",
+      "know/nobody-knows-where-i-am"
+     ],
+     "grants": [
+      "know/bowl-is-a-decision-U"
+     ],
+     "one_line": "The cellar; the door is not always locked; she counts toward a date and the date arrives and nothing happens on it.",
+     "reasoning": "The unlocked door is the chapter's best detail and it is made entirely of requirements — four of them: shoes off a heap in the wrong size, about a third of a ryō, red hair in the eleventh month, and nobody anywhere who has written her name down. Reverse any one and the door has to be locked. The arrangement does not need a lock because the arithmetic is already done, and she has done it too, which is why the scene is not about escape. kit/sacking-bag is required or the last beat has no object: the third column carries forward, 1,584 to 1,559, and that is the thing that has not stopped through four houses and a cellar. The grant is a gap — she reaches Kimimaro's finding inside a week and the vocabulary files it under his name only."
+    },
+    {
+     "n": "11",
+     "pov": "K",
+     "month": "Y0M11",
+     "requires": [
+      "standing/stock",
+      "body/illness",
+      "mark/practising",
+      "know/gap-was-six",
+      "know/slowly-and-worse",
+      "know/decline-is-measurable",
+      "know/counts-anchored-to-nothing"
+     ],
+     "grants": [
+      "know/enough-to-live-on"
+     ],
+     "one_line": "The amount in the bowl is a decision, and nobody has decided anything about him in two years. He counts the bowl.",
+     "reasoning": "The second half of the finding is the load-bearing one — a number nobody has had a reason to change is a number nobody has thought about — and it is only devastating to a boy who has spent two years working at being worth keeping. So mark/practising is required, and know/decline-is-measurable from scene 4 is required, because the verdict is delivered against a body of work he can measure and has just measured. know/gap-was-six supplies the stakes: he has heard what happens to stock that stops being worth the upkeep. know/counts-anchored-to-nothing is a genuine requirement and not a style note — he can hold the same amount, every time, for two years only because he has been counting things that fix to nothing for two years; a boy with a calendar has a different scene. body/illness is the physical register: he is doing this on a mat because a mat is most of what he has."
+    }
+   ]
+  },
+  {
+   "chapter": "Chapter 11 — the last of the act (month 12; 10 scenes; T6/U3/K1; ~18,000 words, T 65% / U 25% / K 10%)",
+   "scenes": [
+    {
+     "n": "1",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "standing/freight",
+      "standing/difficult",
+      "mark/stopped-refusing",
+      "bond/kajiya-gone",
+      "bond/fuda",
+      "book/own-dockets",
+      "bind/no-paper",
+      "book/hunter-file",
+      "bond/nagi-designation",
+      "skill/fieldcraft",
+      "standing/hunted"
+     ],
+     "grants": [
+      "kit/cargo-docket"
+     ],
+     "one_line": "The freight docket: low value, long walk, a client's name that means nothing, and a hunter file that has been two lines for two months.",
+     "reasoning": "He takes a posting he can see is an insult, and three things already true are why. standing/freight is now his class of work and saying so is what made it permanent; standing/difficult is why nobody will revisit it; mark/stopped-refusing is why he goes — he stopped objecting on 4/9, and the one time he did object it cost a boy with a bad ear. bond/kajiya-gone is why there is nobody to ask. skill/fieldcraft makes the silence audible: he reads a briefing for what it does not say and this one says nothing — a name, a road, a load, no return required. bond/fuda puts the hand on it for the second time and it passes without friction, which only works because ch10 s6 established that this hand does not stop him. book/hunter-file and bond/nagi-designation carry the no-silent-caps obligation: the left-hander has not come back, the file has been two lines since 18/9, and he writes the nothing down."
+    },
+    {
+     "n": "2",
+     "pov": "U",
+     "month": "Y0M12",
+     "requires": [
+      "standing/for-sale",
+      "standing/monastery-inmate",
+      "know/bowl-is-a-decision-U",
+      "kit/sacking-bag",
+      "kit/half-ryo",
+      "body/dyed-hair",
+      "know/nobody-knows-where-i-am",
+      "know/shimoda-unknown",
+      "bind/the-list"
+     ],
+     "grants": [],
+     "one_line": "The cellar, past the date; the bowls do not change and the bell does; and somewhere above her a negotiation closes.",
+     "reasoning": "She can tell something has changed above her only because she has the bowl arithmetic from the eleventh month: a fixed quantity is an instrument, and the moment it moves — or the bell is answered by feet that are not the usual feet — it reads. Without know/bowl-is-a-decision-U this is a girl in the dark with a feeling. know/shimoda-unknown is required and has no atom: it is the second thing she counts down there and she cannot resolve it for two years — she opened his face and caught the eye and ran, and she does not know whether she is a girl who ran away or a girl who killed a man. It governs whether Nakadō is ever available to her, which is the same question as whether her grandfather's sword is still above that door. kit/sacking-bag is the only thing she owns that has never stopped, and the third column keeps going down in the dark. Grants is empty on purpose: nothing is conferred on her here, which is the condition the chapter needs her in."
+    },
+    {
+     "n": "3",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "kit/blade",
+      "book/blade-chart",
+      "craft/half-seals",
+      "book/half-seal-rate",
+      "bind/every-new-thing-one-fight",
+      "craft/throwables",
+      "book/kit-dates",
+      "craft/ground-breaking",
+      "skill/road-discipline",
+      "book/towns-list",
+      "body/right-hand",
+      "body/weather-hand",
+      "standing/hunted"
+     ],
+     "grants": [
+      "craft/blade-reconfiguration"
+     ],
+     "one_line": "The long walk: the morning ritual, dated articles, the towns list — and he plants the blade and changes it for the first time, and it is the most frightened he has ever been of a thing he owns.",
+     "reasoning": "The vocabulary bars reconfiguration for six weeks from the tenth month, so this is the first day it is available and the scene exists because of a ledger entry rather than a plot need. The fear is specific and needs three priors: kit/blade came out open, book/blade-chart is the count of alterations survived that he is about to increment, and book/half-seal-rate is his documented failure rate for one-course work — so he knows exactly what he does not know, which is whether changing an open article closes it. body/right-hand is still required: six weeks splinted and six more of it being no good runs into month 12, which is why a one-handed weapon is what he is walking with. body/weather-hand is the only forecasting instrument he has on a road in the twelfth month. bind/every-new-thing-one-fight is required for the discipline — he practises the half seals, the rate comes down, and he spends none of them. If it reads as stocking up it is wrong; it is a boy carrying three unspent things toward a building."
+    },
+    {
+     "n": "4",
+     "pov": "K",
+     "month": "Y0M12",
+     "requires": [
+      "standing/stock",
+      "body/illness",
+      "know/enough-to-live-on",
+      "know/decline-is-measurable",
+      "know/gap-was-six",
+      "mark/practising",
+      "know/counts-anchored-to-nothing"
+     ],
+     "grants": [
+      "standing/sold"
+     ],
+     "one_line": "Somebody comes, measures, and writes; the interval breaks; and he works out that a decision has been made about him.",
+     "reasoning": "This scene is possible only because of the last scene of chapter 10, and that is its whole design. know/enough-to-live-on gave him a rule — a thing that does not change is a thing nobody has thought about — and here the rule fires in reverse: something changed, so somebody thought about him. He does not know what a sale is; he knows the interval moved. know/gap-was-six supplies the only two outcomes he has ever observed, so a decision is not obviously good news and he has no way to tell which kind it is. mark/practising is required for the bitter half: he has worked two years at being worth keeping, and the one time the world responds it responds to something he did not do. know/counts-anchored-to-nothing is why the scene can never say the twelfth month."
+    },
+    {
+     "n": "5",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "state/the-statement",
+      "know/family-taken",
+      "know/find-the-book",
+      "know/what-a-book-is-for",
+      "skill/fieldcraft",
+      "bond/fuda",
+      "kit/blade",
+      "craft/fixed-tone",
+      "bind/stand-alone",
+      "book/ledger"
+     ],
+     "grants": [
+      "know/brother-alive",
+      "bind/vow"
+     ],
+     "one_line": "A sheet gives him the fact he has been four fifths of the way to since the fourth month — his brother testified, walked out, and is alive under a name that is not his — and he swears a vow with a specification in it.",
+     "reasoning": "The fact arrives as a document, which is the only way this book delivers facts: state/the-statement must already exist, and know/what-a-book-is-for and know/find-the-book are the two rules that let a boy read a hunter briefing's opening page as evidence about a person rather than as a threat about himself. bond/fuda is the plausible carrier and skill/fieldcraft is the reading. The vow's specification needs the unglamorous requirement, and it is kit/blade: he swears to kill his brother with a sword of his own design, not one of the seven, and that clause is only available to a boy who made a sword two months ago, badly, one-handed, and keeps a chart of how many times it has survived alteration. In the ninth month he could not have sworn it in that form. craft/fixed-tone is the maker's standard underneath it; bind/stand-alone is why the project has no participants. Placement is my call: the vocabulary dates the vow only as sworn at ten, ch05.md says the vow waits for the fact, and no plan from 5 to 10 delivers the fact."
+    },
+    {
+     "n": "6",
+     "pov": "U",
+     "month": "Y0M12",
+     "requires": [
+      "standing/for-sale",
+      "standing/monastery-inmate",
+      "body/dyed-hair",
+      "know/heard-a-mule-priced",
+      "bind/the-list",
+      "bind/never-tell-about-the-hands",
+      "know/nobody-knows-where-i-am"
+     ],
+     "grants": [],
+     "one_line": "Brought up out of the cellar for the courier's men, priced a third time in a different register, and put back down to wait for the cart.",
+     "reasoning": "The offer never said she had to be pure is a sentence about a document, and she can hear that it is a sentence about a document because she has now heard three men do arithmetic out loud in front of her — a mule in a yard in the fifth month, and two prices in one room on the twenty-eighth. The recognition is cumulative and it is hers, not the narration's. bind/never-tell-about-the-hands is required one last time and this is the last moment it could ever have been broken usefully: she is standing in front of men about to move her, holding the one fact that would change what she is worth, keeping a promise made on 3/4 to a man four hundred miles away who does not know her name. The scene must end with her underground and out of the way, because the next two scenes depend on geometry and nothing else."
+    },
+    {
+     "n": "7",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "kit/cargo-docket",
+      "bind/never-open-the-parcel",
+      "standing/freight",
+      "mark/threshold",
+      "kit/blade",
+      "craft/fences",
+      "craft/four-seals",
+      "craft/ground-breaking",
+      "craft/throwables",
+      "bind/every-new-thing-one-fight",
+      "body/right-hand",
+      "standing/investment"
+     ],
+     "grants": [],
+     "one_line": "He walks in with a docket for freight, does not look in the load, and the room turns; write up to it, and break mid-action.",
+     "reasoning": "The most load-bearing requirement is bind/never-open-the-parcel, reasoned out over a mile in the sixth month and never revisited. It is why a boy delivering a child does not know he is delivering a child, why he has no position on the cargo when the room turns, and why hours later there is nothing in that cellar he wants. A boy who opens parcels has a completely different chapter. mark/threshold has no atom and it is the book's central mechanism; it fires on load rather than stakes, so the load must be on the page — a hand still no good, more men than the docket implied, and a building rather than open ground where fences and ninety yards would be worth something. bind/every-new-thing-one-fight is required so that the last decision he makes as himself is not to spend the half seals; then the state that does not ask spends them for him and he laid none of it knowingly (falsified.md #14, cost 4). Grants is empty because the scene breaks mid-action and confers nothing the reader can hold. And the absence that a requires line cannot express: bind/creed is Y1M?. There is nothing governing him in that building, and that is why the chapter can happen at all."
+    },
+    {
+     "n": "8",
+     "pov": "U",
+     "month": "Y0M12",
+     "requires": [
+      "know/what-it-is",
+      "standing/for-sale",
+      "standing/monastery-inmate",
+      "know/nobody-knows-where-i-am",
+      "know/mother-was-never-coming",
+      "bind/the-list"
+     ],
+     "grants": [],
+     "one_line": "Four minutes through a door: voices, then not voices. She says the word and nothing happens, and then it is quiet for a long time.",
+     "reasoning": "She owns the instrument this scene is written with. know/what-it-is is 20/7 — through a brick wall: voices, then not voices, a chair going over, somebody standing it back up — and she is the only person in the book trained by circumstance to read a room she cannot see. The rhyme is exact and must not be pointed at: the first time she listened through a wall it was her mother and she did nothing; this time it is for her and she does the only thing available. know/mother-was-never-coming is why the word costs her something — she has already had the honest answer that is worse than a lie and does not believe anybody comes, and she says it anyway, which is her standing rule: she keeps trying and the world keeps being faster. Grants is deliberately empty. combat.md §9 says only an object stops it and there is no object in that building; she lives on geometry, and the chapter must not pay her for the attempt. This scene is also how the threshold gets covered without being written from inside."
+    },
+    {
+     "n": "9",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "mark/threshold",
+      "kit/cargo-docket",
+      "skill/fieldcraft",
+      "craft/fences",
+      "craft/half-seals",
+      "book/half-seal-rate",
+      "book/kit-dates",
+      "craft/throwables",
+      "kit/blade",
+      "state/first-specification",
+      "know/no-wrong-description",
+      "know/find-the-book",
+      "know/what-a-book-is-for",
+      "book/ledger",
+      "bind/no-paper"
+     ],
+     "grants": [
+      "state/sale-book"
+     ],
+     "one_line": "The reconstruction: bodies as evidence, a field of mixed work he did not lay knowingly, a dead client, no fee, a book nobody can now amend — and a door he did not open.",
+     "reasoning": "He can read the field because the state taught him how by doing it to him: state/first-specification is his own riverbed collated off the ground, and know/no-wrong-description is the principle that a field is a document and it will be right. So he stands in a building and does to himself what Kiri does to him, which needs no commentary. The audit is only possible with numbers already in the book: book/kit-dates is how he knows which articles are gone, since every carried thing has a date and an inventory is a subtraction; book/half-seal-rate and craft/half-seals are how he identifies one-course work on the floor — loud, short-dated, some of it dud. He did not decide to spend any of it, and that is the finding. know/find-the-book and know/what-a-book-is-for put the sale book in his hands: do not ask people, find where it is written down, and every book records what somebody was paid to record. He reads an entry he does not understand about a customer he has no name for, and bind/no-paper is quietly broken again. kit/cargo-docket is what tells him the client is one of the bodies — no fee, and a failure he cannot report."
+    },
+    {
+     "n": "10",
+     "pov": "T",
+     "month": "Y0M12",
+     "requires": [
+      "mark/threshold",
+      "skill/withholding",
+      "know/no-lie-mechanism",
+      "bind/stand-alone",
+      "book/ledger",
+      "skill/fieldcraft",
+      "body/right-hand",
+      "skill/palm",
+      "skill/diagnosis",
+      "body/thimble",
+      "bind/never-tell-about-the-hands",
+      "body/dyed-hair",
+      "bind/hair-is-hair"
+     ],
+     "grants": [
+      "debt/uzuki",
+      "know/the-word-worked",
+      "bind/hair-is-hair"
+     ],
+     "one_line": "The door, the word again, and the terms: he cannot account for four minutes and says so; she says she can heal; it goes in the book as a debt. Dye it.",
+     "reasoning": "He cannot tell her it is going to be all right — know/no-lie-mechanism, he tried once in the sixth month and there was nothing behind the opening sound — so skill/withholding is the only tool he has, and what she gets is silence and then a true unkind thing that does the same job. That is method-delta §6 as a mechanical requirement, not a stylistic one. bind/stand-alone is why he objects and the objection is arithmetic: she will slow him down. What overturns it is her breaking Anzai's condition, so bind/never-tell-about-the-hands must still be in force at the start of the scene, and skill/palm, skill/diagnosis and body/thimble must all already be true, because the offer has to be a true statement of a small capability. He does not know it is a thimble. body/right-hand is the unglamorous reason a medic is worth something to him this month in particular. body/dyed-hair and bind/hair-is-hair are required for the last beat: he prices the hair as a security finding within the hour and tells her to dye it, and the first thing she ever gives up for him is the one conviction she arrived with, and she does not experience it as a loss. The vocabulary permits Y0M12 or Y1M1; I have put it here because it is the smallest true image available to close an act on. know/the-word-worked is granted and it is false in the way that matters: she believes the mechanism was him. It was a door."
+    }
+   ]
+  }
+ ],
+ "vocabulary_gaps": [
+  "standing/monastery-inmate — Uzuki resident at the Kadono-dera, Y0M10–Y0M12. Eight scenes across both chapters stand on it and there is no atom for being inside that building.",
+  "know/bowl-is-a-decision-U — Uzuki reaches know/enough-to-live-on inside a week in the cellar (ch10 s10). The vocabulary files that finding under Kimimaro only, and the chapter's title is precisely the thing they have in common.",
+  "know/decline-is-measurable — Kimimaro's ch10 s4 finding: three pieces in a line, each shorter, worse at a steady rate he can measure. know/slowly-and-worse covers the bowls, not the specimens, and ch11 s4 needs it.",
+  "know/counts-anchored-to-nothing — act-1.md §5a's interior grammar: he counts everything and knows no date. Every Kimimaro scene requires it and it is not in the trait list.",
+  "know/cannot-name-the-family — Uzuki cannot say her clan's name because her grandfather took Nozaki on arrival and never gave the old one. The vocabulary has know/own-clan-name (the later acquisition) but nothing for the standing not-knowing that ch10 s7 turns on entirely.",
+  "know/heard-a-mule-priced — Shimoda valuing a mule aloud, item by item, in a yard in Y0M5 with her holding the halter. It is the instrument ch10 s8 and ch11 s6 are built on; know/shimoda covers the house sale, not the yard.",
+  "know/shimoda-unknown — the two years of not knowing whether she killed him. Only the resolution (know/shimoda-lived, Y1M?) has an atom; the uncertainty it resolves has none, and it governs Nakadō, the sword, and where she will not go.",
+  "mark/threshold — the book's central mechanism has no atom at all. It fires in ch5 and again in ch11, README rule 3 is written about it, and three ch11 scenes require it as a precondition.",
+  "kit/cargo-docket — the Y0M12 freight docket: Fuda's hand, Enkai as client, no return required. It is the object that makes the client a body and the fee nothing, and ch11 s1/s7/s9 all lean on it.",
+  "No id available for a required ABSENCE: bind/creed is Y1M?, and its absence is load-bearing in ch11 s7–s9 — it is the reason the monastery ends the way it does. A requires line cannot express a required absence, and this is the most important one in the chapter.",
+  "body/dyed-hair is a single atom covering a sequence of opposite states (dyed / rained out / re-dyed / shown at a gate), so it has to appear in both requires and grants of ch10 s7. The hair sequence probably needs one atom per state.",
+  "No atom for Tokuji, or for the cost of the building that was genuinely kind to her being emptied in ch11. The kindness is the whole of ch10's hard problem 1 and nothing in the vocabulary carries its destruction.",
+  "Placement, not vocabulary: bind/vow and know/brother-alive are undated (Y0M?), appear in no chapter plan from 5 to 10, and are required inside year 0 by act-1.md §6. I have placed both in ch11 s5 by elimination — an author call, and flagged as one."
+ ],
+ "effort": "Moderate-to-high, and here is what it actually covered. Read in full: README.md, method-delta.md, timeline.md, act-1.md, ch10.md. Read in part: structure.md (§1, §2 act one and act two, the monastery/threshold/cargo-job material), combat.md (§9 the threshold, §10 the hunter curve, §10b the investment, §10c), spec.md (§3b the Uzumaki girl, §3e/§3f the rulings, §6 the calendar and the punishment-posting fix), character.md (Tadayoshi's voice and the vow, the brother ruling), portraits.md (the hair sequence, Enkai, Sōta, the unstated-fact rule), team.md (§4.2 the valuation, §10.1–10.3 the household's first weeks), world.md (the name register and geography), falsified.md #14 (the half-seals replacement constraint and its four costs), threads.md C9 (end-of-ch9 state, chapter-headings survey only), ch04.md and ch05.md (targeted — the Kenji scene, and the explicit ruling that the vow waits for the fact), ch08.md (the causal chain into ch11). NOT read: ch01–ch03, ch06, ch07, ch09 in full; the bulk of threads.md (~200KB) and spec.md (~148KB); most of combat.md and portraits.md. Two consequences worth knowing. First, ch11's scene list is my construction, not a recovered one — the eight-item open list at the foot of ch10.md plus act-1.md's one-line spine is all the design gives, and the POV split (T6/U3/K1) is derived from act-1.md's T65/U25/K10 against a 10-scene chapter. Second, and this is the one to check: putting bind/vow and know/brother-alive in ch11 is an author call I made by elimination, and if they are meant to sit in an unread part of ch06/ch07/ch09, ch11 s5 should be cut and its other work folded into s3. I also chose to cover the threshold from inside Uzuki's cellar (ch11 s8) rather than from Tadayoshi — that is the only arrangement I could find that satisfies README rule 3 without a summary, but it is a structural decision the design does not make for you."
+}

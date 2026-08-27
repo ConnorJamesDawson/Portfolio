@@ -1,0 +1,1858 @@
+{
+ "rows": [
+  {
+   "atom_id": "craft/fixed-tone",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M8",
+   "qualifier": "CAL",
+   "acquiring_event": "At eight he works out the copper frame only evens the feed, and does it with control instead — then takes the piece up to his mother",
+   "provenance": "inferred-by-me",
+   "source": "timeline.md §1 (age 8: 'He fixes the tone. He shows his mother.'); combat.md §2. Month from threads.md C1 ('the instruction, verbatim, eighth month two years ago') plus threads.md C2, Mikage: 'three months of not doing it before you ever came up those stairs with that thing in your fist'. Y-2 = age 8 (notation extended below Y0)"
+  },
+  {
+   "atom_id": "craft/forge-mikage-hand",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Begins counterfeiting his mother's flat, thin, two-course hand daily, tiredness included",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C5: 'I have been counterfeiting it since I was eight years old'; C1 (daily, heel-of-hand fault put in deliberately). Age 8 = Y-2"
+  },
+  {
+   "atom_id": "craft/four-seals",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M1",
+   "story_month_end": "Y0M2",
+   "qualifier": "BET",
+   "acquiring_event": "Demonstrated at the Academy in front of 25 people — dog is a bracing seal, four not five, about a second and a quarter",
+   "provenance": "inferred-by-me",
+   "source": "ch01.md sc8; threads.md C1. No scene inside ch1 is dated and threads.md C1 heads it 'Month 1 to the last week of month 2'. combat.md §1b puts the underlying seal reduction at age 8"
+  },
+  {
+   "atom_id": "craft/fences",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Six minutes of fences against four genin on the coast road south of Nezu, the 8th",
+   "provenance": "stated-in-design",
+   "source": "threads.md C5, ledger entry 42 dated 8/5; timeline.md §6 ch5 ('Six minutes of fences')"
+  },
+  {
+   "atom_id": "craft/ground-breaking",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "Hōki teaches medium generation at Ōtoma; the element comes on the fifth try",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.2 and scene list (8/9–20); ch09.md §3.2 'Hōki said it on the twentieth of the eighth month'"
+  },
+  {
+   "atom_id": "craft/half-seals",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "With one hand splinted he asks 'which of these four is load-bearing?' and decomposes his own sequence; proved on the 18th",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.1 and §6 ledger ('proved on the 18th; fails 1 in 3'); combat.md §1b; falsified.md #14"
+  },
+  {
+   "atom_id": "craft/throwables",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Same six weeks: articles made in advance, carried and dated, because yesterday's article needs no hand today",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.1; combat.md §10c, §6"
+  },
+  {
+   "atom_id": "craft/blade-reconfiguration",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M12",
+   "qualifier": "CAL",
+   "acquiring_event": "Six weeks after the blade is made he can plant it and hold a seal — and does not know whether changing an open article closes it",
+   "provenance": "inferred-by-me",
+   "source": "ch10.md §3.1 / combat.md §7: 'he cannot change its configuration at all for six weeks'; blade proved ~10/18 ⇒ turn of M11/M12. Alternative reading: six weeks from the 17/9 break ⇒ Y0M11 (splint off, ch10.md §3.3)"
+  },
+  {
+   "atom_id": "craft/recall",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "He can take his own articles back — close, kneeling, slow",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §5: 'Recall — arrives late, and stays expensive'. Act two = age 11 = Y1 (timeline.md §1). No month exists; timeline.md §7.4 says years 1–3 are 'ordered but not dated'"
+  },
+  {
+   "atom_id": "skill/fieldcraft",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The carrying stops on the 2nd and the investment starts; Hōki from the 9th",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.1–2.2; combat.md §10b (probation months 6–7, investment month 8 → act two)"
+  },
+  {
+   "atom_id": "skill/road-discipline",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The first contract whole, Sakabe to Fukae, 2nd–11th: ridge-side and parallel, towns at the two unremarkable hours",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §2.1 and scene list (6/2–11); threads.md C7 ('eleven road crossings in nine days')"
+  },
+  {
+   "atom_id": "skill/withholding",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "At the terms on the 1st he looks for a true small thing about the ports, finds none, and says nothing",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §9b.4 (revised on the page: 'he still cannot state a falsehood. What he has gained is withholding'); scene 9 = 6/1"
+  },
+  {
+   "atom_id": "know/no-lie-mechanism",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "In the front room at the Kiribata on the 12th he tries to lie: an opening sound and nothing behind it",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §7b.6; scene 3 = 6/12"
+  },
+  {
+   "atom_id": "kit/tin",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Goes back down onto the hill on the 5th and takes his mother's grit tin off the bench — 31 pieces in it",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §4 sc2 (dated m4 5); threads.md C4 'He took: the tin (31 pieces…)'"
+  },
+  {
+   "atom_id": "kit/old-frame",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Takes the superseded copper frame out of the drawer under the rag and leaves Akagane's, because a new Ruri frame is a signature",
+   "provenance": "stated-in-design",
+   "source": "threads.md C4; ch04.md sc2 (m4 5)"
+  },
+  {
+   "atom_id": "kit/grease-tin",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Went back for it and did not cost it",
+   "provenance": "stated-in-design",
+   "source": "threads.md C4 ('the grease tin, which he went back for and did not cost'); the knuckles are threads.md C2, month 3"
+  },
+  {
+   "atom_id": "kit/kongo-drop",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The yard fire on the morning of the 5th: fourteen pieces survive and he takes the one that is not an answer",
+   "provenance": "stated-in-design",
+   "source": "threads.md C3 'THE FIRE — the fifth, morning'; ch03.md §5"
+  },
+  {
+   "atom_id": "kit/register-corner",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Out of the same fire: three corners of paper, one with a ruled line and part of a character",
+   "provenance": "stated-in-design",
+   "source": "threads.md C3 ('A spot of rain took some of the ink out sideways while it lay in his hand. He kept it')"
+  },
+  {
+   "atom_id": "kit/clasp",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Taken off a dead genin on the 8th; his thumb finds it mid-threshold",
+   "provenance": "stated-in-design",
+   "source": "threads.md C5 entry 42 '8/5. Coast road south of Nezu. Clasp, corps issue, taken and kept'; ch05.md §7"
+  },
+  {
+   "atom_id": "kit/coat",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Bought at Fukae at nearly double — the first thing he ever chose for himself. Lost Y0M7 on a door at Hanase",
+   "provenance": "stated-in-design",
+   "source": "ch07.md sc7 (6/20) vs threads.md C7 ('THE MONEY — 6/13 to 6/14'); day disputed, month not. Loss: ch07.md §7b.5"
+  },
+  {
+   "atom_id": "kit/mittens",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The woman who sold him the coat gives him mittens with a hole in the thumb out of guilt; entered as Free",
+   "provenance": "stated-in-design",
+   "source": "threads.md C7 (6/14); ch07.md §7b.4"
+  },
+  {
+   "atom_id": "kit/papers",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The terms on the 1st: a route, a place to sleep at each end, and papers",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §3.3 (scene 9 = 6/1)"
+  },
+  {
+   "atom_id": "kit/blade",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Makes a short half-katana one-handed in the six splinted weeks; it comes out OPEN and he does not know what he did",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.1 and §6; combat.md §7 and §3b; falsified.md #15"
+  },
+  {
+   "atom_id": "kit/gloves",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Buys gloves for the cold and works out inside a week he cannot seal in them",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 11: 'The gloves appear.' No month exists for year 1 (timeline.md §7.4)"
+  },
+  {
+   "atom_id": "kit/plates",
+   "holder": "Tadayoshi",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Mismatched plate under the coat — three makers, none good, all of them him",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 12"
+  },
+  {
+   "atom_id": "standing/wiped-out",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Settles Tsunade's gambling debt after losing the bet and walks out with no money and dying equipment",
+   "provenance": "stated-in-design",
+   "source": "structure.md §5; timeline.md §1 age 13 ('Tsunade. Wave. The door.')"
+  },
+  {
+   "atom_id": "book/ledger",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M1",
+   "story_month_end": "Y0M2",
+   "qualifier": "BET",
+   "acquiring_event": "Rules a narrow fourth column down a discarded Kanaya day-book after Meno shows him the register; first entry 'Nineteen went'",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1 'He has started a ledger (sc6)'; ch1 is undated inside M1–M2. Numbered whole in the dark on 8/5 (threads.md C5)"
+  },
+  {
+   "atom_id": "book/hunter-file",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M7",
+   "qualifier": "RULED",
+   "acquiring_event": "Opens a second book the night he goes out of a window at Hanase; five columns, four empty, and 'what it cost' invented for the coat",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §2.5 and §7b.5 ('Written on 7/2–3, at Hanase') — the §5 ledger's '7/23' is the superseded plan"
+  },
+  {
+   "atom_id": "book/tone-series",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "First reading off the clasp on the 8th: 'She is more tired than she was'",
+   "provenance": "stated-in-design",
+   "source": "threads.md C5 'FIRST READING OF THE SERIES'; ch05.md §8"
+  },
+  {
+   "atom_id": "book/own-dockets",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Agrees on the 1st to keep nothing on paper and writes entry 45 that night",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §3.4 and §7 (entry 45, 1/6, 'written in defiance of the man who gave them')"
+  },
+  {
+   "atom_id": "book/towns-list",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Goes back through every docket, 21st–29th, and lists eleven places where somebody alive could describe him",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.2 and scene 6 (10/21–29)"
+  },
+  {
+   "atom_id": "book/half-seal-rate",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Enters the mode with numbers the day he proves it: one in three fails, one in nine of those sets on the caster",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §6 ledger; combat.md §1b ('revises it after every session')"
+  },
+  {
+   "atom_id": "book/blade-chart",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Starts the blade's length and alteration-survival count with the blade itself",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §6; combat.md §7 ('he writes the count down and keeps writing it down for years')"
+  },
+  {
+   "atom_id": "book/kit-dates",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Throwables force a maintenance schedule and a morning ritual",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.1; combat.md §3, §10c. Dating carried articles itself begins Y0M6 (ch07.md §2.4: 'all of it entered in the kit with a date')"
+  },
+  {
+   "atom_id": "book/curve-date",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Computes the date at which the hunter curve exceeds him and revises it after every engagement",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §10 discipline 4. Act two onward, undated"
+  },
+  {
+   "atom_id": "book/distance-rule",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Writes the household's only law — a stated distance nobody may come inside — once there is a household",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §9 ('there is a written household rule'); team.md §6.3. Undated"
+  },
+  {
+   "atom_id": "know/armour-transfer",
+   "holder": "Tadayoshi",
+   "story_month": "Y-1M?",
+   "qualifier": "CAL",
+   "acquiring_event": "In hospital after an Academy fight went too far he sees what plate does to a body",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §8; timeline.md §1 age 9 ('The broken arm in a counter'). Age 9 = Y-1"
+  },
+  {
+   "atom_id": "know/hands-are-the-weakness",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Aoyagi tells him armoured hands cannot seal, so the hands stay bare permanently",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §1b ('he has known the hands are the weakness since he was eight, and Aoyagi told him'), §4.1"
+  },
+  {
+   "atom_id": "know/family-taken",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Stands at the top on the 3rd; reads the compound on the second night — twenty minutes, no shouting, a boat north at twenty past five, no bodies",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §3–§4; threads.md C3"
+  },
+  {
+   "atom_id": "know/find-the-book",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 7th, after four failed attempts to ask people on the Ōura wharf, he finds the customs post ledger",
+   "provenance": "stated-in-design",
+   "source": "threads.md C4 ('Do not ask people. Find where it is written down' — 'ten years, three months and eleven days old'); ch04.md sc9"
+  },
+  {
+   "atom_id": "know/what-a-book-is-for",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The Sunaba harbour ledger turns out to be a dues book, so state movements go in as exempt",
+   "provenance": "stated-in-design",
+   "source": "ch05.md §2 (chapter opens month 4, 9th)"
+  },
+  {
+   "atom_id": "know/nezu-exemption",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Same book: three exemptions that month, one at Nezu on the third, no master and no cargo",
+   "provenance": "stated-in-design",
+   "source": "ch05.md §2; world.md (Nezu: 'One exempt entry, third of the fourth month')"
+  },
+  {
+   "atom_id": "know/mother-alive",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 8th he reads her hand on a corps-issue fitting she has never made, on new issue",
+   "provenance": "stated-in-design",
+   "source": "threads.md C5 entry 42; ch05.md §7"
+  },
+  {
+   "atom_id": "know/boat-arithmetic",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Kihara's yard on the 16th: eleven days of water for nine, a crew of six, the radius an arc — marked unchecked",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §2.2 and §9b.1–2; threads.md C6 entry 43 (16/5)"
+  },
+  {
+   "atom_id": "know/stores-second-office",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Copies the warrant stamp and the six-stroke countersign whole off the spike behind Kihara's counter, the 16th",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §2.2; threads.md C6; world.md (STORES — SECOND OFFICE)"
+  },
+  {
+   "atom_id": "know/report-through-a-market",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Nezu market on the 12th is full of the riverbed, four days old, with one line that could only have come off the ground",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §2.1 and scene list (5/12)"
+  },
+  {
+   "atom_id": "know/heat-sink",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "Kajiya does the attention-budget sum out loud on the 2nd — and he checks it and is pleased",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.1; combat.md §10b"
+  },
+  {
+   "atom_id": "know/aoyagi-errand",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "ABT",
+   "acquiring_event": "Works out what the message that was nothing was actually for",
+   "provenance": "inferred-by-me",
+   "source": "ch03.md §2: 'He works out what it was about four months later.' Errand is m4 3rd–5th ⇒ about M8"
+  },
+  {
+   "atom_id": "know/being-right-is-not-a-lever",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The boy with the bad ear goes to the ford instead of him and does not come back; Fuda tells him in nine words",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.4, scene 9 (8/25–29) and ledger ~54 (8/29). §2.4's 'three weeks later' would fall in M9 — a day conflict only"
+  },
+  {
+   "atom_id": "know/i-am-the-syllabus",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 18th, writing the hunter file's second entry left-handed, he works out she is coming back and everything she knows she got off him",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.3"
+  },
+  {
+   "atom_id": "know/where-i-stand",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "Hōki names the flaw on the 20th: 'in about a year somebody will write down where you stand.' Proved on 17/9 — twenty-eight days",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.2; ch09.md §3.2 ('It is twenty-eight days')"
+  },
+  {
+   "atom_id": "know/no-wrong-description",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "Hōki on the 18th: four minutes of him on a sheet in Kiri by month end, and it will be right",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §7b.9; combat.md §10c"
+  },
+  {
+   "atom_id": "know/brother-alive",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "story_month_end": "Y0M12",
+   "qualifier": "BET",
+   "acquiring_event": "He learns Iwao testified, walked out, and is alive under a name that is not his",
+   "provenance": "inferred-by-me",
+   "source": "ch05.md §10 ('the vow is NOT in this chapter… the vow waits for the fact'; ch5 ends m5 8th) and act-1.md §6 (the vow is delivered to act two). No scene in the files places the discovery"
+  },
+  {
+   "atom_id": "know/boilerplate",
+   "holder": "Tadayoshi",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The wording of a posting rings; he goes to his own file and finds an earlier sheet in his own hand",
+   "provenance": "stated-in-design",
+   "source": "structure.md §3; timeline.md §1 age 12 ('The boilerplate. The ports.')"
+  },
+  {
+   "atom_id": "know/mother-dead",
+   "holder": "Tadayoshi",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The chart stops flattening — a decline that plateaus — so she has been dead about a year",
+   "provenance": "stated-in-design",
+   "source": "portraits.md: 'PLACEMENT — RULED: age 12, after Gatō, immediately before the village conversation'; falsified.md #9"
+  },
+  {
+   "atom_id": "know/someone-there-has-the-gift",
+   "holder": "Tadayoshi",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "He records the second implication correctly: the pieces are still laid, so somebody in that building can lay them",
+   "provenance": "stated-in-design",
+   "source": "portraits.md ('a true finding sits in his book, dated, in his own hand, from when he was twelve')"
+  },
+  {
+   "atom_id": "know/guren-exists",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "He learns there is another Ruri, who left before the worst, and lived",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §7: the sword's clause is 'absolute from the end of act one until he learns about Guren'; falsified.md watch list #1. No date given, so the only bound is after act one"
+  },
+  {
+   "atom_id": "know/kimimaro-dying",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Uzuki sends for him because she cannot hold a true thing about him and not say it",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §1 age 13 ('Uzuki sends for him. He returns.'); team.md §9"
+  },
+  {
+   "atom_id": "know/collection-order",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Iwao produces the signed order citing improved yield out of the Ruri compound",
+   "provenance": "stated-in-design",
+   "source": "character.md (the brother): 'he tells the truth exactly once, in the last act, as a document'"
+  },
+  {
+   "atom_id": "bind/hide-the-gift",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M8",
+   "qualifier": "RULED",
+   "acquiring_event": "'Nobody sees this. Not your father. Not Meno. Nobody.' Reason given entire: because of my uncle",
+   "provenance": "stated-in-design",
+   "source": "threads.md C1: 'The instruction, verbatim, eighth month two years ago'"
+  },
+  {
+   "atom_id": "bind/stand-alone",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Absorbs Tadaharu's side of an unresolved table argument at eight",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md (Tadaharu): 'His whole ideology is his father's, absorbed at eight'; ch01.md sc3: 'arriving two years before he will believe he derived it from the purge'"
+  },
+  {
+   "atom_id": "bind/no-paper",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Kajiya's condition at the terms on the 1st: nothing written, not a name, not a place, not a date",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §3.3"
+  },
+  {
+   "atom_id": "bind/never-open-the-parcel",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Reasons it out over a mile in four steps on the road to Fukae, ending in a preference reached without arithmetic",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §5 ledger (entry 46, 6/4); threads.md C7 enters the fourth step as '11/6' — day conflict, month unaffected"
+  },
+  {
+   "atom_id": "bind/ask-three-prices",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Fuda gives him the rule for nothing after the coat",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §2.4 (entry 47, 6/20); threads.md C7 puts the exchange on the 14th"
+  },
+  {
+   "atom_id": "bind/take-your-work-with-you",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Kajiya's instruction above Nezu on the 20th — and he cannot comply, because the fences and the stand are different kinds of evidence",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §9b.3; scene 6 = 5/20"
+  },
+  {
+   "atom_id": "bind/every-new-thing-one-fight",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Derives the doctrine off Hōki's 18/9 sentence, with the working shown",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.1; combat.md §10c ('He gets the doctrine out of that inside the tenth month')"
+  },
+  {
+   "atom_id": "bind/vow",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "story_month_end": "Y0M12",
+   "qualifier": "BET",
+   "acquiring_event": "Sworn at ten, after he learns his brother is alive: he will kill him with a sword of his own design",
+   "provenance": "inferred-by-me",
+   "source": "ch03.md §9 ('the vow comes after' the genin team); ch05.md §10; act-1.md §6 (delivered to act two: 'A vow, sworn at ten')"
+  },
+  {
+   "atom_id": "bind/creed",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "After the merchant, the house and the boy: stay your hand from the blood of the innocent",
+   "provenance": "stated-in-design",
+   "source": "character.md: 'Acquired at eleven, halfway down, at a price'; structure.md act two"
+  },
+  {
+   "atom_id": "bind/theory-stays-private",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M8",
+   "qualifier": "CAL",
+   "acquiring_event": "A corollary of the hiding instruction, held from that month",
+   "provenance": "inferred-by-me",
+   "source": "falsified.md watch list #2 ('marked to break in act three' = Y2), while structure.md §6 has him spending the theory at Wave (Y3) — the break date is itself contested"
+  },
+  {
+   "atom_id": "mark/stopped-refusing",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 4th he runs the same cross-reference, gets the same answer, and says right — and there is no entry",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.1 and §7b.3 ('A moral change rendered as a missing entry')"
+  },
+  {
+   "atom_id": "mark/lets-one-thing-stand",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Stops correcting 'boyfriend', the word in use from eleven",
+   "provenance": "inferred-by-me",
+   "source": "team.md §10.3 ('In use by eleven') and §10.4 ('he stops correcting it'). The 'cause: the sword' entry left on a re-read (combat.md §7b) is later and undated"
+  },
+  {
+   "atom_id": "mark/threshold-bookkeeping",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Counts, warning signs, thresholds and rules about who may stand where",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §9 discipline 3 ('he will have built bookkeeping'). Act two onward, undated"
+  },
+  {
+   "atom_id": "body/right-hand",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The Aku bank on the 17th: two or three bones across the back of the right hand",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.2 ('the use of his right hand for about six weeks'); ch10.md §3.3"
+  },
+  {
+   "atom_id": "body/weather-hand",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M11",
+   "qualifier": "RULED",
+   "acquiring_event": "Splint off, and a thing across the back that tells him when it is going to rain",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.3 (scene 9, month 11; 'Hōki, 18/9: about a year')"
+  },
+  {
+   "atom_id": "body/hands-chapping",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The first cracks that do not close, in a country where nothing dries",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 11"
+  },
+  {
+   "atom_id": "body/hands-not-healing",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "They have stopped healing between jobs",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 13"
+  },
+  {
+   "atom_id": "body/outgrown",
+   "holder": "Tadayoshi",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Two inches taller, and the coat is the same coat",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 12"
+  },
+  {
+   "atom_id": "standing/undeclared",
+   "holder": "Tadayoshi",
+   "story_month": "Y-2M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The presentation date passes unmet and his assessment column stays empty",
+   "provenance": "stated-in-design",
+   "source": "ch02.md §6: 'there was a date, and it was in the eighth month of the year he was eight, and it has passed'; threads.md C2; world.md (the presentation requirement)"
+  },
+  {
+   "atom_id": "standing/on-a-form",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "A ten-year-old struck from a household: constables, a name at the ports, nothing actually hunting him. Ends Y0M5",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §6 ('THE HUNTER CURVE HAS NOT STARTED — ruling, recorded here')"
+  },
+  {
+   "atom_id": "standing/hunted",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "The riverbed on the 8th hands the state its first specification; first contact lands Y0M7",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §6 ('The curve begins when he first makes it necessary — the genin team, in month 5'); combat.md §10"
+  },
+  {
+   "atom_id": "standing/kui",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Kajiya writes 杭 on the first docket on the 1st, out of four minutes of fences",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §3.4; world.md name register ('written by Kajiya on the first docket, month 6, the 1st')"
+  },
+  {
+   "atom_id": "standing/probation",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Carrying begins on the 1st and the parcel is the exam; he thinks it is a job. Ends Y0M8 (2nd)",
+   "provenance": "stated-in-design",
+   "source": "combat.md §10b (probation, months 6–7); ch07.md §2"
+  },
+  {
+   "atom_id": "standing/investment",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 2nd: the carrying stops in one sentence and fieldcraft, sparring and the element begin",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.1; combat.md §10b"
+  },
+  {
+   "atom_id": "standing/difficult",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 21st: he audits a briefing and is right, out loud, in front of the man who ruled it",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.3 and scene 6 (8/21); ledger ~50 (8/21)"
+  },
+  {
+   "atom_id": "standing/freight",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M11",
+   "qualifier": "RULED",
+   "acquiring_event": "Moved back onto carrying by nobody's decision; saying so correctly is what makes it permanent",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.3 (scene 9, month 11)"
+  },
+  {
+   "atom_id": "standing/institution-of-his-own",
+   "holder": "Tadayoshi",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The break with the resistance: he walks out with two children and no organisation",
+   "provenance": "stated-in-design",
+   "source": "structure.md act two; timeline.md §1 age 11 ('The break with the resistance')"
+  },
+  {
+   "atom_id": "standing/amnesty",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Admitted at the door on the strength of a secret he does not know he is carrying",
+   "provenance": "stated-in-design",
+   "source": "structure.md §6; timeline.md §1 age 13"
+  },
+  {
+   "atom_id": "bond/kajiya",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The terms on the 1st, said out loud exactly as they are (first contact above Nezu, 20/5)",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §3.1–3.3; portraits.md (Kajiya)"
+  },
+  {
+   "atom_id": "bond/kajiya-gone",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "Last seen on the 2nd; the handler stops coming and there is nobody to ask",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §3.3: 'has not been seen since the second of the eighth month' — Tadayoshi registers it in M11 and never finds out anything"
+  },
+  {
+   "atom_id": "bond/fuda",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The 12th at Fukae; identified by the foot of the character for 'the twelfth' in eleven seconds",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §2.2–2.3; threads.md C7"
+  },
+  {
+   "atom_id": "bond/hoki",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 9th at Ōtoma: asks questions, does not answer them, never looks at his hands",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §2.2 and scene 4 (8/9–20); world.md (Hōki)"
+  },
+  {
+   "atom_id": "bond/nagi-designation",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 18th she goes into the file as 'the left-hander' and stays that about two years",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.3; portraits.md (Sagara Nagi)"
+  },
+  {
+   "atom_id": "debt/uzuki",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M12",
+   "qualifier": "RULED",
+   "acquiring_event": "The monastery: he says plainly that the rescue is a debt he is carrying, on stated terms",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §2 month 12; act-1.md §6 ('a household of two, formed by accident, on a debt he is carrying')"
+  },
+  {
+   "atom_id": "debt/turnips",
+   "holder": "Tadayoshi",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "Two turnips out of a clamp on the Sakabe–Fukae road, entered as theft with the value",
+   "provenance": "stated-in-design",
+   "source": "threads.md C7 (road 6/2–11). Uzuki performs the same act on 9/22-ish (threads.md C9) — a rhyme, not this atom"
+  },
+  {
+   "atom_id": "debt/tsunade",
+   "holder": "Tadayoshi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Settles her gambling debt after losing the bet, because a woman with creditors leaves town",
+   "provenance": "stated-in-design",
+   "source": "structure.md §5; timeline.md §1 age 13"
+  },
+  {
+   "atom_id": "skill/forms",
+   "holder": "Uzuki",
+   "story_month": "Y0M1",
+   "qualifier": "BEF",
+   "acquiring_event": "Grandfather to father to her: nine forms numbered to fourteen, with no lineage attached",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1 ('Nine forms, numbered to fourteen… Kiyoshi asked twice'). Held before the book opens; no acquisition date exists"
+  },
+  {
+   "atom_id": "skill/eighth-count",
+   "holder": "Uzuki",
+   "story_month": "Y0M1",
+   "story_month_end": "Y0M2",
+   "qualifier": "BET",
+   "acquiring_event": "Gets it on the eighteenth try behind the house — stop on purpose, not at the set, at the going — and her father has to sit down",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1; ch01.md sc5 is undated and precedes sc7, which timeline.md §2 puts in month 2"
+  },
+  {
+   "atom_id": "skill/palm",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The 3rd: three and a half hours with Anzai — find it, hold it, a thimble and stop, ninety times",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §1 clock (day 8 = m4 3, 'Anzai comes home. The afternoon.')"
+  },
+  {
+   "atom_id": "skill/diagnosis",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Same afternoon: hand on, what is different, where does it hurt, and do those two agree",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §4 sc6; combat.md §11b step 2"
+  },
+  {
+   "atom_id": "skill/empty-ninety",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Starts running the exercise daily on her own forearm, on nobody. Stops dead on 26/8 and never resumes",
+   "provenance": "stated-in-design",
+   "source": "threads.md C5 ('Thirty-two days of ninety… and on the eighth of the fifth month, 31 good' ⇒ started ~m4 7); ch07.md §3.4; ch08.md §3.5"
+  },
+  {
+   "atom_id": "skill/can-lie",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "Sacks: perfectly smooth, entirely true, and in every way that mattered a lie",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §3.2 / scene 5 (8/14–22). The vocabulary's 11th falls in the same month"
+  },
+  {
+   "atom_id": "skill/glass-cannon",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Katana, straight in, no guard, no disengage — which requires the sword recovered at Nakadō",
+   "provenance": "inferred-by-me",
+   "source": "falsified.md #13; team.md §4; structure.md §4b ('Act two, late. She is eleven.')"
+  },
+  {
+   "atom_id": "kit/pig-knife",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 26th: costs all four knives and takes the one not wanted until the eleventh month, which gives her ten weeks",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §3.5 and §8b.7"
+  },
+  {
+   "atom_id": "kit/knife-is-mine",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 9th: she oils it, and a thing you look after is a thing you are going to have for a while",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §7b.2"
+  },
+  {
+   "atom_id": "kit/flour-bag",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "story_month_end": "Y0M5",
+   "qualifier": "BET",
+   "acquiring_event": "The ninety goes into a written column; the flour bag with its columns is explicit by 22/5",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C5: written 'on the back of the mill's chit and then on a piece of flour bag'; ch06.md §4.2 (5/22, second column). Replaced by the sacking bag Y0M10"
+  },
+  {
+   "atom_id": "kit/sacking-bag",
+   "holder": "Uzuki",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "A new bag at the monastery; only the third column carries forward (1,620, 1,584, 1,559)",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §2.3 (scene 5, 10/11–25) and §6"
+  },
+  {
+   "atom_id": "kit/half-ryo",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 17th she leaves with about half a ryō in a twist of cloth — the whole of the estate",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §2.3 and §2.5. The coin itself is month-8 wages from Kuriya, who pays at month end"
+  },
+  {
+   "atom_id": "kit/shoes",
+   "holder": "Uzuki",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "Buys shoes off a heap at Ōgi, wrong size, for a twentieth — barefoot since 17/9",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §2.1 (scene 1, 10/1–9); ch09.md §2.5 ('No shoes')"
+  },
+  {
+   "atom_id": "kit/uzushio-sword",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Recovered at Nakadō — the sword is the errand and the killing is what happens on the way to it",
+   "provenance": "stated-in-design",
+   "source": "structure.md §4b ('Act two, late. She is eleven.'); combat.md §7b; team.md §4.3"
+  },
+  {
+   "atom_id": "kit/medical-kit",
+   "holder": "Uzuki",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Assembled by her, and she can inventory it from memory",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table, age 12"
+  },
+  {
+   "atom_id": "body/dyed-hair",
+   "holder": "Uzuki",
+   "story_month": "Y0M1",
+   "qualifier": "BEF",
+   "acquiring_event": "Dyed at a bowl about every two months by her father, who never said why",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1; portraits.md hair sequence ('she was six'). Last dye 11/9 (ch09.md §2.2); rain takes it 26/10 (ch10.md §2.4); re-dyed Y1M? on his instruction; shown at a gate Y3M?"
+  },
+  {
+   "atom_id": "body/feet",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "17th–20th: four cuts across the ball of both, a place off the outside edge, and filthy",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §2.6; threads.md C9 ('The feet are the whole of the first three days')"
+  },
+  {
+   "atom_id": "body/hunger",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "story_month_end": "Y0M10",
+   "qualifier": "BET",
+   "acquiring_event": "From the 24th into month 10: about a fifth of a ryō in five days, hungry from the middle of the second",
+   "provenance": "inferred-by-me",
+   "source": "ch09.md §2.6; threads.md C9; ch10.md §2.1 (hunger 'properly, for the first time', 10/1–9)"
+  },
+  {
+   "atom_id": "body/thimble",
+   "holder": "Uzuki",
+   "story_month": "Y0M1",
+   "qualifier": "BEF",
+   "acquiring_event": "About a thimble of chakra at ten, and a cup by twenty — innate, and rising",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1; combat.md §11b; team.md §4.4"
+  },
+  {
+   "atom_id": "body/taller",
+   "holder": "Uzuki",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Taller than him, and stays taller",
+   "provenance": "stated-in-design",
+   "source": "portraits.md: 'by twelve she is taller than he is'; year table age 12"
+  },
+  {
+   "atom_id": "body/borrowed",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Everything she survives is borrowed and comes back on a delay she will not track",
+   "provenance": "inferred-by-me",
+   "source": "falsified.md #13 (replacement constraint 4); team.md §4.5. Act two onward, undated"
+  },
+  {
+   "atom_id": "know/medic-three-days",
+   "holder": "Uzuki",
+   "story_month": "Y0M2",
+   "qualifier": "CAL",
+   "acquiring_event": "The medic at Kayano is named out loud — three days if the road is dry, and the number after that is money",
+   "provenance": "inferred-by-me",
+   "source": "ch01.md sc9 follows sc7 ('He stops being able to work'), which timeline.md §2 places in month 2. The supplied vocabulary's Y0M1 is a month early"
+  },
+  {
+   "atom_id": "know/what-an-afternoon-buys",
+   "holder": "Uzuki",
+   "story_month": "Y0M3",
+   "qualifier": "RULED",
+   "acquiring_event": "Tazu answers the precise question: the nights, the edge, the muscle panicking — not the thing",
+   "provenance": "stated-in-design",
+   "source": "ch02.md sc2 and threads.md C2; chapter = month 3, 4th–26th"
+  },
+  {
+   "atom_id": "know/the-hundred",
+   "holder": "Uzuki",
+   "story_month": "Y0M3",
+   "qualifier": "CAL",
+   "acquiring_event": "About the fourth day out she works out there is a hundred where two hundred and forty should be",
+   "provenance": "inferred-by-me",
+   "source": "She left at four on the 26th of month 3 (threads.md C2) and ch04.md §1 pins day 5 = m3 30, so day 4 = m3 29. Only reaches M4 if 'about the fourth day' stretches three days; the vocabulary says Y0M4"
+  },
+  {
+   "atom_id": "know/mother-was-never-coming",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "CAL",
+   "acquiring_event": "Sae gives the honest answer to 'ask me tomorrow': there was never any money and she was never coming",
+   "provenance": "inferred-by-me",
+   "source": "'I have been here for two days. Ask me tomorrow' is said at home on m4 6 (threads.md C4; Kiyoshi dies m4 4), so the answer lands m4 7–9; ch05.md sc2. ch05.md's stated window opens m4 9th. The vocabulary says Y0M5"
+  },
+  {
+   "atom_id": "know/it-isnt-the-hands",
+   "holder": "Uzuki",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The 4th, on Kuriya's knee: the ceiling is that she is ten, and the rate collapses the moment the work is regular",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §4.3 (scene 7, 6/4) and §9b.6"
+  },
+  {
+   "atom_id": "know/shimoda",
+   "holder": "Uzuki",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The 27th: H is a name, and the sale closes in one stroke of a pen while she watches",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §4.4 (scene 10, 6/27)"
+  },
+  {
+   "atom_id": "know/what-it-is",
+   "holder": "Uzuki",
+   "story_month": "Y0M7",
+   "qualifier": "RULED",
+   "acquiring_event": "The 20th, through a brick wall: voices, then not voices, a chair going over, somebody standing it back up",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §3.4 (scene 8, 7/20)"
+  },
+  {
+   "atom_id": "know/mother-lies",
+   "holder": "Uzuki",
+   "story_month": "Y0M7",
+   "qualifier": "RULED",
+   "acquiring_event": "The 21st: one sentence about a chair with a reason attached, and a pair of hands moved out of hers",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §3.5 and §7b.10 (scene 10, 7/21)"
+  },
+  {
+   "atom_id": "know/no-rule",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 8th: eleven questions tested, nine noes — everything that correlates is outside the house",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §3.1 (scene 2, 8/8)"
+  },
+  {
+   "atom_id": "know/i-bent-it",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 22nd: eleven nights on a stool moved the interval from four days to twelve, so she is one of the variables",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §8b.3 and scene 5 (8/14–22)"
+  },
+  {
+   "atom_id": "know/not-a-deterrent",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 6th: they go into their own room and shut the door with her four feet away — I was not a reason, I was a nuisance",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §2.1 and §7b.1 (scene 1, 9/2–9)"
+  },
+  {
+   "atom_id": "know/list-untested",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 26th: eleven people in three years and nothing ever happened, because she was never near any of them",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §8b.6 and scene 10 (8/26)"
+  },
+  {
+   "atom_id": "know/nobody-knows-where-i-am",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 24th, on about the fourth day out: there is nowhere she is written down",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §2.6 (scene 9, 9/18–24)"
+  },
+  {
+   "atom_id": "know/the-word-worked",
+   "holder": "Uzuki",
+   "story_month": "Y0M12",
+   "qualifier": "RULED",
+   "acquiring_event": "At the monastery she says one word and it saves her, and the mechanism was him",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §2 month 12 ('The courier. Help.'); structure.md act one"
+  },
+  {
+   "atom_id": "know/shimoda-lived",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "A door opens at Nakadō and it is him",
+   "provenance": "stated-in-design",
+   "source": "structure.md §4b ('Act two, late. She is eleven'); team.md §4.3. ch09.md's 'two years' of not knowing is loose against the age ledger"
+  },
+  {
+   "atom_id": "know/kimimaro-decline",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Starts timing how long he can hold an extension before it fails — weekly, in a book",
+   "provenance": "stated-in-design",
+   "source": "portraits.md (the illness: 'She times him'); team.md §6.1; threads.md (the four series). Begins when he arrives, act two"
+  },
+  {
+   "atom_id": "know/own-clan-name",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Somebody who knows swords reads the reverse of the blade to her out loud, as a pleasantry",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §7b: 'That is a scene the book will want' — unplaced. Cannot precede the sword's recovery at Nakadō (Y1)"
+  },
+  {
+   "atom_id": "know/why-he-left",
+   "holder": "Uzuki",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "He tells her, after Kimimaro, that his mother had been dead a year when he offered them a village",
+   "provenance": "stated-in-design",
+   "source": "portraits.md: 'when she finds out — in year 3, from him, after Kimimaro'"
+  },
+  {
+   "atom_id": "bind/hair-is-hair",
+   "holder": "Uzuki",
+   "story_month": "Y0M1",
+   "qualifier": "BEF",
+   "acquiring_event": "Held on arrival, with no theory behind it, against her father's non-answer. Given up Y0M12/Y1M1 on his instruction and not felt as a loss",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1 ('Hair is hair'); portraits.md hair sequence"
+  },
+  {
+   "atom_id": "bind/never-tell-about-the-hands",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Anzai's condition on the 3rd: nobody, ever, and particularly nobody in Kayano",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §4 sc7; threads.md C4 open item 5"
+  },
+  {
+   "atom_id": "bind/the-list",
+   "holder": "Uzuki",
+   "story_month": "Y-3M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Starts counting who has looked at her too long",
+   "provenance": "inferred-by-me",
+   "source": "ch07.md §3.0: 'She has always counted them… it has been running for years'; ch08.md §8b.6 dates the entries 'from age seven'. Age 7 = Y-3"
+  },
+  {
+   "atom_id": "bind/never-overrule-the-count",
+   "holder": "Uzuki",
+   "story_month": "Y0M8",
+   "qualifier": "RULED",
+   "acquiring_event": "The 26th: she will not put him back on, because a list you argue with is an opinion",
+   "provenance": "stated-in-design",
+   "source": "ch08.md §3.4 and §8b.6"
+  },
+  {
+   "atom_id": "bind/spend-yourself",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Conserving herself buys nothing she wants; spending herself buys the thing she wants",
+   "provenance": "inferred-by-me",
+   "source": "team.md §4.2; falsified.md #13. Act two onward, undated"
+  },
+  {
+   "atom_id": "bind/the-hand-rule",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Anybody who touches him loses the hand — calm, procedural, and written down",
+   "provenance": "inferred-by-me",
+   "source": "character.md (Uzuki: 'she will have written the rule down'); team.md §4. Undated"
+  },
+  {
+   "atom_id": "bind/boyfriend",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The word, at volume, to strangers — first used at Nakadō",
+   "provenance": "stated-in-design",
+   "source": "team.md §10.3: 'In use by eleven (it is the word she uses at Nakadō)'"
+  },
+  {
+   "atom_id": "bind/record-of-rechoosing",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "AFT",
+   "acquiring_event": "Begins keeping a record of every time she has chosen him again",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md ('She has re-chosen it several hundred times, and she keeps a record'); team.md §10.0. No date given"
+  },
+  {
+   "atom_id": "standing/unregistered",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 17th: she goes off every record there is and never gives Kiku a name. Ends Y0M12",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §1 and §2.6"
+  },
+  {
+   "atom_id": "standing/for-sale",
+   "holder": "Uzuki",
+   "story_month": "Y0M10",
+   "qualifier": "RULED",
+   "acquiring_event": "The 28th: priced twice in one room, and Enkai's 'not before the eleventh month'",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §2.5 (scene 8, 10/28)"
+  },
+  {
+   "atom_id": "standing/runs-the-cover",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "ABT",
+   "acquiring_event": "She decides what the three of them are today, tells the other two, and they do it",
+   "provenance": "inferred-by-me",
+   "source": "team.md §11.3: 'So Uzuki runs the cover. Not as a favour — as her job, from about eleven, permanently'"
+  },
+  {
+   "atom_id": "bond/kuriya",
+   "holder": "Uzuki",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "The 4th: the knee, twenty-five minutes, a quarter of a ryō paid correctly. Ends 14/9",
+   "provenance": "stated-in-design",
+   "source": "ch06.md §4.3; ch09.md §2.3 (the last Kuriya, 9/14)"
+  },
+  {
+   "atom_id": "bond/anzai",
+   "holder": "Uzuki",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The 3rd: he finds the hole in her trade in four seconds and teaches her anyway, for reasons of his own",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §2 and §1 clock (day 8 = m4 3)"
+  },
+  {
+   "atom_id": "bond/kimimaro",
+   "holder": "Uzuki",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "She tells him what to do, out loud, immediately, and he does it exactly",
+   "provenance": "stated-in-design",
+   "source": "team.md §6.1 ('It works from the first day'); the extraction is act two = age 11 (timeline.md §1)"
+  },
+  {
+   "atom_id": "debt/kuriya-unpaid",
+   "holder": "Uzuki",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 14th: he pays at month end and she runs on the 17th, so about half a ryō is owing and never paid",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §2.3"
+  },
+  {
+   "atom_id": "standing/stock",
+   "holder": "Kimimaro",
+   "story_month": "Y-2M?",
+   "qualifier": "CAL",
+   "acquiring_event": "Held pending a buyer after the Kaguya assault — not a prisoner, stock, assessed at intervals",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md: 'Two years in a cell before act one opens, and one more to go'; timeline.md §5 (assault bought at ~5 pre-P1). Two years before Y0M1 ⇒ Y-2"
+  },
+  {
+   "atom_id": "standing/sold",
+   "holder": "Kimimaro",
+   "story_month": "Y0M12",
+   "qualifier": "RULED",
+   "acquiring_event": "A sale is scheduled; he becomes a delivery rather than a boilerplate posting",
+   "provenance": "stated-in-design",
+   "source": "act-1.md §3 ch11 ('And a sale is scheduled'); timeline.md §2 month 12; structure.md §4"
+  },
+  {
+   "atom_id": "standing/extracted",
+   "holder": "Kimimaro",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Taken by a boy executing his orders exactly, then argued over in a room by people who lost family to the Kaguya",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §3 (Kimimaro 13 — taken, at age 11 for Tadayoshi); structure.md §4"
+  },
+  {
+   "atom_id": "skill/put-one-out-elsewhere",
+   "holder": "Kimimaro",
+   "story_month": "Y0M5",
+   "story_month_end": "Y0M6",
+   "qualifier": "BET",
+   "acquiring_event": "At the viewing he asks 'may I', is told he may, and puts one out of the back of his left hand",
+   "provenance": "inferred-by-me",
+   "source": "ch06.md §5.1 sc3. His scenes never open with a time or place (act-1.md §5c) and ch6 spans 5/12–6/27; ch08.md §4.1's 'thirty-eight days into sequence two' counts back to ~M6"
+  },
+  {
+   "atom_id": "mark/practising",
+   "holder": "Kimimaro",
+   "story_month": "Y0M8",
+   "qualifier": "CAL",
+   "acquiring_event": "The first count finishes badly, so he decides to make the number better and starts a second count",
+   "provenance": "inferred-by-me",
+   "source": "ch08.md §4.2 (last line of scene 7). The chapter is month 8 entire (1st–30th); the scene itself carries no date by rule"
+  },
+  {
+   "atom_id": "mark/mirrors",
+   "holder": "Kimimaro",
+   "story_month": "Y1M?",
+   "story_month_end": "Y2M?",
+   "qualifier": "BET",
+   "acquiring_event": "Copies mannerisms exactly and without understanding — testing edges with his thumb for a note he cannot hear",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md: 'Within a year he is testing edges with his thumb', and the year table at 14 ('He has begun to mirror'). Rescue is Y1, age 14 is Y2"
+  },
+  {
+   "atom_id": "body/control-bone",
+   "holder": "Kimimaro",
+   "story_month": "Y0M5",
+   "story_month_end": "Y0M6",
+   "qualifier": "BET",
+   "acquiring_event": "Puts an unbroken bone out of the back of his right hand and keeps it as the comparison; it catches on everything",
+   "provenance": "inferred-by-me",
+   "source": "ch06.md §5.1 (the viewing). CONFLICT: ch08.md §8b.8 says it has been out 'four months' by month 8 (⇒ M4), which no reading of ch6's 5/12–6/27 window supports"
+  },
+  {
+   "atom_id": "body/illness",
+   "holder": "Kimimaro",
+   "story_month": "Y0M1",
+   "qualifier": "BEF",
+   "acquiring_event": "Already started when act one opens; nobody in the book can name it and unmanaged it has no date",
+   "provenance": "inferred-by-me",
+   "source": "act-1.md §5 ('And the illness has started'); team.md §3.1; character.md"
+  },
+  {
+   "atom_id": "body/wasted",
+   "holder": "Kimimaro",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Comes out of three years indoors with the muscle gone; the body returns in four months and the manner never does",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table (13 — taken) and 'Three years in a cell, and a Kaguya body'; team.md §3.1"
+  },
+  {
+   "atom_id": "know/gap-was-six",
+   "holder": "Kimimaro",
+   "story_month": "Y0M8",
+   "qualifier": "CAL",
+   "acquiring_event": "The door four along the passage stops, and he has been counting its gap against his own for two years",
+   "provenance": "inferred-by-me",
+   "source": "ch08.md §4.1 (scene 3). Chapter = month 8 entire; his scenes carry no date"
+  },
+  {
+   "atom_id": "know/slowly-and-worse",
+   "holder": "Kimimaro",
+   "story_month": "Y0M8",
+   "qualifier": "CAL",
+   "acquiring_event": "A hundred and seventy-eight bowls, and the new one comes back shorter and not the same shape",
+   "provenance": "inferred-by-me",
+   "source": "ch08.md §4.2 (scene 7). Chapter = month 8 entire"
+  },
+  {
+   "atom_id": "know/enough-to-live-on",
+   "holder": "Kimimaro",
+   "story_month": "Y0M11",
+   "qualifier": "RULED",
+   "acquiring_event": "Sitting on a mat he works out the amount in the bowl is always the same amount, so somebody decided it",
+   "provenance": "stated-in-design",
+   "source": "ch10.md §4.2: 'after two years, in the eleventh month'"
+  },
+  {
+   "atom_id": "know/a-date",
+   "holder": "Kimimaro",
+   "story_month": "Y1M?",
+   "qualifier": "CAL",
+   "acquiring_event": "The first thing Tadayoshi is ever able to give him is a date",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md and act-1.md §5a. Requires the extraction, which is act two = Y1"
+  },
+  {
+   "atom_id": "kit/specification",
+   "holder": "Kimimaro",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "He asks to be used and is handed a document — purpose, scope, acceptance criteria, review date",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table (14): 'He asks a question that is not a permission — tell me what I am for — and is given a document'"
+  },
+  {
+   "atom_id": "mark/said-no",
+   "holder": "Kimimaro",
+   "story_month": "Y2M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The village conversation: the first refusal of his life, quietly, in about four words",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §1 age 12 ('The village conversation, refused — he leaves'); character.md; portraits.md"
+  },
+  {
+   "atom_id": "standing/nomination",
+   "holder": "Iwao",
+   "story_month": "Y0M3",
+   "qualifier": "RULED",
+   "acquiring_event": "A signed nomination for the winter trial, carried inside his shirt",
+   "provenance": "stated-in-design",
+   "source": "threads.md C2 open item 3; ch02.md sc1 (chapter = month 3)"
+  },
+  {
+   "atom_id": "standing/amagiri-kenji",
+   "holder": "Iwao",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Released and struck from the household at the tribunal, inside a fabricated line named off a joke he made at his family's table",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7 (the determination); world.md (the Kenji plant); timeline.md §2 month 4"
+  },
+  {
+   "atom_id": "know/unmothered-her",
+   "holder": "Iwao",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "He testifies that Mikage is not his mother and she takes four seconds and does not contradict him",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7; falsified.md #8"
+  },
+  {
+   "atom_id": "kit/the-stone",
+   "holder": "Iwao",
+   "story_month": "Y0M4",
+   "qualifier": "CAL",
+   "acquiring_event": "Keeps a piece off the compound on his body — evidence a man of different blood has no reason to own",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md ('The object: he kept a stone') gives no acquisition date; the arrest is what turns it into contraband, so Y0M4 is the earliest month at which the atom is true as stated"
+  },
+  {
+   "atom_id": "standing/attached-to-hunts",
+   "holder": "Iwao",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The corps' edge, lent out to hunts",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table (14): 'Attached to hunts'; character.md (three rungs)"
+  },
+  {
+   "atom_id": "kit/seven-sword",
+   "holder": "Iwao",
+   "story_month": "Y3M?",
+   "qualifier": "ABT",
+   "acquiring_event": "Plausibly holding one of the seven by sixteen",
+   "provenance": "inferred-by-me",
+   "source": "timeline.md §3 ('Rumoured for one of the seven at thirteen, plausibly holding one by sixteen') — but §7 open ruling 2 says when he actually holds one is undecided. portraits.md year table (16) has 'a blade that has a name'"
+  },
+  {
+   "atom_id": "bind/never-explain",
+   "holder": "Iwao",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "From the tribunal onward he never once attempts to explain himself, and it is not pride",
+   "provenance": "stated-in-design",
+   "source": "portraits.md ('He never once tries to explain himself'); character.md"
+  },
+  {
+   "atom_id": "mark/apologises",
+   "holder": "Iwao",
+   "story_month": "Y1M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Starts apologising easily and warmly to strangers for small things, and meaning it in the moment",
+   "provenance": "stated-in-design",
+   "source": "portraits.md year table (14): 'He starts apologising to strangers'"
+  },
+  {
+   "atom_id": "body/the-height",
+   "holder": "Iwao",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Three years and a sword: by sixteen he is a young man where his brother is still a boy",
+   "provenance": "stated-in-design",
+   "source": "portraits.md ('And he got the body') and year table (16)"
+  },
+  {
+   "atom_id": "bind/adequate-target",
+   "holder": "Iwao",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Begins building himself into somebody it would take a swordsman to kill",
+   "provenance": "stated-in-design",
+   "source": "portraits.md: 'He has been waiting for Tadayoshi since the day he signed' — the signing is Y0M4 (timeline.md §2)"
+  },
+  {
+   "atom_id": "state/the-statement",
+   "holder": "Kiri / the hunter corps",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The signed statement that creates the warrant; every hunter team's packet opens with a document in his hand",
+   "provenance": "stated-in-design",
+   "source": "timeline.md §3; character.md (the brother, rung 1)"
+  },
+  {
+   "atom_id": "standing/retained",
+   "holder": "Mikage",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "The determination: retained, productive — and a tray of grit in a room with a bench inside a day",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7"
+  },
+  {
+   "atom_id": "know/counted-seven",
+   "holder": "Mikage",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "She stops at the turn by the rock, looks back up the hill, and gets seven",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7 (her one POV scene, the removal); timeline.md §2 month 4"
+  },
+  {
+   "atom_id": "know/where-the-name-came-from",
+   "holder": "Mikage",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "She hears Iwao say 'Kenji' in the tribunal and knows it came off an impression at her own table",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7 ('She is the only person alive who will ever know that'); world.md (the Kenji plant)"
+  },
+  {
+   "atom_id": "debt/the-silence",
+   "holder": "Mikage",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "Asked directly she takes four seconds and says nothing, and a clerk records the silence as assent",
+   "provenance": "stated-in-design",
+   "source": "ch03.md §7 ('Those four seconds are the rest of her life')"
+  },
+  {
+   "atom_id": "know/her-son-fixed-the-tone",
+   "holder": "Mikage",
+   "story_month": "Y-2M8",
+   "qualifier": "CAL",
+   "acquiring_event": "He comes up the stairs with the drop in his fist and shows her",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1 (the instruction, 'eighth month two years ago') and C2 ('three months of not doing it before you ever came up those stairs with that thing in your fist')"
+  },
+  {
+   "atom_id": "know/her-son-fixed-the-tone",
+   "holder": "Kongō",
+   "story_month": "Y1M?",
+   "story_month_end": "Y2M?",
+   "qualifier": "BET",
+   "acquiring_event": "Over months at the bench she gives him the compound, the warrant, the tribunal, Iwao, and the boy of eight who fixed the tone",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md (Kongō: 'Then Mikage arrives, and tells him about her son'). Bounded below by her arrival (Y0M4) and above by her death; the design places the transfer in years 1–2"
+  },
+  {
+   "atom_id": "body/decline",
+   "holder": "Mikage",
+   "story_month": "Y1M?",
+   "story_month_end": "Y2M?",
+   "qualifier": "BET",
+   "acquiring_event": "The tone flattens because she is dying, and she is disposed of because the tone flattened",
+   "provenance": "inferred-by-me",
+   "source": "CONFLICT: timeline.md §1 (the anchor) puts her death at age 11 = Y1; falsified.md #9, threads.md and structure.md §6b say 'year 2'; portraits.md's detection ruling (age 12, 'dead about a year') only works with Y1"
+  },
+  {
+   "atom_id": "mark/the-mark",
+   "holder": "Kongō",
+   "story_month": "Y-50M?",
+   "qualifier": "ABT",
+   "acquiring_event": "Begins laying a course out of sequence and bending a note flat on purpose — a deliberate readable fault",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md and combat.md §2: 'for fifty years', and he is mid-seventies by year 3, taken as a young man. Fifty years before Y0 ⇒ ~Y-50"
+  },
+  {
+   "atom_id": "skill/forge-mikage-hand",
+   "holder": "Kongō",
+   "story_month": "Y2M?",
+   "qualifier": "CAL",
+   "acquiring_event": "After she dies he learns to work her way — flat, thin, two courses — and keeps producing under her signature",
+   "provenance": "inferred-by-me",
+   "source": "falsified.md #9 and threads.md: the tone series is corrupted 'from year 2'. Her death is Y1 per timeline.md §1, so the learning sits between"
+  },
+  {
+   "atom_id": "know/the-whole-account",
+   "holder": "Kongō",
+   "story_month": "Y1M?",
+   "story_month_end": "Y2M?",
+   "qualifier": "BET",
+   "acquiring_event": "Becomes the last living archive of the Ruri, given it over months by a woman with nothing else to do",
+   "provenance": "inferred-by-me",
+   "source": "portraits.md (Kongō, the last living archive); structure.md §6b. Bounded by her arrival at the facility (Y0M4) and her death"
+  },
+  {
+   "atom_id": "kit/mikage-comb",
+   "holder": "Mikage / the compound",
+   "story_month": "Y0M3",
+   "qualifier": "RULED",
+   "acquiring_event": "Iwao's gift, bought out of the Kanaya extra on the Ōura road",
+   "provenance": "stated-in-design",
+   "source": "threads.md C2 ('Iwao's comb is on the table through the whole scene. She has not used it once') and C3 ('THE COMB was face down beside Mikage's cup'); ch02.md sc3"
+  },
+  {
+   "atom_id": "know/go-for-the-hands",
+   "holder": "Sagara Nagi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 17th: worked out in about ninety seconds off nothing but watching, while she was winning",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.2 (requirement 2)"
+  },
+  {
+   "atom_id": "know/where-he-stands",
+   "holder": "Sagara Nagi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "The 17th: she stops at forty yards to look at the square yard of gravel he opened",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.2; world.md (the Aku bank)"
+  },
+  {
+   "atom_id": "standing/the-one-who-left",
+   "holder": "Sagara Nagi",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "Breaks off at about four minutes on the 17th with the exchange going her way; filed on the 18th",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §3.2–3.3 ('Nobody has ever done that to him')"
+  },
+  {
+   "atom_id": "know/four-teams-one-day",
+   "holder": "Sagara Nagi",
+   "story_month": "Y0M9",
+   "qualifier": "AFT",
+   "acquiring_event": "Stops trying to out-fight him and starts giving him four objectives on the same day",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §10b ('which is what Sagara Nagi eventually works out') — the design says only 'eventually / late' and gives no year. Cannot precede the first encounter (17/9)"
+  },
+  {
+   "atom_id": "know/read-the-riverbed",
+   "holder": "Kajiya",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Goes down and reads the bed on the 15th and comes out with a different set of numbers",
+   "provenance": "stated-in-design",
+   "source": "threads.md C6: 'He read the bed on the 15th, then went to the nearest town and asked who was new'; ch06.md §3.1"
+  },
+  {
+   "atom_id": "skill/turn-a-room",
+   "holder": "Fuda",
+   "story_month": "Y0M6",
+   "qualifier": "RULED",
+   "acquiring_event": "First exercised on the page on the 12th: he arrives already in the middle of a sentence about a mill and the room's attention goes elsewhere",
+   "provenance": "stated-in-design",
+   "source": "ch07.md §2.2 and §7b.1. As a capability it predates the book — 'a clerk for fourteen years' (ch07.md §7b.2) — and has no acquisition date"
+  },
+  {
+   "atom_id": "standing/spoken-to",
+   "holder": "Fuda",
+   "story_month": "Y0M6",
+   "qualifier": "AFT",
+   "acquiring_event": "The hunters get to the one adult who was decent to him for nothing",
+   "provenance": "inferred-by-me",
+   "source": "combat.md §10 discipline 1 ('a broker who has been spoken to'); portraits.md (Fuda). Undated; cannot precede his introduction on 12/6"
+  },
+  {
+   "atom_id": "state/aoyagi-note",
+   "holder": "the Academy / Kiri",
+   "story_month": "Y0M1",
+   "story_month_end": "Y0M2",
+   "qualifier": "BET",
+   "acquiring_event": "A note goes onto his record after the four-seal demonstration; a note moved him out of his class last year",
+   "provenance": "inferred-by-me",
+   "source": "threads.md C1 ('Aoyagi is putting a note on his record, and a note moved him last year'); ch1 is undated inside months 1–2"
+  },
+  {
+   "atom_id": "state/collection-order",
+   "holder": "the returns office, Kirigakure",
+   "story_month": "Y0M3",
+   "qualifier": "RULED",
+   "acquiring_event": "One declared practitioner, two hands in the work, output up two thirds; recommended, then approved with a date and a schedule",
+   "provenance": "stated-in-design",
+   "source": "ch02.md §2 and sc5; timeline.md §2 month 3 ('The collection order is signed')"
+  },
+  {
+   "atom_id": "state/alive-if-possible",
+   "holder": "Kiri",
+   "story_month": "Y0M5",
+   "qualifier": "CAL",
+   "acquiring_event": "The retrieval tasking: a ten-year-old, non-combatant, no training on file, take him alive if possible",
+   "provenance": "inferred-by-me",
+   "source": "ch05.md §3 does not date it; the Sunaba staffing return goes up at month end M4 (world.md; ch05.md §2) and the team engages on 8/5 (threads.md C5), so the tasking sits in M5"
+  },
+  {
+   "atom_id": "state/first-specification",
+   "holder": "Kiri",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "A fight nobody survived, read off the ground and collated: fences, ninety yards, points facing the same way",
+   "provenance": "stated-in-design",
+   "source": "ch04.md §6; ch06.md §2.1; combat.md §10"
+  },
+  {
+   "atom_id": "state/nagi-report",
+   "holder": "Kiri",
+   "story_month": "Y0M9",
+   "qualifier": "RULED",
+   "acquiring_event": "Four minutes of him on a sheet by the end of the month, and it will be right, because she was there",
+   "provenance": "stated-in-design",
+   "source": "ch09.md §7b.9; timeline.md §6 ch9"
+  },
+  {
+   "atom_id": "state/one-hand-ends-him",
+   "holder": "Kiri briefings",
+   "story_month": "Y0M5",
+   "qualifier": "RULED",
+   "acquiring_event": "Becomes true with the first specification; false from Y0M10, and the briefings go on saying it for three years",
+   "provenance": "stated-in-design",
+   "source": "combat.md §1b and §4.1; falsified.md #14 ('it stopped being true in the tenth month of the first one')"
+  },
+  {
+   "atom_id": "state/kenji-investigated",
+   "holder": "Ōura / Kanaya's counter",
+   "story_month": "Y0M4",
+   "qualifier": "RULED",
+   "acquiring_event": "On the 6th two of them bolt his door and ask whether he fathered a child on a Ruri woman thirteen years ago",
+   "provenance": "stated-in-design",
+   "source": "threads.md C4 ('THEY CAME TO HIM ON THE SIXTH'); ch04.md §5"
+  },
+  {
+   "atom_id": "state/sale-book",
+   "holder": "the pipeline / the monastery",
+   "story_month": "Y0M12",
+   "qualifier": "RULED",
+   "acquiring_event": "The sale book becomes the only record of who took the merchandise, and everybody who could amend the entry is dead",
+   "provenance": "stated-in-design",
+   "source": "structure.md §3 (both hunters anonymous by the same trick); act-1.md §3 ch11"
+  },
+  {
+   "atom_id": "state/three-children",
+   "holder": "the world",
+   "story_month": "Y1M?",
+   "qualifier": "CAL",
+   "acquiring_event": "A white-haired boy, a red-haired girl with a red sword, and the one in the middle who does the ground",
+   "provenance": "inferred-by-me",
+   "source": "team.md §11.2. True from the day the household is three, i.e. after the extraction — act two = Y1"
+  },
+  {
+   "atom_id": "state/uzumaki-secret",
+   "holder": "Konoha / Kakashi",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "The man who opens the gate knows exactly why the hair had to be hidden, and will not tell her either",
+   "provenance": "stated-in-design",
+   "source": "structure.md §6 (the amnesty); timeline.md §1 age 13"
+  },
+  {
+   "atom_id": "state/graves-at-wave",
+   "holder": "Wave",
+   "story_month": "Y3M?",
+   "qualifier": "RULED",
+   "acquiring_event": "Two mounds on a cliff and one of the seven planted beside one, unattended, a week late",
+   "provenance": "stated-in-design",
+   "source": "structure.md §6 (the graves); timeline.md §1 age 13"
+  }
+ ],
+ "unresolved": [
+  "know/mikage-silence [Tadayoshi] — undatable because the design has not decided whether the acquisition happens at all. portraits.md: 'Tadayoshi may never learn this, and if he does, it will be years later'; character.md marks it an explicit author call ('whether he ever learns it is an author call'); structure.md §6b hands the fact to Kongō, who 'decides what to do with it'. There is no event to date, only a possibility, so no bound — not even AFT — is available beyond 'after Kongō has it (Y1–Y2)' if it ever happens."
+ ],
+ "effort": "Read all thirteen design files in full (~17,650 lines): timeline.md and README first as the anchor, then ch01–ch10 for scene-level dates, then combat/character/portraits/team/structure/world/act-1/falsified/method-delta, then threads.md (the per-chapter state file, which 'wins' by its own rule) both in full for C1–C5 and by targeted search for C6–C9 to settle specific objects (the grease tin, the register corner, the turnips, the mittens, Kajiya reading the bed on the 15th, entry 42 at 8/5). ~178 rows produced, one per (atom, holder); know/her-son-fixed-the-tone was split into two rows for its two holders. Three method decisions worth flagging: (1) the notation has no room below Y0, so I extended it on the ledger's own arithmetic — Y-1 = age 9, Y-2 = age 8, Y-3 = age 7, Y-50 for Kongō's fifty years — and marked every such row CAL. (2) Where the vocabulary writes a duration (Y0M6–M7, Y0M4 to Y0M8), I dated the START and noted the end in the event column; BET is reserved for genuine uncertainty about when, not for spans. (3) For years 1–3 the design is explicit that no month calendar exists (timeline.md §7.4), so those rows are YnM? — RULED where the design states the age or year outright (portraits.md's year tables, 'acquired at eleven'), CAL where I derived the year from act structure (act two = age 11 = Y1), AFT where the design says only 'act two onward, undated'. Four corrections to the supplied vocabulary fell out of the dating: know/medic-three-days is Y0M2 not Y0M1 (ch1 sc9 follows the month-2 event); know/the-hundred is Y0M3 not Y0M4 (she left m3 26 and 'about the fourth day out' is m3 29 by ch04's own pinned clock); know/mother-was-never-coming is Y0M4 not Y0M5 ('ask me tomorrow' is said on m4 6); and every ch1-sourced atom is Y0M1–Y0M2, because no scene in that chapter carries a date. Five internal conflicts found and flagged rather than resolved: Mikage's death year (timeline.md says Y1, falsified.md/threads.md/structure.md say year 2), Kimimaro's control bone ('four months' vs 'thirty-eight days'), the Hanase hunter contact (7/3 vs 7/14 vs 7/20 vs 7/23 — all inside Y0M7), day-level drift inside month 6 (coat and parcel entries), and know/shimoda-lived ('two years' vs 'at eleven'). Full table with sources written to /tmp/claude-0/-home-user-Portfolio/b901de14-2fc6-51fd-982f-184c051455fa/scratchpad/blindtest/out/ledger.md. Nothing outside the blindtest directory was read.\""
+}

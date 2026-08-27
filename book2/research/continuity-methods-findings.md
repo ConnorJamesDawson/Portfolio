@@ -217,8 +217,12 @@ trait, rule, skill, possession, belief, relationship, oath, injury and
 institutional fact any scene leans on. **Half a day to a day.** Budget for
 inventing it; the exemplars do not have one you can copy.
 
-**Acceptance test: YES** — the only unqualified yes in the corpus, on two
-structural conditions:
+**Acceptance test: NO — corrected after trial. See §7.** I scored this YES on
+the strength of the literature. It was then run blind against the design as it
+stood at the moment the creed error was live, and it did not fire. The reasons
+are in §7 and they change what this practice is for.
+
+The two structural conditions below still hold, and are still necessary:
 
 1. The precondition is authored at **plan** time, never extracted from the
    draft afterwards. Extraction reproduces failure A exactly — the extractor
@@ -917,3 +921,148 @@ And the thing to watch for, because it is the failure this recommendation will
 actually have: **a `requires:` line that restates the scene instead of
 constraining it.** When that starts happening the discipline is already dead,
 and the zero-count report is the only instrument that will tell you.
+
+---
+
+## 7. The trial — and it went against the recommendation
+
+§2 item 1 originally scored **yes** against the creed error. I ran it. **It
+scored no.** This section is the field report the rest of the corpus lacks,
+and it is negative.
+
+### Method
+
+The creed error is already fixed in the current design, so testing against
+today's files proves nothing. Instead the design was reconstructed at
+**`e0dc697`** — the commit at which the error was live, before
+`falsified.md` #16 killed it. At that commit the monastery *is* a threshold
+event, Uzuki survives on the floor plan, and no entry #16 exists. The tree is
+naturally blind: it contains no fix and no research.
+
+Three workers, each reading **only** that tree, none told what was being
+tested, none told an error existed:
+
+1. **Vocabulary** — derive the closed atom set from the design files.
+2. **Ledger** — date every atom, with a qualifier and provenance. Never saw
+   the scene declarations.
+3. **Planner** — write `month` / `requires` / `grants` for `ch10`'s eleven
+   scenes and for `ch11`, which it planned from `structure.md` and the "open
+   into" list. Never saw the ledger.
+
+Then the check was run mechanically. It fires only where the **earliest
+possible** acquisition is after the scene, so an imprecise date cannot
+manufacture a hit. Blinding was verified afterwards against the transcripts:
+no worker read outside the tree, and the fix's language appears nowhere.
+
+**Result: 204 atoms, 204 ledger rows, 21 scenes, 81 atoms required. Zero
+precondition violations, in strict mode and in loose mode.**
+
+### Why it did not fire
+
+The vocabulary worker **did** find the creed unprompted — `bind/creed`, a
+`rule-or-belief` atom, ledgered at `Y1M?`, and its own gloss reads: *"He ends
+act one with nothing governing him at all, which is the point."*
+
+The planner then wrote the monastery scene's requirements as: the docket, the
+blade, the fences, the four seals, the ground-breaking, the throwables, his
+right hand, his standing. **Twelve atoms, every one of them a thing he
+spends, and not one thing that governs him.** The check had nothing to
+compare.
+
+**The structural reason, which is not in the literature anywhere.** That scene
+does not require him to *have* the creed. It requires him to **lack** it. A
+precondition over positive atoms cannot express a required absence — and
+adding negation does not help, because `requires: !bind/creed` would be
+**satisfied**. The formalism detects *used too early*. It is blind to *the
+design has arranged not to need it.*
+
+The planner said so itself, unprompted, in two places:
+
+> "And the absence that a requires line cannot express: `bind/creed` is
+> `Y1M?`. **There is nothing governing him in that building, and that is why
+> the chapter can happen at all.**"
+
+> "No id available for a required ABSENCE… **A requires line cannot express a
+> required absence, and this is the most important one in the chapter.**"
+
+### The deeper finding, and it is the useful one
+
+By `e0dc697` the design had **already patched it.** The planner reproduced
+the patch faithfully, because it was in the files: *"combat.md §9 says only an
+object stops it and there is no object in that building; she lives on
+geometry, and the chapter must not pay her for the attempt."*
+
+So the error present in the repo at that moment was **failure mode B, not
+A** — and a precondition check catches A. What killed it was the author
+saying *"don't rescue this"*: a judgement about whether a mechanism was
+earned, which no arithmetic reproduces.
+
+> **By the time this error class is committed, it has usually already been
+> patched into a shape the check cannot see.**
+
+That vindicates §1's ranking of **C as the medicine for B**, and demotes the
+check from detector to scaffolding. **The instrument that worked was not the
+`requires:` line. It was the obligation to write down why** — the reasoning
+field, and the gaps list.
+
+### What it caught instead — which is not nothing
+
+**Thirteen vocabulary gaps**, several of them real design holes. The best:
+
+> "`mark/threshold` — **the book's central mechanism has no atom at all.** It
+> fires in ch5 and again in ch11, README rule 3 is written about it, and
+> three ch11 scenes require it as a precondition."
+
+**Five internal contradictions**, found by the ledger worker doing nothing but
+trying to put dates on things. The load-bearing one is **live in the current
+files** and I have verified it independently:
+
+| Source | Says |
+|---|---|
+| `timeline.md`, age-11 row — **the anchor** | **MIKAGE DIES** → year 1 |
+| `timeline.md`, age-12 row | *"he works out she has been dead a year"* → death in year 1 |
+| `structure.md` §act-three | *"Mikage dies in **year 2**"* |
+| `threads.md` §tone series | *"**Mikage dies in year 2.**"* |
+| `falsified.md` #9 | *"From **year 2** it is corrupted"*, *"lies to him for a year"* |
+
+The numbering is not ambiguous — `structure.md` fixes *"the monastery is month
+12 of year 0"*, so year 0 is age ten and **the two datings are twelve months
+apart.** `timeline.md`'s own arithmetic is self-consistent at year 1; three
+other files say year 2. By the project's own binding rule the anchor wins
+and three files need correcting — but it is an author call, and the tone
+series' corruption window depends on the answer.
+
+The others, unverified by me and worth checking: Kimimaro's control bone
+(*four months* vs *thirty-eight days*), the Hanase hunter contact (four
+different dates inside month 7), day-level drift in month 6, and
+`know/shimoda-lived` (*two years* vs *at eleven*).
+
+### Cost, measured rather than estimated
+
+Setup, self-reported: **~17,650 lines read, ~30 tool calls, two to two and a
+half hours** for the vocabulary alone, and comparable again for the ledger.
+So the one-off is **a day**, which matches §2 item 1's estimate.
+
+The per-chapter marginal cost was **not** measured — all three workers came to
+it cold. That number is still an estimate.
+
+**And the vocabulary was incomplete after all that.** The planner invented
+new atoms for eight scenes; twenty-seven required atoms were missing from the
+ledger entirely. Two workers given one vocabulary still diverged, and the gaps
+only surfaced when somebody tried to plan with it.
+
+### What I would change
+
+- **Keep `requires:` / `grants:`.** It is cheap, it produced the gaps list and
+  it forces the vocabulary to exist. Do not expect it to catch anything on its
+  own.
+- **The mandatory field is the reasoning, not the atoms.** Every finding of
+  value in this trial came out of *why these requires and not others*. That is
+  the line to make compulsory.
+- **Add a required-absence notation** — a scene may declare that it depends on
+  someone *not yet* having something. It will not fire a check, but it puts
+  the load-bearing absence on the page where a human reads it, which is
+  exactly what happened here by accident.
+- **Run the ledger pass on its own, once, now.** It found five contradictions
+  in the existing files as a side effect of dating things, before any of the
+  rest of this was built. That is the cheapest result in the whole exercise.
