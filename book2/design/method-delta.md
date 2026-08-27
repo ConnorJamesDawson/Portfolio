@@ -423,6 +423,68 @@ three days before the docket with no cargo line arrives.** **A fact
 checked against the prose is not only safer; it is usually the better
 beat, because it already has a scene standing behind it.**
 
+### 2k. ⚠ EVERYTHING THEY OWN WAS GOT FOR A SMALLER PERSON — AUTHOR
+
+> **AUTHOR:** *"I think I want prevalent that these children should change
+> throughout this book — clothes should be bought, weapons haggled over,
+> cooking on a fire, finding out knowledge can be wrong."*
+
+**One rule with four faces, and the fourth is the one that does the
+structural work.**
+
+| | The face | What it looks like on the page |
+|---|---|---|
+| **1** | **Objects wear out and are replaced by purchase** | *second boots, a coat that is not this coat, a knife that was right at ten and is wrong at twelve* |
+| **2** | **Living is a set of operations, not a state** | *a fire, water, what you eat and who cooked it, where you slept and what it cost* |
+| **3** | **A skill was taught by somebody, to a particular student, for a reason** | *and it carries that teacher's assumptions about who they were teaching* |
+| **4** | ⚠ **KNOWLEDGE CAN BE WRONG, and finding out is an event with a price** | *not a footnote and not a reveal — a thing that happens, costs something, and changes what they do next* |
+
+### Why it earns its space: it is the anti-montage instrument
+
+**`method.md`'s standing rule is *summary where a scene belongs is the
+failure mode I care about most*, and act two is three years on a road**,
+which is the largest montage risk in the series. **You cannot summarise
+three years if the reader has to watch the boots go.**
+
+> **Every acquisition is a scene-shaped thing** — *a price, a refusal, a
+> haggle lost, a thing bought too cheap that fails* — **and a chapter that
+> has one cannot have been a montage.**
+
+### And it extends the diversification doctrine from techniques to everything
+
+**`combat.md` §10c: *every new thing is worth one fight; after that it is
+on a sheet.*** **Same rule, wider domain: every upgrade arrives as a
+purchase, a haggle, or a correction — never as a level-up.** *A boy who
+is better this year is a boy who bought something, broke something, or
+found out he had been wrong.*
+
+### ⚠ THE GUARDRAIL, or this becomes inventory
+
+**An acquisition earns its page by being a decision with a price, not by
+existing.** *A shopping list is not texture.*
+
+**The three already on the page are the calibration, and all three
+qualify:**
+
+- **The coat at Fukae** — *nearly double, he could have haggled, he did
+  not,* **and it ends on a nail at Hanase and is the entry in a column he
+  had to invent.**
+- **The shoes off a rag heap** — *fifty ryō, unmatched, one much too big,*
+  **and six miles of a genuinely good mood before it went all at once.**
+- **The grit at a fortieth** — *exactly right, and the rightness is the
+  point,* **because he had asked what three people paid.**
+
+> **None of those is a list of possessions. Each is a decision, a number,
+> and a consequence that outlives the scene** — *which is the test.*
+
+### What it costs, named honestly
+
+**Page-time.** *A chapter that buys a coat properly has spent six hundred
+words not advancing anything.* **Take the price**: the alternative is a
+book in which two children cross a country for three years in the clothes
+they were arrested in, **and that book has already been written twice and
+is called a montage both times.**
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

@@ -1383,6 +1383,84 @@ ten.**
 
 ---
 
+### ⚠ AND THE NINETY IS NOT HERS — AUTHOR
+*The model case for `method-delta.md` §2k: knowledge can be wrong.*
+
+> **AUTHOR:** *"Uzuki finding out the 90 is only used to teach non-shinobi
+> how to heal. It wouldn't empty her out because of her genes, but the
+> medic that taught her didn't know her, so was safe."*
+
+**The ninety bundles two rules and she was taught them as one sentence,
+which is why she cannot see the join.**
+
+| | The rule | Whose |
+|---|---|---|
+| **Rate** | *little — not a push* — because **hold it on continuously and you cook them** | **the patient's, and it is real, and it stays** |
+| **Count** | *ninety times, and then stop* — because a medic who runs dry drops | ⚠ **the medic's, and it was never hers** |
+
+- **The thimble is real and it is hers.** *That is how much she can push
+  per go, and it is a rate.*
+- **The ninety is a number of goes**, *and how many goes she has is
+  reserves*, **and she is an Uzumaki, and the number of goes was never her
+  binding constraint.** *(`team.md` §4.3 — the blood is on the page and is
+  what she is priced for in ch11.)*
+
+### It was not a lie, and nobody wronged her, which is the point
+
+**One afternoon from a medic who was mid-job and did not know her**
+(ch4). **Teaching the conservative version to a student whose capacity you
+cannot measure is correct practice** — *the safe number is the number you
+give a stranger.*
+
+> **Which is the same act as everything else that has been done to her.**
+> *The valuer with the book assigns her a number, courteously. The medic
+> assigns her a number, kindly.* **Both are strangers estimating a girl
+> they have not measured — and the ninety is the one she kept**, and did
+> on a wall, on the fourth of the month her father was buried.
+
+### ⚠ AND IT BUYS HER A JUDGEMENT CALL, NOT A CAPABILITY — a price, per §1a
+
+**It does not make her stronger at ten.** *Reserves at ten are reserves at
+ten.* **What it removes is a stop, and the stop was doing work she did not
+know about:**
+
+- ***At about the sixtieth you are certain it is not working and want to
+  push. Pushing undoes the hour.*** **That reflex was trained by the
+  number. Take the number away and the reflex has nothing to hold on to.**
+- ***You cannot tell during*** **is her craft's central limit** *(above,
+  and it survives the whole curve)* — **so she now has to decide, during,
+  with no instrument, whether the thing still in front of her is the
+  patient's rule or the medic's.**
+- **She gets that wrong at least once**, and the cost lands on somebody
+  under her hands, **and no amount of later skill un-lands it.**
+
+### PROPOSED — where it breaks, and it should break on the one it cannot help
+
+**The discovery is empirical first and explained second.** *She does not
+read it. Somebody is going, she gets to ninety, ninety is not enough, and
+she goes on — and nothing happens to her.*
+
+> **And the case to break it on is Kimimaro**, because **it buys nothing.**
+> *`falsified.md` #21 and the curve above: the one she cannot fix is the
+> one she wants to.* **She finds out the limiter was never hers, spends it
+> immediately on the only patient she cares about, and it makes no
+> difference at all** — *because the ninety was never what was short.*
+>
+> **So the correction gives her a bigger instrument and the identical
+> failure**, and she now has to live with both. **Explanation comes later
+> and elsewhere** — *Oto, where there is a library and somebody who knows
+> things* — **and by then she has already paid for it.**
+
+### ⚠ ONE RULING WANTED, and it is the sharpest thing in this section
+
+**Was there ever a case in act one where going past ninety would have
+mattered?** *She was practising on a wall on the fourth, not treating; her
+father was eleven days and four hundred miles away; her mother was already
+gone by the four seconds.* **So nothing in the record indicts her yet —
+and the design could put something there, and should not do it by
+accident.** *Author's call, and it is a big one, because it converts a
+correction into a wound.*
+
 ## 11c. SEALS — she writes, he breaks
 
 > **AUTHOR RULING, in two passes.** *Fūinjutsu is in the book, split down

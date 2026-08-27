@@ -3566,7 +3566,7 @@ to write anything. |
 
 | | |
 |---|---|
-| **the ninety** | 115 numbers, **stopped 26/8 — and AUTHOR-RULED it never restarts.** *The cellar does not bring it back; the list does* |
+| **the ninety** | 115 numbers, **stopped 26/8 — and AUTHOR-RULED it never restarts.** *The cellar does not bring it back; the list does.* **And AUTHOR-RULED the number itself is not hers** — *a teaching limit for people who are not shinobi, given to a stranger by a medic who was being safe* (`combat.md` §11b). **She does not find that out in act one** |
 | **the money** | about eleven things, **a half and a bit** |
 | **the days** | **1,621 → 1,620** |
 | **the fourth** | **marks to 17/9 and no more, because the thing it was

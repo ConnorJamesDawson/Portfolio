@@ -105,6 +105,20 @@ one carries a different function:
    practise**, and this is the year he first notices and does nothing.
 5. **And Uzuki's two curves run** — the palm (§11b) and the seals (§11c)
    — **on a road, with no teacher, and a permanent patient.**
+6. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
+   — AUTHOR** (`method-delta.md` §2k). *Clothes bought, weapons haggled
+   over, cooking on a fire, and knowledge turning out wrong.* **Act two is
+   three years on a road and is the largest montage risk in the series;
+   this is the rule that makes summarising it impossible.** *Every
+   upgrade arrives as a purchase, a haggle or a correction — never a
+   level-up* — **and the guardrail is that an acquisition earns its page
+   by being a decision with a price. A shopping list is not texture.**
+   > **The model case is Uzuki's ninety** (`combat.md` §11b): **AUTHOR-
+   > RULED it is a teaching limit for people who are not shinobi and was
+   > never hers**, and *it breaks empirically, under duress, **on
+   > Kimimaro** — where it buys her nothing at all, because the ninety was
+   > never what was short.* **Explanation comes later, in Oto. She pays
+   > first.**
 
 ---
 
