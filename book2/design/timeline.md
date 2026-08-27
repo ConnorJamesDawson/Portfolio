@@ -52,8 +52,8 @@ Both children are ten. Book one's month-numbering convention.
 | 8 | Contracts. He is worth paying. | It escalates. A knife under the pillow, and she tells nobody, because there is nobody. |
 | 9 | Contracts, and he is becoming difficult to handle. | **He comes for her, and her mother watches.** The face. The eye. She runs. |
 | 10 | **CONTRACTS.** *The first killing for money on the 26th of the ninth; the client on the 29th; two more in the tenth.* **Good at the work, bad at the room** — and the hunter sheets stop at the left-hander on 17/9, three days before the docket. | The road. Hunger. **The monastery takes her in.** Late in the month, **the rain**, and the dye. *The snake pays well for children like her.* |
-| 11 | **THE MERCHANT, THE HOUSE AND THE BOY — and he made them.** *A boy of about seven on a step, forty feet, eleven minutes, nothing said.* **THE CREED, written in his own book.** Kajiya has not been seen since 2/8. | Dark, and enough to live on, while somebody negotiates. **Eight or nine weeks of it, and the page she stops needing goes to Kimimaro.** |
-| **12** | **THE CARGO JOB — a demotion, because a contractor is being sent to carry boxes.** **The monastery. He does not knock.** *The line, **Help**, the threshold, the walls, monks dead.* **⚠ STRIKE ONE, and the offence is contract confidence.** | **The courier. "Help."** |
+| 11 | **THE MERCHANT, THE HOUSE AND THE BOY — and he made them.** *A boy of about seven on a step, forty feet, eleven minutes, nothing said — **and he leaves, and does nothing about him, and moves on.*** **⚠ THE CLIENT COMPLAINS: A SURVIVOR.** *Go back and finish it — no — and no reason he can take upstairs.* **THE CREED, written afterwards, over the gap.** Kajiya has not been seen since 2/8. | Dark, and enough to live on, while somebody negotiates. **Eight or nine weeks of it, and the page she stops needing goes to Kimimaro.** |
+| **12** | **THE CARGO JOB — the price of the eleventh month, and a contractor is being sent to carry boxes.** **The monastery. He does not knock.** *The line, **Help**, the threshold, the walls, monks dead.* **⚠ STRIKE ONE, and the offence is contract confidence.** | **The courier. "Help."** |
 
 **Month 4 is the cut.** Both lose the parent who held the secret, in the
 same month, four hundred miles apart, and the losses are opposite: **he
@@ -72,12 +72,15 @@ not report cleanly, and twice somebody has had to explain a body. He arrives
 at that monastery bored, insulted and resentful, which is the right
 temperature for trying to walk out on her.
 
-**And in month 12 it stops being a temperament problem and becomes a file.**
-`structure.md`, act one: **the second threshold event of his life happens
-early in the twelfth month, on somebody else's job**, and three weeks later
-he is holding a docket for a mountain temple four hundred miles off. **A
-losing rebellion does not discipline an asset it cannot replace. It sends
-him somewhere.**
+**And in month 11 it stops being a temperament problem and becomes an
+invoice — AUTHOR.** **He leaves a survivor on ground a client has paid
+for, the client complains, and he is ordered back to finish it and refuses
+with no reason he can give.** *The probation's whole content was doing a
+thing you were told without being given the reason, and he did it four
+times, and now he has stopped.* **Three weeks later he is holding a docket
+for a mountain temple four hundred miles off. A losing rebellion does not
+discipline an asset it cannot replace. It prices it, and puts it where it
+cannot cost anything.** *(`falsified.md` #25.)*
 
 > **This is why the design can afford *"Help."* at all.** Her hold runs
 > eight or nine weeks; his event lands inside it and is over before he

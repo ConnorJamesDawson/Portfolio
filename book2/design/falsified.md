@@ -307,6 +307,25 @@ world-bible, priced in advance. Full reasoning in `timeline.md` §5.
 
 ---
 
+### #25 — THE DEMOTION IS CAUSED BY A THRESHOLD EVENT
+*(mine, and it was itself a replacement constraint)*
+
+| | |
+|---|---|
+| **Killed** | `falsified.md` #16's own replacement, and `combat.md` §9, and `timeline.md` §2: **the second threshold event of his life lands early in month 12, on somebody else's job, and is the reason a losing rebellion puts a difficult boy on a cargo docket.** |
+| **By** | **Author ruling on the ch11 plan:** *"He should move on from the boy, and they get admonished by the client for leaving a survivor — that's what puts him on courier duty. He was told during his probation that he has to follow orders. Now he didn't."* |
+| **Whose rule it was** | **Mine, and it was load-bearing twice over** — it was the replacement constraint that bought #16, so killing it tests whether the anti-widening rule survives its own output. **It does, because the author's cause is strictly better.** |
+| **Replacement constraint** | **The demotion is insubordination on the Terasaka job.** *A survivor was left on ground the client bought; the client complains; the order is go back and finish it; he says no and has nothing to put after the no.* **Costs, all his: (1) it is a thing he chose, not a thing that happened to him** — *there is no state to hide behind and no account he can give, which is worse than a blackout in every direction*; **(2) the creed becomes a retrofit** — *a rule written afterwards to cover an act with no decision under it, so it is load-bearing and hollow at once, which is what makes widening it possible for three books*; **(3) act one loses a threshold event**, and the price is paid at the monastery: *it is now the first uncontrolled event since ch5's riverbed, seven chapters back, and the book has to carry that distance rather than spend it*; **(4) `combat.md` §9's separation still holds on its original grounds** — *she is held eight or nine weeks by an administrative sentence about the road trade, and that hold, not the event, is why he walks in awake.* |
+| **Net** | **Constraint added, and the causal chain got shorter and meaner.** *The old version needed an off-page incident to explain a posting.* **Now the posting is an invoice**, and the thing that produced it is the same act the reader has already watched and read as something else entirely: **the reader thinks the fault was walking away from a child; the client thinks it was leaving him breathing; they are the same act, and Tadayoshi has no opinion, because he never decided.** |
+
+> **And it corrects a second staleness in the same hour.** *`combat.md` §9
+> still said **the monastery is not a threshold event**, which the author's
+> staging ruling (commit `1645c23`) had already overturned — her POV opens
+> with **some time before**, and **she sees the berserk.*** **The rule that
+> survives is the amended one:** *the threshold is never written from
+> inside — and where another POV is in the room, it is written from
+> theirs.*
+
 ## Watch list — rules under pressure, not yet dead
 
 Recorded so that when one of them goes, it goes with a replacement.

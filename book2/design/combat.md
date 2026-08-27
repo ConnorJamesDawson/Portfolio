@@ -866,14 +866,18 @@ language.** *An object, not exhaustion.* **A word is not an object and does
 not reach him**, which is why the design does not let *"Help."* do this
 work.
 
-> **So the monastery is not a threshold event.** `structure.md`, act one:
-> **she is held for eight or nine weeks, and the second threshold event of
-> his life lands inside that gap, on his own work, four hundred miles from
-> her** — and it is the reason the rebellion puts him on a cargo docket.
-> **He walks into that building awake.** The book gets the uncontrolled
-> event and the rescue in that order, with the second caused by the first,
-> **and never has to put a child in a room with him while he is not
-> there.**
+> **So *"Help."* is not what takes him.** *He walks into that building
+> awake* — **`structure.md`, act one: she is held eight or nine weeks by
+> an administrative sentence about the road trade, and the hold is why the
+> arrival is a decision.** *(`falsified.md` #16, and #25 for the cause of
+> the posting, which is now insubordination and not an event.)*
+>
+> **The monastery IS a threshold event, and §9 as amended is how it gets
+> written** — *her POV opens with **some time before**, and she sees all
+> of it.* **What the design refuses is not the event. It is a child in a
+> room with him while he is not there and nobody able to say what
+> happened**, and Uzuki standing in that hall is exactly the witness that
+> refusal needed.
 
 > ⚠ **RULING OPEN, ch11: what object brings him out of the month-12
 > event.** §9 requires one and it cannot be exhaustion. **The candidate is
