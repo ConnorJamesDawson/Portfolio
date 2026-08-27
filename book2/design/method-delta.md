@@ -109,6 +109,36 @@ and more bodies, and both are already specified.*
 Book one drifted a boy into a man across seventy chapters, one reasonable
 addition at a time. **Ten at the warrant, thirteen at the door.**
 
+### 2b. ⚠ A STATE RECORD IS A SNAPSHOT WITH A DATE, NOT A PROPERTY
+
+**`threads.md` and half of `combat.md` record what is true of somebody
+*on a given page.* They are not specifications.** *Reading one as a
+permanent property is how a character stops growing without anybody
+deciding that they should.*
+
+> **The instance that named this** (`falsified.md` #20): `combat.md` §11b
+> is titled *Uzuki's craft, fixed on the page in ch4* and opens by saying
+> the real technique **takes six years**. **It was then quoted as her
+> ceiling, in a discussion of events seven years later.** *The file was
+> right. The reading froze her at ten.*
+
+**The test, before quoting any state:** *when was this true, and what has
+happened since?* **If the answer is "chapter four" and the scene is act
+three, the line is evidence of a starting point, not a limit.**
+
+> ## AND IT IS THE SAME DEFECT AS THE CREED, FROM THE OTHER SIDE
+>
+> | | | |
+> |---|---|---|
+> | **The creed** | dated to the scene that showed it best, **eight months after the scene that needed it** | **late acquisition** |
+> | **The palm** | frozen at the first state ever written down | **no acquisition at all** |
+>
+> **One missing artifact behind both:** *nothing in this design answers
+> **what is true of this person as of month N** — only what happened, and
+> what the rules are.* **`timeline.md` tracks events. `falsified.md`
+> tracks rules. Nothing tracks state**, which is exactly the gap the
+> research brief was written to close (`book2/research/`).
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

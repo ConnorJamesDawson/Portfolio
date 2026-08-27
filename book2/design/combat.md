@@ -1278,7 +1278,15 @@ education.
 
 ---
 
-## 11b. THE PALM — Uzuki's craft, fixed on the page in ch4
+## 11b. THE PALM — Uzuki's craft at TEN, and it is a curve
+
+> ## ⚠ READ THE DATE ON THIS SECTION.
+>
+> **Everything below is her state in ch4, at ten years old**, and it was
+> quoted once as though it described her permanently (`falsified.md` #20).
+> **It does not.** *The section says so in its own second sentence and I
+> read past it.* **The growth curve is at the end and it is the part that
+> governs anything after act one.**
 
 **It is not a jutsu.** The named technique takes about six years and
 somebody standing over you for four of them. **What she has is the habit
@@ -1312,6 +1320,40 @@ underneath it**, and *about one person in nine can do it at all.*
 > **And it is the eighth count of the third form.** *Late; not at the set,
 > at the going; stop on purpose.* **Her father taught her the hard half of
 > a medic's hands with a wooden sword and neither of them knew.**
+
+### ⚠ AND THE CURVE — because the section above has a date on it
+
+**The file already said it: *the named technique takes about six years and
+somebody standing over you for four of them.*** **She starts that clock at
+ten.**
+
+| Age | Has | Because |
+|---|---|---|
+| **10** | **the habit underneath it.** Hours, not cures. A thimble | one afternoon from a medic who was mid-job |
+| **11–13** | **diagnosis, well ahead of the rest of it** | *a permanent patient.* **Ninety a day on a boy who never gets better is the most intensive clinical practice available to anybody in this book** |
+| **14–16** | **the named technique, arrived at sideways** | six years of reps — **and no supervision at all**, so she is superb where repetition teaches and full of holes where a teacher would have caught her (§11c's *a book will not tell her she is wrong*, again) |
+| **16+, Oto** | **the missing half: a facility, a library, and somebody who knows things** | **which is why transplantation becomes possible there and not before** (`structure.md` §7b) |
+
+> **She has the reps and not the supervision.** *That is the whole shape of
+> her craft, and it is the same shape as her sealing, and neither of them
+> is a ceiling.*
+
+### WHAT SURVIVES THE CURVE — prices, per `method-delta.md` §1a
+
+1. ***You cannot tell during*** **stops being a limit of the technique and
+   becomes a fact about her.** By twenty she can read anybody alive.
+   **She still does not turn it on herself, and by then that is a choice.**
+2. **⚠ THE ONE SHE CANNOT FIX IS THE ONE SHE WANTS TO.** *Kimimaro's
+   illness is beyond medicine and stays beyond it* — **canon agrees;
+   nobody cures him.**
+   > **So the curve makes the tragedy larger, not smaller.** *A novice
+   > failing is expected. **A master failing is a tragedy.*** **She becomes
+   > good enough that everybody else she touches lives, and he dies
+   > anyway**, and she has the skill to know exactly how far short she is,
+   > every day, for years.
+3. **Stamina still bounds throughput**, at every level. **A cup is more
+   hours. It is still hours**, and that is arithmetic rather than a
+   ceiling.
 
 ---
 

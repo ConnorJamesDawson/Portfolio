@@ -816,11 +816,20 @@ compatibility work at all. **Ao is the proof it can be done properly.**
 > say so.
 
 **PROPOSED, and it needs pricing:** if a proper transplant is what buys
-control, **what does maintaining it cost, and who pays.** *The palm's own
-rule (`combat.md` §11b) is that **it buys hours, not cures** — so the
-reading available is that she maintains it, indefinitely, **which makes
-his independence a thing he depends on her for.*** **That is either the
-best irony in the book or too neat. Needs ruling.**
+control, **what does maintaining it cost, and who pays.**
+
+> **⚠ AND NOT OFF §11b's *hours, not cures*, which was her craft at ten**
+> (`falsified.md` #20). **By this point she has the named technique and
+> Oto's library**, so the honest question is not whether she is capable of
+> it — *she plainly is, or the eyes would not be in his head* — **it is
+> whether an implant of this kind needs anybody at all once it has
+> taken.**
+
+*The reading available is that it does, and that she is the one who
+does it — **which would make his independence a thing he depends on her
+for**, and he would not notice for years because he files effects and
+never causes.* **That is either the best irony in the book or too neat.
+Needs ruling.**
 
 ### TIMING — RULED, with one age corrected
 

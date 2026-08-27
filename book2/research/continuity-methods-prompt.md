@@ -45,6 +45,24 @@ Every major beat lined up perfectly; the state underneath them did not
 exist. The author caught it. The design system did not, and had no
 mechanism that could have.
 
+### A2. Frozen state — the same defect running the other way
+
+**A state written down once is later read as a permanent property**, so
+the character silently stops developing and nobody decides that they
+should. **Second worked example, same project, found while writing this
+brief:** a design file describes a girl's medical skill *at age ten* — the
+section is literally titled *fixed on the page in chapter 4*, and its
+second sentence says the real technique takes six years to learn. **That
+file was then quoted as her ceiling in a discussion of events seven years
+later**, and used to argue she would always be limited to palliative care.
+**The file was correct. The reading froze her.**
+
+> **A and A2 are one missing artifact seen from two sides.** *A: an
+> attribute dated to the wrong moment. A2: an attribute that never gets a
+> second moment.* **Nothing in the system answers *what is true of this
+> person as of month N*** — only what happened (an event timeline) and
+> what the rules are (a rule ledger).
+
 ### B. Patch the scene, not the timeline
 
 When A is discovered, the reflex is to **invent a local mechanism that
@@ -148,9 +166,13 @@ whether it was ruled or assumed, and how provisional it is?
 
 ## Acceptance test
 
-**Score every candidate practice against the worked example.** For each
-one, state plainly: *would this have caught the creed error before it
-reached the page, and what would the catch have looked like?* A practice
+**Score every candidate practice against BOTH worked examples** — the
+creed dated too late (A), and the medical skill frozen at its first
+recorded state (A2). For each practice, state plainly: *would this have
+caught these before they reached the page, and what would the catch have
+looked like?* **A practice that catches one and not the other is still
+worth reporting — say which**, because the two failures may need
+different instruments. A practice
 that would not have caught it can still be worth reporting — but say that
 it would not have.
 

@@ -214,6 +214,24 @@ a widening with paperwork.
 | **Replacement constraint** | **`combat.md` §11d — a transmission problem with a named cause.** The barrier is **jutsu**, and it is made of two things: **his style is not a style, it is an amalgam** assembled out of other people's, with no through-line and no name — *the hardest thing in the world to hand to somebody* — and **he learnt it by disassembly, which is a method and not a syllabus**: he can name the piece doing the work and cannot say what to practise on Tuesday. **And it yields to time and effort**, so by the end of three years he should be visibly less bad at it. |
 | **Net** | **Constraint kept, wall removed, and he gained a virtue.** He is **excellent** at three things — *how not to die to him*, off years of watching people fail and a file full of it; *where a form is wrong*, in forty seconds and four words; and *what he would do instead*, **shown**, because the amalgam transmits by demonstration when it will not transmit by instruction. **And he is the best training partner either of them will ever have**: a live opponent who does not want them dead, will not stop early, and can hold ground indefinitely. **What he gives is negative knowledge, entire and generous** — what fails, what kills people, what has been tried on him. **What he cannot give is what to become**, because that needs saying what a person is *for.* *He teaches them how not to die and cannot tell them what to live as.* |
 
+### #20 — *HOURS, NOT CURES* — FOREVER *(mine, and a fourth kind)*
+
+| | |
+|---|---|
+| **Killed** | `combat.md` §11b's ch4 constraints, quoted in `structure.md` §7b as though they governed her at seventeen: ***it buys hours, not cures*** — used to argue that she must permanently maintain a transplant because her medicine can only ever be palliative. |
+| **By** | **Author ruling.** *"So you're saying Uzuki doesn't learn any better medical jutsu after the one she learns at 10? How does that make sense haha."* |
+| **Whose rule it was** | **Mine, and it is not an invention, a dropped qualifier, or a wall — it is a fourth kind.** **I read a state record as a specification.** §11b is titled ***Uzuki's craft, fixed on the page in ch4*** and its second sentence says *the named technique takes about six years and somebody standing over you for four of them.* **The file was describing a starting point and I quoted it as a ceiling, seven years downstream.** *The design was right. The reading froze her at ten.* |
+| **Replacement constraint** | **`combat.md` §11b's curve, and the prices that survive it.** She has **the reps and not the supervision** — *ninety a day on a boy who never gets better is the most intensive clinical practice anybody in this book has access to* — so she is superb where repetition teaches and full of holes where a teacher would have caught her, **and Oto is where the missing half arrives**, which is why transplantation is possible there and not before. **What holds at every level:** (1) ***you cannot tell during*** stops being a limit of the technique and becomes a fact about her — *by twenty she can read anybody alive and still does not turn it on herself, and by then it is a choice*; (2) **stamina bounds throughput forever**, because a cup is more hours and it is still hours, which is arithmetic and not a ceiling; and (3) **the one she cannot fix is the one she wants to.** |
+| **Net** | **Constraint kept, ceiling removed, and the tragedy got bigger.** The dead rule made her failure with Kimimaro a consequence of her being limited. **The curve makes it a consequence of the disease** — *canon agrees; nobody cures him* — so **she becomes good enough that everybody else she touches lives, and he dies anyway, and she has the skill to know exactly how far short she is, every day, for years.** *A novice failing is expected. A master failing is a tragedy.* |
+
+> **AND IT IS THE CREED AGAIN, FROM THE OTHER SIDE.** *The creed was dated
+> to the scene that showed it best rather than the scene that needed it —
+> **late acquisition**. The palm was frozen at the first state ever written
+> down — **no acquisition at all.*** **Two failures, one missing artifact:
+> nothing in this design answers *what is true of this person as of month
+> N.*** `method-delta.md` §2b, and it is the second data point for the
+> research brief.
+
 ## Strains bought, with prices
 
 Not falsifications — deliberate departures from canon or from book one's
