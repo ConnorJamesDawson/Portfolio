@@ -176,6 +176,22 @@ write the word **cannot** about somebody, I have collapsed an interval.*
 **Nobody in this book cannot. They have not yet, or they will not, or it
 would cost them something** — §1a.
 
+> ## ⚠ THE CHANGED-CAUSE CLAUSE — and it is the alternate-timeline version
+>
+> **This is a canon-shattering series, so canon is a set of *effects with
+> causes attached*, not a set of facts.** *When the book removes a cause,
+> the effect does not survive it — and quoting the effect anyway is the
+> same collapse wearing a citation.*
+>
+> **The instance** (`beyond.md` §4.10): *canon's Naruto turns toward
+> Hinata after Pain* — **true, and he turns because she steps in front of
+> Pain and says it.** *This book removes her from that arc entirely.*
+> **So the cause is gone, and I kept the effect and built a cost out of
+> it.**
+>
+> **The check, before importing any canon outcome:** ***what made that
+> happen, and is it still in this book?***
+
 ### 2d. ONE-OFF POVs ARE AVAILABLE, AND THEY HAVE A JOB
 
 > **AUTHOR: the story can have more than three POVs.**

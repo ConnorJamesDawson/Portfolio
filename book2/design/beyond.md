@@ -384,8 +384,8 @@ version where it never gets turned around.
 
 ### 4.10 ⚠ NARUTO — RULED, and the question was empty
 
-> **AUTHOR: he would not really care. He is still after Sakura until
-> after the Pain arc.**
+> **AUTHOR: he would not really care. He is still after Sakura until after
+> the Pain arc.**
 
 **So there is nothing for him to find out and nobody to notice.** *At the
 time this happens, Hinata's love is factually unrequited* — **and that is
@@ -393,23 +393,87 @@ precisely why Uzuki's argument cannot be answered.** She is not taking
 something Hinata has. **She is taking a hope**, and every observable fact
 in the world supports her reading of it.
 
-> **Which makes the canon bill much smaller than it was priced at**
-> (`falsified.md`, strains table, corrected). *Nothing is disturbed at the
-> moment of disturbance.* **A thread nobody is pulling.**
+> **⚠ AND THE "DELAYED COST" I PROPOSED WAS AN ERROR, KILLED ON SIGHT.**
+> *It read: canon's Naruto turns toward her after Pain, so the thing Uzuki
+> was right about stops being true.* **He turns because she steps in front
+> of Pain and says it.** *Remove her, and the cause is gone, and the effect
+> does not happen.* **An effect kept after its cause was deleted** —
+> `method-delta.md` §2c, the *changed-cause* clause, which exists because
+> of this.
 
-> ## ⚠ AND THE COST IS DELAYED AND UNFALSIFIABLE — PROPOSED
+### 4.11 ⚠ AND UZUKI IS PROVED RIGHT — BY TADAYOSHI'S HAND
+
+> **AUTHOR: Naruto gets consoled by somebody else. (1) Sakura will be in
+> extreme grief, so it is a pain they share. (2) In that grief they cling
+> to each other — which proves Uzuki correct, though through Tadayoshi's
+> doing.**
+
+**Follow it, because it is a closed circuit and every step is somebody's
+free choice:**
+
+| | |
+|---|---|
+| **1** | **Uzuki tells Hinata** *he was never going to choose you; he wants Sakura; that is pining* |
+| **2** | **Hinata acts on it and leaves.** *So the Pain confession never happens* |
+| **3** | **Tadayoshi kills Sasuke** — for reasons that have nothing to do with any of this |
+| **4** | **Sakura is in extreme grief.** Naruto is the only other person carrying that exact weight |
+| **5** | **They cling to each other**, and it holds |
+| **6** | ***Uzuki was right.*** **And the thing that made her right was her own household** |
+
+> ## ⚠ A PROPHECY LAUNDERED THROUGH A MURDER
 >
-> **Canon's Naruto does turn toward her, after Pain.** *So if the Konoha
-> book runs before that, Uzuki is right on every piece of evidence
-> available at the time* — **and the evidence changes afterwards.**
+> **She made a claim about the future. Her partner's act made the claim
+> true.** *And neither of them will ever connect the two* — **Tadayoshi
+> files effects and never causes; Uzuki does not audit anything that
+> worked.**
 >
-> **The thing she was correct about stops being true.** *And nobody can
-> ever call it a wrong, because at the time it was a fair reading of the
-> facts,* **which is the only kind of harm this book is interested in.**
+> **And she will say *I told you so*, cheerfully, years later, entirely
+> sincerely** — *because she says everything* — **and she will be
+> correct.**
+
+**⚠ DEVICE BUDGET.** *This is the third reader-only causal link in the
+design* — **Kimimaro's countdown (a person), Oto's acceleration (a place),
+this (a claim)** — **and they escalate, which is why three is fine.** *A
+fourth needs an argument, or the book has a tic instead of a technique.*
+
+### 4.12 ⚠ WHAT HINATA BECOMES — AUTHOR, and the reference is exact
+
+> **AUTHOR: what she is in the opposite world — the genjutsu Obito pushes
+> Naruto into, where his parents are alive.** *(Road to Ninja, 2012. Film,
+> not manga — flagged as reference, not canon.)*
+
+**In that world she is assertive, confident, dressed to be looked at — and
+aggressively possessive**, threatening any girl near Naruto; *Sakura is
+frightened by a threat to kill her over it.* **And the standing reading of
+that version is that it is what Hinata would become if she got her wish:
+bold and confident, with possessiveness as the unintended consequence.**
+
+> ## ⚠ THAT IS THE THESIS, WRITTEN BY SOMEBODY ELSE, YEARS AGO.
 >
-> **PROPOSED — it depends on where the Konoha book sits relative to Pain,
-> and that is not ruled.** *Needs a decision before the thread is drafted,
-> because it decides whether the thread has a floor under it or not.*
+> **In canon that Hinata exists only inside a lie** — *a genjutsu, made by
+> a man who wanted something.* **Here she is made in reality, on purpose,
+> by a fourteen-year-old girl, and everybody agrees it is an
+> improvement.**
+
+**AND UZUKI DID NOT TRANSMIT WHAT SHE INTENDED.** *She set out to give
+Hinata **conviction**.* **What actually crossed was possessiveness**,
+because that is what Uzuki's conviction is made of — `spec.md`, AUTHOR:
+*anyone touching him had better have his permission or the hand gets cut
+off.*
+
+> **She copied herself, and the copy is the only place the original is
+> visible.**
+>
+> **So there are two of them**, and Tadayoshi has no idea what to do with
+> one.
+
+**⚠ AND IT ANSWERS *WHO CATCHES HER* — PROPOSED, as an alternative to the
+Kimimaro option in §4.6.** *Nobody catches her.* **She catches herself,
+once, in a mirror she built** — **the first time she has ever seen the
+thing from outside** — and `team.md` §10.6 requires that she can
+eventually give the account, **so this is the mechanism that would earn
+it.** *Two readings, both live: she is delighted, or she is unsettled for
+the first time in her life. Needs ruling.*
 
 ---
 
