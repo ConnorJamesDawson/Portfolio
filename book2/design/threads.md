@@ -4349,3 +4349,382 @@ clerk.* **Some of it comes back attached to different causes.**
 7. **Uzuki has a floor that has passed and two readings of it and no
    information coming into the room.**
 8. **Nine hundred and three bowls, and it is wrong.**
+
+---
+
+### C12 — Chapter 12, "The Consignment". M11 27th – m12 29th.
+### 11 scenes, 19,870 words. T×7 (62%) · U×3 (31%) · K×1 (7%).
+### ⚠ ACT ONE CLOSES.
+
+**TADAYOSHI — fixed**
+
+- **The docket said nine days for a return trip and Ōtsuka crossed it out
+  and wrote eighteen in six seconds without looking at the paper.** ***A
+  number nobody checks is a number nobody is going to read.***
+- **⚠ 1/12 — HE CHECKS THE SHEETS AND THERE IS NOTHING TO ADD, AND HE
+  WRITES THE NOTHING.** *First mark on them in seventy-six days:* ***Nothing.
+  Checked.*** **Which proves the instrument works, and therefore that the
+  ford on 21/10 is the only thing missing from it.** *No column for that.*
+- **Eighteen thousand ryō and nineteen days away from every place he could
+  put it.** *Split four ways in four places and he hated all four.* **There
+  is nowhere in the world for a boy with no house and no name to put money,
+  because a bank is a person who writes your name down.**
+- **§2k, the provisioning:** *both pairs of boots greased; the old pair
+  carried at four pounds he did not want; food for nine days and not
+  eleven, because he walked two thirds of that road in the sixth month and
+  knows where it stops; **two pounds of dry kindling out of a cooperage
+  yard, and it was right twice**; fat at forty ryō and he did not haggle
+  and marked that he did not.*
+- **⚠ AND A HAT, WHICH HE HAD NEVER OWNED.** *A thing you cannot cost —
+  it either keeps your head warm or it does not, and there is no way to
+  find out in a shop.* **He bought the one the man at the next stall
+  bought, at ninety, and walked out of Ōgi feeling like somebody wearing
+  somebody else's decision, and wore it for four days.**
+- **Nobody said it was a punishment, and that was worse.** ***An expensive
+  thing is not a thing you are angry with. It is a thing you put down
+  carefully somewhere it cannot break anything.***
+- **The road was empty the whole way.** *Forty-one people in a day on that
+  stretch in the sixth month; six on the eighth of the twelfth.* **Filed
+  with no conclusion — and Enkai says it back to him as a routing decision
+  on the seventeenth.**
+- **The lane behind the tannery at Ōgi, 12/12: *four hundred yards that
+  way.*** **He went on north.** *One line, nothing after it.*
+- **⚠ THE COAT.** *Sleet from one o'clock in a cut with a wind along it on
+  the third day out of Ōgi, and the coat did not do it.* **The entry is a
+  cost line with no column:** ***What it cost: not a coat. Being able to
+  say why I did not buy one.***
+- **A hundred and forty stone steps before the eighth flight, four of them
+  worn hollow.** ***No cart comes up this. No cart has ever come up this.***
+  *He does not follow it anywhere, because he does not know what is in the
+  crates and never has been told what is in anything.*
+- **And the finding he never wrote down: he had got very good at being a
+  boy alone on a road in winter**, *and nobody taught him any of it — the
+  boots at Anazawa, the mittens at Fukae, the kindling in a yard, the hat
+  off a man at the next stall, every one of them a thing he got wrong once
+  and corrected in a book.* **And the one he did not correct was on a rail
+  in Ōtoma at 1,400 ryō.**
+
+**THE ARRIVAL — 16/12**
+
+- **Ninety seconds of ground.** *Eleven men, twelve. Somebody in the hall
+  and somebody behind it. Nine or ten in the long building who are not
+  men* — **and he does nothing with it, because a working temple in the
+  twelfth month is a temple with winter people in it.**
+- **⚠ *"Have you eaten?"*** *He has been asked that perhaps four times in
+  his life by somebody not related to him and has no procedure for it.*
+  ***"I'm here for nine crates." — "That's not what I asked you."***
+  **Sixty-four days after the same man asked her the same question in the
+  same building, and neither of them knows.**
+- **Nine crates, nine minutes, a minute a crate, and every single thing in
+  those nine minutes was right.** *Same seal on all nine; right-handed rope
+  finished the same way, so one person did the lot at one time; chalk
+  matching chalk and paper matching chalk; three of them lifted.*
+- **⚠ AND THE WEIGHTS AT FOUR O'CLOCK: 96, 94, 93, 92, 91, 90, 88, 87, 86
+  — eight hundred and seventeen pounds.** *He added it twice in different
+  orders because he did not believe the first one.* **Ten loads. Ninety
+  days of walking, or nine men, or a cart, and there is no cart on this
+  mountain.** ***The docket is not wrong about the days. The docket is
+  wrong about the job.***
+- **He went looking for incompetence four ways because incompetence is
+  overwhelmingly the most likely thing, and could not have it.**
+  ***Ōtsuka changed the number in six seconds because the number was not
+  the point of the docket. And I thought that meant the job was.***
+- **⚠ FOUR STONE STEPS AT THE NORTH END WITH NO EARTH ON THEM.** *It is the
+  twelfth month, the cellar is full, nobody has been down there since the
+  tenth — and they are swept.* ***Somebody goes up and down these four
+  times a day.*** **He counted the ways out — one — put it on the list, and
+  went to bed.**
+
+**⚠ THE CONSIGNMENT — 17/12, half past nine**
+
+- ***"The crates go in the spring."*** — *"Then why have I signed for
+  them."* — ***"Because you're the courier, and the courier signs… the
+  crates are on the sheet because the crates are what a sheet has on
+  it."***
+- ***The weights are on the paper so that there is something on the
+  paper.*** **And the thing he is carrying is a thing you send one boy on
+  foot into the twelfth month with, and no such thing weighs anything and
+  no such thing goes in a crate.**
+- **He asks. And Enkai closes the book and *explains*, and there is no
+  cruelty in it anywhere**: *a cart is watched and a man is not; the
+  twelfth month is best because the roads are empty and nobody is counting;
+  a boy is better than a man because two people on a road in winter are a
+  father and a child and nobody has ever asked a father anything; the
+  buyer's man walked four days on the fifteenth and confirmed the item; she
+  was priced on 28/10 and held, and holding costs, and that is why the
+  schedule is what it is.* ***He is doing what I do… and his are older.***
+- **The three questions run and all three answer.** *Not operational. Does
+  not matter — settled on 12/10 for fourteen thousand. Can I do it — yes.*
+- **⚠ AND THE PAGE IS IN THE COAT AND HE DOES NOT THINK OF IT.** *Two
+  leaves past PEOPLE WHO WILL TELL SOMEBODY, dated 22/11, on him for nine
+  days and four hundred miles.* **The narration says it and he does not
+  have it:** ***He was not going to think of it for twelve days.***
+- **The fee is nine hundred.** *Against 3,600 at Anazawa and 14,000 at
+  Terasaka.* ***It is not an insult about her. Nobody has priced her at
+  nine hundred… nine hundred is what it costs to move a thing.***
+- **⚠ AND THE OFFER HAS NO THIRD THING.** *Take it, or decline and the pass
+  shuts and the buyer's man will not come again till the road is fit —
+  **so it is nine weeks, and she does the nine weeks where she is.***
+  ***"You'd have done the same arithmetic."*** **He had. He does it again
+  looking for the version where Enkai is wrong and there is not one.**
+- ***"All right."*** **Eleven minutes, start to finish.**
+- **Tokuji in the doorway, loudly, at a volume that had not been used in
+  that building in nine weeks:** ***"She's been down there since the second
+  of the eleventh."*** **Forty-five days** — *and he read that ground for
+  ninety seconds, counted the ways out of five buildings, ate a bowl on a
+  step and stood at the top of those steps in the last of the light.* **He
+  has been within thirty feet of it twice, and every part of what he did
+  was correct.**
+- **⚠ AND IT MOVES NOTHING.** ***Forty-five days is a fact about how long
+  she has been in there. It is not a fact about the road, or the pass, or
+  what declining costs her.*** **He confirms noon and goes and works.**
+- **The last open line in the book, written as a question:** ***How is she
+  secured on the road?***
+
+**⚠ THE BREAK — 17/12, twenty-five past ten**
+
+- **He crosses the ground to ask about rope.** *Not to look at her. Not to
+  decide anything.* **He decided at ten.**
+- **Three observations on the way, all true, all correctly filed, none of
+  them about the thing:** *the bell did not go at half past; Tokuji was not
+  on the beds; there were no shoes at the south door where there had been
+  nine pairs.*
+- **⚠ HE DOES NOT KNOCK, AND IT IS TRADECRAFT.** *He has not knocked on a
+  door since the fourth month, and Hōki spent an afternoon on it in the
+  eighth:* ***a door that opens is a door; a door that is knocked on is a
+  person.*** **It is in the operational column with a date on it.**
+- ***Nobody straightened up… if he had knocked, they would have had four
+  seconds, and four seconds is all it takes to stop saying a thing.***
+- **Five men, the table, the shuttered window, two by the east door, two
+  in the middle with her between them — and the one on the left finishes
+  his sentence, because he started it before the door moved.**
+- **⚠ THE POV BREAKS MID-SENTENCE.** *He heard the end of it and not the
+  beginning, and gave the same answer both times he was ever asked.*
+
+**⚠ THE HALL — Uzuki's POV, *some time before***
+
+- **The bowl did not come**, for the first time in a hundred and
+  thirty-five bowls across forty-five days, **and the door was locked**,
+  and she had the whole of it in four seconds and was not frightened and
+  noticed that she was not.
+- **They came at ten. Tokuji came down first and did not look at her.**
+  *One of the men said "up you come" in the voice you use to a dog you are
+  fond of.* **Her sacking was taken off her at the top of the steps and
+  dropped on the ground without any malice at all**, *and forty years later
+  she could still have drawn the exact place it fell.*
+- **Forty-five days without daylight, and it went through her head like a
+  hand — and one of the men waited for a child to be able to see.**
+  ***Every single person in this building has been like this the whole
+  time.***
+- **The correction being settled standing up, in the ordinary way, the way
+  two men settle a difference about a weight** — and then the man on her
+  left, who had a good coat and a cold in his nose, cleared up a small
+  point that was holding everybody up:
+  > ***"She doesn't have to be pure for that end of it."***
+- **The light changes on the floor behind her right shoulder and every
+  face goes over her head — and nobody straightens up**, *which she gets
+  first, off six weeks of learning a building by how people move in it.*
+- **It is a boy her own size, and he is not looking at her.** ***He is
+  counting the doors.***
+- **⚠ AND SHE SAYS IT, AND THERE IS NOTHING UNDER IT.** *She has not asked
+  one person for one thing since 4/9 and has built the whole of herself on
+  it and knows she has.* ***"Help."*** **She goes at it more than once in
+  her life and never gets anywhere.**
+- **Her perception skips: she does not see him cross the floor.** *A boy in
+  a doorway eleven feet away, a sound she does not identify, and then no
+  man on her left and her arms free and she does not know when.*
+- **⚠ STEP 7 — HE TURNS ROUND AND LOOKS AT HER FOR UNDER A SECOND AND HIS
+  FACE DOES NOTHING**, *and he does not speak or check her over or reach
+  out; he looks at her the way you look at a thing on a road that is not
+  moving,* **and turns back round and goes into the room.** *Her one
+  thought:* ***He is not going to. I am not on it.*** **Nobody in the
+  building knows a rule just held.**
+- **⚠ AND THEN SHE WATCHES, WITH HER HANDS AT HER SIDES, AND WHAT SHE
+  FEELS IS THE THING YOU FEEL WATCHING SOMEBODY DO A JOB PROPERLY.** *She
+  had felt it once before, at Shimoda's, in a yard, and that time she was
+  the mule.* ***He does not go round anything. Everybody in this room is
+  going somewhere and he is going through the place they are going to be.***
+- **The man who said the sentence: the inside of the thigh above the knee,
+  and gone.** ***He has not finished him and he has not stopped to. That
+  man is going to be dead in four minutes and the boy knew that when he did
+  it.***
+- **The two by the east door came together, which was the only sensible
+  thing anybody did**, and he put the table between him and the far one.
+  ***He fights one and then he fights one.***
+- **⚠ AND THE SWORD CLIMBS.** *She notices the light at the point where she
+  can see a face she could not see four minutes earlier, and then finds
+  she has been hearing a note and calling it something else.* **High, thin,
+  from nowhere in particular, in the room the way cold is in a room, and
+  going up.** ***That is not a sword.*** — ***I want to know what that
+  is.***
+- **⚠ TOKUJI COMES IN AT THE EAST DOOR AND THE FIRST THING HIS HEAD DOES
+  IS GO TO THE MIDDLE OF THE FLOOR WHERE SHE HAD BEEN STANDING.** *He does
+  not look at the boy.* **And it went on the same as the wall.** *She does
+  not make a noise and does not stop watching and has nowhere to put it,
+  and it stays exactly where it is for eleven years.*
+- **Enkai is last and the only one who does not try**, *hands at his
+  sides, ink on the middle finger of his right hand.* **It took some time
+  and she watched all of it from eight feet with the hall bright enough to
+  see the grain of the boards and the note so high it had stopped being a
+  sound.**
+- ***It was the thing she had wanted to do to Shimoda instead of running.***
+  **Four hundred nights of a feeling with no picture in it, and here it
+  was, being done properly, eight feet away, by somebody who was very good
+  at it** — *and she was not sorry about one second of it then and was not
+  sorry at nineteen.*
+- **⚠ AND IT ENDS ON THE NOTE COMING DOWN.** *Four seconds, down through
+  everything it came up through, past where it had been when he walked in,
+  and the light goes out of the sword the way heat goes out of a poker, and
+  the hall is dim again.* **He stands in the middle of it with his arms
+  down and does not move for a long time.** ***She had no idea what she had
+  just watched.***
+
+**THE COMING BACK — his POV**
+
+- **He counts them. Six. Then again, clockwise from the table, because
+  doing it once is not doing it.**
+- **The light on the floor has moved a board and a half.** *Door was half
+  past ten; this is not much past eleven; the gap is between three minutes
+  and eight and he cannot close it and is not going to be able to later.*
+- **The reconstruction gives him almost nothing.** *The door, the shape of
+  the room in the first half-second, the start of a sentence, the end of a
+  sentence, and then the floor.* ***There is nothing on either side of the
+  floor.***
+- **⚠ BUT THE BODIES ARE EVIDENCE AND EVIDENCE DOES NOT CARE WHETHER YOU
+  WERE THERE**, *and four things come off them:* **the first two went at
+  the back of the neck, which is what he did to a man in a doorway above a
+  weir on 20/10 and he recognises the work**; the thigh above the knee is a
+  thing you do to a man you are leaving and **he cannot find it anywhere in
+  his own method**; and ***somebody moved that table*** — *the correct
+  answer, the one he would give on a sheet, and he has no memory of it.*
+- **He stands over Tokuji and there is no column and the honest entry is
+  one line he never writes down:** ***He came in.***
+- **He takes the receipt off the table — nine crates, 817 lb, 900 ryō, his
+  own mark and Enkai's date — and cannot say why.**
+- **⚠ THE BLADE IS WARM AND COOLING, AND IT HAS NEVER BEEN ANYTHING BUT
+  THE TEMPERATURE OF THE AIR IN FOURTEEN MONTHS.** *The floor-note is
+  exactly where it always is.* ***I have got no line anywhere in either
+  book for a thing my own kit did that I did not do.*** **Four words in the
+  ordinary column, unexplained for two years:** ***17/12. The blade was
+  warm.***
+- **She has not moved and has not looked at one of them since he turned
+  round.**
+- **⚠ AND SHE GIVES HIM THE BUILDING BEFORE SHE OFFERS HIM ANYTHING.**
+  *Nine in the long building who have heard the whole of it and did not
+  come out; eleven men on the ground and he has done six; four days to
+  Ōgi;* ***"one of them went down to Ōgi on the fifteenth and hasn't come
+  back."*** **Better than his, and his is a day old.** ***"Come on,
+  then."***
+- **Then the offer, which she has had ready:** *the water and the ground
+  and the wood and the floors and eight trips out of a step nobody looked
+  at in nineteen years,* ***"and I will not follow you if you say now that
+  I am not to."***
+- **⚠ AND HE TAKES HER, AND NONE OF THAT IS WHY.** ***She is going to
+  follow me. She said she would not, and she will, and she said it because
+  she has worked out that offering not to is what makes it possible for me
+  to say yes, and she is right.*** *So the question is what refusing costs.*
+  **And the sentence that closes it is one he does not notice he is
+  quoting:** ***two people on a road in winter are a father and a child,
+  and nobody has ever asked a father anything.***
+- **She stops for two seconds on the way out and picks the sacking up off
+  the ground, folds it twice, puts it inside her coat, and does not
+  explain, and he does not ask.**
+
+**⚠ ACT ONE'S LAST PAGE — 17/12 to 29/12**
+
+- **She is slower going up and faster going down, because she found the
+  good line on the outside of the treads in a day and a half.**
+- **She talks at about a fifth of the time and never once asks him
+  anything in two days**, *and he works out that it is not an accident and
+  never asks why, and the answer would have cost her a great deal.*
+- **⚠ HE BUYS HER A COAT AT ŌGI IN FOUR MINUTES AND TAKES A HUNDRED AND
+  FIFTY OFF IT.** ***I did not want it… I could not buy boots because I
+  wanted them, and I can buy a coat because I do not.*** **So *do not touch
+  the thing first* is not the correction** — *the leak is that he is the
+  person who wants the thing, and there is no procedure for not being
+  that.* *She says thank you by asking how much he got off him.*
+- **The report, in ninety seconds, accurate and in order and nothing left
+  out.** *The crates, the consignment, the client dead with five others,
+  no account of the middle of it, no fee, nine or ten witnesses, and a
+  girl.* **Ōtsuka's whole answer:** ***"Right… I'll write it up. You'll
+  want to be somewhere for a bit."*** **And nobody in that building says
+  one word to him about the seventeenth of the twelfth month for the rest
+  of his life.**
+- **⚠ 29/12 — HE TURNS TWO LEAVES TOO MANY AND FINDS THE PAGE.** *Thirty-
+  seven days old and in the coat he was wearing.* ***Does it cover her? —
+  Obviously yes. It is the clearest case there will ever be.***
+- **⚠ AND THE REASON IT DID NOT FIRE:** ***because it says not the ones who
+  did not choose, and I wrote it about a boy I might have killed, and I
+  have read it ever since as a rule about killing. And I was not going to
+  kill her.*** — ***That is a technicality… and if a man in a room said
+  that sentence to me about somebody else's rule I would have the
+  load-bearing stroke out of it in four seconds.***
+- **The correction has the wrong shape and he knows it.** *He writes **read
+  this page before every job, not after** and marks it with the sign he
+  uses for a number he has made and not counted* — **the first time he has
+  ever used it on a sentence** — *because reading it would not have fired
+  it either.*
+- **⚠ AND THEN HE ASKS HER NAME**, *because a person you are carrying goes
+  in a column, and it is the one thing he did not do in the eleventh
+  month.* **She takes a second and a half, and what is in it is that the
+  last person who asked her wrote it down and put a number under it.**
+- **He rules a fresh page two leaves on from the creed, tries for four
+  minutes to head it, gets nothing that is not a lie or a description of a
+  feeling, and leaves the top of it white.**
+  > ***Nozaki Uzuki.***
+
+**KIMIMARO — fixed**
+
+- **The fourth broken on the bowl after he got the number**, *because there
+  was no reason to wait,* **and ninety-one bowls in it is coming at about
+  the rate the third came.** ***I said a thing about what was going to
+  happen and then it happened. That has not been true before.***
+- **⚠ THE BOWL CHANGES, AND IT IS MORE.** *He knows before it is in his
+  hands, off the weight of the man's arm coming down.*
+- **He rules out the stupid one first** — *it might be the light; there is
+  no light* — **and eats it, and is not hungry afterwards, which has not
+  happened in that room**, and he does not like it and cannot say why.
+- **⚠ AND HE MEASURES A BOWL OF MILLET WITH A PIECE OF HIS OWN FINGER.**
+  *The third piece — three and a quarter thumbs, straight the whole way,
+  the one that gave him the number — put in upright at the edge with the
+  crack in the glaze under his right hand so the bowl is the same way
+  round every time, thumbnail on the mark, four days running.* **Three the
+  same and one under, and the one under was the day the man came late.**
+- ***A thing that is the same every time is a thing somebody decided.***
+  **So somebody decided it, on a day, before the ninth.**
+- **⚠ AND THEN HE COMES TO THE END OF WHAT HE HAS, FAST.** *Four readings —
+  more food is a thing you do when you want a thing to be bigger, or when
+  you have more food, or when the man has changed, or when something is
+  going to happen that wants him able to walk* — **and every one of them is
+  about somebody upstairs, and he has never been told anything about
+  anybody upstairs in two years.**
+- ***I have got a hundred and twenty-nine and a hundred and fifty-one and a
+  hundred and seventy-eight and I got all three off my own hand and they
+  were right. And I cannot tell you one thing about the man who brings the
+  bowl except how his arm comes down.***
+- **⚠ HE DOES NOT CONCLUDE ANYTHING, AND IT IS NOT NERVE AND IT IS NOT
+  THINKING.** *There is nothing to conclude with.* **A perfect instrument
+  for measuring a bowl and no instrument at all for measuring a decision,
+  found out at twelve, on a mat, with a piece of his own finger in his
+  hand.** *Four pieces lined up, ninety-five down and thirty-four to go,
+  and he waits for the bowl.*
+
+**OPEN INTO ACT TWO**
+
+1. **A household of two, on a debt she offered and he accepted**, and a
+   name at the top of a page with no heading.
+2. **A creed tested once and widened once in the same week** — *it held in
+   the four minutes he cannot account for, and nobody saw it work, and that
+   same morning he had already refused to apply it awake.*
+3. **A correction with the wrong shape and a mark beside it.**
+4. **Strike one served as a silence.** *Six dead, the client among them, no
+   fee, no report anybody argued with, and nine or ten people walking to
+   Ōgi.*
+5. **⚠ The blade was warm, and he has no line for it.** *`act-2.md` §4.7:
+   Uzuki is the one who asks.*
+6. **Nine crates on a step above the second weir that he never opened.**
+7. **Kimimaro: the bowl is bigger and somebody decided it, and act two
+   opens with him being moved.**
+8. **The ford on 21/10 is still the only thing missing from the sheets**,
+   *and now he can prove it.*
+9. **Kajiya, and the tone, unread since the eighth month.**
