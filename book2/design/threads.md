@@ -3566,7 +3566,7 @@ to write anything. |
 
 | | |
 |---|---|
-| **the ninety** | 115 numbers, **stopped 26/8** |
+| **the ninety** | 115 numbers, **stopped 26/8 — and AUTHOR-RULED it never restarts.** *The cellar does not bring it back; the list does* |
 | **the money** | about eleven things, **a half and a bit** |
 | **the days** | **1,621 → 1,620** |
 | **the fourth** | **marks to 17/9 and no more, because the thing it was

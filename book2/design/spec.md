@@ -1212,6 +1212,15 @@ thinking and fights. Friend and foe alike.**
 
 ### The creed and the flaw are the same object
 
+> **⚠ AUTHOR-RULED, ch11: *stay your hand from the blood of the innocent*
+> is NOT his wording.** *What he writes, in month 11, is **not the ones
+> who did not choose** — an imperative with a reason under it and **I am
+> writing this after** beneath that.* **The scriptural version is a later
+> compression, in somebody else's mouth or his own at fifteen, and the
+> flattening is the first widening** — *a rule that has lost its reason is
+> a rule nobody can check.* **Everything below still holds; read it as the
+> compressed form.**
+
 *Stay your hand from the blood of the innocent* is a creed a man cannot
 keep in a state where he is not choosing. **He did not adopt a creed and
 then discover a flaw. He built the creed because of the flaw** — it is a
