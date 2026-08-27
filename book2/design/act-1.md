@@ -12,10 +12,10 @@ chapter structure, the POV budget, and the information plan.
 
 | | |
 |---|---|
-| **Chapters** | **11** |
+| **Chapters** | **12** — *eleven until the creed moved into the act* |
 | **Length** | 14k–20k each, 8–11 scenes. ~185k for the act. |
 | **POVs** | **Tadayoshi. Uzuki. Kimimaro. Mikage — one scene, once.** |
-| **Convergence** | Tadayoshi and Uzuki, ch11. **Kimimaro is still in the cell when the act ends.** |
+| **Convergence** | Tadayoshi and Uzuki, ch12. **Kimimaro is still in the cell when the act ends.** |
 
 **Implied total: ~750k across four acts**, which is book one's scale. **If a
 shorter book is wanted, the lever is fewer chapters, not shorter ones** —
@@ -79,8 +79,9 @@ a month the other thread owns, and the unevenness is the structure working.
 | **7** | 6–7 | T 50 / U 50 | **Her mother remarries.** His first contract, whole — **and it is a probation, not a job.** **First hunter contact — not a fight.** |
 | **8** | 8 | U 50 / T 35 / **K 15** | **The knife under the pillow.** **The investment starts** — and he becomes difficult to handle. **The other child fails an inspection.** |
 | **9** | 9 | U 70 / T 30 | **She opens his face and runs.** **Sagara Nagi survives an encounter** and goes into the book as *the left-hander*. |
-| **10** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar** — *and she is in it for eight or nine weeks.* He is given freight. **Two children in boxes, waiting for the same buyer** — and the page she stops needing is where Kimimaro picks up. |
-| **11** | 12 | T 65 / U 25 / **K 10** | **⚠ THE THRESHOLD — early, on somebody else's job.** **Then the cargo docket, and he arrives awake.** ***Help.*** And a sale is scheduled. |
+| **10** | 9–10 | ⚠ **T 70 / U 20 / K 10** | **THE MERCHANT, THE HOUSE, AND THE BOY.** *A contract that makes another orphan, and a boy on a step who has just come back from a relative's.* **AND THE CREED IS WRITTEN** — *stay your hand from the blood of the innocent* — **in his own book, in month 9, by a boy of ten.** |
+| **11** | 10–11 | U 55 / T 30 / **K 15** | **The monastery. The rain. The cellar** — *and she is in it for eight or nine weeks.* He is given freight. **Two children in boxes, waiting for the same buyer** — and the page she stops needing is where Kimimaro picks up. |
+| **12** | 12 | T 65 / U 25 / **K 10** | **⚠ THE THRESHOLD — early, on somebody else's job.** **Then the cargo docket, and he arrives awake.** ***Help.*** And a sale is scheduled. |
 
 **The cuts are on rhyme, per `structure.md` §1.3:**
 
@@ -90,10 +91,10 @@ a month the other thread owns, and the unevenness is the structure working.
   never said why.
 - **ch5 → ch6.** He takes four lives; her mother prices a house. **Both
   chapters are about what a body is worth to somebody doing sums.**
-- **ch9 → ch10.** She cuts a man to stay whole; he becomes a thing an
+- **ch9 → ch11.** She cuts a man to stay whole; he becomes a thing an
   organisation wants rid of. **Both are people discovering what they are
   willing to do.**
-- **And ch10 is the act's best structural move.** *The snake pays well for
+- **And ch11 is the act's best structural move.** *The snake pays well for
   children like her*, and she goes into a cellar to wait for a buyer —
   **and the chapter cuts to a boy who has been waiting for one for two
   years.** Two children in boxes, in two countries, for the same customer,
@@ -154,7 +155,7 @@ a month the other thread owns, and the unevenness is the structure working.
 Guren. The word for the threshold. The word *Kaguya*, attached to the boy in
 the cell.**
 
-The threshold **happens** in ch5 and again in ch11 and **is never named**.
+The threshold **happens** in ch5 and again in ch12 and **is never named**.
 It has no name until somebody gives it one.
 
 ---
@@ -213,7 +214,7 @@ carrying it was slower.
 **Month 9: Sagara Nagi**, who survives, and goes into the book as **the
 left-hander** because he has no other system for naming people.
 
-**The curve is felt as shrinking options.** By ch11 there are three towns he
+**The curve is felt as shrinking options.** By ch12 there are three towns he
 cannot use and he can name them.
 
 ### 5. Kimimaro's thread is a cell, and a cell is a waiting room

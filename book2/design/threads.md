@@ -6,7 +6,7 @@ This file is the state of record once writing begins. Book one's discipline:
 after every chapter, the fixed facts of that chapter are entered here, and
 **this file wins** over memory, over the spec, and over any earlier draft.
 
-> ## PROVENANCE — swept after ch10, and this file is exempt.
+> ## PROVENANCE — swept after ch11, and this file is exempt.
 >
 > **Everything in the C entries is PAGE** (`spec.md` §0). It is not
 > design and not inference: it is a transcription of what is on a page
@@ -3611,7 +3611,7 @@ counting is five days behind her in a brick house** |
 9. **Nunome; the bed at Hanase; *the last one I did this with*** — all
    still open.
 
-### C10 — Chapter 10, "Enough To Live On". Months 10 and 11.
+### C11 — Chapter 11, "Enough To Live On". Months 10 and 11.
 ### 11 scenes, 18,730 words. U×6 (57%) · T×3 (29%) · K×2 (16%).
 
 **THE CRAFT, as now established on the page**
@@ -3941,7 +3941,7 @@ counting is five days behind her in a brick house** |
 6. **Nobody at the Kadono-dera knows about her hands, and Tokuji kept the
    condition.**
 7. **The fourth piece is coming back and there is no result yet.**
-### C11 — Chapter 11, "What It Was For". Month 12, the 2nd to the 17th.
+### C12 — Chapter 12, "What It Was For". Month 12, the 2nd to the 17th.
 ### 11 scenes, 17,820 words. T×7 (68%) · U×3 (24%) · K×1 (7%). END OF ACT ONE.
 
 **THE EVENT — 3/12, below Ide's mill**

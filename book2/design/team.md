@@ -7,7 +7,7 @@
 > Sits under `combat.md` §10b (arity), `character.md` (the missing
 > organ), and `portraits.md` (the two portraits).
 
-> ## PROVENANCE — swept after ch10. `spec.md` §0 for the three classes.
+> ## PROVENANCE — swept after ch11. `spec.md` §0 for the three classes.
 >
 > **Most of this file is AUTHOR.** The glass cannon, the katana and the
 > refusal to guard, the sadism and its origin at Nakadō, the ranking of

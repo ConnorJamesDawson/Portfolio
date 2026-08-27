@@ -1,208 +1,211 @@
-# Chapter 11, Scene 4 — The Building Fills
+# Chapter 11, Scene 4 — Three In A Line
 
-*Act 1, month 12, the first to the fourteenth. The Kadono-dera. Nozaki
-Uzuki, age ten. POV: Uzuki. ~1,390 words.*
-
----
-
-They started arriving on the second and by the sixth there were nine of
-them, and she was under all of it.
-
-She heard the first one come in and did not know what she was hearing for
-about an hour. It was feet. It was feet in the long building over her
-head, in the part she had slept in for eighteen days in the tenth month,
-and there were more of them than there had been at any point since she had
-been down the steps.
-
-Then the bell, and then more feet, and then, on the third, a voice.
-
-*Somebody is up there.*
+*Act 1. A room. A boy, age twelve. POV: the boy. ~1,400 words.*
 
 ---
 
-She got the whole of it by the fourth and she got it from Tokuji, who
-brought the bowl himself twice that week and who answered questions if you
-asked them one at a time.
+There were three of them on the mat now and he had been waiting to do this
+since the second one.
 
-"How many now?"
+He had made himself wait. That was a thing he had learned to do in the
+sixth month and he was not sure it was a good thing: he had found that if
+he did the looking too early he got an answer that was not an answer, and
+then he could not un-have it, and it sat in the way of the real one.
 
-"Six."
+So he had left the third one where it was for nine bowls after it came
+off, and had not put it beside the others, and had not touched any of
+them.
 
-"Is it the winter ones?"
-
-"It's the twelfth month," said Tokuji.
-
-He had said that to her in the tenth month, on the vegetable ground, with
-the last of the daikon coming up, and it had meant *you are five weeks
-early* and had been the best news she had ever had.
-
-Now it meant six people were sleeping eleven feet above her head.
+Then he put all three in a line.
 
 ---
 
-She worked at it for two days and could not make it into anything.
+He did it along the wall, in the light from under the door, in the part of
+the day when there was any.
 
-*There are people up there who do not know I am here.*
+Left to right, in the order he had made them.
 
-*Or there are people up there who know I am here.*
+The first was the one from the sixth month, off the left hand, and it was
+the longest and the straightest and it was the one that had come back at a
+hundred and seventy-eight bowls.
 
-She could not choose between those either, and it was the third pair of
-readings she could not choose between in a fortnight and it was starting
-to be the thing she noticed about her own head.
+The second was the one after that.
 
-*Everything comes in twos now and I cannot get at either of them, and that
-is not because I am stupid. It is because I have got nothing to test them
-with. I have got a door and a bowl and a bell.*
+The third was the one he had broken off eleven bowls ago.
 
-She lay on the mat and listened to a man cough directly above her at about
-nine in the evening on the sixth of the twelfth month.
+He put them so the bases lined up, because if you do not line the bases up
+you are measuring nothing.
 
-*And they cannot hear me, because if they could I would have heard
-somebody stop.*
+Then he looked at them.
 
 ---
 
-The date had gone on the thirtieth and she had spent the first four days
-of the twelfth month with two answers and no way in, and on the seventh
-she chose one.
+*Shorter.*
 
-She knew she was choosing. That was the part she made herself write down.
+*Shorter than that one. And that one is shorter than that one.*
 
-*I have got no new information and I am picking anyway, and the reason I
-am picking is that I cannot go on holding both of them.*
+He did it with his thumb, along all three, one after the other, and then
+in the other direction to check that he was not doing something to them
+with the order.
 
-*So: nobody came, so it fell through.*
+*It is not the order. It is them.*
 
-She turned it over.
+He did the turn next, which was the thing he was actually looking for, and
+which he had been not-thinking about for nine bowls.
 
-*Which means I am a girl in a cellar that nobody has a plan for, and the
-arrangement is the arrangement because it has not been changed.*
+*The first one has got a place near the top where it changes.*
 
-**And she was wrong, and she was wrong for a reason that would have
-embarrassed her if she had ever found out, which was that of the two
-readings she had taken the one she was in.**
+*The second one has got a place near the top where it changes and it is
+worse.*
 
----
-
-The charcoal ran out on the ninth.
-
-She had been getting it off the wood store since the fifteenth of the
-tenth month, a bit at a time, in her sleeve, and she had not been able to
-get to the wood store since the second of the eleventh, and what she had
-was what had been in the twist of cloth when they moved her, and on the
-ninth of the twelfth month she used the last of it on the fourth column
-and there was nothing left to make a mark with.
-
-She spent an hour looking for something.
-
-There was nothing. There was a mat and two blankets and a bowl that went
-back and a lamp that came for an hour and a wall of stone and earth, and
-the lamp was a wick in oil in a dish and the wick did not char in a way
-that came off on anything, and she tried that, and it did not.
-
-So she sat with the sacking on her knees and worked out what she was going
-to keep.
+*The third one has got a place near the top where it changes and it is
+worse than the second one and it starts lower down.*
 
 ---
 
-*Four columns.*
+He sat back on his heels.
 
-*The ninety is dead. It has been dead since the twenty-sixth of the eighth
-month and it is a hundred and fifteen numbers and I can hold the last one
-without writing it.*
+There is a particular thing that happens when you have been hoping without
+having a word for hoping, and it happened to him then, on the mat, with
+his hands on his knees and three pieces of himself in a row in front of
+him.
 
-*The money is eleven things and it has not moved in six weeks and it is
-three hundred and ninety and I am not going to forget three hundred and
-ninety.*
+*It is not getting better.*
 
-*The fourth column has got one thing in it and the one thing has gone
-past.*
+*It is getting worse.*
 
-She looked at the third column.
+*And it is not getting worse in a jumbled way. It is getting worse by
+about the same each time, which means if I did a fourth I would know
+roughly what it would look like before I did it.*
 
-**1,550.**
+He went round it looking for a way out, the way he had gone round the
+first one, and there were two ways out and he tried both of them and
+neither of them held.
 
-*And that one changes every day, and it is the only one that changes, and
-if I put that in my head it is going to be the only thing in there that
-moves, and I know what happens then because I did it for a fortnight on
-the road and I hated it.*
+*It might be that they are different because of when in the day I did
+them.* — But he had done all three at night, because he did everything at
+night.
 
-She sat with it for a long time.
+*It might be that they are different because of where on the hand.* — But
+they were the same place. He had made a point of it being the same place,
+because the first time he had done it in a different place he had got a
+different answer and had not been able to tell whether it was the place or
+the doing.
 
-Then she did the thing she had learned to do in a kitchen at Nakadō, which
-was to work out what the actual question was.
-
-*The question is not which column do I keep.*
-
-*The question is what am I going to be doing tomorrow.*
-
----
-
-She did not have an answer for that and she found one in about four days
-and it was the wrong one, and she knew it was the wrong one and did it
-anyway, because it was the only thing available.
-
-She started counting the building.
-
-Feet, first: how many pairs, and which were the same pair twice. Then
-where the boards gave and where they did not, which told her where the
-mats were. Then the bell, and who rang it, which was not always the same
-person and which changed on the eleventh.
-
-Then the times: what happened at what hour, and how tight it was, and
-which of the nine were up before the bell and which were not.
-
-By the fourteenth she could have drawn the long building from underneath.
-
-*Nine of them. Four on the north end, five on the south, and the two on
-the south corner are together and one of them is a child.*
-
-She stopped when she got to the child.
+*So it is neither of those and it is the thing itself.*
 
 ---
 
-*There is a child up there.*
+He put his hands in his lap and had a bad quarter of an hour, without
+knowing that was what it was.
 
-She lay on her back on the mat under nine people in the twelfth month and
-had the worst hour she had had since the wood store, and it was not about
-the child.
+He had no shape for disappointment. He had had one shape for two years,
+which was waiting, and waiting has no direction in it. This had a
+direction. This was a line on a mat that pointed somewhere and the
+somewhere was worse than where he was.
 
-*They came in the ordinary way. Somebody asked them if they had eaten and
-they said no and somebody said right and got them a bowl.*
+What he had at the end of the quarter of an hour was not comfort. It was a
+sentence, and the sentence was:
 
-*That is what happened to me.*
+*That is what the first experiment was for.*
 
-*And then I did eight trips instead of eleven and four ranks under the
-eave and the north end and the floors, and I did all of it fast, on
-purpose, so that they would want to keep me.*
+He did not have the word *experiment*. What he had was: *I did a thing to
+find out a thing, and I have found it out, and the answer is bad, and a
+bad answer that you have got is not the same as no answer.*
 
-*And there is a child up there who has not done any of that and is
-upstairs.*
+---
 
-She turned that over four or five ways and could not make it come out as
-anything except the one thing, and the one thing was not about her being
-worse.
+Then he did the next part, which nobody had shown him and which he did in
+about four minutes on his own on a mat with a bolt on the door.
 
-**It was not what she had done. It was what she had on her head, and she
-had known that since the twenty-eighth of the tenth month, and it had
-taken until the fourteenth of the twelfth for it to arrive properly.**
+*The answer is: they come back smaller and bent, and more each time.*
 
-*They are not keeping me because I am useful.*
+*What I do not know is why.*
 
-*I was useful for fifteen days and it did not come off the number.*
+*I know it happens. I do not know what makes it happen. And I have been
+doing the same thing three times and getting the same answer three times,
+and doing it a fourth time the same way will get me the same answer a
+fourth time.*
 
-She turned over on the mat, facing the wall, with the bell going for the
-last time above her.
+He turned it over.
 
-*And it does not come off it now either. It is the same building and I
-have gone from one to the other and nothing about me changed.*
+*So I have to do it differently.*
 
-She counted the bell out of habit and did not write it down, because there
-was nothing to write with, and found that she had done it anyway in her
-head, and that it had cost her nothing at all.
+*What is there to do differently?*
 
-*Right.*
+He went through what there was, which was not much, because there was not
+much in the room and there was not much about the doing of it.
 
-*Fine. In my head, then.*
+*The place on the hand. — No. If I move the place I cannot compare it to
+these.*
 
-*1,545.*
+*How much I take. — Maybe. But I do not know how to take less on purpose;
+it comes off where it wants to come off.*
+
+*And when.*
+
+---
+
+He stopped there, because *when* had something in it.
+
+*Every time, I have waited for it to finish coming back before I did the
+next one.*
+
+*Every single time. I waited for the first one because I did not know what
+would happen. I waited for the second one because I had waited for the
+first one. And I waited for the third one because that was how it was
+done.*
+
+*And nobody told me it was how it was done. I decided it in the sixth
+month and then I never looked at it again.*
+
+**It had been in the middle of everything he had done for four months and
+he had never once seen it, because it was the part that was not doing
+anything.**
+
+*So: do the next one before the last one has finished.*
+
+He got very still.
+
+*If I do it early and it comes back the same as this one, then when does
+not matter.*
+
+*And if I do it early and it comes back worse, then the resting is what
+makes it good, and I should rest longer.*
+
+*And if I do it early and it comes back better —*
+
+He did not finish that one, because he had learned in the sixth month that
+finishing that kind of sentence made the answer harder to see afterwards.
+
+---
+
+He put the three of them back where he kept them, which was under the edge
+of the mat at the wall side, in the order he had made them, bases lined
+up, because that was now a thing that mattered.
+
+Then he sat against the wall with his hands together and worked out where
+he was in the growing of the fourth one, which was not far, which was the
+point.
+
+*It has been eleven bowls. It took a hundred and seventy-eight the first
+time.*
+
+*So it is nowhere. So it is now.*
+
+He put his right hand over the back of his left, and stopped, because a
+thing had arrived that had not arrived any of the other three times, and
+he sat with it for a while because he could not make it go.
+
+*If the resting is what makes it good, I am about to make this one the
+worst one there has ever been.*
+
+*And I will have to keep it, and put it in the line, and it will be there
+in the line for ever, and it will be the one I did on purpose.*
+
+He waited until that had finished being there.
+
+Then he did it anyway, because a thing you are afraid to find out is
+still a thing you do not know.
+
+*Four.*

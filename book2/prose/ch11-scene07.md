@@ -1,217 +1,237 @@
-# Chapter 11, Scene 7 — Three Towns
+# Chapter 11, Scene 7 — Forty Hours
 
-*Act 1, month 12, the ninth to the thirteenth. The Ōgi road. Tadayoshi
-Ruri, age ten. POV: Tadayoshi. ~1,520 words.*
-
----
-
-The list cost him a day and a half and he took the day and a half.
-
-That was the whole of the first five days and it was the only part of the
-job that had any thinking in it, and he did the thinking on the evening of
-the eighth on the loft floor with the eleven-town page in front of him and
-a piece of string.
-
-Nunobiki was on the road. Sakabe was on the road. Fukae was not on the
-road and was four miles off it and there was a bridge at Fukae and the
-next bridge was eleven miles further up.
-
-*So it is three.*
-
-*Nunobiki, because I was there in the eighth month and there is a man at
-the north gate who took a good look at me.*
-
-*Sakabe, because Sakabe is Sakabe.*
-
-*And Fukae, which is the bridge, which means eleven miles.*
+*Act 1, month 10, the twenty-fifth and the twenty-sixth. The Kadono-dera.
+Nozaki Uzuki, age ten. POV: Uzuki. ~1,630 words.*
 
 ---
 
-He went round all three and it took him thirty-four hours more than the
-straight road and he wrote the thirty-four hours down and looked at it for
-a while.
+It started in the night on the twenty-fifth and by the morning it was the
+kind of rain that has a sound of its own under the roof.
 
-*A day and a half.*
+She knew before she was properly awake what it meant, because she had
+spent six days building four ranks under an eave and there was a fifth
+rank's worth still below the road on the sled and under a bit of
+sacking, and sacking is what you put on a thing when it is not raining.
 
-*The file on them is two lines. The file on me is eleven towns and one
-page and it cost me a day and a half this week.*
+*If that sits in this for two days it is no good until the second month.*
 
-He turned that over on the road, going uphill, with an empty pack.
+*And it is the twenty-fifth of the tenth.*
 
-*That is the actual shape of it and I have never had it in this form
-before. It is not that they are close. They are not close. Nobody has been
-within four days of me since the fifth month.*
-
-**It is that I am paying, in hours, every week, in advance, for a thing
-that has not happened.**
-
-*And the payment goes up every time I am seen anywhere, and I am seen
-somewhere about every eleven days, and it never comes back down.*
+She was out before the bowl.
 
 ---
 
-The hand was the second thing and it was worse on the road than it had
-been in a yard.
+Tokuji came down at about the middle of the morning and stood at the top
+of the cut with his hood up and watched her come past with an armful, and
+then went and got a second sled.
 
-*It is the twelfth month and I am going north-east and uphill.*
+That was all the conversation there was about it. There were eleven men at
+the Kadono-dera and three of them came down at some point on the
+twenty-fifth and did some of it, and one came down on the twenty-sixth and
+did an hour, and the rest did not, and nobody said anything about that
+either.
 
-You cannot do a seal in a glove. He had known that since he was six and it
-had been an inconvenience in Shioiri in the second month and it was
-something else entirely on the Ōgi road in the twelfth with a thing across
-the back of the right hand that had started aching at about two in the
-afternoon of the tenth.
+Uzuki did the twenty-fifth from before the bowl to full dark and the
+twenty-sixth from before the bowl to full dark, and by her own count it
+was about forty hours across the two days including the standing about.
 
-It rained at seven.
+She was not angry about the eleven men.
 
-*Five hours.*
+*Four of them have backs and two of them have hands.*
 
-*That is the third one. Four hours, four and a half, five. It is going
-up.*
-
-He wrote the three numbers in a row and did not have an interpretation and
-put a small line under the row to mean *this is a series and it is not
-finished.*
-
----
-
-He practised the half seals on the road because there was nothing else to
-do with eleven days.
-
-He did it walking, which was new, and again at the rests, and by the
-thirteenth he had eleven more goes on top of the two hundred and nine.
-
-Nine held. Two failed. Both of the two were duds.
-
-*Two in eleven.*
-
-He was pleased about that for most of an afternoon and then made himself
-do the rest of it, because a number you are pleased about is a number you
-have not finished with.
-
-*Two in eleven is about one in five and a half. The two hundred and nine
-was one in three.*
-
-*So it has come down.*
-
-*Or eleven is too few and I have got a good eleven, and if I had done
-another eleven I would have got a bad eleven, and the true number has not
-moved at all.*
-
-He wrote both, side by side, with the sample sizes next to them.
-
-**A number off eleven goes is not a number. It is an opinion with a
-decimal point on it.**
-
-*And I want it to be one in five and a half, and I have noticed that I
-want it, and that is a reason to distrust it and not a reason to throw it
-away.*
+*And I am the one who built the ranks, so I am the one who knows which bit
+of it is worth going down for, and if I sent somebody else they would
+bring up the wrong armful.*
 
 ---
 
-Nothing happened on the Ōgi road.
+The rain got into everything in the way that only two days of it does.
 
-That was the other thing about those five days and it was the thing that
-did the damage.
+It got through the shoulders of the coat they had given her at about the
+fourth hour of the first day, and after that it did not matter, and there
+is a thing that happens at about the sixth hour where being wet stops
+being an event.
 
-He had an empty pack and a route and eleven days and a hand that told him
-about rain, and he was ten years old, and he had done four hundred miles
-of road in a year and could do it now without attending to it, and there
-was nothing in front of him that required anything.
+It got into the shoes, which were a twentieth's worth of somebody else's
+shoes, and the big one filled and stayed filled and the rag in the toe
+turned into a wet weight, and she took the rag out at midday and went on
+with it loose and it was better.
 
-So he had nothing to do but be in his own head from the ninth to the
-thirteenth.
+It got under the eave at the north end where the eave was short, and she
+found that out on the second morning and moved sixty pieces.
 
-*What I am is a boy walking nine days to fetch two crates.*
-
-*In the fifth month I killed four people on a riverbed and in the sixth I
-was recruited by people who wanted the thing I had just done, and in the
-eighth I was given work that mattered, and in the ninth a woman came for
-me on a bank above Aku and I was better than her at everything except the
-part where she went north.*
-
-*And in the twelfth month I am walking nine days to a temple to pick two
-crates up, four days north-east of Ōgi, on a sheet that says eighteen days
-because I made a man change it in a yard.*
+And it got into her hair.
 
 ---
 
-He got at the insult of it from about six directions over five days and
-could not put it down.
+She did not notice on the first day.
 
-*They have not punished me. Nobody has said a word to me about the third.
-Hōki asked me two questions and did not ask the third one and gave me a
-chair.*
+She noticed on the second day at about the middle of the afternoon,
+standing at the top of the cut waiting for Tokuji to come up with the
+sled, when she put her hand up to push the wet off her forehead and looked
+at her hand.
 
-*And they have taken my name off the board and given me the furthest thing
-on the sheet.*
+There was nothing on it.
 
-He knew what it was. That was the part that made it unbearable rather than
-merely bad. He could see the whole mechanism from the outside — a boy
-comes back on his own with two dead men and a hole in the middle of his
-account; the organisation has no word for it and does not want one; so it
-does not investigate and does not accuse and does not punish, it simply
-puts him somewhere for a fortnight where nothing can happen and nobody has
-to look at him.
+She stood there for a second with her hand out in front of her in the
+rain.
 
-*It is not a judgement. It is worse than a judgement. A judgement would
-have a reason in it and I could argue with the reason.*
-
-*This is being put down somewhere.*
+*There is nothing on it.*
 
 ---
 
-**And it worked on him exactly as intended, which was that by the
-thirteenth of the twelfth month he was bored, insulted and resentful, and
-had been for five days, and had nowhere at all to put any of it.**
+She had done the bowl since she was four and she had never once done it
+herself, and what she knew about it was what you know about a thing that
+happens to you.
 
-He noticed the state. He always noticed the state. He wrote it down on the
-evening of the twelfth in three words with the date beside it, the way he
-wrote down the ache in his hand, and then wrote underneath it the thing
-that was actually true and which he did not act on:
+It went on wet and it sat, and it was rinsed, and after that it did not
+come off on anything. It did not come off in a river. It did not come off
+in a fortnight of sleeping in it. It had come off her mother's hands, in
+the kitchen, at the bowl, and the water in the bowl had been brown, and
+that was the only place she had ever seen it come out at all.
 
-*This is the condition in which people do stupid things.*
+So she had assumed — the way you assume a thing you have never had to
+think about — that it did not.
 
-*I am in it. I have been in it for four days. Nothing on this job requires
-a decision, so it does not matter.*
+It did. It took forty hours of soaking and it did not run and it did not
+come off on her hand, and it did not go all at once.
 
-He read that back on the fourteenth and it still looked correct.
+**It stopped being there.** From the roots out, in the wet, over two days,
+without one single moment where it happened.
 
 ---
 
-The last thing on the Ōgi road was the piece from the bank.
+She got behind the wood store on the evening of the twenty-sixth and did
+the only thing there was to do about it, which was to look.
 
-He got it out twice. Once on the eleventh, in the evening, at a rest, and
-once on the thirteenth in the middle of the night when he could not
-sleep.
+There was no glass at the Kadono-dera and no still water that was not a
+tank in the dark, so what she had was a length of it pulled forward over
+her shoulder in the last of the light with her chin down.
 
-It had not changed. That was the whole of the observation and it was the
-observation that mattered: nine days old and it had not changed at all, no
-dulling, no dust at the break, nothing.
+She had been eleven days growing it out on the seventeenth of the ninth
+month, which was thirty-nine days ago, which was fifty days of growing.
 
-*Everything I make has a date on it.*
+And forty hours of rain had taken the wet out of the fifty days.
 
-*This has been nine days and it is exactly what it was on the bank, and it
-came off a thing the size of a dog that was warm at the base and seated
-into the ground like a tree, and there is a foot and a half of the same
-silence on my hip that I made on purpose in the tenth month.*
+*About two inches.*
 
-He tapped it, in the dark, because he could not stop tapping it.
+She turned it in the light.
 
-Nothing.
+*And it is not brown.*
 
-*Two things, then. One I made wanting something and one I made not being
-there.*
+---
 
-*And I have got nobody to ask.*
+She had known what colour it was. That was not the shock and there was no
+shock. She had lived in a house where the bowl came out every two months
+and she had seen the roots in the mirror in the seventh month and she had
+seen what came off her mother's fingers.
 
-He thought about Hōki in the yard — *don't show it to anybody* — and got
-no further with that than he had got on the ninth, and put it back inside
-his coat.
+What she had not had, at any point in her life, was two inches of it in
+her own hand in daylight against the rest.
 
-*Four days to Ōgi.*
+The rest was the colour her mother's hair was and Kuriya's hair was and
+every single person's hair in Nakadō was, which is to say it was the
+colour of hair.
 
-*Four days after that to the temple.*
+And the two inches were red.
 
-He went to sleep in a ditch on the Ōgi road in the twelfth month with
-eleven throwables he had never thrown and a blade he had never drawn and
-one in five and a half or one in three, and it rained at about four.
+Not brown-red. Not the red that dark hair goes in the summer, which she
+had seen on children in the lane and which nobody said anything about.
+
+*It is a different thing. It is not a shade of the other one. It is a
+different thing that is on my head.*
+
+She stood behind the wood store in the rain and held it and did the only
+finding available.
+
+*So that is what he was doing.*
+
+*Every two months for six years, in the afternoon, in the light, with the
+door shut, and he would not say why, and it cost him, and I stopped asking
+at six.*
+
+*And it was not a thing about me being untidy. And it was not the thing
+Kuriya said it was.*
+
+*It was this.*
+
+---
+
+She thought about doing something about it for about four minutes and
+there was nothing to do about it.
+
+There was no bowl. There was no black at the Kadono-dera; she had looked
+for it on the second day out of habit, in the store where the kitchen
+things were, and there was salt and there was oil and there was nothing
+that would do. There was nobody to ask and asking was the thing you did
+not do.
+
+And there was a rag, and she had been wearing the rag for a fortnight, and
+she put it back on, and it covered the top and it did not cover the
+length.
+
+*So it is on my head and it will be on my head and it is going to keep
+coming.*
+
+*It is fifty days for two inches. It is going to be six inches by the
+first month.*
+
+She went in for the bowl.
+
+---
+
+Enkai was in the hall doorway when she came up past it with the last
+armful of the day and she had seen him perhaps nine times in thirteen days
+and had never once been spoken to by him.
+
+He was doing what he was always doing, which was standing with a book.
+
+She went past. She got about four feet past.
+
+"How long has your family had that?"
+
+---
+
+She stopped and turned round with the wood still in her arms.
+
+He was not looking at her face. He had not moved out of the doorway and he
+had not put the book down and there was nothing in his voice at all: it
+was the voice a man uses to ask what year a thing was made in.
+
+She opened her mouth and there was nothing in it.
+
+*How long has your family had it.*
+
+*My family. Had it.*
+
+She stood in the rain with an armful of wood and worked, very fast,
+through everything she had, which was: a father who dyed it and would not
+say why, and a grandfather who had done it before him, and a name that was
+Nozaki, and nothing else. Not one thing else. Not where the grandfather
+came from, not what he had been called before, not one single word about
+any of it, because the wound was too big and he had not talked and her
+father had not been told either.
+
+She had spent her whole life not being able to say what her family was,
+and the first person in the world ever to ask her about it was a man in a
+doorway with a book.
+
+"I don't know," she said.
+
+Enkai looked at her for about a second and a half.
+
+"No," he said. "I don't suppose you would."
+
+He went back inside.
+
+---
+
+She stacked the last armful under the eave and squared the end of it with
+her palm, and stood there in the dark and the rain with her hands on the
+wood.
+
+*He did not ask me how long I have had it.*
+
+*He asked how long my family has had it.*
+
+She could not get any further than that and she went in and ate.

@@ -95,7 +95,7 @@ montage, chapters end on the smallest true image.*
 
 ## 4. CARRIED IN FROM ACT ONE — the eight open items
 
-**`ch11.md` §8**, and each needs a chapter to land in:
+**`ch12.md` §8**, and each needs a chapter to land in:
 
 | | Lands |
 |---|---|

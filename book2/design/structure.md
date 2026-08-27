@@ -72,8 +72,9 @@ Month by month in `timeline.md` §2. The spine:
 
 > ## ⚠ AND WHY SHE IS ALIVE — and it is a matter of timing, not of luck.
 >
-> **`character.md`: the creed is acquired at eleven, after the merchant and
-> the house and the boy.** The monastery is month 12 of year 0. **So there
+> **`character.md`: the creed is acquired at TEN, in month 9 of year 0,
+> after the merchant and the house and the boy** — **in act one, in
+> ch10** (`falsified.md` #23). The monastery is month 12 of year 0. **So there
 > is nothing governing him in that building, and `combat.md` §9 is
 > explicit — *anything between him and the target is in the crossfire,
 > allies included.***
@@ -83,7 +84,7 @@ Month by month in `timeline.md` §2. The spine:
 > **She is not sold in the week she is priced.** Enkai prices her on the
 > 28th of the tenth month and the buyer's date is *not before the eleventh*
 > — **so she is in that cellar for eight or nine weeks**, and the whole of
-> ch10 and the front of ch11 happen inside her waiting.
+> ch11 and the front of ch12 happen inside her waiting.
 >
 > **And the threshold event lands inside that hold, on his own work, four
 > hundred miles from her** — *early in the twelfth month, three weeks
@@ -94,7 +95,7 @@ Month by month in `timeline.md` §2. The spine:
 >
 > **Note the distinction the design already makes.** *Freight* is drift:
 > he could not seal, so they used him for carrying, and nobody revisited
-> it (`ch10.md` §3.3). ***The cargo job* is a posting** — chosen, for him,
+> it (`ch11.md` §3.3). ***The cargo job* is a posting** — chosen, for him,
 > after an incident. **The first is nobody's decision and the second is
 > somebody's**, and he cannot tell them apart from where he stands.
 >

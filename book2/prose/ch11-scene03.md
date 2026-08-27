@@ -1,218 +1,244 @@
-# Chapter 11, Scene 3 — The Third Question
+# Chapter 11, Scene 3 — The Ordinary Way
 
-*Act 1, month 12, the fourth to the sixth. Ōtoma. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,420 words.*
-
----
-
-He walked it in a day and a half with the crate.
-
-He thought about leaving the crate about six times and did not, and the
-reason was not duty and he knew that at the time. The reason was that a
-boy who comes back without the cargo has to say why, and a boy who comes
-back with it has said the only thing about the job that can be established
-by looking.
-
-He put it down in the yard behind the cooperage at about four in the
-afternoon on the fourth and said, "Ono and Sada are dead," to the first
-person he saw, who was a woman he had never spoken to, and then sat on the
-step until Hōki came out.
+*Act 1, month 10, the thirteenth. The Kadono-dera, four days north-east of
+Ōgi. Nozaki Uzuki, age ten. POV: Uzuki. ~1,690 words.*
 
 ---
 
-Hōki took it the way Hōki took things, which was to get a chair.
+She did not find the Kadono-dera. She was on a road going up and it was on
+the road, and there was a bell.
 
-"From the start."
+That was the whole of it and she thought about it afterwards a great deal,
+because it was the largest thing that had happened to her since the
+seventeenth of the ninth month and she had done nothing whatever to bring
+it about. She had walked four days out of Ōgi on a road that went
+north-east because north-east was up and up was where people put things,
+and on the afternoon of the thirteenth there had been a bell somewhere
+above her on the left, and she had gone towards it because she had nothing
+else at all.
 
-"From where?"
+*I did not choose this.*
 
-"From the boat."
-
-So he did it from the boat.
-
----
-
-It took two hours and forty minutes and he did it in order and he did not
-leave anything out, and that was the mistake, and he did not find that out
-for a fortnight.
-
-The pickup at three hours. The barn and the horse in the lower field. The
-Yatabe cut and the two and a half miles. The water, and that it was his,
-and that he had been told about it in the tenth month and had done it
-anyway. The Nunobiki fork and the two hours it cost and that he had been
-right about it. Twenty-eight hours. The six on the west bank at noon, and
-the count at four minutes and at six and at eight and at ten.
-
-"You were winning," said Hōki.
-
-"Yes."
-
-"Say that again."
-
-"We were winning. Two of theirs down at four minutes, one at ten, three
-left and two of the three backing. Ono was fine. Sada was cut on the
-forearm and up."
-
-"Right," said Hōki.
+*I have not chosen anything since the north road.*
 
 ---
 
-Then Tadayoshi did the part he had rehearsed on the road and had been
-dreading for a day and a half, and it came out flatter than he meant it
-to.
+It was a working mountain temple and she had never seen one and did not
+know what she was looking at for about an hour.
 
-"A seventh came out of the scrub on the east side at about eleven minutes.
-I turned into him and the seal came apart in the right hand and he was
-inside it and I went over backwards. That is the last thing I have."
+There was a hall, and there was a long low building along the north side
+with a step and shutters, and there were eleven men, and there was about a
+third of an acre of ground cut into the slope in beds with a wall of
+stacked stone holding each bed up, and there was a bell on a frame under a
+little roof of its own.
 
-The yard was quiet.
+There was also a heap of daikon by the ground with the tops still on, and
+she was looking at that when a man came round the end of the wall with a
+basket and saw her.
 
-"And then?"
+He was about sixty. He had a bad hip and the beginnings of a stoop and
+grey stubble on his head that was about a fortnight old, and his hands and
+his forearms were the colour of the beds.
 
-"And then the light had moved about eleven feet up the far bank."
+He looked at her for about two seconds.
 
-"How long?"
-
-"Between two and three hours. I have written it as two and a half and
-marked it an estimate."
-
----
-
-He gave the rest of it exactly as he had written it and did not look up
-once while he did it, which he noticed afterwards.
-
-Eight. Four his before the eleven minutes. Two his in the same stands and
-no way to date them. One Ono's. One on the road with his throat open and
-no crystal near him.
-
-Sada in the middle stand, which Sada had been told about and had gone
-round twice.
-
-Ono killed with hands.
-
-"And I cannot resolve Ono," he said. "There is no way to resolve it from
-the ground. Either one of them did it and then I killed that one, or I did
-it and then I killed that one. I have been over it four times and there is
-nothing on that road that separates those."
-
-He stopped.
-
-He had expected to feel something when he got to the end and he did not
-feel anything at all, and that was the second thing he noticed and put
-away to look at later.
+"Have you eaten?"
 
 ---
 
-Hōki sat with his hands on his knees for a while.
+She got most of the way through *yes* before she stopped it.
 
-"Two questions," he said.
+That was a thing she had been doing for four weeks. It came out on its own
+and it had come out at Kiku's and it had come out twice at Ōgi, and every
+single time it had cost her something, and she had told herself on the
+road up that the next time she was asked she was going to say the true
+thing.
 
-"All right."
+"No," she said.
 
-"Was the boat late or was the boat waiting?"
-
-Tadayoshi had that one and had had it since the road.
-
-"Waiting. Six is what you bring for two men and a boy, and nobody counts a
-crate off a boat from a mile away. Somebody sold the run and the three
-hours was them getting into place."
-
-"Right." Hōki did not write anything down and did not have anything to
-write with. "Second one. When you put the crate down at noon — before any
-of it — where were the two stands?"
-
-"Not where I was."
-
-"Where were Ono and Sada?"
-
-"That's a third one."
-
-"It is," said Hōki, and stopped.
+"Right," said the man, and put the basket down.
 
 ---
 
-That was the whole of the interview and Tadayoshi turned it over for the
-next eleven days.
+That was all of it.
 
-*He asked me two and he had a third and he did not ask it.*
+She thought about that afterwards too, and it was one of the four or five
+things she took out and looked at for the rest of her life. There was no
+question about who she was. There was no question about where she had come
+from. He did not ask her name, then or that day, and he did not ask what
+had happened to her feet, and he did not look at her hair, which was
+eleven days of the wrong colour at the roots and which she had been
+holding down under a rag for a fortnight and which he must have seen.
 
-*And the third one is the only one that goes anywhere. He knows it goes
-somewhere. He stopped on purpose and he let me see him stop on purpose,
-because if he had wanted to not ask it he could have just not asked it.*
+He put the basket down and took her round the end of the long building to
+a step, and sat her on the step, and went inside, and came back out with a
+bowl.
 
-*So he was telling me something.*
+It was millet and it was hot and there was something green in it.
 
-He got as far as that and no further for a long time, and what he could
-not get to was that there were two things it could have been telling him
-and they were opposites: *do not answer that in front of anybody*, or
-*that is the question they are going to ask about you and I am not the one
-who is going to ask it.*
+She ate it too fast and was sick about ten minutes later round the corner
+of the wall, and came back, and he was still on the step, and he had
+another one.
 
-He wrote both down. He did not close it.
+"Slower."
 
----
+"I know."
 
-Nobody used a word for it, and he noticed that, and it took him until the
-sixth to work out that it was because there was not one.
-
-They had a shape. He heard the shape four times in three days, twice from
-people who did not know he was in the next room, and it was always the
-same shape and it was always said in the same tone, which was not the tone
-you use for something dreadful. It was the tone you use for something
-that is a nuisance to arrange around.
-
-*A boy who came back on his own.*
-
-That was it. That was the whole of the vocabulary this organisation had
-for it, and the vocabulary told him exactly what he needed to know, which
-was that it had happened before, to somebody, more than once, and that
-there was a way of dealing with it that did not require a word.
-
-*They are not frightened of me.*
-
-*They are working out where to put me.*
+"Then do it slower."
 
 ---
 
-The other thing he did in those three days was go and look at the roster
-board twice, because he could not stop himself, and both times his name
-was not on it.
+His name was Tokuji and he did the vegetable ground.
 
-Not moved. Not blank. **Not on it.**
+She worked out over the next two days that this was his whole standing in
+the place — he was not the one in charge and he was not one of the young
+ones and nobody deferred to him about anything — and that he had been
+doing the ground for nineteen years, and that the reason he had seen her
+first was that the ground was the bit of the Kadono-dera that faced the
+road.
 
-He asked nobody about that, which was the only thing he did in the whole
-of the twelfth month that he was later pleased with.
+He explained the arrangement on the second morning while they were lifting
+the last of the daikon, without stopping working and without looking at
+her.
+
+They took people in the winter. The long low building was for that. It had
+been for that since before him. There was no test and there was no
+question and nobody asked you anything, and you got what everybody got and
+you did what there was to do, and in the spring, when the roads opened,
+people went.
+
+"How many are there now?"
+
+"You."
+
+"Just me?"
+
+"It's the tenth month," said Tokuji. "They come in the twelfth."
 
 ---
 
-On the evening of the sixth he sat on the boards in the loft and did the
-entry properly, because it had been three days and the entry was still in
-the state he had written it on a bank in the dark and that was not good
-enough.
+*So I am five weeks early for the one thing in this country that has not
+got a date on it.*
 
-He did the eight. He did Ono, unresolved, with the two readings side by
-side and no preference marked. He did Sada, and under Sada he wrote *he
-knew where it was*, and looked at that, and did not add anything to it.
+She turned that over on the second night, lying on a mat in a room with
+ten empty mats in it, and could not make it into a joke and could not make
+it into anything else either.
 
-He did the thing on the bank, and the question mark, and left the question
-mark on.
+*The almshouse at Ōgi shuts at the end of the ninth month and I got there
+on the first of the tenth.*
 
-Then he ruled off and did the last line, which was not about the road.
+*This one fills in the twelfth month and I got here on the thirteenth of
+the tenth.*
 
-*Somebody is deciding what to do with me and it is being done in a room
-and I am not going to be told when it happens.*
+*I have been wrong about the date twice in a fortnight, in both
+directions.*
 
-*I will find out the way I found out about the carrying, which is that a
-thing will arrive and it will already be the situation.*
+*And the second one is the one that saved me and I did not do anything
+different.*
 
-He looked at that for a while.
+---
 
-**And there is no anomaly to raise, because nothing has happened yet.**
+The food was the thing.
 
-He put the book away, and did the throwables, which took six minutes, and
-found that two of them had gone soft on the road and were four days past
-their date and he had not looked at them since the second, which was the
-first morning he had missed since the twentieth of the tenth month.
+It was not much. It was millet and what was in the ground and twice a
+week there was something with a bit of fat in it, and it was three times a
+day and it was the same three times a day and it did not depend on
+anything.
 
-He wrote that down too, under the wrong heading, in the wrong part of the
-book, and did not move it.
+She had not had that since the seventeenth of the ninth month, and before
+that she had had it every day of her life and had never once looked at it.
+
+On the fourth day she caught herself doing the sum at the morning bowl —
+*that is one, and there will be one at the middle and one at the end, and
+so today is a day I do not have to think about it* — and she stopped with
+the bowl halfway up, because the sum had finished and there was nothing on
+the other side of it.
+
+Nothing to solve. Nothing to get to.
+
+She had not had a day like that since the third month.
+
+---
+
+She went round the back of the wood store to be out of the way and it came
+up and got her about four seconds after she got there.
+
+It was not crying about her father and it was not crying about her mother
+and it was not crying about the seventeenth, none of which she had done at
+any point, and she knew that while it was happening, which was the
+humiliating part.
+
+*I am crying about millet.*
+
+*I have not cried about my father. I have not cried about anything since
+the bowl in the kitchen and that was not crying either, that was standing
+still.*
+
+*And I have got a hot bowl three days running and I am behind a wood store
+with my face in my sleeve.*
+
+It went on for about four minutes and she was rigid with fury for all of
+it.
+
+---
+
+She came back round and did the rest of the afternoon and did it well,
+because doing it well was the only thing available.
+
+And she did the finding that night, on the mat, in the dark, in a room
+with ten empty mats in it, and it was the first one she had made since the
+north road that was about herself and not about the situation.
+
+**Being all right is worse than not being all right, because when you are
+not all right there is a next thing.**
+
+*On the road there was always a next thing. Where do I sleep. What do I
+eat. How far is it. And I did those and I was fine.*
+
+*Here there is no next thing until the eleventh month and it turns out
+that is when it gets you.*
+
+She lay there with that for a while.
+
+*So I need something to be doing.*
+
+*Not for them. For me. I need a thing that is a next thing, that is mine,
+that they cannot take by being kind at me.*
+
+---
+
+She started the bag on the fifteenth.
+
+There was sacking behind the wood store and a piece of it had come off a
+corner and nobody wanted it, and there was charcoal because there is
+always charcoal, and she ruled four columns down it with the edge of her
+thumbnail the way she had ruled the first one, in a kitchen, in the eighth
+month, when she had a kitchen.
+
+The first three were the same three. The fourth she left blank, because
+she did not have anything to put in it yet and because leaving it blank was
+a decision she was making on purpose.
+
+And then she sat with the third one for a long time, because the third one
+was the one that carried forward and she had lost it.
+
+*Nine days in Ōgi and four on the road and I stopped on about the
+twenty-eighth of the ninth month.*
+
+*I had sixteen hundred and twenty on the twenty-second and I know that
+because I wrote it under a bridge.*
+
+She did it three ways and got three answers within four of each other, and
+took the lowest one, and wrote it, and put a small mark beside it that
+meant *this is a number I have made and not a number I have counted.*
+
+**1,584.**
+
+*Days until I am fifteen.*
+
+She looked at it in the dark for a bit, on a piece of sacking, in a room
+with ten empty mats in it.
+
+*Right.*
+
+*That is the next thing, then.*

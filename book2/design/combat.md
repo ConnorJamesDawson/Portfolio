@@ -9,7 +9,7 @@
 > needed the opponent handicapped to function. **Hand seals fix that in one
 > move**, with grammar the reader already knows.
 
-> ## PROVENANCE — swept after ch10. `spec.md` §0 for the three classes.
+> ## PROVENANCE — swept after ch11. `spec.md` §0 for the three classes.
 >
 > **This file came out of the sweep in better shape than expected**, and
 > the reason is worth recording: **most of the mechanism is inherited or
@@ -27,7 +27,7 @@
 >
 > | § | The claim | What it decides |
 > |---|---|---|
-> | **9** | ***What stops it must be an object, not exhaustion*** | **rule this first.** It decided the whole monastery restructure, and ch11 cannot be written without it |
+> | **9** | ***What stops it must be an object, not exhaustion*** | **rule this first.** It decided the whole monastery restructure, and ch12 cannot be written without it |
 > | **9** | **It fires on load, not on stakes** | which chapters may contain a threshold event at all |
 > | **9** | **The written household rule, with a stated distance in it** | the catastrophe act three is built on |
 > | **4.1** | **The hands must be bare** | near-forced from *he needs hand seals* plus *he wears plate*, but nobody ruled it |
@@ -852,7 +852,7 @@ he killed while he was still thinking.**
 
 **PROPOSED — and it is the one to rule first. What stops it must be an
 object, not exhaustion.** *Mine. It decided the monastery restructure
-(`falsified.md` #16) and ch11 cannot be written until it is ruled or
+(`falsified.md` #16) and ch12 cannot be written until it is ruled or
 replaced.* One of the genin is
 wearing something his mother made — Kiri-issue fittings, prison-labour
 crystal, in circulation exactly as it is supposed to be. **And he hears the

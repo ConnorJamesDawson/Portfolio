@@ -66,7 +66,10 @@ answer will not be good enough.
 
 > **"Stay your hand from the blood of the innocent."**
 
-Acquired at eleven, halfway down, at a price — after the merchant, the
+⚠ **AUTHOR RULING: acquired at TEN, in month 9 of year 0, in act one**
+(`falsified.md` #23) — *not at eleven.* **Because the creed is what stops
+him killing Uzuki at the monastery in month 12, and that is what it was
+always for.** Halfway down, at a price — after the merchant, the
 house, and the boy. **It does not say who is innocent. He does.** A limit
 that hands the wielder the definition can always be satisfied by
 reclassifying somebody, and this is a man who withholds for advantage and

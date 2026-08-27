@@ -1,183 +1,234 @@
-# Chapter 11, Scene 6 — The Fifth
+# Chapter 11, Scene 6 — Eleven Places
 
-*Act 1. A room. A boy, age twelve. POV: the boy. ~1,230 words.*
-
----
-
-Two of them came in, which had happened four times that he could remember,
-and one of them was the one with the light step who came about every
-eleven bowls and looked and went, and the other one he had never heard
-before.
-
-He got up onto his knees, because that was what you did when the door
-went, and he had worked that out on his own in the first month by getting
-it wrong twice.
-
-The one with the light step did the looking. It took about as long as it
-always took, which was not long, and there were no questions.
-
-Then the two of them talked to each other, above him, about four feet from
-where he was, for about a minute and a half.
-
-He did not listen on purpose. He had never once listened on purpose. He
-had heard perhaps two hundred sentences in two years and every one of them
-had come to him the way weather comes to a person standing outside.
+*Act 1, month 10, the twenty-first to the twenty-ninth. A loft above a
+cooperage, Ōtoma. Tadayoshi Ruri, age ten. POV: Tadayoshi. ~1,510 words.*
 
 ---
 
-What he got was this.
+He asked Hōki for the dockets on the twenty-first and Hōki said no, and
+then on the twenty-second said yes, and Tadayoshi never found out what
+happened in between.
 
-That there was a thing about a road, and that the road was better than it
-had been, and that the pass would take a horse now, which was apparently a
-change from something.
+What he got was a box.
 
-That somebody called Ō— something was slow and had been slow before.
+Every sheet he had been given since the sixth month, or as near as
+anybody had kept: the ones with his mark on the corner and the ones
+without, the two that had been reissued, the four that were somebody
+else's and had ended up in the wrong bundle. Sixty-odd pieces of paper on
+a loft floor with a splinted hand for a paperweight.
 
-That the crates were the crates.
+"What are you doing with them?"
 
-And then the new voice said a thing to the light step, in the flat way
-people say a thing they are confirming rather than deciding.
+"I don't know yet."
 
-"The fifth, then."
-
-And the light step said, "The fifth."
-
----
-
-They went out.
-
-He stayed on his knees for a while after the bolt, because he had not been
-told to do anything else and because getting up is a decision.
-
-Then he sat back on the mat and had, for the first time in two years, a
-thing in his head that had not come out of his own hands.
-
-*The fifth.*
+"Then you're not doing anything with them," said Hōki, and went down the
+ladder, and that was the last he said about it for nine days.
 
 ---
 
-He did not know what the fifth meant.
+He knew what he was doing by the second morning and he did not tell
+anybody, because it was not the pipeline.
 
-That is a true sentence and it should be first, because everything after
-it is built on it. He did not know what the fifth was the fifth of. He
-knew the word *fifth* and he knew it was a counting word and he knew, from
-the way the two of them had said it, that it was a day, because you do not
-say *the fifth* like that about anything else.
+He was not looking at the jobs. He had thought he was going to look at the
+jobs — where they sent him, what for, what the pattern was — and he had
+got about two hours into that and had put it down, because there was
+nothing in it he could reach and because a much worse question had turned
+up underneath.
 
-He did not know what month it was. He had never known what month it was.
-He had a bowl count that ran to something over two thousand and a second
-count that had started in the sixth month of something and a third one
-that had started eleven days after that, and none of the three had ever
-been attached to a name.
-
-So *the fifth* was a day, and it was a day with something on it, and it
-was not a day he could find.
-
-*I cannot count to it.*
-
-*I do not know where it is from here.*
+*Where have I been seen.*
 
 ---
 
-He turned that over for about an hour and got something out of it that he
-had not expected, and the thing he got out of it was that he did not need
-to find it.
+It took nine days and the length of it was the finding.
 
-*If I cannot count to it, then it is going to arrive on its own.*
+He did it properly, because there was no other way he did anything: a
+sheet for every place, and on the sheet the date, and under the date every
+person in that place who had looked at his face for long enough to
+describe it afterwards, and beside each person what they would be able to
+say.
 
-*And it is going to arrive.*
+*Not what they know. What they could say to a man with a book.*
 
-He sat with that.
+Shioiri went on first and Shioiri was the worst one and he had known that
+before he started. Everybody in Shioiri could describe him. He had been
+born there.
 
-That was the part. Not the fifth — the *going to arrive*. He went at it
-four or five ways looking for the thing that would take it off him and
-there was not one, because he had not been told it and had not asked for
-it and could not have been lied to about it, since neither of them had
-been talking to him at all.
+Then Ōura, which was three days in the seventh month and a woman at a
+gate.
 
-**Two people had stood in his room and said a thing about a day, and the
-day was going to happen whether he found it or not, and that meant
-somebody, somewhere, had written it down.**
+Then the Kanaya, which was the tin, which was his mother's account and
+his own hand on it for a year and a half.
 
-*Somebody has decided something.*
+Sunaba was three entries and he sat with it a while: Ide, who had let him
+sleep in a loft; Nunome, who had not; and a staffing return in an office
+with his description on it in somebody's writing, which he had watched
+being written.
 
----
+Nezu was Kihara, and a market, and about forty people in a market who
+would not remember him and four who might.
 
-He had worked out in the eleventh month, off a bowl, that nobody had
-decided anything about him in two years, and he had spent a long time
-after that not being able to want anything, which he had no word for and
-which had been the worst stretch of the whole two years.
+Sakabe.
 
-And here was a date.
+Fukae was four: a woman on the middle street who had given him water, an
+innkeeper's wife, and two carters, and the two carters were the bad ones
+because carters go somewhere.
 
-*It is not for me. It is not about me being — it is about the crates and
-the road and the horse.*
+Hanase was Torii and a keeper.
 
-*And it has got me in it. It has got to have got me in it, because the
-only thing in this room is me.*
-
-He put his hands together.
-
----
-
-The relief came up about four minutes later and he had no defence against
-it and would not have known what a defence was.
-
-It was not small. It went through the whole of him and it took the ache
-out of his back and it made him want to stand up, and he did stand up,
-and stood in the dark with his hands at his sides, which he had not done
-in months.
-
-*Something is going to happen on the fifth.*
-
-He said it in his head about eleven times.
-
-He had no idea what a sale was. He had heard the word perhaps twice and it
-had gone past him with the weather. What he had instead was two years of
-a room and a bowl that was always the same amount and a door with a bolt
-on the outside, and the discovery that all three of those were what
-happens when nobody has thought about you.
-
-And now somebody had.
-
-**He was twelve years old and the best news of his life was that he had
-been entered on a list.**
+Iwae. Nunobiki. Ōtoma, where he was sitting.
 
 ---
 
-He started counting again the same hour.
+*Eleven.*
 
-He had stopped the second count on purpose at nine and had known exactly
-why he was stopping it: because a count you cannot finish is a thing that
-does you damage every time you touch it, and he had worked that out at ten
-and had been proud of it in the way a person is proud of a thing that has
-cost them something.
+He counted them twice and then a third time on his fingers, and then sat
+on the loft floor and looked at eleven pieces of paper laid out in a row
+with his coat over his knees.
 
-He started it again anyway.
+He had thought it was four.
 
-*One.*
+That was the thing he had to sit with. If somebody had stopped him on the
+twentieth and asked, he would have said four — Shioiri, and the Kanaya,
+and Fukae because of the room, and Ōtoma because he was in it — and he
+would have given the answer confidently, and he had been out by seven.
 
-*And I do not know what it is one of, and I do not know how many there
-are, and it does not matter, because it is not my number.*
+*I have been keeping a file on them since the eighth month.*
 
-*It is theirs. I am just counting along it.*
+*Two lines. I have got two lines on them.*
+
+*They have got eleven towns on me and I did not know how many there were
+until Thursday.*
 
 ---
 
-He did the two things he did every night before he lay down.
+He tried to take one off on the twenty-sixth and could not, and that was
+where it turned from a list into a rule.
 
-He felt along the back of the left hand for the fourth one, which had been
-coming for a long time now and which had a place near the top where it
-changed, and which was going to be shorter than the third, and he had
-known that for about a fortnight and had gone on measuring it anyway
-because the measuring was the experiment and the experiment did not care
-what he wanted.
+Ōura should have come off. Ōura was three days, four months ago, one
+woman at a gate, and he had been under a hat and it had been raining and
+she had spoken to him for about eleven seconds.
 
-And he ate the bowl, turning it so the piece on the right hand would not
-catch on the rim.
+He put his thumb on the sheet to move it to the other pile and stopped.
 
-Then he lay down on the mat in the dark under a bolt he had never seen.
+*What has to be true for this to come off?*
 
-*The fifth.*
+*She has to have forgotten. And I do not know whether she has forgotten
+and I have no way of finding out and I never will.*
 
-*Two.*
+*And even if she has — she has not forgotten in a way I can rely on,
+because a woman who cannot bring your face to mind on a Tuesday can bring
+it to mind on a Thursday when a man in a mask says the word Shioiri to
+her.*
+
+He took his thumb off the sheet.
+
+> **A description does not expire.**
+
+He wrote that at the top of the first sheet with the pen he had to hold
+badly, and then wrote the rest of it underneath, because the rest of it
+was the part that had teeth.
+
+*I can take a town off this list when the last person in it dies.*
+
+*That is the only way one comes off.*
+
+---
+
+He had a bad afternoon after that and it did not look like a bad
+afternoon from outside.
+
+What it looked like was a boy sitting on a loft floor going through a box
+of paper very slowly. What it was, was the first time in five months that
+the shape of the thing had been in front of him as an object instead of as
+a feeling.
+
+*In the fourth month there was nowhere I could not go.*
+
+*It is the tenth month and there are eleven places I cannot go and I have
+made every single one of them myself by being in it.*
+
+*And I am going to make more, because the way I eat is by going places.*
+
+He turned that over four or five times looking for the bottom of it.
+
+*So it is not that they are coming for me. That is the thing I have had
+wrong for five months.*
+
+*It is that the size of the country goes down.*
+
+**And every job he took made the country smaller, and there was no version
+of it in which he did not take jobs.**
+
+---
+
+He put the whole thing on one page on the twenty-eighth, because a thing
+that will not go on one page is not a thing you will look at again.
+
+Eleven places, with dates. Under each one, the number of people. Under
+that, the ones who could put a name to the description, which was three
+places, and the ones who could put a name and a family to it, which was
+one.
+
+At the bottom, in the corner, the two lines of the hunter file, which had
+been two lines since the eighth month and which he now found almost funny
+to look at.
+
+*Two lines. And a page.*
+
+*They are writing faster than I am.*
+
+---
+
+Fuda's docket went through his hands on the twenty-ninth and he read it
+and filed it and did not think about it again for two years.
+
+It was in the wrong bundle. It was one of the four that were somebody
+else's, and it was short, and it was in the standard hand, and it said what
+they all said.
+
+> *12th. Fukae. The Kiribata, front room, before noon. One. No return
+> required.*
+
+He read it because he read everything. He noted the date and the place and
+thought, correctly, *that is the week I was in Fukae, and I did not see
+anybody*, and put it on the Fukae sheet under a heading he had made for
+sheets that mentioned a town he was in, and went on to the next one.
+
+There were nine sheets under that heading by the end of the afternoon.
+
+*No return required* was on six of them. He had seen it forty times. It
+meant the client did not want the goods back and it was on half the paper
+in the country.
+
+He wrote *Fukae — 12th — not mine* in the margin and moved on.
+
+---
+
+He gave the box back on the thirtieth and Hōki asked him what he had got
+out of it.
+
+"Eleven towns."
+
+"Eleven towns what?"
+
+"Eleven towns where somebody alive could describe me."
+
+Hōki took the box off him and stood there holding it, and then put it down
+on the boards and did not pick it up again for a while.
+
+"How old are you?"
+
+"Ten."
+
+"Right," said Hōki.
+
+He went down the ladder. Halfway down he stopped, with his head still
+above the boards, and said the other thing, which Tadayoshi wrote down
+that night word for word because he could not tell yet whether it was
+useful.
+
+"Most of them work out it's a list. Takes them about four years."
+
+"And then what?"
+
+"And then they stop counting," said Hōki, and went down.

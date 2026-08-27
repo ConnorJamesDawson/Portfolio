@@ -1,228 +1,223 @@
-# Chapter 11, Scene 5 — A Hand He Had Seen
+# Chapter 11, Scene 5 — Nobody Saw It
 
-*Act 1, month 12, the eighth. Ōtoma. Tadayoshi Ruri, age ten. POV:
-Tadayoshi. ~1,520 words.*
-
----
-
-It came the way he had said it would come, which gave him no satisfaction
-at all.
-
-Ōtsuka put it on the boards at about eight in the morning of the eighth
-and did not sit down, which was the first thing, and said, "Nine days
-out," which was the second, and left.
-
-Tadayoshi read it four times before he touched it.
-
-> *Kadono-dera. Four days NE of Ōgi. Two crates, sealed, weights on the
-> receipt. Collect and return. No return required.*
+*Act 1, month 10, the fourteenth to the twenty-fifth. The Kadono-dera.
+Nozaki Uzuki, age ten. POV: Uzuki. ~1,500 words.*
 
 ---
 
-The last line was on half the paper in the country and he did not stop on
-it.
+They were good weeks and she was not going to pretend otherwise
+afterwards, and she never did.
 
-What he stopped on was the hand.
+There were four things that wanted doing at the Kadono-dera in the tenth
+month and she did all four of them better than anybody there, and the
+reason was not that she was clever about them. It was that she was ten and
+had two working arms and did not stop, and every single other person in
+that building was a man over forty who had been carrying water up the same
+slope for nineteen years and had arrived at a pace.
 
-He knew the hand. He did not know whose it was and he could not place it
-and he sat on the boards for eleven minutes going at it from four
-directions, which was eleven minutes longer than he had ever spent on
-handwriting in his life.
+Water, first. Two buckets from the tank below the hall to the kitchen and
+the hall and the long building, about forty feet of climb, and the tank
+filled off the run and the run wanted clearing about every third day.
 
-*I have seen this. The r is the thing. The r comes off the top and goes
-down past the line and it does that every time and it is doing it here
-four times out of four.*
+The ground, second, which was Tokuji's and which he let her into by
+degrees.
 
-*It is not Ōtsuka. It is not the standard hand. It is not one of the four
-I know off the eastern sheets.*
+The floors, which nobody liked.
 
-*It is somebody I have read and not met, or somebody I have met and only
-read once.*
-
-He went through the box in his head, which was sixty-odd sheets, and could
-not get it, and then went and asked for the box and was told no, and the
-no came in a tone that told him not to ask twice.
-
-So he wrote it as it was.
-
-*8/12. Docket in a hand I have seen. Cannot place it. Have asked for the
-box and been refused, which is itself new.*
-
-**And under that, ruled off: *I do not know why I cannot have the box.***
+And the wood.
 
 ---
 
-Then he did the arithmetic on the job itself and the arithmetic was where
-it went wrong.
+By the eighteenth she had the water down from eleven trips to eight,
+because she had worked out that the reason it was eleven was that the
+buckets went up half-full, and the reason they went up half-full was the
+step at the turn, and the reason the step at the turn was a problem was
+that it was worn hollow in the middle and everybody had been going up the
+middle for nineteen years.
 
-Four days north-east of Ōgi. Ōgi was five days from Ōtoma if you did not
-mind Nunobiki and six if you did. Two crates and no team and no second
-carry, which meant one man for two crates on the way back, and the crates
-were sealed, which meant he could not repack them.
+She went up the outside of it. Full buckets, eight trips.
 
-Nine days out, on a docket that was nine days of walking one way.
+She told Tokuji about it because she could not not tell people things, and
+he looked at the step for a while, and then at her, and said, "How long
+did that take you?"
 
-*So it is nine days out and nine days back and it says nine days.*
+"Four days."
 
-He read it again to be sure he had it right, and he had it right, and it
-was not a mistake. Nobody writes eighteen days as nine by accident on a
-form.
+"Right," he said, and went back to the beds.
 
-*It says nine because nine is what it costs them. It is not a number about
-the road. It is a number about what they are willing to have this be.*
+She was very pleased about that for the rest of the afternoon and could
+not have said why, and worked it out that night on the mat, and did not
+like the answer.
 
-He turned it over.
+*Because somebody wanted a thing I can do.*
 
-*So the two crates come back in eighteen days or they do not, and either
-way I am four days north-east of Ōgi in the twelfth month, which is about
-as far from this yard as a person can be in this country.*
-
----
-
-He went and found Ōtsuka in the yard at eleven in the morning.
-
-He had thought about it for three hours and had decided against it twice,
-and had gone anyway, and he was aware while he was walking across the yard
-that this was the eighteenth of the eleventh month happening again and
-that he had written a page about the eighteenth of the eleventh month and
-had drawn a line under it.
-
-There were two other people in the yard.
-
-"The dating on this is wrong," he said.
-
-"Is it."
-
-"It's four days north-east of Ōgi and Ōgi is five from here, and that's
-nine one way. The docket says nine days out. That's not a tight number,
-it's the wrong number, and if I sign it I'm signing for a thing that
-cannot be done."
-
-"Then don't sign it."
+*That has not happened since the fourth month.*
 
 ---
 
-He should have stopped there. He knew it while it was happening, which was
-new, and he did not stop.
+The wood was hers by the twentieth and it was hers by default, which is
+how everything is allocated in a place where nobody is in charge of
+allocation.
 
-"I'm not asking to not go. I'm saying the sheet is wrong and it will go in
-the file as nine days, and in nine days somebody is going to look at the
-file and see a job that is late that was never on time, and that is going
-to be the second thing about me in that file this month."
+There were two stands of it below the road and the cut stuff came up on a
+sled, and it wanted splitting and it wanted stacking under the eave of the
+long building before the twelfth month, and the reason it had not been
+done was that of the eleven men, four had backs and two had hands and the
+rest had other things they were doing.
 
-He heard his own voice do a thing on *second thing* and could not take it
-back.
+She could not split much. She was ten and it was a full axe.
 
-Ōtsuka looked at him for about four seconds.
-
-"You want it changed to eighteen."
-
-"I want it changed to what it is."
-
-"Right," said Ōtsuka, and took the docket off him, and wrote on it, and
-gave it back.
-
-It said eighteen.
+She could stack, and she could carry, and she could sort what wanted
+splitting from what did not, which nobody had ever bothered to do, and by
+the twenty-fifth there were four ranks under the eave where there had been
+one, and she knew to about a day how long each of them would be dry.
 
 ---
 
-Tadayoshi looked at it and it was worse and he could not have said why for
-a day and a half.
+The other thing happened on the seventeenth and she did not plan it and it
+frightened her when it was over.
 
-He got it on the road, on the tenth, coming up out of the Nunobiki detour
-with the light going.
+Tokuji had a hip.
 
-*He changed it in the yard in front of two people, in about six seconds,
-without arguing.*
+She had known it since the first afternoon, because it was the sort of
+thing she could not stop seeing: it was the left one, and it was not the
+hip, and she had been watching him get up off the beds for four days
+before she understood what she was looking at.
 
-*Which means he did not care what the number was.*
+*It is not the joint. He goes down onto it fine. It is coming up.*
 
-*Which means the number was not the point of the docket.*
+*And it is not the leg either, because the leg is doing what it is told.*
 
-He stopped in the road.
+*It is the back, on the left, low, and the hip is where he feels it, and
+he thinks it is the hip, and he has thought it is the hip for years,
+because that is where it hurts.*
 
-*I made him change a number that did not matter, in front of two people,
-by telling him his sheet was wrong.*
+She sat with that for three days and did not say anything, because she had
+learned in the eighth month what happens when you tell people true things
+about their bodies that they did not ask for.
 
-*And he did it, immediately, because the fastest way to make a boy who is
-correct go away is to give him the thing he is correct about.*
+Then on the seventeenth he came off the beds badly and had to put a hand
+on the stone wall and stand there, and she was four feet away with a
+basket, and she said it.
 
-**And now the file says a boy who came back alone argued about paperwork
-in a yard, and it says it in Ōtsuka's hand, and I put it there.**
-
-He stood in the road with nothing on his back at all and worked out that
-he had done the exact same thing twice in three weeks, in the same yard,
-to the same man, having written a page about it in between.
-
-*So knowing it is not enough.*
-
-*Knowing it is not a method. I have known it for a fortnight and I did it
-again on the eighth.*
-
-He wrote that down that night and did not soften it either.
+"It isn't your hip."
 
 ---
 
-He packed on the evening of the eighth and it took an hour and a half and
-he was very calm about all of it.
+He did not turn round.
 
-The blade went on the hip, where it had been since the fourteenth of the
-tenth month, and it had never been out in front of anybody. He had drawn
-it eleven times, alone, to see whether it was still what it had been, and
-it always was, and it still did not ring.
+"Isn't it," he said.
 
-The roll of throwables went inside the coat, and he made up the two that
-had gone soft and dated them the eighth, so it was eleven again. **Eleven,
-and he had thrown none of them at anybody, ever.**
+"No. It's your back. Low, on the left. Your hip is where it comes out."
 
-The half seals he could not pack, and thought about that.
+"And how would you know that?"
 
-*Two hundred and nine goes and a hundred and forty-one held and one in
-twenty-seven puts material in the hand, and I have never once done it in
-front of a person who was trying to kill me.*
+"Because I've been watching you get up for four days and your hip does
+everything else it's supposed to."
 
-*I have had it since the twentieth of the tenth month. That is forty-nine
-days.*
+He straightened the rest of the way and turned round and looked at her
+properly for about the second time since she had arrived.
 
-He sat on the boards with the pack done and the coat on the nail and did
-the sum he had been avoiding for a fortnight.
+"Can you do anything about it?"
 
-*I have a capability I have not used, a weapon I have not drawn, and
-eleven articles I have not thrown.*
+"Yes."
 
-*And the doctrine says that is correct. Every new thing is worth one
-fight, and after that it is on a sheet, so you spend it when it buys the
-most, and it has not bought the most yet.*
-
-*And the doctrine is right.*
-
-Then he wrote the other half, because he had promised himself in the tenth
-month that when he found the hole in it he would put the hole in the same
-book.
-
-***And on the third of the twelfth month I spent something. I do not know
-what I spent. There is a piece of it in my coat.***
-
-*So the hoard is not a hoard. The hoard is what is left over after
-whatever that was helps itself.*
+"Right, then."
 
 ---
 
-He went at first light on the ninth with an empty pack and a docket in a
-hand he could not place, nine days of road on a sheet that now said
-eighteen, and every single thing he owned unspent.
+She did it that night, in the dark, in the store at the end of the long
+building, on the condition she named before she started, which she had
+thought about all afternoon and which she gave him flat, like a price.
 
-Hōki was in the yard and did not say anything about the job at all.
-
-What he said, as Tadayoshi went past, was:
-
-"That thing you brought back off the bank. In your coat."
-
-Tadayoshi stopped.
-
-"Don't show it to anybody."
+"Nobody knows."
 
 "Why?"
 
-"Because I don't know what it is," said Hōki, "and neither do you, and
-you're the only one of us that's got one."
+"Because that's the condition."
+
+He looked at her for a while in the dark, and she could not read what was
+in it and never did.
+
+"Nobody knows," he said.
+
+---
+
+It took twenty-five minutes and she was worse at it than she had been.
+
+That was the finding and she made herself have it while she was doing it,
+which was against the rule, and she knew it was against the rule.
+
+*Little, stop, wait. And I have not done this since the twenty-sixth of the
+eighth month.*
+
+*So the going is fine. The going was always fine. It is the stopping that
+has gone off — I am trailing off instead of stopping, about one in six,
+and trailing off is not stopping.*
+
+*And at about sixty I am going to want to push, and I am going to push,
+and I know that about myself now, so the thing to do is count.*
+
+She counted. She got to ninety and came off, and sat back on her heels in
+the dark and waited the forty seconds, and only then let herself have an
+opinion about how it had gone.
+
+*Because you cannot tell during.*
+
+---
+
+She did it once more, on the twenty-second, and it was better than the
+first one.
+
+And that was the whole of it, and it was the largest thing about her, and
+nobody in that building ever knew it happened.
+
+She thought about that on the twenty-fourth, stacking wood under the eave
+in the last of the light, and it arrived whole and she did not have to
+work at it.
+
+*They know what I am worth up here.*
+
+*Eight trips instead of eleven. Four ranks under the eave. Six hours of
+floors. I have made all of that visible on purpose and they have all seen
+it and it is why I get the bowl and I am not sorry about any of it.*
+
+*And the thing I did in the store is worth more than every single bit of
+that put together, and nobody has seen it, and nobody is going to.*
+
+She put the last of the rank up and squared the end of it with her palm.
+
+*And that is not an accident. I did that. I made the condition and he kept
+it.*
+
+---
+
+She did not have a word for why and she had a reason, and it was not the
+reason she would have given if anybody had asked.
+
+The reason she would have given was *because it is mine.*
+
+The reason underneath it, which she got to on the mat that night with the
+sacking in her hand and could not put on the sacking because there was no
+column for it, was older than the Kadono-dera and older than the road.
+
+**Everything about her that anybody had ever been able to see had been
+turned into a number by somebody else.**
+
+*The hair. My father had a thing about me that he could see and he dyed it
+every two months for six years and would not say why, and then he was
+dead, and then it was the debt, and then it was the house, and then Kuriya
+was in our kitchen putting a figure on the pans.*
+
+*And Shimoda stood in a yard and said what a mule was worth, item by item,
+fairly, out loud, in front of me, while I held the halter.*
+
+*So the things they can see get priced. Every time. That is not a fear, it
+is a list, and I have got the list.*
+
+She lay down on the mat, in the room with ten empty mats in it, with four
+days left before the rain.
+
+*So they can price the water and the wood.*
+
+*They are not having the hands.*

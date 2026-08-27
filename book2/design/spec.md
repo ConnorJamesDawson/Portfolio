@@ -33,7 +33,7 @@ Author-supplied material is marked AUTHOR. Anything marked PROPOSED is mine
 and is not canon until ruled on. Nothing here is settled unless it says
 FIXED.
 
-**Three classes, not two — added after the ch10 sweep.** The convention
+**Three classes, not two — added after the ch11 sweep.** The convention
 above was written for this file and then lapsed in every file made after
 it, which is how three invented rules reached `falsified.md` in one week.
 It applies everywhere, and it needs a third class, because most of what

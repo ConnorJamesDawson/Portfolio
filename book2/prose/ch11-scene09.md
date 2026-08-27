@@ -1,268 +1,240 @@
-# Chapter 11, Scene 9 — Nine Minutes Of Work
+# Chapter 11, Scene 9 — Nobody Decided It
 
-*Act 1, month 12, the sixteenth. The Kadono-dera. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,770 words.*
-
----
-
-He came up the road onto it at about eleven in the morning and the first
-thing he did was read the ground, and the ground said nothing at all.
-
-A hall. A long low building along the north side with a step and shutters
-and a good deal of noise in it for the middle of the day. About a third of
-an acre of beds cut into the slope in terraces with stacked stone holding
-each one up, which was good work and old. A bell on a frame under its own
-little roof.
-
-*Eleven men. Twelve. Somebody in the hall and somebody behind it.*
-
-*And nine or ten in the long building who are not men.*
-
-He put that down and did not do anything with it, because a working temple
-in the twelfth month is a temple with winter people in it and that is what
-they are for.
+*Act 1, month 11, the third to the twenty-second. Ōtoma and the Nezu road.
+Tadayoshi Ruri, age ten. POV: Tadayoshi. ~1,620 words.*
 
 ---
 
-The man on the beds saw him first and was about sixty and had a bad hip
-and forearms the colour of the ground.
+The splint came off on the third of the eleventh month and the hand under
+it was not his hand.
 
-"Have you eaten?"
+He had known that it would not be. Hōki had told him on a bank above Aku
+on the eighteenth of the ninth month, holding the wrist, in the flat voice
+he used for the things that were true: *six weeks of it being no good and
+about a year of a thing across the back of it that tells you when it's
+going to rain.*
 
-Tadayoshi had been asked that perhaps four times in his life by somebody
-who was not related to him and he did not have a procedure for it.
+So he had six weeks of expecting it and it arrived anyway.
 
-"I'm here for two crates."
+*It does not close all the way. It closes to about there and then it does
+not.*
 
-"That's not what I asked you."
-
-So he ate, on the step, out of a bowl, sitting down, at about a quarter
-past eleven in the morning on the sixteenth of the twelfth month, and it
-was millet with something green in it, and the man went back to the beds
-and did not talk to him while he did it.
-
-*He did not ask my name.*
-
-*He did not ask where I have come from and he did not look at the pack and
-he has not once looked at my hands.*
-
-He put that down as well and could not decide which column it went in.
+*And it is slow. It is not weak. It is slow, which is worse, because I can
+make a weak hand do a thing twice.*
 
 ---
 
-Enkai came out at about noon and had a book, and everything about the next
-nine minutes was correct.
+He did the four seals in the loft on the night of the third, on his own,
+with the door shut, and did not tell anybody he was going to.
 
-The crates were on the step at the north end and they were sealed and they
-were roped and they had a weight chalked on each end.
+He got a dud.
 
-The paper had the weights on it and a receipt under the weights and a
-place for a mark.
+He got a second dud.
 
-"You'll want to check them," said Enkai.
+The third one came apart between Boar and Ox, which was not a failure of
+the seal at all but a failure of the hand to be where the seal needed it,
+and he had to stop and breathe and start again.
 
-"Yes."
+The fourth one formed.
 
-"Go on, then."
+He sat back against the wall and looked at what he had made, which was
+about eight inches of nothing in particular on the boards, and did the
+entry in his head before he did anything else.
 
----
+*Four goes. Two duds, one hand.*
 
-He checked them.
+*It was one and a half goes in the eighth month. It has been one and a
+half goes since the sixth month.*
 
-He did it the way he did everything, which was thoroughly and in an order,
-and it took him nine minutes, and every single thing in those nine minutes
-was right.
-
-The seals were intact and were the same seal on both. The rope was
-right-handed on both and finished the same way, which meant one person had
-done both, which meant they had been done at the same time and not stored
-separately. The weight chalked on the near end matched the weight chalked
-on the far end. The weights on the paper matched the weights on the
-crates.
-
-He lifted the near one about four inches off the step to see whether the
-weight was where the weight said it was, and it was, and it moved the way
-a thing packed tight moves and not the way a thing packed loose moves.
-
-"Satisfied?"
-
-"Yes."
-
-He made his mark, and Enkai wrote the date beside it, and folded the
-receipt and gave him half of it, and that was the job.
+He did not go and tell Hōki. He did not go and tell anybody, and he was
+not sure afterwards why, and he wrote down that he was not sure, which was
+the closest he came at ten to knowing something about himself.
 
 ---
 
-"There's a bed if you want it," said Enkai. "It's four days back to Ōgi
-and you'll not make anything of today."
+The work did not change back.
 
-*He is right about that.*
+That was the thing, and it took him twelve days to see it, and when he did
+see it, it was not because anybody had said anything. It was because he
+was on the Nezu road with a crate on his back for the fourth time in
+eleven days and worked out, walking, that he had not held a seal for
+anybody in seven weeks.
 
-It was five past twelve. Four days back to Ōgi with two crates was four
-and a half days, and he could do about four miles before the light went,
-and four miles would put him on a road above a valley with two crates and
-nowhere.
+He stopped in the road.
 
-*And I have not slept indoors since the eighth.*
+*I could not seal, so they gave me the thing a boy who cannot seal can do.
+That is correct. That is what I would have done.*
 
-"Thank you," he said.
+*And the hand came back on the third.*
 
----
-
-This is the part that has to be said plainly, because it is the part he
-went over for the rest of his life.
-
-**He was going to leave.**
-
-Not in the morning — he was going to take the bed and go at first light,
-and the two crates were going to go down the mountain on his back on the
-seventeenth, and he was going to be in Ōgi on the twentieth and in Ōtoma
-before the year turned, and nothing was going to happen at the Kadono-dera
-at all.
-
-He sat on the step in the afternoon with the receipt in his coat and did
-nothing for about two hours, which was the first two hours in a fortnight
-where there was nothing on him.
-
-The bell went at three.
-
-He watched the man with the hip do the beds and worked out that the terrace
-walls had been rebuilt twice in different centuries and that whoever did
-the second one had been better at it.
-
-And at about four o'clock he got the receipt out to put the date on his
-own half, because he dated everything, and looked at the weights, and did
-not put it away again.
+*And nobody has revisited it.*
 
 ---
 
-*Four hundred and eleven and four hundred and six.*
+He looked for the decision for two days, because his instinct with any
+outcome was to go and find the moment it was made.
 
-He read them twice.
+There was no moment.
 
-*That is eight hundred and seventeen pounds.*
+He worked out the shape of it on the fifteenth, sitting on the crate
+waiting for a boat that was not coming until the morning, and it was one
+of the four or five genuinely useful things he understood before he was
+eleven.
 
-He sat with that for about a minute and could not have told anybody what
-was wrong with it, because nothing was wrong with it. It was two crates
-and they weighed what they weighed and the paper said so and the chalk
-said so and he had lifted one.
+**Nobody had decided it. There was no decision anywhere. There was a
+Tuesday in the ninth month when a boy came back with a broken hand, and
+somebody had a thing that wanted carrying, and after that nothing ever
+happened again.**
 
-*Eight hundred and seventeen pounds.*
+*Things do not get undecided. They get decided once by accident and then
+they are what there is.*
 
-*Four days to Ōgi. Nine days to Ōtoma.*
-
-*One man.*
-
----
-
-He did it properly then, on the step, with the light going, because he
-could not not.
-
-*A man carries about eighty pounds on a road and does eleven miles with
-it. I have done a hundred with a bad hand for four miles and it cost me
-two days.*
-
-*Eight hundred and seventeen pounds is ten loads.*
-
-*Ten loads over nine days is ninety days of walking, or it is nine men, or
-it is a cart, and there is no cart on this mountain because I came up the
-road and it is not a cart road and there are stone steps at the turn.*
-
-He stopped.
-
-*So the docket is not wrong about the days. The docket is wrong about the
-job.*
-
-**Somebody wrote *collect and return* on a sheet for a thing that one man
-cannot collect and cannot return, and then sent one man.**
+*And there is nobody to argue with, because the person who decided it did
+not decide it.*
 
 ---
 
-He went round it four times looking for the version where it was
-incompetence, because incompetence was overwhelmingly the most likely
-thing and he knew that and had known it since the sixth month.
+He said so on the eighteenth.
 
-*Somebody put the weights on the wrong sheet.* — But the chalk matched.
-Two people would have had to make the same error in two media.
+He said it in the yard behind the cooperage at about six in the evening,
+to a man called Ōtsuka who was not Hōki and who ran the sheets for four
+people, and he said it correctly and completely, which was the problem.
 
-*The crates are wrong and it is a different consignment.* — But the seals
-were the same seal and the rope was one person's work.
+He said that he had been on freight since the third week of the ninth
+month; that the reason had been the hand; that the hand had come back on
+the third; that the allocation had not been looked at since; that he was
+the only person on the roster whose category had not been reviewed in
+seven weeks; and that he was not complaining about the work but was
+pointing out that a roster which cannot be revised is a roster that will
+be wrong about somebody, and that it currently was.
 
-*They know I will do three trips and the eighteen days is for that.* —
-Eighteen days is not three trips. Three trips is fifty-four days and I
-made him change nine to eighteen in a yard on the eighth and he wrote it
-without looking at it.
+He was entirely right about every part of it.
 
-He put his hands on his knees.
-
-*Ōtsuka changed the number in six seconds because the number was not the
-point of the docket.*
-
-*And I thought that meant the job was the point.*
+There were four people in the yard.
 
 ---
 
-He did not conclude anything.
+Ōtsuka heard the whole thing without interrupting, which Tadayoshi took at
+the time to be a good sign, and then said, "Right," and went in.
 
-That is exact and it matters: he did not, on the step, on the evening of
-the sixteenth, conclude that he had been sent somewhere to be somewhere
-else. He got as far as **the sheet describes a job that cannot be done and
-the sheet was written by somebody whose hand I have seen**, and he wrote
-that down, and under it he wrote the only operational thing available:
+Nothing happened for two days.
 
-*I am not carrying eight hundred pounds off a mountain, so tomorrow I have
-to have a conversation with the man who signed the receipt.*
+On the twentieth he was given a docket for a crate to Nezu, and on the
+twenty-second another one, and on the twenty-fourth he understood that the
+thing he had done in the yard had not changed anything about the roster
+and had changed something else, and that the something else was not
+retrievable.
 
-*And I would rather have it having looked at the building first.*
+He worked at it that night for about an hour and got most of the way to
+it.
 
----
+*It is not that I was wrong.*
 
-He went round it in the last of the light, and he did it the way Hōki had
-made him do it in the tenth month, which was ways out and not ways in.
+*It is not even that I said it to the wrong man, although I did.*
 
-Hall: two doors and a shuttered window on the west, and the window was not
-a way out for anybody over about nine.
+*It is that I said it where three other people could hear it, and now if
+he moves me off freight he has moved me off freight because a ten-year-old
+told him to, in his own yard, in front of his own people.*
 
-Long building: three doors, one at each end and one in the middle, and
-about nine or ten people in it, and the noise coming out of it was people
-who had been walking and had arrived.
+*So I have made it cost him something to do the thing I want.*
 
-Kitchen and store, behind, one door.
+*And I did that by being right, out loud, at that volume.*
 
-Wood store on the slope below, which was full, and stacked in four ranks
-under the eave in an order that had been thought about, which he noticed
-because it was better than it needed to be.
+He wrote it down.
 
-Bell frame. Beds. The tank, and the run.
+**I keep making the correct point at a volume that makes the correct point
+expensive.**
 
-And at the north end of the long building, outside, on the ground, four
-stone steps going down into the slope with a door at the bottom of them.
+He looked at that for a while and could not get any further, because he
+had no idea at all what to do about it and would not have for years.
 
 ---
 
-He stopped at the top of the steps.
+The other thing about the eleventh month was Kajiya, and there was nothing
+about it he could do at all.
 
-It was a root cellar. It was obviously a root cellar; it was under the
-north end of a long building on a mountain, and there was one at every
-farm he had ever passed, and the temple had a third of an acre of beds and
-had just brought the last of it up.
+Kajiya had brought him in. Kajiya had sat opposite him in a room in the
+sixth month and told him what he was for, and had come back four or five
+times in the seventh and the eighth, and had once given him a piece of
+information he had no business giving him and had not explained why.
 
-He counted the ways out for the sake of the count — *one* — and put it on
-the list.
+He had last seen him on the second of the eighth month.
 
-Then he stood there for about four seconds longer than the count needed,
-because there was a thing about it and he could not get at the thing, and
-he was tired, and it had been fourteen hours.
+That was three months and three weeks.
 
-*There is no earth on the steps.*
+---
 
-He looked at that.
+He did the only thing there was to do, which was to ask, and he was
+careful about it and it got him nothing.
 
-*It is the twelfth month and the root cellar is full because they brought
-it up in the tenth, and nobody has been down there since, and there is no
-earth on these steps and they are swept.*
+He asked Hōki once, in the way you ask a thing you are not asking: *does
+Kajiya still run the eastern sheets?* Hōki said, "Not for a while," and
+went on doing what he was doing.
 
-*Somebody goes up and down these four times a day.*
+He asked Ōtsuka once, badly, in the sixth week, and Ōtsuka said, "Who?"
+and he could not tell whether that was true.
 
-He went to the bed he had been offered, and lay on it, and did not sleep
-for a long time, and did not go back out.
+He did not ask a third time. He had learned in the eighth month what
+asking twice about a person looks like from the outside, and there is
+nobody in an organisation of that kind whose position improves by being
+the boy who asks about a man who is not there.
+
+So he had nothing.
+
+*He is dead, or he is somewhere else, or he has been stopped, or he was
+never called Kajiya.*
+
+*And there is no version of me finding out. Not this year. Possibly not
+ever.*
+
+*And I am not sad about it, and I have looked at that, and I am not.*
+
+*What I am is that there was one person in this whole thing who had told
+me what I was for, and there is now nobody, and I did not notice for
+eleven weeks.*
+
+---
+
+He did the entry on the twenty-second, on the Nezu road, sitting on a
+crate.
+
+He kept anomalies at the back, ruled off, with a date and a line for what
+would have to be true for them to close. There had been three that year.
+The first two had closed. The third had closed badly.
+
+*Anomaly, four.*
+
+*I am carrying, and I have been carrying since the ninth month, and the
+reason has gone away and the carrying has not.*
+
+*I cannot find out when it was decided because it was not decided.*
+
+*It will close when: —*
+
+He sat with the pen on the paper for a while.
+
+He had never once, in his life, left that line empty. That was the whole
+point of the line. An anomaly with nothing in the closing column was not
+an anomaly; it was a complaint, and he did not keep complaints.
+
+He wrote:
+
+*It will close when somebody looks at the roster.*
+
+Then he read it back, and drew a line through it, and wrote what he
+actually thought, which was the first entirely honest thing he had put in
+that book since the fifth month.
+
+***I do not expect this one to close.***
+
+---
+
+He put the book inside his coat and sat on the crate in the dark on the
+Nezu road with a hand that would not shut all the way and a thing across
+the back of it that had started aching at about four in the afternoon.
+
+It rained at about eight.
+
+He noted the time, and the hour it had started aching, and the gap, because
+if it was going to do that for a year he was going to get a number out of
+it.

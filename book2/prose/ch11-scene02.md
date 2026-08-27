@@ -1,278 +1,323 @@
-# Chapter 11, Scene 2 — What The Ground Said
+# Chapter 11, Scene 2 — Which Of These Four
 
-*Act 1, month 12, the third. Below Ide's mill. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,990 words.*
-
----
-
-He came back standing up, about forty yards east of the crate, facing the
-bank, with his hands down.
-
-The light had moved. That was the first thing and it was the thing he
-used, because it was the only instrument he had: the shadow of the bank
-had been on the road when he put the crate down and it was off the road
-now and about eleven feet up the far side.
-
-*Between two and three hours.*
-
-*Call it two and a half and write it as an estimate.*
-
-He stood there for a while and did not turn round, and he knew he was not
-turning round, and made himself do it.
+*Act 1, month 10, the first to the twentieth. A loft above a cooperage,
+Ōtoma. Tadayoshi Ruri, age ten. POV: Tadayoshi. ~2,340 words.*
 
 ---
 
-There were eight.
+He told Hōki on the second that he thought he was ill.
 
-He counted them twice from where he stood before he went near any of them,
-because a count you take twice from a distance is a count, and a count you
-take while walking about among things is a story.
+"You're not ill."
 
-Six on or near the road. One at the west edge. One up the bank on the
-east side, which was the one who had come out of the scrub, and he was
-about thirty feet from where he had been when he came out of it, which
-meant he had gone up the bank, which meant he had been going away.
+"I have got a headache in the afternoons and I am cold and I cannot keep
+hold of a thing for more than about ten minutes."
 
-*Six and two.*
+"You're not ill," said Hōki. "Walk to the end of the yard and come back
+and tell me what's changed since yesterday."
 
-He did the second count.
+He said it twice more in the first week, once to Hōki and once to nobody,
+sitting on the end of the boards with his right hand in a splint and both
+of them in his sleeves, and the second time he heard himself do it and put
+it down.
 
-*No. Six. And Ono. And Sada.*
+*I have said that three times.*
 
----
+*I have not got a fever and I am eating and I slept eight hours. So it is
+not being ill. It is being ill-shaped.*
 
-He did it properly and it took him four hours and he was not sick at any
-point, and he thought about that afterwards more than he thought about
-most of it.
-
-He started at the west edge and worked east because that was the order
-they had come in.
-
-Four of the six were his and he could say so without any difficulty at
-all, because they were in the two stands he had put in before anybody
-reached them, and the two stands were where he had put them, and the
-wounds went the way the stands go, which is upward and from the front.
-Two of those four were the ones he had done in the first four minutes.
-
-*So two of them were before.*
-
-*And two of them are in the same stands and I cannot say when, because a
-fence does not have a clock on it.*
-
-He wrote that down as it stood and did not soften it.
-
-The fifth was Ono's, from the tenth minute, and he had seen it happen.
-
-The sixth was on the road with his throat open and there was no crystal
-anywhere near him.
+He could not get any further with it than that, which was itself new. He
+had been able to name what was wrong with him since he was about six.
 
 ---
 
-Sada was in the middle stand.
+What Hōki did with him for six weeks was the most anybody had ever taught
+him and he could not enjoy a minute of it.
 
-He looked at that for a long time before he let himself think anything
-about it, and then he thought about it in order, because there was no
-other way through it.
+Walking, first: how to be on a road for eleven hours and arrive able to
+do something. He had thought he knew that. He had been doing it for five
+months. It turned out there were nine things he did wrong and four of
+them were about water.
 
-*The middle stand went in at about two minutes. I put it in. I put it in
-where I wanted it and not where I was, and it did what it was supposed to
-do, and it is exactly where I left it.*
+Ground, second, and that one he liked in the abstract and hated in the
+doing, because Hōki would stand him at the top of a lane and say *how many
+ways out* and he would say four and Hōki would say *seven* and then not
+tell him the other three until the next morning.
 
-*And I told him. I said middle, four paces off the crate, and he said
-right, and he came round the outside of it twice in the first six minutes
-because I watched him do it.*
+And third: sitting in a room with two of them while they talked a job
+through, and being asked what he would do, and answering, and having it
+taken apart in front of him by people who had done it forty times.
 
-*So he knew where it was. He knew where it was and he had gone round it
-twice and then he went into it.*
+*I have never once been in a room where somebody knew more than me about
+the thing being discussed.*
 
-He crouched down for a bit with his forearms on his knees.
+*I do not like it.*
 
-**Nobody goes into a fence they have been told about. They go into it when
-the thing behind them is worse than the fence.**
-
-*And I do not know what was behind him.*
-
-*I was here. I was standing about eleven feet from there and I do not know
-what was behind him and I never will, and there is nobody left to ask,
-because the only two people who were here are these two.*
+*And that is a stupid thing to not like and I am going to go on not liking
+it.*
 
 ---
 
-Ono had no crystal in him at all.
+On about the fourth he had one hand, no work, and nothing else to do, and
+so he asked the question.
 
-That was the fact and he had it inside a minute and spent the next hour
-and a half trying to make it mean one thing rather than the other, and it
-would not, and it never did.
+He had asked it once before in his life, at eight, about a copper frame
+that had been in the workshop since before his grandmother and that had
+eleven lines of instruction attached to it, and the question had been
+*which of these is doing work*, and the answer had been *not that one*,
+and the answer had been worth four hundred years of everybody else being
+wrong.
 
-He went over him twice. He went over the ground round him three times. He
-looked at the hands, which is the first thing, and at the forearms, which
-is the second, and at the front of the coat.
+He asked it about his own hands.
 
-*He was killed with hands.*
+*Ram. Boar. Ox. Snake.*
 
-*And there were six of them and four are mine and one is his and one is on
-the road with his throat open and no crystal near him.*
-
-He sat back on his heels in the road at about four in the afternoon on the
-third of the twelfth month and had it in front of him whole, and it was
-two sentences, and both of them fitted every single thing on that road.
-
-*One of the six killed Ono, and then I killed that one, and that is the
-man on the road with his throat open.*
-
-*Or I killed Ono, and then I killed the man on the road, and there is no
-difference on the ground between those two and there is not going to be.*
+*Which of these four is load-bearing?*
 
 ---
 
-He went through it four more times over the next two days looking for a
-discriminator and there was not one.
+He did not have an answer for eleven days and he did not expect one, and
+the reason it took eleven days was that he had been taught the four as a
+unit and had never once had cause to think of them as four things.
 
-He nearly had one, twice.
+They were not four steps of one thing. That was the whole of it and he got
+it on the eleventh day, sitting on the boards with his left hand in front
+of his face doing the shapes on their own like a person practising a word.
 
-The first was the order, and the order died because the order was the
-thing he was trying to establish and he could not use it to establish
-itself.
+*Two of these are about the shape and the place and how far off it is.*
 
-The second was better and he was pleased with it for about forty minutes.
+*And two of them are not about the shape at all.*
 
-*The stands I laid before are one course. One course is one note.*
+*Two of them are the second course.*
 
-*Anything I laid after — if I laid anything after — I do not know what it
-is, but I know it was not specified, because I do not specify anything
-when I am not there.*
+He sat very still for a while.
 
-*So if there is crystal on this road that does not ring, it went in after,
-and anything in it went in after, and I would know.*
+*A drop is laid in courses. One course is one note and it shatters. Two
+courses is the family grade and it is what the Kanaya buys, and I have
+known that since I was six because my mother told me at the tin.*
 
-He went and did it. He went round every piece of crystal on that road with
-the flat of his thumbnail and tapped it, one after another, in the
-afternoon, on his own, with eight people on the ground around him.
+*And the second course is specified in the seals. Not in the hands, not in
+the ground. In the seals.*
 
-Every stand on that road rang.
-
-*So there is nothing here from after.*
-
-*So either I did nothing after, or —*
-
-He stopped, because the second half of that sentence had a hole in it and
-he could feel the shape of the hole before he could see it.
-
-*Or I did something after and it is not on this road.*
+*And the two that specify it are the two that need the other hand.*
 
 ---
 
-He found it at about five, thirty-odd yards up the east bank, past the man
-who had gone up it, in the scrub, in a place he had no reason whatever to
-have been.
+**So one-handed work and one-course work were the same discovery, and he
+had not learned a technique. He had taken a sequence apart, exactly as he
+had taken the frame apart, and found the half of it that had never been
+about the shape at all.**
 
-It was about the size of a dog.
+He proved it in about a fortnight, which was slow, because he was doing it
+left-handed on ground he did not want to mark and stopping every time
+anybody came up the yard.
 
-It had come up out of the ground in a shape he had never made in his life
-and could not have made if he had tried: not a stand, not a fence, not
-plates and not points, but a thing with a base and a middle and eleven or
-twelve arms off it going up and out at angles that were nearly the same
-and were not the same, and it was seated into the ground the way a tree is
-seated and not the way a stand is seated.
-
-He walked round it once.
-
-*I did not lay that.*
-
-*I have never laid anything like that. There is nothing in the craft that
-looks like that. My mother has not made anything like that and Meno never
-did and there is nothing in the frame lines about anything like that.*
-
-*And there is nobody else here.*
+Then he spent eleven days counting.
 
 ---
 
-He put a hand on it and it was warm, which crystal is not, and it was
-warm at the base and not at the ends.
+*Two hundred and nine goes.*
 
-Then he did the only thing there was to do, which was the thing he had
-done to every piece of crystal on that road in the last hour and had been
-doing to pieces of crystal since he was five years old, and he did it
-almost absently, with his thumbnail, on the flat of one of the arms near
-the base.
+*Formed and held: a hundred and forty-one.*
+
+*Failed: sixty-eight.*
+
+That was about one in three, and he wrote it as one in three and then
+wrote *0.325* beside it because one in three was a thing you say and
+0.325 was a thing you could put next to another number later.
+
+Of the sixty-eight, sixty were nothing at all. The seal time went — the
+second and a quarter went, which in a fight is the whole of it — and there
+was nothing on the ground and no warning that there was going to be
+nothing.
+
+*A dud costs a second and a quarter and tells you afterwards.*
+
+The other eight did something.
+
+---
+
+He had known it was possible on about the third day of counting and had
+gone on counting anyway, because a thing you suspect and a thing you have
+eight of are different objects.
+
+What happened was that the specification came out ambiguous — half a
+statement about where — and a half-statement about where forms where the
+statement was made.
+
+Which was at the hand.
+
+The first time it happened he was on the boards on his own and it went
+through the web between the thumb and the first finger of his left hand
+and out the other side, and it was about an inch of it and it was thin and
+it was not the worst injury he had ever had and he sat with his back
+against the wall for eleven minutes before he did anything about it.
+
+*Eight in two hundred and nine.*
+
+*Eight in sixty-eight of the failures.*
+
+*So it is about one in twenty-six that puts material in the hand.*
+
+He did the division again on paper that night and made it one in
+twenty-seven, and took the worse of the two.
+
+> **The thing he had built to save his hands could take one.**
+
+---
+
+He did not tell anybody and he was not pleased about any of it.
+
+Somebody who did not know him would have expected pleasure. He had solved
+in six weeks the thing that had been the stated weakness of his craft
+since Aoyagi put it to him when he was eight, and he had done it with a
+broken hand and a splint and no instruction, and there was not one person
+alive who could have told him it was possible.
+
+What he had instead was two entries.
+
+*It costs a hand one time in twenty-seven and that number will come down
+and it will not reach nought.*
+
+*And it is one course. One course is one note. The cheaper the thing is
+the louder it is.*
+
+He turned that one over for a long time, because it was the worse of the
+two and it took him a while to see it whole.
+
+*Everything I have made for a year has been two courses because two
+courses is what my mother made and I have never had a reason to make
+anything else.*
+
+*Two courses does not sing. You have to work to find the fault in it.*
+
+*One course sings. It sings at anybody who knows to listen, and there is a
+man in Kiri whose whole job is knowing what to listen for, and I have just
+invented a way of making my own work audible to him.*
+
+---
+
+**Entered with numbers, because a bad capability with a number on it is
+worth more than a good one without.**
+
+And under it, on the same page, on the twentieth, the thing that turned
+the number into a policy:
+
+*I am not going to use it.*
+
+He had got there off a sentence Hōki had said to him on a bank above Aku
+on the eighteenth of the ninth month, when he was still bleeding from the
+hand, about a woman who had walked away.
+
+*Then there's four minutes of you on a sheet in Kiri by the end of the
+month, and it'll be right, because she was there.*
+
+He had thought it was about her. It was about the sheet.
+
+*I get better. They send better. So getting better at the thing they are
+already grading me on is a losing strategy, because the thing they are
+grading me on is the thing I keep doing.*
+
+*The only thing that is not on the sheet is a thing I have not done yet.*
+
+> ***So every new thing is worth one fight. After that it is on a sheet.***
+
+He read that back twice and did not change it.
+
+*Which means from now on I go into every fight with less than I have got.
+On purpose. Being worse than I could be, deliberately, every single time,
+and able to say exactly why.*
+
+He sat with that for a bit, because there was a second half to it and the
+second half did not have a number in it anywhere.
+
+*And I do not know how long that is for.*
+
+*It is not for a while. A while has an end on it. This is until something
+happens that I cannot see from here, and I have no way of working out what
+it would be, and I have been trying to work it out since the fourth
+month.*
+
+---
+
+The other two things came out of the same six weeks and were answers to
+the same question, which was *what can I do with one hand.*
+
+The blade first, on about the fourteenth.
+
+He made it a half-katana because a half-katana is a thing you use with one
+hand and because he could not have made a long one properly if he had
+wanted to. It was a bad piece of work. It was thick where it should have
+tapered and the tang was clumsy and he had laid it in one course because
+one course was all he had, and he had done it sitting on the floor of the
+loft with his left hand and his right in a splint on his knee.
+
+And he had wanted one thing while he did it, which he did not write down,
+because it was not a finding.
+
+*Everything I have ever had has stopped.*
+
+*The articles starve. The tin ran out. The hand broke. Five people were
+killed in a morning and there is a coat of mine on a nail in Hanase that I
+will never go back for.*
+
+*I want a thing that does not go when I do.*
+
+---
+
+He noticed on the twenty-sixth, which was six days later, that it had not
+gone.
+
+Everything he had ever made had a date on it. That was the craft: a closed
+article is fed at the moment of making and it lives off that and then it
+dies, and you write the date down, and you know within about a day when it
+will be dust.
+
+The blade was six days old and it had not moved. He put a hand on it in
+the dark and it was exactly what it had been.
+
+*That is wrong.*
+
+*That is six days off one course and one course is the shortest-dated
+thing there is.*
+
+He tapped it, on the flat, near the tang, which is what you do.
 
 It did not ring.
 
----
+He sat there in the dark with it across his knees and got no further,
+because there was nothing to get. It did not ring and it should have rung,
+and a one-course drop the size of his thumb sings loud enough to find in a
+sack, and this was a foot and a half of the same material and it made a
+sound like knocking on a beam.
 
-He took his hand off it and stood back about four feet.
+*The material is thicker than anything I have made. Thick things sound
+dead. That is probably it.*
 
-*It does not ring.*
-
-He did it again, harder, in a different place, and then on the base, and
-then on the thin part at the end of the nearest arm where anything one
-course thick would have gone off like a struck cup.
-
-Nothing. A dead knock, like knocking on a beam.
-
-*That is the second one.*
-
-He said that in his head with no feeling attached to it and then had to
-stand there while the feeling arrived about four seconds later.
-
-*That is the second thing I have made that does not ring, and the first
-one is on my hip, and I made that one on purpose, on the fourteenth of the
-tenth month, with one hand, wanting a thing that would not go when I did.*
-
-*And I wrote down that it was the thickness.*
-
-*And this has arms on it the thickness of my finger.*
+He wrote that down with a line under it, which was what he did with
+reasoning he was not happy with, and did not come back to it for a year.
 
 ---
 
-He sat down on the bank about a yard from it and stayed there until it
-started getting dark.
+The throwables came last and were the least interesting and changed his
+mornings for the rest of his life.
 
-He did not have a theory. That was the thing he could not get past. He had
-a shape of a theory, which was that whatever he had done to the blade he
-had done again here, and that both of them had happened in a state he
-could not describe — one of them wanting something very badly at midnight
-on a loft floor, and one of them here — and that he could not test either
-of them, because he could not get into the state on purpose and would not
-if he could.
+An article made yesterday needs no hand today. That was all it was. He
+made eleven of them over four days and put them in a roll of cloth with
+the date on each section, and worked out that he now had to look at them
+every morning, because they degraded before they died and a thing that has
+gone soft looks exactly like a thing that has not.
 
-So he did the only honest thing.
+So there was a ritual now, at the start of every day, six minutes long: out
+of the roll, along the row, the thumb up the taper on each one, and the
+dates checked against the day.
 
-He got the book out on the bank in the last of the light, with eight
-people on the road below him and a thing the size of a dog growing out of
-the ground beside him, and he wrote it as it was.
+He had never had a routine that was not somebody else's.
 
-*3/12. Below Ide's. Eight. Four mine before, two mine cannot say when, one
-Ono's, one unattributed.*
+*And what I am carrying on any given morning is a bet on what today is
+going to be.*
 
-*Ono: hands. Cannot resolve.*
+*And being wrong about the day is a thing that can kill me.*
 
-*Sada: middle stand, which he knew about and had gone round twice.*
-
-*On the bank: an article I did not lay, in a shape I do not know, seated
-like a tree. Warm at the base. Does not ring.*
-
-Then he stopped, because the last line was the one that mattered and it
-was not a finding.
-
-He wrote it anyway.
-
-***Did that stop me?***
-
-And he put a question mark on it, which he had never done in that book in
-his life, and looked at the question mark for a while in the dark, and did
-not take it off.
-
----
-
-He broke a piece off the end of one of the arms before he went down.
-
-It came away easily, more easily than it should have, and it was about the
-length of his thumb, and it did not ring either, and he put it in the
-inside of his coat with nothing round it because he had nothing to put
-round it and no word for what it was.
-
-Then he went down onto the road and started on the part he had been not
-doing for four hours, which was Ono and Sada, and did that until it was
-too dark to do it, and slept about eleven feet from the crate, which was
-still where he had put it.
+He put the roll inside his coat and went down to the yard, where Hōki was
+waiting to make him say how many ways out of a lane there were, and got it
+wrong again, by two.

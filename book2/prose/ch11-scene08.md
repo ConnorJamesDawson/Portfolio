@@ -1,199 +1,294 @@
-# Chapter 11, Scene 8 — Teeth, Hands, Hair
+# Chapter 11, Scene 8 — Item By Item
 
-*Act 1, month 12, the fifteenth. The Kadono-dera. Nozaki Uzuki, age ten.
-POV: Uzuki. ~1,360 words.*
-
----
-
-She knew somebody was coming about four hours before anybody came, and she
-knew it off the building.
-
-That was the thing she had been building since the ninth and she had not
-expected it to be good for anything. She had nine people and their times
-and where the boards gave, and on the morning of the fifteenth the times
-went wrong: somebody was up before the bell who was never up before the
-bell, and the south corner did not go out at all, and at about nine the
-feet over the north end went from four pairs to none.
-
-*They have moved them.*
-
-*They have moved the north end out of the north end and it is the twelfth
-month and there is nowhere to move people to.*
-
-She sat on the mat with her back to the wall and waited, and was right, and
-found that being right about it did not help in any way whatsoever.
+*Act 1, month 10, the twenty-eighth. The Kadono-dera. Nozaki Uzuki, age
+ten. POV: Uzuki. ~1,990 words.*
 
 ---
 
-The door came at about one in the afternoon and it was Tokuji and a man
-she had not seen before.
+Tokuji came and got her off the beds in the middle of the morning and she
+thought it was about the ranks.
 
-He was younger than the one in the tenth month and he had come a long way
-that morning, which she got off the boots, and he had a coat that had been
-wet and dried on him. He had a book. He did not have a satchel and he did
-not take the coat off.
+That is worth putting down plainly, because it is what she thought right
+up until it stopped being what she thought. She had four ranks under the
+eave and a fifth part-built and she had moved sixty pieces off the north
+end on her own initiative, and she had been half expecting for two days to
+be asked about that by somebody who had not asked her first.
 
-He was in the cellar for eleven minutes.
+"They want you up at the hall."
 
----
+"About the north end?"
 
-*He is not the one who is buying.*
-
-She got that inside the first minute and she got it off two things, and
-they were both about the book.
-
-*He opened the book on a page that had writing on it already.*
-
-*And the first thing he did was look and then look at the page, and not the
-other way round.*
-
-*The one in the tenth month asked me things and wrote after. This one has
-got the answers and he is here to see whether they are true.*
-
-She turned that over while he was doing it, standing up, four feet away
-from him.
-
-*So somebody in a room somewhere has got a piece of paper with me on it
-and it was written on the twenty-eighth of the tenth month and this man
-has walked four days in the twelfth month to find out whether the paper is
-still right.*
+Tokuji did not answer that. She noticed it and put it down and went up.
 
 ---
 
-He did the teeth first.
+There were two men in the hall and one of them she had seen nine times and
+one of them she had never seen.
 
-He did not touch her. He said, "Open, please," in the tone of a man who
-says *please* about forty times a day, and looked, and did not take long
-about it, and then said, "Thank you," and looked at the page.
+Enkai was at the side with his book. He did not sit. He never sat.
 
-He wrote one thing.
+The other one was in the middle of the floor with his coat still on and a
+satchel down by his foot, and he was about forty-five, and he had a book
+of his own, open, held up in one hand the way you hold a book you are
+going to be writing in.
 
-Then the hands. Both, palm and back, held out at the level of her waist,
-and he looked at them for longer than he had looked at the teeth and did
-not write anything at all, and she understood that too and it took her
-about two seconds.
+He was courteous. That was the first thing about him and it did not go
+away.
 
-*He is not looking at my hands. He is looking at what is on them.*
+"Come in properly," he said. "It's cold by the door."
 
-*And there is nothing on them, because I have been on a mat for six weeks,
-and the four ranks and the eight trips and the floors have come off them,
-and in the tenth month they were the hands of a girl who did the wood.*
-
-*So the hands are better than they were and better is what he wants and he
-has not written it because it is not a change.*
+She came in properly.
 
 ---
 
-Then the hair, and the hair took the longest and it was the only part he
-came close for.
+He asked her name and wrote after it.
 
-He did not touch that either. He looked at the length of it, and then at
-about four inches from her head where the line was, and then he did
-something with his own hand about a foot away, a sort of measure, thumb to
-finger, and put it against the page.
+He asked how old she was and she said ten and he wrote after that.
 
-Then he wrote two things.
+He asked where she was from and she said Nakadō, in the Land of Hot Water,
+and he did not write after that, and she saw him not write after it, and
+it went into the part of her that had been keeping lists for two years
+without being asked to.
 
-*Two.*
+*He wrote after the first two and not that one.*
 
-*Teeth was one. Hands was nothing. Hair is two, and one of them is a
-number he measured with his hand.*
+He asked how long she had been at the Kadono-dera. Fifteen days. He wrote.
 
-And she stood in a root cellar under nine people in the twelfth month and
-had the whole thing arrive at once, which she had been circling since the
-twenty-eighth of the tenth month and had never had in this form.
+He asked whether she had walked. She said she had. He did not write.
 
-**Fifty days for two inches. The rain took the dye out on the
-twenty-sixth of the tenth month and it has been coming ever since and it
-has not stopped and it is not going to stop, and every single day I have
-been down here it has got longer.**
-
-*I have been getting more expensive on a mat.*
-
-*I have not done anything. I have not done one thing since the second of
-the eleventh month and the number has gone up anyway, and it went up while
-I was asleep, and it goes up tomorrow.*
+He asked what she had done before the road and she said her mother's house
+and before that her father had been ill for a year, and he did not write
+after any of that either, and he did not ask what her father had been ill
+with, and she noticed the shape of the gap where that question would have
+gone.
 
 ---
 
-The other thing was that she helped him.
+Then he said, "Take the cloth off, would you," in the same voice, and she
+did, because she was ten and had been told.
 
-She did not notice while it was happening. She noticed afterwards, and the
-noticing was the worst four minutes of the twelfth month.
+He did not come closer.
 
-He said *open, please* and she opened. He said *hands, both* and she put
-them out at the right height without being shown the height. When he
-wanted the hair he did not ask; he made a small motion with two fingers,
-turning, and she turned round, and stood, and waited, and turned back when
-he had finished, and at no point in eleven minutes did anybody have to
-tell her anything twice.
+He looked for about four seconds and then he said a number to Enkai across
+the room, and Enkai said a different number, and the visitor said *for the
+blood*, in the tone of a man clarifying which column, and Enkai wrote in
+his book.
 
-She was good at it.
+Then the visitor asked her three questions in a row.
 
----
+Where her mother's people were from. Where her father's people were from.
+And what her grandfather had been called.
 
-She sat down on the mat after the bolt went and worked out why, because
-working out why was the only thing she had left that was hers.
+She said Nakadō. She said she did not know. She said she did not know.
 
-*Because a bowl comes three times a day and it is the same amount every
-time and it has never once not come.*
-
-*And I have been down here forty-three days and the bowl has come a
-hundred and twenty-nine times.*
-
-*So there is a way to be that keeps the bowl coming, and I have been
-learning it since the second of the eleventh month, without being taught
-it, the way I learned the step at the turn.*
-
-She put her hands flat on the mat.
-
-*Nobody threatened me. Nobody has said one unkind thing to me in this
-building since the thirteenth of the tenth month.*
-
-*They just fed me at the same time for six weeks.*
+He wrote after all three, and the third one took him longer than the other
+two.
 
 ---
 
-**She wrote it in her head, in the third column's place, because there was
-nothing to write with, and it was the darkest finding she ever made about
-herself and she made it at ten:**
+*He is writing down that I do not know.*
 
-> ***I am better at this than I was.***
+*That is what he is writing. He is not writing an answer, because there
+isn't one. He is writing that there isn't one.*
 
-She sat with it.
-
-*In the tenth month I stood on a hall floor and did not move and something
-in the middle of me went cold, and I hated all of it and I did not know
-where to put my hands.*
-
-*And today a man was in here for eleven minutes and I did every single
-thing right and it did not cost me anything at all.*
-
-*That is not because I am braver.*
-
-She turned it over once more and could not get out of it.
-
-*It is because I have had practice.*
+*And it took him longer, so it is worth more.*
 
 ---
 
-She did the count last, in her head, because that was the only place it
-lived now.
+It was somewhere in there that she recognised the form, and it came up
+from underneath and had nothing to do with the words.
 
-*1,544.*
+She had stood in a yard in the sixth month, at Shimoda's, with a halter in
+her hand, while a man went over a mule out loud in front of her: the age,
+and the feet, and what the near hind had been like when he got her, and
+what she was worth in the spring against what she was worth now, item by
+item, unhurried, courteous, and entirely fair. He had not been cruel to the
+mule. He had said good things about the mule. He had been pleased with her.
 
-And then, because she could not stop doing it and because it was the only
-arithmetic in the room:
+*It is the same speech.*
 
-*A hundred and twenty-nine bowls. Six weeks. And they came on the day the
-paper was written and they came the day after and they have come every day
-since, and today a man came four days to check the paper, and after he
-went out the bowl came at the ordinary time.*
+*It is the same speech and the pauses are in the same places and he is
+being nice in the same way.*
 
-*Nothing about today changed anything about the bowl.*
+She stood on the hall floor and did not move a muscle and something in the
+middle of her went very cold and very quiet and stayed that way for eight
+weeks.
 
-She lay down on her side facing the wall.
+---
 
-*Which means the bowl was never about me being all right.*
+The visitor said, to Enkai, not to her:
 
-*It is about the thing on the paper still being worth what it says.*
+"The snake pays well for children like her."
+
+She heard it. She put it where she put things.
+
+*Snake.*
+
+*That is a trade name. Every third person in this country has a trade
+name. Fuda. The Kiribata. Sagara's people call somebody the Ferryman and I
+heard that in a kitchen in the eighth month.*
+
+*So a man called the snake buys children with red hair and this man knows
+him and Enkai knows him.*
+
+*I do not know anything else about it and there is nothing else in it to
+know.*
+
+It went on the list with everything else, flat, in the order it arrived,
+between *he wrote after the first two* and what came next.
+
+---
+
+What came next was that he asked her to turn round, and then to walk to
+the wall and back, and then he asked Enkai three questions with her
+standing there.
+
+She did not understand the first one.
+
+She half understood the second one, and the half she understood was that
+it was about a length of time.
+
+She understood the third one completely, and it was the third one that
+told her what the first two had been, and she got all three of them at
+once, standing on a hall floor eight feet from a man with a book, with her
+hands at her sides.
+
+*Oh.*
+
+*That is a second one.*
+
+*That is a second thing and it is separate and he has started it after
+finishing the first one, the way you would start on the cart after
+finishing on the mule.*
+
+---
+
+The thing she never got over — and she was still turning it over at
+thirteen, and at nineteen, and she never once said any of this out loud to
+anybody in her life — was not the questions.
+
+It was that his voice did not change.
+
+*It is the same voice.*
+
+*He said "for the blood" in that voice and he said this in that voice and
+he asked me how old I was in that voice and he told me it was cold by the
+door in that voice.*
+
+*He is not enjoying it. There is nothing in him. He would sound exactly
+like this about a length of rope.*
+
+Enkai answered the third question with a number and the visitor wrote it
+down, and then the two of them talked for about a minute and a half about
+neither of the two things, but about the road, and about a man at Kiku's
+who had let them down in the eighth month, and about whether the pass
+above would take a horse in the twelfth.
+
+She stood on the floor the whole time.
+
+Nobody told her she could go.
+
+---
+
+Then Enkai said the only other thing he said to her in the whole of the
+tenth month, and he said it to the visitor and it was about logistics.
+
+"Not before the eleventh month. There's the road trade and I'll not have
+people through."
+
+The visitor said that was fine and that the eleventh suited him better
+anyway, and put his book away in the satchel, and picked the satchel up,
+and said to her, pleasantly, on his way past, "Get that coat dried
+properly. You'll do yourself no good in a wet coat."
+
+And he went out.
+
+---
+
+She stood there for a second longer and then Enkai looked up from his book
+and said, "Go on, then," and she went.
+
+She got as far as the top of the cut and stopped, because the thing she
+had been holding down since the mule arrived was coming up, and she did
+not want it up in the yard.
+
+She got behind the wood store, which was where she went.
+
+It did not come. That was the second surprise of the morning. She stood
+behind the wood store with her hands on the top rank waiting to be sick or
+to cry or for any of the things that had happened behind the wood store on
+the fifteenth, and none of them arrived, and what arrived instead was the
+list.
+
+Not feelings. The list. In order. The way it had been going in.
+
+---
+
+*He wrote after my name and my age and not after Nakadō.*
+
+*He wrote after fifteen days. He did not write after the walking.*
+
+*He did not ask what my father was ill with.*
+
+*He wrote after all three of the ones I could not answer and the last one
+took him longer, and the last one was my grandfather's name.*
+
+*So the thing that is worth the most about me is a thing I do not know and
+cannot find out and my father is dead and there is nobody left to ask.*
+
+She put both hands flat on the wood.
+
+*Two prices.*
+
+*He did the first one and finished it and said a number, and then he
+started a second one, and it is a different thing and it is separate and
+they are going to be added together.*
+
+*Not before the eleventh month. He said that to the other one, about the
+road trade, in front of me, because I am the thing they are talking
+about and you do not go quiet in front of the thing.*
+
+---
+
+She stayed behind the wood store for about a quarter of an hour and then
+went and did the beds, because there was nothing else in the world to do
+and because stopping would have been a decision and she was not making any
+decisions that morning.
+
+She did the beds and she did the water and she did eight trips instead of
+eleven, going up the outside of the step at the turn, which she had worked
+out on her own in four days and had been so pleased about on the
+eighteenth.
+
+*They are going to get the eight trips as well.*
+
+*They have had fifteen days of me. They have had the ranks and the north
+end and the step and the floors and I gave them all of it and I gave it
+fast, on purpose, so they would want to keep me.*
+
+*And it does not come off the number. It is not in the number. The number
+is the blood and the other one and none of it is anything I did.*
+
+---
+
+She got the sacking out that night in the dark, on the mat, in the room
+with ten empty mats in it, and did the third column, and the third column
+was 1,581, and that was correct and counted and not made.
+
+She looked at the blank fourth column for a while.
+
+Then she ruled it properly, with her thumbnail, and put a date at the top
+of it, and under the date she wrote the only thing she had that was worth
+having, which was not a feeling and was not a plan.
+
+**Not before the eleventh month.**
+
+*That is thirty-three days.*
+
+*And they told me. They stood in a room and told me, because I am the
+mule, and nobody minds what the mule hears.*
+
+She lay down.
+
+*So I have got thirty-three days and I am the only person in this building
+who knows that I have got them.*

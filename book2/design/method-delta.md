@@ -216,7 +216,7 @@ their own rescues built, and nobody in the book ever learns it.**
 
 ### 2e. ⚠ NO CHARACTER MAY KNOW THE OUTLINE
 
-**Caught on the page in ch10 scene 2**, where Tadayoshi, on a loft floor
+**Caught on the page in ch11 scene 2**, where Tadayoshi, on a loft floor
 in month 10 of year 0, thought: ***I am going to spend the next three
 years carrying things I will not use.***
 
@@ -263,6 +263,30 @@ sitting in every fan's head the whole time. **`money.md` §1.**
 against the setting before it is built on** — currency, distance, ranks,
 titles, seasons. *Not researched exhaustively. Checked once, against the
 thing the audience already knows.*
+
+### 2g. ⚠ WHEN A HOLE REOPENS, THE ANSWER IS IN THE RECORD
+
+**Three times on one scene I answered *why doesn't he kill her* with a new
+mechanism** — a cellar and a door (`falsified.md` #16), a relocated
+threshold (#16's replacement), and an awake decision (ch12 as drafted).
+**All three were inventions. The answer was `spec.md` §3b, written in the
+first session, filed under a different heading.**
+
+> **The tell: the same question coming back.** *A hole that reopens after
+> being filled was never filled — it was covered.* **And a question that
+> has been answered three times differently has an answer somewhere that
+> is not mine.**
+
+**So: before inventing anything to close a recurring hole, search the
+author record for the thing it is meant to be closed with.** *Not the
+working files — those are mine. The author's own words: `spec.md`'s
+AUTHOR sections, and the transcript.*
+
+**And the specific failure to watch for is filing.** *The creed was in
+`character.md` under **character**. The question was in `structure.md`
+under **act one**. Both were correct and neither pointed at the other, and
+a mechanism is what you build when you cannot see the whole record at
+once.*
 
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
