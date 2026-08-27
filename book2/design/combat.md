@@ -881,12 +881,25 @@ work.
 > article never goes quiet* — **so the thing that reaches him is his own
 > blade still drawing when he has stopped.** Not written in until ruled.
 
-### The standing rule
+### The standing rule — amended
 
-> **The book never shows the threshold from inside.** Write up to it. Break.
-> Resume after, and let the **reconstruction** be the scene — the bodies read
-> as evidence, the sequence inferred from wounds, the thing he cannot
-> determine. **If it is ever broken, that is an event.**
+> **The book never shows the threshold from inside HIS HEAD.** Write up to
+> it. Break. **And then either resume after, and let the reconstruction be
+> the scene** — bodies as evidence, sequence inferred from wounds, the
+> thing he cannot determine — **or open the next scene in the POV of
+> somebody who was in the room.**
+
+**⚠ AUTHOR RULING:** *write it as the following morning **only if there is
+not another POV to showcase it.*** `method-delta.md` §2i.
+
+- **Ch5's riverbed is unchanged.** *There was nobody else alive on that
+  bank, so it is reconstruction and always will be.*
+- **The monastery is not.** *Uzuki is in the room* — **so it is written,
+  in full, from her**, backing up with *some time before*.
+- **And the reconstruction discipline still runs**, doing a better job:
+  **the reader has seen what he did and he has not**, and he still cannot
+  account for it afterwards. *The gap between what the reader knows and
+  what he can enter in a book is worth more than the mystery was.*
 
 ### And there is a written household rule
 

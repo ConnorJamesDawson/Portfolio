@@ -92,11 +92,70 @@ Month by month in `timeline.md` §2. The spine:
   > resistance* — **so the team goes out into the world, which is act
   > two.**
 - **The monastery job itself is a demotion**, and it is a demotion because
-  a contractor is being sent to carry boxes. *"Help."* **The client is the
-  elder holding the sale, so he kills his own employer — awake, knowing
-  what he is doing — gets nothing, and comes home with a child instead of
-  a fee.** The rescue is **a debt he is carrying**, not a gift he gave,
-  **and there is no state he can blame it on.**
+  a contractor is being sent to carry boxes.
+
+> ## ⚠ HOW THE MONASTERY IS STAGED — AUTHOR, and it fixes §9
+>
+> **His POV breaks.** *Write up to it, and stop.*
+>
+> **And then Uzuki's opens with *some time before*, and backs up**, and
+> carries the whole of it — **`combat.md` §9 as amended: write the
+> following morning only if there is not another POV to showcase it.**
+> *There is.*
+>
+> | | |
+> |---|---|
+> | **1** | **She is dragged out and stood in the hall** for the handover |
+> | **2** | **One of the men says the line.** *Wording may change; the feeling may not* |
+> | **3** | **She sees Tadayoshi enter** — *and he does not knock*, and she is the one who sees that he does not |
+> | **4** | ***"Help."*** |
+> | **5** | **And then hell breaks loose** |
+> | **6** | **Her perception skips**, which is how it actually goes: *all of a sudden the man towering over her is on the floor and Tadayoshi is standing in front of her* |
+> | **7** | ⚠ **HE LOOKS OVER HER AND DOES NOTHING** |
+> | **8** | **And then he kills the rest of them**, and she watches all of it |
+>
+> ### ⚠ AND STEP 7 IS THE CREED, SEEN FROM OUTSIDE BY SOMEBODY WHO DOES
+> ### NOT KNOW HE HAS ONE
+>
+> **It reads as nothing.** *A pause. A man looking at her and moving on.*
+> **The reader knows what they are watching. She does not, and never
+> does** — *and neither does he, because he cannot account for any of it
+> afterwards.*
+>
+> **So the one time the rule works, nobody in the building can see that
+> it worked.**
+>
+> ### ⚠ AND HER REGISTER IS APPRECIATION OF FORM — AUTHOR
+>
+> **She does not watch it in horror.** *She watches it the way you watch
+> somebody who is good at something* — **and `method-delta.md` §2i gives
+> her the camera that does not leave.**
+>
+> > ***It is the thing she wished she had done to Shimoda instead of
+> > running.***
+>
+> **WHICH IS WHERE HER WHOLE ARC STARTS.** *`team.md` §4.3 had the sadism
+> beginning at Nakadō in act two, unrouted and on her own account.* **It
+> begins here, at ten, as a spectator** — and Nakadō is her going back and
+> *doing* the thing she watched somebody else do. **The act-two sequence
+> is now a completion, not an origin.**
+>
+> ### AND THE ARRANGEMENT IS MADE ON HER INITIATIVE
+>
+> **She does what she knows works: she offers to be useful.** *It is the
+> same instrument as eight trips instead of eleven, and she has been
+> sharpening it since the tenth month.*
+>
+> **AND HE TAKES HER ANYWAY — not because she is useful.** *Because she
+> will follow him regardless and refusing costs more than allowing.*
+> **`team.md` §10.1 holds exactly: she chose him the way he chooses
+> everything, and so did he, and neither of them ever says so.**
+
+- **The client is the elder holding the sale**, so he kills his own
+  employer along with the rest of them, **gets nothing, and comes home
+  with a child instead of a fee.** The arrangement is **a debt she
+  offered and he accepted**, not a gift he gave — *and he cannot account
+  for four minutes of it, and the reader can, because they watched.*
 
 > ## ⚠ AND WHY SHE IS ALIVE — and it is a matter of timing, not of luck.
 >

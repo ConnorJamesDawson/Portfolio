@@ -261,7 +261,19 @@ whether this is a real constraint:
 > her, because saying it would require telling her what she is worth,
 > **and he cannot price anything.**
 
-### 4.3 THE SADISM — and it starts at Nakadō, unrouted
+### 4.3 THE SADISM — and it does NOT start at Nakadō
+
+> **⚠ AMENDED.** *This section had Nakadō as the origin.* **The origin is
+> the monastery, at ten, and she is a spectator** (`structure.md`, act
+> one): she watches Tadayoshi kill a building full of men **as an
+> appreciation of form**, and it is ***the thing she wished she had done
+> to Shimoda instead of running.***
+>
+> **So Nakadō is not where it begins. It is where she does it herself** —
+> a completion of something she has been carrying for a year, **and that
+> makes the act-two sequence worse and better at once.**
+
+### 4.3a NAKADŌ — the completion, unrouted
 
 > ## ⚠ SUPERSEDES the first draft of this section, which had her
 > ## developing a taste for it *through* service. It is the other way

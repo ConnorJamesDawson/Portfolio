@@ -367,22 +367,25 @@ though it were.**
 3. **And it still has to cost.** `combat.md` §9 discipline 1 — *if a
    chapter is easier because of violence, that chapter is wrong.*
 
-### ⚠ OPEN RULING — and it is the biggest one this note raises
+### ✅ RULED — §9 HOLDS, AND THE ESCAPE IS ANOTHER POV
 
-**`combat.md` §9: *the book never shows the threshold from inside.***
-*That rule is mine* (`falsified.md` watch list, item 3). **It means the
-most violent events in the book — the riverbed, the monastery, every
-berserk — are permanently written as aftermath.**
+> **AUTHOR:** *"Write it as the following morning only if there isn't
+> another POV to showcase it."*
 
-> **Which is now in direct tension with the note above.** *The monastery
-> has monks dead and walls covered in blood, and under §9 the reader gets
-> a reconstruction of it the following morning.*
->
-> **Three options, and it is an author call:** *keep §9 and accept the
-> biggest violence is always aftermath; break it once, at the monastery,
-> and make that the event the watch list says it would be; or kill it —
-> in which case the replacement constraint has to be named in the same
-> entry.*
+**Which is not a loophole. It is what the rule always meant.** *`combat.md`
+§9 says the threshold is never written from **inside** — and the reason is
+that **he is not there.*** **Somebody who is there can narrate it, in
+full, at whatever register that character owns.**
+
+| | Then | Now |
+|---|---|---|
+| **Nobody else present** | aftermath, reconstruction, evidence | **unchanged** — ch5's riverbed stays exactly as written |
+| **Another POV in the room** | ~~aftermath anyway~~ | **write it.** *His POV breaks; theirs opens with **some time before**, backs up, and carries the whole of it* |
+
+> **And the reconstruction discipline survives**, because it is now doing
+> a different job: **he still cannot account for it afterwards.** *The
+> reader has seen what he did. He has not.* **That gap is worth more than
+> the mystery ever was.**
 
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
