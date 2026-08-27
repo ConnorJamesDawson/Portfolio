@@ -1742,6 +1742,38 @@ can hold ground indefinitely.** For **a swordswoman built entirely on
 timing** and **a boy who can only act on an instruction**, that is worth
 more than a teacher and neither of them will ever say so.
 
+### ⚠ SO SHE LEARNS BY BEING HIT — AUTHOR, and it is act two's loop
+
+> **AUTHOR:** *"Uzuki wants to learn how to fight. Tadayoshi can show her
+> some moves but he's not a natural teacher, so the way she learns is by
+> fighting Tadayoshi, little by little her combat skill will go on the
+> up."*
+
+**She cannot be taught, so she is hit**, *and the syllabus is one line
+long:* **do it again.**
+
+- **⚠ HE DOES NOT GO EASY AND HE DOES NOT KNOW HOW TO.** *He has one
+  setting below working and that setting still puts her on the ground.*
+  **So it hurts, every time, and it goes on hurting for a year.**
+- **AND SHE IS THE ONLY PERSON WHO CAN REPAIR THE DAMAGE HE DOES TO HER**
+  (§11b), **and she does it afterwards, in the dark, on herself, and
+  neither of them ever counts that.**
+
+### ⚠ AND THEY KEEP DIFFERENT COUNTS, WHICH IS THE WHOLE OF IT
+
+| | Counts | Because |
+|---|---|---|
+| **Him** | **how long she lasts.** *Seconds* | he counts trees, and duration is the measurable one |
+| **⚠ Her** | **how many different things he has had to do** | *she sees the forest* — **and getting better against him is not lasting longer, it is making him spend more of the amalgam** |
+
+> **Her number is the one that matters and he does not see it for
+> months.** *It goes one, one, two, two, three* — **and the day it goes to
+> four is a larger event in that household than any duration ever is, and
+> only one person in it knows.**
+
+**And Kimimaro says the flat true thing about it that neither of them had
+noticed** (§1 of `act-2.md`): ***she is not trying to win.***
+
 > **He gives them the negative knowledge, entire, and generously, and it
 > is the only generous thing he does without being asked.** *What fails.
 > What kills people. What has been tried on him and did not work.*

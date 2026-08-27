@@ -1216,10 +1216,29 @@ thinking and fights. Friend and foe alike.**
 > is NOT his wording.** *What he writes, in month 11, is **not the ones
 > who did not choose** — an imperative with a reason under it and **I am
 > writing this after** beneath that.* **The scriptural version is a later
-> compression, in somebody else's mouth or his own at fifteen, and the
-> flattening is the first widening** — *a rule that has lost its reason is
-> a rule nobody can check.* **Everything below still holds; read it as the
-> compressed form.**
+> compression, and the flattening is the first widening.** *Everything
+> below still holds; read it as the compressed form.*
+>
+> ### ⚠ AND ACT TWO IS WHERE IT ENTERS, BY THE CORRECT ROUTE
+>
+> **`act-2.md` §4.16 — AUTHOR: *right now he has words, not the saying.***
+> *Five lines in a ledger is a document; a creed is a thing you can say in
+> four seconds in a room.* **So he has to refuse a job out loud, and what
+> comes out is short, because rooms are short:** ***"I don't take the ones
+> who didn't choose."***
+>
+> **And then somebody repeats it back to him, admiringly, wrong** — and
+> **that** is where the scriptural line comes from.
+>
+> | | Is | And therefore |
+> |---|---|---|
+> | ***did not choose*** | **a fact about a person's circumstances** | checkable, and it was checkable on purpose |
+> | ***innocent*** | **a judgement about their character** | **arguable — and a thing that can be argued about can be widened** |
+>
+> **The whole of the next three books, in one swapped word.** *And he does
+> not correct them, because correcting it would mean explaining it and he
+> cannot explain it, and because the wrong version is easier to work
+> with, and he knows that while he is not correcting it.*
 
 *Stay your hand from the blood of the innocent* is a creed a man cannot
 keep in a state where he is not choosing. **He did not adopt a creed and

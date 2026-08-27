@@ -171,6 +171,43 @@ shinobi go over treetops has to answer the question.*
 
 ---
 
+## 2d. ⚠ THE RAMP — AUTHOR, and it is the engine of the road chapters
+
+> **AUTHOR:** *"The ramp up is that Tadayoshi has to learn to be stronger,
+> which is shinobi knowledge, which costs more than these low-level
+> assassination contracts, so there's the ramp up."*
+
+**This is the answer to *what are chapters 18–21 actually about*, and it
+is the best one available**, because it makes the curve self-tightening
+instead of merely rising.
+
+### Knowledge is bought, and there are four prices
+
+| | What it gets him | What it costs |
+|---|---|---|
+| **A scroll** | the cheapest and worst | *a book will not tell him he is wrong* — §11c, in his own half now |
+| **⚠ A demonstration** | somebody does a thing once, in front of him | **money, and a lot of it** — *and he is the best person alive at taking a whole system off one look, so this is his signature operation finally being worth paying for* |
+| **A teacher** | the real thing | ⚠ **somebody who knows his face, his name and what he is learning** — *every teacher is a person who can describe him* |
+| **⚠ A corpse** | kit, sheets, and what the dead man knew | **free, if he was the one who killed him** |
+
+### ⚠ WHICH IS WHY THE JOBS GET WORSE, AND IT IS NOT GREED
+
+> **Low contracts pay in ryō. Shinobi contracts pay in ryō *and* in what
+> the dead man knew.** *A demonstration worth having is four Terasakas,
+> and he cannot get four Terasakas out of village work.*
+>
+> **So the way he gets strong enough to survive the curve is to take the
+> jobs that steepen it** — **§10's doctrine finally given a reason he does
+> it anyway.** *Every hunter he kills is a specification handed to the
+> state, and every hunter he kills is also a curriculum, and he knows both
+> and takes the trade with his eyes open and writes down the date.*
+
+**And the household's money is a syllabus, which is why Uzuki's pricing
+work matters** (§4.12): *she is not raising the fee for comfort.* **She is
+buying him the next thing, and she works that out before he does.**
+
+---
+
 ## 3. WHAT ACT ONE HANDS OVER — updated after the shred
 
 | | |
@@ -324,7 +361,78 @@ shinobi go over treetops has to answer the question.*
     **Ch14 and ch19 are the two obvious slots and ch14 should be the
     first one**, *because the reader needs to know these two before the
     op takes the household apart.*
-14. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
+15. **⚠ THE HAIR — AUTHOR, and the asymmetry is the point.**
+    > **AUTHOR:** *"Are we hiding it or not? Tadayoshi wouldn't know the
+    > difference but she would, since it's what got her locked up. I'd
+    > lean towards letting it come through after Kimi — after Kimi it's
+    > going to be hard to conceal anything, so she likes to wear a hat."*
+
+    **He does not know what red hair is worth. She knows to the ryō**,
+    *because she stood on a hall floor and heard a man say **for the
+    blood** and watched a number go in a book* (ch11).
+    > **So early act two she hides it and he does not notice her hiding
+    > it** — *a rag, and then a hat once they can afford one, and he buys
+    > her the hat without knowing why, which is §4.7 again: he provisions
+    > correctly for reasons he does not have.*
+    >
+    > **⚠ AND AFTER KIMIMARO THE COVER BUDGET BREAKS.** *A boy with bone
+    > coming out of his hands is not hideable*, **so hiding one head of
+    > hair has stopped buying anything** — and she is the one who does that
+    > arithmetic, because visibility is her instrument.
+    >
+    > **So she stops hiding it and keeps the hat**, *and the reason is no
+    > longer concealment.* **It is the first thing she has ever chosen to
+    > wear rather than been given, sold in, or forced into** — §2k on her
+    > side, in one object.
+    >
+    > **⚠ AND THE PRICE, WHICH IS THE POINT:** *an Uzumaki alive is a thing
+    > states pay for.* **Her thread joins the hunter curve** — `falsified.md`
+    > #17's replacement constraint arriving early and by a different route
+    > — **so the curve stops being only his, and the two kinds of hunter
+    > want different things.**
+    >
+    > **And the cruelty underneath it:** *he has spent his whole life being
+    > hunted and has a discipline for it; she acquires the same problem in
+    > a month; and he is the only person alive qualified to teach her and
+    > cannot teach.* **So she learns that the same way she learns
+    > everything else — by being hit** (`combat.md` §11d).
+16. **⚠ THE CREED GETS CONSOLIDATED — AUTHOR: *right now he has words, not
+    the saying.***
+    > **Correct, and it is a real gap.** *Five lines in a ledger is a
+    > document. A creed is a thing you can say in four seconds in a room
+    > where there is no time to explain.*
+
+    **The compression has to be an event with a cause, and the cause is a
+    room.**
+    1. **A job comes in with a household or a child on it and he has to
+       refuse it out loud**, *in front of a client, with Uzuki
+       negotiating.* **He opens his mouth and what comes out is short,
+       because rooms are short.**
+       > ***"I don't take the ones who didn't choose."***
+    2. **⚠ AND THE COMPRESSION LOSES THE REASON.** *The page carried **I do
+       not know what did not choose means** and **whoever comes to widen
+       this will come at that word**. The sentence cannot.* **So the
+       moment it becomes sayable is the moment it becomes widenable**, and
+       the page predicted that in its own hand.
+    3. **Uzuki attacks the loose word in the same conversation, correctly,
+       and he has no answer** — *the page's prophecy delivered by the
+       person he lives with, inside a week.*
+    4. **⚠ AND THEN SOMEBODY REPEATS IT BACK TO HIM WRONG.** *Admiringly.*
+       > ***"Stay your hand from the blood of the innocent."***
+       >
+       > **Which is not the same rule.** *`did not choose` is a fact about
+       > a person's circumstances. `innocent` is a judgement about their
+       > character* — **and a judgement is a thing you can argue about,
+       > and a fact is not.** *The whole widening, in one swapped word.*
+    5. **AND HE DOES NOT CORRECT THEM**, *because correcting it would mean
+       explaining it and he cannot explain it,* **and because the wrong
+       version is easier to work with, and he knows that while he is not
+       correcting it.**
+    > **By the end of act two the version in other people's mouths is the
+    > scriptural one and the version in his book is still five lines with a
+    > warning in them, and the two have come apart.** *`spec.md` §2g's
+    > wording enters the series here, by the correct route.*
+17. **⚠ AND THEY CHANGE MATERIALLY, WHICH IS THE ANTI-MONTAGE INSTRUMENT
    — AUTHOR** (`method-delta.md` §2k). *Clothes bought, weapons haggled
    over, cooking on a fire, and knowledge turning out wrong.* **Act two is
    three years on a road and is the largest montage risk in the series;
