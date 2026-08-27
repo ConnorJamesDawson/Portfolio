@@ -3631,3 +3631,272 @@ scene as written; the freight and the month-11 anomaly; the month-12
 threshold on somebody else's job; the reconstruction; Hōki's third
 question; the docket argument; and the awake two-second kill of one
 clerk.* **Some of it comes back attached to different causes.**
+
+---
+
+### C10 — Chapter 10, "What A Client Buys". Months 9 and 10.
+### 10 scenes, 14,510 words. T×6 (63%) · U×3 (30%) · K×1 (8%).
+
+**TADAYOSHI — fixed**
+
+- **A docket with no cargo line, on 20/9**, and a fee of **3,600** against
+  a parcel median of **400** — *nine times, and he does the division
+  before he does anything else.* **Three thousand six hundred is about
+  forty days of a man who lays walls and thirty days of himself.**
+- **⚠ HŌKI TELLS HIM WHAT HE IS FOR**, sitting on a trestle: *forty of us
+  in this part of the country and under half any good, and every one of
+  them is somebody with a face.* ***Every week you carry a box, that is a
+  week four other people are on a road being looked at.***
+  > **And the arithmetic comes out clean:** *one of me being looked at
+  > very hard is cheaper than five of them being looked at a bit, because
+  > the looking is the cost, and mine is already spent.* **He is pleased,
+  > writes *pleased* flat and unqualified, and does not examine it.**
+- ***"The fee's not the fee… don't ever say the number out loud in a
+  room."*** — **Hōki, and Tadayoshi does not learn what the client
+  actually paid.**
+- **⚠ THE FIRST KILLING FOR MONEY. 26/9, Anazawa, Sakuta the
+  shutter-maker.** *Two hours eleven of setting; eleven minutes of work
+  and **eight of them waiting**.* **Hands and a knife, because a seal
+  leaves an article and an article is a disclosure.**
+  > **Written in full at the brutalist register** (`method-delta.md`
+  > §2i): *in under the jaw on the left, in and across and out; the strap
+  > of muscle and the pipe; the artery in a hard rope onto the wall six
+  > feet away, and the second one lower than the first.* **He does not
+  > die.** *The hand to the neck that does nothing; the noise changing
+  > every four seconds as the level in it changes; the feet **walking**
+  > against the boards as though the floor were a road.*
+  >
+  > **AND TADAYOSHI STEPS OVER HIM AND TIDIES THE BRAZIER.** *Plane back
+  > on the bench. Shavings into the heap with the side of his foot. Pot
+  > onto the trivet. The offcut moved back eleven inches.* **The noise
+  > stops somewhere in there and he does not hear it stop.**
+- **The leaving, four minutes, and it is the part he is proud of:** *the
+  lamp left low because a blown-out lamp means a man who was not alone;
+  the door let back to two inches with pressure on so the latch does not
+  travel; the drain strip walked round; and **the dog**, which he had sat
+  near for forty minutes on the second night so that by the fourth he was
+  a thing that had been there before.* **It did not bark.**
+- **He did not think about it on the road and checked whether he was
+  avoiding thinking about it and was not.** *What he thought about was
+  **forty-four seconds** wasted at a drain strip that had dried out
+  between the first evening and the fourth.*
+- **Blood to the elbow on the right sleeve and in the welt of both
+  boots.** Twenty minutes in cold water at four in the morning, *from the
+  outside in*, and it did not all come out. **Second boots go on the list
+  under *a coat that is not this coat*.**
+- **The entry: two lines and a number.** *Three corrections and a note
+  about footwear.* **And nothing at all in the second book.**
+
+**⚠ THE CLIENT — 29/9, a house above Ōtoma**
+
+- **Kadoya. About fifty-five, timber on four rivers.** *A new gate and an
+  old wall — a man who has had money about four years.* **Ōtsuka's entire
+  briefing: *answer what he asks you and nothing else.***
+- **The question, asked as a closing courtesy: *"And it was clean."***
+  > ***"No. It was not clean. It was adequate."***
+  >
+  > **And then four faults, in order, unprompted:** the forty-four seconds
+  > paid for a condition that had changed; the sleeve (*a cost, not a
+  > mistake — there is no way to be inside the arc and not be in it*); the
+  > boots, *which is worse, because a sleeve is a sleeve and a boot has a
+  > welt*; **and the woman with the covered pot who came down that lane at
+  > twenty past nine four nights running and whom he never identified.**
+  > ***She did not see me. But if she had been eleven minutes later she
+  > would have been in the lane while the door was open.***
+- **⚠ AND KADOYA IS NOT ANGRY, WHICH TADAYOSHI CANNOT CATEGORISE.**
+  *"Say the bit about the woman again."* — *"Right. Yes. Good."*
+- **Ōtsuka on the road down:** *"You've cost us nothing and I want you to
+  understand that that is luck." — "I understand." — "You don't. Say it
+  back."*
+- **What he got, over two days:** *a man who says **and it was clean** is
+  asking to be told it was clean, by somebody who appears to have decided
+  it themselves.* **The answer he wanted was one word and I gave him four
+  hundred.**
+  > ***The fault is not that I was rude. I was not rude. It is that I
+  > answered the question that was asked and not the question that was
+  > meant, and I cannot hear the difference, and I do not know how you
+  > learn to.***
+- **⚠ AND THE THIRD OF IT HE NEVER GETS.** *Kadoya was not reassured and
+  did not want to be. He had been shown a small cold precise thing that
+  gave him a costed account of a man's death and then told him it had been
+  done badly* — **and he had never had anything like it to talk about.**
+  *He funds them two more years, increases twice, and the second increase
+  carries a note Tadayoshi never sees: **the boy, if he's available.***
+- **⚠ A SECOND LIST STARTED, 1/10:** ***PEOPLE WHO WILL TELL SOMEBODY.***
+  *Kadoya, the date, the house* — **and a second line: *the man behind
+  him, who did not speak, and whom I did not look at properly.*** **The
+  first entry on that page that is not a place.**
+
+**THE OTHER TWO CONTRACTS**
+
+- **2/10, Sakabe. Ide's man on the wharf, the one with the ledger. In at
+  4:40, out at 4:52 — twelve minutes and eight of them the water.**
+  **2,900.** ***No corrections*** *— written for the first time in his
+  life, with:* **which is either the truth or the beginning of not being
+  able to see them.**
+- **9/10, Nunobiki. 4,100, and four days of waiting for a date that was
+  not operational.** *He established over two days that the target was not
+  moving, so the ninth was not about him.* **Entered: *closes when I find
+  out what happened on the ninth.* He never did.**
+  > **What happened is that a man forty miles away wanted a second man
+  > told a thing at a dinner, and the thing was not *Ide's man is dead*
+  > but *I can have a man dead on a day of my choosing*.** **Tadayoshi
+  > was the sentence, and it cost four days of a boy's time, which was
+  > cheap.**
+- **⚠ THE FEE IS NOT FOR THE TIME AND NOT FOR THE DIFFICULTY** — *Sakabe
+  was the hardest and the cheapest.* **It is for who the man was.** *And
+  he has not once asked, about any of the three, and notices that
+  standing in a road on the ninth.*
+  > *Would I want to know? — **No.** And the reason is not that I would
+  > not like the answer. It is that it would not change anything I did, so
+  > it is not information.*
+  >
+  > ***Except that I have started wondering what the fee is for, which
+  > means I have started wondering who they were, which is the same
+  > question coming in through a different door.***
+- **Fourteen days, three men, 11,200 ryō** — *more than nine months of
+  careful living.* **Not frightened at any point, and did not enjoy any of
+  it, and checked both as carefully as he checks everything.**
+  > ***It is the first work I have ever been given that uses the whole of
+  > what I am, and there is nobody in this organisation who can do it as
+  > well as I can.*** **He wrote it down like a weight.**
+
+**⚠ THE AFTERNOON — 10/10 to 12/10**
+
+- **Setting time: 131 minutes, then 40, then 30.** *Not him getting better
+  at setting — **him needing less of it**, because he now knows which
+  things matter and could not write it down if he tried.* **He tried, got
+  nine true statements and an absence, drew a line round the absence and
+  wrote inside it: *there is a thing here that I have and cannot state.***
+- **THE FINDING, and it is the coldest in the act:**
+  > ***The part that got easier was not the killing.*** **The killing was
+  > never hard — eleven minutes, twelve, nine, and it was not hard on the
+  > riverbed either.**
+  >
+  > ***What got easier is the afternoon.*** *26/9: awake until light. 2/10:
+  > ate at seven. 9/10: asleep by half past eleven, and woke on the tenth
+  > and the first thing he thought about was whether the north road would
+  > be wet.*
+- **Every instrument says it is an improvement** — better work, fewer
+  corrections, nobody worse off — **and he does not think it is, and has
+  no instrument that says why.**
+- **⚠ THE HUNTER SHEETS STOP AT THE LEFT-HANDER, 17/9.** *Two lines on
+  them in total — the blank one from 3/7 and the best page he has ever
+  made — and nothing after it.* **Twenty-four days by the eleventh, and
+  the docket with no cargo line came three days after the entry**, and he
+  did not decide to stop. **He went looking for the decision and there was
+  none, and recognised the shape of that.**
+  > ***Either nothing has come for me in twenty-four days — or something
+  > has, and I have stopped being the kind of person who notices.***
+  >
+  > **He did not resolve it and did not start writing in it again.** He
+  > ruled a line, dated it 11/10, and wrote an instruction he kept for
+  > life and never once obeyed: ***check this book on the first of every
+  > month. If it is empty, that is the entry.*** **Then put it at the
+  > bottom of the pack under the throwables.**
+
+**⚠ THE FOURTH DOCKET — 12/10, and it opens ch11**
+
+- **Ōtsuka brings it up the ladder instead of leaving it on the boards.**
+  *"Read it here… because I'm going to take it back off you in a minute
+  either way."*
+- **IT HAS A CARGO LINE, AND THE CARGO LINE SAYS *THE GROUND*.**
+  > *Terasaka. The house on the mill ground, above the second weir.*
+- **Fee: 14,000** — *nearly four times Anazawa, and it comes off the
+  series.* **So either it is four times somebody, or it is not one man.**
+- **The client is a subscription, not a client:** *a man in Ōgi who has
+  wanted eleven acres for two years and pays **four thousand a quarter**
+  and has since the spring.* **Sixteen a year, from one man, for nothing —
+  and the day you say no it stops.**
+- **⚠ AND TWO PEOPLE HAVE ALREADY REFUSED IT.** *"They said no. Two of
+  them. And they're still with us and they're still on sheets and nobody's
+  said a word to either of them, and I'm telling you that so that you know
+  it, because you're ten and there's nobody else in this building who's
+  going to tell you."*
+- **⚠ THE THREE DOORS, AND THE FOURTH THAT IS NOT THERE.** *Is it
+  operational — **no**. Does that matter — he cannot make it matter. Can I
+  do it — **yes**.* **All three pass and something is still standing in
+  the road, and he has no name for it and no column for it.**
+  > **He built a man who decides by arithmetic, and arrived at the first
+  > question his arithmetic cannot answer, and did not know that was what
+  > had happened.**
+- **⚠ AND HE ASKS SOMETHING HE HAS NEVER ASKED:** *"Who's in the house?"*
+  — *"Him. His wife. And there's a boy." — "How old?" — "I don't know how
+  old." — **"Find out."*** *"That isn't how you've asked for anything
+  before." — "No. It isn't."*
+- **He did not touch the docket.** Two hours looking at the back of it,
+  nothing in the ordinary column, nothing in the operational column, **and
+  at about eleven, four words in the margin of a page about throwables, in
+  pencil, sideways, where nobody who found the book would know what it was
+  attached to:**
+  > ***There is a boy.***
+
+**UZUKI — fixed**
+
+- **Ōgi failed administratively.** *They take people **until** the tenth
+  month and it is the tenth month; the shutters went up yesterday; it is
+  the same every year.* **Kiku had not been to Ōgi in nine years and said
+  so, and she wrote it down as a thing she had anyway.**
+- **Nine days, 440 ryō, a five-week hole.** *The third: no food.* **Hunger
+  does not make you hungry. It makes you stupid, and it takes the far
+  things first.** *The fifth: four hours of splitting for one bowl* — **not
+  that nobody would pay her; that there was not enough of it in the town
+  to pay her with.**
+- **⚠ AND SHE LOST THE COUNT.** *Nine days without anything to write on,
+  kept in her head, and about three days have gone and cannot be
+  recovered.* **The bag was never for the money — she knows the money to
+  the ryō — it was for the days, and the days are the only thing she has
+  that goes in one direction.**
+  > **She had not, in nine days, spent anything on a thing that was not
+  > food, and had not noticed that was what was happening.** *That is what
+  > being hungry does: it makes everything except the next four hours stop
+  > being real.*
+- **A strip of rice sacking for a twentieth on the eighth**, four columns
+  ruled with a thumbnail, **1,603 — a number she had made and not
+  counted.** *"Right. That is mine again."*
+- **Nine people asked over nine days, and four said the same thing
+  unprompted:** *nothing for a child in Ōgi in the twelfth month, and the
+  road out is the north-east one because it goes **up***. ***Up is where
+  people put things they do not want near a road.***
+- **Shoes off a rag heap for fifty ryō**, unmatched, one much too big —
+  **and six miles of a genuinely good mood before it went all at once.**
+- **THE KADONO-DERA, the thirteenth**, and everything in C-prior stands:
+  *Tokuji, "Have you eaten?", the second bowl, ten empty mats, and crying
+  about millet behind the wood store for four minutes, rigid with fury.*
+
+**KIMIMARO — fixed**
+
+- **Two on the mat, and he put off looking at them together for eleven
+  bowls, and knew he was putting it off** — *which was new, because
+  putting a thing off requires you to have some idea what it will cost.*
+- **Bases lined up.** *Shorter. And there is a place near the top where it
+  changes, and it goes out to the side.*
+- **The right hand is the control** and he built it in the sixth month for
+  a reason he can recite: *it is the one that has not been broken, and if
+  I put it away I will have nothing to hold the other one against.*
+  **Straight, long, smooth the whole way.**
+- **Three escapes ruled out** — the time of day, the place on the hand,
+  and *me being worse at it* (**there is no *at it*; it comes off where it
+  comes off**).
+- **⚠ THE QUESTION HE GETS TO ON HIS OWN:** *two points is not a line. Two
+  points is any line you like.* **He needs a third before he knows whether
+  it is going down at a rate or whether the second was a bad one.**
+- **He broke a third off the same place.** *The skin is thicker and there
+  is a ridge under it that was not there in the sixth month.* **It hurt
+  more and he had expected that and it was not information.** *Three — and
+  he did not look at them together, because it is not finished growing and
+  an answer that is not an answer cannot be un-had.*
+
+**OPEN LOOPS**
+
+1. **The Terasaka docket, face down on the boards, unanswered until
+   Thursday.** *And there is a boy, and Ōtsuka has been told to find out
+   how old.*
+2. **PEOPLE WHO WILL TELL SOMEBODY** — two entries, and one of them he did
+   not look at properly.
+3. **The hunter sheets, stopped at 17/9**, with an instruction on them he
+   never obeys.
+4. **What happened on the ninth.** *Never closes.*
+5. **The thing he has and cannot state.**
+6. **Kimimaro's third piece is growing.**
+7. **Uzuki is inside the Kadono-dera and the rain is on the 26th.**

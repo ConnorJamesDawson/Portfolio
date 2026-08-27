@@ -387,6 +387,42 @@ full, at whatever register that character owns.**
 > reader has seen what he did. He has not.* **That gap is worth more than
 > the mystery ever was.**
 
+### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
+
+**Found in ch10 scene 9, and it was mine.** I needed the hunter file's
+history, reached for `ch07.md` §4's scene table, and got **7/23, and a
+fourth column**. The prose says **the third of the seventh month, in a
+plantation outside Hanase, on eleven leaves of the harbour office's
+spoiled paper, five columns, and the fifth one invented standing there
+with the pen in his hand.** I built the scene on the plan's version and
+got a six-week silence out of a file whose actual last entry — **the
+left-hander, 17/9, ch9 scene 8** — I had written myself, one chapter
+earlier.
+
+**Why this is worth a rule and not just a correction.** `spec.md` §0
+already has the class: **PAGE** is what landed in accepted prose, and
+**PROPOSED** is everything else. *A plan file is not promoted to PAGE by
+having been written first.* It is PROPOSED before the chapter and it is
+still PROPOSED afterwards, because the prose moves things and nobody goes
+back — ch7 moved that scene by twenty days and the plan still says 7/23.
+
+> **So: when reaching back for an established fact, read the prose.**
+> Design files carry *intent*. Ledgers carry *the running quantities*.
+> **Neither is evidence of what is on the page**, and the ledger entry is
+> only as good as the prose read that produced it — mine said 26/8, which
+> was **Uzuki's ninety count**, a different series entirely.
+
+**The check is cheap.** `grep` the prose, not the plan. The three minutes
+it took to find the left-hander entry afterwards would have cost three
+minutes before the draft instead of a rewrite after it.
+
+**And the cost is named honestly, because the correction improved the
+scene.** The real last entry is not a nothing — it is *the best page he
+has ever made*, and the silence begins **three days after he wrote it and
+three days before the docket with no cargo line arrives.** **A fact
+checked against the prose is not only safer; it is usually the better
+beat, because it already has a scene standing behind it.**
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be
