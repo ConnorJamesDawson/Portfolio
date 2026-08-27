@@ -5,7 +5,6 @@ Ten scenes, 18,070 words.*
 
 
 
-
 *Act 1, month 6, the second to the eleventh. Sakabe to Fukae. Tadayoshi
 Ruri, age ten. POV: Tadayoshi. ~1,980 words.*
 
@@ -177,8 +176,8 @@ turnips out of a clamp, which was theft and which he entered as theft,
 with the value, so that it could be paid later if it ever could be. Eggs
 he found and did not take, because eggs get missed. Bread.
 
-He had four ryō and a bit when he set out from Sakabe and he had three
-and a half when he came in sight of Fukae, and he was aware, in a
+He had four thousand ryō and a bit when he set out from Sakabe and he had
+three and a half when he came in sight of Fukae, and he was aware, in a
 distant way, that he did not know whether either of those was a lot.
 
 *Nine a week at Sunaba, and this is nine days, and I have spent about a
@@ -283,8 +282,8 @@ Then he lay down in the bracken with the parcel against his back and
 slept until it was light.
 
 
----
 
+---
 
 
 *Act 1, month 6, the twenty-ninth. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -538,8 +537,8 @@ had all had a nice afternoon.
 *Nine and me.*
 
 
----
 
+---
 
 
 *Act 1, month 6, the twelfth. The Kiribata, Fukae. Tadayoshi Ruri, age
@@ -834,8 +833,8 @@ with an entirely different face on.
 where you think it is."
 
 
----
 
+---
 
 
 *Act 1, month 7, the second. Nakadō. Nozaki Uzuki, age ten. POV: Uzuki.
@@ -1094,8 +1093,8 @@ Somebody laughed. It went quiet.
 She turned over.
 
 
----
 
+---
 
 
 *Act 1, month 6, the twelfth. The back room of the Kiribata, Fukae.
@@ -1383,8 +1382,8 @@ get it out of your hands. Go on, get out, you're four days from Hanase
 and you look like something off a beach."
 
 
----
 
+---
 
 
 *Act 1, month 7, the third to the nineteenth. Nakadō. Nozaki Uzuki, age
@@ -1424,7 +1423,7 @@ And Kuriya's half a month went on arriving.
 
 She did him on the sixth and the ninth and the thirteenth and the
 sixteenth, twice a week in daylight, and if anybody asked she was doing
-the step, and nobody ever asked, and the half a ryō came at the end of
+the step, and nobody ever asked, and the five hundred ryō came at the end of
 the month the way he had said it would.
 
 And she put it on the table and her mother put it in the box in the left
@@ -1670,17 +1669,17 @@ She had had that list since she was seven years old.
 She had never once, in three years, taken anybody off it.
 
 
+
 ---
 
 
-
 *Act 1, month 6, the thirteenth and fourteenth. Fukae. Tadayoshi Ruri,
-age ten. POV: Tadayoshi. ~1,790 words.*
+age ten. POV: Tadayoshi. ~1,800 words.*
 
 ---
 
 He stayed two days in Fukae because he had eighteen and Hanase was four,
-and because a man had told him to buy a coat and he had six ryō, and
+and because a man had told him to buy a coat and he had six thousand ryō, and
 because he had never in his life bought anything that was not food.
 
 He made a list the night before. Of course he made a list.
@@ -1800,7 +1799,7 @@ put them in the list, under the coat, with a line beside them:
 He bought the boots for one and the blanket for a quarter and the oil for
 about nothing and a tin for a sixteenth, and it all went in the list with
 the real prices written next to his invented ones, and he was down to
-about three ryō and the whole of it was the best-equipped he had been
+about three thousand ryō and the whole of it was the best-equipped he had been
 since the fourth month.
 
 He put the coat on that evening and it was warm and it was dry and it fit
@@ -1955,8 +1954,8 @@ the straw in the coat he had paid double for, which was warm, and which
 fit, and which was still the best thing he owned.
 
 
----
 
+---
 
 
 *Act 1, month 7, the twentieth. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -2271,12 +2270,12 @@ Then she reached out, without particularly deciding to, and put one hand
 flat on the brick, and left it there.
 
 
+
 ---
 
 
-
 *Act 1, month 7, the second and third. Hanase. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,930 words.*
+POV: Tadayoshi. ~1,920 words.*
 
 ---
 
@@ -2464,7 +2463,7 @@ nothing once it was wet.
 
 *It is a coat.*
 
-*It is one and a half ryō, which I have now established was three-quarters
+*It is fifteen hundred ryō, which I have now established was three-quarters
 of a ryō, so what I have actually lost tonight is three-quarters of a
 ryō and about two days of being warm.*
 
@@ -2554,8 +2553,8 @@ He blew on it, and folded it, and put it inside his shirt on the other
 side from the book, and went on east in the rain without a coat.
 
 
----
 
+---
 
 
 *Act 1, month 7, the twenty-first. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -2843,6 +2842,7 @@ Then she put the bag behind the brick, and did it from the door — down on
 one knee, two fingers, in, brick back — and it took about two and a half,
 and she lay down on the mat in her own room with the door shut, in the
 house with the roof that did nothing when it rained.
+
 
 
 ---

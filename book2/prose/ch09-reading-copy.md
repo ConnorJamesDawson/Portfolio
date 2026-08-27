@@ -1,8 +1,7 @@
 # Chapter 9 — Seven From The Mat
 
 *Book two. Act one, month 9, the 2nd – the 24th.
-Nine scenes, 17,410 words.*
-
+Nine scenes, 17,400 words.*
 
 
 
@@ -296,8 +295,8 @@ to do the water.
 Nothing happened on the ninth.
 
 
----
 
+---
 
 
 *Act 1, month 9, the fourth to the tenth. Ōtoma to Fukae and back.
@@ -523,8 +522,8 @@ He looked at the boot.
 He did not write that down either.
 
 
----
 
+---
 
 
 *Act 1, month 9, the eleventh. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -783,8 +782,8 @@ there was, which was the back, because the four columns were full.
 *11th. Done.*
 
 
----
 
+---
 
 
 *Act 1, month 9, the fourteenth. Kuriya's kitchen, Nakadō. Nozaki Uzuki,
@@ -1049,8 +1048,8 @@ five o'clock and the light was going early now and there were three days
 left.
 
 
----
 
+---
 
 
 *Act 1, month 9, the seventeenth. The Aku bank, two days east of Ōtoma.
@@ -1374,8 +1373,8 @@ gravel four feet from the middle of them.
 He knew he was doing it while he did it.
 
 
----
 
+---
 
 
 *Act 1, month 9, the seventeenth, night. Nakadō. Nozaki Uzuki, age ten.
@@ -1718,8 +1717,8 @@ And she went on up the lane in the dark, on stone, on the seventeenth
 night of the ninth month of the year she was ten.
 
 
----
 
+---
 
 
 *Act 1, month 9, the seventeenth night and the eighteenth. Above Nakadō.
@@ -1735,7 +1734,7 @@ decision. What happened was that she came out of the gate and turned left,
 and left is the shrine and the lane and the fork above Iwasa's, and at the
 fork she went right, and right is the north road, and the north road is
 the road she had walked on the twenty-sixth of the third month with a cart
-and a hundred ryō in a fold of cloth and four days in front of her.
+and a hundred thousand ryō in a fold of cloth and four days in front of her.
 
 She had been eleven days short of ten years old.
 
@@ -1851,10 +1850,10 @@ and which was the reason the knife had not gone through the bag.
 *The money.*
 
 Behind the brick, with the bag, because everything was behind the brick,
-because there had never been anywhere else. Half a ryō and a bit in a twist
-of cloth.
+because there had never been anywhere else. Five hundred ryō and a bit in a
+twist of cloth.
 
-*Half a ryō, a bit, a bag, a knife.*
+*Five hundred ryō, a bit, a bag, a knife.*
 
 *That's it.*
 
@@ -2022,12 +2021,12 @@ She looked up the road at the fork.
 
 She went left at the fork at about half past nine on the morning of the
 eighteenth of the ninth month, on the Ōgi road, on bare feet, with a bag
-and a knife and half a ryō, and she had four days of walking in front of
+and a knife and five hundred ryō, and she had four days of walking in front of
 her and a name and a street and a woman who did the beds for three inns.
 
 
----
 
+---
 
 
 *Act 1, month 9, the eighteenth and nineteenth. Ōtoma. Tadayoshi Ruri,
@@ -2277,12 +2276,12 @@ He did not get anywhere with it.
 He went in when it got cold.
 
 
+
 ---
 
 
-
 *Act 1, month 9, the eighteenth to the twenty-fourth. The Ōgi road, and
-Ōgi. Nozaki Uzuki, age ten. POV: Uzuki. ~2,620 words.*
+Ōgi. Nozaki Uzuki, age ten. POV: Uzuki. ~2,610 words.*
 
 ---
 
@@ -2332,7 +2331,7 @@ five if the feet don't get worse.*
 She ate on the first day and the second day and did not eat much on the
 third.
 
-The half ryō was the whole of the estate and she had decided on the bank
+The five hundred was the whole of the estate and she had decided on the bank
 under the thorn what it was for, and she had decided it properly, in
 steps, sitting there with it in the twist of cloth on her knee.
 
@@ -2340,13 +2339,13 @@ steps, sitting there with it in the twist of cloth on her knee.
 
 *It is for the first month at Ōgi.*
 
-*Because when I get there I am going to be a girl at a door with nothing,
-and a girl at a door with nothing is a girl who is asking, and a girl at a
-door with half a ryō is a girl who can pay for four weeks of somewhere to
+*Because when I get there I am going to be a girl at a door with nothing, and
+a girl at a door with nothing is a girl who is asking, and a girl at a door
+with five hundred ryō is a girl who can pay for four weeks of somewhere to
 sleep while she starts, and those are two different girls, and one of them
 gets taken on and the other one gets fed and sent on.*
 
-So she ate about a fifth of a ryō in five days and she was hungry from
+So she ate about two hundred ryō in five days and she was hungry from
 about the middle of the second day and she did not spend it, and that was
 the single most difficult sustained thing she did that year and nobody ever
 knew about it.
@@ -2471,7 +2470,7 @@ they've been doing it nine years.*
 
 *And if she did need somebody she would want somebody who's fifteen, and
 what is standing on this wall is ten, with no shoes on, and feet that
-aren't right, and about a fifth of a ryō gone out of a half, and nobody's
+aren't right, and about two hundred ryō gone out of a half, and nobody's
 name.*
 
 ---
@@ -2647,7 +2646,7 @@ She looked at the four of them for a long time.
 *So that's it. That's what a bag is.*
 
 *Two of them are dead and one of them's a number I'm not going to reach for
-four and a half years and one of them's got a half a ryō in it.*
+four and a half years and one of them's got a five hundred ryō in it.*
 
 She turned it over and there was no room on the back either, because the
 back had the eleven questions on it and the nine no's and the gaps in a
@@ -2682,6 +2681,7 @@ She sat with that.
 *And they're the same fact.*
 
 She put the bag inside her shift and put her arms round her knees.
+
 
 
 ---

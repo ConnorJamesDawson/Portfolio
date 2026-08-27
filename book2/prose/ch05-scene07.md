@@ -1,7 +1,7 @@
 # Chapter 5, Scene 7 — Thirty-One Good
 
 *Act 1, month 5, the eighth. Nakadō. Nozaki Uzuki, age ten. POV: Uzuki.
-~1,220 words.*
+~1,230 words.*
 
 ---
 
@@ -37,7 +37,7 @@ Now she looked at a sheet of paper and read it like a page.
 one is money out, and the left one has three things in it and the right
 one has eleven.*
 
-*Left: the mill, four ryō, that's the two big parcels from the second
+*Left: the mill, four thousand ryō, that's the two big parcels from the second
 month that he settled at month end. Iwasa, one and a half. And she's
 written "H" and a hundred and drawn a line under it, and the line under
 it means she's not counting it.*

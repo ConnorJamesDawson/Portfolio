@@ -157,7 +157,7 @@ face and she did not say anything about a child doing sums.
 
 "It—"
 
-"It's four ryō a year."
+"It's four thousand ryō a year."
 
 ---
 

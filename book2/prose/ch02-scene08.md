@@ -15,12 +15,11 @@ the shed for anything short of the sea coming in.
 
 His mother was at the table with the comb.
 
-She had had it out every day since Iwao gave it to her, and she did not
-use it at the table, she *looked* at it — turned it over, put it down,
-picked it up an hour later — the way somebody handles a thing they have
-not yet decided how to feel about. It was tortoiseshell and it had cost
-two ryō of the extra and it was, by a distance, the nicest object in the
-house.
+She had had it out every day since Iwao gave it to her, and she did not use it
+at the table, she *looked* at it — turned it over, put it down, picked it up
+an hour later — the way somebody handles a thing they have not yet decided how
+to feel about. It was tortoiseshell and it had cost two thousand ryō of the
+extra and it was, by a distance, the nicest object in the house.
 
 He put the ledger on the table in front of her.
 

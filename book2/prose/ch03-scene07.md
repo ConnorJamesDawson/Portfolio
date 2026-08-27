@@ -103,9 +103,9 @@ Ask."
 
 "Anzai," said a third, without being asked, from further up.
 
-*That is three, and it is the same one three times, and it took nine
-seconds, and the man at the gate would have had two ryō off me and sent
-me to a herbalist.*
+*That is three, and it is the same one three times, and it took nine seconds,
+and the man at the gate would have had two thousand ryō off me and sent me to
+a herbalist.*
 
 "Where's his house?"
 

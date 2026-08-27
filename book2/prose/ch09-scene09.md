@@ -1,7 +1,7 @@
 # Chapter 9, Scene 9 — I Don't Know Him
 
 *Act 1, month 9, the eighteenth to the twenty-fourth. The Ōgi road, and
-Ōgi. Nozaki Uzuki, age ten. POV: Uzuki. ~2,620 words.*
+Ōgi. Nozaki Uzuki, age ten. POV: Uzuki. ~2,610 words.*
 
 ---
 
@@ -51,7 +51,7 @@ five if the feet don't get worse.*
 She ate on the first day and the second day and did not eat much on the
 third.
 
-The half ryō was the whole of the estate and she had decided on the bank
+The five hundred was the whole of the estate and she had decided on the bank
 under the thorn what it was for, and she had decided it properly, in
 steps, sitting there with it in the twist of cloth on her knee.
 
@@ -59,13 +59,13 @@ steps, sitting there with it in the twist of cloth on her knee.
 
 *It is for the first month at Ōgi.*
 
-*Because when I get there I am going to be a girl at a door with nothing,
-and a girl at a door with nothing is a girl who is asking, and a girl at a
-door with half a ryō is a girl who can pay for four weeks of somewhere to
+*Because when I get there I am going to be a girl at a door with nothing, and
+a girl at a door with nothing is a girl who is asking, and a girl at a door
+with five hundred ryō is a girl who can pay for four weeks of somewhere to
 sleep while she starts, and those are two different girls, and one of them
 gets taken on and the other one gets fed and sent on.*
 
-So she ate about a fifth of a ryō in five days and she was hungry from
+So she ate about two hundred ryō in five days and she was hungry from
 about the middle of the second day and she did not spend it, and that was
 the single most difficult sustained thing she did that year and nobody ever
 knew about it.
@@ -190,7 +190,7 @@ they've been doing it nine years.*
 
 *And if she did need somebody she would want somebody who's fifteen, and
 what is standing on this wall is ten, with no shoes on, and feet that
-aren't right, and about a fifth of a ryō gone out of a half, and nobody's
+aren't right, and about two hundred ryō gone out of a half, and nobody's
 name.*
 
 ---
@@ -366,7 +366,7 @@ She looked at the four of them for a long time.
 *So that's it. That's what a bag is.*
 
 *Two of them are dead and one of them's a number I'm not going to reach for
-four and a half years and one of them's got a half a ryō in it.*
+four and a half years and one of them's got a five hundred ryō in it.*
 
 She turned it over and there was no room on the back either, because the
 back had the eleven questions on it and the nine no's and the gaps in a

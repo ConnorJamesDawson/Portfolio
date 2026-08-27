@@ -186,10 +186,10 @@ found that she could not say anything at all.
 
 Ine tried to give her money.
 
-It was eleven ryō and Uzuki looked at it in the woman's palm and had one
-of the strangest moments of her life, because she wanted it — she wanted
-it the way she had wanted the barley in Kanmuri lane — and what came out
-of her mouth was:
+It was eleven thousand ryō and Uzuki looked at it in the woman's palm and had
+one of the strangest moments of her life, because she wanted it — she wanted
+it the way she had wanted the barley in Kanmuri lane — and what came out of
+her mouth was:
 
 "No."
 

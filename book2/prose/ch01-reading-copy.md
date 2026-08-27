@@ -4,7 +4,6 @@
 
 
 
-
 *Act 1, month 1. Shioiri, the workshop on the third course. Tadayoshi
 Ruri, age ten. POV: Tadayoshi. ~2,100 words.*
 
@@ -205,12 +204,12 @@ The door went.
 
 "There is light for another twenty minutes."
 
-"There is light for another six, and you'll ruin your eyes and then I'll
-have two of us squinting." She came in shaking the rain off her sleeves.
-She was not a big woman. She had never been a big woman; the trade did
-not build you, it wore you at the ends, and her fingertips had gone
-smooth years ago in the way that meant she could set a stone in a mount
-by feel and could not tell a five-ryō piece from a ten without looking.
+"There is light for another six, and you'll ruin your eyes and then I'll have
+two of us squinting." She came in shaking the rain off her sleeves. She was
+not a big woman. She had never been a big woman; the trade did not build you,
+it wore you at the ends, and her fingertips had gone smooth years ago in the
+way that meant she could set a stone in a mount by feel and could not tell a
+five-hundred piece from a thousand without looking.
 
 She stopped at the bench and looked into the tin, which she did every
 evening, and which he had stopped being nervous about a long time ago.
@@ -271,8 +270,8 @@ weight and grade.
 
 He counted it.
 
----
 
+---
 
 
 *Act 1, month 1. Nakadō, in the Land of Hot Water. Nozaki Uzuki, age
@@ -497,8 +496,8 @@ else the house had ever put down a drain.
 She went in with the empty bowl banging against her leg, and shut the
 door on the cold, and did not think about it again for two years.
 
----
 
+---
 
 
 *Act 1, month 1. Shioiri, the low house on the second course. Tadayoshi
@@ -786,8 +785,8 @@ Fourteen and a half, in four stacks and a loose one.
 Tadayoshi went past it on his way up and counted the loose one on the
 way, because it annoyed him not to, and it came to eleven.
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,290 words.*
@@ -982,8 +981,8 @@ Then the bucket came, which made five.
 
 *One,* he thought, and started again from the bucket.
 
----
 
+---
 
 
 *Act 1, month 2. Nakadō, behind the house. Nozaki Uzuki, age ten. POV:
@@ -1236,8 +1235,8 @@ of the passage.
 Then she went and got the lamp, because he was still out on the barrow,
 and it was cold, and somebody was going to have to see him back in.
 
----
 
+---
 
 
 *Act 1, month 2. Shioiri, Meno's room on the third course. Tadayoshi
@@ -1577,8 +1576,8 @@ He wrote three things in it that night, and the first one was:
 
 *Nineteen went. Nobody says the names.*
 
----
 
+---
 
 
 *Act 1, month 2. Nakadō, the kitchen and the Ōgi road. Nozaki Uzuki,
@@ -1809,8 +1808,8 @@ turned it over for a while that evening and could not find the hole in
 it — that her mother had put it up high because a hundred was worth
 keeping safe.
 
----
 
+---
 
 
 *Act 1, month 2. The Academy, Kirigakure. Tadayoshi Ruri, age ten. POV:
@@ -2119,8 +2118,8 @@ The rain got heavier on the road down and he put his hands under his
 arms to keep them warm, because he had nine drops to do when he got in,
 and cold hands made bad work, and bad work was what he was for.
 
----
 
+---
 
 
 *Act 1, month 2. Nakadō, the back room. Nozaki Uzuki, age ten. POV:
@@ -2348,8 +2347,8 @@ the middle.*
 
 *And seven days is not a sum. Seven days is a walk.*
 
----
 
+---
 
 
 *Act 1, month 2, the last week. Shioiri, Akagane's shed on the second
@@ -2616,5 +2615,6 @@ rag, where it stayed.
 
 He laid eight more drops before the lamp went, and every one of them had
 grain in it.
+
 
 ---

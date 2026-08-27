@@ -259,7 +259,7 @@ be a worse man for about one minute.*
 
 "Yes," she said.
 
-He counted out a quarter of a ryō and put it in her hand.
+He counted out two hundred and fifty ryō and put it in her hand.
 
 *A quarter.*
 
@@ -341,7 +341,7 @@ is dead. I haven't got that. Nobody in this village has got that."
 
 "Then what."
 
-"Half a ryō a month," said Kuriya, "and you come twice a week, and you
+"Five hundred ryō a month," said Kuriya, "and you come twice a week, and you
 come whether it's bad or it isn't, and if I'm away you don't lose it."
 
 *Half.*
@@ -364,7 +364,7 @@ ninety and the same sitting on the floor after.*
 
 **The minute a thing stops being a wonder it starts being a price.**
 
-*Half a ryō against three and a half.*
+*Five hundred ryō against three and a half.*
 
 "And I'll tell you the other thing now," said Kuriya, "so you're not
 sitting up waiting for it. I'd like to send you to Ine's brother. I'd
@@ -379,7 +379,7 @@ girl who mends people and starts being a thing there's a word for."
 
 ---
 
-She went down the hill in the dark with a quarter of a ryō in her fist
+She went down the hill in the dark with two hundred and fifty ryō in her fist
 and her hands still not right.
 
 *So it works.*

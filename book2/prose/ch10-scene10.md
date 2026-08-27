@@ -80,7 +80,7 @@ last real piece of work she did for eight weeks.
 
 *It is the second of the eleventh month, going on the ninth.*
 
-*I have got a third of a ryō and eight mon.*
+*I have got three hundred and ninety ryō.*
 
 *I have got two shoes and one of them is not my size and the rag came out
 of it in the rain and I have not got another rag.*
@@ -248,10 +248,10 @@ said was not any of the things she had been thinking.
 
 "There are two thousand and forty-eight days in this."
 
-She had worked it out on about the eleventh, off nothing, for something to
-do: the whole of it, from the twenty-sixth of the third month, when she
-had walked north out of Nakadō with a cart and a hundred ryō and four days
-in front of her, to the day she would be fifteen.
+She had worked it out on about the eleventh, off nothing, for something to do:
+the whole of it, from the twenty-sixth of the third month, when she had walked
+north out of Nakadō with a cart and a hundred thousand ryō and four days in
+front of her, to the day she would be fifteen.
 
 *And I have done four hundred and eighty-nine of them.*
 

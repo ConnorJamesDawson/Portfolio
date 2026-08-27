@@ -5,7 +5,6 @@ Nine scenes, 16,870 words.*
 
 
 
-
 *Act 1, month 4, the third. The Academy at Kirigakure, and the ferry
 stair. Tadayoshi Ruri, age ten. POV: Tadayoshi. ~1,730 words.*
 
@@ -298,8 +297,8 @@ difference.
 
 Then he came over the top and saw the hill.
 
----
 
+---
 
 
 *Act 1, month 3, the twenty-seventh — day two. The north road above Ōgi.
@@ -580,8 +579,8 @@ She lay under the sacking and thought about that for a while, and could
 not work out whether it was a good report or no report at all, and went
 to sleep before she got to the end of it.
 
----
 
+---
 
 
 *Act 1, month 4, the third. The shoulder above the inlet, Shioiri.
@@ -863,8 +862,8 @@ the way home and was six hundred yards.
 
 He went along the top, and up, to the sixth.
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,370 words.*
@@ -1070,8 +1069,8 @@ ache going out of his arm and the count going forward from the bucket,
 and he was, for the first time in about two years, looking forward to
 something.
 
----
 
+---
 
 
 *Act 1, month 4, the fifth. A determination room, Kirigakure. Ruri
@@ -1503,8 +1502,8 @@ She got it out with her thumbnail.
 Then she took three fingers of the new grit off the tray, and levelled it
 off with the side of her thumb, and put her left hand under.
 
----
 
+---
 
 
 *Act 1, month 4, the third, night. Shioiri, the sixth course. Tadayoshi
@@ -1736,8 +1735,8 @@ And then he lay on a dead man's bed in a house that had been shut before
 he was born, with his coat over him inside out, and did not sleep, and
 waited for the light.
 
----
 
+---
 
 
 *Act 1, month 3, the twenty-ninth — day four. Kayano. Nozaki Uzuki, age
@@ -1843,9 +1842,9 @@ Ask."
 
 "Anzai," said a third, without being asked, from further up.
 
-*That is three, and it is the same one three times, and it took nine
-seconds, and the man at the gate would have had two ryō off me and sent
-me to a herbalist.*
+*That is three, and it is the same one three times, and it took nine seconds,
+and the man at the gate would have had two thousand ryō off me and sent me to
+a herbalist.*
 
 "Where's his house?"
 
@@ -1987,8 +1986,8 @@ Somewhere on the other side of the bridge a bell went for something, and
 Uzuki Nozaki went to sleep on the ground outside a green door that had
 been blue, four days' walk from a house where her father was awake.
 
----
 
+---
 
 
 *Act 1, month 4, the fourth, night. Shioiri, the second and third
@@ -2128,8 +2127,8 @@ The comb was on the table.
 
 ---
 
-It was tortoiseshell and it had cost two ryō of the extra and it had been
-on that table every single day for two and a half weeks, and she had not
+It was tortoiseshell and it had cost two thousand ryō of the extra and it had
+been on that table every single day for two and a half weeks, and she had not
 used it once — she had looked at it, and turned it over, and put it down,
 about four times a day, for eighteen days.
 
@@ -2176,10 +2175,10 @@ it back.*
 
 He stood in the passage of the low house with his hand on the frame.
 
-*They came for the household. They opened every door on the hill because
-they did not know which houses were which. They did not touch the
-workshop, they did not touch the tin, they did not touch four dozen ryō
-of finished work sitting in the open.*
+*They came for the household. They opened every door on the hill because they
+did not know which houses were which. They did not touch the workshop, they
+did not touch the tin, they did not touch forty-eight thousand ryō of finished
+work sitting in the open.*
 
 *They searched one room and they took what was in it.*
 
@@ -2297,8 +2296,8 @@ him until about three in the morning.
 The last one was the end house on the sixth, which was Take's, and he did
 not shut that one, because he was going to sleep in it.
 
----
 
+---
 
 
 *Act 1, month 4, the fifth, morning. Shioiri, the yard on the third
@@ -2572,5 +2571,6 @@ He stood in front of it with his hand out.
 
 Then he opened it, and went in, and did not shut it after him, because
 there was nobody left on the hill to shut it against.
+
 
 ---

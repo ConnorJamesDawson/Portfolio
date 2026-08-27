@@ -4,7 +4,6 @@
 
 
 
-
 *Act 1, month 3. The road from Shioiri to Ōura. Tadayoshi Ruri, age ten.
 POV: Tadayoshi. ~1,790 words.*
 
@@ -274,8 +273,8 @@ Tadayoshi came on.
 *I have already counted them,* he thought, and did not say, because there
 was nothing in it for anybody. *There are forty-one.*
 
----
 
+---
 
 
 *Act 1, month 3. Nakadō, Tazu's shed. Nozaki Uzuki, age ten. POV: Uzuki.
@@ -539,8 +538,8 @@ was at the table with the box out, at the eleventh of the month, again.
 
 *And now I know what I'm selling.*
 
----
 
+---
 
 
 *Act 1, month 3. Kanaya's counter, Ōura. Tadayoshi Ruri, age ten. POV:
@@ -734,9 +733,9 @@ you were standing there."
 
 ---
 
-And Kenji-of-the-counter, who had a boat problem and a house in Sunaba
-sitting on eleven hundred pieces and thirteen ryō on the cloth in front
-of him, picked up his spatula and did four dozen and three again for a
+And Kenji-of-the-counter, who had a boat problem and a house in Sunaba sitting
+on eleven hundred pieces and thirteen thousand ryō on the cloth in front of
+him, picked up his spatula and did four dozen and three again for a
 thirteen-year-old.
 
 He did them in fives this time and named them as they went.
@@ -868,12 +867,12 @@ wrapped in paper.
 
 "Comb. For Ma."
 
-"You have spent two ryō of the sale — "
+"You have spent two thousand ryō of the sale — "
 
-"I've spent two ryō of the *extra*," said Iwao, "which we did not have
-this morning, and which we have got because a man got interested in his
-own glass, and I'd like it noted that I am the only person in this family
-who ever buys her anything."
+"I've spent two thousand ryō of the *extra*," said Iwao, "which we did not
+have this morning, and which we have got because a man got interested in his
+own glass, and I'd like it noted that I am the only person in this family who
+ever buys her anything."
 
 "Meno bought her a — "
 
@@ -882,8 +881,8 @@ who ever buys her anything."
 He put the parcel inside his shirt, next to the folded form, and grinned
 at his brother, and went to find the mule.
 
----
 
+---
 
 
 *Act 1, month 3. Nakadō, the kitchen. Nozaki Uzuki, age ten. POV: Uzuki.
@@ -1117,8 +1116,8 @@ doesn't want to say so in case it isn't enough.*
 She wiped her face on her sleeve and went in to see whether he wanted
 anything.
 
----
 
+---
 
 
 *Act 1, month 3. Kirigakure, the returns office, fourth floor. Sakuma,
@@ -1382,8 +1381,8 @@ finish it three days early for the second year running.
 
 He wiped his hands, and moved the slip.
 
----
 
+---
 
 
 *Act 1, month 3. Shioiri, the workshop. Tadayoshi Ruri, age ten. POV:
@@ -1598,8 +1597,8 @@ In the morning he put it inside his shirt and carried it about with him
 for eleven days before he found an afternoon when the kitchen was empty
 and his mother was in it.
 
----
 
+---
 
 
 *Act 1, month 3. Nakadō, the back room. Nozaki Uzuki, age ten. POV:
@@ -1864,8 +1863,8 @@ She looked at that for a while in the dark.
 Then she took hers upstairs, and did not say anything to anybody about
 it, and put it under the bed where she could reach it.
 
----
 
+---
 
 
 *Act 1, month 3. Shioiri, the kitchen. Tadayoshi Ruri, age ten. POV:
@@ -1883,12 +1882,11 @@ the shed for anything short of the sea coming in.
 
 His mother was at the table with the comb.
 
-She had had it out every day since Iwao gave it to her, and she did not
-use it at the table, she *looked* at it — turned it over, put it down,
-picked it up an hour later — the way somebody handles a thing they have
-not yet decided how to feel about. It was tortoiseshell and it had cost
-two ryō of the extra and it was, by a distance, the nicest object in the
-house.
+She had had it out every day since Iwao gave it to her, and she did not use it
+at the table, she *looked* at it — turned it over, put it down, picked it up
+an hour later — the way somebody handles a thing they have not yet decided how
+to feel about. It was tortoiseshell and it had cost two thousand ryō of the
+extra and it was, by a distance, the nicest object in the house.
 
 He put the ledger on the table in front of her.
 
@@ -2207,8 +2205,8 @@ He did nine drops that evening in the new frame, and every one of them
 had grain in it, and the grease made the seals slip for the first four
 and after that it did not.
 
----
 
+---
 
 
 *Act 1, month 3, the twenty-sixth. Nakadō, and the Ōgi road. Nozaki
@@ -2446,5 +2444,6 @@ She went on past the milestone in the dark, with the cart making the
 noise a cart makes, and she was over the first rise before it got light
 and she did not look back from up there, because she had already looked
 back once at the gate and you only get the one.
+
 
 ---

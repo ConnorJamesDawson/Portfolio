@@ -191,9 +191,9 @@ you were standing there."
 
 ---
 
-And Kenji-of-the-counter, who had a boat problem and a house in Sunaba
-sitting on eleven hundred pieces and thirteen ryō on the cloth in front
-of him, picked up his spatula and did four dozen and three again for a
+And Kenji-of-the-counter, who had a boat problem and a house in Sunaba sitting
+on eleven hundred pieces and thirteen thousand ryō on the cloth in front of
+him, picked up his spatula and did four dozen and three again for a
 thirteen-year-old.
 
 He did them in fives this time and named them as they went.
@@ -325,12 +325,12 @@ wrapped in paper.
 
 "Comb. For Ma."
 
-"You have spent two ryō of the sale — "
+"You have spent two thousand ryō of the sale — "
 
-"I've spent two ryō of the *extra*," said Iwao, "which we did not have
-this morning, and which we have got because a man got interested in his
-own glass, and I'd like it noted that I am the only person in this family
-who ever buys her anything."
+"I've spent two thousand ryō of the *extra*," said Iwao, "which we did not
+have this morning, and which we have got because a man got interested in his
+own glass, and I'd like it noted that I am the only person in this family who
+ever buys her anything."
 
 "Meno bought her a — "
 

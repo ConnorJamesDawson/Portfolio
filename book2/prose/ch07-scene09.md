@@ -1,7 +1,7 @@
 # Chapter 7, Scene 9 — How Many Are In The House
 
 *Act 1, month 7, the second and third. Hanase. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,930 words.*
+POV: Tadayoshi. ~1,920 words.*
 
 ---
 
@@ -189,7 +189,7 @@ nothing once it was wet.
 
 *It is a coat.*
 
-*It is one and a half ryō, which I have now established was three-quarters
+*It is fifteen hundred ryō, which I have now established was three-quarters
 of a ryō, so what I have actually lost tonight is three-quarters of a
 ryō and about two days of being warm.*
 

@@ -1,8 +1,7 @@
 # Chapter 4 — Eleven Days
 
 *Book two. Act one, month 3 (30th) – month 4 (7th).
-Ten scenes, 16,860 words.*
-
+Ten scenes, 16,880 words.*
 
 
 
@@ -271,8 +270,8 @@ Then she put her hand flat on the inside pocket, and the hundred was
 there, and she went to sleep with her chin on her knees in the fourth
 night of the doorway that she was no longer in.
 
----
 
+---
 
 
 *Act 1, month 4, the fifth, afternoon. Shioiri. Tadayoshi Ruri, age ten.
@@ -488,8 +487,8 @@ He walked until he could not see the path and then a bit further, and
 slept under a wall about six miles on, in his coat, with the tin between
 his knees.
 
----
 
+---
 
 
 *Act 1, month 4, the first — day six. The tannery below Kayano. Nozaki
@@ -744,12 +743,12 @@ She got her head up off her knees.
 Then it went quiet again, and it was not him, and it was not going to be
 him until the Friday.
 
+
 ---
 
 
-
 *Act 1, month 4, the seventh. Kanaya's counter, Ōura. Tadayoshi Ruri,
-age ten. POV: Tadayoshi. ~1,750 words.*
+age ten. POV: Tadayoshi. ~1,760 words.*
 
 ---
 
@@ -1023,14 +1022,14 @@ carry it for thirty years.*
 
 *And so am I, and I was there.*
 
-He put his hand flat against his coat where the drop was, and stood in
-the alley off the bridge road at Ōura with fourteen ryō in four places on
+He put his hand flat against his coat where the drop was, and stood in the
+alley off the bridge road at Ōura with fourteen thousand ryō in four places on
 his body, and understood that he now had money and no plan, exactly as
-forecast, and that the forecast had been the only correct thing in his
-head for four days.
+forecast, and that the forecast had been the only correct thing in his head
+for four days.
+
 
 ---
-
 
 
 *Act 1, month 4, the third — day eight. Kanmuri lane, Kayano. Nozaki
@@ -1360,8 +1359,8 @@ had, and Uzuki Nozaki went to her grave believing she had been given
 three and a half hours of the best medic in the Land of Hot Water because
 she had gone and sat in a nettle bank and got the arithmetic right.
 
----
 
+---
 
 
 *Act 1, month 4, the third, two till dark. Anzai's back room, Kayano.
@@ -1722,8 +1721,8 @@ which she had not asked permission to do.
 
 Nobody made her get up.
 
----
 
+---
 
 
 *Act 1, month 4, the third, evening. Kanmuri lane, Kayano. Nozaki Uzuki,
@@ -1941,8 +1940,8 @@ the month and her father was four days away and alive.
 road in the dark, walking, because sleeping was a thing she was going to
 do on the way.
 
----
 
+---
 
 
 *Act 1, month 4, the fourth and fifth — days nine and ten. The north
@@ -2131,10 +2130,10 @@ found that she could not say anything at all.
 
 Ine tried to give her money.
 
-It was eleven ryō and Uzuki looked at it in the woman's palm and had one
-of the strangest moments of her life, because she wanted it — she wanted
-it the way she had wanted the barley in Kanmuri lane — and what came out
-of her mouth was:
+It was eleven thousand ryō and Uzuki looked at it in the woman's palm and had
+one of the strangest moments of her life, because she wanted it — she wanted
+it the way she had wanted the barley in Kanmuri lane — and what came out of
+her mouth was:
 
 "No."
 
@@ -2234,19 +2233,19 @@ and moving before it was light, and she came over the last rise above
 Nakadō at about eleven in the morning on the sixth of the fourth month,
 which was the eleventh day.
 
+
 ---
 
 
-
 *Act 1, month 4, the seventh, afternoon. Ōura. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,240 words.*
+POV: Tadayoshi. ~1,250 words.*
 
 ---
 
 He tried asking people first and he was extremely bad at it.
 
-He worked out how bad at about the fourth attempt, standing on the wharf
-below the bridge with fourteen ryō on him and a question that had seemed
+He worked out how bad at about the fourth attempt, standing on the wharf below
+the bridge with fourteen thousand ryō on him and a question that had seemed
 straightforward for four days.
 
 *A boat with a house on it went north past the bar at Shioiri on the
@@ -2376,7 +2375,7 @@ job it is.*
 
 *Two days' walk.*
 
-*And I have fourteen ryō, which is about a month if I am careful and
+*And I have fourteen thousand ryō, which is about a month if I am careful and
 sleep badly.*
 
 *I do not know what the boat was called. I do not know who was on it
@@ -2408,11 +2407,11 @@ Then he put the pencil back in the spine, and put his hand flat against
 his coat over the place where the drop was, and lay down.
 
 He was ten years, three months and eleven days old, and he had fourteen
-ryō in four places on his body, and he had just invented the method he was
-going to use for the rest of his life.
+thousand ryō in four places on his body, and he had just invented the method
+he was going to use for the rest of his life.
+
 
 ---
-
 
 
 *Act 1, month 4, the sixth — day eleven. Nakadō. Nozaki Uzuki, age ten.
@@ -2703,5 +2702,6 @@ evening of her life.
 And she stood with her hand still up on the peg and found that she could
 not think of one single person in that house who was ever going to take
 either of them down again.
+
 
 ---

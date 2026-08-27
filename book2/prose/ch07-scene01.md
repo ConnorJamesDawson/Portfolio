@@ -171,8 +171,8 @@ turnips out of a clamp, which was theft and which he entered as theft,
 with the value, so that it could be paid later if it ever could be. Eggs
 he found and did not take, because eggs get missed. Bread.
 
-He had four ryō and a bit when he set out from Sakabe and he had three
-and a half when he came in sight of Fukae, and he was aware, in a
+He had four thousand ryō and a bit when he set out from Sakabe and he had
+three and a half when he came in sight of Fukae, and he was aware, in a
 distant way, that he did not know whether either of those was a lot.
 
 *Nine a week at Sunaba, and this is nine days, and I have spent about a

@@ -137,8 +137,8 @@ The comb was on the table.
 
 ---
 
-It was tortoiseshell and it had cost two ryō of the extra and it had been
-on that table every single day for two and a half weeks, and she had not
+It was tortoiseshell and it had cost two thousand ryō of the extra and it had
+been on that table every single day for two and a half weeks, and she had not
 used it once — she had looked at it, and turned it over, and put it down,
 about four times a day, for eighteen days.
 
@@ -185,10 +185,10 @@ it back.*
 
 He stood in the passage of the low house with his hand on the frame.
 
-*They came for the household. They opened every door on the hill because
-they did not know which houses were which. They did not touch the
-workshop, they did not touch the tin, they did not touch four dozen ryō
-of finished work sitting in the open.*
+*They came for the household. They opened every door on the hill because they
+did not know which houses were which. They did not touch the workshop, they
+did not touch the tin, they did not touch forty-eight thousand ryō of finished
+work sitting in the open.*
 
 *They searched one room and they took what was in it.*
 

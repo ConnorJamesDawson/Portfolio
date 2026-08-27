@@ -1,7 +1,7 @@
 # Chapter 10, Scene 1 — Until The Tenth Month
 
 *Act 1, month 10, the first to the ninth. The road north-east out of Ōgi.
-Nozaki Uzuki, age ten. POV: Uzuki. ~1,760 words.*
+Nozaki Uzuki, age ten. POV: Uzuki. ~1,750 words.*
 
 ---
 
@@ -72,25 +72,26 @@ of it.
 
 *That is five weeks.*
 
-*And I have got about a third.*
+*And I have got four hundred and forty.*
 
 ---
 
-She had, exactly, a third of a ryō and eleven mon, and she knew that
+She had, exactly, four hundred and forty ryō, and she knew that
 without opening the bag because she had known it since the twenty-sixth
 and it had not moved since the twenty-sixth, and the reason it had not
 moved was that she had not eaten anything she had paid for.
 
-Five weeks costs more than a third of a ryō. She did not need to work
-that out. She had done the numbers on the road up with a cart in the third
-month, when she was nine and had a hundred ryō in a fold of cloth and a
-list, and she knew what a person eats in a week and what it comes to.
+Five weeks costs more than four hundred and forty ryō. She did not need to
+work that out. She had done the numbers on the road up with a cart in the
+third month, when she was nine and had a hundred thousand ryō in a fold of
+cloth and a list, and she knew what a person eats in a week and what it comes
+to.
 
-*Four weeks and a half, at the cheapest thing there is, is about a ryō and
-a half.*
+*Four weeks and a half, at the cheapest thing there is, is about fifteen
+hundred.*
 
-*So I am short by more than I have got. Not a bit short. Four times
-short.*
+*So I am short by more than I have got. Not a bit short. More than
+three times short.*
 
 She stood there and let that be true for a bit.
 
@@ -109,12 +110,12 @@ Write two days of it whole and let the rest be numbers.
 
 The third of the tenth month she did not eat.
 
-That was not a decision either. She had thirteen mon in the morning and
-she looked at bread at a stall on the east side and it was two, and she
-worked out that two mon was about a fifth of a day of walking, and stood
-in front of the stall long enough that the woman looked at her, and went
-away, and did the thing she had been doing since the nineteenth, which was
-to drink water until the shape of it went.
+That was not a decision either. She had a hundred and thirty ryō in the
+morning and she looked at bread at a stall on the east side and it was two,
+and she worked out that twenty ryō was about a fifth of a day of walking, and
+stood in front of the stall long enough that the woman looked at her, and went
+away, and did the thing she had been doing since the nineteenth, which was to
+drink water until the shape of it went.
 
 It goes for about an hour. She had learned that on the twenty-first. It
 comes back and it comes back worse and the second time it comes back it
@@ -157,8 +158,8 @@ of it in the town to pay her with.**
 
 The rest of it, in numbers, because the rest of it was numbers.
 
-The sixth: nothing. The seventh: half a day at a rope-walk and they gave
-her four mon and she bought two mon of bread and kept two, which she was
+The sixth: nothing. The seventh: half a day at a rope-walk and they gave her
+forty ryō and she bought twenty ryō of bread and kept twenty, which she was
 proud of for about a mile.
 
 The eighth: nothing, and it rained.
@@ -224,8 +225,8 @@ back.
 
 *They are bad shoes and one of them is not my size and they are shoes.*
 
-She got out of Ōgi that evening on the north-east road with a third of a
-ryō and eleven mon minus a twentieth in a bag, and two shoes that did not
+She got out of Ōgi that evening on the north-east road with three hundred and
+ninety ryō in a bag, and two shoes that did not
 match, and no plan for the eleventh month and no plan for the next
 fortnight, and she was in a genuinely good mood for about six miles.
 
@@ -239,7 +240,7 @@ to it.
 
 *Right.*
 
-*So it is four days to anywhere and I have got about a third.*
+*So it is four days to anywhere and I have got three hundred and ninety.*
 
 She kept walking, because the shoes were on and the road was there and
 there was nothing else in the whole world she could do with the evening.

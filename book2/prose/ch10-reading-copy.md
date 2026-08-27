@@ -1,13 +1,12 @@
 # Chapter 10 — Enough To Live On
 
-*Book two. Act one, months 10 and 11. 11 scenes, ~18,740 words.*
+*Book two. Act one, months 10 and 11. 11 scenes, 18,730 words.*
 *Uzuki ×6 · Tadayoshi ×3 · Kimimaro ×2.*
 
 
 
-
 *Act 1, month 10, the first to the ninth. The road north-east out of Ōgi.
-Nozaki Uzuki, age ten. POV: Uzuki. ~1,760 words.*
+Nozaki Uzuki, age ten. POV: Uzuki. ~1,750 words.*
 
 ---
 
@@ -78,25 +77,26 @@ of it.
 
 *That is five weeks.*
 
-*And I have got about a third.*
+*And I have got four hundred and forty.*
 
 ---
 
-She had, exactly, a third of a ryō and eleven mon, and she knew that
+She had, exactly, four hundred and forty ryō, and she knew that
 without opening the bag because she had known it since the twenty-sixth
 and it had not moved since the twenty-sixth, and the reason it had not
 moved was that she had not eaten anything she had paid for.
 
-Five weeks costs more than a third of a ryō. She did not need to work
-that out. She had done the numbers on the road up with a cart in the third
-month, when she was nine and had a hundred ryō in a fold of cloth and a
-list, and she knew what a person eats in a week and what it comes to.
+Five weeks costs more than four hundred and forty ryō. She did not need to
+work that out. She had done the numbers on the road up with a cart in the
+third month, when she was nine and had a hundred thousand ryō in a fold of
+cloth and a list, and she knew what a person eats in a week and what it comes
+to.
 
-*Four weeks and a half, at the cheapest thing there is, is about a ryō and
-a half.*
+*Four weeks and a half, at the cheapest thing there is, is about fifteen
+hundred.*
 
-*So I am short by more than I have got. Not a bit short. Four times
-short.*
+*So I am short by more than I have got. Not a bit short. More than
+three times short.*
 
 She stood there and let that be true for a bit.
 
@@ -115,12 +115,12 @@ Write two days of it whole and let the rest be numbers.
 
 The third of the tenth month she did not eat.
 
-That was not a decision either. She had thirteen mon in the morning and
-she looked at bread at a stall on the east side and it was two, and she
-worked out that two mon was about a fifth of a day of walking, and stood
-in front of the stall long enough that the woman looked at her, and went
-away, and did the thing she had been doing since the nineteenth, which was
-to drink water until the shape of it went.
+That was not a decision either. She had a hundred and thirty ryō in the
+morning and she looked at bread at a stall on the east side and it was two,
+and she worked out that twenty ryō was about a fifth of a day of walking, and
+stood in front of the stall long enough that the woman looked at her, and went
+away, and did the thing she had been doing since the nineteenth, which was to
+drink water until the shape of it went.
 
 It goes for about an hour. She had learned that on the twenty-first. It
 comes back and it comes back worse and the second time it comes back it
@@ -163,8 +163,8 @@ of it in the town to pay her with.**
 
 The rest of it, in numbers, because the rest of it was numbers.
 
-The sixth: nothing. The seventh: half a day at a rope-walk and they gave
-her four mon and she bought two mon of bread and kept two, which she was
+The sixth: nothing. The seventh: half a day at a rope-walk and they gave her
+forty ryō and she bought twenty ryō of bread and kept twenty, which she was
 proud of for about a mile.
 
 The eighth: nothing, and it rained.
@@ -230,8 +230,8 @@ back.
 
 *They are bad shoes and one of them is not my size and they are shoes.*
 
-She got out of Ōgi that evening on the north-east road with a third of a
-ryō and eleven mon minus a twentieth in a bag, and two shoes that did not
+She got out of Ōgi that evening on the north-east road with three hundred and
+ninety ryō in a bag, and two shoes that did not
 match, and no plan for the eleventh month and no plan for the next
 fortnight, and she was in a genuinely good mood for about six miles.
 
@@ -245,13 +245,13 @@ to it.
 
 *Right.*
 
-*So it is four days to anywhere and I have got about a third.*
+*So it is four days to anywhere and I have got three hundred and ninety.*
 
 She kept walking, because the shoes were on and the road was there and
 there was nothing else in the whole world she could do with the evening.
 
----
 
+---
 
 
 *Act 1, month 10, the first to the twentieth. A loft above a cooperage,
@@ -576,8 +576,8 @@ He put the roll inside his coat and went down to the yard, where Hōki was
 waiting to make him say how many ways out of a lane there were, and got it
 wrong again, by two.
 
----
 
+---
 
 
 *Act 1, month 10, the thirteenth. The Kadono-dera, four days north-east of
@@ -823,8 +823,8 @@ with ten empty mats in it.
 
 *That is the next thing, then.*
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,400 words.*
@@ -1037,8 +1037,8 @@ still a thing you do not know.
 
 *Four.*
 
----
 
+---
 
 
 *Act 1, month 10, the fourteenth to the twenty-fifth. The Kadono-dera.
@@ -1263,8 +1263,8 @@ days left before the rain.
 
 *They are not having the hands.*
 
----
 
+---
 
 
 *Act 1, month 10, the twenty-first to the twenty-ninth. A loft above a
@@ -1500,8 +1500,8 @@ useful.
 
 "And then they stop counting," said Hōki, and went down.
 
----
 
+---
 
 
 *Act 1, month 10, the twenty-fifth and the twenty-sixth. The Kadono-dera.
@@ -1740,8 +1740,8 @@ wood.
 
 She could not get any further than that and she went in and ate.
 
----
 
+---
 
 
 *Act 1, month 10, the twenty-eighth. The Kadono-dera. Nozaki Uzuki, age
@@ -2037,8 +2037,8 @@ She lay down.
 *So I have got thirty-three days and I am the only person in this building
 who knows that I have got them.*
 
----
 
+---
 
 
 *Act 1, month 11, the third to the twenty-second. Ōtoma and the Nezu road.
@@ -2280,8 +2280,8 @@ He noted the time, and the hour it had started aching, and the gap, because
 if it was going to do that for a year he was going to get a number out of
 it.
 
----
 
+---
 
 
 *Act 1, month 11, the second to the thirtieth. The Kadono-dera. Nozaki
@@ -2364,7 +2364,7 @@ last real piece of work she did for eight weeks.
 
 *It is the second of the eleventh month, going on the ninth.*
 
-*I have got a third of a ryō and eight mon.*
+*I have got three hundred and ninety ryō.*
 
 *I have got two shoes and one of them is not my size and the rag came out
 of it in the rain and I have not got another rag.*
@@ -2532,10 +2532,10 @@ said was not any of the things she had been thinking.
 
 "There are two thousand and forty-eight days in this."
 
-She had worked it out on about the eleventh, off nothing, for something to
-do: the whole of it, from the twenty-sixth of the third month, when she
-had walked north out of Nakadō with a cart and a hundred ryō and four days
-in front of her, to the day she would be fifteen.
+She had worked it out on about the eleventh, off nothing, for something to do:
+the whole of it, from the twenty-sixth of the third month, when she had walked
+north out of Nakadō with a cart and a hundred thousand ryō and four days in
+front of her, to the day she would be fifteen.
 
 *And I have done four hundred and eighty-nine of them.*
 
@@ -2545,8 +2545,8 @@ She lay down.
 
 The bell went for the last time. She counted it.
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,490 words.*
@@ -2765,5 +2765,6 @@ hand would not catch, and ate what was in it, all of it, the way he always
 did.
 
 *Sixty-one.*
+
 
 ---

@@ -175,7 +175,7 @@ He filed all of that and did not do anything with it.
 
 Then, on the way out, he got the thing he had actually come for, and he
 got it entirely by accident, over the shoulder of a man arguing about
-nine ryō.
+nine thousand ryō.
 
 ---
 
@@ -211,9 +211,9 @@ He turned that over.
 
 *Who does not pay?*
 
-*Not a chandler. Not a fish boat, there was a fish tally in the queue and
-she was paying. Not a coaster, the man arguing about nine ryō was arguing
-about nine ryō.*
+*Not a chandler. Not a fish boat, there was a fish tally in the queue and she
+was paying. Not a coaster, the man arguing about nine thousand ryō was arguing
+about nine thousand ryō.*
 
 *So: somebody who is not being charged because the charging would be the
 harbour billing somebody who owns the harbour.*

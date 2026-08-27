@@ -37,7 +37,7 @@ And Kuriya's half a month went on arriving.
 
 She did him on the sixth and the ninth and the thirteenth and the
 sixteenth, twice a week in daylight, and if anybody asked she was doing
-the step, and nobody ever asked, and the half a ryō came at the end of
+the step, and nobody ever asked, and the five hundred ryō came at the end of
 the month the way he had said it would.
 
 And she put it on the table and her mother put it in the box in the left

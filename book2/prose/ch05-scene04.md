@@ -242,8 +242,8 @@ say it since the eleventh.*
 in the one kind of room in this country whose entire purpose is to write
 down who is in it.*
 
-He got up at about eight, when the north arm was empty, and went out past
-the tide board and along the pier and up the coast road with nine ryō and
+He got up at about eight, when the north arm was empty, and went out past the
+tide board and along the pier and up the coast road with nine thousand ryō and
 some in four places on his body, going north.
 
 He did not take the pen.

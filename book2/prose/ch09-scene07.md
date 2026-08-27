@@ -13,7 +13,7 @@ decision. What happened was that she came out of the gate and turned left,
 and left is the shrine and the lane and the fork above Iwasa's, and at the
 fork she went right, and right is the north road, and the north road is
 the road she had walked on the twenty-sixth of the third month with a cart
-and a hundred ryō in a fold of cloth and four days in front of her.
+and a hundred thousand ryō in a fold of cloth and four days in front of her.
 
 She had been eleven days short of ten years old.
 
@@ -129,10 +129,10 @@ and which was the reason the knife had not gone through the bag.
 *The money.*
 
 Behind the brick, with the bag, because everything was behind the brick,
-because there had never been anywhere else. Half a ryō and a bit in a twist
-of cloth.
+because there had never been anywhere else. Five hundred ryō and a bit in a
+twist of cloth.
 
-*Half a ryō, a bit, a bag, a knife.*
+*Five hundred ryō, a bit, a bag, a knife.*
 
 *That's it.*
 
@@ -300,6 +300,6 @@ She looked up the road at the fork.
 
 She went left at the fork at about half past nine on the morning of the
 eighteenth of the ninth month, on the Ōgi road, on bare feet, with a bag
-and a knife and half a ryō, and she had four days of walking in front of
+and a knife and five hundred ryō, and she had four days of walking in front of
 her and a name and a street and a woman who did the beds for three inns.
 

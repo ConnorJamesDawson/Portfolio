@@ -1,7 +1,7 @@
 # Chapter 4, Scene 4 — Three Doors Up From the Bridge
 
 *Act 1, month 4, the seventh. Kanaya's counter, Ōura. Tadayoshi Ruri,
-age ten. POV: Tadayoshi. ~1,750 words.*
+age ten. POV: Tadayoshi. ~1,760 words.*
 
 ---
 
@@ -275,8 +275,8 @@ carry it for thirty years.*
 
 *And so am I, and I was there.*
 
-He put his hand flat against his coat where the drop was, and stood in
-the alley off the bridge road at Ōura with fourteen ryō in four places on
+He put his hand flat against his coat where the drop was, and stood in the
+alley off the bridge road at Ōura with fourteen thousand ryō in four places on
 his body, and understood that he now had money and no plan, exactly as
-forecast, and that the forecast had been the only correct thing in his
-head for four days.
+forecast, and that the forecast had been the only correct thing in his head
+for four days.

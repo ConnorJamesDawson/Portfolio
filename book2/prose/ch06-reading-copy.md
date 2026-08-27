@@ -5,7 +5,6 @@ Ten scenes, 19,750 words.*
 
 
 
-
 *Act 1, month 5, the twelfth. The market at Nezu. Tadayoshi Ruri, age
 ten. POV: Tadayoshi. ~2,030 words.*
 
@@ -290,8 +289,8 @@ and looked at the quay for about six minutes.
 *So what else does a boat need.*
 
 
----
 
+---
 
 
 *Act 1, month 5, the fourteenth. The yard at Nakadō. Nozaki Uzuki, age
@@ -584,8 +583,8 @@ hung it.
 *Right.*
 
 
----
 
+---
 
 
 *Act 1. A room, and then another room. A boy, age twelve. POV: the boy.
@@ -938,8 +937,8 @@ one was mine.*
 *They are going to use me.*
 
 
----
 
+---
 
 
 *Act 1, month 5, the sixteenth. The north quay, Nezu. Tadayoshi Ruri,
@@ -1296,8 +1295,8 @@ and the grease tin and the drop.
 *I want to know who the other two were.*
 
 
----
 
+---
 
 
 *Act 1, month 5, the twenty-second. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -1567,8 +1566,8 @@ had been on the fourteenth.
 *Four and a half is four and a half.*
 
 
----
 
+---
 
 
 *Act 1, month 5, the nineteenth. Above Nezu. Tadayoshi Ruri, age ten.
@@ -1876,8 +1875,8 @@ He went about twenty yards.
 can be seen from the bar."
 
 
----
 
+---
 
 
 *Act 1, month 6, the fourth. Kuriya's kitchen, Nakadō. Nozaki Uzuki,
@@ -2139,7 +2138,7 @@ be a worse man for about one minute.*
 
 "Yes," she said.
 
-He counted out a quarter of a ryō and put it in her hand.
+He counted out two hundred and fifty ryō and put it in her hand.
 
 *A quarter.*
 
@@ -2221,7 +2220,7 @@ is dead. I haven't got that. Nobody in this village has got that."
 
 "Then what."
 
-"Half a ryō a month," said Kuriya, "and you come twice a week, and you
+"Five hundred ryō a month," said Kuriya, "and you come twice a week, and you
 come whether it's bad or it isn't, and if I'm away you don't lose it."
 
 *Half.*
@@ -2244,7 +2243,7 @@ ninety and the same sitting on the floor after.*
 
 **The minute a thing stops being a wonder it starts being a price.**
 
-*Half a ryō against three and a half.*
+*Five hundred ryō against three and a half.*
 
 "And I'll tell you the other thing now," said Kuriya, "so you're not
 sitting up waiting for it. I'd like to send you to Ine's brother. I'd
@@ -2259,7 +2258,7 @@ girl who mends people and starts being a thing there's a word for."
 
 ---
 
-She went down the hill in the dark with a quarter of a ryō in her fist
+She went down the hill in the dark with two hundred and fifty ryō in her fist
 and her hands still not right.
 
 *So it works.*
@@ -2283,8 +2282,8 @@ in it.
 *The rent's due in four weeks.*
 
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,030 words.*
@@ -2466,8 +2465,8 @@ He counted the bowl in the morning.
 *One.*
 
 
----
 
+---
 
 
 *Act 1, month 6, the first. The yard behind the bell house, Sakabe.
@@ -2881,8 +2880,8 @@ The man was already getting up off the shaft.
 "That's the ticket's," he said.
 
 
----
 
+---
 
 
 *Act 1, month 6, the twenty-seventh. The kitchen at Nakadō. Nozaki
@@ -3042,7 +3041,7 @@ face and she did not say anything about a child doing sums.
 
 "It—"
 
-"It's four ryō a year."
+"It's four thousand ryō a year."
 
 ---
 
@@ -3244,6 +3243,7 @@ Then she took one off.
 *One thousand seven hundred and three.*
 
 She put the bag under the stone by the step and went in.
+
 
 
 ---

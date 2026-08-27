@@ -246,6 +246,24 @@ italics may not.*
 > honest version of the thought is the absence: ***I do not know how long
 > that is for. It is not for a while — a while has an end on it.***
 
+### 2f. CHECK A NUMBER AGAINST THE SETTING BEFORE INVENTING A SYSTEM FOR IT
+
+**The ryō was built for ten chapters as an Edo-period gold coin with a
+copper sub-unit called the *mon*.** *That is accurate for 1700s Japan.*
+**Naruto's ryō is worth about ten yen and has no sub-unit at all**, and
+canon's mission table — *D-rank 5,000, S-rank a million* — has been
+sitting in every fan's head the whole time. **`money.md` §1.**
+
+> **The tell was available from the first figure and nobody looked**: *a
+> hundred ryō* was written as a poor family's whole emergency fund, and a
+> D-rank chore mission pays fifty times that. **One check against one
+> published table would have caught it in chapter one.**
+
+**So: any invented system that has a real-world analogue gets checked
+against the setting before it is built on** — currency, distance, ranks,
+titles, seasons. *Not researched exhaustively. Checked once, against the
+thing the audience already knows.*
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be

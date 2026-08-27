@@ -1,12 +1,12 @@
 # Chapter 7, Scene 7 — What Three People Paid
 
 *Act 1, month 6, the thirteenth and fourteenth. Fukae. Tadayoshi Ruri,
-age ten. POV: Tadayoshi. ~1,790 words.*
+age ten. POV: Tadayoshi. ~1,800 words.*
 
 ---
 
 He stayed two days in Fukae because he had eighteen and Hanase was four,
-and because a man had told him to buy a coat and he had six ryō, and
+and because a man had told him to buy a coat and he had six thousand ryō, and
 because he had never in his life bought anything that was not food.
 
 He made a list the night before. Of course he made a list.
@@ -126,7 +126,7 @@ put them in the list, under the coat, with a line beside them:
 He bought the boots for one and the blanket for a quarter and the oil for
 about nothing and a tin for a sixteenth, and it all went in the list with
 the real prices written next to his invented ones, and he was down to
-about three ryō and the whole of it was the best-equipped he had been
+about three thousand ryō and the whole of it was the best-equipped he had been
 since the fourth month.
 
 He put the coat on that evening and it was warm and it was dry and it fit

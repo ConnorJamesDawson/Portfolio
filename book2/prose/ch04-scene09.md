@@ -1,14 +1,14 @@
 # Chapter 4, Scene 9 — The Book at the Customs Post
 
 *Act 1, month 4, the seventh, afternoon. Ōura. Tadayoshi Ruri, age ten.
-POV: Tadayoshi. ~1,240 words.*
+POV: Tadayoshi. ~1,250 words.*
 
 ---
 
 He tried asking people first and he was extremely bad at it.
 
-He worked out how bad at about the fourth attempt, standing on the wharf
-below the bridge with fourteen ryō on him and a question that had seemed
+He worked out how bad at about the fourth attempt, standing on the wharf below
+the bridge with fourteen thousand ryō on him and a question that had seemed
 straightforward for four days.
 
 *A boat with a house on it went north past the bar at Shioiri on the
@@ -138,7 +138,7 @@ job it is.*
 
 *Two days' walk.*
 
-*And I have fourteen ryō, which is about a month if I am careful and
+*And I have fourteen thousand ryō, which is about a month if I am careful and
 sleep badly.*
 
 *I do not know what the boat was called. I do not know who was on it
@@ -170,5 +170,5 @@ Then he put the pencil back in the spine, and put his hand flat against
 his coat over the place where the drop was, and lay down.
 
 He was ten years, three months and eleven days old, and he had fourteen
-ryō in four places on his body, and he had just invented the method he was
-going to use for the rest of his life.
+thousand ryō in four places on his body, and he had just invented the method
+he was going to use for the rest of his life.

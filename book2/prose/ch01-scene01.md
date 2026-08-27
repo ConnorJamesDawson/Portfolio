@@ -200,12 +200,12 @@ The door went.
 
 "There is light for another twenty minutes."
 
-"There is light for another six, and you'll ruin your eyes and then I'll
-have two of us squinting." She came in shaking the rain off her sleeves.
-She was not a big woman. She had never been a big woman; the trade did
-not build you, it wore you at the ends, and her fingertips had gone
-smooth years ago in the way that meant she could set a stone in a mount
-by feel and could not tell a five-ryō piece from a ten without looking.
+"There is light for another six, and you'll ruin your eyes and then I'll have
+two of us squinting." She came in shaking the rain off her sleeves. She was
+not a big woman. She had never been a big woman; the trade did not build you,
+it wore you at the ends, and her fingertips had gone smooth years ago in the
+way that meant she could set a stone in a mount by feel and could not tell a
+five-hundred piece from a thousand without looking.
 
 She stopped at the bench and looked into the tin, which she did every
 evening, and which he had stopped being nervous about a long time ago.

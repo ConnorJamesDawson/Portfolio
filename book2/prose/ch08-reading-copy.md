@@ -5,7 +5,6 @@ Eleven scenes, 18,480 words.*
 
 
 
-
 *Act 1, month 8, the second. A hay barn above Ōtoma. Tadayoshi Ruri,
 age ten. POV: Tadayoshi. ~1,830 words.*
 
@@ -315,8 +314,8 @@ month with an empty docket in his hand and no idea at all what had just
 been said to him.
 
 
----
 
+---
 
 
 *Act 1, month 8, the eighth. Nakadō. Nozaki Uzuki, age ten. POV: Uzuki.
@@ -640,8 +639,8 @@ She put the bag behind the brick and went and helped with the water.
 *Two.*
 
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,290 words.*
@@ -858,8 +857,8 @@ Then he lay down and counted the bowl in the morning.
 *One hundred and eighty-three.*
 
 
----
 
+---
 
 
 *Act 1, month 8, the ninth to the twentieth. Ōtoma. Tadayoshi Ruri, age
@@ -1131,8 +1130,8 @@ Tadayoshi waited for the rest of the sentence.
 There was not any more of it.
 
 
----
 
+---
 
 
 *Act 1, month 8, the tenth to the twenty-second. Nakadō. Nozaki Uzuki,
@@ -1441,8 +1440,8 @@ She sat on the floor of her own room for a long time.
 ten, and I lasted eleven.*
 
 
----
 
+---
 
 
 *Act 1, month 8, the twenty-first. A room above a rope-walk, Ōtoma.
@@ -1692,8 +1691,8 @@ about a different sheet, in a different room, and he said it again, and
 that time somebody did tell him to shut up.
 
 
----
 
+---
 
 
 *Act 1. A room. A boy, age twelve. POV: the boy. ~1,390 words.*
@@ -1902,8 +1901,8 @@ Then he lay down and waited for the bowl.
 *One.*
 
 
----
 
+---
 
 
 *Act 1, month 8, the twenty-third. Kuriya's kitchen, Nakadō. Nozaki
@@ -2070,7 +2069,7 @@ leaving out the ugly one is how you get a column of excuses.
 
 *I'm being paid.*
 
-*Half a ryō a month and three afternoons and one person in this village
+*Five hundred ryō a month and three afternoons and one person in this village
 who talks to me like I'm a person, and if I put this in his kitchen it
 stops being that kitchen, and it stops being that whether he does anything
 or not.*
@@ -2221,8 +2220,8 @@ down the hill.
 *1,646.*
 
 
----
 
+---
 
 
 *Act 1, month 8, the twenty-fifth to the twenty-ninth. Ōtoma. Tadayoshi
@@ -2508,8 +2507,8 @@ in the morning he went out and broke another eleven yards of the bank
 into grit and got it down to two and an eighth.
 
 
----
 
+---
 
 
 *Act 1, month 8, the twenty-sixth. Nakadō. Nozaki Uzuki, age ten. POV:
@@ -2792,8 +2791,8 @@ about half an hour, doing nothing at all, and then she got up and went out
 to the kitchen.
 
 
----
 
+---
 
 
 *Act 1, month 8, the twenty-sixth, night. Nakadō. Nozaki Uzuki, age ten.
@@ -3068,6 +3067,7 @@ matting, and it was uncomfortable.
 She reached out with the other hand and put it flat on the wall.
 
 It was cold, and it was brick, and there was nothing behind it.
+
 
 
 ---

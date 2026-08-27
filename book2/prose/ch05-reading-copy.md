@@ -1,8 +1,7 @@
 # Chapter 5 — Alive If Possible
 
 *Book two. Act one, month 4 (9th) – month 5, end.
-Nine scenes, 15,480 words.*
-
+Nine scenes, 15,490 words.*
 
 
 
@@ -181,7 +180,7 @@ He filed all of that and did not do anything with it.
 
 Then, on the way out, he got the thing he had actually come for, and he
 got it entirely by accident, over the shoulder of a man arguing about
-nine ryō.
+nine thousand ryō.
 
 ---
 
@@ -217,9 +216,9 @@ He turned that over.
 
 *Who does not pay?*
 
-*Not a chandler. Not a fish boat, there was a fish tally in the queue and
-she was paying. Not a coaster, the man arguing about nine ryō was arguing
-about nine ryō.*
+*Not a chandler. Not a fish boat, there was a fish tally in the queue and she
+was paying. Not a coaster, the man arguing about nine thousand ryō was arguing
+about nine thousand ryō.*
 
 *So: somebody who is not being charged because the charging would be the
 harbour billing somebody who owns the harbour.*
@@ -289,8 +288,8 @@ looked up.
 
 "I would like a job," said Tadayoshi.
 
----
 
+---
 
 
 *Act 1, month 4, the seventh. Nakadō. Nozaki Uzuki, age ten. POV: Uzuki.
@@ -528,8 +527,8 @@ left forearm, and started.
 
 *One.*
 
----
 
+---
 
 
 *Act 1, month 4, the eleventh to the twenty-sixth. The harbour office,
@@ -754,8 +753,8 @@ book records the thing somebody was paid to record and nothing else.*
 
 *Find out what the book was FOR before you look in it.*
 
----
 
+---
 
 
 *Act 1, month 4, the twenty-sixth. The harbour office, Sunaba. Tadayoshi
@@ -1000,8 +999,8 @@ say it since the eleventh.*
 in the one kind of room in this country whose entire purpose is to write
 down who is in it.*
 
-He got up at about eight, when the north arm was empty, and went out past
-the tide board and along the pier and up the coast road with nine ryō and
+He got up at about eight, when the north arm was empty, and went out past the
+tide board and along the pier and up the coast road with nine thousand ryō and
 some in four places on his body, going north.
 
 He did not take the pen.
@@ -1010,8 +1009,8 @@ He thought about it for about four seconds at the door and worked out
 that a missing pen is a thing a man notices in the morning, and left it in
 the tray, squared up with the edge of the volume, the way it went.
 
----
 
+---
 
 
 *Act 1, month 5, the eighth. A dry riverbed on the coast road, a day
@@ -1275,8 +1274,8 @@ carrying?"
 
 "Yes," said Tadayoshi, and put his hand inside his coat.
 
----
 
+---
 
 
 *Act 1, month 5, the eighth. The riverbed. Tadayoshi Ruri, age ten. POV:
@@ -1562,12 +1561,12 @@ it, and nobody is going to*
 
 Something in him got up.
 
+
 ---
 
 
-
 *Act 1, month 5, the eighth. Nakadō. Nozaki Uzuki, age ten. POV: Uzuki.
-~1,220 words.*
+~1,230 words.*
 
 ---
 
@@ -1603,7 +1602,7 @@ Now she looked at a sheet of paper and read it like a page.
 one is money out, and the left one has three things in it and the right
 one has eleven.*
 
-*Left: the mill, four ryō, that's the two big parcels from the second
+*Left: the mill, four thousand ryō, that's the two big parcels from the second
 month that he settled at month end. Iwasa, one and a half. And she's
 written "H" and a hundred and drawn a line under it, and the line under
 it means she's not counting it.*
@@ -1798,8 +1797,8 @@ own bad hand:
 
 Then she went in and did the fire.
 
----
 
+---
 
 
 *Act 1, month 5, the eighth, afternoon. The riverbed. Tadayoshi Ruri,
@@ -2169,8 +2168,8 @@ he sat with his back to it in the last of the light and put his hand in
 his left pocket and took out the thing he had been holding when he woke
 up.
 
----
 
+---
 
 
 *Act 1, month 5, the eighth, dusk. Behind a wall on the coast road.
@@ -2479,5 +2478,6 @@ one on each side, which is a thing he would go on doing for a very long
 time without once noticing that he did it.
 
 Then he got up and went north, in the dark, towards Nezu.
+
 
 ---

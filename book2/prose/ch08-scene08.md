@@ -164,7 +164,7 @@ leaving out the ugly one is how you get a column of excuses.
 
 *I'm being paid.*
 
-*Half a ryō a month and three afternoons and one person in this village
+*Five hundred ryō a month and three afternoons and one person in this village
 who talks to me like I'm a person, and if I put this in his kitchen it
 stops being that kitchen, and it stops being that whether he does anything
 or not.*
