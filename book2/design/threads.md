@@ -3601,7 +3601,7 @@ funeral to Genzō the man.
    still open.
 
 ### C10 — Chapter 10, "Enough To Live On". Months 10 and 11.
-### 11 scenes, 18,660 words. U×6 (57%) · T×3 (29%) · K×2 (16%).
+### 11 scenes, 18,740 words. U×6 (57%) · T×3 (29%) · K×2 (16%).
 
 **THE CRAFT, as now established on the page**
 

@@ -1,7 +1,7 @@
 # Chapter 10, Scene 2 — Which Of These Four
 
 *Act 1, month 10, the first to the twentieth. A loft above a cooperage,
-Ōtoma. Tadayoshi Ruri, age ten. POV: Tadayoshi. ~2,260 words.*
+Ōtoma. Tadayoshi Ruri, age ten. POV: Tadayoshi. ~2,340 words.*
 
 ---
 
@@ -223,9 +223,19 @@ grading me on is the thing I keep doing.*
 
 He read that back twice and did not change it.
 
-*Which means I am going to spend the next three years carrying things I
-will not use, and being worse in every individual fight than I could be,
-on purpose, and being able to say exactly why.*
+*Which means from now on I go into every fight with less than I have got.
+On purpose. Being worse than I could be, deliberately, every single time,
+and able to say exactly why.*
+
+He sat with that for a bit, because there was a second half to it and the
+second half did not have a number in it anywhere.
+
+*And I do not know how long that is for.*
+
+*It is not for a while. A while has an end on it. This is until something
+happens that I cannot see from here, and I have no way of working out what
+it would be, and I have been trying to work it out since the fourth
+month.*
 
 ---
 

@@ -214,6 +214,38 @@ loss of two acquisitions, stops using other people's buildings and builds
 Oto faster.* **So the place they walk into two books later is a place
 their own rescues built, and nobody in the book ever learns it.**
 
+### 2e. ⚠ NO CHARACTER MAY KNOW THE OUTLINE
+
+**Caught on the page in ch10 scene 2**, where Tadayoshi, on a loft floor
+in month 10 of year 0, thought: ***I am going to spend the next three
+years carrying things I will not use.***
+
+> **He has no such number.** *`spec.md` §23 rules **three years on the
+> road, maximum** — that is an author ruling about the book's span, and it
+> lives in a design file.* **He does not know there is an end. He does not
+> know Wave exists. He does not know anything stops.**
+
+**And it is not only implausible — it deflates the engine.** *`combat.md`
+§10's curve is felt as **shrinking options**, and the whole pressure of it
+is that the shrinking has no stated floor.* **A boy who knows it is three
+years is serving a sentence. A boy who does not is in a condition.**
+
+| | Knows the span | Is |
+|---|---|---|
+| **The design file** | **yes** — it is what a design file is for | *correct* |
+| **The retrospective narrator** | **yes.** *for the rest of his life* is established from ch1 and stays | *a voice, and it is the book's* |
+| **The character, in an italicised thought** | **⚠ never** | *the error* |
+
+**The tell, and it is mechanical:** *any duration inside a character's own
+thought that reaches further than that character could project from what
+is in front of them.* **Grep for it: three years, by the time, for the
+rest of, at thirteen, never again.** *The narrator may keep them. The
+italics may not.*
+
+> **And the fix is usually better than the line it replaces**, because the
+> honest version of the thought is the absence: ***I do not know how long
+> that is for. It is not for a while — a while has an end on it.***
+
 ## 3. THE THRESHOLD IS NEVER WRITTEN FROM INSIDE
 
 > Write up to it. **Break.** Resume after, and let the **reconstruction** be
