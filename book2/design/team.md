@@ -336,6 +336,143 @@ instrument, and* ***I want it to start.***
 
 ---
 
+### 3.7 ⚠ THE LAST MEASURE — AUTHOR, and it is the hunter curve on a person
+
+> **AUTHOR:** *"As soon as the link between his bloodline and his health
+> are linked, it becomes a last measure. They don't want to sacrifice a
+> member of the village for a gain in one battle. One battle means a night
+> of rest… until the next lot comes, so it makes no sense for himself to go
+> all out to kill himself in the long run. So when he is needed he is the
+> main point; until that point he needs to be instructed."*
+
+#### The problem it solves, and nobody had named it
+
+**§3.3 calls him the only usable body on a field. §6.1 calls him and Uzuki
+a working soldier from the first day.** *So why is every fight after month
+4 of year 1 not simply **send Kimimaro**?*
+
+> **Without this ruling the household acquires a win button in the middle
+> of act two and the rest of the act has nothing to be about.**
+
+#### The arithmetic, and it is the author's
+
+- **One battle buys a night of rest.**
+- **And then the next lot comes** — *`combat.md` §10, the book's own
+  engine:* ***every hunter he kills is a specification handed to the state,
+  and the more that fail the better the ones that come.***
+- **So the gain does not last and the cost does not come back.**
+
+> ## ⚠ WHICH IS THE HUNTER CURVE, EXACTLY, WITH A DIFFERENT RESOURCE IN IT.
+>
+> **Tadayoshi's every kill makes the next hunter better. Kimimaro's every
+> fight makes his own remaining time shorter.** *Same shape, two boys,
+> neither of them able to stop* — **and nobody in the book has ever put the
+> two curves on the same page.**
+
+> **So the household's only durable gain is not winning fights. It is not
+> having them** — *which is the anti-institution thesis with teeth, and it
+> is why they travel.*
+
+#### ⚠ IS THE LINK TRUE? — PROPOSED, and I would hold this hard
+
+**`team.md` §3.2 already had the mechanic and already flagged it:** *he is
+dying, so every article costs him days — **not canon, not authorial, an
+inference, and a heavy one**. Nobody has told him that.*
+
+> **PROPOSED: the link is drawn, is acted on correctly, and is never
+> confirmable.**
+
+**§3.6 is why.** *There is no control group and there never will be, and his
+rate is already moving for reasons nobody in the book can see — food,
+warmth, and then a pair of hands ninety times a day.*
+
+| What happens | What it looks like | What it is |
+|---|---|---|
+| **A fight, then a fast piece** | **proof** | *a rate that was already moving* |
+| **A fight, then nothing** | **a reprieve** | *a rate that was already moving* |
+
+> **And it protects the book from the silly version.** *A hard, stated cost
+> invites budget arithmetic —* ***he has four fights left*** *— which is
+> precisely the sum a reader should never be able to do.*
+
+#### ⚠ WHO MAKES THE LINK, AND IT IS THE WORST POSSIBLE PERSON
+
+**Uzuki.** *Ninety a day, hands on, and §4.4.3's instrument is literally*
+***hand on, what's different, where does it hurt.*** **She is the only
+person alive positioned to see a rate change in a body.**
+
+**And she is also the instruction channel** *(§6.1: **she tells him what to
+do. He does it exactly. It works from the first day and neither of them
+ever gives it a name**).*
+
+> ## **The person who works out that fighting kills him is the same person whose voice is the only thing that makes him fight.**
+>
+> **So every instruction she gives him is a withdrawal she is authorising,
+> and she is the only one in the house who knows the price.**
+
+**§6.1's cost row is re-priced by this and gets worse:** *it currently reads
+**she is building her craft on his decline and knows it**.* **She is not
+only building on it. She is the mechanism of the spend.**
+
+#### Tadayoshi's response is a rule, because it is always a rule
+
+**He wants a number and there is not one** *(§3.6)*, **and a thing that
+cannot be entered is the one condition he cannot tolerate.**
+
+> **⚠ AND IT COMES OUT THE SAME SHAPE AS THE OTHER ONE.**
+>
+> *`combat.md` §9:* ***if I don't call your name, don't fight beside me***
+> — **wait to be named.**
+>
+> *This:* **wait to be needed.**
+>
+> **Two laws, two entirely different reasons, one behaviour** — *and both
+> written by a boy who cannot say why, over a gap he cannot account for.*
+
+#### ⚠ AND KIMIMARO DOES NOT WANT IT, WHICH IS THE ENGINE
+
+- **§3.2:** *he started taking pieces off himself at twelve to have an
+  answer ready for a man who was never coming back, and he has never
+  stopped.*
+- **`portraits.md`:** *at some point he asks. Formally, having rehearsed,
+  probably standing.* ***Tell me what I am for.*** **He asks to be used,
+  permanently, on the record.**
+
+> **So a rule that says *we will not spend you* is, to him, a rule that
+> says *you are not needed*.**
+>
+> ## **Last measure is not a mercy to him. It is the thing he most fears, formalised, by people who love him.**
+
+**And it sets the scene it eventually pays into:** *the day they finally
+call him is the best day of his life, and it costs him months,* **and
+everybody in that room knows both, and nobody says either.**
+
+#### The standing state costs the household nothing, and that is the cruelty
+
+**§3.4: he cannot act without an instruction and never has.**
+
+> **So enforcing this rule requires nobody to do anything at all. They
+> simply do not say his name.**
+>
+> **⚠ WHICH MAKES THE RESTRICTION INVISIBLE, FREE TO THE PEOPLE IMPOSING
+> IT, AND INDISTINGUISHABLE — FROM INSIDE — FROM BEING FORGOTTEN.**
+
+#### THE THREE WRITING RULES
+
+1. **⚠ NEVER A BUDGET.** *No scene may let anybody state or imply how many
+   fights he has left, because nobody can, and the moment somebody does the
+   reader starts counting instead of dreading.*
+2. **The restriction is never explained to him as protection.** *Nobody
+   says **we are keeping you alive**.* **If anybody says it once, out
+   loud, the thread is over** — *because he would accept it, gratefully,
+   and file it, and it would become another specification.*
+3. **⚠ WHEN HE IS USED, HE IS THE POINT.** *Not support, not a flank, not
+   an addition.* **The scene where the household calls him is the scene
+   where everything else has already failed** — *so it reads as a defeat
+   and never as a reveal.*
+
+---
+
 ## 4. UZUKI — the glass cannon
 
 ### 4.1 What she is
@@ -741,7 +878,7 @@ near — has the one disposition in the world that cannot supply it.
 |---|---|---|
 | **On a field** | **an instruction, out loud, immediately** — the one input he requires and nobody else issues | **the close-range monster she does not have to be**, which is the only thing that has ever kept her alive past a bad decision |
 | **Off it** | **a purpose, informally, daily, without either of them noticing it is happening** | **a body to practise on, forever** — which is what takes her from a thimble to a cup |
-| **The cost** | **she is building her craft on his decline** and knows it | **he watches her have a reason and cannot work out how she got one** — *and it is not jealousy in any register the book will name* |
+| **The cost** | ⚠ **she is not only building her craft on his decline — she is the mechanism of the spend** (§3.7) | **he watches her have a reason and cannot work out how she got one** — *and it is not jealousy in any register the book will name* |
 
 > **She reads him off a stopwatch** (`portraits.md`) — weekly, in a book,
 > flattening. **And she cannot fix him**, and the whole of her arc is
