@@ -205,6 +205,137 @@ foot at a run arrives.*
 
 ---
 
+### 3.6 ⚠ THE DECLINE — the scale, and it is computable from the page
+
+**All of the following is PAGE unless marked.** *Nobody has to invent a
+rate. The book already contains one, and the arithmetic has a finding in it
+that nothing in the design had noticed.*
+
+#### The units, all his, all on the page
+
+| | | Source |
+|---|---|---|
+| **Three bowls is a day** | *the only conversion that exists* | `ch13` s8 |
+| **129 bowls a piece, seven pieces to go** | **= 903** | `ch11` s10 |
+| **So 129 bowls = 43 days, and 903 = 301 days** | *derived, and it lands the expiry in month 9–10 of year 1, which is where `act-2.md` §2b already put it* | arithmetic |
+| **95 of the fifth done, 34 to go** | *month 1, year 1* | `ch13` s8 |
+| **The pieces get bigger: ab. 1, 1½, 2, 2+, 3, 3+ thumbs** | **so *a half each time* is about the INTERVAL, never the size** | `ch14`, `ch16` |
+
+#### ⚠ AND THE 903 IS A DELIBERATE OVER-ESTIMATE AND HE SAYS SO
+
+> ***I cannot do less-than-that seven times, because I do not know how much
+> less, and every one I guess makes the next one worse. So I will use the
+> one I have got.*** *(`ch11` s10)*
+>
+> ***Seven more times, at a half each time. A hundred and twenty-nine bowls
+> apiece, which is the wrong figure and is the only one I have got.***
+> *(`ch13` s8)*
+
+**He knows the shape is halving. He cannot quantify the halving. So he
+substitutes a flat figure, knowing it is a floor, because a guessed decay
+compounds and a flat one does not.**
+
+*If the halving were real, from 129: 129, 64, 32, 16, 8, 4, 2 — about 255
+bowls, which is* **eighty-five days**, *and he would have died in month 2
+of year 1.*
+
+> **His own floor says 301 days. His own shape says 85. He is out by a
+> factor of three and a half and knows only the direction.**
+
+#### ⚠ AND THE OBSERVED DATA SAYS HE IS WRONG THE OTHER WAY
+
+| Piece | Completes | Interval |
+|---|---|---|
+| **Fifth** | *month 1–2, year 1* | **ab. 43 days** *(129 bowls)* |
+| **Sixth** | **3/4, year 1** *(day five of the box, `ch16`)* | **ab. 60 days** |
+
+> ## **The intervals are lengthening, and the shape he believes says they should be halving.**
+
+**And the cause is on the page and he wrote it down himself.**
+
+*He came out of the room in `ch13`. From `ch15`: warm water twice in nine
+days, a second blanket, the gap boarded, and in `ch16` a hot bowl standing
+on a cart track.*
+
+> ***Somebody is keeping me in a condition.*** *(`ch16` s4)*
+>
+> **⚠ THE BUYER'S MAINTENANCE BOUGHT HIM TIME, AND NOBODY IN THE BOOK
+> KNOWS IT — not the buyer, who was protecting an asset; not the
+> resistance, who took him off them; and least of all him.**
+
+#### THE THREE REGIMES — and only the first is his
+
+| | When | Rate | Governed by |
+|---|---|---|---|
+| **THE ROOM** | *to month 12, year 0* | **ab. 43 days a piece, shortening** | *starvation and a stone floor* |
+| **KEPT** | *month 1 – month 4, year 1* | **ab. 60 days a piece, holding** | **the buyer, deliberately, as inventory** |
+| **THE HOUSEHOLD** | **month 4, year 1 onward** | ⚠ **unruled, and act three needs three years of it** | *Uzuki, ninety a day* (§4.4) |
+
+> **⚠ AND THE SECOND REGIME IS WHAT MAKES THE THIRD SURVIVABLE.** *`team.md`
+> §4.4 says **nobody else alive could run ninety a day on a dying boy for
+> three years** and act three rests on it.* **If the curve were still
+> halving when she got her hands on him, three years would be a miracle and
+> the book would have bought a cure.** *It is not. The curve had already
+> bent, under nothing more exotic than food and warmth,* **so what she does
+> is an extension of something already happening and not a reversal of
+> it** — *which is exactly `falsified.md` #20's correction: **hours, not
+> cures** was a state record read as a specification.*
+
+#### ⚠ AND HE LOST THE UNIT AT EXACTLY THE MOMENT THE CONDITIONS CHANGED
+
+**Bowls stopped being a clock in the twelfth month** *(`ch13` — the bowls
+come at no time at all in the new building)* — **the same month he stopped
+being in the room.**
+
+> **So the instrument failed in the same week the thing it was measuring
+> got better, and there is no version of his position from which he can
+> see that.**
+>
+> **He has no control group. He has never had one. He is the only case he
+> has ever heard of** *(and `falsified.md` #21 — **nobody cures Kimimaro**
+> was mine and is dead; canon-says-no is the weakest argument available in
+> a series whose premise is shattering canon).*
+
+#### ⚠ WHICH IS WHY THE SEVENTH PIECE IS THE WHOLE THREAD
+
+**`ch16` s7, PAGE:** *he cannot do the sixth in days because he has the end
+of it and not the start, so the seventh is the reading that finishes the
+instrument, and* ***I want it to start.***
+
+> **When it comes, it will be longer than his shape predicts.**
+>
+> **And he will read that as his arithmetic failing.**
+>
+> *Because a boy who has been wrong about a number exactly once in his life
+> — the bowls — checks the arithmetic before he checks the world, and he
+> would be right to, and it is the one time it costs him.*
+
+#### THE FIVE WRITING RULES, so it does not go silly
+
+1. **⚠ NEVER STATE A REMAINING FIGURE IN THE NARRATION.** *Every number
+   about his life is his, computed by him, in a unit he owns.* **The reader
+   gets his working and can beat him to the answer. The book never
+   supplies one.**
+2. **The shape is interval, never size.** *Pieces get bigger and come
+   closer together* — **and the second half of that is currently false and
+   he does not know.**
+3. **No scene may show him being told a prognosis**, *because there is
+   nobody alive who has one,* **and the moment a doctor says a number the
+   thread is over.**
+4. **Symptoms are physical, observed by somebody else, and never named as
+   symptoms** — *and three are already on the page and can be re-read
+   later as decline rather than character:* **he sleeps in nine seconds
+   anywhere; he is thin the way somebody is thin who has been fed regularly
+   and not enough; and his legs go when he stands up after being still.**
+   *(`method-delta.md` §2n's shape, running on a body: nothing added, only
+   re-read.)*
+5. **⚠ AND THE HOUSEHOLD REGIME STAYS UNRULED UNTIL THE AUTHOR SETS IT.**
+   *The two earlier rates are derived from the page and are safe to build
+   on.* **The third is a number that decides how much of four books he is
+   alive for, and nobody has set it, and I am not setting it here.**
+
+---
+
 ## 4. UZUKI — the glass cannon
 
 ### 4.1 What she is
