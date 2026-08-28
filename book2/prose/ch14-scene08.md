@@ -160,8 +160,11 @@ But there is one thing about the twenty-first that is worth putting down,
 because it is the only time in that fortnight he got anywhere near it, and
 he got near it and then went past it and never came back.
 
-They were doing the sixth one on the twenty-first and he put her down and
-she went over and stayed down for a second longer than usual, and he said,
+They were doing the sixth one on the twenty-first and it went the way they
+all went — his left foot outside her right, his right hand on the outside
+of her elbow taking the arm four inches past where she had sent it, and
+his left forearm across the front of her shoulder — and she came down on
+her right hip and stayed down for a second longer than usual, and he said,
 "All right?"
 
 And she said, from the grass, not moving:

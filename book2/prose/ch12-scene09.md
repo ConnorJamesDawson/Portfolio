@@ -311,12 +311,23 @@ place they are going to be.*
 
 The one who had said the sentence went second.
 
-He had got about six feet and was turning, and he had his hand inside his
-coat and did not get whatever it was out of it, and the boy came into him
-low and did something to the inside of his leg above the knee, and the leg
-stopped being a leg.
+He had got about six feet and was turning, and he was turning to his left
+because his right hand was inside his coat and across his body, which
+meant his weight came onto his left foot and stayed there.
 
-He went down onto the boards on that side with his hand still in his coat.
+The boy went at him low.
+
+That was the whole of what she got of him: a change of height, and a line
+that went past the man's right side and under the arm that was busy, and
+he did not slow down for any part of it.
+
+What she got of the man was everything.
+
+His left leg gave from the inside. It did not buckle at the knee — it went
+sideways above it, the whole thing folding in toward the other one, and it
+took his hip with it, and he came down on that side with his shoulder
+first and his right hand still in his coat and the coat pulling up under
+his arm as he fell.
 
 He was not dead. He was on the floor of the hall making a noise and there
 was a great deal coming out of the inside of his thigh in a way she had
@@ -339,15 +350,36 @@ there was better work happening on the other side of the room.
 ---
 
 The two by the east door came at him together, which was the only
-sensible thing anybody in that hall did, and it did not work.
+sensible thing anybody in that hall did, and it did not work, and it did
+not work for a reason she could see from where she was standing.
 
-She could not follow the whole of it. What she got — and she got it
-because she was looking for it, because she had been reading people off
-their feet for six weeks — was that he did not fight two men.
+They did not arrive together.
+
+The near one had four paces of clear floor. The far one had the table.
+
+And the boy moved sideways — left, two steps, toward the wall — which put
+the table's long edge between him and the far one and did nothing at all
+about the near one, and she understood what that was for about half a
+second before it happened.
 
 *He fights one and then he fights one.*
 
-*He has put the table between him and the far one.*
+The near one came in with a knife up, high, at about the height of his own
+ear, which is where you hold a knife when you have decided the other
+person is smaller than you.
+
+The boy did not go back and he did not go sideways again. He went *in*,
+under the arm, on the same side as the knife, close enough that the arm
+came down across his shoulder instead of into him — and she saw the arm
+come down and lie there for a moment like a thing put on a shelf.
+
+His right hand went up under it, into the armpit, twice.
+
+The man's knife hand opened, and the knife went on the boards, and he made
+a sound that was mostly out of his nose.
+
+And the far one arrived round the end of the table at exactly that point,
+which was four paces too late, and the boy was already turned.
 
 **And there is a light coming up.**
 

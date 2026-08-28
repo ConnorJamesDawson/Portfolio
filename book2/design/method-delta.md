@@ -434,6 +434,90 @@ them. And the interior-grammar rule is what makes two people talking on a
 road worth two thousand words** — *he prices, she reads, and they are
 looking at the same road.*
 
+### 2m. ⚠ CHOREOGRAPHY — §2i FIXED THE FLINCHING AND I USED IT AS COVER
+
+> **AUTHOR:** *"You're not putting much detail in these fight scenes. There
+> was no **he lunged and struck with his palm**, nor **she dipped her left
+> shoulder which put her off balance**. That is the skimmed-over detail
+> that will break fight scenes' immersion — the reader should be able to
+> visualise the fight, who did what when."*
+
+**Correct, and it is a different failure from the one §2i was written
+for.** *§2i fixed **cutting away**. This is **staying in the room and not
+describing the mechanics**, which looks like obedience and is not.*
+
+### The diagnosis, precisely
+
+**§2i gave me *name the anatomy* and *dying takes time*, and I have been
+using both as a substitute for movement.** *So the prose names **outcomes**
+— a wound, a body part, a consequence — and almost never names **actions**.*
+
+| What I have been writing | What is missing |
+|---|---|
+| *the inside of his leg above the knee* | **which limb of his did it, from where, in what direction** |
+| *he put her down and she went over* | **everything** |
+| *a thing about her balance she had not agreed to* | ⚠ **a POV limit used as a licence for vagueness** |
+
+> **⚠ AND THE WORST OF IT IS BACKWARDS ARITHMETIC.** *He is faster than
+> everybody, so his exchanges are short — and I have been treating **it
+> was over fast** as permission to write it fast.* **The opposite is
+> true: a four-second exchange needs a HIGHER detail budget per second
+> than a forty-second one, because the reader has fewer seconds to build
+> the picture out of.**
+
+### The five rules
+
+1. **⚠ POSITIONS BEFORE ANYTHING HAPPENS.** *Where the feet are, what the
+   distance is, who is closed and who is open.* **A reader who does not
+   know where two people are standing cannot see one thing that follows.**
+2. **Every action gets an actor, a named limb, and a direction.** *Not
+   **he struck** — **he stepped in on the left foot and drove the heel of
+   his right palm up under the jaw**.*
+3. **⚠ AND EVERY ACTION GETS ITS CONSEQUENCE IN THE OTHER BODY**, *which
+   is the half I have been skipping wholesale:* **which put his weight on
+   his back foot and turned his shoulders about four inches.**
+4. **The exchange is a chain, not a list.** *Each move is caused by the
+   previous one's consequence.* **If two beats can be swapped without the
+   reader noticing, it was never a fight.**
+5. **⚠ A POV LIMIT CHANGES WHICH DETAILS, NEVER HOW MANY.** *He is too
+   fast for a girl who has never fought, and that is real and it stays.*
+   **So what she cannot see is replaced at the same density by what she
+   can** — *her own left shoulder going; the pressure on the outside of her
+   elbow; her right foot still where she put it; the ground arriving
+   against her hip and not her shoulder.* **Written from inside, that is
+   more immersive than an omniscient account, not less.**
+
+### The diagnostic
+
+> **Could a reader draw it?** *Two figures, their feet, and arrows.*
+> **If not, it is not written.**
+
+### ⚠ AND IT IS SOMETIMES LOAD-BEARING, NOT DECORATION
+
+**`ch14`'s whole arc depends on the reader recognising a repeat.** *He uses
+one technique on her sixteen times and she counts it and he does not.*
+**If the takedown is vague, *he did the same thing eleven times* is an
+assertion the reader has to accept.** *If it is choreographed, the reader
+counts along with her and gets there first.*
+
+### What does NOT change
+
+**§2i's registers hold and choreography serves them.** *His is efficient
+and anatomical and does not watch; hers stays and enjoys and the camera
+does not leave; Kimimaro's is weather.* **Choreography is the floor and
+not the ceiling** — *every beat still has to be doing the character's
+work, and a fight written as a technical document has failed a different
+way.*
+
+### ⚠ AND THE MONASTERY IS THE WORST INSTANCE, BECAUSE THE AUTHOR GAVE ME
+### EXACTLY ONE SKIP AND I MADE IT THE REGISTER
+
+**`structure.md`'s staging has *her perception skips* at step 6 — one
+moment, the takedown of the man holding her.** *I used skipping as the
+grammar of the entire scene*, **so a girl who is standing eight feet away
+watching on purpose, at an appreciation of form, mostly reports that
+things had happened.** *Fixed; see §2m's application in `ch12-scene09`.*
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's

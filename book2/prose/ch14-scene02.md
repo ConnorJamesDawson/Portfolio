@@ -63,11 +63,37 @@ afterwards.
 
 It was not what she had expected and it was not what anybody would expect,
 and the part she had not expected was that it did not hurt very much at
-the time. That came later. What it was at the time was *fast* — she would
-be standing, and then there would be a thing about her balance that she
-had not agreed to, and then the ground would be against her shoulder or her
-hip or the side of her face, and the whole of it took about a second and
-she never once saw how.
+the time. That came later.
+
+What it was at the time was *specific*, and she had it by the third one,
+and she had it because she was inside it and there is nowhere better to
+learn the shape of a thing.
+
+She would go forward. That was the start of every single one of them,
+because he did not come at her and she had to do something, so she went
+forward, and going forward meant her right foot and her right hand,
+because she was right-handed and nobody had ever told her not to be.
+
+Then three things happened and they happened in the same order eleven
+times.
+
+**His left foot went outside her right one.** She never saw it. What she
+had of it was that the ground she was about to step onto stopped being
+available and there was a boot in it.
+
+**His right hand took the outside of her right elbow** — not the wrist,
+which she had expected, and not hard — **and kept her arm going the way
+she had already sent it**, which was forward, and about four inches
+further than she had meant to send it.
+
+**And his left forearm came across the front of her right shoulder** and
+turned her, and the turning was the whole of it, because her weight was on
+her right foot and her right foot was now behind her.
+
+Then the ground.
+
+It was her right hip every time except the fourth, and the fourth was
+because she got an arm out.
 
 The fourth one knocked the wind out of her.
 
@@ -89,11 +115,11 @@ been going at about a quarter of what he could do, and that a quarter of
 what he could do was the lowest setting he had.
 
 He was not gentle and he was not rough. He was *exact*. He did the same
-thing eleven times and it worked eleven times and there was no more
-violence in it than there needed to be, and about the eighth one she
-understood that he was not trying to hurt her and was not trying not to,
-and that both of those would have been decisions and there had not been
-one.
+three things in the same order eleven times — the foot, the elbow, the
+forearm — and it worked eleven times, and there was no more violence in it
+than there needed to be, and about the eighth one she understood that he
+was not trying to hurt her and was not trying not to, and that both of
+those would have been decisions and there had not been one.
 
 At the end of it he said: "Nine seconds."
 
