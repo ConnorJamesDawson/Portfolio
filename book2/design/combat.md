@@ -988,20 +988,47 @@ an audit. The ledger is an audit. The doctrine is an audit.**
 does not know it is a key, and she is right for reasons that indict her own
 life, which is the standing shape of her being right* (`spec.md`).
 
-### ⚠ THE PRICE, AND IT IS WHY THIS IS NOT A WIN BUTTON
+### ⚠ THE PRICE — and it is arithmetic, not conscience
 
-> ## **The moment he can enter it on purpose, he loses the excuse.**
+> **AUTHOR, killing the first version of this, which was mine:** *"He
+> doesn't have this morality to have the thought of **I was not choosing**.
+> The boy literally chooses to kill people and doesn't feel bad about it,
+> so that's not the excuse."*
 
-**Every death until now has a line available in the book:** ***I was not
-choosing.*** *It was true, and it is the only mercy anywhere in his
-architecture.*
+**Correct, and the error is worth naming because it is a whole class:** *I
+gave him guilt to lose.* **He has none. He has never once needed an excuse
+and has never once looked for one** — *what he needs is a balanced book,
+and the two are not the same thing and read nothing alike on a page.*
 
-**Harnessed, that line is gone for ever.** *He is choosing, at that speed,
-every time, and every one of them is his* — **and `spec.md`'s question is
-answered in the worst available way: there was never a difference between
-the competence and the appetite, and now he does it deliberately.**
+### So the price is the one he can count
 
-*A price, not a wall* (`falsified.md` §1a).
+**The pause is the only organ he owns that has ever produced a *no*.**
+*The boy in the house. The Hanase road. Two men on a road in `ch16`.* **Every
+time he has declined to kill somebody, that was the audit running.**
+
+**And the reading is not a judgement. It is a fact about intent** — *so
+acting on the reading unaudited means everybody who meant it, dies.* **All
+of them. Every time. Including the ones who were not worth it.**
+
+> ## **And every one of them is a line on a sheet in a building he will never see.**
+
+**§10, which he named himself and tracks in his own file:** ***every hunter
+he kills is a specification handed to the state, and the more that fail,
+the better the ones that come.***
+
+> **So harnessing it is a decision to make his own curve steeper, on
+> purpose.** *He can do that arithmetic. He does it. And he takes it
+> anyway* — **which is a far worse thing to watch than a boy losing an
+> excuse, because there is nothing to forgive and nothing to resolve.**
+
+**And there is a second term on the same axis** *(§4.2: his economy and his
+vulnerability are the same axis)*: **uncontrolled intent drives the blade
+to the top of its range, so every use is a broadcast**, *and a use he
+chooses is a broadcast he chose.*
+
+*A price, not a wall* (`falsified.md` §1a) — **and it is priced in bodies,
+sheets and audibility, which are the three units this character actually
+thinks in.**
 
 ### ⚠ AND DISCIPLINE RULE 1 IS RE-SCOPED, NOT KILLED
 
