@@ -5078,3 +5078,410 @@ clerk.* **Some of it comes back attached to different causes.**
 8. **⚠ CH14 IS THE SUBSTANCE CHAPTER** *(`method-delta.md` §2l)* — **a
    courier run, nine days, two children on a road, and the plot does not
    move.**
+
+---
+
+### C14 — Chapter 14, "The Speech". Year 1, month 2.
+### 11 scenes, 17,880 words. T×5 (42%) · U×4 (42%) · K×2 (16%).
+### ⚠ THE SUBSTANCE CHAPTER. The plot does not move.
+
+**TADAYOSHI — fixed**
+
+- **The first thing on the boards in eighteen days and it is freight.**
+  *Ōtoma to the Kanaya, four crates and a roll, eighteen days, 1,400* —
+  **which is more than either contract in the first month**, *and he has
+  eleven words for that and none of them are the true one, and he does not
+  write it down.*
+- **The weight does not close.** *Two hundred and thirty pounds is three
+  loads; two of them at ninety-one is still two and a half trips.* **It
+  has stopped being one person's job because there are two of us, and that
+  is a thing he did not expect and should have.**
+- **A horse is refused in four lines** — *eats a fifth of its value, wants
+  a road, and is the easiest thing in the world to describe* — **and
+  nobody has ever described a mule to anybody.**
+- ***"Am I coming?" — "Yes." — "That's it?" — "Yes."*** *Because the
+  alternative is a room she cannot leave and he has already written that
+  down with no solution under it.*
+- **He weighs her pack twice and takes two things out and does not tell
+  her**, *and says the operational thing instead:* ***when it's too much,
+  say*** — **and he has been travelling with her for fifty days and has
+  learned nothing about what her *all right* means.**
+
+**⚠ THE YARD AT SAKABE — 6/2**
+
+- **Deguchi does the speech and Tadayoshi thinks it is good work.** *Age
+  off the teeth, the feet one at a time, two things against himself that
+  are both true, the shoulder, what it will and will not do, and the
+  spring against now with a reason about grass.* ***This is a man who
+  knows a thing and is describing it accurately to somebody who does not.***
+- **⚠ AND THEN HE PUTS HIS HAND ON THE SHOULDER**, *for two seconds,
+  without deciding to* — **and Deguchi's voice moves a quarter of a tone
+  on the fourth word of a sentence about hay, and he hears it exactly, and
+  can do nothing whatever about it.**
+- **⚠ SO HE STOPS, AND HE HAS NEVER STOPPED.** *No number, no **how
+  much**, mouth shut, four seconds of nothing.*
+- ***"Can I?" — "Yes."*** **Three words, under two seconds, and he thinks
+  about them on and off for two years.**
+- **He watches eleven minutes and gets three things right:** *she did not
+  touch it and he did, and that is the whole of the two thousand three
+  hundred; she let the man finish; and she asked for the headcollar after
+  the price was agreed and he does not understand that one yet.*
+- **⚠ AND THE FOURTH IS THE FLATTEST SENTENCE HE EVER PUT IN THAT BOOK:**
+  ***4. She is good with people.*** **Seven months of a method that says
+  you describe what a person did and in what order, and he has come away
+  with a compliment.**
+
+**THE ROAD WITH AN ANIMAL — 7th to 14th**
+
+- ***"It's the best thing I've bought." — "Better than the boots?" —
+  "Different."***
+- **§2k, costed:** *feed at forty a day and not twenty-five, and a hundred
+  and ten for a net of hay at Kubiki without arguing because he has no way
+  to argue about hay; twenty minutes a day on the feet, learned by not
+  doing it on the second day; the headcollar packed out with rag and then
+  rag and blanket and right by the fourth; and water, five times what he
+  wants, standing still, and a mile and a half up a side valley to find the
+  third place.* ***Everything I have learned about this animal in eight
+  days, somebody would have told me in four minutes.***
+- **⚠ THE FOUR MILES, AND HE COSTED THE WRONG THING.** *The cut above
+  Sakabe is three feet wide with a step in it and he has been up it nine
+  times without thinking about it.* ***I costed the feed and the feet and
+  the collar and the water and I did not cost the ground.*** **New heading
+  in the operational column, the first in four months:** ***ROADS FOR AN
+  ANIMAL*** — *every route he has is now wrong*, **and it is the most
+  cheerful he has been since the eleventh month, because it is nine months
+  of work that needs doing again and he has nothing else to do with the
+  afternoons.**
+- **The Kanaya, and she is odd about it.** ***"It's smaller than I
+  thought." — "Have you been?" — "No."*** *That is a no with a thing on the
+  back of it, and it goes in the place with the hat and the not-asking,
+  which now has four items in it and which he has never opened and looked
+  at together.*
+
+**⚠ THE TIN, AND THE TWO OBJECTS ON THE BANK — 14/2**
+
+- **Sixty feet off the road at first light; the tin, the card, the piece;
+  struck with a nail and held for four seconds, listening to the end of it
+  and not the start.** *One word in the readings column:* ***Same.***
+- **She comes over.** ***"What is it?" — "It's a reading."*** **And
+  nothing else** — *first time in fifty-eight days he has not given her a
+  complete answer to an operational question, and he works at it for three
+  miles and gets to the bottom of it:*
+  > ***What it is for is that I have got a way of finding out whether my
+  > mother is alive, once every eleven days… and the day I say it out loud
+  > is the day it becomes a thing that is happening to me instead of a
+  > thing I am measuring.***
+- **⚠ AND THE SWORD IS ACROSS HIS BACK THE WHOLE TIME**, *making the note
+  it has always made, which he stopped hearing about a year ago the way
+  you stop hearing a stream.* **Two objects eleven inches apart for four
+  minutes** — *one tells him what he wants to know, the other has been
+  telling him something else for fourteen months* — **and the only four
+  words in the book about it are still** ***17/12. The blade was warm.***
+
+**⚠ THE SPARRING PAGE — 5th to 21st, sixteen sessions**
+
+- **He rules it on the eighth because three readings is a series.** *2, 9,
+  9, 11, 10, 13 … 19 on the 19th, 21 on the 21st.* **And *not getting up*
+  is the number that would matter and it is nought out of sixteen.**
+- **Margin note, and it is the first non-operational thing he has written
+  about her:** ***She does not stop.***
+- **He gives her the number every night because it is the only thing he
+  has**, *and he has been to the bottom of why:* ***I could give her four
+  faults out of every one of those… the problem is I cannot tell her what
+  to do instead, and the day I try to put it in an order I will invent one
+  and she will build on the invented one.***
+- **⚠ SHE ASKS FOR THE SAME ONE FOUR TIMES AND HE READS IT AS DRILLING.**
+  *She was checking whether the fourth would be the same as the first.*
+  **It was the same all four times, and on the fourth she got a hand on
+  his wrist for a quarter of a second and neither of them said anything.**
+- ***"How many have you got?" — "Ways of doing that?" — "I don't know."***
+  **He counts eleven he can name and stops because the rest have no
+  names** — *and gives her another one, and it is the same one.*
+- **⚠ SECOND TIME IN A FORTNIGHT HE HAS WATCHED HER DO SOMETHING AND COME
+  AWAY WITH A NUMBER THAT IS TRUE AND USELESS.** *He does not connect it
+  to the yard, and does not for a very long time, because in both cases he
+  measured the thing that could be measured and never asked whether it was
+  the thing that was moving.*
+
+**HOME — 24th to 27th**
+
+- ***"Anything?" — "Not today."*** **Fourth time, and he has stopped
+  expecting anything else.**
+- **The mule gets a page in the operational column because it is a
+  system**, *and at the top, where the name goes, he writes* ***the mule***
+  — **and does not stop over it, because it is an animal with a load and a
+  rate and a page has to be called something.**
+- **⚠ AND HE TOTALS THE LEDGER FOR THE FIRST TIME IN ELEVEN MONTHS**,
+  *because it had never once been worth doing:* **18,000 → 6,140.**
+  > *−1,140 kit, −90 hat, +900 Kurihama, +1,100 Sakabe, −8,000 Hazaki,
+  > −5,200 the mule, −830 feed and road, +1,400 the Kanaya.*
+  >
+  > ***I earned three thousand four hundred in fifty-six days… Fourteen
+  > hundred over fifty-six days, and that is what a person makes.***
+- **The mark stays on the 11/1 sentence and the sentence is not struck
+  out**, *because taking the mark off would say it was right and striking
+  it out would say he has a better one, and he spent an evening looking.*
+  **So:** ***27/2. No.***
+- **⚠ A NEW PAGE, AND THE HEADING TOOK FOUR SECONDS:** ***WHAT IS LEFT.***
+  *6,140 under it and a line, and it is the first page in that book that is
+  going to go down.*
+- **⚠ AND THEN THE OTHER PAGE.** *Four minutes on 29/12 and four more in
+  the first month and nothing.* ***I can head that one. And I cannot head
+  that one. And it is the same book and the same hand.***
+- **Thirty-six of the last fifty-six days with nothing on the boards, and
+  there is no next thing**, *and he goes to sleep at about one and sleeps
+  the whole night.*
+
+**UZUKI — fixed**
+
+- **She has been going to ask since 17/12 and has rewritten it forty times
+  and says it badly.** ***"Will you teach me to fight?" — "No."***
+- **And the reason is accurate and is not modesty:** ***a style is a set
+  of things in an order that somebody worked out and can hand you. I
+  haven't got one… there isn't a first lesson.*** *And four seconds later:*
+  ***"Stand up."***
+- **Eleven times in about four minutes.** *The fourth knocks the wind out
+  of her and he crouches three feet away and does not touch her and waits,
+  and when she gets it back says* ***"Again."*** **He is not gentle and not
+  rough; he is exact, and about the eighth she understands that he is not
+  trying to hurt her and not trying not to, and both would have been
+  decisions.**
+- ***"Nine seconds. The last one. The first one was two." — "Is nine
+  good?" — "It's better than two."*** **And that is the whole of the
+  encouragement available and he has given her everything he has.**
+- **⚠ AND SHE WORKS OUT THAT IT IS THE WRONG NUMBER.** *Two seconds and
+  twenty seconds are both dead.* **So she goes back through all eleven —
+  the same foot, the same hand, the same place on her arm — and gets it:**
+  ***he did the same thing eleven times, and he has got about forty. So
+  the number is not nine seconds. The number is one.***
+- **⚠ AND SHE DOES NOT TELL HIM, AND THE REASON IS NOT SECRECY.** *He
+  would take it completely seriously and start varying it on purpose and
+  the number would stop being a measurement and start being a thing he was
+  doing for her.* ***I have got one instrument and it works because he does
+  not know it exists. Which is the same as the sacking. And the same as the
+  bowl.***
+- **She treats herself forty feet off, behind a bank, two hours later.**
+  *Thirty and not ninety, which is what you do for a bruise, learned off
+  Tokuji's back in a store in the tenth month* — **and the stopping is
+  still going off about one in seven and there is nobody to ask.**
+  > ***He does the thing that hurts me, and I fix it, and neither of us
+  > says anything… I would just like there to be one person alive who
+  > could tell me whether I am doing the stopping right.***
+  *She goes to sleep with her hand flat on her hip, which she does every
+  night for six years.*
+
+**⚠ THE SPEECH — 6/2, and it is the chapter**
+
+- **She knows what it is in the first four words** — *not the sentence,
+  the shape: a man beginning at the head end with somebody beside him who
+  is going to pay, and the unhurriedness of a person who has decided to be
+  fair and is enjoying being fair.*
+- **Two lies inside three minutes.** *The groove has started and comes down
+  from the top of the corner tooth and begins at about ten, and Shimoda
+  showed her father the groove on Genzō and said it is the only part of
+  the mouth you cannot argue with — **so he is ten, maybe eleven**. And the
+  shoulder is not what he was bred with, it is four or five years of work
+  and a year of standing off, **and a man does not stand a good mule off at
+  ten unless something happened, and what happened is not in this
+  speech.***
+- **She sees what the hand on the shoulder costs him before Deguchi does.**
+  ***He has stopped. He has never stopped. He does not have a stopped.***
+- ***"Can I?"*** **and he says yes and steps back and puts his hands
+  behind him** — *and it is the first time in her life that anybody has
+  handed her something.*
+- **She does not go near the animal**, *and the third reason arrives
+  behind the wall:* ***I am not putting my hand on it while a man is
+  saying what it is worth.***
+- **She lets him finish.** ***Sixteen days at Kuriya's. She never once
+  went in the middle.***
+- **⚠ AND THEN HE SAYS SHIMODA'S SENTENCE.** ***"He was bred for more than
+  he's ever done."*** **The same eight words in the same place** — *and she
+  has the whole of Shimoda's speech, in order, in a voice, with the pauses
+  in the same places.* ***So it is not his. It is not Shimoda's either. It
+  is the speech, and everybody who does this has got it, and Shimoda did it
+  honestly and this one is doing it to me.***
+- **She does the true version of his own speech back at him, in his order,
+  at his speed, and never once says *you are lying*.** **7,500 asked.
+  5,200 paid.** *And the headcollar after the money is out and his hand is
+  halfway across, which she watched Kuriya do to her mother over a set of
+  pans and understood about a week later on a road with a cart.*
+- **Behind the wall for a quarter of an hour, and she is not sick and does
+  not cry and had made an allowance for both.** *What arrives is the list.*
+  > ***I liked it… I was the best I have ever been at anything and I knew
+  > it while I was doing it, and there was a man in front of me who could
+  > not do anything about me, and I have never had that, not once, not for
+  > a second, in my whole life.***
+- **⚠ AND THE DIFFERENCE, GOT AT THE TWELFTH MINUTE:** ***the mule did not
+  mind.*** *Nobody was standing in that yard being described.* **And that
+  is the entire difference between a trade and the other thing** — ***and
+  it is not enough***, *because she did not do it because it was allowed,
+  she did it because she could, and the reason she could is that it was
+  done to her twice and she paid attention both times.*
+
+**⚠ ONE OUT — 16/2**
+
+- **She tells him the number and never works out why.** ***"There's one
+  thousand four hundred and seventy-five days until I'm fifteen."***
+- **⚠ AND HE SAYS: *"How did you get it?"*** *She has told two people a
+  number in her life — her father said **fancy** and meant it kindly, her
+  mother said she was a clever girl and put a hand on her head.* **Nobody
+  had ever asked her how she got it.**
+- **Eleven minutes of derivation, in order, oldest first, uninterrupted.**
+  *26/3 as day nought; 1,620 under a bridge at Ōgi on 22/9; nine days lost
+  in the tenth month; three answers within four and the lowest taken and
+  marked; 1,603; the charcoal out on 9/12; and every day since in her
+  head.*
+- **He rules a page in columns, writes every date down, does the gaps
+  twice, six minutes, and says nothing for any of it.**
+  > ***"You're one out. You're one under. It's fourteen seventy-six…
+  > You took the low one and you were right to mark it. And you've carried
+  > it since. Everything after that is correct. The arithmetic's clean the
+  > whole way — a hundred and thirty-one days of it in your head with no
+  > paper, and it's clean. It's just anchored one low."***
+- **⚠ AND THEN HE SHUTS THE BOOK AND PUTS A STICK ON THE FIRE.** *No well
+  done, no comment, and he is on the other side of the fire doing the
+  throwables before she has worked out what to do with her face.*
+- **She keeps the wrong number**, *and gets as close as she ever gets:*
+  ***the one is nine days in Ōgi being hungry and making a number up and
+  being honest about making it up. And I am not taking that out.***
+- **The barley.** ***"If you could have anything to eat, what would you
+  have?" — "I don't know." — "You've got to have something." — "I haven't
+  got anything."*** **A mile and a half later, out of nowhere:** *the pan
+  you have done fish in and do not wash first, and a green thing that goes
+  almost to nothing and you can taste it and cannot see it.* ***"It takes
+  about an hour and it's not worth an hour." — "It sounds worth an hour."
+  — "It's barley."*** *Eight paces.* ***"It was."*** **He does not say
+  whose pan and she knows in two seconds.**
+- **⚠ SHE NEARLY TELLS HIM ABOUT THE HAIR ON THE 18TH AND DOES NOT.** *He
+  would ask how she got it and find the fault and there is no fault,
+  because it is not arithmetic.* ***And then he would do something about
+  it. And I have not worked out yet what he does about things, and until I
+  have I am not giving him one he cannot fix.***
+- ***18/2. 19 mi. All three sound.*** — **he has counted the mule, and she
+  does not say anything about that either.**
+
+**⚠ THE FIRE — 22/2, and the canon impression is the mirror**
+
+- **He is there before they are, and Tadayoshi goes in because going round
+  would take them past the front of it in the open**, *which she works out
+  a week later.*
+- **A young man of about twenty, alone, boots off and drying, a coat that
+  had been good, a pipe, and nothing else visible.** ***"There's room."***
+- **She reads him in eleven minutes.** *On the side the smoke is not; the
+  road at forty degrees behind his right shoulder, which is wrong for
+  warmth and right for one thing; nothing on the ground; and* **he asked
+  where they were going and not where they had come from** — *the one about
+  tomorrow and not the one about before, decided in the first thirty
+  seconds and held for ten minutes.*
+- ***He is doing what we are doing. And he is on his own, and he is about
+  twenty, and he has been doing it long enough that he does not have to
+  think about the side of the fire, and he is doing it better than us and
+  he has got nothing.*** **— *That is us in nine years.*** *She says
+  nothing about it for eleven years.*
+- **⚠ AND SHE LAUGHS**, *for the first time since the third month of the
+  year before last, at an argument about a mule that would not pass a
+  particular shape of tree*, **and has to sit with the fact of it for a
+  minute.**
+- **⚠ THE PIPE, THREE TIMES.** *One bubble off the end, about the size of
+  an apple, eight feet and gone; the third at nearly midnight with the fire
+  down, hanging above the three of them, turning, with firelight on it.*
+  **Nobody says anything about it at all.**
+- **⚠ *"How long have you been out here?"*** **And Tadayoshi does not
+  answer** — *no tensing, no looking away, no deciding whether to lie* —
+  **and the man's face changes, and she gets it, because it was not the
+  answer, it was what happened instead of one.**
+  > ***"No. Don't answer that. I'm sorry."***
+- **Gone before light, having left nothing and taken nothing.**
+- **Tadayoshi's entry:** ***22/2. Man at a fire, ab. 20, alone. No threat,
+  going N.*** — ***That is not wrong. He has got the whole of the outside
+  of it and none of the inside.***
+- **⚠ AND ON THE SECOND EVENING IT UNDOES A FINDING SHE HAS HAD FOR TWO
+  YEARS.** *She could not price him either — second in seven weeks — and
+  she will not keep a finding that has failed twice.* **The replacement:**
+  > ***He had nothing. A man with nothing has got nothing he wants from
+  > you… And the other one has got eleven thousand ryō and a mule and a
+  > sword and he has not got a number on me either. So they are not the
+  > same… The man had nothing to want with. He has got everything to want
+  > with, and does not want anything, and I do not know what that is, and I
+  > have never once heard of it.***
+  >
+  > ***And I have got one thousand four hundred and sixty-seven days to
+  > find out.***
+
+**KIMIMARO — fixed**
+
+- **⚠ HE FINDS A CLOCK.** *Somebody screaming at a regular interval.*
+  **He identifies it inside a second, because he is not stupid and has
+  heard people make noises before, and the identification does not go
+  anywhere and does not connect to anything and he does not return to
+  it.** *What he notices is that it is **long**.*
+- **He gives it eleven before he will use it**, *counted in breathing,
+  which he knows is a bad unit and uses because there is nothing else.*
+  **Nine good gaps between 280 and 310, one spoiled, and one at 340** —
+  *and he gets that one:* ***that is not a long gap, that is a missed one,
+  and the interval did not move.*** **A thing that goes on at the same
+  interval whether or not it happens is a thing somebody is doing to a
+  schedule** — *and he does not go one step further, because a schedule is
+  a fact about a building.*
+- **He tests it another day before using it and it holds.** ***Nine good in
+  eleven is a clock.***
+- **The old number is gone with the bowls** — *but he does not need how
+  much is done, he needs how fast it is going* — **so he measures the fifth
+  piece against his thumb and counts through four days and nights, waking
+  for every one of them, and finds he can half-sleep and hold it.** *A
+  thumb and a bit in about a hundred and ten. About two hundred more.*
+- **⚠ AND HE IS MORE PLEASED THAN HE HAS BEEN SINCE THE SIXTH MONTH.**
+  *Thirteen, in the dark, having lost the only instrument he ever had and
+  gone out and found another one and tested it eleven times and thrown out
+  the bad readings and built a rate on it in four days on his own with
+  nothing.* **It was good work and he knew it was good work and there was
+  nobody to tell.**
+
+**⚠ AND IT STOPS**
+
+- **Two hundred and eleven of them, four out, and by the eightieth he had
+  stopped counting his own breathing between them.** ⚠ **He could tell when
+  the next one was coming, and was right about a hundred and sixty times**
+  — *the first time in his life he had ever known what was about to
+  happen.*
+- **The fifth piece came off at about the hundred and ninetieth and was
+  three thumbs on the nose.** ***I said three.*** **So the half was right
+  and the quarter was the bad one, and six more.** *He broke the sixth that
+  night with a clock he trusted.*
+- **Then, on a day he cannot name, it does not happen.** *One is a missed
+  one. Two. Four. Six. Eleven.* **And he gets up and stands in the middle
+  of the room, which he does not do.**
+- **Three hypotheses, worked in order.** *He has gone deaf or got used to
+  it — tested, and he can hear everything else. It has moved — possible,
+  not checkable, which is the same as no. **It has stopped** — and that is
+  the one that looks like this.* **He waits sixty of the old intervals
+  before he will write a negative result down.**
+- **⚠ AND HE DOES NOT WONDER WHY.** *Wondering requires some idea what
+  people do and what happens to them, and he has never been given one.* **A
+  thing had been happening at a regular interval. It had stopped. That was
+  the entire content of it**, *and he was not being brave about that and
+  was not being cold about it and would not have understood either word.*
+- **The sixth piece is at seventy-and-something out of about two hundred**,
+  *and the something is between nothing and a great deal, and every
+  measurement from here carries it.* **Four days, marked *made and not
+  counted*.**
+- **Last line, and he never has another thought about it:**
+  > ***It was going well.***
+
+**OPEN INTO CHAPTER 15**
+
+1. **A mule with a page and no name**, *and two reasons neither of them has
+   said.*
+2. **A sparring page that says 2 → 21 in seventeen days, and a count in her
+   head that says one.**
+3. **A number she knows is one out and keeps**, *and nine days in Ōgi
+   inside it.*
+4. **⚠ *WHAT IS LEFT.* 6,140 and going down**, *and thirty-six of the last
+   fifty-six days with nothing on the boards, and* ***27/2. No.***
+5. **A page he can head in four seconds and a page he cannot head at all.**
+6. **The tin and the sword, eleven inches apart, and only one of them
+   written up.**
+7. **A man who blew bubbles and went north** — *and a finding replaced:*
+   **he has everything to want with and does not want anything.**
+8. **Kimimaro has lost a clock twice and has a rate that carries four
+   unknown days.**
