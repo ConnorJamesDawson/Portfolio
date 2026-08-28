@@ -988,6 +988,99 @@ an audit. The ledger is an audit. The doctrine is an audit.**
 does not know it is a key, and she is right for reasons that indict her own
 life, which is the standing shape of her being right* (`spec.md`).
 
+### ⚠ THE IDENTIFIERS — the sword is ONE and it is the worst-timed one
+
+> **AUTHOR:** *"It doesn't always start with the sword — the monastery
+> didn't, he drew that after starting. So I agree it's an identifier, not
+> THE identifier."*
+
+**PAGE, `ch12` s9 and s10, and it fails in three ways and not one:**
+
+1. **It was not out when it started.** *She has the whole fight and the
+   light is not in the early part of it.*
+2. **⚠ NOBODY SEES IT ARRIVE.** ***"It had been in his right hand since
+   some point she had not seen."*** *And his own version:* ***"He did not
+   know when he had drawn it, and that was not new, because he had not
+   known that on a riverbed either."***
+3. **And she does not notice the light start either** — *she notices it at
+   about the point the second man by the east door goes into the wall*,
+   **which is minutes in.**
+
+> **So the loudest instrument he owns arrives inside the event, at a time
+> nobody in the room can fix, and is therefore evidence and never
+> warning.**
+
+### The three grades, and only the third is always there
+
+| | Reads | Available | Limit |
+|---|---|---|---|
+| **The sword** | *intent, live, continuously* | **when it is drawn** | ⚠ *may arrive after the state does, and nobody can date its arrival* |
+| **The field** — *his own articles, which are crystal* (`spec.md` §11b) | *the same quantity, distributed across the ground* | **once articles are down** | ⚠ **it scales with load, so it is loudest exactly when it is latest** |
+| **⚠ THE LEAVINGS** | *what was made, how much, and how well* | **afterwards. Always.** | *tells him it happened. Never that it is happening* |
+
+### ⚠ AND THE LEAVINGS ARE THE BRIDGE — PROPOSED, and it needs no self-awareness at all
+
+**He cannot perceive the channel and never will.** *But he has never
+understood one thing in his life by looking inward.* **He is an accountant.
+The ledger is after the fact. The hunter file is after the fact. He reads
+the record, not the moment.**
+
+**And the record exists, twice, on the page already:**
+
+- **`ch12` s10:** ***what was new was that it was warm.*** *He had carried
+  that sword for over a year, mended two chips in it, sat with it on nine
+  mornings, and it had never once been anything but the temperature of the
+  air.* **The object kept a reading, and he found it afterwards, and had
+  nowhere to put it.**
+- **`ch05`, the riverbed:** ***one stand of about two hundred together,
+  like a thing growing*** — **and a sword he does not remember drawing in
+  the same place.** *He has already stood in his own leavings once and read
+  them and not known what he was reading.*
+- **And `combat.md` §3b step 4 said so and called it unreachable:** *there
+  may be open crystal, drawing on its own, permanent, in fields he cannot
+  remember —* ***and he would never know.***
+
+> ## ⚠ AND THE LINE THAT MAKES IT HIS
+>
+> **He identified a man by his handwriting in act one. `ch15` is a whole
+> chapter of him reading a hand and admiring it.**
+>
+> ## **He has spent the entire book reading other people's hands. The one he cannot read is his own.**
+>
+> *The harness begins as forensics: he goes back to ground he does not
+> remember laying and learns to recognise his own work* — **and nothing is
+> added, which is `method-delta.md` §2n's first requirement.**
+
+### And the order runs backwards from the obvious one
+
+**Forensics first, live gauges second.** *He learns **what** the state is
+by reading its leavings; only then do the sword and the field become
+legible, because he finally knows what he is listening for.*
+
+> **Which is the author's *mindset, not physical*, exactly: he gains no
+> sense and learns no technique. He learns to read a hand he has been
+> looking at for years.**
+
+### ⚠ SO DISCIPLINE RULE 3 STANDS — and a proposal of mine to break it is dead
+
+**I proposed that the rising tone gives him a warning and therefore breaks**
+***he can measure everything about it except its arrival.*** **It does not,
+and the ruling above is why:** *the sword arrives inside the event and
+cannot be dated; the field is loudest when it is latest; and the leavings
+are post-hoc by definition.*
+
+> **Nothing in this model ever tells him it is about to happen.**
+> **Rule 3 is intact, and the harness is built without a warning system**,
+> *which is harder and better and does not require a single new mechanic.*
+
+### ⚠ AND UZUKI IS STILL THE PROMPT, but for a different question
+
+*Not* ***what does the tone mean*** *(§3b's ring question, which is its own
+thread).* **It is:** ***you went back to that riverbed. What were you
+looking at?*** — **a question about a thing he did and cannot account for**,
+*which is the only kind he cannot refuse, because an unclosed entry is the
+one thing that has ever made this boy do anything.*
+
 ### ⚠ THE PRICE — and it is arithmetic, not conscience
 
 > **AUTHOR, killing the first version of this, which was mine:** *"He
