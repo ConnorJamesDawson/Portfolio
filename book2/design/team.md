@@ -362,6 +362,17 @@ a working soldier from the first day.** *So why is every fight after month
   and the more that fail the better the ones that come.***
 - **So the gain does not last and the cost does not come back.**
 
+> **⚠ AND `combat.md` §10a SHARPENS THIS RATHER THAN SOFTENING IT — AUTHOR:
+> the hunters are not a forever resource, because the country is in civil
+> war.** *They are rare, expensive, and sent by somebody who had to win an
+> argument about money.*
+>
+> *So spending him on an ordinary fight is spending a finite asset on **the
+> thing that turned up** — and the thing that was **sent** arrives in eight
+> months, once, properly resourced.*
+>
+> ## **You do not spend the last measure on the thing that came. You spend it on the thing that was sent.**
+
 > ## ⚠ WHICH IS THE HUNTER CURVE, EXACTLY, WITH A DIFFERENT RESOURCE IN IT.
 >
 > **Tadayoshi's every kill makes the next hunter better. Kimimaro's every

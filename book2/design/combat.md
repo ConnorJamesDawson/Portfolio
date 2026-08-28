@@ -1496,6 +1496,111 @@ to him on that date dies too.
 
 ---
 
+## 10a. ⚠ THE STATE IS BROKE — AUTHOR
+## The constraint the curve was missing
+
+> **AUTHOR:** *"The thing with the hunter-nin is that it isn't a forever
+> resource. The country is going through civil war, so it does need to be
+> both sparse and impactful."*
+
+**§10 as written above describes a mechanism with no budget in it.** *It is
+correct about what a failed team produces and silent about who pays for the
+next one* — **and read without this, it is a conveyor, and a conveyor is a
+shōnen ladder wearing a coat, which §10's own discipline section was
+already trying to prevent and could not, because it had no economics.**
+
+#### ⚠ AND BOTH SIDES ALREADY RUN THE SAME SUM — the design just never put them together
+
+| | | |
+|---|---|---|
+| **The rebellion** | `act-1.md`: **a rebellion that is losing has worked out that every team hunting him is a team not hunting a cell** | *so they fund him* |
+| **The state** | **the identical arithmetic, from the other end** | ⚠ *so at some point they stop* |
+
+> **And the book has already said the sentence out loud in a different
+> mouth** (`ch12`, about a different child): ***it costs more than it
+> saves… so we eat it.***
+>
+> **Every hunter team sent after one boy is a team not fighting the
+> insurrection**, *in a war the Mizukage's side is running at cost, and
+> somebody has that on a sheet.*
+
+#### What scarcity changes, and it is four things
+
+1. **⚠ ESCALATION IS NOT AUTOMATIC. IT IS PURCHASED.** *A better team costs
+   more, so it is sent only when the last failure was expensive enough to
+   justify the requisition.* **So the curve does not rise because he won.
+   It rises because somebody with a name lost an argument about money.**
+2. **The intervals are months, and the file is thin.** *`ch10` is already
+   right about this and nobody noticed it was a rule:* **eleven sheets,
+   five columns, and two lines on it by the ninth month.** *That thinness
+   is the design, not a gap in it.*
+3. **⚠ AND THE CURVE CAN GO DOWN, WHICH IS WORSE.** *If the war turns, they
+   stop sending anybody* — **and a gap is unreadable.** *He cannot
+   distinguish **they have stopped** from **they are building something**,
+   and he will do the arithmetic on both and be unable to choose, which is
+   the same failure as `ch15`'s empty boards and `ch13`'s long gaps.*
+   > **The silence becomes the threat, and it costs the state nothing.**
+4. **The cost of each engagement is deferred, not immediate.** *A fight
+   won produces a **file entry**. The file entry produces the next team
+   only when somebody decides to pay for it.* **So the debt accrues out of
+   sight and arrives as a lump**, *and he cannot watch it accumulating,
+   which is precisely the condition he cannot tolerate.*
+
+#### THE CADENCE RULE — sparse and impactful, stated as a constraint
+
+> ## ⚠ FEWER PER ACT, AND EACH ONE COSTLIER.
+
+**The number of hunter contacts goes DOWN across the four acts while the
+quality goes up**, *which is the inversion of the default and is the whole
+of what the author asked for.*
+
+| Act | Contacts | Character |
+|---|---|---|
+| **One** (age 10) | **two or three** | *mostly not fights* — **a lodging given up at two in the morning; the left-hander, who survives** |
+| **Two** (age 11) | **two** | *one of them is `act-2.md` §11's ambush — **AUTHOR, arity, the pig knife, and it is still unspent*** |
+| **Three** (age 12) | **one, properly resourced** | **the requisition somebody finally won** |
+| **Four** | ⚠ **not the state at all** | *see below* |
+
+**And §10's own discipline holds underneath it:** *most contact is not a
+fight; the curve is felt as shrinking options; most fights he wins, he
+loses something.*
+
+#### ⚠ AND IT RE-PRICES §3.7 RATHER THAN WEAKENING IT
+
+**`team.md` §3.7 says a battle won produces the next battle. That is too
+mechanical and this corrects it** — *and the corrected version makes the
+last-measure doctrine **stronger**, not weaker.*
+
+> *If hunters were a conveyor, spending Kimimaro buys a night.*
+>
+> **If hunters are rare, expensive and deliberately chosen, then spending
+> him on an ordinary fight is spending a finite asset on the thing that
+> turned up** — *and the thing that was **sent** comes in eight months,
+> once, properly resourced, and that is the one he was for.*
+>
+> ## **You do not spend the last measure on the thing that came. You spend it on the thing that was sent.**
+
+#### ⚠ AND WHERE THE CURVE ENDS — PROPOSED, and it needs a ruling
+
+**`timeline.md`, AUTHOR-adjacent:** *the brother is thirteen at the arrest
+and signs **the statement that creates the warrant**, so every hunter team
+carries a copy of a document in his hand* — **and he is what the curve
+eventually delivers.**
+
+> **PROPOSED: the state stops paying, and one man does not.**
+>
+> *The moment the requisitions stop being approved is the moment the only
+> person still willing to spend on it is family* — **which converts the
+> hunter curve from an institutional threat into a personal one at exactly
+> the point the book needs it to**, *and does it with an accountant's
+> decision and not a vendetta speech.*
+>
+> **Unspent. Do not put it on a page without a ruling** — *and it is
+> adjacent to `combat.md` §9's other unspent card, which is that every
+> Ruri has the channel.*
+
+---
+
 ## 10b. THE INVESTMENT — why a losing rebellion trains a ten-year-old
 
 > **He is not a courier for three years. Carrying is the probation.**
