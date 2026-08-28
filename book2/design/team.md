@@ -949,6 +949,131 @@ declined **all** of them, knowingly.
 
 ---
 
+### 10.7 ⚠ NOT THE JEALOUS ARCHETYPE — AUTHOR RULING, and it has a date
+
+> **AUTHOR:** *"It makes much more sense for her not to be a jealous
+> archetype because she instead focuses on him, so any wrongdoing is taken
+> by her personally as well."*
+
+**Ruled out: the death glare — a woman near him gets a look, and he says
+otherwise.** *Proposed as a possible register and refused, and the refusal
+is the author's, on the author's own reasoning, which goes further than
+the case against it did:* **because everything is routed through him,
+harm done to him lands on her as harm done to her.** *There is no third
+party in her accounting. There is him, and there is the ledger, and an
+injury to him is an entry in it.*
+
+**Four reasons it was wrong, kept because they are the test any future
+version of this behaviour has to pass:**
+
+1. **⚠ SHE ACQUIRES. A jealous girl excludes.** *§12 — she looks at a
+   beautiful clan heiress in his orbit, does the arithmetic, decides she
+   is useful and **brings her into the household.*** **That is her
+   largest move in the whole project and the glare is its exact
+   inverse.**
+2. **A glare is a withheld communication and she cannot withhold.**
+   *`portraits.md`: Hinata's love is the thing she cannot say, Uzuki's is
+   the thing she cannot stop saying.* **A look is a threat you decline to
+   voice — that is his register**, and lending it to her blurs the one
+   contrast the two POVs are built on.
+3. **Gender as the trigger converts inventory control into romantic
+   jealousy**, *which `spec.md` names as the reading that costs the book
+   everything.* **A rival presupposes a contest. She has not got rivals.
+   She has got an open ledger.**
+4. **It makes her small.** *The archetype's glare is impotent by design —
+   a feeling with nowhere to go.* **Hers has somewhere to go: §4.4, the
+   hand off as maintenance, under a rule she wrote down.** *A girl who
+   glares is upset. A girl who prices you and files you is something
+   else.*
+
+#### ⚠ IT HAS ALREADY STARTED, AND IT STARTED AS ACCOUNTANCY
+#### Three PAGE anchors
+
+**This is not a mode that switches on later. It is running now and the
+pages exist.**
+
+| | PAGE | What it is |
+|---|---|---|
+| **Ignition** | **`ch13` s7** | *She walks out of a paid, decent, one-year placement on the fifth morning* — **and the reason is not that she missed him**: ***I have got an entry I cannot close… I am not going back to tell him anything. I am going back to watch him for longer.*** |
+| **First thing she owns of him** | **`ch14` s2** | ***The number is one***, *and the decision not to tell him.* **She frames it as protecting the instrument. It is the first fact about him that belongs to her, and she files it beside the sacking and the bowl.** |
+| **⚠ THE SWITCH** | **`ch14` s10** | *The day count was **days until I am fifteen** — survival, hers, from before he existed. It ends the chapter as* ***one thousand four hundred and sixty-seven days to find out.*** **Same integer, new denominator. The clock she used to outlive the world is now the clock she is using to solve him.** |
+
+**So nothing needs adding. What is required is that the chapters after
+`ch14` know those were the start** *and build off them instead of
+restarting the thread warmer.*
+
+#### THE TRIGGER IS STANDING, NOT PROXIMITY — PROPOSED
+
+**Not a woman near him. Somebody acquiring a claim on him she cannot
+audit** — *which means the people who trip it are mostly not women:* **a
+broker who gets a laugh out of him; a client who gets him to change a
+term; and by act three Kimimaro, who is doing what she does, at closer
+range, holding a document that says so.**
+
+#### AND THE TELL IS A QUESTION, NOT A LOOK — and it is now PAGE
+
+*Proposed here; landed in `ch15` before this section was written, which is
+the good order.*
+
+> **`ch13` s7, done TO her:** ***she asked me four questions in the right
+> order.***
+>
+> **`ch15` s4, done BY her:** ***"What was he like?" — "No — what was he
+> **like**." — "He laughed."***
+>
+> **`ch15` s8:** ***"When he laughed. Had he paid you?"*** *— one
+> question, correctly aimed, kills the objection.*
+
+**She asks something pleasant, specific and entirely reasonable, gets an
+answer, asks another, and by the fourth one she knows what the
+relationship is worth and the other person has told her voluntarily and
+enjoyed the conversation.**
+
+#### THE LADDER — same pathology, rising capability
+
+| Age | What it looks like | Who notices |
+|---|---|---|
+| **11–13** | **the questions** | *nobody, ever* |
+| **13–15** | **questions, then arrangements** — *the person is simply not around any more, and there was no incident* | *the reader, one beat late* |
+| **15+** | **the hand, under the written rule.** *Not rage. Maintenance.* | *everybody, too late* |
+
+#### ⚠ TWO CONSTRAINTS THIS PUTS ON THE DRAFT
+#### PROPOSED, and both are load-bearing
+
+1. **THE NARROWING IS A DISAPPEARANCE, AND DISAPPEARANCES DO NOT SHOW IN A
+   POV CHARACTER.** *§10.2 says the tell is that her own reasons stop
+   appearing — but she narrates four scenes a chapter, and reasons thinning
+   out inside her own POV reads as **the writing got worse**, not **the
+   girl got smaller**.*
+   > **So she needs a named preference now, while the reader is watching
+   > closely, that has nothing to do with him** — *so the absence later
+   > has a shape to be absent from.* **Half-built already: Nao, in the
+   > `ch13` s7 doorway,** *where she made herself put it down properly and
+   > found* ***I am sorry about her and it is small.*** **One more of
+   > those, and act two's late chapters can let the reader notice it is
+   > gone while she does not.**
+2. **⚠ THE MONIKER MUST NOT ARRIVE EARLY.** *The word is romantic and the
+   behaviour is not, and the genre default will let a reader back-fill
+   jealousy onto the audits retroactively — at which point she is the
+   archetype §10.7 just ruled out.* **The protection is arrival order: the
+   reader must have watched her run inventory on him before they are given
+   a romantic label to file it under.** *§10.3 has it at Nakadō, act two
+   late. **Hold it there** even when a scene wants it sooner.*
+
+> **And the prize §10.4 already contains, stated as a scene rather than a
+> mechanism: the last time he corrects her should be ordinary,
+> throwaway, in a doorway or at a counter — identifiable afterwards and
+> invisible while it happens.** *Then he never does it again, and it takes
+> the reader a hundred pages to notice, and when they do they have to go
+> back and find it.*
+
+**PROVENANCE.** *The ruling and its reasoning are **AUTHOR**. The three
+anchors are **PAGE**. The standing-not-proximity trigger, the ladder, the
+two constraints and the last-objection scene are **PROPOSED** — mine, and
+unruled.*
+
+---
+
 ## 11. THE DOCTRINE IS DEAD, AND UZUKI RUNS WHAT REPLACES IT
 
 ### 11.1 It did not degrade. It ceased.

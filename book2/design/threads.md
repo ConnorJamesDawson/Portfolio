@@ -5485,3 +5485,385 @@ clerk.* **Some of it comes back attached to different causes.**
    **he has everything to want with and does not want anything.**
 8. **Kimimaro has lost a clock twice and has a rate that carries four
    unknown days.**
+
+---
+
+### C15 — Chapter 15, "The Part Doing No Work". Year 1, month 3.
+### 10 scenes, 17,490 words. T×5 (52%) · U×2 (22%) · K×3 (26%).
+### ⚠ THE PLOT RESTARTS AND HE CANNOT SEE WHAT RESTARTED IT.
+
+**⚠ THE DOCKET — 1/3, taken 2/3, and it is the chapter**
+
+- **On the boards on the first, read on the second, and the fee is the
+  biggest since Terasaka.** *Word for word, and it is on the page in
+  full:*
+  > *Ōtoma to Sarugaya, thence to the crossing below Hane.*
+  >
+  > *1 case. Ab. 90 kan gross. Sealed at origin.*
+  >
+  > *11 days. 4,000, of which 1,000 on acceptance.*
+  >
+  > *Consignor seals. No weighing required at transfer. Hand over against
+  > the counterpart, which will be produced.*
+- **Three hundred and sixty a day against fourteen hundred over
+  fifty-six.** ***It is fourteen times.***
+- **⚠ ŌTSUKA HAD THE THOUSAND COUNTED UNDER THE COUNTER.** *So it was his
+  on the first and he found out on the second* — **and he files that and
+  does nothing with it.**
+- **He asks one question at the board — *who seals it* — and is answered
+  off a page**, *and there is nothing wrong with the answer.*
+
+**⚠ AND HE TAKES THE MARK OFF THE 11/1 SENTENCE**
+
+- **Bracketed, not rubbed out**, *because you do not rub a thing out, you
+  show that it stopped applying and when.*
+  > *2/3. Recovery. 4,000, 11 d. Called it 50 days out, 36 hrs late.*
+  >
+  > *Sentence stands.*
+- **The four days late are argued honestly and dismissed correctly** —
+  *thirty-six hours and one wall of a calendar, and he has never marked a
+  man wrong for a day in his life.*
+- **⚠ AND IT IS THE THIRD MISREADING IN THREE CHAPTERS** *(the fees in
+  ch13, the sparring page in ch14, this)* — **and every one of them is him
+  measuring the thing that can be measured.**
+
+**WHAT IS LEFT — and it goes up once**
+
+- **A new column, ruled three inches in, headed *AGAINST*.** *The thousand
+  on acceptance is not earned:* ***if I do not deliver the case I give it
+  back or I am a thief.***
+  > *6,140 − 152 + 1,000 =* **6,988** *(and 5,988 under it, and both left
+  > on the page, because both are true and he was not going to pick).*
+- **End of the month:** *−411 feed, food and the shoe →* **6,577.**
+  *It went up once and it has been going down for twenty-five days.*
+- **⚠ AND THE QUESTION HE DOES NOT ASK**, *which is the one he asked in a
+  room above Ōtoma in the ninth month of the year before last and was
+  right about:* ***who pays four thousand ryō, and what for.***
+  > ***You ask that about a man. You do not ask it about a box.***
+
+**⚠ IT RINGS — 5/3 to 9/3, and it is the only time he ever fails at this**
+
+- **It arrives while he is doing something else** — *he is checking the
+  road allowance and finds his eyes back at the top of the sheet without
+  having decided to put them there.*
+- **Four days, and every day is an exclusion:** *covered a line at a time
+  — nothing. Read aloud on the north ground — worse. **Copied it out in
+  his own hand and the copy did not ring at all.*** *And two other dockets
+  read alongside it four times in different orders — the two do nothing,
+  the one does it every time, so it is not the day he is having.*
+  > ***That is a fact about me and not about the sheet.*** *He writes it
+  > down and it stays exactly that useful for three years.*
+- **⚠ AND THE FAILURE IS NAMED PRECISELY:** ***I have not got a question.
+  I have got a feeling, and a feeling is not a finding*** — *because there
+  is nowhere to put it and no way to be wrong about it, and a thing you
+  cannot be wrong about is not information.*
+- **He writes it anyway, in the operational column, with no question under
+  it**, *and puts the made-and-not-counted mark beside it* — **the mark is
+  for numbers and he uses it on a feeling, because it is the only thing he
+  has that means *do not build on this*.**
+  > *9/3. The Sarugaya sheet rings. Read before. Cannot place it.*
+- **⚠ AND IT COSTS HER FOUR DAYS.** *He said the sixth for the frame; it
+  was the tenth.* **She asks twice — *is it the sixth*, and then *are you
+  stuck on something* — and is told *no*, and stops asking**, *and it goes
+  in the place where she keeps the things there was no paper for, and it
+  is the second one.*
+
+**⚠ THE PILE — 10/3, and it is hers**
+
+- **Forty minutes to get the frame out and he does it before he eats**,
+  *which is the whole of the apology.* **Sixty-one freight, nine of the
+  other, and two he did not take** — ***they're the same information.***
+- **She reads it wrong on purpose and knows inside four sheets that she is
+  doing it wrong.** ***He reads the job. I am going to read the money.***
+  *Freight: eight hundred to fifteen hundred, forty-odd of them, not one
+  over. The nine: 3,600 — 2,900 — 4,100 — 14,000 — 2,200 — 4,800 — 900.*
+- **⚠ AND THE INSTRUMENT IS THE QUESTION.** *The sheets have a place and a
+  person and a number and a date, and the thing she wants is not on them,
+  and the only copy of it is six feet away.* ***"What was he like?" — "No
+  — what was he **like**." — "He laughed."***
+  > *And:* ***"Did you like him?" — "He was straight with me."*** **—
+  > *That is not an answer to that question and he thinks it is*, and she
+  > lets it go, because she had what she came for and was not going to
+  > spend it.**
+- **THE FINDING, IN THREE STEPS SHE CAN NAME:** *his own sentence off the
+  Sakabe wall —* ***you get paid for who the man was***; *Kadoya pleased,
+  and Kuriya over a set of pans and Deguchi at seven and a half, and* ***a
+  man who is pleased has paid less than he would have***; *and therefore*
+  ***the fee is not for who the man was, it is for what the buyer got, and
+  he has never once looked at the buyer.***
+- **⚠ AND SHE DOES NOT TELL HIM, AND THE REASON IS THE OPPOSITE OF
+  SECRECY.** ***This one I am going to give him. There is no version where
+  I do not. But he is going to take it apart… so I am going to take it
+  apart first.*** *Nine days, to the nineteenth.*
+- **⚠ AND THE LAST BEAT, AND SHE HAS NO WORD FOR IT AND DOES NOT GO
+  LOOKING FOR ONE.** *Nine hours on a floor and not bored for a minute of
+  it.* ***And that is everything he has ever done. The whole of it… and he
+  handed it to me because it took him forty minutes and there was nothing
+  in it.***
+
+**⚠ THE FINDING — 11/3 to 14/3, and it is not the answer to the ringing**
+
+- **He is not looking for it. He is doing the reduction**, *which he has
+  done before every job he ever took:* ***get it down to what you would
+  have to have if there were no sheet.***
+- **It comes down to nine words and loses nothing** — *and he is pleased
+  for four seconds and then is not, because a thing has come out too
+  clean.*
+- **Nine dockets tested and it breaks nine times out of nine:** *take out
+  **the west lane** and there are four shutter-makers in Anazawa; **before
+  the tide** and the crossing is not there; **the second man** and he goes
+  in expecting one; **upstairs** and it is a different building.*
+- **⚠ AND THEN HE TRIES TO WRITE ONE AND CANNOT.** *Forty minutes on the
+  Kanaya job. **The receiving end** is still Ōtsuka. **A river yard eleven
+  days east** is one of four and one of them takes crates. The third
+  attempt is not forgettable, it is useless* — **and he can see exactly
+  where the line is and cannot walk along it.**
+  > *14/3. It is complete… And there is no item in it that is in it once.
+  > Nothing to carry. Nothing you would remember.*
+  >
+  > **⚠ *That is good work.***
+- **He is not uneasy, and it matters that he is not:** *he is pleased the
+  way you are pleased when you meet the work of somebody properly good at
+  the thing you are good at.*
+- **⚠ THIRD TIME, AND NOBODY SAYS IT** *(Enkai in ch12, Deguchi in ch14,
+  the boilerplate here)* — **three correct assessments of skill, and not
+  once the other half, which is that a skill is for something.** *Named by
+  the narration only, once, and traced to a workshop at eight and two
+  thousandths.*
+
+**⚠ THE NEAR MISS — 15/3 to 18/3, and it runs for three years**
+
+- **The step that decides it is correct and takes ninety seconds:** *a
+  forgettable sheet is a sheet with something in it you do not want
+  remembered, so it is a job that matters,* **and a job that matters is
+  the left-hand pile.**
+- **⚠ AND HE DOES THE FREIGHT OBJECTION AND IT HOLDS, AND IT IS
+  CREDITABLE.** ***Freight is the most standard writing there is… a
+  strange one in a pile of identical ones is the easiest thing in the
+  world to spot, and I would have spotted it.*** *Which is exactly
+  backwards and is a good argument.*
+- **The sixty-one go back in the stack, tied, and sit eighteen inches from
+  his knee for four days.** *He squares them twice with the flat of his
+  hand and never takes the tie off.*
+- **Nine checked and the two he turned down; three checked twice.**
+  > *18/3. Checked the nine + the two. Nothing like it. It is not one of
+  > mine.*
+- **⚠ AND THE READER GETS THE SHEET AND HE NEVER DOES.** *Fourth from the
+  top of that pile: dyestuff, Ōtoma to a yard south of Kanda, two crates,
+  nine days, eight hundred, 12/8 of the year before last, one of the first
+  freight sheets he ever took, aged ten.* **Forty-one words. There is no
+  item in it that is in it once.**
+
+**⚠ SHE TELLS HIM — 19/3 to 21/3, and he concedes**
+
+- **Nine days building the case against herself, which she does not notice
+  is his method.** *Three objections, two answered.*
+  1. ***He was pleased about the boy, not the money*** — **killed with one
+     question on the 17th:** ***"When he laughed. Had he paid you?" —
+     "Four days before. On delivery."*** *A man does not go and tell
+     somebody about a fair price.*
+  2. ***Maybe three six is what it costs*** — *the five will not sort by
+     who the man was, because she does not know who four of them were,*
+     **and neither does he, and he told her so the way you say the price
+     of bread.**
+  3. **⚠ *I have got one buyer out of eleven*** — **unanswerable, so she
+     says it first**, *because if he says it it is his objection and if
+     she says it they are past it.* **She had never in her life planned an
+     argument.**
+- **⚠ HE TAKES A DAY.** *Walking the north ground, out half a mile and
+  back, four times, hands behind him. Twice standing still. The frame out
+  once, two sheets, back in.* **She does not go near him and does not eat
+  until he does.**
+- **⚠ AND ON THE 21ST, BEFORE ANYTHING, WHICH HE DOES NOT DO:** ***"I
+  can't break it… You're right."*** **She had planned to be pleased and
+  could not say anything for four seconds** — *he says **that's not
+  wrong** and **that holds** and **I'll come back to you**, and has never
+  once in a hundred days said the other thing.*
+  > *And it is exactly a hundred days from the door of that building, and
+  > she has known since she woke up, and does not say it, because it is
+  > not the thing that happened this morning.*
+- **⚠ AND THEN THE FACT THAT KILLS IT, flat, with no weight on it:**
+  ***"Nothing. I don't set the fee. It's on the docket."***
+- **She gets the rest of it in four seconds and does not say it:**
+  ***unless there is nobody above him*** — **and the reason she does not
+  say it is `ch14`'s rule, unchanged and now cited by her**: *I do not
+  know what he does about things, and I have got one about my hair I did
+  not give him for the same reason.*
+- **⚠ HE HAD ALREADY TAKEN IT** *(the `ch14` plant, paid)* — **in the
+  minute with the book on the 19th, four lines, no question under them,
+  never mentioned.** *She finds out on 4/8, in a room with a door shut and
+  two other people in it and a number on a table, and by then it has a
+  name and the name is hers and she never gave it one.*
+
+**⚠ THE BRIEFING — 27/3, nine minutes, and one person in it has a name**
+
+- **Ochiai mill yard, two hours north, first light on the 29th. Ide. The
+  counterpart. Sarugaya by the ninth day and do not go in — under the
+  stone bridge and along the water. Then the crossing below Hane, and the
+  other counterpart will be produced —** ***"By who." — "Doesn't say.
+  It'll be produced."***
+- **Four questions, four answers better than he expected**, *including the
+  one that confirms his own arithmetic:* ***"That's why it's eleven."***
+- **⚠ AND THE FIFTH ANSWER HAS AN EXTRA WORD ON IT.** ***"What's in it." —
+  "Dye. Says on the sheet."*** **It does not say on the sheet.** *He has
+  it word for word and knows it does not, and does not say so, and never
+  afterwards found a version where he had a reason.* **It took about a
+  second and a half.**
+- **⚠ AND THE LINE HE DOES NOT QUERY, and he gets closest here:** ***no
+  weighing required at transfer.*** *He always weighs. He opens his mouth
+  — and answers it himself, correctly:* **the fee is flat, so there is no
+  rate to weigh against, and they have said so on the front in advance,
+  which is the opposite of hiding it.** ***That is not a hole. That is a
+  clerk who has thought about the job.***
+  > *He writes* ***no wgh*** *in the operational column with nothing under
+  > it, and it sits there for eleven days and then for years.*
+- ***"Get the cargo and go. Don't stop at Sarugaya. Don't be anywhere
+  twice." — 3,000 on the counterpart at Hane.***
+- **The month's four entries read down and up:** ***there is a thing in
+  that.*** **He waits. Nothing comes. He does not go after it**, *because
+  he made a rule about feelings and findings on the ninth and the rule is
+  good and he applies it.*
+- **⚠ AND SHE GETS NEARER THAN HE DOES, IN SIX WORDS, WITH THE HAT ON:**
+  ***"That's not a name. That's a description."*** *Four crossings below
+  Hane and the sheet does not say which* — **and it dies on *the
+  counterpart will be produced*, which has been right about everything for
+  twenty-five days.**
+- **They leave at half past three on the 28th**, *and the mule goes well
+  and the road is dry and the weather holds,* **and by every measure
+  either of them has it is an ordinary start to an ordinary job.**
+
+**KIMIMARO — fixed, and the instrument goes a third time**
+
+- **THREE THINGS IN NINE DAYS AND HE CAN DO NOTHING WITH ANY OF THEM, AND
+  KNOWS HE CAN DO NOTHING WITH THEM.**
+  1. **⚠ THE WATER IS WARM.** *Twice, nine days apart, standing in the
+     middle of the floor with his arms where they put them.* ***This is
+     warm because somebody has heated it… That is work. Somebody has done
+     work.*** **And there is no second step, because the second step is
+     about why a person does work and he has nothing to put in that.**
+  2. **A second blanket, better than his, on the floor by the door while
+     he slept.** *He puts it **under** the first one, because the floor is
+     the cold part* — **and notices days later that he solved it correctly
+     and instantly and never considered the other way, and is pleased in
+     the small way.**
+  3. **⚠ THE GAP IS BOARDED** *(four thumbs by eleven, high on the west
+     wall, and it failed as a clock in the ninth month)* — **so it is a
+     failed instrument and he had not known he was still keeping it.**
+- **⚠ HE CANNOT REACH IT, SO HE THROWS PIECES OF THE FLOOR AT IT AND
+  LISTENS**, *which is how he did the ceiling.* **Two days, about sixty
+  goes:** *board is a hollow and stone is a nothing.* **Three boards, and
+  they stop where the stone starts, both ends, top and bottom, with no
+  overhang anywhere.**
+  > ***So they were cut to it. And to cut a thing to fit you have to have
+  > the measurement before you cut.***
+  >
+  > **⚠ *Somebody has measured this room.*** *He is not frightened; he
+  > does not have it. What he has is a thing that will not sit down —*
+  > **he thought he was the only one who knew it, and has never once had a
+  > reason to think about who else knows anything.**
+- **A man in the doorway for forty seconds and then thirty-eight, two days
+  apart, who does not come in and does not want anything.** *He counts
+  both and is pleased with the two numbers.*
+- **THE READING, AND IT GOES FOUR FIFTHS OF THE WAY:** ***Something is
+  going to happen. I had that in the twelfth month off the bowl and I was
+  right. It has taken this long.*** **And the next question is *what*, and
+  *what* is a question about people.**
+
+**⚠ ELEVEN MINUTES — the examination, and nothing in the prose points at it**
+
+- **A stool, which has not happened. A man past forty, clean, with a book
+  and a cord round it, who looks at the page for four seconds before he
+  looks up.**
+- **Teeth ninety seconds — *and he did not write.* Hands about three
+  minutes, palm and back, fingers one at a time, the web of the left — and
+  he goes to the back of the left hand an inch under the middle knuckle,
+  finds the sixth one in about eleven seconds, and stays on it, and never
+  checks the right at all.** *Then forty seconds of writing, and it is
+  more than one line.* **Shirt off, back and ribs, a minute and a half,
+  untouched; the five pieces go down onto the floor and he picks them up
+  one at a time and nobody says anything about it.**
+- **⚠ AND HE MEASURES BACK, and gets four, and all four are correct:**
+  *the timing; **he wrote after the hands and not after the teeth**, so
+  the hands are the part; **he knew where the sixth one was**, so somebody
+  told him; and thirteen words in seven goes, six of which were a thing to
+  do and the seventh was **all right** and was not said to him.*
+- **⚠ THE FIFTH IS NOT A FINDING AND IS THE ONLY PART ABOUT HIM.** ***He
+  did not ask me anything.*** **The answer built in two days about the
+  cold comes back whole the moment the stool goes down, in order, ready.**
+  *Nobody asks him.* ***That is twice.***
+- **And the useful part, immediately:** ***he is going to come back… a gap
+  is a rate*** — **and he presses the place himself, two fingers, at the
+  man's angle, because it is the closest thing to a second opinion he will
+  ever get.** ***Not sore yet.***
+- **⚠ HE NEVER GETS THE FIFTH THING**, *which is that people who write
+  down a body write it down **for** somebody* — **because nobody has ever
+  wanted anything from him except that he stand still, and he always has,
+  and it has always been enough.**
+
+**⚠ AND THE MAN DOES NOT COME BACK**
+
+- **The sixth piece goes seventy-and-something → about a hundred and ten
+  and there is no second reading and never will be.**
+  > ***I decided what somebody else was going to do, and I have never done
+  > that before, and I am not going to do it again.*** *Kept for the rest
+  > of his life.*
+- **⚠ FOUR OF THEM COME. Four has never happened; two is the number.** *He
+  does not resist and does not consider it, and would not have understood
+  the question.* **Four turns, seven up, a room he has not been in.**
+- **A thing on the floor, bound at the corners on the outside, with a
+  lid.** ***"In,"*** *and he gets in — legs first, down onto his side —
+  and a line of grey along one edge for four seconds, and then four things
+  put on and turned.*
+- **⚠ AND HE HAS IT INSIDE TWO MINUTES, IN THUMBS, BY FEEL:** *forty-nine
+  and a third long (marked), nineteen at the shoulder, nineteen at the
+  foot — **it does not taper** — fourteen at the middle and thirteen and a
+  half at the ends, **which is the lid bowing and it will do that with
+  weight on it.*** **The smallest space he has ever been in, and he
+  declines to say how much smaller because it is not useful.**
+- **⚠ AND THE ROOM IS GONE — the third instrument in three chapters**
+  *(ch13 the bowls, ch14 the screaming, this)* — **and what it actually
+  costs him is the floor.** *The five pieces are read by being laid in a
+  row with the bases lined up; there is no floor; chest and knee-fold both
+  fail because the bases will not line up and the bases carry the
+  reading.*
+  > ***So I do not need to lay them out. I want to lay them out.***
+  >
+  > **⚠ *I have not had a thing I wanted that was not a thing I needed.***
+  > *It sits in him for about a minute and goes, and he does not go
+  > looking for it again for two years.*
+- **Lifted foot-end first, thirty-one paces, a turn, nine, a stop, the
+  sound of outside, and onto something that gives and then takes the
+  weight.** ***A cart.***
+- **⚠ AND THE LAST WORK, SIX SECONDS:** ***A thing with a lid is a thing
+  that is going somewhere.*** *You do not put a lid on a thing that is
+  staying where it is. The bowls did not have lids. The room did not have
+  a lid.*
+  > **The most hopeful thought he has had in two years, and it is not
+  > hope — it is a deduction about containers.** *He does not think
+  > **where**. He does not think **why**.*
+- **He does not connect the water, the blanket, the boards or the man with
+  the book**, *although he has all four filed and would have given them to
+  you in nine seconds if there had been anybody to give them to.*
+- **He sleeps, which he learned to do in nine seconds anywhere**, *and
+  which was the single most useful thing anybody ever accidentally taught
+  him.*
+
+**OPEN INTO CHAPTER 16**
+
+1. **⚠ A docket he has read forty times and admired, and a boy in a box
+   forty-nine and a third thumbs long**, *and only the reader is holding
+   both.*
+2. **A wording that rings, in the operational column, with the
+   made-and-not-counted mark and no question under it.**
+3. **Nine contracts checked and cleared, and sixty-one freight sheets tied
+   and unopened**, *the fourth from the top being the one.*
+4. **⚠ A correct finding about fees that cannot be used until there is
+   nobody above him** — *taken away on the 19th, four lines, no question
+   under them, back on 4/8 with her name on it.*
+5. **WHAT IS LEFT: 6,577, going down, with 1,000 in an *AGAINST* column.**
+6. **⚠ *Dye. Says on the sheet.*** *It does not say on the sheet.*
+7. **⚠ *No weighing required at transfer***, *queried in his own head and
+   answered correctly, and the answer is right.*
+8. **⚠ *Get the cargo and go*** *(`structure.md` §4)* — **and he does
+   exactly that, so the argument in ch17 cannot be about
+   insubordination.**
