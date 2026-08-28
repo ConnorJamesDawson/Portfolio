@@ -1018,7 +1018,8 @@ life, which is the standing shape of her being right* (`spec.md`).
 | **The field** — *his own articles, which are crystal* (`spec.md` §11b) | *the same quantity, distributed across the ground* | **once articles are down** | ⚠ **it scales with load, so it is loudest exactly when it is latest** |
 | **⚠ THE LEAVINGS** | *what was made, how much, and how well* | **afterwards. Always.** | *tells him it happened. Never that it is happening* |
 
-### ⚠ AND THE LEAVINGS ARE THE BRIDGE — PROPOSED, and it needs no self-awareness at all
+### ⚠ AND THE LEAVINGS ARE THE BRIDGE — PROPOSED
+### And it needs no self-awareness at all
 
 **He cannot perceive the channel and never will.** *But he has never
 understood one thing in his life by looking inward.* **He is an accountant.
