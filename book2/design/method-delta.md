@@ -518,6 +518,33 @@ grammar of the entire scene*, **so a girl who is standing eight feet away
 watching on purpose, at an appreciation of form, mostly reports that
 things had happened.** *Fixed; see §2m's application in `ch12-scene09`.*
 
+### ⚠ FORWARD-ONLY — AND THAT LEAVES A TRAP IN THE DRAFT
+
+> **AUTHOR:** *"No need for a backfill as long as going forward this is
+> fixed."*
+
+**So the rule binds from `ch15` on, and act one keeps the combat it has.**
+*Three passages were fixed because they were being rewritten anyway —
+`ch12-scene09`, `ch14-scene02`, `ch14-scene08` — and nothing else will be.*
+
+**⚠ The trap, and it is the reason this is written down rather than just
+agreed to.** *There is now unfixed combat in the accepted draft:*
+`ch11-scene03` *(the four in a house) and most of act one.* **PAGE means
+canon in practice, not exemplary in craft.** *A future pass that reaches
+for the surrounding prose to match its register will find the old grammar
+— outcomes with the actions deleted — and reproduce it while believing it
+is being consistent.*
+
+> **So: `ch12-scene09` and `ch14-scene02` are the style model for combat.
+> Nothing written before them is.** *When matching the book's voice in a
+> fight, match those two, and treat everything earlier as prose that
+> happens to be canon.*
+
+**And the events stay authoritative even where the writing does not.** *The
+four in the house happened; the count is real; the consequences ran. What
+is deprecated is the level of description, not the facts* — **PAGE is not
+withdrawn by this, only the licence to imitate it.**
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's
