@@ -5867,3 +5867,530 @@ clerk.* **Some of it comes back attached to different causes.**
 8. **⚠ *Get the cargo and go*** *(`structure.md` §4)* — **and he does
    exactly that, so the argument in ch17 cannot be about
    insubordination.**
+
+---
+
+### C16 — Chapter 16, "The Fetching". Year 1, month 3–4.
+### 11 scenes, 19,140 words. T×5 (48%) · K×4 (33%) · U×2 (20%).
+### ⚠ THE OP. And nobody in it improvises or disobeys.
+
+**OCHIAI — 29/3**
+
+- **The wheel comes up out of the dark before the yard does**, *taller than
+  a house, not turning, with water going under it and no sound off it.*
+- **Ide. Nine words of introduction between them in total.** *He looks at
+  the frame on the mule for three seconds and says* ***that'll do***, *and
+  it is the only assessment anybody makes of anybody in that yard.*
+- **The case:** *four feet by two and a half, close-boarded, iron at the
+  corners with the binding round the **ends** and not the sides, two
+  consignor's seals, intact, a mark he has never seen.* **He rocks it an
+  inch each way: it does not shift, does not sound hollow, does not sound
+  full.** *And it does not smell of anything.*
+- ***"You want to sign it before you lift it, or after." — "Before. If it's
+  damaged I'm not signing it." — "It's not damaged." — "I know. I've
+  looked."***
+- **⚠ HE LIFTS NINETY KAN OFF A PALLET ON HIS OWN AND IDE WATCHES.** *A boy
+  of eleven doing that is a thing a man remembers* — **and he has been told
+  not to be memorable and has not connected the instruction to himself.**
+- **The lashings, twice, crossed** — ***it fills the frame, so they are not
+  holding it still, they are holding it down. That is what you do with a
+  thing that is heavy and dead.*** **He has no reason to notice he thought
+  it.**
+- **⚠ AND THE PALLET HAS BEEN STANDING.** *North side an inch into the mud,
+  south side not, because the yard falls that way.* **He makes a rate on
+  the spot — a night for a finger — and gets five nights**, *and concludes
+  the case waited for him*, **and files it as a well-run job, which is what
+  it is.**
+  > *29/3. Ochiai. Case had been standing ab. 5 nights. Seals intact.*
+  >
+  > **No mark.** *It is a measurement he made himself off a depth in mud
+  > and it is the first thing he has written in three weeks that is
+  > actually a number.*
+- **⚠ AND THE FIRST REAL READING ON THE MULE'S PAGE**, *which has existed
+  since the second month with three empty columns:* **9/4 — 14 mi at 90 kan
+  + frame, no favouring, fed at 4.** ***So the animal is not a sixty
+  animal, and a number you get off a man who is selling is not a number.***
+- ***"What's in it?" — "Dye." — "How do you know?" — "Because I was
+  told."*** **The first entirely true and entirely useless answer he has
+  ever given her**, *and she hears both halves:* ***he has never once in a
+  hundred and eight days answered a question that way.***
+
+**⚠ TWO ON THE ROAD — 4/4, and it is a refusal**
+
+- **Four hundred yards to three fifty, and it is forty seconds of the best
+  work he does in the book.** *The large one: built the way a man is built
+  who has been made that size by somebody; something six feet and wrapped
+  across the back;* **⚠ the wrapping worn through in two places eleven
+  inches apart** — *which is where you put two hands* — **and nowhere else,
+  so it is not a tool, because tools wear at the working end.**
+- **The other one stops him walking and he does not decide to stop.**
+  ***He is not doing anything.*** *Three hundred yards without raising his
+  eyes off a point eleven feet in front of his own feet.* **A man who is
+  not looking at anything is a man who does not have to.**
+- *Matching coats, a pattern that is not a family pattern he has been
+  shown, and* **a colour to the large one that is not a colour people
+  are** — *which goes straight into the place where things he has no
+  account of go, which has had four items in it for a year.*
+- **⚠ HE GOES OFF THE ROAD AT 140 YARDS**, *mule between the road and her,
+  and the argument is three lines:* **arity; no fee and no docket and no
+  version of today in which they are work; and** ***the argument for being
+  on the road is that I was already on it.***
+- ***"Heavy." — "It is."*** **The whole of the exchange.** *The quiet one
+  does not turn his head.*
+- **The entry goes in the ORDINARY column, not the operational one:**
+  > *4/4. Two on the north track. Off the road at 140. No reason I can put
+  > down.* — **with the mark.** *Fifth thing in five weeks, four of them
+  > not numbers.*
+- **⚠ AND IT FEEDS THE RAMP AND HE DOES NOT WRITE IT DOWN.** ***I want to
+  know what that was*** *— not who, because a name costs nothing —* **and a
+  teacher is twelve to twenty thousand and a scroll is four to eleven and
+  he has 6,577 and a page that goes down.** ***So I cannot afford to know
+  what I nearly walked into.***
+- **Her read is different and also right**, *and she gives him none of it
+  because he had already gone off the road:* **the large one liked being
+  looked at and she could price him inside a second and a half; the other
+  one gave her nothing at all.** *Third in seven weeks, and the second is
+  walking beside her with his hand on a mule.*
+
+**⚠ SARUGAYA — 6/4, the contact, and it is the hinge**
+
+- **Under the stone bridge, on the shingle, a man of about fifty with an
+  eel trap upside down on his knees.** ***"You'll be the one with the
+  ninety kan."*** **And he does not get up.**
+- **⚠ HE IS NOT A TRAPPER.** *The knife is right and the hands are wrong —
+  no shine on the inside of the first two fingers.* **So the trap is a
+  thing to be sitting behind, and it is good work, because a minute of
+  looking gave up only the fingers.**
+- **THE BRIEF, AND THERE IS NOT ONE NOUN IN IT:** *a drover, about forty
+  head, the second ford below Hane, the ninth, about an hour after light
+  and it is the drover's window and not his; **a bad crossing while he's in
+  it**; water low on the near side; willows sixty to seventy up on that
+  bank and the ground firm behind them; and* ***nobody hears anything and
+  nobody looks at anything for about four minutes.***
+- **He takes all five inside eleven seconds** — *ford, hour, position,
+  window, signal* — **and:** ***that is the best brief I have ever been
+  given and there is not one word in it that anybody could repeat to a
+  magistrate.*** **Fourth admiration in five chapters** *(Enkai, Deguchi,
+  the boilerplate, this)* — **and this one is his own side, to his face.**
+- **⚠ *"It's not goods."*** *Said once, in the middle, about nothing,
+  followed by* ***anyway***. **He hears it, files it, and does not act,
+  and the reason is sound: it is not a ford, an hour, a position, a window
+  or a signal.** *He does not write it down.*
+- **Eleven minutes for six minutes of content, and not one question asked
+  of them.** ***A man arranging a job asks questions. This is a man who has
+  decided in advance not to have any.***
+
+**⚠ AND SHE IS TASKED — AUTHOR. The first job anybody has given her**
+
+- **He has not looked at her once in eleven minutes.** ***"And you'll do
+  the fetching." — "Fetching what," said Tadayoshi. — "Whatever's small
+  enough."***
+- **⚠ THE OBJECTION COMES OUT WRONG AND HE HEARS IT COMING OUT WRONG.**
+  ***"She's carrying. If she's fetching, the pack's on the ground somewhere
+  and somebody's got to be with it."*** *Operationally true, real, and any
+  man in the trade would grant it.* **It is not what he meant, and he
+  cannot find the other version in the four seconds available.**
+- ***"She'll do the fetching."*** **Said twice, the second time the way you
+  say a thing already decided by somebody who is not in the
+  conversation.** — ***"Right."***
+- **The entry:** *five lines, four measurements and* ***U to fetch***, **no
+  mark** — ***that is not a thing I have made, that is a thing I was
+  told*** — *and he does not leave it out, because leaving a thing out of a
+  book is the only lie a book can tell.*
+- ***"Nobody's ever given me a job." — "No." — "That's a job." — "It is."***
+
+**HERS — 6/4 to 8/4**
+
+- **She heard every word and the words were not what she was doing.**
+  *Four findings, three of them off his hands:* **the withies never go in
+  against the ribs, so he cannot mend that trap and her grandmother could;**
+  ***it's not goods*** *said in the middle and abandoned with an*
+  ***anyway***; *and not one question in eleven minutes when she has watched
+  forty men give somebody a job and every one of them asked something.*
+- **⚠ AND THE FOURTH, WHICH IS NOT MADE OF THE OTHER THREE:** ***he does not
+  want to have said this to us. And he said it. And he is still sitting
+  there.*** *A man who is ashamed leaves in four seconds; she has watched
+  Kuriya do it and her mother do it.* **This one stayed.** — **and the whole
+  of the finding is *there is a thing he did not say*, which is worth about
+  as much as being told a house has a room in it.**
+- **⚠ SOMEBODY SAID HER NAME.** *He said **you**, and turned round, which he
+  had not done in eleven minutes* — **and when Tadayoshi answered for her he
+  said it again and still did not say it to Tadayoshi.**
+  > ***It is a job, and there is a reason I am the one doing it, and the
+  > reason is that nobody looks at me. Which is a thing about me that has
+  > been true my whole life and has never once been worth anything.***
+  >
+  > *And she touches the brim of the hat.* ***And now it is worth
+  > something.***
+- **SHE PREPARES, unasked and untaught, for two days.** *Eleven kan is what
+  she can walk with and fourteen is what she can walk badly with and
+  everybody watches a person walking badly.* **Carried in front — *a thing
+  in front is a girl holding a thing and a thing on your back is a girl who
+  has been given something*.** *And she will not run, because the one who
+  runs is the one you look at.* ***So I walk the way somebody walks who is
+  allowed to be there, and I have never been allowed to be anywhere. I will
+  have to make it up.***
+- **⚠ SHE HEARD THE OBJECTION COME OUT WRONG.** ***He says the true thing
+  and it is always the thing he means, and this is the first time in a
+  hundred and eleven days that he has said a true thing that was not the
+  one.*** *And the fourth way round it is the one she does not like:*
+  **it would not have mattered — and she would have known.**
+- **⚠ AND HER OWN INSTRUMENT FAILS HER FOR THE FIRST TIME.** *Four thousand
+  for a fourteen-hundred job, so they bought something else — and* ***what***
+  *is unanswerable, because nobody knows what is in the case, including the
+  man carrying it.* **The finding is right and cannot be used, and that is
+  twice.**
+  > ***It was inapplicable because he does not set the fee, and now it is
+  > inapplicable because nobody tells him what he is carrying, and both of
+  > those are the same sentence with different words in it.***
+  >
+  > **And at the top of the rise where you first see the water below Hane
+  > she gets the sentence and does not say it and carries it four months:**
+  > ## ***They are both about him not being told things.***
+
+**⚠ THE SECOND FORD — 9/4, and §2m is on the page**
+
+- **The handover completes at first light and takes nine minutes.** *Case
+  onto a hand-cart, seals read out loud both ends and agreed, counterpart
+  signed and dated, **three thousand counted onto a tailboard in the dark
+  and counted again**.* ***"That's you." — "That's me."*** **He has no
+  obligation to anybody in the world from twenty past five.**
+- **⚠ AND HE WORKS OUT WHAT THE POSITION IS FOR, IN THE HOUR, TOO LATE.**
+  *A position is not a task; you put a man somewhere because of what is in
+  front of him or behind him; in front is water and behind is the way out.*
+  > ***I am not in her way and I am not with her. I am on the side she
+  > comes back to.***
+  >
+  > ***I have not been given a job. I have been given a corner to stand in
+  > while somebody else does one.***
+- **The drover at ten past six, and the noise is the whole of the air being
+  used up.** *He counts from the first animal in.*
+- **She stands up at ninety and walks past him at four feet and he does not
+  stop her.** *Three reasons, all real, and the third is the one he keeps:*
+  ***she is not going to stop.***
+- **⚠ THE EXCHANGE, POSITIONS FIRST.** *Willows on a four-foot undercut
+  bank; mule tied fifteen feet back with the empty frame still on;
+  he is four feet from the lip; the ford is downstream on his left.*
+  1. **Two come out of the ford twenty yards downstream, into the cut.**
+     *The first is four paces ahead and **is not looking at Tadayoshi** —
+     he is looking past him at a mule with a frame on it.* ***He wants the
+     animal.***
+  2. **Tadayoshi goes DOWN the bank and not out.** *Left foot stays on the
+     top edge; right foot down into the cut onto the lip;* **the sole of it
+     flat on the back of the man's left hand, and he steps through it.**
+     **Consequence:** *the wrist folds outward over the lip, the elbow
+     follows, the whole left side drops eight inches, the right knee comes
+     off because the knee was holding nothing and the hand was holding
+     everything* — **and he goes off four feet of bank shoulder-first into
+     eighteen inches of water with his own weight after him.**
+  3. **⚠ THE SECOND MAN IS COMPETENT AND NEARLY DOES IT.** *He stops. Point
+     up. Boar spear, seven feet, cross-piece behind the head — **not a
+     soldier's thing, a thing a man brings**. And he **backs** two steps to
+     the middle of the ford where the water is nine inches and the bottom
+     is gravel.* ***He is completely right, and he knows he is.***
+  4. **Tadayoshi goes into the water at forty degrees to the man's left, at
+     a walk, left hand down.** *Tracking him means moving the back foot;
+     the back foot is the right one; it comes down nine inches from where
+     it was —* **⚠ ON SOMETHING THAT HAD NOT BEEN IN THE RIVER FOUR SECONDS
+     EARLIER.** *Foot out six or eight inches, ankle rolls, knee follows,
+     hips after it,* **and the point drops a foot and goes off line by
+     about the same.** *Half a second.*
+  5. **Left hand on the shaft two feet behind the head, pull it past, walk
+     up it.** *The man does not let go, which is right for a spear and
+     wrong for that one, and closes the last four feet himself.*
+- **⚠ AND THE THRESHOLD DOES NOT FIRE — BUT TWO SECONDS GO.** *He is in the
+  middle of putting the heel of his right hand under the jaw, a thing he
+  has done eleven times and knows from the inside* — **and the man is on his
+  back in the water and the sword is in his right hand and he does not know
+  which part of the last four seconds it came out in.**
+  > ***And that is not the first time. The riverbed was the first time.***
+  > **Fifth item in the place where things he has no account of go.**
+- **He gets the first man out of the water face-up on the shingle**, *left
+  wrist the wrong shape and the shoulder gone*, **because he did not want a
+  body he had not decided on.**
+- **⚠ AND HE LOOKS ONCE AT THE GRAVEL WHERE A RIGHT FOOT WENT OUT.**
+  ***There is something in that riverbed. I put it there.*** *He does not
+  go over and does not put his hand in it and does not look for long.*
+
+**⚠ FORTY YARDS — 9/4, and it is hers and there is no violence in it**
+
+- **She goes on the dog and not the cattle**, *decided two days earlier,
+  because going with the cattle means walking into a ford with forty head
+  in it and nobody had thought about that and she had.*
+- **Pack down flat** — *a pack on its end is a pack somebody is coming back
+  for.* **And she does not look at him**, decided on the eighth, in two
+  minutes, coldly: ***a girl checking with somebody is a girl who has been
+  sent.***
+- **A minute and forty seconds, counted, and the counting is not for the
+  count:** ***a person walking without counting walks at whatever speed she
+  is frightened at.*** *Down at eleven by the worn cattle way; into the
+  water at nineteen; **past the tail of the drove at thirty, where forty
+  head in a ford is not an obstacle but a place where nobody can see
+  anything**; out the far side at fifty-one.*
+- **⚠ AND SHE COUNTS THE ONES WHO DO NOT LOOK AT HER.** *The man on his
+  knees at the wheel who looks up and straight through her. The one with
+  his back turned waiting to go in. The two fighting. **The one with the
+  bow, who sweeps the whole of the ground she is standing on and does not
+  stop on her, and she is the only person on it not moving fast.** The dog.*
+  **She reaches eleven, and the eleventh does look — properly, for a
+  second, from twenty feet — and goes back to what he is doing.**
+  > ***He saw me. And he decided I was nothing. And he was right, and he is
+  > going to be right about that for the rest of my life, and I have just
+  > found out what it is worth.***
+- **The cart: two sacks, a six-foot roped box, and a crate.** *Grain is not
+  carried forty yards for anybody; six feet cannot be lifted and would make
+  her a girl carrying a six-foot box.* **So it is the crate.**
+- **⚠ AND THE LASHINGS GO OVER AND NOT ROUND.** *Two of them, crossed, into
+  the bed, nothing round it at all.* ***That is not stopping it moving
+  about. That is holding it DOWN. You hold a thing down when the thing can
+  push. Grain does not push. Dye does not push.***
+  > ## ***There is a person in there.***
+- **She does not open it** — *four feet by two, shut for she does not know
+  how long, and no way of putting it back in a field with eleven people on
+  it.* **She rocks it an inch and it comes back against her, once, softly**,
+  *which she did not need and took anyway.*
+- **⚠ AND THEN THE LOUDEST THING ANYBODY DID ON THAT FIELD.** *Not to
+  anybody, not lowered, at cattle volume:* ## ***"THERE'S SOMEBODY IN THE
+  CRATE."*** **Four people stop.** *She does not say it twice, because
+  saying a thing twice is for people who are not sure.*
+- **⚠ AND THERE WAS NO DECISION IN IT**, *which she stopped trying to
+  explain at about fifteen.* **The closest she ever gets:**
+  > ***I did not know whose he was… and the only thing I knew for certain
+  > was that nobody standing there knew what I knew. So I gave it to all of
+  > them at once. Because a thing everybody has been told is a thing nobody
+  > can quietly decide about.***
+  >
+  > **She was eleven, she was in that field for a minute and fifty seconds,
+  > and she came out of it as the only person on either bank who had known,
+  > out loud, in front of witnesses, what the cargo was.**
+- **⚠ AND SHE HEARS THE NOTE FROM SIXTY YARDS AND DOES NOT TURN ROUND.**
+  *Up out of nothing, high, two seconds, and down.* **Second time she has
+  heard it fall; the first took four minutes in a hall in the twelfth
+  month.** *Fourth item in the place where things go that there is no paper
+  for, and it is eleven months before she works out it is the same series
+  as the first.*
+
+**⚠ OURS NOW — 9/4**
+
+- **Nobody stops him coming up the track into the middle of an operation he
+  was not briefed on.** ***They know who I am. Nobody here has met me and
+  they all know what I am for.***
+- ***"You're the carrier." — "Yes." — "Cargo's in the crate. Take it and go
+  north and don't stop."***
+- **⚠ ONE QUESTION, AND THE ANSWER IS TRUE AND COMPLETE:** ***"Whose is
+  it?" — "Ours now."*** **The last entirely honest sentence anybody says to
+  him about that boy for three years. It is two words long and the man who
+  says it never learns his name.**
+- **⚠ CRUELTY TWO, STAGED WITH NO DIALOGUE.** *One of the six will not come
+  near the crate — turns out to have something to do at the other end of
+  the cart, then comes up the track and says* ***"I'll hold him"*** *and
+  stands eight feet back holding an animal that is tied and does not need
+  holding, for the whole of it.* **Nobody says anything to him about it and
+  the other five have decided not to notice.** *Tenth item in the place
+  where things about people go — **and the first one with two facts in
+  it**.*
+- **The lid:** *thirteen or fourteen; thin the way somebody is thin who has
+  been fed regularly and not enough; two marks under the eyes that are not
+  paint and not a wound;* **and he is looking back, and he is counting.**
+- ***"How long have you been in there?"*** — **and he writes the answer
+  down, standing, in front of six men, in the operational column, with no
+  mark.** ***That is not a number I have made. That is a number somebody
+  counted.***
+- **⚠ THE BRIEF RUNS OUT.** ***"North." — "How far north." — "North." —
+  "For how long." — "Till somebody comes." — "Who." — "I don't know. That's
+  not mine."***
+- **Nine miles, and the boy walks all of it, and nobody says anything.**
+  *She thinks of the mule at the third mile, works out at the sixth why she
+  did not say it, and the reason is that he was walking perfectly well and
+  offering would have been about her.*
+
+**⚠ AND THE DOCTRINE GOES ON THE PAGE — `combat.md` §9, AUTHOR**
+
+- **He tries to write down a thing he has no account of.** *About nine of
+  them, four with no middle, and two seconds in a river this morning.*
+  ***I do not know what starts it. I have been at it since I was nine.***
+  **So he cannot write what it is or when it happens** — *only what a person
+  can do.*
+- **Four attempts, four minutes, nine words:**
+  > ## ***If I don't call your name, don't fight beside me.***
+- **⚠ NOTHING UNDER IT, AND HE PUTS THE MARK BESIDE IT** — *sixth time in
+  six weeks, four of them not numbers* — **and this one is not even a
+  measurement, it is an instruction.** *And he does not date it, which he
+  does with everything, and never works out why.*
+- **⚠ HE LEAVES THE BOOK OPEN ON THE GROUND AND GOES TO SEE TO THE MULE**,
+  *which he has not done once in fifteen months, and has never decided
+  whether it was an accident and neither has anybody else.*
+- ***"You've not put a name on it." — "No." — "It says **your name**." —
+  "It does."*** *A stick on the fire.* ***"There's two of us," she said.***
+  — **and the boy who writes everything generically, and who did not once
+  in four minutes consider that a rule about names would be read by the
+  only two people it could be about, says:** ***"There's three."***
+- **⚠ AND THE THIRD ONE IS LISTENING**, *because listening is free, and
+  nobody explains it to him and nobody is going to* — **and what he takes
+  away is correct and occurs to neither of them for four months: there is
+  now a rule with a name in it, and he has not been given a name.**
+
+**KIMIMARO — fixed, and he gains an instrument for once**
+
+- **⚠ FOUR SEAMS, AND THEY GO GREY.** *One down each long side, one at each
+  end.* **A clock, arriving by accident, and he will not use it until it
+  has done four** — *because he has been given three and lost three and the
+  rule is four days old:* ***I decided what somebody else was going to do.
+  I am not going to do that again.*** **It does four. He gets eleven days
+  and is right about all of them.**
+  > *Day one is marked* ***made and not counted*** *— he did not have it at
+  > the start.*
+- **He has not known what day it was since the ninth month of the year
+  before last.** *Everything he owns measures **him**; nothing has ever
+  measured the world.*
+- **The road through the floor:** *metalled, then not; two fords on the
+  second day, because a bridge is a bang and a bang and then flat and a
+  ford is a slope and slow and cold; a long climb on the third and fourth
+  and they walked the animal at the top of it.* **Forty marks on a line he
+  can run in either direction** — ***and it does not tell me where I am, it
+  tells me what has been under me, and I am not going to pretend that is
+  the same thing.***
+- **⚠ AND THE WANT COMES BACK ON THE FOURTH NIGHT.** *He cannot lay the
+  five out; the floor is not flat where his shoulder is; he has all five by
+  heart and has since the tenth month, so the laying out is not the
+  measurement.* **The fourth way round it is the closest he gets and he
+  does not recognise it:**
+  > ***Because when they are on the floor there is a row of them. And a row
+  > of five is a thing somebody made, and I made it, and it is the only
+  > thing I have ever made.***
+
+**⚠ SIX — the halt on the eighth**
+
+- **Out of the box for four minutes at night, and his legs do not work, and
+  three men wait forty seconds without helping and without hurrying.**
+  ***They are not in a hurry, so this is a thing they had decided to do.***
+- **⚠ HE DOES NOT LOOK AT THE SKY. HE COUNTS THE MEN.** *Three here, one on
+  the animal he can hear, one thirty feet off on the left who shifted the
+  same two feet in the same order twice,* **and a sixth got off nothing but
+  the fifth one's head turning once.**
+- **⚠ AND THEN THE FIRST TRUE STATEMENT HE HAS EVER MADE ABOUT A
+  RELATIONSHIP BETWEEN TWO PEOPLE**, *and it took four minutes and he had
+  never once been given the chance:* **the three have not said one word in
+  the sixth man's direction in four minutes — not an instruction, not a
+  question, not the thing men say when they want something held.**
+  > ***You do that with a man who is above you or a man who is not with
+  > you. And a man who is above you stands in the middle.***
+  >
+  > ***Six. Five of them are one thing and the sixth is another thing, and
+  > the five know it.***
+- **Hot food, which has not happened in two years.** ***Somebody is keeping
+  me in a condition. Which is what you do with a thing you are going to
+  use.*** **And no step after it, because the next step is a question about
+  what people want.**
+- **He gets back in the box himself.** ***I did not need to see it and I
+  looked anyway*** *— and there is nowhere to put that either.*
+
+**⚠ ELEVEN — and the number that is going to run out gets a new unit**
+
+- **The 903 is dead** *(a number in bowls, and bowls stopped being a clock
+  in the twelfth month)* — **but the shape holds: seven more, a half each
+  time, watched four times.**
+- **⚠ AND HE CANNOT DO THE SIXTH IN DAYS**, *because he has the end of it
+  (day five of the box) and not the start.* **So it is the seventh** — *he
+  will feel it start, he will have the day it comes through, and a half in
+  days gives him every one after it, because halves are the easiest thing
+  there is.*
+  > ***I want it to start.***
+  >
+  > **⚠ AND HE NEVER ONCE, IN TEN MINUTES OF CORRECT ARITHMETIC, HAS THE
+  > THOUGHT THAT WHAT HE IS BUILDING IS A DATE.** *Nobody has ever given
+  > him a reason to want more days than he has, and the days themselves are
+  > four days old.*
+- **They stop early on the eleventh and there is water on the left.**
+  ***You do not stop before a crossing at night unless you want to go over
+  it at a particular time. So there is a time*** — **the first edge of one
+  he has been able to see.**
+- **⚠ AND THE ONE WHO CHECKS COMES WITH NO LAMP AND STAYS FOR ELEVEN.**
+  *The other four times were four seconds and in a lamp.* **This one could
+  not see anything and stayed anyway, with his hand on a thing he could not
+  see.** *Four ways round it and the same answer, and the answer has a word
+  on it he does not have:* ***he was not looking. He was there.***
+- **Last line of the eleventh:** ***Eleven. Twelve tomorrow.*** *And:*
+  ***This is the most I have ever had.***
+
+**⚠ THE LID — and it is not a rescue**
+
+- **He gets almost nothing off the fight.** *The animal in the shafts goes
+  down and does not get up; two kinds of shouting and one of them is
+  instructions; somebody light on the tailboard; **and then his crate moves
+  an inch each way and comes back**.* ***They are checking whether it is
+  fixed down.*** **He does not push and does not make a noise and it does
+  not occur to him to.**
+- **Then a girl shouts four feet away, very loudly, and he cannot make out
+  the words.** ***That was at us and it was not to anybody*** — *and there
+  is nothing to attach it to.*
+- **The whole sky at once, and it goes into him like a hand**, *and he shuts
+  his eyes for four seconds, which is the largest involuntary thing his
+  body does that year.*
+- **⚠ AND THEN HE MEASURES THE BOY WHO OPENED IT, AND ALL OF IT IS
+  CORRECT:** *smaller, two years under; standing square on to the box, so
+  not worried about what is in it; **wet to the knee and dry above it**, so
+  he has been in the river and out of it a while; a great deal of blood on
+  his right side and it is not his, because a person with that much of
+  their own does not stand like that.* **And the eleventh item is the only
+  one that surprises him:** ***he is counting too. Nobody counts.***
+- **⚠ THE THIRD TIME, AND THE FIRST THAT GETS AN ANSWER.** *First was*
+  ***cold enough for you?*** *and he was not ready. Second was the man with
+  the book, who asked him nothing at all.* ***That is twice.***
+- **And he gives all of it — a hundred and forty words about light on a
+  seam** — *the four seams, the four-cycle rule, eleven counted and one
+  made and which is which,* **and then:** ***I do not know what day of
+  anything it is. I have got twelve days and I have not got where they
+  are.*** **The longest thing he has said out loud in two years, and it is
+  a measurement.**
+- ***"Right."*** **And the boy writes it down, standing, on a riverbank,
+  in front of six men.** *Eleventh item in the place where things about
+  people go, and the first in two years that goes in with no question
+  attached:* ***he asked me a number and I gave him the number and he wrote
+  it down.***
+- **He gets out himself, kneels thirty seconds, gets up, and walks nine
+  miles**, *which is further than he has walked in two years by about nine
+  miles.* ***Nobody has told me to do anything since the lid came off. I
+  have been walking for four hours on the strength of nobody stopping me.***
+- **⚠ AND HE LOOKS UP, AND CANNOT PUT A MILE ON WHY.**
+  > ***That is an instrument. It moves and it comes back and it is the same
+  > one every day and it has been going the whole time. And I have not got
+  > a unit for it.***
+  >
+  > ***I have got days now. I have got twelve. And that has got all of
+  > them, and it has had them the whole time, and nobody was keeping it and
+  > nobody could take it, and I have been counting bowls.***
+  >
+  > **He does not feel robbed, because there is nobody to be robbed by** —
+  > *and it goes into the place where things go that he cannot use, which
+  > has never had anything in it before.* **It is the first item and it is
+  > the sky.**
+
+**OPEN INTO CHAPTER 17**
+
+1. **⚠ A household of three that nobody agreed to**, *and a boy walking
+   behind them who has not been told one thing.*
+2. **A brief executed exactly by both of them**, *and* ***ours now*** —
+   **so there is no insubordination available to anybody in any room.**
+3. **⚠ THE DOCTRINE ON THE PAGE**, *undated, with the made-and-not-counted
+   mark, no reason under it,* **and a third person at the fire who has not
+   been given a name.**
+4. **One man who would not come within eight feet of a crate**, *and did
+   not say why, and will.*
+5. **⚠ *North, and wait*** — *no place, no name, and* ***till somebody
+   comes.***
+6. **A case delivered below Hane and paid for**, *and he never finds out
+   what was in it* — **entry two he cannot close, and it is his own
+   side's.**
+7. **⚠ *There is something in that riverbed. I put it there.*** *Looked at
+   once and not touched.*
+8. **Two seconds in a ford he does not have**, *and a sword that was in his
+   hand for some part of four seconds he cannot date* — **fifth item in the
+   place where things he has no account of go.**
+9. **A finding that is right and cannot be used, twice** — ***they are both
+   about him not being told things*** — *carried, unsaid, for four months.*
+10. **Two men on a road, declined**, *and a want he cannot afford.*
+11. **A seventh piece that has not started**, *and a boy who wants it to,
+    because it is the reading that finishes the instrument.*
+12. **WHAT IS LEFT: 6,577 + 3,000, less eleven days** — **and a third
+    mouth.**
