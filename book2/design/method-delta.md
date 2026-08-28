@@ -545,6 +545,57 @@ four in the house happened; the count is real; the consequences ran. What
 is deprecated is the level of description, not the facts* — **PAGE is not
 withdrawn by this, only the licence to imitate it.**
 
+### 2n. ⚠ EVOLUTION OF FLAWS — AUTHOR, and it is a standing rule for everyone
+
+> **AUTHOR:** *"A thing that should happen with every character is an
+> evolution of flaws. This is turning a flaw into an asset as a revelation
+> — it's a power they've always had, they just needed to harness it
+> better."*
+
+**The shape, and it is four steps and not two:**
+
+1. **The flaw is real and costs real things**, *for a long time, on the
+   page, without hinting.*
+2. **Somebody else names it as a capability** — *never the character, who
+   cannot see it, and never the narration, which must not point.*
+3. **It is the same faculty. Nothing is added.** *No training montage, no
+   new technique.* **What changes is what it is aimed at, or whether it is
+   trusted.*
+4. **⚠ AND HARNESSING IT COSTS MORE THAN THE FLAW DID**, *because the flaw
+   had an excuse in it and the asset does not* (`falsified.md` §1a — **a
+   price, not a wall**).
+
+### The three, and two of them were already running and nobody had named it
+
+| | The flaw | The same thing, harnessed | Named by |
+|---|---|---|---|
+| **Tadayoshi** | ⚠ **the pause — he will not act on an impulse he has not audited**, *because he cannot tell his competence from his appetite* | **the readings were always good.** *The channel is his mother's craft: he reads intent, in people, below language* (`combat.md` §9) | **Uzuki** — ***don't fear the monster, embrace him*** |
+| **Uzuki** | **she cannot stop saying things.** *No filter, no format, offends by candour* (`act-1.md`, `team.md` §12.1) | **the trait that makes her exhausting is the trait that makes Kimimaro operable** *(`team.md` §6.1)* — **and she is the only person in his life who has never lied to him** *(`spec.md`)* | **nobody, ever.** *It works from the first day and neither of them gives it a name* |
+| **Kimimaro** | **he cannot act without an instruction** *(`team.md` §3.4)* — *a conversation is a sequence of unspecified actions and a room defeats him totally* | ⚠ **he obeys the doctrine perfectly and it costs him nothing** *(`combat.md` §9)* — **the only time in the book his defect is an advantage** | **the doctrine itself**, *and Tadayoshi never notices he wrote a law in one boy's native language* |
+
+> **⚠ SO THE PRINCIPLE WAS ALREADY LOAD-BEARING IN TWO OF THE THREE AND
+> HAD NEVER BEEN STATED.** *`team.md` §6.1 is Uzuki's, entire, and calls
+> itself **the important entry in this file**; §3.4 plus §9 is
+> Kimimaro's.* **Naming it makes the third one findable and stops the
+> other two reading as coincidence.**
+
+### The two failure modes, and the second is the one I would commit
+
+- **A montage.** *If the character trains at it, it was not a revelation,
+  it was an upgrade.* **Nothing is added. Ever.**
+- **⚠ THE NARRATION POINTING.** *The moment the prose says **what he did
+  not know was that his greatest weakness was also** — it is dead.* **The
+  revelation belongs to a character, out loud, in dialogue, in a scene
+  where they are talking about something else** — *and preferably to
+  somebody who is wrong about why.*
+
+### And the test
+
+> **Cover the revelation and read the earlier chapters.** *If the flaw
+> still costs, it was a flaw.* **If it reads as a secret strength being
+> withheld, the reveal was a promise and not a find**, *and the reader was
+> being managed.*
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's

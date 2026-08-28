@@ -853,6 +853,196 @@ beyond *rip that fucker's head off*. Unbelievable reflexes and combat
 thought, **and it is tunnel vision** — anything between him and the target
 is in the crossfire, allies included.
 
+> **⚠ AND THE FIRST SENTENCE IS HIS SELF-REPORT, NOT NARRATION.**
+> ***Rip that fucker's head off*** *is not what is in there. It is what he
+> tells himself afterwards, because rage is the only available frame for a
+> gap in the record,* **and a boy whose morality is accurate entries would
+> far rather file *I was not myself* than *there was no moment where I
+> decided*.**
+
+### ⚠ WHAT IT IS — AUTHOR-RULED on the frame, PROPOSED on the mechanism
+
+> **AUTHOR:** *"It's kind of like having an ultra instinct — harnessing it
+> is more of a mindset issue than physical. A thing that should happen with
+> every character is an evolution of flaws. This is turning a flaw into an
+> asset as a revelation: it's a power they've always had, they just needed
+> to harness it better."*
+
+**It is not a separate thing and there is no monster.**
+
+> ## **It is him with the pause removed.**
+
+*Everything he does consciously is bookkeeping — he prices, defers,
+measures, enters it.* **Between reading a situation and acting on it there
+is a gap, and that gap is the whole of the clerk.**
+
+### ⚠ AND THE PAUSE IS NOT DELIBERATION. IT IS SUSPICION OF HIMSELF.
+
+**This is the load-bearing sentence and everything else hangs off it.**
+
+*He does not check his impulses because checking makes them better. He
+checks them because he does not trust where they came from* — **`spec.md`'s
+question, asked since he was eight:** ***can he tell his competence from
+his appetite.***
+
+> **So the clerk was never a craftsman. It was an auditor**, *and it was
+> appointed by a boy who suspected himself of something and has never once
+> said what.*
+
+### The mechanism — PROPOSED, and it is built entirely on the intent ruling
+
+**§3b, AUTHOR:** *the more chakra through it, the higher the tone and the
+brighter the light* — **so intent is a physical variable and crystal is the
+gauge.** *That is the family trade. A Ruri smith puts intent into a
+material and hears whether it held; his mother did it for a living; he was
+on a bench being told his work was two thousandths out at eight.*
+
+> **⚠ SO HE HAS BEEN TRAINED SINCE BEFORE MEMORY TO READ INTENT AS A
+> PHYSICAL PROPERTY, BY EAR, BELOW LANGUAGE — AND THE FACULTY DOES NOT
+> SWITCH OFF WHEN THE OBJECT IS A PERSON.**
+
+**He reads what people mean to do.** *He has never been told he does it,
+has no word for it, and cannot turn it off.*
+
+**⚠ AND IT EXPLAINS THE DEFECT THE FILES HAVE ONLY EVER NAMED.** *`team.md`
+§4.4:* ***he can read a kata in forty seconds and cannot see the most
+obvious fact about the person standing next to him.*** **He has an
+instrument that measures intent and no instrument that measures anything
+else, and he does not know he is receiving either.**
+
+### Why it happens: saturation, not rage
+
+**The channel runs constantly. The auditor sits on top of it, converting
+readings into checked decisions.**
+
+> **The threshold is what happens when readings arrive faster than they can
+> be audited.**
+
+**LOAD, NOT STAKES** *(discipline rule 2, and now it has units)*: **how
+many live intents are aimed at him, how strong, and how fast they change.**
+*One hunter who means to kill him is a reading. Four fresh genin closing
+from four bearings and re-aiming every half-second is more feed than a
+person can convert.* **The body stops translating and acts on the raw
+signal.**
+
+| Established | What the model explains |
+|---|---|
+| **fires on load, not stakes** | *stakes are a story;* **load is a count of live intents** |
+| **tunnel vision** | *under saturation the feed prioritises: the loudest intent aimed at him **is** the picture, and anything on that line is terrain* |
+| ⚠ **it reads intention, not posture** — AUTHOR | *the only thing the channel measures.* **A dropped weapon is invisible to it. A man who has decided is loud, hands empty or not** |
+| **get defensive and you are a threat** | ⚠ **the feed sorts by bearing.** *Point intent at him and you are on the list, whatever your reason* |
+| **no tell, outside or in** | *the channel is below language.* **Nothing to see, and nothing for him to feel arrive** |
+| **he cannot reconstruct it** | *he never converted the readings into words, so nothing was filed* |
+| **the sword gets everything** | *he is not metering intent, and the sword is an intent gauge* |
+
+> **⚠ AND SO THE DOWNED-TOOLS RULE IS NOT A CONFLICT WITH `spec.md` §2k.**
+> **AUTHOR:** *"Downing tools does not automatically make you a
+> non-threat. Intention matters a lot."* **The one who dropped the weapon
+> still meant it.** *§2k stands unchanged, and the rule is harder than it
+> looked: you do not survive by putting a thing down. You survive by
+> stopping.*
+
+### Two things that fall out and cost nothing
+
+1. **⚠ THE ARITY PROBLEM AND THE THRESHOLD ARE THE SAME PROBLEM.** *§10b —
+   more bodies is more fights.* **It is also more feed**, *so the thing
+   that makes twelve hunters twelve fights is the thing that summons the
+   state.* **Nobody has ever said this and it has been true since book
+   one.**
+2. **AND §9's RULED OBJECT STOPS BEING A POETIC CHOICE.** *The falling
+   tone reaches him below language* **because it is on the channel** — *a
+   crystal changing its reading is the only object in the world speaking
+   his native language, and what it says is **the intents are gone**.*
+
+### ⚠ AND THE DEEPEST ANSWER, WHICH IS WHY IT EXISTS AT ALL
+
+**It is not a combat adaptation. It is a craft faculty doing craft work in
+a room with no metal in it.**
+
+> **His mother taught him *keep it to yourself, or they will take you*.**
+>
+> **The one thing she could not hide — and did not know she had handed
+> him — is the thing that kills people.**
+
+---
+
+### ⚠ HARNESSING IT — AUTHOR, and it is a mindset and not a technique
+
+> **The version that stood here for one turn was mine and said *it cannot
+> be trained, because training is clerk work*. That was a wall and it is
+> overruled.**
+
+**If the pause is self-suspicion, then the harness is not a drill. It is
+trust**, *and it is the hardest single thing this character could be asked
+for, because the auditing is his entire moral architecture.* **The creed is
+an audit. The ledger is an audit. The doctrine is an audit.**
+
+> ## **He does not get faster. He stops checking.**
+
+**⚠ AND UZUKI'S LINE IS NOT ENCOURAGEMENT. IT IS THE MECHANISM.**
+
+> ***"Don't fear the monster, Love — embrace him. He's been with you longer
+> than I have, and he's saved your life more as well."***
+
+**Embracing it *is* ceasing to audit.** *She is handing him the key and
+does not know it is a key, and she is right for reasons that indict her own
+life, which is the standing shape of her being right* (`spec.md`).
+
+### ⚠ THE PRICE, AND IT IS WHY THIS IS NOT A WIN BUTTON
+
+> ## **The moment he can enter it on purpose, he loses the excuse.**
+
+**Every death until now has a line available in the book:** ***I was not
+choosing.*** *It was true, and it is the only mercy anywhere in his
+architecture.*
+
+**Harnessed, that line is gone for ever.** *He is choosing, at that speed,
+every time, and every one of them is his* — **and `spec.md`'s question is
+answered in the worst available way: there was never a difference between
+the competence and the appetite, and now he does it deliberately.**
+
+*A price, not a wall* (`falsified.md` §1a).
+
+### ⚠ AND DISCIPLINE RULE 1 IS RE-SCOPED, NOT KILLED
+
+| | |
+|---|---|
+| **Unharnessed** | ***never net-positive***, *unchanged, and it governs book one, book two and most of three.* **If a chapter would be easier because he loses it, that chapter is wrong** |
+| **Harnessed** | **tactically positive and morally catastrophic** — *a different kind of cost, and the right one for late in the series* |
+
+### And one line to hold against the comparison
+
+**Ultra instinct is dodging. This is deciding.**
+
+> *A serenity power-up perfects your own body and protects you.* **This
+> reads other people's intent, so it is never about his body at all** —
+> **it only ever makes him faster at hurting somebody**, *and there is no
+> version of it that saves him without killing a person.*
+
+### ⚠ THE LADDER — five stages, and the last two are the series
+
+| | He believes | And the state is |
+|---|---|---|
+| **1** | *it is a monster, cage it* | **the creed** (`ch11`) — *and it describes what the state already does* |
+| **2** | *it is a monster, keep people away from it* | **the doctrine** (`ch16`) — *a prohibition with no reason under it* |
+| **3** | *it is not a monster* | **and she is the one who tells him** |
+| **4** | *then it was never separate, and everything it did was mine* | **authorship.** *The demon was a filing convenience, invented so the entries would balance* |
+| **5** | ⚠ *and the readings were never wrong* | ## **the pause was never protecting anybody. It was protecting my opinion of myself** |
+
+---
+
+### ⚠ THE BROTHER — UNSPENT, and it needs a ruling before anybody touches it
+
+**Every Ruri has the channel.** *It is craft, not a bloodline power, and it
+is part of why the clan was worth harvesting.*
+
+> **So Amagiri has it.** *Whether he has ever saturated, whether he has
+> been living inside it since he was thirteen, or whether he learned the
+> harness at an age when nobody would have stopped him* — **all three are
+> different books.**
+>
+> **PROPOSED and unspent. Do not put it on a page without a ruling.**
+
 ### Discipline — mandatory, or it becomes a win button
 
 1. **The outcome is never net-positive.** It costs more than losing the
