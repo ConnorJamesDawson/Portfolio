@@ -2186,19 +2186,33 @@ the target is in the crossfire, allies included.** §2g rule 3 already says
 he will have built bookkeeping around it — thresholds, counts, warning
 signs, **rules for who is allowed near him and when.**
 
-So there is a **standing rule**, written down, with a number on it. A
-stated distance, a stated condition, entered in the book like everything
-else.
+So there is a **standing rule**, written down, entered in the book like
+everything else.
+
+> ## ⚠ AND IT HAS NO NUMBER IN IT — AUTHOR
+> ### The full ruling is `combat.md` §9.
+>
+> **The version that stood here for a year was a *stated distance*. It was
+> mine, it was never ruled, and it measured the one thing that does not
+> matter** (`falsified.md` #26).
+>
+> ## ***If I don't call your name, don't fight beside me.***
+>
+> **The state runs on threat assessment**, *so the two conditions are **not
+> a threat** and **not between him and the target**, and a number satisfies
+> neither.* **Down tools and nothing happens to you. Raise a guard and you
+> are a target.**
 
 Three things follow and all of them are scenes:
 
-1. **The rule is the household's only law**, and it is a law about how far
-   away from him the people who love him must stand. He wrote it out of
-   care. It reads, to a girl whose pathology is proximity, as a wall.
+1. **The rule is the household's only law**, and it is a law about what the
+   people who love him may do when he is working. He wrote it out of care.
+   It reads, to a girl whose pathology is proximity, as a wall — **and it
+   is worse than a wall, because it asks her to disarm.**
 2. **Uzuki will break it.** Not from stupidity — from doctrine. Her whole
    architecture (§3b-iii) is *the one remaining thing is defended
-   absolutely*, and a rule that puts her outside the perimeter is a rule
-   that asks her to stop existing.
+   absolutely*, **and the rule forbids exactly that**, so she does not
+   break it by standing too close. **She breaks it by defending him.**
 3. **When it goes wrong it is nobody's fault and everybody's**, which is
    the only kind of catastrophe this book should stage.
 
@@ -2209,8 +2223,8 @@ Three things follow and all of them are scenes:
 
 Never let the book refute the first half to get at the second. The
 correction is not *actually they were fine*. The correction is that the
-answer to a liability is not distance — and distance is the only tool he
-owns.
+answer to a liability is not **exclusion** — and exclusion is the only
+tool he owns.
 
 ---
 

@@ -26,8 +26,9 @@ time in their lives that anything has been decided about them by somebody
 who meant well.
 
 > **Which is the joke, and nobody in the book says it.** *Tadayoshi spent
-> three years keeping people at a stated distance to protect them. The
-> village does it in a week, on a form, for scheduling reasons.*
+> three years keeping people out of his own fights to protect them, under
+> a doctrine he could not explain. The village does it in a week, on a
+> form, for scheduling reasons.*
 
 ---
 

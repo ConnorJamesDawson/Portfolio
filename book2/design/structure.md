@@ -849,11 +849,15 @@ understand then either.*
 
 **AUTHOR.** *Not him. Her hands.*
 
-- **He has a written household rule with a stated distance in it**
-  (`combat.md` §9), *his only law, about how far away the people who love
-  him must stand.* **And he lets her closer than anyone has ever been,
-  with a knife, to his face.** *The rule dies on an operating table and
-  neither of them mentions it.*
+- **He has a written household doctrine** (`combat.md` §9, AUTHOR):
+  ***if I don't call your name, don't fight beside me.*** *His only law,
+  and it is about what they may do when he is dangerous.*
+  > **⚠ PROPOSED, and it needs a ruling: the operating table is not a
+  > breach of it — it is the inverse.** *The doctrine exists because he
+  > cannot be made safe. Here he makes himself safe on purpose, entirely,
+  > for the length of a procedure, and hands the body to her.* **The only
+  > time in his life he is not the most dangerous thing in the room, and
+  > he arranged it.** *Neither of them mentions that either.*
 - **She would say yes immediately**, which is the horror — `team.md`
   §10.6's guardrail gets its hardest test here: *she has run the audit and
   declined to let the mechanism cast the vote.* **Does it hold?**

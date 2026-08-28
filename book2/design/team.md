@@ -642,13 +642,21 @@ near — has the one disposition in the world that cannot supply it.
 ### 6.3 Uzuki + Tadayoshi — the one who can read the field is the one who
 ### will not respect it
 
-- **There is a written household rule with a stated distance in it**
-  (`combat.md` §9). His only law, and it is a law about how far away from
-  him the people who love him must stand. **He wrote it out of care.**
-- **She breaks it. Not from stupidity — from doctrine** (`combat.md` §9).
+- **There is a written household doctrine** (`combat.md` §9, AUTHOR):
+  ***if I don't call your name, don't fight beside me.*** *His only law,
+  and it is a law about what they may **do**, not where they may stand.*
+  **He wrote it out of care.**
+- **⚠ AND IT SHARPENS THIS ENTRY RATHER THAN SOFTENING IT.** *She is not
+  barred from the field. She is barred from **helping**.* **So she may
+  stand there and watch and diagnose and say nothing that anybody can
+  act on** — *and her instrument (§4.4.3) needs her close enough to read a
+  man, which the doctrine permits and which makes it worse.*
+- **She breaks it. Not from stupidity — from doctrine**, *and now the
+  breaking has a shape:* **she breaks it by defending him**, *which is the
+  one thing her architecture cannot not do.*
 - **So the only person who could tell him what is actually wrong with the
-  man in front of him is the person who cannot be on the field**, and she
-  is on it anyway, **and when it goes wrong it is nobody's fault and
+  man in front of him is the person who is not allowed to touch it**, and
+  she does anyway, **and when it goes wrong it is nobody's fault and
   everybody's.**
 
 > **This is the catastrophe, pre-loaded, from the day she arrives.**

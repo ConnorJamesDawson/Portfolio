@@ -29,7 +29,7 @@
 > |---|---|---|
 > | **9** | ***What stops it must be an object, not exhaustion*** | **rule this first.** It decided the whole monastery restructure, and ch12 cannot be written without it |
 > | **9** | **It fires on load, not on stakes** | which chapters may contain a threshold event at all |
-> | **9** | **The written household rule, with a stated distance in it** | the catastrophe act three is built on |
+> | **9** | ~~**The written household rule, with a stated distance in it**~~ | **✅ RULED — see THE DOCTRINE below. There is no distance.** |
 > | **4.1** | **The hands must be bare** | near-forced from *he needs hand seals* plus *he wears plate*, but nobody ruled it |
 >
 > **And one header lies.** §4 is titled *three, none invented* — the note
@@ -958,18 +958,167 @@ not another POV to showcase it.*** `method-delta.md` §2i.
   account for it afterwards. *The gap between what the reader knows and
   what he can enter in a book is worth more than the mystery was.*
 
-### And there is a written household rule
+### ⚠ THE DOCTRINE — AUTHOR RULING, and it replaces the distance rule
 
-**PROPOSED.** He has bookkeeping, so there is a **stated distance**,
-entered in the book like everything else. *Mine — and act three's
-catastrophe is built on it, so it should be ruled before act two closes.*
+> **AUTHOR:** *"I don't think there needs to be a distance. Uzuki is
+> already doing the perfect thing and that is to defend against him — yes
+> he's faster in that state, but she and Kimi will be one of the best
+> people to avoid him. There is no physical tell nor a mental one, so a
+> phrase doesn't work; more like a doctrine.* ***"If I don't call your
+> name, don't fight beside me."*** *Because he cares for them he
+> subconsciously avoids them in that state anyway. The berserk state runs
+> on threat assessment — if someone's not a threat and not between him and
+> the target, he's not going to go hunting. So the worst thing you can do
+> is get defensive; that means you're a threat. The ones who down tools
+> have nothing happen to them."*
 
-It is the household's only law and it is a law about how far away from him
-the people who love him must stand. He wrote it out of care. **Uzuki will
-break it — not from stupidity, from doctrine.**
+**KILLED: the stated distance.** *It was mine, it was never ruled, and it
+was a wall* (`falsified.md` §1a, #26).
 
-When it goes wrong it is nobody's fault and everybody's, which is the only
-kind of catastrophe this book should stage.
+### Why a number was the wrong instrument, in one line
+
+**The state has two conditions and distance satisfies neither.**
+
+| The condition | What distance does about it |
+|---|---|
+| **Not a threat** | *nothing.* **A guard is a threat posture at any range** |
+| **Not between him and the target** | *nothing.* **Forty feet away and on the axis is on the axis** |
+
+> **You can be forty feet off and directly in the line. You can be six
+> feet off the line with your hands empty and be invisible to it.**
+> *A number measures the one thing that is not being measured.*
+
+### And there is no tell, which is why it cannot be a phrase
+
+**No physical tell. No mental one.** *He cannot measure its arrival*
+(discipline rule 3, above) **and neither can anybody watching**, so there
+is no signal to give and no word to say. *A trigger phrase requires
+somebody to know the moment has come, and nobody does, including him.*
+
+> **So it is a standing doctrine and not a procedure.** *It is in force
+> always, because the thing it is for cannot be announced.*
+
+### THE DOCTRINE
+
+> ## ***If I don't call your name, don't fight beside me.***
+
+**It is behavioural, not positional**, *which is the only kind of rule he
+can specify about a state he has never observed.* **And the calling is the
+whole of the mechanism: a name is an authorisation, and the absence of one
+is not a wall, it is an instruction to stop working.**
+
+### ⚠ AND IT IS NOT A WALL, WHICH IS THE POINT
+
+**Because he cares for them, the state avoids them.** *It is not
+indiscriminate. It hunts threats and it does not go looking.*
+
+> **⚠ THE WORST THING YOU CAN DO IS GET DEFENSIVE.** *A raised guard is a
+> threat. Backing away with a blade up is a threat. Calling to somebody is
+> movement and noise on a field.*
+>
+> **The ones who down tools have nothing happen to them.**
+
+**So the correct response is the hardest one available**, *and that is the
+price this replacement is paying* (`falsified.md` §1a — **a price, not a
+wall**).
+
+### ⚠ AND IT IS NOT A MERCY, BECAUSE NOBODY KNOWS IT
+
+**Checked against `ch5`, which is PAGE:** *four dead children behind a wall
+on the coast road, on a brief that said* ***alive if possible.***
+
+**None of them downed tools, and none of them would have.** *A losing genin
+evades, guards, and calls for his team — and evasion is movement, a guard
+is a threat, and calling is noise.* **Every instinct a trained shinobi has
+reads as threat.**
+
+> **The rule is real and it saves nobody who has not been told**, *and the
+> only people who will ever be told are the two children in his household.*
+>
+> **It is not a moral property of the monster. It is an exploitable
+> regularity, and exploiting it requires a briefing.**
+
+### ⚠ AND IT IS WHERE THE CREED CAME FROM — one layer under `ch11`
+
+***Stay your blade from the blood of the innocent*** *(AUTHOR, `falsified.md`
+#23), written 22/11 of year 0.* **`ch11`'s find was that the creed is a
+retrofit — a rule written afterwards over a gap he could not account for.**
+
+> **This is the same retrofit, one layer deeper: he wrote down a rule that
+> describes what the thing inside him was already doing, and believed he
+> had invented an ethic.**
+>
+> **⚠ AND IT IS WHY IT HELD AT THE MONASTERY AND HE CANNOT SAY WHY**
+> (#23: *her survival is not a mechanism; it is the one time the rule
+> worked*). **She was not a threat and she was not on the axis.** *There
+> was never a why. There was a girl standing still.*
+
+### ⚠ AND IT ONLY COVERS ONE OF THE TWO HAZARDS
+
+| | Governed by | Rules |
+|---|---|---|
+| **The monster** | **the doctrine** | *has them, and they can be taught* |
+| **The floor** | **nothing** | §10b — ***a fence does not know who walked into it*** |
+
+**His articles occupy the ground and area denial is indiscriminate by
+definition** (`spec.md` §11b). **The doctrine does nothing whatever about
+that.**
+
+> **So he solved the hazard that frightens him and not the one that kills
+> bystanders, and he has never noticed**, *and `falsified.md` #12's line —*
+> ***the creed is not paranoia about the threshold, it is arithmetic about
+> a field*** *— now reads as the thing he has backwards.*
+
+### ⚠ HE CANNOT DISCOVER THE REASON. SHE CAN.
+
+**He is never conscious in it**, *so he has no data and never will.* **What
+he can specify is behaviour, so the doctrine is issued as a prohibition he
+cannot justify**, *and the people it is issued to obey a rule nobody has
+explained — which is, precisely, her life.*
+
+**The reason is Uzuki's**, *and it arrives late, and she is the only living
+witness who watched it hold from inside the room and was not a target.*
+
+> **AUTHOR, and it is the delivery:**
+>
+> ## ***"Don't fear the monster, Love — embrace him. He's been with you longer than I have, and he's saved your life more as well."***
+>
+> **AND SHE IS RIGHT**, *which `spec.md` requires of her and which this is
+> the best available instance of:* **not redeemed — right, and right in a
+> way that saves him.**
+>
+> *`team.md` §4.4 runs in reverse for the only time in the book:
+> everything those two ever learn, they learn from somebody who is not
+> him — and the one thing he ever learns about himself, he learns from
+> her.*
+
+### ⚠ THE COST IS HERS, AND IT IS EXACT
+
+**Her safety procedure is to become a non-combatant in the middle of a
+fight** — *to put a weapon down while men with knives are on the field,
+because the most dangerous thing on it is the boy she loves.*
+
+**And her whole architecture is *the one remaining thing is defended
+absolutely*** (`spec.md` §3b-iii). **The doctrine forbids exactly that.**
+
+> **So `spec.md`'s *she will break it — not from stupidity, from doctrine*
+> holds and gets better: she does not break it by standing too close.**
+>
+> ## **She breaks it by defending him.**
+>
+> **And when it goes wrong it is nobody's fault and everybody's**, *which
+> is still the only kind of catastrophe this book should stage.*
+
+### AND KIMIMARO OBEYS IT PERFECTLY AND IT COSTS HIM NOTHING
+
+**`team.md` §3.4: he cannot act without an instruction and never has.**
+*A doctrine that says **do nothing until your name is called** is the
+native language of a boy who has been waiting to be told since he was
+eleven.*
+
+> **Same doctrine, two children: free for one and nearly impossible for
+> the other** — **and for the only time in the book, his defect is an
+> advantage.**
 
 ---
 

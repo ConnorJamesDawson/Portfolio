@@ -339,6 +339,54 @@ Recorded so that when one of them goes, it goes with a replacement.
    before it breaks**, not after.
 3. **"The threshold is never written from inside."** If it is ever broken,
    that is an event and it gets an entry.
-4. **"Nobody within the stated distance."** The household's only law, void
-   from the moment he comes back. It does not need an entry — it needs a
-   catastrophe.
+4. **"If I don't call your name, don't fight beside me."** The household's
+   only law *(the stated-distance version was mine and is dead — #26)*,
+   **void from the moment he comes back**, *because a doctrine that turns
+   on him calling a name is void the moment he cannot call one.* It does
+   not need an entry — it needs a catastrophe.
+
+---
+
+### #26 — THE STATED DISTANCE
+*(mine, unruled for a year, and referenced in six files)*
+
+| | |
+|---|---|
+| **What it said** | **`combat.md` §9: there is a written household rule with a stated distance in it — the household's only law, about how far away from him the people who love him must stand.** *Cross-referenced in `spec.md` §11b, `structure.md`, `team.md` §6.3, `falsified.md` and `beyond.md`, and act three's catastrophe was built on it.* |
+| **By** | **AUTHOR ruling**, *given when asked what the rule was:* ***"I don't think there needs to be a distance… the berserk state runs on threat assessment. If someone's not a threat and not between him and the target, he's not going to go hunting. The worst thing you can do is get defensive; that means you're a threat. The ones who down tools have nothing happen to them."*** |
+| **Replacement constraint** | **THE DOCTRINE** — ***if I don't call your name, don't fight beside me*** — **and it is a PRICE and not a WALL**, which is the first time one of mine has been replaced by something that costs more rather than forbidding more. *The price: **the correct response to the most dangerous thing on the field is to disarm yourself in the middle of a fight.*** **Uzuki's whole architecture is *the one remaining thing is defended absolutely*, and the doctrine forbids exactly that** — *so she still breaks it, and now she breaks it **by defending him**, which is worse and truer.* **And it costs Kimimaro nothing at all**, because a boy who cannot act unbidden already lives inside it. |
+| **Whose rule it was** | **Mine, and it is the sixth of the same kind** — *#13, #14, #16, #17, #18, and this.* **§1a was written after the fifth and named the shape exactly: *a wall is the cheapest thing to write that satisfies the requirement and nothing can contradict it*.** *I wrote §1a and then wrote another wall, and it sat unchallenged for a year because a rule that takes something away reads as discipline* (#17's mechanism, logged and then repeated). |
+
+> **⚠ AND THE NEW MECHANISM IS WORTH MORE THAN THE ENTRY.**
+>
+> **A wall is not only cheap to write. It is cheap to *cross-reference*.**
+> *Six files pointed at this one and every pointer made it look more
+> ruled. Nothing in the design could tell you it was mine, because the
+> citations were to `combat.md` §9 and `combat.md` §9 said **PROPOSED** in
+> a paragraph nobody re-read.*
+>
+> **The test that would have caught it: a rule cited in more than two
+> files and ruled in none of them is not established, it is entrenched.**
+> *And it was found by the author asking what it was.*
+
+### ⚠ AND WHAT THE RULING GAINED, WHICH IS THE PART THAT MATTERS
+
+*Logged here because this entry is the only place all four land together:*
+
+1. **The creed is a retrofit of the monster.** ***Stay your blade from the
+   blood of the innocent*** *describes what the state already does.* **He
+   wrote down its behaviour and thought he had invented an ethic**, *which
+   is `ch11`'s retrofit one layer deeper.*
+2. **The monastery's *why* is answered and stays unsayable.** *#23 —* **her
+   survival is not a mechanism, it is the one time the rule worked.** *It
+   worked because she was not a threat and was not on the axis.* **There
+   was never a why. There was a girl standing still.**
+3. **⚠ IT IS NOT A MERCY.** *Checked against `ch5`, which is PAGE: four dead
+   children on a brief that said **alive if possible**.* **None of them
+   downed tools and none of them would have** — *evasion is movement, a
+   guard is a threat, calling your team is noise.* **The rule saves nobody
+   who has not been briefed, and only two people are ever briefed.**
+4. **And it exposes what he got backwards.** *The doctrine governs the
+   monster; **nothing** governs the floor* (§10b — *a fence does not know
+   who walked into it*). **He solved the hazard that frightens him and not
+   the one that kills bystanders, and has never noticed.**
