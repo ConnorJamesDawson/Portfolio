@@ -62,6 +62,140 @@ conclusion his ideology ends the line himself, deliberately, and calls it
 integrity. He will not see it. Somebody else will have to say it, and his
 answer will not be good enough.
 
+### ⚠ THE DOCTRINE'S PROGRESSION — AUTHOR, and it runs to the Shrine
+
+> **AUTHOR:** *"Whilst he would have the attitude of **villages make you
+> weak** to start with (which I haven't seen him make this statement yet),
+> as he learns about the world he begins to understand it's not the
+> villages but the cycle of hatred that affects the world on scale. He'll
+> have the evidence: what one client calls good work is a monster to
+> another; Uzuki is his closest ally yet other people are scared of her;
+> scared people make mistakes."*
+
+#### ⚠ STAGE 0 — HE HAS NEVER SAID IT. CHECKED.
+
+**The doctrine above is in this file, `spec.md` and `structure.md`, and it
+is on no page of prose.** *Grepped: **villages make**, **complacent**,
+**protection makes** — nothing.*
+
+**And it is worse than an omission.** *`spec.md` says the genin fight is
+where he **personally demonstrated** it, and that scene is PAGE — `ch05`,
+four dead children behind a wall on the coast road, on a brief that said
+**alive if possible**.*
+
+> ## **The demonstration is on the page and the conclusion has never been stated.**
+
+**Which is exactly right for him** — *he does not volunteer opinions; he
+acts instead of saying* (**Voice**, above) — **so the statement has to be
+provoked**, *by somebody who asks the questions he does not.* **That is
+Uzuki, and it should cost him something to answer.**
+
+#### STAGE 1 — THE EVIDENCE, and it must be operational or he cannot hold it
+
+| AUTHOR's item | Where it is already running |
+|---|---|
+| **one client's good work is another's monster** | *Kadoya **pleased** at 3,600 (`ch10`); the client complaining about the survivor (`ch11`); the room in `ch17`* |
+| ⚠ **and he is the object of it** | **the rebellion's asset and the state's warrant. Same boy, two files, neither lying** |
+| **Uzuki is his closest ally and people are frightened of her** | *he has the data. They have the fear.* **Both are correct, and that is the whole difficulty** |
+
+#### ⚠ STAGE 2 — THE MECHANISM, AND IT IS HIS OWN CRAFT
+
+***Scared people make mistakes*** *is the load-bearing one, because it
+converts a moral fact into an operational one — **the only register he can
+hold a moral fact in**.*
+
+**He does not care that people are frightened. He cares that fear degrades
+performance**, *and degraded people kill people who were never the threat.*
+
+> ## ⚠ WHICH MAKES FEAR AREA DENIAL.
+>
+> **An unattended lethal field he lays without meaning to** — *and
+> `combat.md` §10b:* ***a fence does not know who walked into it.***
+>
+> ## **He arrives at the cycle of hatred through crowd control.**
+
+*And it lands on `combat.md` §9's existing finding:* **he solved the hazard
+that frightens him and not the one that kills bystanders.** *This is the
+second instance of the same blindness and he does not connect them.*
+
+#### ⚠ STAGE 3 — THE DIAGNOSIS WIDENS AND THE PRESCRIPTION DOES NOT
+
+> *Villages make you weak* → **so stand alone.**
+>
+> *The cycle makes the world* → **so stand alone.**
+
+**Same behaviour. Bigger reason. And now unfalsifiable** — *villages make
+you weak can be beaten with one counter-example; the cycle runs everything
+explains every counter-example, including the ones that killed the old
+version.*
+
+> **⚠ AND THIS IS THE GUARDRAIL THE WHOLE THREAD HANGS ON.**
+>
+> **`spec.md`'s spine is that his philosophy is refuted by two children who
+> love him and he cannot answer it.** *If he upgrades to a truer theory, he
+> **has** answered it, and the refutation stops working.*
+>
+> ## **So: he gets more right about the world and it changes nothing about what he does.**
+>
+> *He does the intellectual work. He arrives at the true diagnosis — which
+> is canon's own thesis. And the true diagnosis supports withdrawal exactly
+> as well as it supports engagement.* **Canon's answer is Naruto: break the
+> cycle by refusing to hate. His is: do not participate in it.** *Both
+> follow from one premise, and he ends one step from Nagato and one step
+> from Naruto and takes neither.*
+>
+> **And `spec.md` §11b's guardrail survives intact:** *he is right that they
+> are a liability; he is wrong about what to do about it;* **never refute
+> the first half to get at the second.**
+
+#### The phrase is his and it is not *the cycle of hatred*
+
+**He would never reach for that.** *He gets there off the only instrument he
+owns* — **`combat.md` §10: the hunter file, and *the only external grading
+of Tadayoshi Ruri that exists in the world*.**
+
+> ## ***The curve is not mine. Everybody is on one, and everybody's is fed by somebody else's work.***
+
+*Kiri has one. The rebellion has one. Uzuki generates one. Kimimaro's clan
+was consumed by one.* **Arrived at by a boy who measures, through the only
+measuring instrument he has ever had.**
+
+#### STAGE 4 — THE SHRINE, and it is `structure.md` §7b
+
+**The terminus is not a realisation. It is a document.** *He finds Madara's
+diagnosis and agrees with it; finds the seam where a second hand appended a
+prescription; and never once turns the same test on his own book, where the
+creed is a retrofit and the doctrine has no reason under it.*
+
+> **Full working: `structure.md` §7b — THE LIBRARY AND THE QUOTATION, and
+> THE SHRINE.**
+
+#### ⚠ AND THE DEVICE IS A HEADING, NOT A REALISATION
+
+**The unheaded page is already taken** — *`ch12`–`ch14`: a name at the top,
+one sentence under it, and he has failed to head it three times.* **That one
+is hers.**
+
+> **This thread gets the inverse: a heading he wrote at ten and has never
+> revisited.**
+
+*And `ch14` already established the mechanic for a sentence he cannot fix:*
+**he does not rub out. He brackets the mark, dates it, and writes the honest
+word underneath** — ***27/2. No.***
+
+#### THE FOUR WRITING RULES
+
+1. **⚠ NO MONTAGE AND NO SERIES OF REALISATIONS** *(`method-delta.md` §2n)*.
+   **Entries, and one struck heading.**
+2. **⚠ THE NARRATION NEVER POINTS.** *The moment the prose says **what he
+   did not yet understand was** — it is dead.* **The evidence goes in as
+   events he files and the reader assembles.**
+3. **The statement is provoked, never volunteered**, *and the asking costs
+   him something.*
+4. **⚠ AND HE NEVER AUDITS HIMSELF.** *He runs the test on Madara and not on
+   his own book, and the reader watches him not do it* — **which is where
+   the thread terminates and why it must never be said out loud.**
+
 ### The creed
 
 > **"Stay your hand from the blood of the innocent."**
