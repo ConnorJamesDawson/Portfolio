@@ -1227,6 +1227,127 @@ near — has the one disposition in the world that cannot supply it.
 
 ---
 
+### 6.3a ⚠ AND THIS IS WHAT THE THIRD ONE SEES — Kimimaro on §6.3
+
+**He has no concept of romance, no vocabulary for affection, and nobody has
+ever told him one thing about the household he lives in.** *What he has is
+§3.8's faculty:* **he counts what does not happen.**
+
+**And it turns out that is enough to see almost all of it.**
+
+#### ⚠ HIS FIRST FINDING IS THAT HE IS NOT IN A HOUSEHOLD OF THREE
+
+*He arrives with one datum — `ch16`: there is a rule with a name in it and
+he has not been given a name — and inside about a month he corrects it, by
+counting who is obeyed.*
+
+> *She says things and Tadayoshi does not do them.*
+>
+> *She says things and **I** do them.*
+>
+> ## ***So it is not three. It is two of us and him, and I am in the wrong one.***
+
+**⚠ WHICH IS §6.1, READ FROM INSIDE, BY THE ONLY PERSON WHO COULD.** *That
+section's own line:* ***nobody tells him. There would be no way to.***
+
+> **Kimimaro is the way to. And he never says it, because saying things is
+> not a thing he does** — *and if anybody had ever asked him a question
+> about it he would have answered in full, the way he answers everything.*
+
+#### THE THREE COUNTS, and all of them are photographable
+
+| | What he counts | What he gets |
+|---|---|---|
+| **The tally** | *Uzuki says **boyfriend**; Tadayoshi corrects it* | ⚠ **the corrections get shorter, and then they stop** |
+| **The book** | *Tadayoshi shuts it before he says anything that is not work* | **and has left it open once, and Kimimaro has the date** |
+| **⚠ CONTACT** | *hands, on anybody, by anybody* | ***her to me, every day. Her to him, four times in two years. Him to anybody, none.*** |
+
+> **⚠ AND THE CONTACT COUNT IS THE ONE THAT UNDOES A READER.**
+>
+> *The only person in that household who is touched daily is the one who
+> has no word for it* — **and he holds the exact figure, and the true reason
+> she cannot touch Tadayoshi is not available to him at any price.**
+
+#### ⚠ HE IS THE ONLY PERSON WHO CAN DATE THE DAY IT CHANGED
+
+**`team.md` §10.4: Tadayoshi is annoyed by *boyfriend*, corrects it, and
+then stops correcting it to keep her happy** — *the first false statement he
+ever allows to stand, and the closest he comes to affection in the whole
+book.* **§10.5: it is legible to exactly two people.**
+
+> **That is about reading it. He does not read it. He counts it.**
+>
+> ## ⚠ SO THE MOST SIGNIFICANT MOMENT IN THE HOUSEHOLD IS WITNESSED BY THE ONE PERSON LEAST EQUIPPED TO UNDERSTAND IT — AND HE IS THE ONLY ONE WHO WROTE IT DOWN.
+
+*`character.md`'s note on the last objection asked for a scene that is
+**ordinary, throwaway, identifiable afterwards and invisible while it
+happens**.* **He is what makes it recoverable.** *He has the date, and no
+idea what the date is of.*
+
+#### ⚠ AND THERE IS ONE THING HE CANNOT ACCOUNT FOR
+
+**Four contacts in two years, and three of them have reasons** — *a hand on
+an arm to move somebody out of a doorway, that kind of thing.*
+
+**One does not.**
+
+> *It goes in the place where things he has no account of go, with a date
+> on it, and he takes it out perhaps twice a year for the rest of his life
+> and gets no further with it than he did on the day.*
+
+#### THE SPECIFICATION HE WRITES — and it is the concrete answer
+
+> ***THE TWO OF THEM.***
+>
+> ***For: each other. Checked four ways. It is the only answer that does
+> not leave anything over.***
+>
+> ***She: talks at him whether or not he answers, and he answers about one
+> in four, and she does not stop when he does not.***
+>
+> ***He: shuts the book before he says a thing that is not work. Has left
+> it open once.***
+>
+> ***Contact: her to me, daily. Her to him, four in two years. Him to
+> anybody, none.***
+>
+> ***Do not: be in the way of it. It is not for me and it does not need me
+> and that is correct.***
+
+> **⚠ AND THE LAST LINE IS A *DO NOT*, WHICH BY §3.8 MEANS A PERSON WHO HAS
+> BEEN WORRIED ABOUT** — *and this time the person is himself, and he is
+> instructing himself not to interfere with the only good thing he can
+> see.*
+>
+> **He files it as a finding. It is not a complaint. He would not have
+> understood the difference and would have been offended by the
+> suggestion**, *if he had been capable of being offended.*
+
+#### ⚠ AND HE GETS IT WRONG, IN THE ONE WAY HE HAS TO
+
+**He concludes it is a completed unit that needs nothing.**
+
+**It is not.** *§10.4 and §10.5: it is two people waiting on a sentence that
+neither of them will say, and the acceptance is made of silence.*
+
+> ## **A STALEMATE AND A FINISHED ARRANGEMENT PRODUCE IDENTICAL DATA.**
+>
+> **He can count what does not happen. He cannot tell **not yet** from
+> **not ever**, because the two of them look the same from outside for as
+> long as you care to measure** — *and measuring from outside is the whole
+> of what he has.*
+
+**And the cost is exact.**
+
+> *He is the one person in the world with no filter, no stake and no
+> vocabulary for embarrassment.* **If he had read it as unfinished he would
+> have said it out loud, flatly, in the wrong room, because that is what he
+> does with every measurement he trusts.**
+>
+> ## **He holds the evidence that would resolve them, and files it as resolved.**
+
+---
+
 ## 7. WHY IT NEVER ASSEMBLES AROUND HIM — four reasons, all facts about him
 
 1. **The field has no judgement.** `combat.md` §10b — *a fence does not
