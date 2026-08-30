@@ -1099,12 +1099,13 @@ does not have that machinery and never needed an excuse.**
 
 #### ⚠ TWO THINGS TO RULE BEFORE ANYBODY WRITES IT — PROPOSED
 
-**1. NOT THE STONE TABLET.** *Canon's tablet at the Naka Shrine is
-Hagoromo's, altered by Black Zetsu, and using it drags the Ōtsutsuki plot
-into a series that has no interest in it.* **So: a separate body of
-Madara's own writing, sharingan-locked, in the compound.** *An invention,
-and marked as one* — `canon-cast.md` §1.4 says canon is not bent to fit,
-**and this sets something beside canon rather than reinterpreting it.**
+**1. ~~NOT THE STONE TABLET.~~** ⚠ **DEAD — overruled by AUTHOR one turn
+after it was written. See THE SHRINE below.** *The objection was that the
+tablet drags the Ōtsutsuki plot into the series. The ruling is that the
+plot is the material and the tablet's alteration is the point.* **The
+compound transcripts stay** — *they are Madara's own voice and the thing he
+agrees with* — **and the Shrine is the second document and the diff between
+them is the finding.**
 
 **2. ⚠ HE MUST NEVER LEARN HOW HE READ IT.** *If he knows the text was
 locked, the quotation is a confession and the scene is over.* **He picked
@@ -1113,6 +1114,134 @@ not** — *`method-delta.md` §2k: he has been handed an organ with no manual
 and is wrong about a thing he owns.*
 
 > ## **The secret is blown by ignorance of the thing that was keeping it.**
+
+### ⚠ THE SHRINE — AUTHOR, and the Ōtsutsuki plot is IN
+### And my rule-out above is dead
+
+> **AUTHOR:** *"I would put the Ōtsutsuki plot into the series, because what
+> I'd want to happen is the corruption of Madara's ideals over time, audited
+> from the outside — i.e. Tadayoshi. Most people would start with just
+> Madara being bad, but because Tadayoshi already believes in his side of
+> the story, he'd want to learn more, where he can see the change in ideals
+> from where Black Zetsu started influencing Madara. So he would go to the
+> Shrine, and being Tadayoshi, get his own interpretation."*
+
+**⚠ KILLED: my *not the stone tablet* above.** *It was PROPOSED, it lasted
+one turn, and the objection was that the tablet drags in the Ōtsutsuki
+plot.* **The ruling is that the plot is the material, and the reason is
+better than the objection was:** *the tablet's value is not what it says.*
+
+> ## **It is a document by one author with a second hand in it, where the alteration is designed not to be noticed and the reader is expected to take the whole as one voice.**
+>
+> **Which is the single most Tadayoshi object in the entire setting.**
+
+#### And it is the final exam of a skill the book has been building since act one
+
+| | | |
+|---|---|---|
+| **`ch10`** | *identifies a man by his handwriting* | **hand** |
+| **`ch15` s3** | *a sheet rings and he cannot place it — recognition without retrieval, off a hand* | **hand** |
+| **`ch15` s5** | *the reduction: strike out the furniture and find the item that had to be there* | **method** |
+| **`ch15` s5** | ⚠ *and he tries to write one himself and **cannot**, which is how he confirms the skill exists* | **method** |
+| **`ch16` s5** | *a brief with not one noun in it, admired* | **hand** |
+
+> **He has spent an entire act being trained on documents, and nobody
+> planned it as training.**
+
+#### ⚠ HIS METHOD WORKS ON IT AND NEEDS NO NEW CAPABILITY
+
+**He has no original to compare against and does not need one.** *`ch15`'s
+test is internal:* **every docket has one item that had to be there — take
+it out and the job breaks.**
+
+> *A genuine passage says a thing because it is true.*
+>
+> **An inserted one exists to produce a conclusion.**
+>
+> ## ⚠ SO `ch15` WAS "THE PART DOING NO WORK". THE FORGERY IS THE PART DOING TOO MUCH.
+>
+> *Same instrument, inverted, and he already owns it.*
+
+**And there are two bodies of text, so there is a diff**, *which is the
+only shape of finding he has ever trusted:* **two readings is a line.**
+
+| | |
+|---|---|
+| **The compound transcripts** | *Madara before he left. His own voice. The sunk-cost argument.* **Coherent, sane, and Tadayoshi agrees with it** |
+| **The Shrine** | **layered — and the later layer is not the same man** |
+
+> **⚠ AND HE CAN DATE THE CHANGE TO A POSITION, NOT A YEAR.** *Up to here it
+> is one argument; after here it is a different argument wearing the first
+> one's clothes* — **and he can put a finger on the sentence where it
+> happens.**
+>
+> *And then, for the fifth time* (Enkai, Deguchi, the boilerplate, the
+> contact, **this**): ***somebody did that on purpose and it took work.***
+
+#### ⚠ THE CONSTRAINT THAT KEEPS THE PLOT IN WITHOUT INCURRING PLOT DEBT
+
+**`canon-cast.md` §1.1 — *they do not know who anybody is* — and §1.3 — *no
+plot debt*.**
+
+> ## **HE FINDS THE SEAM AND NEVER THE AUTHOR.**
+
+*He can prove there are two hands. He can locate where the second starts. He
+can characterise it — **patient, institutional or very long-lived, and
+working the whole way toward one conclusion**.* **He cannot name it and
+never does**, *because naming it needs information no document contains,
+and the entire point of the forgery is that its author is not in it.*
+
+> **⚠ AND AN UNSIGNED SECOND HAND IS THE EXACT SHAPE OF THE OTHER THING HE
+> CANNOT CLOSE.** *§3:* ***both hunters are anonymous by the same trick.***
+>
+> | | Hides behind |
+> |---|---|
+> | **The pipeline** | **featureless paperwork** |
+> | **Black Zetsu** | ⚠ **somebody else's handwriting** |
+>
+> **Same trick, different century** — *and `structure.md` §3 already has the
+> outcome recorded:* **Gatō is the wrong snake.** *He chases an anonymous
+> author, gets the wrong one, and is right about the shape and wrong about
+> the name.* **Twice, and the second time it is on a stone.**
+
+#### ⚠ AND HIS INTERPRETATION IS NOT CANON'S, BECAUSE HE HAS NOT GOT CANON'S FRAME
+
+**He does not read *a goddess wants her chakra back*.** *He has an
+accountant's frame and he reads what an accountant reads:*
+
+> ## ***Somebody has been running the same operation for a very long time, and every party to it believes the arrangement is theirs.***
+
+**Which is the hunter curve, generalised** — *the finding the mindset thread
+has him arrive at independently:* ***the curve is not mine. Everybody is on
+one, and everybody's is fed by somebody else's work.***
+
+> **He re-derives the Ōtsutsuki plot as a logistics finding. No mysticism.
+> A ledger.**
+
+#### ⚠ AND THE CORRUPTION, IN HIS TERMS, IS HIS OWN METHOD
+
+> **Madara wrote a true diagnosis. Somebody appended a prescription.**
+
+*The diagnosis — the cycle is old, self-sustaining, and staffed by people
+who have never known anything else — is sound, and he agrees with it.*
+**The prescription is the forged part, and it is the part doing too much
+work.**
+
+> ## ⚠ AND THAT IS HIS ENTIRE LIFE, DESCRIBED BY A STRANGER ON A STONE.
+>
+> **The creed is a retrofit — a rule written afterwards over a gap he could
+> not account for** (`ch11`). **The doctrine has no reason under it**
+> (`ch16`). **The ringing got the mark and no question** (`ch15`).
+>
+> **He has spent his whole life appending prescriptions to diagnoses he
+> could not finish.**
+>
+> **So when he finds the seam in Madara, he is finding his own method in
+> another man's document — and this time he can see it from outside, which
+> he has never once managed on his own book.**
+
+**And the reader watches him not do it**, *which is where the mindset thread
+terminates and why it must never be narrated.*
 
 ### ⚠ AND HE TELLS NARUTO TO HIS FACE — AUTHOR
 
