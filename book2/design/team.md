@@ -137,24 +137,28 @@ Three years indoors, wasted, and **the illness has already started**
 > for a man who was never coming back** (`ch06.md` scene 8),
 > and he has never stopped.
 
-### 3.3 The two properties that make him the only usable body on a field
-### Tadayoshi has laid
+### 3.3 The two properties that make him free on a field Tadayoshi has
+### laid, from the first day and at no cost
 
 1. **He does exactly what he was told and then stops.** No improvisation,
    no initiative, no drift. `portraits.md`: *appallingly clean — no rage,
    no appetite, no satisfaction. He is told, he executes exactly, he
    stops, he waits.*
-2. **PROPOSED, and it is the best idea in this file, which is exactly why
-   it needs ruling: he is the only person alive who can stand inside
-   Tadayoshi's own area denial and not die in it**, because the thing
-   that kills people in that field is **moving in a way nobody
-   specified.**
+2. **He can stand inside Tadayoshi's own area denial and not die in it**,
+   because the thing that kills people in that field is **moving in a way
+   nobody specified**, and he never has.
 
 > **The field has no judgement** (`combat.md` §10b) — *and Kimimaro does
-> not require it to have any.* **He is the one person the tripping
-> hazards cannot catch**, and Tadayoshi will take years to work that out,
+> not require it to have any.* **He is free on that ground from the first
+> day and at no cost**, and Tadayoshi will take years to work that out,
 > because working it out requires him to think about a person as a piece
 > of a system, and that is the missing organ.
+>
+> **⚠ AND THE VERSION THAT STOOD HERE SAID *the only person alive*. That
+> is dead** — `method-delta.md` §2o. **The others learn the ground**, *and
+> Uzuki learns it fastest because reading how a thing has been laid is
+> already her instrument* (`ch16`, the lashings) — **and learning it is
+> paid for on the page.** *See §5a.*
 
 ### 3.4 HE HAS NO TACTICAL SENSE AT ALL — and the trigger exists
 
@@ -1314,6 +1318,100 @@ book gets graded against this table, so it is the one to rule first.*
 
 **Nobody in this list is a support unit.** The one who heals is the one
 who goes in first.
+
+---
+
+## 5a. ⚠ GREAT ALONE, DEADLY TOGETHER — AUTHOR
+## And it is §2o applied to the whole of this file
+
+> **AUTHOR:** *"That feedback needs to go through the planning for the
+> group. Tadayoshi is a self-made warrior, so he has crowd control and one
+> to one — he's just made better with other people. All three of them are
+> great on their own; when they're together they are deadly."*
+
+**Every framing in this file that built the team out of complementary holes
+is dead** *(`method-delta.md` §2o)*, **and the positive version is stronger
+than the thing it replaces.**
+
+#### ⚠ COMPLEMENT IS NOT COMPLETION
+
+| | |
+|---|---|
+| **A jigsaw** | *each member fills another's hole.* **Remove one and the group FAILS** |
+| ⚠ **THIS ONE** | *each member is complete.* **Remove one and the group does WORSE** — §2o's test |
+
+#### Each of them is complete, stated plainly
+
+**TADAYOSHI — self-made, and both halves are his.** *Crowd control **and**
+one to one.* **The floor, the articles, the fences** — *and a boy who takes
+a man off a four-foot bank with a boot on the back of a hand and beats a
+seven-foot spear on gravel.* **Forty pieces off about twenty people, kept
+because they worked on the day** (`ch14`). *Nothing was handed to him and
+nothing is missing.*
+
+**UZUKI — a complete fighter with a short window and a rising ceiling.**
+*Timing, which is her father's actual bequest; Uzumaki volume; diagnosis
+used offensively; seals; and the sword.*
+
+**KIMIMARO — the best close-range fighter in the book.** *Permanent
+material, does not starve, and never at full health after act one.*
+
+#### ⚠ AND THE THREE LIMITS ARE NOT HOLES. THEY ARE CONSTRAINTS.
+
+| | Limit | What it actually is |
+|---|---|---|
+| **Tadayoshi** | **arity** | *physics.* **A complete fighter still cannot be in two places** (§10b) |
+| **Uzuki** | **duration** | *very hard for a short time, and the window widens every year* |
+| **Kimimaro** | **initiation** | *§3.4 — and every use costs him himself* |
+
+> **None of these is fixed by somebody else's capability. Each is relieved
+> by somebody else's SURPLUS**, *which is a different operation entirely
+> and is the whole difference between a jigsaw and a team.*
+
+- **Kimimaro's initiation is relieved by a girl who cannot stop talking**
+  (§6.1) — *and she was going to do that anyway.*
+- **Uzuki's duration is relieved by somebody who can hold a point**, *so she
+  does not have to be in it long.*
+- ⚠ **And Tadayoshi's arity is relieved by there simply being three of
+  them.** *Not by anybody being better. By there being more.*
+
+#### ⚠ AND THE MULTIPLICATION — which is the find, and it costs nothing
+
+**His single worst property is that his field has no judgement.**
+*`combat.md` §10b:* ***a fence does not know who walked into it.*** *And §9:*
+**he solved the hazard that frightens him and not the one that kills
+bystanders.**
+
+> ## **PUT THREE PEOPLE ON IT WHO ALL KNOW WHERE THE FENCES ARE, AND THE FIELD STOPS BEING INDISCRIMINATE.**
+>
+> **Same technique. No upgrade. Nothing added** *(`method-delta.md` §2n)*
+> — **it stops being a hazard and becomes a killing box**, *and it is
+> available from the first day all three can read the ground.*
+
+**⚠ AND THE THEMATIC STING IS EXACT.** *The technique that requires
+isolation is cured by a household* — **and the doctrine says stand alone.**
+
+> **`spec.md`'s guardrail survives and gets sharper.** *He is right that
+> they are a liability.* **They are also a multiplier.** **Both are true,
+> and he prices one and not the other, because he has not got a column for
+> the second.**
+
+#### And the cap removed from §3.3
+
+**§3.3 said Kimimaro is *the only usable body* on a field Tadayoshi has
+laid.** *That is a monopoly claim and it is §2o's sentence shape exactly.*
+
+> **Corrected: he is the one who needs no explanation.** *He does exactly
+> what he is told and then stops, so he is free on that ground immediately
+> and at no cost to anybody.*
+>
+> **The others learn it — and Uzuki learns it fastest**, *because reading
+> how a thing has been laid is already her instrument:* **`ch16`, the
+> lashings go over and not round.**
+>
+> **⚠ AND LEARNING IT IS A PRICE AND NOT A GIFT.** *There is a period in
+> which she does not know the ground and gets hurt on it,* **and that
+> period is on the page and not summarised.**
 
 ---
 
