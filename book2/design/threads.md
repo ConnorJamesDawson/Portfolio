@@ -6394,3 +6394,421 @@ clerk.* **Some of it comes back attached to different causes.**
     because it is the reading that finishes the instrument.*
 12. **WHAT IS LEFT: 6,577 + 3,000, less eleven days** — **and a third
     mouth.**
+
+---
+
+### C17 — Chapter 17, "Nobody Is Angry". Year 1, month 4.
+### 11 scenes, 16,900 words. T×4 · K×3 · U×3 · one-off ×1.
+### ⚠ THE BREAK. And nobody is accused of anything at any point.
+
+**THE WAIT — 10/4 to 21/4, a fold of ground under larch north of Hane**
+
+- **Nine articles, low, on the two lines a person would walk, four on the
+  water side and two under the lip** — *and he tells nobody, and it does
+  not occur to him to,* **because he has laid that in forty places and
+  never once had anybody on his ground.**
+- **The cost of waiting, priced:** *feed 4, food for three 14–18,* **call it
+  22 a day** — ***one part in four hundred and thirty, and I could wait a
+  year and be beaten by the winter and not by the sum*** — *and then he
+  finds the fault himself:* **that is the arithmetic of a man with a
+  house.**
+- **⚠ THE PAGE HAS A THREE ON IT FOR THE FIRST TIME.** *9,577 after Hane,
+  −110 by the 14th.* **Two people for a hundred and eleven days, one for
+  the eleven months before that.**
+- **⚠ AND HE RULES A PAGE FOR THE BOY AND CANNOT HEAD IT.** *Four minutes.*
+  ***The mule's page has four columns because they are what I need in order
+  to decide whether to use it tomorrow. So what do I need in order to
+  decide about him*** — **and the answer is that nobody has asked him to
+  decide anything.** *Second unheaded page in that book; the other is hers
+  and has been since 29/12.*
+- ***"Are you all right for that shirt?" — "Yes… It is a good shirt."***
+  **He checked before he answered, about a shirt** — *and the entry is*
+  ***14/4. Answers everything. Checks first***, **which is a hundred per
+  cent correct and he takes it as a fact about honesty.**
+
+**KIMIMARO — the wait**
+
+- **⚠ THE BODY, AND NOBODY ASKS.** *Nine miles on the ninth having not
+  walked eleven paces in a straight line for two years, paid for from the
+  tenth to the thirteenth* — **and the left foot is worse because the room
+  fell a thumb toward the drain and he has been walking on a floor that is
+  not there.** ***So a room gets into you.*** *Twenty lengths of the fold a
+  morning for nine days, unbidden and not unbidden:* **a man who is going
+  to be told north again had better have feet.**
+- ***Twenty-two days and I have been told: out, in, north, and are you all
+  right for that shirt.*** **Fewer words in ten days outside than in the
+  last four days of the box.**
+- **⚠ AND THE COUNT, ON DAY SIX** *(`team.md` §6.3a, paid on the page)*:
+  *she says things and he does not do them; she says things and I do them.*
+  > ***It is not three. It is two of us and him, and I am in the wrong
+  > one.***
+  >
+  > **And he is not unhappy about it.** *It is a correct finding got in six
+  > days off nothing but who did what somebody said, and he is pleased with
+  > it.*
+- **The seventh has not started** *(seventeen days, and the half says it
+  should have)* — **and he cannot get anywhere without it and cannot make
+  it start.** *And it does not occur to him in twenty-two days that waiting
+  for it is what everybody in that fold is doing.*
+- **⚠ THE FIVE ON A FLOOR, FOR THE FIRST TIME SINCE THE BOX.** *Three and a
+  bit, two and a bit, two, one and a half, one. He goes along them and they
+  tell him nothing he did not know, and he sits and looks at them for four
+  minutes.* ***That is everything I have made in thirteen years.***
+- **She looks at him eleven times in ten days and he times two of them.**
+  ***Hers are longer and they are not about anything*** — **and it is the
+  closest he ever comes, unassisted, to working out that somebody is
+  worried about him.**
+
+**⚠ HE DOES NOT HAVE A NO — 14/4 to 17/4, and it is hers**
+
+- ***"What do you do?"*** *asked meaning nothing, in the middle of the
+  water* — **and she gets four minutes: the clan, the word, the hands, five
+  measurements largest first, the sixth through, the seventh not started,
+  and a dead number in bowls he has carried four months knowing it is
+  dead.** *She did not ask for any of it and he does not know he gave her
+  anything.*
+- **⚠ AND SHE TESTS IT ON THE 16TH AND IS NOT DEFENDED FOR IT.** *Four
+  questions, each worse on purpose: the room (two years, the paces, the
+  drain, the door opening inward); whether they hit him (twice in the first
+  month, and he worked out it was because he did not need it); who brought
+  the food (four descriptions of hands, including the one that stayed
+  eleven seconds with no lamp).* **She had a fourth ready and did not ask
+  it, and the not asking is the only part of the sixteenth she has ever
+  been able to look at squarely.**
+  > ***He has never not.***
+- **⚠ AND THE THING THAT MATTERS ARRIVES AT SIX IN THE EVENING:**
+  ***anybody can do that. Not me. Anybody.*** **A man on a road. Somebody
+  being kind to him at a door with nothing in it at all.**
+- **She does not tell him for a day and the real reason is small and
+  worse:** ***I have not got a thing to do about it*** — *a description and
+  not a finding.* **It stays a description for eight days and becomes a
+  finding for about ninety seconds on the twenty-fourth, and she acts on
+  it, correctly, and it does not save anybody.**
+- **And the unpriced sentence, which is the first of her life:** *he will
+  be dead before she is fifteen, he said the number the way you say the
+  price of a thing* — ***so we had better not waste any.***
+
+**⚠ WHERE I HAVE PUT THINGS — 18/4, and it is §5a's first instance**
+
+- **She goes down the water side at half past nine and puts a hand on one.**
+  *Outside of the left hand, two inches, a fortnight and not a thing.*
+  ***"That's yours." — "Yes." — "Right."***
+- **⚠ AND HE DOES THE ARITHMETIC AND THE GROUND IS GOOD.** *Twenty-two
+  passages past six articles is a hundred and thirty-two opportunities and
+  she has had one* — **and she was going where she meant to go and put a
+  hand down.** ***The field has no judgement.*** *He has known that since
+  he was nine and has never had a reason to mind it.*
+- **⚠ THE THIRD PAGE, AND HE HEADS IT IN ONE SECOND:** ***THE GROUND.***
+  *Drawn — the fold, the water, the lip, the way in, nine marks with a
+  number each and what it takes from which direction.*
+- **⚠ AND SAYING IT OUT LOUD IS WHAT COSTS HIM.** *He stops twice. Eleven
+  minutes and it comes out badly and every word is accurate.* ***I have
+  made it forty times and I have never once put it in words, because words
+  are for a thing somebody else has to do.***
+- **Kimimaro takes four seconds** — ***don't go past the two stones on the
+  water side unless I've said*** — **and it holds permanently, with no
+  reminder and no near miss, for as long as they live together.**
+- **⚠ AND TADAYOSHI GETS ONE STEP FROM §5a AND STOPS.** *A person who does
+  not do a thing that has not been said is a person my ground cannot
+  catch* — **and then:** ***there is no version of this where I am putting
+  anybody on that ground on purpose.*** *It costs him about two years.*
+- **She learns it in four days and does it differently and he watches from
+  the trees without her knowing.** ***She is not learning where they are.
+  She is learning where she can be*** — **and he does not tell her that
+  either.**
+
+**⚠ THE WATER — 19/4, and it is `team.md` §6.1's first day**
+
+- ***"Go and get the water."*** **Eleven minutes, and nobody watching could
+  tell you anything had happened.**
+- **⚠ AND THE FINDING ON THE 20TH IS THE LARGEST OF HIS LIFE TO DATE.**
+  ***Nobody has told me to do a thing since I was eleven*** — *up, out, in,
+  open your mouth, hands out, both, shirt off, wider, four hundred times,*
+  **and every one of them was about where his body was.**
+  > ***Stand up is not a task.***
+  >
+  > ## ***That is the first task I have ever been given.***
+  >
+  > **Thirteen years alive; useful for approximately eleven minutes.**
+- **She says it in the same voice she says everything in, does not say
+  please, does not look up, and has never once asked whether he will** —
+  *and he is pleased about that in a way that has no bottom to it and never
+  examines.*
+- **⚠ AND HE MOVES NINE FEET.** *From the bank to the fire side, where the
+  bucket lives and where things get said.* ***I cannot ask for one. But a
+  person sitting four feet away is a person you say a thing at. So I have
+  not asked. I have made it cheaper.*** **The only thing resembling
+  initiative he performs that year, and neither of them notices it happen.**
+- **⚠ AND HE STARTS THE PAGE — `team.md` §3.8 stage four, on the page:**
+  > ***THE GIRL. Gives instructions, about four a day now and it was one.
+  > Says them at the same size as everything else, which is how you know
+  > they are real. Does not wait to see whether I have started.***
+  >
+  > ***Do not be somewhere she has to come and find me.***
+  >
+  > **A fifth line that is not like the other four, and he does not notice
+  > that it is not like the other four.**
+- ***"You're quick." — "Yes."*** *Not an instruction, not a question, not
+  about his body, not a thing that needs doing* — **so it goes in the place
+  where things he has no account of go, which had one item in it and the
+  item was the sky.** ***Two.*** *And it is the best evening of his life so
+  far and nothing whatever happens in it.*
+
+**SOMEBODY COMES — 22/4**
+
+- **A man of about thirty comes down the road openly and does not slow and
+  does not look at the trees.** *Kadono, the rope walk, the yard behind it,
+  the twenty-fourth, ninth hour.*
+- **Four questions, four true answers, none of any use** — ***"Who's asked
+  for me?" — "Doesn't say." — "What's it about?" — "There'll be people
+  there. That's what I know."*** **He is not being careful. He has not got
+  it.**
+- **⚠ AND THE ONE LINE HE DOES NOT QUERY:** ***"Bring all three of you."***
+  — ***"Right."*** *Two hours on it and he gets as far as* **somebody up
+  the line has asked for the three of us by name** *and no further,* **and
+  he never once arrives at the possibility that it is a question about
+  whether to keep him**, *because in fifteen months nobody has ever asked
+  one.*
+- **⚠ AND HE BUILDS THE DEFENCE ON THE 23RD AND IT IS AIRTIGHT AND IT IS
+  ENTIRELY WASTED.** *Five parts, checked against both counterparts,
+  rehearsed twice more and again at six on the morning of the
+  twenty-fourth.* ***It holds. There is not a hole in it and I am good at
+  looking for holes*** — **about a question nobody in that building had any
+  intention of asking.**
+- ***"Do you want to know why?" — "Do you know why?" — "No." — "Then
+  no."*** **He asked whether he wanted it; the boy answered whether there
+  was a supply**, *and swapped one for the other in under a second and not
+  to be clever.* ***He has not got a want that is separate from a supply.***
+
+**⚠ OUTSIDE — 23/4 to 24/4, and it is watertight and it fails**
+
+- **She gets it on the road: *all three of us* means a room with people in
+  it, and one of them cannot be in a room with people in it.**
+- **She gives it hole-first and he takes it in under a minute:**
+  ***"That's a real thing." — "It's a real thing." — "Then he's not in the
+  room."*** **No argument, no *how do you know*, no *what were the four
+  questions*** — *and she had answers ready for both and never used them.*
+  **First time in a hundred and thirty-two days that information has gone
+  the other way and been taken the same way.**
+- **The plan is eleven minutes and it is good:** *he waits outside; he does
+  not go in; if anybody asks him in he says he was told to wait, which is
+  true and is the only sentence in the world that stops a conversation for
+  him.* **And Tadayoshi finds the hole himself —** ***what if somebody
+  comes out to him*** *— and the answer is* **he waits somewhere there
+  isn't anybody.**
+- **⚠ AND IT FAILS FOR A REASON NEITHER OF THEM COULD HAVE HAD.** *Eleven
+  years of a village, a monastery, a stable and a road,* **and in every one
+  of those, outside is a yard.** *Neither of them has ever been in a
+  building where a room has a corridor outside it with a bench down one
+  side.*
+- **She picks the spot herself and picks it well** — *north corner, by the
+  gate, against the wall, visible, in nobody's way* — **and adds the fourth
+  instruction off her own bat:** ***"And don't answer anything." — "Yes."***
+- **The count she made afterwards and made for years:** ***four things I
+  said to him and every one of them was right. And the one I did not say is
+  **if a person comes out to you, walk into the lane**, and I did not say it
+  because there was no lane in the plan.***
+  > **Asked twice, by people not being unkind, whether she blames herself.**
+  > *Both times: no, and both times true.* **What she has never said is that
+  > she also cannot walk past a bench in a corridor, and has known those are
+  > the same fact since about fifteen.**
+
+**⚠ CORRECTIONS — 24/4, and it is the chapter**
+
+- **Four instructions, checked twice, nine seconds.** *And the fourth is the
+  two stones, four days south, which does not apply and which he keeps* —
+  ***a rule you drop when it is not convenient is not a rule.***
+- **A man of about forty-five, bad left knee, a pipe, comes out for four
+  minutes' air at twenty past nine and comes across on a diagonal** —
+  **because he saw a boy standing against a wall in the sun with nothing to
+  do and thought that was a shame.**
+- **⚠ HE ASKS ONE QUESTION AND GETS NOTHING.** ***"That your animal?"***
+  *Not answered. Instructions are the easiest thing in the world.*
+- **⚠ AND THEN HE SAYS THREE WRONG THINGS.**
+  1. ***"Not much of an animal. It's carrying too much for its
+     shoulders."*** → **"It is not. It is rated at about eighty and it was
+     carrying ninety on the ninth and it came in sound."**
+  2. ***"You'll be his brother, I suppose."*** → **"No. We are not related.
+     I have been with them since the ninth. Before that I was carried in a
+     case for twelve days and before that I was in a room for two years."**
+  3. ***"You're a bit thin for a lad your age."*** → **three minutes: the
+     clan, the word, the pieces in thumbs largest first, the sixth through,
+     the seventh not started, the halves, the dead number in bowls, and**
+     ***it is not long. I have been wrong about it once and it was in the
+     direction of too much.***
+  > ## ⚠ HE DID NOT ANSWER A QUESTION. HE CORRECTED THREE ERRORS.
+  >
+  > ***A wrong thing is not a question and correcting one is not answering
+  > one, and I have never let a wrong measurement stand in my life, and
+  > nobody has ever told me to.***
+  >
+  > **He obeys the instruction to the letter — which is the only way he has
+  > ever obeyed anything — and it delivers everything.**
+- ***"Christ." — "Right." — "Thank you."*** **Eleven seconds of being looked
+  at, which is the longest since a man with a book**, *and none of the three
+  is a question, an instruction, about his body or a thing that needs
+  doing, so he waits.*
+- **⚠ AND HE FILES IT AND GETS ONE THING WRONG AND IT IS THE ONLY THING
+  ANYBODY IN THAT YARD GOT COMPLETELY WRONG:** ***he is the first person
+  who has ever wanted it*** — **and it is about kindness and it is the
+  closest he has come to being pleased about a person.**
+- **He times the man inside at six minutes**, *and at half past ten counts
+  the order and the gaps of people coming out,* **and knows eleven minutes
+  before anybody tells him.** ***They are not keeping us.*** *And says
+  nothing.*
+
+**⚠ FOUR MINUTES — 24/4, the one-off POV, and she is right**
+
+- **It is the fourth of nine that morning and it is not the hardest.**
+  *The hardest was the second, at half past seven, nine minutes, a man of
+  six years who had been taking money from a shipping house since the
+  eighth month* — **and she ate afterwards, because she learned at
+  twenty-two that not eating afterwards helps nobody and is a kind of
+  vanity.**
+- **Two pages. The second is Ide's transcript of the yard.** *She reads
+  everything twice and the second time from the bottom.*
+  > ***He gave it voluntarily. Nobody has written **under questioning** on
+  > this and Ide would have written it, because Ide writes everything.***
+- **THE ARITHMETIC, IN FULL, AND IT IS CORRECT:** *the carrier is good and
+  it is not in doubt — fifteen months, no losses, two documented refusals
+  both right; **and he pulls teams**, four in fifteen months and the rate
+  going one way, which is not his fault, it is arithmetic about a state with
+  a file open.* **And a team that comes for him is a team not in
+  Kirigakure — which is her own argument and she has made it herself in
+  front of people who did not want it** — *and it was a good argument when
+  the teams were coming to a boy on a road with nothing on him.* **The girl
+  is not on the books and is the only one she would keep, and you cannot
+  keep one.** *And the boy is worth a great deal to somebody, and on the
+  fourth day of having him gave his clan, his condition and his remaining
+  time to a man with a bad knee because the man was nice to him.*
+  > ## ***We cannot hold that.***
+- **⚠ AND THE NINETY SECONDS THAT TOOK LONGEST ARE NOT ABOUT ANY OF THE
+  THREE:** *a Kaguya in a war is known inside a week, and then the thing
+  hunting the carrier and the thing hunting the Kaguya are the same thing,*
+  **and it comes here** — *eleven hundred people in three provinces and
+  about nine months of money.* ***And they are eleven, eleven and thirteen,
+  and they have not done one thing wrong.***
+- > *Not to be retained. Pay to the ninth and clear.* **No prejudice**, *no
+  > notice to the boards, no follow-up.*
+- **⚠ AND *NO PREJUDICE* IS THE ONLY CHOICE SHE HAS AND SHE KNOWS IT DOES
+  NOTHING.** *A boy of eleven who has worked fifteen months without a loss
+  should not have a sheet with a mark on it, and she is not going to be the
+  person who puts one there.*
+- **She never sees any of them, four rooms and a staircase away, and by
+  eleven o'clock could not have produced his name.** *There is a **Ruri** on
+  a sheet in a box in a building that burns in the ninth month of the
+  following year.* **She was right about all of it, and so nearly right
+  about the war that four years later she runs the country.** *And she had
+  five more to do before noon.*
+
+**⚠ NOBODY IS ANGRY — 24/4, the room**
+
+- **⚠ NOT ONCE IN TWENTY-TWO MINUTES DOES ANYBODY SUGGEST HE DID A THING
+  WRONG**, *and by about the ninth minute he understands they are not going
+  to,* **and there is nowhere to put that, and the counterparts stay in his
+  coat.**
+- **Six and a table.** *The chairing man is tired and courteous and calls
+  him **Ruri** twice and never gives his own name.* **And the sixth is the
+  man with the bad knee.**
+- **They have the pallet.** *Somebody went to Ochiai and asked Ide, and it
+  is on a sheet in Kadono, and Tadayoshi put it in his own book on 29/3 and
+  told nobody.* ***So they are careful*** — **and he is, for two seconds and
+  against everything, impressed.**
+- **⚠ ELEVEN WORDS, AND IT IS THE ONLY THING HE COULD NOT HAVE PREDICTED:**
+  ***"I was fourteen at Sasago. There were two of them. Two."***
+  > **And nobody in the room reacts.** *Not one of the other five looks at
+  > him or away; the woman with the ledger does not stop writing.* **They
+  > all knew. It is only news to Tadayoshi** — *and the man did not say it
+  > to persuade anybody, because there is nobody in there to persuade.*
+- **⚠ AND HE CHECKS THE ARITHMETIC, BECAUSE HE CANNOT NOT.** *The four is
+  right — he has five and the fifth is the left-hander who lived and they
+  have not got him, so they are one under and it does not move it. The rate
+  is right. The nine months he cannot check and has no reason to doubt.*
+  **And the last term** — ***he cannot keep his own name in his mouth*** —
+  ***is it true?*** *She found it on the sixteenth, told him on the
+  twenty-third, and he said **that's a real thing** in under six seconds
+  because it was.*
+  > ## ***It is true. I knew it before I came in this room and I made a plan about it on a road on Tuesday.***
+- **⚠ AND THE BREAK, WITHOUT A NOISE:** ***nobody in this room has said a
+  single thing that is not true… and it comes out that keeping me costs more
+  than I make*** — **which is a sentence he has said about other people,
+  about a mule, in the second month.** *He has a page for it.*
+- ***"That's not mine, that came down this morning"*** — **the only
+  defensive thing anybody says, said to be accurate and not to be
+  excused.**
+- **⚠ ONE QUESTION, OUT OF ELEVEN AVAILABLE, AND IT IS THE ONLY ONE THAT IS
+  ANY USE TOMORROW:** ***"Is he ours or is he mine?" — "He isn't anybody's.
+  He's not on a sheet. He was never on a sheet."*** — ***"Right."***
+- **Four hundred counted on the table and counted again. Nobody shakes his
+  hand; nobody in that trade ever had.** *The man with the bad knee goes out
+  the other door and does not look at him and Tadayoshi has never decided
+  whether that was a discourtesy.* **And the passage has a bench down one
+  side with three people on it waiting to go in, and he walks past them.**
+- ***"We're done here. You're coming with us." — "Yes."*** **And the boy
+  had known for eleven minutes and did not say so.**
+
+**⚠ NOBODY ABOVE YOU — 24/4 to 30/4**
+
+- **Eleven miles and nobody says anything.** *He counts the money twice,
+  does the near hind twice, does not look back at a gate you can see for two
+  miles* — **and does not get the book out at four, which he has done at
+  four every day since the second month.** ***That is the one.***
+- **He does the ground at seven, forty minutes, on an open road that does
+  not want it** — *the third time she has seen that, and both previous times
+  were after a thing he could not put in the book.*
+- **THE ENTRY:**
+  > *24/4. Kadono. Not retained. Paid to 9th, 400. No prejudice.*
+  >
+  > *The sum is right. Checked what I could… It costs more to keep me than
+  > I make.*
+  >
+  > **And under a line, with no mark, because it is a description:**
+  > ***No boards.***
+- **⚠ SHE CARRIES IT SIX DAYS, WHICH IS NOT LIKE HER**, *and throws out
+  three reasons before she gets the real one on the 28th:* ***I have had a
+  finding in a drawer for a month that only works in a world where somebody
+  takes his boards off him, and this morning somebody did, and the first
+  thing I felt was not sorry.***
+  > **And she makes herself put it down properly, and it is the coldest true
+  > thing she has about herself at eleven:** ***having a use for a thing
+  > before it happens is close enough to wanting it that I am not going to
+  > argue the difference on a road.***
+- **⚠ AND SHE SAYS IT ON THE 30TH:** ***"You said you don't set the fee… There
+  isn't a docket." — "No. There isn't." — "There's nobody upstairs."***
+- **⚠ AND THE ANSWER IS THE MOST HONEST THING HE HAS EVER SAID TO HER, AND
+  HE HAS BEEN CARRYING IT SINCE 6/2:**
+  > ***"I don't know how to ask for money… I have never once said a figure
+  > out loud to a person who was going to pay it. I have watched you do it.
+  > In a yard, in the second month, with a mule. You took twenty-three
+  > hundred off a man in about eleven minutes and I stood four feet away and
+  > I could not have done one part of it."***
+- **And she says the only thing she is completely certain of in that entire
+  month:** ***"Well. That's a thing I can do."***
+- **He does not answer. He gets up and does the mule, which he did at
+  seven** — **and Kimimaro, flatly, to nobody:** ***"He does that… Goes and
+  does a thing that is finished." — "How many times?" — "Nine. Since the
+  ninth."***
+- **1,406 days**, *hand flat on her hip,* **on an open road four days from a
+  town they were thrown out of, with no employer, no boards, no docket and
+  no name to work under** — *and it is the best night's sleep she has had
+  since 17/12.*
+
+**OPEN INTO CHAPTER 18**
+
+1. **⚠ A household of three with no employer**, *and nobody has agreed to
+   anything at any point.*
+2. **⚠ *There's nobody upstairs*** — **and *I don't know how to ask for
+   money*, and *that's a thing I can do***, *and nothing decided.*
+3. **9,541 and no income line since the ninth.**
+4. **⚠ *He isn't anybody's. He's not on a sheet.*** *Which is the rest of
+   the series.*
+5. **A man who said eleven words about Sasago**, *and a room that already
+   knew, and the only thing from that room Tadayoshi never worked out.*
+6. **⚠ Kimimaro does not know what he did**, *and nobody in the household
+   knows he did it* — **still needs a ruling on whether anybody ever does.**
+7. **A woman who never saw him, was right, and whose name he has not got.**
+8. **THE GROUND — a page he headed in one second**, *and a girl who learned
+   it as a route and not a list, and he never told her he watched.*
+9. **The seventh piece, still not started.**
+10. **⚠ *THE GIRL* — four lines and a fifth that is not like them**, *and a
+    page about a boy that stays unheaded for four years.*
