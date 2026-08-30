@@ -630,6 +630,131 @@ is also a will.*
 > boy has ever wanted, delivered** — *and it is a death sentence, and
 > everybody in the room knows it, and one of them says the name anyway.*
 
+#### ⚠ THE MECHANISM, STATED PROPERLY — and it does not break §3.4
+
+**§3.4 says he cannot act without an instruction. That stands, and it is
+permanent, and nothing below weakens it.**
+
+*But §3.4 is about **origination** — deciding, in a situation requiring
+judgement, that a thing should be done.* **It is not about volition in
+general, and the difference is the whole of his development:**
+
+> ## **He cannot originate an action. He can execute a specification. So he starts writing his own.**
+
+**He has not learned to act. He has learned to issue himself orders** —
+*which is the only loophole his architecture permits, and he finds it
+without ever knowing he has found one,* **and from outside there is no
+difference at all, so nobody notices for years.**
+
+| | |
+|---|---|
+| **1** | *He is instructed. He executes.* |
+| **2** | *He observes. He files. **Nothing happens.*** |
+| **3** | ⚠ *He observes → **writes a specification** → executes his own specification* |
+| **4** | ⚠ *He writes one **for somebody else and gives it to them** — and becomes what Tadayoshi was to him* |
+
+---
+
+#### EXAMPLES — the same situations, four points apart
+
+*The way you show development in a character who does not change is to run
+one situation repeatedly and let the reader do the subtraction.*
+
+##### A. Somebody puts food in front of him
+
+| | |
+|---|---|
+| **13** *(`ch16`, PAGE)* | *He eats it. He notes it is hot.* ***Somebody is keeping me in a condition.*** **No second step** |
+| **14** | *He notices she serves him first. Every time. He counts it and files it and it goes nowhere* |
+| **15** | ⚠ *He notices she serves him first and Tadayoshi last, and that Tadayoshi has never remarked on it* — **so Tadayoshi has not noticed.** *First time he knows a thing about somebody that they do not know about themselves* |
+| **16** | ⚠ **He starts serving Tadayoshi.** *Not from feeling. He worked out it was a thing that needed doing and nobody was doing it, wrote that down, and is executing it* |
+
+##### B. The pieces
+
+| | |
+|---|---|
+| **13** *(`ch16`, PAGE)* | *Five in his shirt, no floor to lay them on, and he wants to:* ***a row of five is a thing somebody made, and I made it*** |
+| **14** | *There is a floor now. He lays them out. **He looks at the row for a while**, which is not a use* |
+| **15** | ⚠ **He offers one to Tadayoshi as stock.** *Not a gift — **material**. A maker in crystal and a boy who produces bone, and it is the first transaction between them that is not an instruction* |
+| **16** | *The row is longer and he can no longer remember which one was first* |
+
+> **⚠ AND B15 IS A REAL SCENE, because Tadayoshi has to decide whether to
+> use it** — *and either answer costs him something, and neither of them
+> will say why.*
+
+##### C. Being looked at
+
+| | |
+|---|---|
+| **13** *(`ch15`, PAGE)* | *A man stands in the doorway for forty seconds, twice.* **He counts both and is pleased with the two numbers** |
+| **14** | *He counts how long each person in the household looks at him. The numbers are different and he does not know why* |
+| **15** | ⚠ *Hers has gone down. His has gone up.* **He is right, and neither of them knows, and he has no idea what it means** |
+| **16** | ⚠ **He stops counting** — *and notices that he stopped and cannot say when.* **The first thing he has ever lost that nobody took** |
+
+##### D. Being asked a question — and this is the ladder under the big one
+
+| | |
+|---|---|
+| **13** *(PAGE)* | ***Cold enough for you?*** *— built over two days, carried eleven, never asked again.* **Then the man with the book asks nothing.** ***That is twice.*** **Then Tadayoshi asks, and writes the answer down** |
+| **14** | *He keeps a count of questions asked of him. It is a small number and he knows it exactly* |
+| **15** | ⚠ **HE ASKS ONE.** *Something tiny and operational — what a word means, or which of two roads.* **He rehearses it for four days**, *and the size of the thing he rehearsed for is the point* |
+| **16** | ***Tell me what I am for*** — *formally, standing, rehearsed* (`portraits.md`) |
+
+> **⚠ SO THE BIG QUESTION IS THE TOP OF A LADDER AND NOT A BOLT FROM
+> NOWHERE**, *and it lands about four times harder for it.*
+
+---
+
+#### ⚠ AND HERE IS WHAT A SPECIFICATION ACTUALLY LOOKS LIKE
+
+**This is the concrete thing. He was handed a format and he uses it on
+people, in his head, revised** — *and it is the coldest document in the book
+and the most loving one, and he does not know either.*
+
+> ***NOZAKI UZUKI.***
+>
+> ***For: telling people what to do, out loud.***
+>
+> ***Needs: somebody to tell. Will do it whether or not there is anybody,
+> and then it goes into her own head instead and she is worse for a day.***
+>
+> ***Does: sleeps with a hand flat on her hip. Eats last. Says everything.
+> Puts her weapon down before he asks.***
+>
+> ***Do not: let her be the one who is left with nothing to do.***
+
+> ## ⚠ A SPECIFICATION WITH A *DO NOT* IN IT IS A PERSON WHO HAS BEEN WORRIED ABOUT.
+>
+> **And he has no idea that is what he has written.**
+
+> ***TADAYOSHI RURI.***
+>
+> ***For: the part in the middle.***
+>
+> ***Needs: to be given a number. Any number. Will make one if he is not
+> given one, and will then use the made one.***
+>
+> ***Does: shuts the book before he says anything that is not about work.***
+>
+> ***Do not: be the thing he cannot put in a column.***
+
+> **⚠ AND THAT LAST LINE IS AN INSTRUCTION HE HAS WRITTEN TO HIMSELF, TO BE
+> LEGIBLE, FOR SOMEBODY ELSE'S SAKE.**
+>
+> *It is the whole arc in nine words, and it is filed under **things about
+> them**, and nobody will ever read it.*
+
+---
+
+#### The writing test for any beat in this arc
+
+> **Could you photograph it?**
+>
+> *A count, a row of bone on a floor, a bowl going to one person before
+> another, a man in a doorway for thirty-eight seconds.* **If the beat is a
+> feeling, it is not his. If it is a number or an object or an omission, it
+> is.**
+
 #### WHAT NEVER CHANGES — and this is the discipline
 
 1. **⚠ HE NEVER ACTS UNBIDDEN. NOT ONCE.** *Not at the end, not to save
