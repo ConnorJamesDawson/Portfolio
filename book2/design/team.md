@@ -769,6 +769,145 @@ and the most loving one, and he does not know either.*
 
 ---
 
+### 3.9 ⚠ THE SOCIAL THREAD — and no, he does not get a romance
+
+#### ⚠ THE CALL, AND THE REASON IS §3.8's OWN RULE
+
+**Giving him somebody is the available warmth in a cold book and I would
+refuse it**, *for one reason and it is not taste:*
+
+> **§3.8, hard rule 4: he never wants to live. He wants to have made
+> something. A reader may collapse those. The book may not.**
+>
+> ## **A romance imports a want-to-live through the back door.** *A boy with a sweetheart is a boy with a reason to want more days, and the whole of his arc is that he has not got one and does not miss it.*
+
+**And it breaks `method-delta.md` §2n as well** — *nothing is added.* **A
+romance is the one thread in his life that could not be built out of
+measurement**, *so it would be the book handing him a faculty he does not
+have.*
+
+> **If overruled, it gets built properly and the §3.8 rules get rewritten
+> rather than quietly ignored** — *because the two cannot both stand.*
+
+#### ⚠ BUT PEOPLE GO AFTER HIM, REPEATEDLY, AND THAT IS A DIFFERENT QUESTION
+
+**And the answer there is yes, inevitably, and it is one of the cruellest
+things available to this project.**
+
+*By fifteen he is: strikingly good-looking; quiet; unfailingly attentive;
+he answers exactly what he is asked and never more; he never interrupts; he
+never wants anything; and he does what you tell him.*
+
+| What draws them | What it actually is |
+|---|---|
+| **stillness** | *a room eleven paces by seven, for two years* |
+| **attentiveness** | *a boy who has never once been given anything to do* |
+| **he never interrupts** | **§3.4 — he cannot originate** |
+| **he wants nothing** | ⚠ **the thing that is killing him** |
+| **he does what you say** | *he has never been offered a second option* |
+
+> ## ⚠ HE IS ACCIDENTALLY, CATASTROPHICALLY ATTRACTIVE — AND EVERY QUALITY THAT DRAWS PEOPLE IS A PIECE OF DAMAGE.
+>
+> **Every one of them falls in love with an injury and calls it a
+> temperament.** *Nobody in the book ever says this, and the reader gets it
+> for free from the table above, which is already in the file.*
+
+#### And he cannot receive it, because it is intent
+
+**§3.8: he reads people off omissions and has no idea the category *intent*
+exists.**
+
+> *Somebody standing in front of him broadcasting is the one signal he
+> cannot take.* **He counts it, files it under **things about them**, and
+> gets nothing** — *because there is nothing to count. Nothing is being
+> withheld. It is all being offered.*
+
+**⚠ AND THE SYMMETRY IS EXACT AND NEITHER OF THEM KNOWS:**
+
+| | Reads | Blind to |
+|---|---|---|
+| **Tadayoshi** | *intent* | **people** |
+| **Kimimaro** | *people* | **intent** |
+
+#### ⚠ AND UZUKI TELLS HIM. OUT LOUD. IN FRONT OF THEM.
+
+**Because she says everything** (`portraits.md`) **and because she
+genuinely believes it is information he needs, which it is.**
+
+*It is the funniest thing in four books and it is horrible, and both at
+once, and neither she nor he registers either.*
+
+#### ⚠ AND THEN HE ASKS TADAYOSHI WHAT TO DO — and that is the scene
+
+**He wants a procedure. It is the only thing he knows how to want.**
+*So he asks the person you ask when you need one.*
+
+> ## **The one man alive who cannot perceive interest asks the one man alive who cannot act on it what to do about somebody's interest.**
+>
+> **And Tadayoshi has had a girl beside him saying *boyfriend* to strangers
+> for four years and has never once addressed it** (§10.3–10.4).
+>
+> *The answer will be operational, correct in form, delivered flatly, and
+> completely useless* — **and Kimimaro will follow it exactly, because that
+> is what he does with a specification.**
+
+#### What he concludes, and it is arithmetic and not grief
+
+**He extends §6.3a's finding rather than inventing a new one.**
+
+> ***A thing you are for is a thing that goes on after you.***
+>
+> ***I have got a number.***
+
+**⚠ THAT IS THE ONLY PLACE HIS DYING EVER ENTERS HIS SOCIAL LIFE.** *He
+does not decline out of sadness. He declines because the specification
+would have no review date* — **and he is not being brave and would not have
+understood the word.**
+
+#### The one thing he ever wants of it, and it is about the format
+
+**Not to have somebody. ⚠ To be *in* somebody's.**
+
+*To be a thing that has been written down* — **which is already his register
+of joy and is already PAGE:** *`ch16`, the third question in two years, a
+hundred and forty words about light on a seam, and* ***the boy standing
+over him writes it down.***
+
+> ## ⚠ AND HE ALREADY IS, AND HE NEVER FINDS OUT.
+>
+> **§3.8's page in the ordinary column.** *He wants to be an entry in
+> somebody's book. He has been one for years. He never sees the book.*
+
+---
+
+#### THE SOCIAL EVOLUTION PROPER — and it is not competence
+
+**⚠ HE MUST NOT GET BETTER AT ROOMS.** *§12.1 is permanent: a conversation
+is a sequence of unspecified actions and a room is the one environment where
+his defect is total.* **That is why Hinata exists** *(§12)* **and it does
+not move.**
+
+**So what changes is not skill. It is legibility.**
+
+| | |
+|---|---|
+| **1** | **No social behaviour at all. Only compliance.** *He stands where he is put and answers what he is asked* |
+| **2** | **He acquires procedures by watching**, *and executes them* — *where to stand, when to speak, who gets served first* |
+| **3** | ⚠ **AND PROCEDURES READ AS MANNERS.** *Strangers find him beautifully well brought up.* **He has memorised what to do because he has no idea what to do** |
+| **4** | ⚠ **WHICH IS WORSE, AND THIS IS THE PRICE.** *A boy who seems rude is left alone.* **A boy who seems courteous gets talked to** — *so his social evolution actively increases his exposure to the one thing he cannot do* |
+
+#### And friendship, which is the quiet one
+
+**He has none, and the reason is mechanical:** *friendship requires
+initiating, and §3.4 is permanent.*
+
+> **But people have him as a friend, one-sidedly, and he counts it
+> accurately and cannot name it:** *several of them behave toward him in a
+> way he has no word for and cannot return,* **and he keeps a correct list
+> of them and never works out what the list is.**
+
+---
+
 ## 4. UZUKI — the glass cannon
 
 ### 4.1 What she is
