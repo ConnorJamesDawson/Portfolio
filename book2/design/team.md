@@ -484,6 +484,166 @@ everybody in that room knows both, and nobody says either.**
 
 ---
 
+### 3.8 ⚠ HIS DEVELOPMENT — and it is one instrument, re-aimed four times
+
+**The wrong arc is available and it would destroy him:** *he learns to
+want things, becomes a person, finds a family.* **Refuse it.**
+
+**`method-delta.md` §2n is the shape and it is strict — nothing is added.**
+*Tadayoshi's arc runs on his ledger. Uzuki's runs on her audit.* **His runs
+on the only faculty he has ever had, which is measurement**, *and what
+changes across four books is never the instrument.* **It is what he points
+it at.**
+
+#### The four stages, and the first two are already PAGE
+
+| | He measures | Evidence |
+|---|---|---|
+| **1** | **himself, because there is nothing else** | *bowls, pieces, the room to a thumb, the interval.* ⚠ ***I have got the exact size of a room and I do not know what day it is*** *(`ch13`)* |
+| **2** | **the world, badly, and it does not connect** | *the road under the cart, forty marks on a line* — ***it does not tell me where I am, it tells me what has been under me, and I am not going to pretend that is the same thing*** *(`ch16`)* |
+| **3** | ⚠ **PEOPLE — and this is the turn** | *`ch16`:* ***six. Five of them are one thing and the sixth is another thing, and the five know it*** |
+| **4** | **and then he specifies them** | *below* |
+
+#### ⚠ STAGE 3 — HE READS RELATIONSHIPS OFF OMISSIONS
+
+**`ch16` s4 is the first instance and the prose already calls it what it
+is:** *the first true statement he has ever made about a relationship
+between two people, and it took four minutes, and he had never once been
+given the chance.*
+
+**And look at what it is made of.** *Not a tone of voice, not a look, not a
+kindness.* ⚠ **An absence: three men did not say one word in the sixth
+man's direction in four minutes.**
+
+> ## **He cannot read warmth. He can count what did not happen.**
+
+**And omissions are countable, which makes them the only social data he can
+hold.** *He was given, on his first evening in the household, the second
+instance —* ***there is now a rule with a name in it and I have not been
+given a name*** *— and he read the whole of the structure off a negative.*
+
+> **⚠ WHICH MAKES HIM THE EXACT INVERSE OF TADAYOSHI.**
+>
+> | | Reads | Cannot see |
+> |---|---|---|
+> | **Tadayoshi** | **intent**, below language, off his mother's craft | *the most obvious fact about the person beside him* (§4.4) |
+> | **Kimimaro** | ⚠ **people**, off what does not get said or done | **intent — he has no idea the category exists** |
+>
+> **They are complementary, neither knows it, and neither could explain his
+> own half.**
+
+#### ⚠ STAGE 4 — HE WAS GIVEN A FORMAT, AND HE STARTS USING IT ON EVERYBODY
+
+**`portraits.md`: he asks what he is for, formally, having rehearsed,
+probably standing. Tadayoshi answers with a specification — purpose, scope,
+acceptance criteria, review date — and it is the best thing anybody has ever
+given him.**
+
+*And he is a measurer who has never had an output.* **So he starts keeping
+his own**, *in his head, in the place where things about them go: what each
+person is for, what they need, what they do, revised.*
+
+> ## ⚠ AND THAT IS AFFECTION IN THE ONLY VOCABULARY HE WAS EVER ISSUED.
+>
+> **He does not learn to feel. He learns to specify** — *and the
+> specifications get more accurate and more particular every year, and by
+> the end he holds a complete and correct account of two people that nobody
+> else in the world has,* **and no way to say one word of it that would not
+> sound like a work order.**
+
+*And `portraits.md` already has Uzuki calling the original obscene* — **so
+the household contains one person who thinks the format is an atrocity and
+one who has quietly adopted it as a love language**, *and they are the pair
+that works.*
+
+#### THE WANT — and it is not to live
+
+**`ch16` gave him his first and the prose already found the bottom of it.**
+*He cannot lay the five pieces out in the box, works at it, and gets the
+fourth way round:*
+
+> ***Because when they are on the floor there is a row of them. And a row of
+> five is a thing somebody made, and I made it, and it is the only thing I
+> have ever made.***
+
+> ## **⚠ HIS WANT IS TO HAVE MADE SOMETHING. IT IS NOT TO SURVIVE, AND THE BOOK MUST NEVER LET A READER COLLAPSE THE TWO.**
+
+**Which puts the engine of his arc in direct collision with §3.7:**
+
+| | |
+|---|---|
+| **The household keeps him alive** | **by not using him** |
+| **He wants to be used** | *because being used is the only making available to him* |
+| ⚠ | **and both of them are right** |
+
+#### ⚠ AND HE WILL DETECT THE RESTRICTION, BECAUSE DETECTING IS WHAT HE DOES
+
+**§3.7's cruelty is that enforcing it costs nobody anything — they simply do
+not say his name.** *And §3.8's whole finding is that he reads people off
+omissions.*
+
+> **So the one person in the household who cannot be quietly withheld from
+> is the one they are quietly withholding from.**
+>
+> **He will notice the day Uzuki stops giving him instructions**, *inside a
+> week, off a count* — **and he will read it correctly as *I am not
+> needed*, and she cannot explain it without breaking §3.7's rule 2**, *and
+> she will not.*
+
+#### The register of his joy, and it is small and cold on the surface
+
+**Nobody has ever recorded anything about him.** *`ch16`: he is asked a
+question for the third time in two years, gives a hundred and forty words
+about light on a seam, and* ***the boy standing over him writes it down***
+— **the first item in two years that goes into the place where things about
+people go with no question attached.**
+
+> ## **He is not moved by being cared for. He is moved by being measured back.**
+
+**PROPOSED, and it is the warmest beat available to him:** *Tadayoshi rules
+a page for anything that is a system — the mule got one, and the heading
+took four seconds because a page has to be called something.* **So
+eventually there is a page.**
+
+> **⚠ AND IT IS NOT IN THE OPERATIONAL COLUMN.**
+>
+> *There are two columns and everything about work goes in one of them.*
+> **The day his page goes into the ordinary column is the day he stopped
+> being cargo, and neither of them ever says so** — *and **he** is the one
+> who notices, because he counts everything,* **and he has no idea what it
+> means and files it and it takes him two years.**
+
+#### ⚠ THE TERMINUS — and three separate rulings meet at one word
+
+**The arc completes by inverting its own beginning.** *He was handed a
+specification because he asked what he was for.* **The last one he writes is
+his own** — *and it is the first act of self-authorship of his life and it
+is also a will.*
+
+**And the trigger is `combat.md` §9's doctrine.**
+
+> ***If I don't call your name, don't fight beside me.***
+>
+> ## **So the last measure is spent by Tadayoshi saying his name.**
+>
+> **§9's condition met. §3.7's reserve released. And the only thing this
+> boy has ever wanted, delivered** — *and it is a death sentence, and
+> everybody in the room knows it, and one of them says the name anyway.*
+
+#### WHAT NEVER CHANGES — and this is the discipline
+
+1. **⚠ HE NEVER ACTS UNBIDDEN. NOT ONCE.** *Not at the end, not to save
+   anybody, not for love* (§3.4). **The moment he does, he is a different
+   character and the whole arc is retroactively a lie.**
+2. **He never gets better at rooms** (§12.1). *A conversation is a sequence
+   of unspecified actions and that is permanent.*
+3. **He asks for exactly one thing for himself in four books**, *and it is*
+   ***tell me what I am for***.
+4. **⚠ AND HE NEVER WANTS TO LIVE.** *He wants to have made something.* **A
+   reader may collapse those. The book may not.**
+
+---
+
 ## 4. UZUKI — the glass cannon
 
 ### 4.1 What she is
