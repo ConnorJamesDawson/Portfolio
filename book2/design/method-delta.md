@@ -596,6 +596,67 @@ withdrawn by this, only the licence to imitate it.**
 > withheld, the reveal was a promise and not a find**, *and the reader was
 > being managed.*
 
+### 2o. ⚠ A ROLE IS NOT JUSTIFIED BY A HOLE — AUTHOR
+
+> **AUTHOR:** *"You're doing it again. **He must not get better at rooms** —
+> he can be good/decent at rooms but Hinata can be excellent. Just because
+> someone is there for a reason does not mean there has to be a glaring
+> hole."*
+
+**Correct, and it is the seventh wall of mine and a NEW SPECIES.**
+
+*`falsified.md` logs six — #13, #14, #16, #17, #18, #26 — and every one of
+them capped a character to keep a **rule** clean.* **This one capped a
+character to protect another character's ROLE**, *which is a different
+motive, and it will recur every single time the ensemble grows.*
+
+#### The tell, and it is a sentence shape
+
+> ## ***X exists because nobody else can Y.***
+>
+> **Any sentence of that shape is a cap wearing a casting decision.**
+
+*I wrote it out in `team.md` §12.1 in exactly those words —* **three people
+who cannot be sent to ask for anything** *— and then defended it for
+months.*
+
+#### The replacement, and it is a price and not a wall
+
+> ## **COMPETENCE IS A DISTRIBUTION, NOT A SWITCH.**
+>
+> *Several people are decent. One is excellent.* **And the excellent one's
+> value is the MARGIN, not the monopoly.**
+
+#### ⚠ AND IT MAKES THE SPECIALIST BETTER, WHICH IS THE ARGUMENT THAT MATTERS
+
+| | If nobody else can do it | If everybody can do it adequately |
+|---|---|---|
+| **Her contribution is** | **obvious, unmissable** | ⚠ **invisible** |
+| **Which makes it** | *uninteresting* | **the only kind this book is about** |
+
+**`team.md` §12.2's whole joke depends on the second column.** *Hiashi
+trained her and considered her to have failed.* **If the household needed
+her because nobody else could speak, the joke is dead and she is a plug.**
+*If all three can hold a room and she is still the one who changes what it
+decides, then what she does cannot be seen* — **which is §12.2's own line:**
+***Uzuki taught her nothing. She removed the thing that was in the way.***
+
+#### The test
+
+> **Remove the specialist. Does the group FAIL, or does it merely do
+> WORSE?**
+>
+> **If it fails, you have written a hole. If it does worse, you have
+> written a team.**
+
+#### And the general form, because this will come up again
+
+**Every character may be competent at everything the setting would give
+them.** *What separates them is not what they can do.* **It is what they
+reach for first, what they are willing to pay, and what they cannot help
+doing** — *and all three of those are character, and none of them is a
+cap.*
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's

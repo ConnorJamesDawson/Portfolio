@@ -882,19 +882,48 @@ over him writes it down.***
 
 #### THE SOCIAL EVOLUTION PROPER — and it is not competence
 
-**⚠ HE MUST NOT GET BETTER AT ROOMS.** *§12.1 is permanent: a conversation
-is a sequence of unspecified actions and a room is the one environment where
-his defect is total.* **That is why Hinata exists** *(§12)* **and it does
-not move.**
+> **⚠ THE VERSION THAT STOOD HERE SAID *he must not get better at rooms*.
+> That was a cap written to protect Hinata's role and it is dead** —
+> `method-delta.md` §2o, **AUTHOR:** *he can be good or decent at rooms and
+> Hinata can be excellent; a role is not justified by a hole.*
 
-**So what changes is not skill. It is legibility.**
+**He gets genuinely decent in a room, and it comes off the same faculty as
+everything else, and it is good AND dangerous in the same breath.**
+
+| What he is good at | Why |
+|---|---|
+| ⚠ **listening** | *he counts everything, never interrupts, and has nowhere else to be.* **People tell him things** |
+| **accuracy** | *ask him and get the true answer, complete, first time* |
+| **stillness** | *he does not fidget, fill silence, or perform* — **which in a negotiation reads as strength** |
+| ⚠ **and he reads the room's STRUCTURE better than anybody in the book** | *§3.8, off omissions — who was not spoken to, who deferred, who was not offered a seat* |
+
+| What he cannot do | Why |
+|---|---|
+| **open, steer or close** | **§3.4, and it is permanent** |
+| ⚠ **DECLINE A QUESTION** | *asked something he should not answer, he answers it, completely* |
+| **soften anything** | *he says the measured thing at the measured size and it lands like a dropped plate* (§6.2) |
+
+> ## ⚠ SO THE RISK HE BRINGS TO A ROOM IS NOT INCOMPETENCE. IT IS THAT HE IS COMPLETELY TRUTHFUL AND COMPLETELY UNINTERRUPTIBLE.
+>
+> **You can take him anywhere, and you cannot take him anywhere you have
+> something to hide** — *which is a decision the household has to make every
+> time, and a decision is worth more than a disability.*
+
+**And it re-prices Hinata properly rather than removing her** *(§12.2)*:
+**her craft is saying no without saying no.** ⚠ **His is that he cannot say
+no at all.** *They are not substitutes. They are opposites at one table —
+she manages what gets revealed and he reveals all of it* — **and the best
+use is to send both**, *because he comes out with who deferred to whom and
+she uses it next time, and neither could do the other's half.*
+
+**And what changes across the books is not skill. It is legibility.**
 
 | | |
 |---|---|
 | **1** | **No social behaviour at all. Only compliance.** *He stands where he is put and answers what he is asked* |
 | **2** | **He acquires procedures by watching**, *and executes them* — *where to stand, when to speak, who gets served first* |
 | **3** | ⚠ **AND PROCEDURES READ AS MANNERS.** *Strangers find him beautifully well brought up.* **He has memorised what to do because he has no idea what to do** |
-| **4** | ⚠ **WHICH IS WORSE, AND THIS IS THE PRICE.** *A boy who seems rude is left alone.* **A boy who seems courteous gets talked to** — *so his social evolution actively increases his exposure to the one thing he cannot do* |
+| **4** | ⚠ **AND THAT IS THE PRICE.** *A boy who seems rude is left alone.* **A boy who seems courteous gets asked things** — *and he cannot decline a question, so competence and exposure are the same curve* |
 
 #### And friendship, which is the quiet one
 
@@ -2024,11 +2053,12 @@ one the household has ever had that does not involve hurting anybody.**
 |---|---|---|
 | **Tadayoshi** | **he says the correct thing, to the wrong person, at the wrong volume** | `ch08.md`: *he is not difficult because he is defiant. He is difficult because he is right* — **and correctness is not what a room wants** |
 | **Uzuki** | **she says everything, immediately, with no format at all** | `act-1.md`, her interior grammar. **He offends by accuracy; she offends by candour**, and the door shuts the same either way |
-| **Kimimaro** | **he stands there** | §3.4 — he cannot act without an instruction, **and a conversation is a sequence of unspecified actions.** *A room is the one environment where his defect is total* |
+| **Kimimaro** | ⚠ **he answers it** | *He is decent in a room* (§3.9) — **he listens better than anybody and cannot decline a question.** *So he does not fail by standing there; he fails by telling them* |
 
-> **Three people who cannot be sent to ask for anything.** *That has been
-> true since the household formed and nobody ever named it as a gap,
-> because the gap never had a shape until somebody stood in it.*
+> **⚠ AND THE VERSION THAT STOOD HERE SAID *three people who cannot be
+> sent to ask for anything*. That is dead** — `method-delta.md` §2o.
+> **All three can hold a room. None of them can change what it decides**,
+> *and that difference was invisible until somebody stood in it.*
 
 ### 12.2 What she has, and Uzuki did not teach her any of it
 
