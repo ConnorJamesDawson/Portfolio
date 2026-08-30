@@ -970,6 +970,150 @@ or a cornering.**
 > itself a specification handed to the hunters** (§10), so **there is no
 > configuration where the eyes are free.**
 
+### ⚠ THE LIBRARY, AND THE QUOTATION — AUTHOR
+### And it closes an open ruling in this section
+
+> **AUTHOR:** *"Who was the author of the cycle of hatred? Madara. With the
+> last of the Uchiha, bar Itachi, dead, Tadayoshi should start looking
+> through the Uchiha library for information on the sharingan, only to find
+> transcripts of Madara's philosophy from before he left the village —
+> where it makes sense to Tadayoshi. That the cycle isn't new, it's been
+> happening for centuries, nobody wants to ever fix it because they've
+> spent their entire lives around it. So part of the burden of the
+> sharingan is the knowledge that he has started his own cycle of hatred by
+> doing what the Leaf asked: destroy Oto from the inside and put down
+> Sasuke if he has no intention of returning or reforming… Before their
+> climactic fight, that would be the conversation. Itachi telling him he
+> has already done the same — bigger scale, same reasoning — and that
+> neither can change their fate… He quotes Madara's philosophy word for
+> word, unintentionally telling Itachi that not only did Tadayoshi kill
+> Sasuke, he took his eyes, as Madara's messages can only be read by
+> sharingan. Thus the fight would start."*
+
+#### ⚠ IT ANSWERS THIS SECTION'S OWN OPEN QUESTION WITH A THIRD OPTION
+
+**§7b above asks what makes hiding the eyes stop paying, lists two
+answers, and says it needs ruling because it decides whether the Tsunade
+scene is a choice or a cornering.**
+
+| | |
+|---|---|
+| **A choice** | *he decides the secret has stopped earning* |
+| **A cornering** | *somebody takes it off him* |
+| ⚠ **AUTHOR — an accident** | **he quotes something in an argument, and the quotation is the proof** |
+
+> **And `combat.md` §10c's one-use card is still unspent when the fight
+> starts, because nobody sees anything.** *The tell is textual, not
+> visual.* **What is handed over is not *he has a sharingan* — it is *he
+> has read a document that cannot be read without one*, and Itachi takes
+> the last step himself.**
+
+#### The chain, and it is four steps
+
+1. **He goes into the compound for the sharingan** — *a manual for an organ
+   he was given and has no account of, which is `method-delta.md` §2k
+   running on his side of the book.*
+2. **He finds Madara instead, and reads it**, **and does not know he is the
+   only person alive outside Itachi who could.**
+3. ⚠ **AND IT MAKES SENSE TO HIM.**
+4. **He quotes it at Itachi to win an argument**, *and hands over the whole
+   of it in one sentence.*
+
+#### ⚠ WHY IT GETS IN — and it is not influence, it is recognition
+
+*The claim: the thing is centuries old, self-sustaining, staffed by people
+who have never known anything else, and nobody fixes it because they have
+spent their entire lives inside it.*
+
+> ## **That is a sunk-cost argument.**
+>
+> **And sunk cost is the one thing this boy understands better than anybody
+> in the book** — *`ch14`, on a mule he was not going to sell:*
+> ***a thing you are not going to sell is not money.***
+
+**So he does not adopt it. He recognises it** — *and recognising your own
+argument in the hand of the worst man in the history of the world is worse
+than being persuaded by one.*
+
+> **⚠ AND HE DID NOT GET IT FROM MADARA. HE RE-DERIVED IT** — *out of a
+> workshop, a warrant, a fee series and a hunter file.* **Two independent
+> derivations agreeing is the only external confirmation his doctrine has
+> ever received in his life, and it arrives from a monster, and he can do
+> arithmetic and knows exactly what a second reading is worth.**
+
+#### The two positions, and they are the fight
+
+| | Itachi | Tadayoshi |
+|---|---|---|
+| **The claim** | ***neither of us could have done otherwise*** | ***we both knew the road and we walked it anyway*** |
+| **The evidence** | *a clan, an order, and a life arranged around one brother* | **fifteen years of priced decisions in a book** |
+| **What being right costs him** | **absolution** | ⚠ **authorship of all of it** |
+
+> **⚠ AND HIS IS THE LEAST SUPPORTABLE CLAIM AVAILABLE TO HIM, AND HE MAKES
+> IT AT VOLUME.**
+>
+> **`combat.md` §9: there are minutes of his life he does not attend.** *The
+> creed is a retrofit written over a gap. The doctrine has no reason under
+> it. His entire moral architecture is rules written over things he could
+> not account for.*
+>
+> **He is telling a man that nobody's hand was ever forced while carrying
+> the one piece of evidence that his own is** — *and he cannot produce it,
+> because the threshold has never been written from inside and he has never
+> once been able to describe it.*
+>
+> ## **He wins the argument by omitting the thing that would lose it.**
+
+#### ⚠ AND ACT TWO IS WHERE THE MORAL POSITION GETS INSTALLED
+
+**This is not a new theme for the endgame. It is `ch16`, at scale, three
+books later.**
+
+| | `ch16` | Oto |
+|---|---|---|
+| **The instruction** | ***get the cargo and go*** | *destroy Oto from the inside; put Sasuke down if he will not come back* |
+| **What he does** | **exactly what he was told** | **exactly what he was told** |
+| **What comes out** | *a child in his household* | *a dead brother, and a cycle with his name on it* |
+| **The defence** | ***not disobeying orders — executing them*** (§4) | **the same sentence, and it is Itachi's** |
+
+> **So *I did as I was told* is the spine of act two arriving as the
+> endgame's moral problem** — *and the man who says it back to him is the
+> only person in the world with more of it on his hands.*
+
+#### And what the burden actually is
+
+**AUTHOR:** *part of the burden of the sharingan is the knowledge that he
+has started his own cycle.*
+
+**Note what that is not.** *It is not guilt* — `combat.md` §9, AUTHOR: **he
+does not have that machinery and never needed an excuse.**
+
+> **It is an entry he cannot close.** *And closing entries is the whole of
+> him, and this one has a person's name on it, and a start date, and no end
+> column at all.*
+>
+> **He removed the thing generating entries once before** (§3 — ***not
+> conscience, audit failure***). **There is nothing to remove here.** *The
+> generator is the arrangement; it is centuries old; and the document in
+> his hands says so.*
+
+#### ⚠ TWO THINGS TO RULE BEFORE ANYBODY WRITES IT — PROPOSED
+
+**1. NOT THE STONE TABLET.** *Canon's tablet at the Naka Shrine is
+Hagoromo's, altered by Black Zetsu, and using it drags the Ōtsutsuki plot
+into a series that has no interest in it.* **So: a separate body of
+Madara's own writing, sharingan-locked, in the compound.** *An invention,
+and marked as one* — `canon-cast.md` §1.4 says canon is not bent to fit,
+**and this sets something beside canon rather than reinterpreting it.**
+
+**2. ⚠ HE MUST NEVER LEARN HOW HE READ IT.** *If he knows the text was
+locked, the quotation is a confession and the scene is over.* **He picked
+up a document and read it, and it did not occur to him that anybody could
+not** — *`method-delta.md` §2k: he has been handed an organ with no manual
+and is wrong about a thing he owns.*
+
+> ## **The secret is blown by ignorance of the thing that was keeping it.**
+
 ### ⚠ AND HE TELLS NARUTO TO HIS FACE — AUTHOR
 
 > **AUTHOR: Naruto would not care about Hinata — he is after Sakura until
