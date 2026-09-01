@@ -46,12 +46,28 @@ Roughly $0.03/M in and $0.16/M out, with a 1.3M-token context and up to
 393k completion tokens. At that price a 4,000-word scene off a 4,000-word
 prompt costs well under a cent, so run the comparisons.
 
-**Prefer a dated build over `-latest` for anything you are measuring.**
-An alias silently re-points, and then a change in output quality could be
-your brief or could be a new model underneath you, with no way to tell
-which. That defeats the header this tool writes into every result. Use
-`-latest` for casual drafting and a pinned build whenever you are
-comparing two prompts.
+**`-latest` is safe here, because the tool watches it.** An alias
+re-points without announcing it, and the danger is not the new model —
+it is that a change in output quality becomes unattributable between
+your brief and the model underneath it. Edit the brief the same week the
+alias moves and you will credit or blame the edit for something it did
+not do.
+
+So every result records `requested_model` *and* `served_model`, the
+build OpenRouter actually ran, plus the `generation_id`. The output file
+is named after the served build, and `tools/out/.resolved.json`
+remembers what each alias last resolved to. When that changes, the run
+says so:
+
+```
+!!! deepseek/deepseek-v4-flash-latest previously resolved to ...-0731.
+!!! It now resolves to ...-1104.
+!!! Results before and after this point are NOT comparable.
+```
+
+Pin a dated build anyway if you want a comparison that cannot be
+disturbed mid-experiment — but with the warning in place, `-latest` no
+longer costs you a silent confound.
 
 The 1.3M context also means style samples are effectively free — attach
 several rather than agonising over which two.

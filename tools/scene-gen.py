@@ -150,6 +150,10 @@ def generate(args, messages):
 
     resp = request("/chat/completions", payload, stream=True)
     chunks, finish = [], None
+    # An alias like ...-flash-latest resolves server-side; the response
+    # reports which build actually served the request. Record that, or a
+    # result generated months apart is not reproducible.
+    served, gen_id = None, None
     for raw in resp:
         line = raw.decode("utf-8", "replace").strip()
         if not line.startswith("data:"):
@@ -164,6 +168,8 @@ def generate(args, messages):
         if obj.get("error"):
             print()
             die(f"stream error: {json.dumps(obj['error'], indent=2)}")
+        served = obj.get("model") or served
+        gen_id = obj.get("id") or gen_id
         for choice in obj.get("choices", []):
             piece = (choice.get("delta") or {}).get("content")
             if piece:
@@ -173,17 +179,21 @@ def generate(args, messages):
             if choice.get("finish_reason"):
                 finish = choice["finish_reason"]
     print()
-    return "".join(chunks), finish
+    return "".join(chunks), finish, served, gen_id
 
 
-def save(args, text, finish, request_text, samples):
+def save(args, text, finish, served, gen_id, request_text, samples):
     out_dir = pathlib.Path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     stamp = _dt.datetime.now().strftime("%Y%m%d-%H%M%S")
-    slug = re.sub(r"[^a-z0-9]+", "-", args.model.lower()).strip("-")
+    # Name the file after the build that served it, so an alias does not
+    # collapse two different models into one filename.
+    slug = re.sub(r"[^a-z0-9]+", "-", (served or args.model).lower()).strip("-")
     path = out_dir / f"{stamp}-{slug}.md"
     header = [
-        f"<!-- model: {args.model}",
+        f"<!-- requested_model: {args.model}",
+        f"     served_model: {served or 'unreported'}",
+        f"     generation_id: {gen_id or 'unreported'}",
         f"     temperature: {args.temperature}  max_tokens: {args.max_tokens}",
         f"     brief: {args.brief}",
         f"     samples: {', '.join(p for p, _ in samples) or 'none'}",
@@ -195,6 +205,30 @@ def save(args, text, finish, request_text, samples):
     ]
     path.write_text("\n".join(header) + text.rstrip() + "\n", encoding="utf-8")
     return path
+
+
+def note_drift(args, served):
+    """Say so, loudly, when an alias starts resolving somewhere new.
+
+    Comparing two prompts across a silent model change misattributes the
+    difference to the prompt, so the change has to be visible."""
+    stamp_file = pathlib.Path(args.out_dir) / ".resolved.json"
+    try:
+        seen = json.loads(stamp_file.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        seen = {}
+    previous = seen.get(args.model)
+    if previous and previous != served:
+        print(f"\n!!! {args.model} previously resolved to {previous}.\n"
+              f"!!! It now resolves to {served}.\n"
+              "!!! Results before and after this point are NOT comparable.\n"
+              f"!!! Pin {previous} or {served} to compare prompts.\n",
+              file=sys.stderr)
+    seen[args.model] = served
+    try:
+        stamp_file.write_text(json.dumps(seen, indent=2), encoding="utf-8")
+    except OSError:
+        pass
 
 
 def word_count(text):
@@ -265,13 +299,16 @@ def main():
             print()
         return
 
-    text, finish = generate(args, messages)
+    text, finish, served, gen_id = generate(args, messages)
     if not text.strip():
         die("model returned nothing")
 
-    path = save(args, text, finish, request_text, samples)
+    path = save(args, text, finish, served, gen_id, request_text, samples)
     print(f"\n--- {word_count(text)} words, finish_reason={finish}",
           file=sys.stderr)
+    if served and served != args.model:
+        print(f"--- {args.model} resolved to {served}", file=sys.stderr)
+        note_drift(args, served)
     print(f"--- saved to {path}", file=sys.stderr)
     if finish == "length":
         print("--- truncated: raise --max-tokens", file=sys.stderr)
