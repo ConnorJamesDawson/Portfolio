@@ -29,8 +29,32 @@ Prints id, context length, and per-million input/output price for
 everything matching. Pin the one you want:
 
 ```sh
-export SCENE_GEN_MODEL='deepseek/deepseek-chat'
+export SCENE_GEN_MODEL='deepseek/deepseek-v4-flash-0731'
 ```
+
+### DeepSeek V4 Flash
+
+| Slug | What it is |
+|---|---|
+| `deepseek/deepseek-v4-flash-latest` | alias; re-points to the newest build in the family |
+| `deepseek/deepseek-v4-flash-0731` | the 31 Jul 2026 re-post-trained build |
+| `deepseek/deepseek-v4-flash` | the 0423 preview |
+| `deepseek/deepseek-v4-flash-vision-exp` | vision variant |
+| `deepseek/deepseek-v4-pro` | the larger sibling |
+
+Roughly $0.03/M in and $0.16/M out, with a 1.3M-token context and up to
+393k completion tokens. At that price a 4,000-word scene off a 4,000-word
+prompt costs well under a cent, so run the comparisons.
+
+**Prefer a dated build over `-latest` for anything you are measuring.**
+An alias silently re-points, and then a change in output quality could be
+your brief or could be a new model underneath you, with no way to tell
+which. That defeats the header this tool writes into every result. Use
+`-latest` for casual drafting and a pinned build whenever you are
+comparing two prompts.
+
+The 1.3M context also means style samples are effectively free — attach
+several rather than agonising over which two.
 
 ## Generate
 
