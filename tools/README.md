@@ -89,6 +89,42 @@ reproducible and a bad one is diagnosable.
 `--request @path/to/file.md` reads the ask from a file instead, which
 is easier for anything longer than a sentence.
 
+## Filling a gap inside a scene you already wrote
+
+For an explicit passage that sits *inside* existing prose rather than
+standing as its own scene. Mark the spot:
+
+```
+<!-- GAP: they stop talking. -->
+```
+
+Then:
+
+```sh
+tools/scene-gen.py --fill prose/ch67-scene04.md --splice \
+    --target-words 250 --sample prose/ch73-scene06.md
+```
+
+The tool sends the model the prose either side of the marker — with its
+paragraphing intact — and asks it to bridge them: start where the
+before-text stops, end so the after-text follows without a step, match
+the surrounding sentence rhythm.
+
+**This is the harder case, not the easier one.** A whole scene
+establishes its own footing over two thousand words. A 200-word insert
+sits with finished paragraphs directly above and below it, so any drift
+in rhythm or interior grammar shows at the seam. Showing the model both
+edges is worth more here than any amount of description.
+
+Read both joins before anything else. They are where it fails.
+
+Without `--splice` the fill is printed and saved but the scene is left
+alone. With it, the marker is replaced in place and the original is
+kept beside it as `<file>.pre-fill`.
+
+One marker per run — the tool refuses a file with several, since the
+second fill would be written against prose the first one changed.
+
 ## Options
 
 | Flag | Default | Notes |
@@ -100,6 +136,10 @@ is easier for anything longer than a sentence.
 | `--temperature` / `-t` | `0.9` | |
 | `--top-p` | unset | omitted from the request unless given |
 | `--max-tokens` | `4000` | ~2,800 words; raise for longer scenes |
+| `--fill` / `-f` | — | prose file with a `<!-- GAP: -->` marker |
+| `--context-words` | `400` | prose shown each side of the gap |
+| `--target-words` | `350` | rough length for the fill |
+| `--splice` | — | write the fill in place, keeping `.pre-fill` |
 | `--out-dir` | `tools/out` | |
 | `--dry-run` | — | print the assembled prompt, make no API call |
 

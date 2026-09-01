@@ -52,6 +52,31 @@ If the run warns that an alias re-pointed, tell the user before
 discussing quality — a difference from the last run may be the model,
 not their edit.
 
+### 3a. Inline gaps are a different job
+
+When the explicit passage sits *inside* prose this session wrote, do
+not ask for a whole scene. Write the scene to the edge of the gap, mark
+it, and let the tool bridge the two ends:
+
+```
+<!-- GAP: what happens here -->
+```
+
+```sh
+tools/scene-gen.py --fill prose/ch67-scene04.md --splice
+```
+
+Write the marker text as a director's note — what happens and what it
+has to accomplish — not as a description of the prose you want.
+
+**Judge an insert at its joins first.** A short one is harder than a
+whole scene, because finished paragraphs sit directly above and below
+it and any drift in rhythm shows. If a join reads as a step, that is
+the finding; the content between them is secondary.
+
+`--splice` keeps the original as `<file>.pre-fill`. Check the joins,
+then delete it — do not commit it.
+
 ### 4. Review — this is the part that earns the loop
 
 Read the draft against the fixed canon in section 6 of the brief and

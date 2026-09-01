@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # scene-gen: API keys and generated drafts stay local
 .env
 tools/out/
+
+# scene-gen: pre-fill backups are working files
+*.pre-fill

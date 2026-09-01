@@ -117,6 +117,91 @@ def check_slot(brief, path):
           file=sys.stderr)
 
 
+GAP = re.compile(r"<!--\s*GAP:\s*(.*?)-->", re.S)
+
+
+def split_gap(path, context_words):
+    """Find <!-- GAP: ... --> and return the prose either side of it.
+
+    The model matching a voice does far better shown both edges than
+    told about them, and a seam is what an inline insert fails at."""
+    text = read(path, "gap file")
+    hits = list(GAP.finditer(text))
+    if not hits:
+        die(f"no <!-- GAP: ... --> marker in {path}")
+    if len(hits) > 1:
+        die(f"{len(hits)} GAP markers in {path}; fill one at a time")
+    m = hits[0]
+    return (text, m, m.group(1).strip(),
+            _tail_words(text[:m.start()], context_words),
+            _head_words(text[m.end():], context_words))
+
+
+def _tail_words(text, n):
+    """Last n words, with line breaks intact.
+
+    Slicing the original string rather than rejoining split() keeps the
+    paragraphing -- which is the thing the fill has to match."""
+    words = list(re.finditer(r"\S+", text))
+    return text if len(words) <= n else text[words[-n].start():]
+
+
+def _head_words(text, n):
+    words = list(re.finditer(r"\S+", text))
+    return text if len(words) <= n else text[:words[n - 1].end()]
+
+
+def build_fill_messages(brief, instruction, before, after, target, samples):
+    system = [brief]
+    if samples:
+        system.append(
+            "\n\n---\n\n# STYLE SAMPLES\n\n"
+            "Published prose from this novel. Match the voice, interior\n"
+            "grammar and paragraph rhythm. Do NOT reuse their sentences,\n"
+            "images or beats -- they are a register reference, not source\n"
+            "material to remix."
+        )
+        for path, text in samples:
+            system.append(f"\n\n## SAMPLE: {path}\n\n{text}")
+
+    user = f"""You are filling a gap inside an existing scene. The prose
+either side of it is final and will not be edited, so your passage has
+to join onto both ends without a visible seam.
+
+# WHAT GOES IN THE GAP
+
+{instruction}
+
+# THE PROSE IMMEDIATELY BEFORE THE GAP
+
+{before}
+
+# THE PROSE IMMEDIATELY AFTER THE GAP
+
+{after}
+
+# RULES
+
+- Roughly {target} words. Length is a target, not a quota; a seam that
+  works at two thirds of it beats padding.
+- **Start where the before-text stops.** Do not re-establish position,
+  restate what it already said, or recap the moment leading in. It has
+  happened; the reader was there.
+- **End so the after-text follows without a step.** Read its first
+  sentence and make yours the one it wants to come after.
+- Match the sentence rhythm and paragraph length of the surrounding
+  prose exactly. That, not vocabulary, is what a reader notices.
+- Same interior grammar as the passage around it. If the before-text
+  is in his italics and counting, yours counts too.
+- Output the gap text ONLY. No heading, no framing, no note, and do
+  not repeat any part of the before- or after-text."""
+
+    return [
+        {"role": "system", "content": "".join(system)},
+        {"role": "user", "content": user},
+    ]
+
+
 def build_messages(brief, request_text, samples):
     system = [brief]
     if samples:
@@ -231,6 +316,15 @@ def note_drift(args, served):
         pass
 
 
+def splice(path, text, marker, filled):
+    """Replace the marker in place, keeping the pre-fill copy alongside."""
+    backup = pathlib.Path(f"{path}.pre-fill")
+    backup.write_text(text, encoding="utf-8")
+    merged = text[:marker.start()] + filled.strip() + text[marker.end():]
+    pathlib.Path(path).write_text(merged, encoding="utf-8")
+    return backup
+
+
 def word_count(text):
     return len([w for w in re.split(r"\s+", text) if w])
 
@@ -249,6 +343,11 @@ def main():
   scene-gen.py --model deepseek/deepseek-chat \\
       --request "The morning after ch73 s6. Tsunade POV." \\
       --sample prose/ch73-scene06.md --sample prose/ch70-scene10.md
+
+  # fill a gap inside a scene you have already written, in place.
+  # mark it first:  <!-- GAP: what happens here -->
+  scene-gen.py --fill prose/ch67-scene04.md --splice \
+      --target-words 250 --sample prose/ch73-scene06.md
 """)
     ap.add_argument("--list-models", nargs="?", const="", metavar="FILTER",
                     help="list available models (optional regex filter) "
@@ -260,6 +359,17 @@ def main():
                     help=f"brief file (default: {DEFAULT_BRIEF.name})")
     ap.add_argument("--request", "-r",
                     help="what to write; @path reads it from a file")
+    ap.add_argument("--fill", "-f", metavar="PROSE_FILE",
+                    help="fill a <!-- GAP: ... --> marker in an existing "
+                         "scene, given the prose either side of it")
+    ap.add_argument("--context-words", type=int, default=400,
+                    help="words of prose to show each side of the gap "
+                         "(default: 400)")
+    ap.add_argument("--target-words", type=int, default=350,
+                    help="rough length for the filled gap (default: 350)")
+    ap.add_argument("--splice", action="store_true",
+                    help="write the result back over the marker, keeping "
+                         "a .pre-fill copy of the original")
     ap.add_argument("--sample", "-s", action="append", default=[],
                     metavar="PATH",
                     help="prose file to attach as a style sample "
@@ -276,20 +386,32 @@ def main():
         list_models(args.list_models)
         return
 
-    if not args.request:
-        ap.error("--request is required (or --list-models)")
+    if not args.request and not args.fill:
+        ap.error("one of --request or --fill is required "
+                 "(or --list-models)")
+    if args.request and args.fill:
+        ap.error("--request and --fill are alternatives, not a pair")
+    if args.splice and not args.fill:
+        ap.error("--splice only applies to --fill")
     if not args.model and not args.dry_run:
         ap.error("--model is required; run --list-models to find one")
 
-    request_text = args.request
-    if request_text.startswith("@"):
-        request_text = read(request_text[1:], "request file")
-
     brief = read(args.brief, "brief")
     check_slot(brief, args.brief)
-
     samples = [(p, read(p, "sample")) for p in args.sample]
-    messages = build_messages(brief, request_text, samples)
+
+    gap = None
+    if args.fill:
+        gap = split_gap(args.fill, args.context_words)
+        _, _, instruction, before, after = gap
+        request_text = f"[fill gap in {args.fill}] {instruction}"
+        messages = build_fill_messages(brief, instruction, before, after,
+                                       args.target_words, samples)
+    else:
+        request_text = args.request
+        if request_text.startswith("@"):
+            request_text = read(request_text[1:], "request file")
+        messages = build_messages(brief, request_text, samples)
 
     if args.dry_run:
         for msg in messages:
@@ -312,6 +434,15 @@ def main():
     print(f"--- saved to {path}", file=sys.stderr)
     if finish == "length":
         print("--- truncated: raise --max-tokens", file=sys.stderr)
+
+    if args.splice:
+        full_text, marker = gap[0], gap[1]
+        backup = splice(args.fill, full_text, marker, text)
+        print(f"--- spliced into {args.fill} "
+              f"(original kept at {backup})", file=sys.stderr)
+    elif args.fill:
+        print("--- not spliced; pass --splice to write it in place",
+              file=sys.stderr)
 
 
 if __name__ == "__main__":
