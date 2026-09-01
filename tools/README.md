@@ -125,6 +125,25 @@ kept beside it as `<file>.pre-fill`.
 One marker per run — the tool refuses a file with several, since the
 second fill would be written against prose the first one changed.
 
+## Running it without a laptop
+
+Two routes, and they compose:
+
+**Remote environment egress (the clean one).** In the Claude Code
+environment settings, allow `openrouter.ai` in the network policy and
+set `OPENROUTER_API_KEY` as an environment variable. Remote sessions
+can then run this tool directly, and the whole write-fill-review loop
+happens in one conversation.
+
+**The Actions relay (works with no environment changes).**
+`.github/workflows/scene-fill.yml` runs the fill on a GitHub runner:
+dispatch it with a prose file containing one gap marker, and it
+commits the filled file back to the branch, recording the served model
+in the commit message. One-time setup: add `OPENROUTER_API_KEY` as a
+repository secret (Settings -> Secrets and variables -> Actions). The
+workflow is dispatch-only on purpose -- no push or PR trigger can ever
+reach the secret, and every run is an explicit ask.
+
 ## Options
 
 | Flag | Default | Notes |

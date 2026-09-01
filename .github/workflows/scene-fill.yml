@@ -1,0 +1,76 @@
+# Fills one <!-- GAP: ... --> marker in a prose file by running
+# tools/scene-gen.py on a runner (which, unlike the Claude remote
+# sandbox, has egress to openrouter.ai), then commits the filled file
+# back to the branch it was dispatched on.
+#
+# Needs the OPENROUTER_API_KEY repository secret.
+# workflow_dispatch only, deliberately: no PR or push trigger can ever
+# reach the secret, and every run is an explicit, attributable ask.
+
+name: scene-fill
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Prose file containing one <!-- GAP: ... --> marker"
+        required: true
+      samples:
+        description: Space-separated style-sample files
+        required: false
+        default: prose/ch73-scene06.md prose/ch70-scene10.md
+      target_words:
+        description: Rough word count for the fill
+        required: false
+        default: "350"
+      model:
+        description: OpenRouter model id
+        required: false
+        default: deepseek/deepseek-v4-flash-latest
+
+permissions:
+  contents: write
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fill the gap
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          FILE: ${{ inputs.file }}
+          SAMPLES: ${{ inputs.samples }}
+          TARGET: ${{ inputs.target_words }}
+          MODEL: ${{ inputs.model }}
+        run: |
+          set -euo pipefail
+          args=()
+          for s in $SAMPLES; do args+=(-s "$s"); done
+          python3 tools/scene-gen.py --fill "$FILE" --splice \
+            --target-words "$TARGET" -m "$MODEL" "${args[@]}"
+
+      - name: Commit and push
+        env:
+          FILE: ${{ inputs.file }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- "$FILE"; then
+            echo "tool reported success but $FILE is unchanged" >&2
+            exit 1
+          fi
+          served=$(awk '/served_model:/ {print $2; exit}' \
+            tools/out/*.md 2>/dev/null || true)
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "$FILE"
+          git commit -m "Fill gap in $FILE (scene-gen, ${served:-unreported})"
+          git push
+          {
+            echo "### scene-fill"
+            echo "- file: \`$FILE\`"
+            echo "- served model: \`${served:-unreported}\`"
+            git show --stat --format=oneline HEAD | sed 's/^/    /'
+          } >> "$GITHUB_STEP_SUMMARY"

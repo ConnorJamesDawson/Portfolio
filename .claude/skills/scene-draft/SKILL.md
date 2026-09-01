@@ -11,9 +11,37 @@ has no access to the ledgers, and cannot tell when it has contradicted
 chapter 73.
 
 **Network:** `tools/scene-gen.py` calls OpenRouter and only works where
-egress allows it. In the remote sandbox `openrouter.ai` is blocked and
-the call will fail on CONNECT; say so rather than retrying. Run this
-loop from a local session.
+egress allows it. Probe once with a cheap call (`--list-models`); if
+CONNECT fails, do not retry the direct route -- use the Actions relay
+below. Local sessions, and remote environments whose network policy
+allows `openrouter.ai`, can run the tool directly.
+
+## Remote sessions: the Actions relay
+
+When egress is blocked, the `scene-fill` workflow
+(`.github/workflows/scene-fill.yml`) runs the tool on a GitHub runner
+instead. It needs the `OPENROUTER_API_KEY` repository secret; if a run
+fails on a missing key, tell the user to add it under the repo's
+Actions secrets rather than retrying.
+
+The relay loop, drivable end to end from this session:
+
+1. Write the scene with one `<!-- GAP: ... -->` marker. Commit and
+   push it to the working branch.
+2. Dispatch `scene-fill` via the GitHub MCP actions tools with
+   `ref` = the working branch and `file` = the prose file. Pass
+   samples deliberately, per step 2.
+3. Do not poll in a loop. Schedule one `send_later` check-in a few
+   minutes out; on firing, check the run. If it failed, read the job
+   logs, fix, re-dispatch once the cause is fixed.
+4. On success the runner has pushed a `Fill gap in ...` commit. Pull
+   the branch, then review per step 4 -- joins first.
+5. Land or revise per steps 5-6. Revision = restore the marker with
+   sharper direction, push, re-dispatch.
+
+The runner commits the filled file sight unseen; the review step is
+what stands between the relay and the book. Never skip it because the
+diff "looks fine" in the commit view.
 
 **Key:** `OPENROUTER_API_KEY` must be in the environment. If it is
 missing the tool says so and exits; relay that, do not work around it.
