@@ -5,41 +5,36 @@ Uzuki, age eleven. POV: Uzuki. ~1,900 words.*
 
 ---
 
-She stood up when the dog changed.
+The whole of what she had of him, going past, was that he did not put a
+hand out.
 
-That was the thing she had decided on two days before and she had decided
-on it because she could not decide on the cattle. The cattle were the
-signal he had been given and the cattle went in and she made herself sit
-through it, because going when the cattle went in meant walking into a ford
-with forty head in it, and nobody had thought about that, and she had.
-
-So she gave it the dog.
-
-The dog changed at about the count of ninety and she stood up.
-
----
-
-She put the pack down flat first.
-
-She had worked that out on the seventh. A pack stood on its end is a pack
-somebody is coming back for and a pack lying flat is a thing on the ground,
-and she was not going to leave anything behind her that made a person ask a
-question.
-
-Then she walked past him.
-
-She did not look at him. She had decided on that too, and it had been the
-hardest of the four decisions and she had made it on the eighth in about
-two minutes, and the reasoning had been cold and correct.
+She went by at four feet with the hat on and did not turn her head, and
+that had been the hardest of the four and she had made it on the eighth in
+about two minutes and the reasoning had been cold and correct.
 
 *If I look at him I am a girl checking with somebody.*
 
 *And a girl checking with somebody is a girl who has been sent.*
 
-She went past him at four feet with the hat on and did not turn her head,
-and the whole of what she had of him was that he did not put a hand out,
-and she had four days of walking in which to decide what that meant and
-she used all of them.
+She had four days of walking afterwards in which to decide what the hand
+meant and she used all of them.
+
+---
+
+There had been four of them and three were spent before she was down the
+bank.
+
+**The dog and not the cattle** — because the cattle were the signal he had
+been given, and going when the cattle went in meant walking into a ford
+with forty head in it, and nobody had thought about that and she had.
+**The pack flat and not on its end**, worked out on the seventh, because a
+pack stood up is a pack somebody is coming back for and a pack lying down
+is a thing on the ground, and she was not going to leave anything behind
+her that made a person ask a question. **And not looking at him**, which
+had cost more than the other two together and was already four feet behind
+her.
+
+The fourth one was still running.
 
 ---
 

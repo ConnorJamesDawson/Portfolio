@@ -657,6 +657,111 @@ reach for first, what they are willing to pay, and what they cannot help
 doing** — *and all three of those are character, and none of them is a
 cap.*
 
+### 2p. ⚠ THE POV CUT IS FORWARD-ONLY — AUTHOR
+
+> **AUTHOR:** *"When you switch POVs you backtrack almost every time,
+> unless the POV is going to give some contextual clues. Treat the POV
+> switch as you would in a game. For instance the scene ends with
+> Tadayoshi leaving the room; Uzuki's POV is watching him leave, instead
+> of the conversation before him leaving."*
+
+**Correct, and the audit found it in the current chapters.** *The worst
+is `ch16-scene09`, which opened on a beat `ch16-scene08` had already
+shown and then re-walked the twenty seconds before an entire fight the
+reader had just watched.*
+
+#### The diagnosis, and it is not what it looks like
+
+**The cost is repeated TIME, not repeated information.** *Almost all of
+`ch16-scene09`'s content was new — four decisions, none of them on the
+page before.* **It stalled anyway, because the reader had already spent
+those seconds, and new content on an old clock is still a stall.**
+
+**And the cause is not nervousness about the reader losing the thread.**
+*It is the completeness reflex: a POV scene gets written as that
+character's whole account of the event, and a whole account starts where
+that character's involvement started.* **The retrospective narration
+makes it worse** — *"she has thought about it since" opens at the
+beginning, because that is where somebody telling you about it would
+start.*
+
+> ⚠ **So the failure is a side effect of two things this book is
+> otherwise right about** — *the retrospective voice and one POV per
+> scene.* **That is why it recurs, and why it will keep recurring
+> without a rule: it is not a lapse in the method, it is produced by
+> it.**
+
+#### The rule
+
+> **The cut is forward-only. Scene B's first beat is one scene A could
+> not have contained.**
+
+**The hinge is shared and nothing before it is.** *If A ends on him
+leaving the room, B opens on him going through the door — from inside
+her.* **What A staged, B may REFER to and may not RE-STAGE.**
+
+**The material is not lost, only the clock.** *Her four decisions
+survived the fix — she has them at four feet past him, compressed, while
+she is already moving.* **A rewind is almost never the only place the
+information could go, which is why this is cheap to obey.**
+
+#### The diagnostic
+
+> **Could scene B's opening have been a paragraph in scene A?**
+>
+> **If yes, it is a rewind** — *and the choice is to cut it or to move it
+> into A, where it belonged.*
+
+#### The exception the author named, and its price
+
+**Overlap is allowed when the second POV changes what the first scene
+WAS** — *the reader has to come out of B knowing A meant something other
+than what they thought it meant.* **A second camera angle is not a
+reason. A re-reading is.**
+
+Three conditions, so this is not a hole in the rule:
+
+1. **B delivers the re-read as FINDINGS, not as re-walked action.**
+   *`ch16-scene06` is the legitimate case: she covers the whole of scene
+   5's conversation and stages none of it — four things she got off his
+   hands while he talked.*
+2. **B's clock still ends forward of A's.** *An overlap that also stops
+   where A stopped has bought the chapter nothing.*
+3. ⚠ **One per chapter.** *Two re-reads in eleven scenes is not a device,
+   it is a structure — and the structure is a book that keeps stopping.*
+
+#### And true simultaneity is a different thing, with its own test
+
+**Two POVs in different places across the same span do not overlap, they
+interleave.** *`ch17-scene08` and `ch17-scene09` are the model — a boy
+against a wall in the sun, and a woman four minutes into a room he never
+entered, in the same hour, without one shared beat.*
+
+> **The test: could the two scenes be intercut without either repeating a
+> beat?** *If yes it is simultaneity. If no it is a backtrack in
+> simultaneity's coat.*
+
+#### ⚠ FORWARD-ONLY, and one fix taken
+
+**`§2m`'s precedent applies and the author has already given it once:**
+*no backfill.* **`ch16-scene09` was fixed because it is the instance the
+author pointed at and it cost thirteen lines** — *and it removed a
+continuity error on the way out, because the old opening had the dog
+change at the count of ninety and `ch16-scene08` has it at about ten.*
+
+**`ch14-scene05` is the other one and it stays.** *She re-enters the
+Deguchi yard from the first four words of a conversation scene 4 had
+finished.* **It would not pass now. It is PAGE and it is not a style
+model** — *the same status `§2m` gave act one's combat.*
+
+#### What does NOT change
+
+**The three-thread structure and the one-POV-per-scene rule.** *Threads
+still run on their own clocks (`§2h`) and a Kimimaro scene beside a
+Tadayoshi scene is not a POV cut at all — it is a different thread, and
+its date is its own.* **This rule binds cuts WITHIN a thread's span, and
+between two POVs who were in the same place at the same time.**
+
 ### 2j. ⚠ A CHAPTER PLAN IS NOT CANON. THE PROSE IS.
 
 **Found in ch10 scene 9, and it was mine.** I needed the hunter file's
